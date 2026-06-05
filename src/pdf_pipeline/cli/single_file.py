@@ -4,10 +4,10 @@ from frequency_analyzer import FrequencyAnalyzer
 from adaptive_filter import AdaptiveFilter
 from pattern_analyzer import FileAnalysisResult
 from pattern_analyzer import MultiFilePatternAnalyzer
-from modules.path_manipulation import dst_exists
-from modules.dict_opers import dict2list, sorted_dict_2, list_in_dict
-from modules.file_opers import file_write, read_pickles
-from modules.time_oper import start_time, end_time
+from src.pdf_pipeline.utils.path_ops import dst_exists
+from src.pdf_pipeline.utils.dict_ops import dict2list, sorted_dict_2, list_in_dict
+from src.pdf_pipeline.utils.file_ops import file_write, read_pickles
+from src.pdf_pipeline.utils.time_ops import start_time, end_time
 from reorganize_files import create_dst_dirs, reorganize_files, pdf_files
 from pathlib import Path, PurePath
 from os.path import join, exists, expanduser as home

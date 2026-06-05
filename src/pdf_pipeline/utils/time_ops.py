@@ -1,4 +1,4 @@
-from modules.file_opers import file_write, file_read_yield
+from .file_ops import file_write, file_read_yield
 from datetime import datetime as dt2
 from time import time
 from icecream import ic

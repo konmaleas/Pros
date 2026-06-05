@@ -1,4 +1,4 @@
-from modules.string_manipulation import singling_symbols, replacer_2
+from src.pdf_pipeline.utils.text_ops import singling_symbols, replacer_2
 from dataclasses import dataclass, field
 from pathlib import Path
 from typing import List, Dict, Tuple

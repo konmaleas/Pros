@@ -1,8 +1,8 @@
 # Version 1.3
 from typing import Any, Generator
 
-from modules.path_manipulation import path_sym
-from modules.string_manipulation import reconstruct_str
+from .path_ops import path_sym
+from .text_ops import reconstruct_str
 from os.path import join, exists
 from os import listdir
 from platform import system

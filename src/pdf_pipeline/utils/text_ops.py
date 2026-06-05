@@ -1,6 +1,6 @@
 # Version 3.0
-from modules.path_manipulation import path_sym
-from modules.dict_opers import sorted_counter
+from .path_ops import path_sym
+from .dict_ops import sorted_counter
 from curses.ascii import ispunct, isspace
 from os.path import exists
 from pathlib import Path

@@ -1,7 +1,6 @@
-from modules.letter_conversion import conversion
-from modules.string_manipulation import replacer
-# from modules.path_manipulation import slash_conv
-from modules.file_opers import file_read
+from .letter_conversion import conversion
+from .text_ops import replacer
+from .file_ops import file_read
 from time import time, ctime, strptime, strftime
 from os.path import join, exists, getctime, getmtime
 from datetime import date, timedelta, datetime as dt2
