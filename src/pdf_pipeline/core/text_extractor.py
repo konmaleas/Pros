@@ -1,7 +1,5 @@
 from dataclasses import dataclass
 from pathlib import Path
-from typing import List, Dict, Tuple
-from collections import Counter
 import fitz  # PyMuPDF
 
 

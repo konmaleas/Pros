@@ -230,26 +230,12 @@ def process_with_adaptive_filtering(file_path, title: str) -> tuple[List[List[st
     """
     Complete pipeline: Stages 1A + 1B + 2 + 3
 
-    Args:
-        file_path: Path to PDF file
-        title: Document title (e.g., "4005-RES-VAP-DWG-233-IC-07020-0")
-
-    Returns:
-        Tuple of (filtered_lines, filtering_stats)
+    NOTE: Stubbed during the restructure. This helper depended on
+    ``frequency_analyzer.get_filtering_data()``, which was never implemented in
+    this codebase. Restore that function (or build the ``filtering_data`` dict
+    here from FrequencyAnalyzer) to re-enable it.
     """
-    # Import from previous stage
-    from frequency_analyzer import get_filtering_data
-
-    # Stages 1A, 1B, 2: Get processed text and frequency data
-    filtering_data = get_filtering_data(file_path, title)
-
-    # Stage 3: Apply adaptive filtering
-    filter_processor = AdaptiveFilter(title_chunks=filtering_data['title_chunks'],
-            noise_threshold=filtering_data['noise_threshold'])
-
-    filtered_lines = filter_processor.filter_text_lines(filtering_data['processed_lines'], filtering_data)
-
-    # Get filtering statistics
-    stats = filter_processor.get_filtering_stats()
-
-    return filtered_lines, stats
+    raise NotImplementedError(
+        "process_with_adaptive_filtering requires frequency_analyzer.get_filtering_data(), "
+        "which is not implemented."
+    )

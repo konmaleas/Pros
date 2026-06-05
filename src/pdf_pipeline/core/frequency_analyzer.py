@@ -1,10 +1,5 @@
-from text_processor import TextProcessor
-from text_extractor import TextExtractor
 from dataclasses import dataclass, field
-from pathlib import Path
-from typing import List, Dict, Tuple
-from collections import Counter
-import fitz  # PyMuPDF
+from typing import Dict, List, Tuple
 
 
 @dataclass
