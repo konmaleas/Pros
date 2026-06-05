@@ -1,0 +1,200 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-807-0A_-_SHRED_ROOM.pdf ===
+
+Line   0: GL
+Line   1: CEILING LEVEL
+Line   2: SHRED
+Line   3: ROOM
+Line   4: 00 045
+Line   5: CEILING TYPE
+Line   6: UNDERSIDE METAL
+Line   7: ROOF DECK
+Line   8: LT MEDITE LINER
+Line   9: WT
+Line  10: WT
+Line  11: CEILING TYPE 04 ARMSTRONG
+Line  12: PRIMA DUNE
+Line  13: ASSOCIATED GRID SUPPORT
+Line  14: POWER FLOATED
+Line  15: CONCRETE SEALED
+Line  16: ASHFORD FORMULA SEALER
+Line  17: VINYL COVED UPSTAND
+Line  18: PREFINISHED STEEL
+Line  19: FIREMASTER WALLS
+Line  20: 1525
+Line  21: 3500
+Line  22: WT
+Line  23: 3500
+Line  24: GL
+Line  25: CEILING LEVEL
+Line  26: SHRED
+Line  27: ROOM
+Line  28: 00 045
+Line  29: LT MEDITE LINER
+Line  30: ID AD 052
+Line  31: WT
+Line  32: WT
+Line  33: CEILING TYPE 04 ARMSTRONG
+Line  34: PRIMA DUNE
+Line  35: ASSOCIATED GRID SUPPORT
+Line  36: POWER FLOATED
+Line  37: CONCRETE SEALED
+Line  38: ASHFORD FORMULA SEALER
+Line  39: VINYL COVED UPSTAND
+Line  40: 3500
+Line  41: 1525
+Line  42: WT
+Line  43: PREFINISHED STEEL
+Line  44: FIREMASTER WALLS
+Line  45: GL
+Line  46: CEILING LEVEL
+Line  47: SHRED
+Line  48: ROOM
+Line  49: 00 045
+Line  50: CEILING TYPE
+Line  51: UNDERSIDE METAL ROOF
+Line  52: DECK
+Line  53: CEILING TYPE 04 ARMSTRONG
+Line  54: PRIMA DUNE
+Line  55: ASSOCIATED GRID SUPPORT
+Line  56: LT MEDITE LINER
+Line  57: WT
+Line  58: WT
+Line  59: POWER FLOATED
+Line  60: CONCRETE SEALED
+Line  61: ASHFORD FORMULA SEALER
+Line  62: VINYL COVED UPSTAND
+Line  63: 3500
+Line  64: 1525
+Line  65: WT
+Line  66: PREFINISHED STEEL
+Line  67: FIREMASTER WALLS
+Line  68: GL
+Line  69: CEILING LEVEL
+Line  70: WT
+Line  71: SHRED
+Line  72: ROOM
+Line  73: 00 045
+Line  74: WT
+Line  75: LT MEDITE LINER
+Line  76: CEILING TYPE 04 ARMSTRONG
+Line  77: PRIMA DUNE
+Line  78: ASSOCIATED GRID SUPPORT
+Line  79: PREFINISHED STEEL
+Line  80: FIREMASTER WALLS
+Line  81: POWER FLOATED
+Line  82: CONCRETE SEALED
+Line  83: ASHFORD FORMULA SEALER
+Line  84: VINYL COVED UPSTAND
+Line  85: 1525
+Line  86: 3500
+Line  87: WT
+Line  88: 4
+Line  89: 2
+Line  90: SHRED ROOM
+Line  91: 00 045
+Line  92: 6668
+Line  93: 2748
+Line  94: 1880
+Line  95: 2040
+Line  96: POWER FLOATED
+Line  97: CONCRETE SEALED
+Line  98: ASHFORD FORMULA SEALER
+Line  99: WT
+Line 100: WT
+Line 101: LT
+Line 102: LT
+Line 103: ID AD 052
+Line 104: 3850
+Line 105: WT
+Line 106: LT
+Line 107: WT
+Line 108: LT
+Line 109: NOTE
+Line 110: WALL TYPE LEGEND REFER DRAWING
+Line 111: ADMIN
+Line 112: COLO
+Line 113: COLO 2
+Line 114: 2
+Line 115: 4
+Line 116: 2
+Line 117: 4
+Line 118: TRUE NORTH
+Line 119: Sheet Title Number
+Line 120: Scale
+Line 121: Plan
+Line 122: Design Consultants
+Line 123: Microsoft
+Line 124: DATA CENTER
+Line 125: SPATA GREECE
+Line 126: Contractor Joint Venture
+Line 127: Name
+Line 128: Contractor Project
+Line 129: Contractor Contract
+Line 130: Contractor PM
+Line 131: Contractor BIM Mngr
+Line 132: Contractor Information
+Line 133: Renco Terna
+Line 134: Client
+Line 135: General Notes
+Line 136: Client Project
+Line 137: Client Contract
+Line 138: Client PM
+Line 139: Client BIM Mngr
+Line 140: Primary Client Information
+Line 141: Layout
+Line 142: Revision
+Line 143: Tombazi Chalandri
+Line 144: 15232
+Line 145: Athens Greece
+Line 146: 0800 3262
+Line 147: Agion Theodoron Square Athens
+Line 148: 10561
+Line 149: Athens Greece
+Line 150: Kimithois Agios Dimitrios
+Line 151: 17236
+Line 152: Athens Greece
+Line 153: Purpose Issue
+Line 154: Issue
+Line 155: Name
+Line 156: SHRED ROOM
+Line 157: VAP AH
+Line 158: SCALE
+Line 159: 06 SHRED ROOM ELEVATION NORTH
+Line 160: SCALE
+Line 161: 06 SHRED ROOM ELEVATION EAST
+Line 162: 2
+Line 163: SCALE
+Line 164: 06 SHRED ROOM ELEVATION SOUTH
+Line 165: SCALE
+Line 166: 06 SHRED ROOM ELEVATION WEST
+Line 167: 4
+Line 168: SCALE
+Line 169: 06 SHRED ROOM FLOOR PLAN
+Line 170: SCALE
+Line 171: 06 SHRED ROOM VIEW
+Line 172: 1000
+Line 173: SCALE
+Line 174: EQUIPMENT SCHEDULE SHRED ROOM
+Line 175: Count
+Line 176: CODE
+Line 177: Description
+Line 178: Room Name
+Line 179: Room Number
+Line 180: WORK CHAIR ARMS
+Line 181: SHRED ROOM
+Line 182: 00 045
+Line 183: HEIGHT ADJUSTABLE RECTANGULAR DESK ACOUSTIC DESK SCREEN
+Line 184: CPU HOLDER
+Line 185: SHRED ROOM
+Line 186: 00 045
+Line 187: 1800 BULK RACK
+Line 188: SHRED ROOM
+Line 189: 00 045
+Line 190: Date
+Line 191: Description
+Line 192: 04
+Line 193: Issued Approval
+Line 194: VAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 195

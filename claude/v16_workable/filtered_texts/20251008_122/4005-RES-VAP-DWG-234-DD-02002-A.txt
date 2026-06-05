@@ -1,0 +1,194 @@
+=== FILTERED TEXT FOR: 4005-RES-VAP-DWG-234-DD-02002-A.pdf ===
+
+Line   0: AB
+Line   1: 02
+Line   2: 03
+Line   3: 04
+Line   4: 05
+Line   5: 06
+Line   6: 07
+Line   7: 08
+Line   8: 09
+Line   9: AC
+Line  10: AD
+Line  11: AE
+Line  12: AF
+Line  13: AG
+Line  14: AH
+Line  15: AI
+Line  16: AJ
+Line  17: AK
+Line  18: AL
+Line  19: AM
+Line  20: BA
+Line  21: BB
+Line  22: BC
+Line  23: BD
+Line  24: BE
+Line  25: BF
+Line  26: BG
+Line  27: BH
+Line  28: BI
+Line  29: BJ
+Line  30: BK
+Line  31: BL
+Line  32: BM
+Line  33: BN
+Line  34: C
+Line  35: 04002
+Line  36: 04003
+Line  37: 04004
+Line  38: RAMP
+Line  39: RAMP
+Line  40: RAMP
+Line  41: ACCESS FIREFIGHTER
+Line  42: GENERATOR
+Line  43: SITE BOUNDARY
+Line  44: SETBACK LINE
+Line  45: CORE
+Line  46: SUBJECT
+Line  47: REVIEW
+Line  48: CORE
+Line  49: SUBJECT
+Line  50: REVIEW
+Line  51: CORE C
+Line  52: SUBJECT
+Line  53: REVIEW
+Line  54: CORE
+Line  55: SUBJECT
+Line  56: REVIEW
+Line  57: CORE
+Line  58: SUBJECT
+Line  59: REVIEW
+Line  60: VENTILATION
+Line  61: Μηχανοστάσιο
+Line  62: CORRIDOR
+Line  63: Διάδρομος
+Line  64: CORRIDOR
+Line  65: Διάδρομος
+Line  66: CORRIDOR
+Line  67: Διάδρομος
+Line  68: CORRIDOR
+Line  69: Διάδρομος
+Line  70: FIREFIGHTING
+Line  71: Μηχανοστάσιο
+Line  72: PARKING
+Line  73: Χώρος
+Line  74: FF TANK
+Line  75: Δεξαμενή
+Line  76: FF TANK
+Line  77: Δεξαμενή
+Line  78: CORRIDOR
+Line  79: Διάδρομος
+Line  80: POTABLE WATER TANKS
+Line  81: Δεξαμενές
+Line  82: WATER SUPPLY
+Line  83: TANKS
+Line  84: Αντλιοστάσιο
+Line  85: BUILDING JOINT
+Line  86: Ground
+Line  87: CORRIDOR
+Line  88: Διάδρομος
+Line  89: PARKING
+Line  90: Χώρος
+Line  91: IRRIGATION TANKS
+Line  92: Δεξαμενή
+Line  93: VENTILATION
+Line  94: Μηχανοστάσιο
+Line  95: SHAFT
+Line  96: Φρεάτιο
+Line  97: AMENITIES
+Line  98: Μηχανοστάσιο
+Line  99: 750
+Line 100: ΠΡΑΣΙΑ
+Line 101: 40
+Line 102: ΓΕΝΙΚΕΣ ΣΗΜΕΙΩΣΕΙΣ GENERAL NOTES
+Line 103: ΕΓΓΡΑΦΑ ΑΝΑΦΟΡΑΣ DOCUMENT REFERENCE
+Line 104: ΤΙΤΛΟΣ ΣΧΕΔΙΟΥ DRAWING TITLE
+Line 105: ΚΩΔΙΚΟΣ ΕΓΓΡΑΦΟΥ ΣΧΕΔΙΟΥ DOCUMENT DRAWING CODIFICATION
+Line 106: Project
+Line 107: Originator
+Line 108: Type
+Line 109: Discipline
+Line 110: Stage
+Line 111: Serial Number
+Line 112: Revision
+Line 113: ΚΛΙΜΑΚΑ SCALE
+Line 114: ΔΙΑΤΑΞΗ LAYOUT
+Line 115: REV.
+Line 116: DATE
+Line 117: ISSUE
+Line 118: DESCRIPTION UPDATE VERSION
+Line 119: ORIGINATED
+Line 120: CHECKED
+Line 121: VERIFIED
+Line 122: LEAD DESIGNER
+Line 123: APPROVED
+Line 124: PMC
+Line 125: STATUS
+Line 126: ΣΥΜΒΟΥΛΟΣ ΔΙΑΧΕΙΡΙΣΗΣ ΕΡΓΟΥ
+Line 127: PROJECT MANAGEMENT CONSULTANT
+Line 128: ΣΤΟΙΧΕΙΑ ΣΥΜΒΟΥΛΟΥ ΔΙΑΧΕΙΡΙΣΗΣ ΕΡΓΟΥ
+Line 129: PROJECT MANAGEMENT CONSULTANT DETAILS
+Line 130: ΚΥΡΙΟΣ ΜΕΛΕΤΗΤΗΣ LEAD DESIGNER
+Line 131: ΣΤΟΙΧΕΙΑ ΜΕΛΕΤΗΤΗ LOCAL ARCHITECT
+Line 132: SUBCONSULTANT STRUCTURE
+Line 133: ΕΡΓΟΔΟΤΗΣ EMPLOYER
+Line 134: ΣΤΟΙΧΕΙΑ ΕΡΓΟΔΟΤΗ EMPLOYER DETAILS
+Line 135: ΑΝΑΠΤΥΞΗ ΤΟΥ ΜΗΤΡΟΠΟΛΙΤΙΚΟΥ ΠΟΛΟΥ ΕΛΛΗΝΙΚΟΥ ΑΓIOY ΚΟΣΜΑ
+Line 136: DEVELOPMENT METROPOLITAN POLE HELLINIKON AG. KOSMAS
+Line 137: ΕΡΓΟ PROJECT
+Line 138: ΕΛΛΗΝΙΚΟ HELLINIKON
+Line 139: Kifisias Avenue Golden Hall
+Line 140: 15123 Marousi
+Line 141: Σημείωση Πνευματικών Δικαιωμάτων. 2121 1993
+Line 142: ΕΛΛΗΝΙΚΟ
+Line 143: Ρήτρα Περιορισμού Ευθύνης.
+Line 144: ΕΛΛΗΝΙΚΟ
+Line 145: ΝΑ ΜΗΝ ΑΛΛΑΧΘΕΙ ΚΛΙΜΑΚΑ ΤΟΥ ΣΧΕΔΙΟΥ.
+Line 146: Copyright Notice. 2121 1993
+Line 147: HELLINIKON
+Line 148: Disclaimer. HELLINIKON
+Line 149: CHANGE SCALE DRAWING.
+Line 150: BIG.
+Line 151: BIG
+Line 152: Preliminary Design
+Line 153: SUBCONSULTANT MEP
+Line 154: SUBCONSULTANT LANDSCAPE
+Line 155: SUBCONSULTANT TRAFFIC
+Line 156: SUBCONSULTANT LIGHTING
+Line 157: SUBCONSULTANT ACOUSTICS
+Line 158: SUBCONSULTANT SUSTAINABILITY
+Line 159: SUBCONSULTANT SIGNAGE
+Line 160: Όλες
+Line 161: BIG.
+Line 162: BIG
+Line 163: Όλες
+Line 164: Preliminary Design
+Line 165: URBAN ZONE
+Line 166: ARCHITECTURAL DESIGN Permit Design
+Line 167: ΑΡΧΙΤΕΚΤΟΝΙΚΟΣ ΣΧΕΔΙΑΣΜΟΣ Οριστική Μελέτη
+Line 168: MODEL MDD 234 DD 0001
+Line 169: BJARKE INGELS GROUP BIG
+Line 170: AVINGUDA DA LES DRASSANES
+Line 171: 08001 BARCELON, SPAIN
+Line 172: HELLINIKON
+Line 173: High Rise Residential Development
+Line 174: UNITS PARKING ALLOCATION
+Line 175: RES
+Line 176: VAP
+Line 177: DWG
+Line 178: 234
+Line 179: DD
+Line 180: 02002
+Line 181: 4005
+Line 182: High Rise Residential Development
+Line 183: ΔΙΑΜΕΡΙΣΜΑΤΑ ΑΝΤΙΣΤΟΙΧΙΣΗ ΑΠΟΘΗΚΩΝ ΚΑΙ ΣΤΑΘΜΕΥΣΗΣ
+Line 184: ΦΥΛΛΟ SHEET 02002
+Line 185: 09 2023
+Line 186: First Approval
+Line 187: VAP
+Line 188: BIG
+
+=== END OF FILTERED TEXT ===
+Total lines: 189

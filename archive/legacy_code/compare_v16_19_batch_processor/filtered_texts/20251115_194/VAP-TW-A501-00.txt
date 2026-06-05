@@ -1,0 +1,47 @@
+=== FILTERED TEXT FOR: VAP-TW-A501-00.pdf ===
+
+Line   0: Level
+Line   1: Level
+Line   2: Level
+Line   3: Level 2
+Line   4: Level
+Line   5: 4
+Line   6: 2
+Line   7: 4
+Line   8: 2
+Line   9: REVISIONS
+Line  10: CLIENT
+Line  11: PROJECT
+Line  12: DESIGN STAGE
+Line  13: DATE
+Line  14: SCALE
+Line  15: FILE NAME
+Line  16: DRAWING TITLE
+Line  17: DRAWING
+Line  18: TAHLIA WALK
+Line  19: VAPARCHITECTS
+Line  20: Epirou Street
+Line  21: Athens, GR Greece
+Line  22: 3262
+Line  23: 3269
+Line  24: DESIGN ARCHITECTS
+Line  25: CONSULTANTS
+Line  26: STUDIO
+Line  27: Isavron
+Line  28: Lycabettus
+Line  29: Athens, GR 11471 Greece
+Line  30: ZAD DEVELOPMENT
+Line  31: STRUCTURAL ENGINEER
+Line  32: MEP ENGINEER
+Line  33: 1000
+Line  34: 01 PM
+Line  35: Perspective Views
+Line  36: Detail Design
+Line  37: 1602 TW 00
+Line  38: Description
+Line  39: Date
+Line  40: First
+Line  41: 07
+
+=== END OF FILTERED TEXT ===
+Total lines: 42

@@ -1,0 +1,81 @@
+HOW TO MIGRATE YOUR PROJECT STRUCTURE
+======================================
+
+BEFORE YOU START:
+-----------------
+1. Close all files in PyCharm
+2. Make sure no scripts are running
+3. This script COPIES files (doesn't delete originals), so it's safe
+
+
+HOW TO RUN:
+-----------
+1. Copy migrate_structure.py to your project root:
+   /home/konstantinos/PycharmProjects/Pros/
+
+2. Open terminal in PyCharm (Alt+F12) or your system terminal
+
+3. Navigate to project:
+   cd /home/konstantinos/PycharmProjects/Pros
+
+4. Run the script:
+   python migrate_structure.py
+
+
+WHAT IT DOES:
+-------------
+✓ Creates new organized directory structure
+✓ Copies core modules from v16_workable to src/pdf_pipeline/core/
+✓ Copies CLI scripts to src/pdf_pipeline/cli/
+✓ Copies utilities from modules/ to src/pdf_pipeline/utils/
+✓ Moves chat summaries to notes/chat_summaries/
+✓ Copies output files to output/ directory
+✓ Moves old version directories to archive/legacy_code/
+✓ Creates configuration files (constants.py, pipeline_config.py)
+✓ Creates .gitignore file
+✓ Creates README.md with project documentation
+✓ Generates migration log in notes/migration_log.txt
+
+IMPORTANT:
+✓ v16_workable is PRESERVED - moved to archive/legacy_code/v16_workable
+✓ Original files are NOT deleted (copies made)
+✓ Full log of all actions saved
+
+
+AFTER MIGRATION:
+----------------
+1. Check notes/migration_log.txt for what was moved
+2. Verify v16_workable is in archive/legacy_code/
+3. Test the new structure works
+4. Once satisfied, you can manually delete the old claude/ directory
+
+NEW STRUCTURE:
+--------------
+src/pdf_pipeline/          ← All your code here now
+├── core/                  ← Pipeline stages (extractor, processor, etc.)
+├── models/                ← Dataclasses (to be added)
+├── utils/                 ← Utility functions
+└── cli/                   ← Command-line scripts
+
+tests/                     ← Unit tests (to be added)
+data/                      ← Input PDFs
+output/                    ← All results
+config/                    ← Configuration files
+docs/                      ← Documentation
+archive/legacy_code/       ← Old versions (including v16_workable)
+notes/                     ← Chat logs, debug notes
+
+
+TROUBLESHOOTING:
+----------------
+If error occurs:
+1. Check the console output - it shows exactly what failed
+2. Check notes/migration_log.txt for detailed log
+3. Nothing is deleted, so you can just fix and re-run
+
+The script is idempotent - safe to run multiple times.
+
+
+QUESTIONS?
+----------
+Review the migration_log.txt after running to see exactly what happened.

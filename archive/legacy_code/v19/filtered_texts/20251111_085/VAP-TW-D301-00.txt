@@ -1,0 +1,101 @@
+=== FILTERED TEXT FOR: VAP-TW-D301-00.pdf ===
+
+Line   0: Level
+Line   1: Level
+Line   2: Level
+Line   3: Level
+Line   4: Level
+Line   5: Detail
+Line   6: Scale
+Line   7: Detail
+Line   8: Scale
+Line   9: Detail
+Line  10: Scale
+Line  11: Detail
+Line  12: Scale
+Line  13: Detail
+Line  14: Scale
+Line  15: Marble Skirting
+Line  16: Stone Adhesive
+Line  17: Hardened Mastic
+Line  18: Polystyrene Tape
+Line  19: Plaster Stop Bead
+Line  20: Concrete Screed
+Line  21: Plaster
+Line  22: Marble Skirting
+Line  23: Stone Adhesive
+Line  24: Hardened Mastic
+Line  25: Polystyrene Tape
+Line  26: Plaster
+Line  27: Marble Skirting
+Line  28: Stone Adhesive
+Line  29: Hardened Mastic
+Line  30: Polystyrene Tape
+Line  31: Plaster
+Line  32: Mildew NS NT
+Line  33: Water Resistant Coat
+Line  34: Joint
+Line  35: Ceramic Tiles Type
+Line  36: Water Resistant Coat
+Line  37: Epoxy
+Line  38: Detail
+Line  39: Scale
+Line  40: Detail
+Line  41: Scale
+Line  42: Detail
+Line  43: Scale
+Line  44: Gres Tile Skirting
+Line  45: Mildew NS NT
+Line  46: Ceramic Adhesive
+Line  47: Plaster
+Line  48: Polystyrene Tape
+Line  49: Wood Panel Plywood
+Line  50: Suspension Fitting
+Line  51: Plaster Concrete Masonry Wall
+Line  52: Wooden Piece
+Line  53: Elastic
+Line  54: Cement Screed Skirting
+Line  55: Stone Adhesive
+Line  56: Hardened Mastic
+Line  57: Polystyrene Tape
+Line  58: Plaster
+Line  59: Bituminous
+Line  60: Detail
+Line  61: Scale
+Line  62: Plaster
+Line  63: Plaster
+Line  64: Hardened Mastic
+Line  65: Polystyrene Tape
+Line  66: REVISIONS
+Line  67: CLIENT
+Line  68: PROJECT
+Line  69: DESIGN STAGE
+Line  70: DATE
+Line  71: SCALE
+Line  72: FILE NAME
+Line  73: DRAWING TITLE
+Line  74: DRAWING
+Line  75: TAHLIA WALK
+Line  76: VAPARCHITECTS
+Line  77: Epirou Street
+Line  78: Athens, GR Greece
+Line  79: 3262
+Line  80: 3269
+Line  81: DESIGN ARCHITECTS
+Line  82: CONSULTANTS
+Line  83: STUDIO
+Line  84: Isavron
+Line  85: Lycabettus
+Line  86: Athens, GR 11471 Greece
+Line  87: ZAD DEVELOPMENT
+Line  88: STRUCTURAL ENGINEER
+Line  89: MEP ENGINEER
+Line  90: 01 PM
+Line  91: Assemblies
+Line  92: Wall Floor
+Line  93: Detail Design
+Line  94: Description
+Line  95: Date
+
+=== END OF FILTERED TEXT ===
+Total lines: 96

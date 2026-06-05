@@ -1,0 +1,188 @@
+=== FILTERED TEXT FOR: ARC-SO-A1-111-02.pdf ===
+
+Line   0: Schema Legend
+Line   1: ADM ADM
+Line   2: CA INF
+Line   3: CEO CICO
+Line   4: Conference Room
+Line   5: Copy Room
+Line   6: INF
+Line   7: INF
+Line   8: INF
+Line   9: INF
+Line  10: INF INF
+Line  11: INF INF
+Line  12: INF INF INF
+Line  13: INF INF INF
+Line  14: INF INF
+Line  15: INF INF INF
+Line  16: INF INF
+Line  17: INF INF
+Line  18: INF INF
+Line  19: Janitor
+Line  20: PC UPP
+Line  21: Rack Spare Office
+Line  22: RC RC
+Line  23: SO
+Line  24: SO SO SO
+Line  25: SO SO SO
+Line  26: SO SO SO SO
+Line  27: Spare Room
+Line  28: Storage Room
+Line  29: TP TP
+Line  30: WC
+Line  31: WC
+Line  32: CEO CICO CEO
+Line  33: Chief
+Line  34: Infrastructure
+Line  35: Controls Officer
+Line  36: INF Project
+Line  37: Director
+Line  38: Infrastructure Park
+Line  39: Director
+Line  40: ADM ADM
+Line  41: Infra Department
+Line  42: Assistant
+Line  43: INF INF
+Line  44: INF PM GIS PM
+Line  45: Park PM
+Line  46: Archaeology
+Line  47: Cultural Heritage
+Line  48: INF INF
+Line  49: INF PM Sports
+Line  50: MEP Manager
+Line  51: Sports Project
+Line  52: Associate
+Line  53: KITCHENETTE
+Line  54: INF Project
+Line  55: Director
+Line  56: Infrastructure
+Line  57: INF Project
+Line  58: Director Sports
+Line  59: INF INF
+Line  60: PM AMEA
+Line  61: Project Associate
+Line  62: AMEA
+Line  63: INF INF
+Line  64: INF Project
+Line  65: Associate Infra
+Line  66: INF Project
+Line  67: Director Park
+Line  68: SO SO SO
+Line  69: Senior Security
+Line  70: Manager Quality
+Line  71: Associate PM MEP
+Line  72: SO Site
+Line  73: Operations Director
+Line  74: INF INF PM
+Line  75: Infra PM MEP Infra
+Line  76: CONFERENCE
+Line  77: SPARE
+Line  78: SPARE
+Line  79: CONFERENCE
+Line  80: CA INF Guest
+Line  81: Room Contracts
+Line  82: Director Staff
+Line  83: QS Manager
+Line  84: SO SO SO
+Line  85: SO Site
+Line  86: Operations
+Line  87: Technician
+Line  88: COPY
+Line  89: INF INF Site
+Line  90: Supervision Site
+Line  91: Supervision Sports
+Line  92: RACK SPARE
+Line  93: OFFICE
+Line  94: RC RC
+Line  95: Race Race
+Line  96: SPARE
+Line  97: TP TP Surveyor
+Line  98: Surveyor
+Line  99: PC UPP
+Line 100: Programme
+Line 101: Controls Urban
+Line 102: Planning
+Line 103: Permitting Team
+Line 104: SO SO SO
+Line 105: Senior Health
+Line 106: Safety Manager
+Line 107: Environmental
+Line 108: Compliance
+Line 109: Associate Smart
+Line 110: Tech Manager
+Line 111: INF INF Site
+Line 112: Engineer
+Line 113: Landscape Site
+Line 114: Engineer
+Line 115: Landscape
+Line 116: WC
+Line 117: WC
+Line 118: ΑΝΑΒΑΤΟΡΙΟ ΑΜΕΑ
+Line 119: INF INF PM
+Line 120: Roads PM Civil
+Line 121: JANITOR
+Line 122: SPARE
+Line 123: INF INF
+Line 124: Landscape MEP
+Line 125: Manager
+Line 126: Project Associate
+Line 127: Landscape
+Line 128: ΚΛΙΜΑΚΑ
+Line 129: SCALE
+Line 130: ΕΡΓΟ
+Line 131: ΗΜΕΡΟΜΗΝΙΑ
+Line 132: FIRST ISSUE DATE
+Line 133: ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΜΕΛΕΤΗ
+Line 134: ΠΕΡΙΟΧΗ
+Line 135: ZONE
+Line 136: ISSUED
+Line 137: CONSTRUCTION
+Line 138: APPROVAL
+Line 139: TENDER
+Line 140: STATUS
+Line 141: DRAFT
+Line 142: FINAL
+Line 143: STAMP
+Line 144: DISCIPLINE
+Line 145: SO
+Line 146: ΑΝΑΘ.
+Line 147: REV.
+Line 148: ARC
+Line 149: PROJECT
+Line 150: DRAWING
+Line 151: ΜΕΛΕΤΗ
+Line 152: DESIGN
+Line 153: CLIENT
+Line 154: ΣΥΜΒΟΥΛΟΣ ΕΡΓΟΥ
+Line 155: PROJECT CONSULTANT
+Line 156: 3262
+Line 157: ΥΠΟΜΝΗΜΑ
+Line 158: LAYOUT LEGEND
+Line 159: ΑΝΑΠΤΥΞΗ ΜΗΤΡΟΠΟΛΙΤΙΚΟΥ ΠΟΛΟΥ
+Line 160: ΕΛΛΗΝΙΚΟΥ ΑΓΙΟΥ ΚΟΣΜΑ
+Line 161: HELLINIKON DEVELOPMENT PROJECT
+Line 162: ΕΡΓΟΤΑΞΙΑΚΑ ΓΡΑΦΕΙΑ ΕΛΛΗΝΙΚΟ
+Line 163: ELLINIKON SITE OFFICES
+Line 164: ΕΛΛΗΝΙΚΟ
+Line 165: ELLINIKON
+Line 166: 02
+Line 167: ΚΑΤΟΨΗ ΟΡΟΦΟΥ
+Line 168: 04
+Line 169: ΓΡΑΦΕΙΩΝ
+Line 170: ΒΑΣΕΙ ΠΡΟΓΡΑΜΜΑΤΟΣ
+Line 171: FLOOR PLAN
+Line 172: OFFICES
+Line 173: ASSIGNMENT
+Line 174: ΑΝΑΘΕΩΡΗΣΕΙΣ
+Line 175: ΠΕΡΙΓΡΑΦΗ DESCRIPTION
+Line 176: ΗΜ ΝΙΑ DATE
+Line 177: 01
+Line 178: Revision
+Line 179: 04 2023
+Line 180: 02
+Line 181: Revision
+Line 182: 04 05 2023
+
+=== END OF FILTERED TEXT ===
+Total lines: 183

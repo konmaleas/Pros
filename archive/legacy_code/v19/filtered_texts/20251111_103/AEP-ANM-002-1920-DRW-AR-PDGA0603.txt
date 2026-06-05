@@ -1,0 +1,198 @@
+=== FILTERED TEXT FOR: AEP-ANM-002-1920-DRW-AR-PDGA0603.pdf ===
+
+Line   0: UL
+Line   1: 3000
+Line   2: 3000
+Line   3: 3000
+Line   4: 3000
+Line   5: 6000
+Line   6: 6000
+Line   7: 6000
+Line   8: 6000
+Line   9: 6000
+Line  10: 6000
+Line  11: 6000
+Line  12: 6000
+Line  13: 6000
+Line  14: 6000
+Line  15: 6000
+Line  16: 6000
+Line  17: 6000
+Line  18: 6000
+Line  19: 6000
+Line  20: 6000
+Line  21: 6000
+Line  22: 6000
+Line  23: 6000
+Line  24: 6000
+Line  25: 6000
+Line  26: 6000
+Line  27: 6000
+Line  28: 6000
+Line  29: 6000
+Line  30: 6000
+Line  31: 6000
+Line  32: 6000
+Line  33: 6000
+Line  34: 6000
+Line  35: 6000
+Line  36: 6000
+Line  37: 6000
+Line  38: 6000
+Line  39: 6000
+Line  40: 465
+Line  41: CIP VIP
+Line  42: Sanitary Facilities
+Line  43: 713
+Line  44: Arrivals
+Line  45: Sanitary Facilities
+Line  46: Circulation
+Line  47: Plant MEP
+Line  48: Circulation
+Line  49: 49
+Line  50: Plant MEP
+Line  51: Plant MEP
+Line  52: Circulation
+Line  53: 46
+Line  54: General
+Line  55: Gate Lounges
+Line  56: Gate Lounges
+Line  57: Retail
+Line  58: Retail
+Line  59: 468
+Line  60: Departures
+Line  61: Gate Lounges
+Line  62: Gate Lounges
+Line  63: Circulation
+Line  64: Plant MEP
+Line  65: Plant MEP
+Line  66: General
+Line  67: Sanitary Facilities
+Line  68: Sanitary Facilities
+Line  69: General
+Line  70: General
+Line  71: General
+Line  72: General
+Line  73: Plant MEP
+Line  74: Circulation
+Line  75: Plant MEP
+Line  76: Plant MEP
+Line  77: General
+Line  78: General
+Line  79: Circulation
+Line  80: Circulation
+Line  81: Plant MEP
+Line  82: Circulation
+Line  83: Departures
+Line  84: Departures
+Line  85: Departures
+Line  86: Departures
+Line  87: General
+Line  88: General
+Line  89: General
+Line  90: Plant MEP
+Line  91: Plant MEP
+Line  92: General
+Line  93: General
+Line  94: General
+Line  95: General
+Line  96: General
+Line  97: Plant MEP
+Line  98: Plant MEP
+Line  99: Circulation
+Line 100: Vertical Connections
+Line 101: Sanitary Facilities
+Line 102: Gate Lounges
+Line 103: Gate Lounges
+Line 104: Circulation
+Line 105: Circulation
+Line 106: Vertical Connections
+Line 107: Vertical Connections
+Line 108: Vertical Connections
+Line 109: Vertical Connections
+Line 110: 17175
+Line 111: 19050
+Line 112: Departures
+Line 113: Circulation
+Line 114: Vertical Connections
+Line 115: Sanitary Facilities
+Line 116: Sanitary Facilities
+Line 117: DRAWING NO.
+Line 118: DRW
+Line 119: CH
+Line 120: APPR
+Line 121: DRW DATE
+Line 122: REV
+Line 123: DRAWING TITLE
+Line 124: SCALE
+Line 125: STATUS
+Line 126: KEY PLAN
+Line 127: NORTH
+Line 128: REV
+Line 129: BY
+Line 130: DATE
+Line 131: DESCRIPTION
+Line 132: PROJECT NAME
+Line 133: PROJECT CODE
+Line 134: CONSORTIUM
+Line 135: DRAWING NOTICES
+Line 136: Anemos
+Line 137: Anemos
+Line 138: Drawings
+Line 139: INTELLECTUAL PROPERTY
+Line 140: Copyright Anemos.
+Line 141: Anemos
+Line 142: Anemos.
+Line 143: Anemos
+Line 144: Anemos
+Line 145: DESIGN TEAM
+Line 146: GRIMSHAW INTERNATIONAL LTD
+Line 147: 44 7291 4277
+Line 148: Clerkenwell Road,
+Line 149: London, UK
+Line 150: ARUP INTERNATIONAL PROJECTS LTD
+Line 151: HAPTIC ARCHITECTS LTD
+Line 152: 44 7099 2933
+Line 153: Unit Royle Studios,
+Line 154: 41 Wenlock
+Line 155: London UK
+Line 156: 44 7636 1531
+Line 157: Fitzroy
+Line 158: London UK
+Line 159: LESLIE JONES ARCHITECTS LTD
+Line 160: STUDIO
+Line 161: TRIAGONAL INFODESIGN
+Line 162: 45 44
+Line 163: Raffinaderivej 07
+Line 164: DK 2300 Copenhagen
+Line 165: DENMARK
+Line 166: 7522
+Line 167: Isavron Lycabettus
+Line 168: 71, Athens,
+Line 169: GREECE
+Line 170: 44 7255 1150
+Line 171: Suite Grand Union
+Line 172: Studios, Ladbroke
+Line 173: London UK
+Line 174: CLIENT
+Line 175: Anemos
+Line 176: Administration Building
+Line 177: 19019, Spata Attikis, Greece
+Line 178: DESIGN PHASE
+Line 179: 2024
+Line 180: AEP ANM 002 1920 DRW AR
+Line 181: NK
+Line 182: MS
+Line 183: DK
+Line 184: STB Level Arrivals Tile
+Line 185: Athens International Airport Expansion
+Line 186: AEP
+Line 187: Athens International
+Line 188: Airport
+Line 189: Preliminary Design
+Line 190: ANM
+Line 191: 2024
+Line 192: Preliminary Design
+
+=== END OF FILTERED TEXT ===
+Total lines: 193

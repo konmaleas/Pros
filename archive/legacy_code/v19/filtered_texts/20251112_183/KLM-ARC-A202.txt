@@ -1,0 +1,182 @@
+=== FILTERED TEXT FOR: KLM-ARC-A202.pdf ===
+
+Line   0: ΑΚΑΛΥΠΤΟΣ
+Line   1: ΑΚΑΛΥΠΤΟΣ
+Line   2: ΑΚΑΛΥΠΤΟΣ
+Line   3: Απόσταση
+Line   4: ΠΦ ΠΣ
+Line   5: EQ
+Line   6: EQ
+Line   7: ΘΕ
+Line   8: ΜΚ
+Line   9: ΜΚ
+Line  10: ΜΚ
+Line  11: ΜΚ
+Line  12: ΓΨ
+Line  13: ΓΨ
+Line  14: ΓΨ
+Line  15: ΓΨ
+Line  16: ΓΨ
+Line  17: ΓΨA
+Line  18: ΓΨA
+Line  19: ΓΨ
+Line  20: EQ
+Line  21: EQ
+Line  22: EQ
+Line  23: EQ
+Line  24: EQ
+Line  25: EQ
+Line  26: EQ
+Line  27: EQ
+Line  28: EQ
+Line  29: EQ
+Line  30: EQ
+Line  31: EQ
+Line  32: EQ
+Line  33: EQ
+Line  34: EQ
+Line  35: EQ
+Line  36: EQ
+Line  37: EQ
+Line  38: EQ
+Line  39: EQ
+Line  40: ΜΚ
+Line  41: EQ EQ
+Line  42: EQ
+Line  43: EQ
+Line  44: EQ
+Line  45: EQ
+Line  46: ΓΨ
+Line  47: ΓΨ
+Line  48: ΓΨ
+Line  49: ΓΨ
+Line  50: ΓΨ
+Line  51: ΓΨ
+Line  52: ΓΨ
+Line  53: ΓΡΑΦΕΙΟ 01
+Line  54: ΓΡΑΦΕΙΟ 05
+Line  55: ΓΡΑΦΕΙΟ 06
+Line  56: RECEPTION ΦΩΤΟΤΥΠΙΚΟ ΚΕΝΤΡΟ
+Line  57: ΓΡΑΦΕΙΟ 04
+Line  58: ΔΙΑΔΡΟΜΟΣ
+Line  59: ΠΡΟΘΑΛΑΜΟΣ
+Line  60: ΓΡΑΦΕΙΟ 02
+Line  61: ΓΡΑΦΕΙΟ 03
+Line  62: WC
+Line  63: ΚΛΙΜΑΚΟΣΤΑΣΙΟ
+Line  64: ΗΨ
+Line  65: XΨE
+Line  66: ΓΨ
+Line  67: BC
+Line  68: ΓΨ
+Line  69: ΓΨ
+Line  70: ΓΨ
+Line  71: EQEQ
+Line  72: EQEQ
+Line  73: EQEQ
+Line  74: EQ
+Line  75: EQ
+Line  76: EQ
+Line  77: EQ
+Line  78: ΜΚ
+Line  79: ΓΨ
+Line  80: EQ
+Line  81: EQ
+Line  82: ΗΨ
+Line  83: ΗΨ
+Line  84: ΓΨ
+Line  85: ΓΨ
+Line  86: ΓΨ
+Line  87: ΑΠΛΗ ΓΥΨΟΣΑΝΙΔΑ
+Line  88: ΧΨE
+Line  89: ΧΩΡΙΣ ΨΕΥΔΟΡΟΦΗ ΠΛΑΚΑ ΣΚΥΡΟΔΕΜΑΤΟΣ ΜΕ ΕΠΙΧΡΙΣΜΑ
+Line  90: ΜΚ ΜΕΤΑΛΛΙΚΕΣ ΚΑΣΕΤΕΣ ΔΙΑΤΡΗΤΕΣ ΤΥΠΟΥ LAY FLUSH
+Line  91: ΓΨΑ
+Line  92: ΑΝΘΥΓΡΗ ΓΥΨΟΣΑΝΙΔΑ
+Line  93: ΜΛ ΜΕΤΑΛΛΙΚΕΣ ΑΔΙΑΤΡΗΤΕΣ ΛΩΡΙΔΕΣ ΠΛΑΤΟΥΣ
+Line  94: ΥΠΟΜΝΗΜΑ ΨΕΥΔΟΡΟΦΩΝ
+Line  95: ΘΕ ΘΥΡΙΔΑ ΕΠΙΣΚΕΨΗΣ
+Line  96: ΓΡΑΜΜΙΚΟ ΦΩΣ LED
+Line  97: ΓΡΑΜΜΙΚΟ ΣΤΟΜΙΟ
+Line  98: ΦΩΤΙΣΤΙΚΟ ΟΡΟΦΗΣ LED
+Line  99: ΦΩΤΙΣΤΙΚΟ ΣΠΟΤ
+Line 100: ΦΩΤΙΣΤΙΚΟ ΣΠΟΤ ΣΤΕΓΑΝΟ
+Line 101: ΗΜ ΣΤΟΙΧΕΙΑ ΕΝΤΑΣΣΟΜΕΝΑ ΣΤΗΝ ΨΕΥΔΟΡΟΦΗ
+Line 102: ΑΝΙΧΝΕΥΤΗΣ ΚΑΠΝΟΥ
+Line 103: ΕΞΑΕΡΙΣΜΟΣ WC
+Line 104: ΜΛΑ ΜΕΤΑΛΛΙΚΕΣ ΛΩΡΙΔΕΣ ΑΝΟΙΧΤΗΣ ΔΙΑΤΟΜΗΣ
+Line 105: ΗΨ ΗΧΟΜΟΝΩΤΙΚΑ ΠΑΝΕΛΑ
+Line 106: ΑΝΙΧΝΕΥΤΗΣ ΠΑΡΟΥΣΙΑΣ ΠΑΘΗΤΙΚΩΝ ΥΠΕΡΥΘΡΩΝ
+Line 107: ΑΝΙΧΝΕΥΤΗΣ ΠΑΡΟΥΣΙΑΣ ΠΑΘΗΤΙΚΩΝ ΥΠΕΡΥΘΡΩΝ
+Line 108: ΜΕ ΑΙΣΘΗΤΗΡΑ ΦΩΤΕΙΝΟΤΗΤΑΣ
+Line 109: ΠΑΡΑΤΗΡΗΣΗ
+Line 110: ΟΙ ΑΚΡΙΒΕΙΣ ΤΩΝ ΣΤΟΙΧΕΙΩΝ ΣΤΙΣ ΨΕΥΔΟΡΟΦΕΣ
+Line 111: ΘΑ ΠΑΡΘΟΥΝ ΑΠΟ ΤΑ ΑΡΧΙΤΕΚΤΟΝΙΚΑ ΣΧΕΔΙΑ
+Line 112: 00
+Line 113: ANΟΨΗ ΟΡΟΦΟΥ
+Line 114: ΑΝΑΘΕΩΡΗΣΕΙΣ
+Line 115: ΠΕΡΙΓΡΑΦΗ DESCRIPTION
+Line 116: ΗΜ ΝΙΑ DATE
+Line 117: ΟΡΟΦΟΣ
+Line 118: FL
+Line 119: SL
+Line 120: ΚΛΙΜΑΚΑ
+Line 121: SCALE
+Line 122: ΣΧΕΔΙΟ
+Line 123: ΕΡΓΟ
+Line 124: ΗΜΕΡΟΜΗΝΙΑ ΕΚΔΟΣΗΣ
+Line 125: FIRST ISSUE DATE
+Line 126: ΠΕΡΙΟΧΗ
+Line 127: ZONE
+Line 128: ISSUED
+Line 129: CONSTRUCTION
+Line 130: APPROVAL
+Line 131: TENDER
+Line 132: STATUS
+Line 133: DRAFT
+Line 134: FINAL
+Line 135: DISCIPLINE
+Line 136: ARC
+Line 137: ΑΝΑΘ.
+Line 138: REV.
+Line 139: KLM
+Line 140: PROJECT
+Line 141: DRAWING
+Line 142: ΕΡΓΟΔΟΤΗΣ
+Line 143: CLIENT
+Line 144: Τομπάζη Χαλάνδρι, 15332
+Line 145: 3262 3269
+Line 146: ΚΛΕΙΔΑ
+Line 147: KEY PLAN
+Line 148: ΟΙΚΟΔΟΜΙΚΗ ΑΔΕΙΑ ΓΙΑ ΑΝΕΓΕΡΣΗ
+Line 149: ΕΞΑΩΡΟΦΟΥ ΚΤΗΡΙΟΥ ΓΡΑΦΕΙΩΝ
+Line 150: ME ΙΣΟΓΕΙΟ ΚΑΙ ΥΠΟΓΕΙΟΥΣ
+Line 151: ΧΩΡΟΥΣ ΣΤΑΘΜΕΥΣΗΣ
+Line 152: ΘΕΣΗ
+Line 153: LOCATION
+Line 154: ΚΑΛΑΜΩΝ
+Line 155: ΑΜΠΕΛΟΚΗΠΟΙ ΔΗΜΟΥ ΑΘΗΝΑΙΩΝ 80076
+Line 156: ΑΡΧΙΤΕΚΤΟΝIKH ΜΕΛΕΤΗ
+Line 157: ARCHITECTURAL DESIGN
+Line 158: ΣΤΑΤΙΚΗ ΜΕΛΕΤΗ
+Line 159: STRUCTURAL DESIGN
+Line 160: ΜΗΧΑΝΟΛΟΓΙΚΗ ΜΕΛΕΤΗ
+Line 161: MEP DESIGN
+Line 162: Λεωφ. Αναγυρούντος 16672, Βάρη
+Line 163: 4395 4637
+Line 164: NSZ
+Line 165: Θηβαϊδος Κηφισιά
+Line 166: ΜΕΛΕΤΗ
+Line 167: STUDY
+Line 168: ΣΤΑΔΙΟ
+Line 169: STAGE
+Line 170: ΣΦΡΑΓΙΔΑ ΜΕΛΕΤΗΤΗ
+Line 171: DESIGNER STAMP
+Line 172: LDK ΣΥΜΒΟΥΛΟΙ ΜΗΧΑΝΙΚΟΙ
+Line 173: ΛΙΘΟΣ ΣΥΜΒΟΥΛΟΙ ΜΗΧΑΝΙΚΟΙ
+Line 174: VASSILIS ALEXANDROS POUTETSIS
+Line 175: ARCHITECTS ASSOCIATES IKE
+Line 176: ΙΑΝΟΥΑΡΙΟΣ 2024
+
+=== END OF FILTERED TEXT ===
+Total lines: 177

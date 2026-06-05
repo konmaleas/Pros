@@ -1,0 +1,166 @@
+=== FILTERED TEXT FOR: NCM-DD-ZZ-DR-ARC-3080-P1.pdf ===
+
+Line   0: ΙΣΟΓΕΙΟ
+Line   1: FFL
+Line   2: ΠΡΩΤΟ ΕΠΙΠΕΔΟ
+Line   3: FFL
+Line   4: ΔΕΥΤΕΡΟ ΕΠΙΠΕΔΟ FFL
+Line   5: ΕΠΙΠΕΔΟ ΔΩΜΑΤΩΝ ΚΑΙ FFL
+Line   6: ΕΠΙΠΕΔΟ ΔΩΜΑΤΩΝ FFL
+Line   7: ΥΔΡΟΦΟΡΟΣ ΟΡΙΖΟΝΤΑΣ
+Line   8: ΜΑΡΓΑ
+Line   9: 01 ARC Level
+Line  10: FFL
+Line  11: SHAFT
+Line  12: ΚΛΙΜΑΚΟΣΤΑΣΙΟ 4
+Line  13: ΑΠΟΘΗΚΗ ΣΩΣΤΙΚΩΝ
+Line  14: ΑΝΑΣΚΑΦΩΝ
+Line  15: ΚΛΙΜΑΚΟΣΤΑΣΙΟ 4
+Line  16: ΚΛΙΜΑΚΟΣΤΑΣΙΟ 4
+Line  17: SHAFT
+Line  18: ΚΛΙΜΑΚΟΣΤΑΣΙΟ 4
+Line  19: ΚΛΙΜΑΚΟΣΤΑΣΙΟ 4
+Line  20: ΠΡΟΘΑΛΑΜΟΣ
+Line  21: ΚΛΙΜΑΚΟΣΤΑΣΙΟΥ 4
+Line  22: SHAFT
+Line  23: SHAFT
+Line  24: ΑΠΟΘΗΚΗ ΣΩΣΤΙΚΩΝ
+Line  25: ΑΝΑΣΚΑΦΩΝ
+Line  26: ΕΚΘΕΣΕΙΣ
+Line  27: ΕΚΘΕΣΕΙΣ
+Line  28: ΕΚΘΕΣΕΙΣ
+Line  29: ΜΟΝΙΜΗ ΕΚΘΕΣΗ II SEA
+Line  30: ΧΩΡΟΣ
+Line  31: ΣΤΑΘΜΕΥΣΗΣ
+Line  32: ΘΕΣΕΙΣ
+Line  33: ΧΩΡΟΣ
+Line  34: ΣΤΑΘΜΕΥΣΗΣ
+Line  35: ΘΕΣΕΙΣ
+Line  36: ΔΕΥΤΕΡΟ ΕΠΙΠΕΔΟ FFL
+Line  37: ΕΠΙΠΕΔΟ ΙΣΟΓΕΙΟΥ
+Line  38: FFL
+Line  39: ΠΡΩΤΟ ΕΠΙΠΕΔΟ
+Line  40: FFL
+Line  41: ΜΟΝΙΜΗ ΕΚΘΕΣΗ II SEA
+Line  42: ΗΜΙΥΠΑΙΘΡΙΟΣ ΧΩΡΟΣ
+Line  43: ΜΟΝΙΜΗ ΕΚΘΕΣΗ II
+Line  44: SEA
+Line  45: ΧΩΡΟΣ ΕΠΙΣΚΕΠΤΩΝ
+Line  46: ΦΥΛΑΚΕΙΟ ΑΙΘΡΙΟΥ
+Line  47: ΑΙΘΡΙΟ ΜΟΥΣΕΙΟΥ
+Line  48: ΕΣΤΙΑΤΟΡΙΟ ΚΑΦΕ
+Line  49: ΧΩΡΟΣ
+Line  50: ΕΓΚΑΤΑΣΤΑΣΕΩΝ
+Line  51: ΕΣΤΙΑΤΟΡΙΟ ΚΑΦΕ
+Line  52: ΑΙΘΡΙΟ ΜΟΥΣΕΙΟΥ
+Line  53: ΕΚΘΕΣΕΙΣ
+Line  54: ΦΩΤΟΒΟΛΤΑΪΚΑ ΠΑΝΕΛ
+Line  55: ΜΕΤΑΛΛΙΚΗ ΣΧΑΡΑ ΣΤΗΡΙΞΗΣ
+Line  56: ΜΕΤΑΛΛΙΚΗ ΚΑΤΑΣΚΕΥΗ ΣΤΗΡΙΞΗΣ PANELS
+Line  57: ΟΓΚΟΣ SEA
+Line  58: ΣΤΕΓΑΣΗ FOYER
+Line  59: ΟΓΚΟΣ COSMOS
+Line  60: ΥΠΕΥΘΥΝΟΥ ΕΡΓΟΥ
+Line  61: ΗΜΕΡΟΜΗΝΙΑ
+Line  62: ONOMA ΑΡΧΕΙΟΥ
+Line  63: ΛΕΥΚΩΣΙΑ ΚΥΠΡΟΣ
+Line  64: ΜΕΛΕΤΗ ΕΦΑΡΜΟΓΗΣ DD
+Line  65: ΝΕΟ ΚΥΠΡΙΑΚΟ ΜΟΥΣΕΙΟ
+Line  66: ΗΜΕΡΟΜΗΝΙΑ
+Line  67: ΕΓΚΡΙΘΗΚΕ
+Line  68: ΤΜΗΜΑ
+Line  69: ΗΜΕΡΟΜΗΝΙΑ
+Line  70: ΕΛΕΓΧΘΗΚΕ
+Line  71: ΤΜΗΜΑ
+Line  72: ΤΙΤΛΟΣ
+Line  73: ΥΠΟΒΟΛΗ
+Line  74: ΑΡ.
+Line  75: ΥΠΟΥΡΓΕΙΟ ΜΕΤΑΦΟΡΩΝ, ΕΠΙΚΟΙΝΩΝΙΩΝ ΚΑΙ ΕΡΓΩΝ
+Line  76: ΤΜΗΜΑ ΕΡΓΩΝ
+Line  77: KEY PLAN
+Line  78: ΗΜΕΡΟΜΗΝΙΑ
+Line  79: ΠΕΡΙΕΧΟΜΕΝΟ
+Line  80: ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΜΕΛΕΤΗ
+Line  81: THEONI XANTHI XZA ARCHITECTS LLC
+Line  82: ΥΠΕΥΘΥΝΟΣ ΕΡΓΟΥ
+Line  83: ΑΡΧΙΤΕΚΤΩΝ ΘΕΩΝΗ ΞΑΝΘΗ
+Line  84: ΑΡΧΙΤΕΚΤΟΝΕΣ
+Line  85: ΜΑΡΓΑΡΙΤΑ ΖΑΚΥΝΘΙΝΟΥ
+Line  86: ΣΥΝΤΟΝΙΣΤΗΣ ΑΡΧIT ΚΗΣ ΜΕΛΕΤΗΣ
+Line  87: ΚΟΣΜΑΣ ΒΑΡΚΑΡΟΛΗΣ
+Line  88: ΑΡΧΙΤΕΚΤΟΝΙΚΑ
+Line  89: YAP ARCHITECTS
+Line  90: ΣTATIKΑ
+Line  91: RHOMBUS STRUCTURAL ENGINEERS LLC ΣΤ.
+Line  92: PENELIS CONSULTING ENGINEERS SA ΠΕΝΕΛΗΣ
+Line  93: GEORGHIOU ZEMBYLAS PARTNERS
+Line  94: ΜΗΧΑΝΟΛΟΓΙΚA
+Line  95: ΗΛΕΚΤΡΟΛΟΓΙΚA
+Line  96: ΜΟΥΣΕΙΟΛΟΓΙΚA
+Line  97: THETA ACOUSTICS LTD ΝΙΑΟΥΝΑΚΗΣ
+Line  98: ΑΚΟΥΣΤΙΚA
+Line  99: RODITIS PARTNERS
+Line 100: ΕΠΙΜΕΤΡΗΣΗ ΠΟΣΟΤΗΤΩΝ
+Line 101: FLOROS PANTELI ASSOCIATES ΠΑΝΤΕΛΗ
+Line 102: ΥΓΕΙΑ
+Line 103: ΜΟΥΣΕΙΟΓΡΑΦΙΚA
+Line 104: ΘΩΜΑΣ ΤΣΟΥΚΑΛΑΣ
+Line 105: ΦΩΤΙΣΜΟΣ
+Line 106: DECO ASSOCIATES ΕΛ. ΝΤΕΚΩ
+Line 107: ΠΥΡΟΠΡΟΣΤΑΣΙΑ
+Line 108: INT FIRE CYPRUS LTD ΣΠ. ΣΠΥΡΟΥ
+Line 109: ΚΥΚΛΟΦΟΡΙΑΚΑ
+Line 110: DROMOS CONSULTING LTD ΖΕΚΚΟΣ
+Line 111: ΣΗΜΑΝΣΗ
+Line 112: POST SPECTACULAR OFFICE ΓΑΛΙΚΑΣ
+Line 113: ΚΤΗΡΙΟΥ
+Line 114: ARION PLUS
+Line 115: ΕΡΓΑΣΙΑΣ
+Line 116: ΜΕΛΕΤΗΣ
+Line 117: FEREOS ARCHITECTS LLC ΦΕΡΑΙΟΣ Αναπλ. Υπεύθυνος Οµάδας Έργου
+Line 118: DROMOS CONSULTING LTD ΖΕΚΚΟΣ
+Line 119: ΣΥΜΒΟΥΛΟΙ ΜΕΛΕΤΗΤΕΣ
+Line 120: ΓΕΩΤΕΧΝΙΚΑ
+Line 121: ΜΟΥΣΕΙΑΚΟΣ
+Line 122: XZA ARCHITECTS
+Line 123: ΒΑΣΙΛΕΙΟΥ
+Line 124: ΕΡΓΑΣΤΗΡΙΑ
+Line 125: ΩΡ
+Line 126: ΑΡΧΙΤΕΚΤΟΝΙΚΗ
+Line 127: ΚΛΙΜΑΚΑ
+Line 128: VAP ARCHITECTS Σύµβουλος Μελέτης Εφαρµογής
+Line 129: DR ARC
+Line 130: ΚΑΤΑΛΛΗΛΟΤΗΤΑΣ
+Line 131: NCM DD
+Line 132: Engineer Record
+Line 133: GEORGHIOU ZEMBYLAS PARTNERS
+Line 134: ANDREAS EVRIPIDOU CIVIL ENGINEERS
+Line 135: ΣΤΕΡΓΙΟΣ ΓΑΛΙΚΑΣ
+Line 136: ΘΩΜΑΣ ΤΣΟΥΚΑΛΑΣ
+Line 137: ΣΤΕΡΓΙΟΣ ΓΑΛΙΚΑΣ
+Line 138: Συνεργάτης ΤΣΑΜΠΙΚΟΣ ΠΕΤΡΑΣ
+Line 139: POST SPECTACULAR OFFICE ΓΑΛΙΚΑΣ
+Line 140: ΠΡΟΜΕΛΕΤΗ ΣΑΚΕΛΛΑΡΙΟΥ
+Line 141: ΦΥΣΙΚΟΣ ΦΩΤΙΣΜΟΣ
+Line 142: ΤΣΑΓΚΡΑΣΟΥΛΗΣ
+Line 143: ΕΞΟΠΛΙΣΜΟΣ ΚΟΥΖΙΝΑΣ
+Line 144: XENEX
+Line 145: ΕΝΕΡΓΕΙΑΚΑ ΚΕΛΥΦΟΥΣ
+Line 146: METABUILD
+Line 147: ΓΡΑΦΙΣΤΙΚΑ
+Line 148: ΦΥΤΟΤΕΧΝΙΚΑ
+Line 149: LANDCO EΠΕ ΚΑΝΤΑΡΤΖΗΣ
+Line 150: ΦΕΒΡΟΥΑΡΙΟΣ 2021
+Line 151: 02 2021 44
+Line 152: ΤΟΜΕΣ ΘΘ ΑΝΤΙΘΕΤΗ ΖΩΝΗ
+Line 153: 3080
+Line 154: ZZ
+Line 155: ΤΟΜΗ ΘΘ ΖΩΝΗ
+Line 156: ΤΟΜΗ ΘΘ
+Line 157: 2
+Line 158: ΖΩΝΗ
+Line 159: 02 2021
+Line 160: Υποβολή
+
+=== END OF FILTERED TEXT ===
+Total lines: 161

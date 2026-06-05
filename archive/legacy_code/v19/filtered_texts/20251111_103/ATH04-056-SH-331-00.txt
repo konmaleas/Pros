@@ -1,0 +1,548 @@
+=== FILTERED TEXT FOR: ATH04-056-SH-331-00.pdf ===
+
+Line   0: ADMIN
+Line   1: COLO
+Line   2: COLO
+Line   3: TRUE NORTH
+Line   4: Microsoft
+Line   5: ENGINEERING CONSULTANT
+Line   6: ΣΥΜΒΟΥΛΟΣ ΜΕΛΕΤΗΤΗΣ
+Line   7: CERTIFIED ENGINEER
+Line   8: ΑΔΕΙΟΥΧΟΣ ΜΗΧΑΝΙΚΟΣ
+Line   9: SUPPLIER DOCUMENT NUMBER
+Line  10: ΚΩΔΙΚΟΣ ΣΧΕΔΙΟΥ ΠΡΟΜΗΘΕΥΤΗ
+Line  11: REVISION
+Line  12: ΑΝΑΘΕΩΡΗΣΗ
+Line  13: 00
+Line  14: A. Karra
+Line  15: Xenopoulos
+Line  16: ΣΥΝΤΑΚΤΗΣ
+Line  17: ΕΛΕΓΧΘΗΚΕ
+Line  18: ΕΓΚΡΙΘΗΚΕ
+Line  19: ΗΜΕΡΟΜΗΝΙΑ
+Line  20: ΑΝΑΘ.
+Line  21: ΣΗΜΕΙΩΣΕΙΣ ΠΕΡΙΓΡΑΦΗ
+Line  22: PREPAR
+Line  23: VERIFY
+Line  24: APROVAL
+Line  25: DATE
+Line  26: REV.
+Line  27: REMARK DESCRIPTION
+Line  28: PROJECT TITLE
+Line  29: TAG NUMBERS
+Line  30: ΕΤΙΚΕΤΑΣ
+Line  31: ATH04 DATA CENTER
+Line  32: DRAWING TITLE
+Line  33: DRAWING
+Line  34: ΑΡΙΘΜΟΣ ΣΧΕΔΙΟΥ
+Line  35: SCALE
+Line  36: ΚΛΙΜΑΚΑ
+Line  37: FORMAT
+Line  38: ΜΟΡΦΗ
+Line  39: FACILITY CODE
+Line  40: ΚΩΔ. ΕΓΚΑΤΑΣ.
+Line  41: SYSTEM
+Line  42: ΣΥΣΤΗΜΑΤΟΣ
+Line  43: SHEET
+Line  44: ΦΥΛΛΟ
+Line  45: RD CODE
+Line  46: ΚΩΔΙΚΟΣ RD
+Line  47: REVISION
+Line  48: ΑΝΑΘΕΩΡ.
+Line  49: ATH 04
+Line  50: JVRT
+Line  51: A. Koukouselis
+Line  52: Civil Engineer
+Line  53: Structural Engineer
+Line  54: Απόστολος Κουκουσέλης
+Line  55: Πολιτικός Μηχανικός
+Line  56: Πολιτικός Μηχανικός
+Line  57: PILE FOUNDATION ADMINISTRATION
+Line  58: BALLARD BUILDING
+Line  59: ΤΙΤΛΟΣ ΕΡΓΟΥ
+Line  60: ΤΙΤΛΟΣ ΣΧΕΔΙΟΥ
+Line  61: GENERAL NOTES CONSTRUCTION
+Line  62: STATIKI SA Structural Project Specification Architectural,
+Line  63: Civil, Mechanical Electrical General Notes ATH04 A 000
+Line  64: Refer
+Line  65: STATIKI SA
+Line  66: Work
+Line  67: Statutory Authorities.
+Line  68: CAST SITU CONCRETE
+Line  69: Cast Project Specification Greek Hellenic Code
+Line  70: Concrete Technology 2016 KTS 2016 ΤΠ 1501 01 01 01 00. Concrete
+Line  71: Summary Project Specification
+Line  72: Pile
+Line  73: Exposure EN
+Line  74: Concrete 45
+Line  75: Blinding
+Line  76: Concrete
+Line  77: Blinding
+Line  78: Ground
+Line  79: Exposure EN
+Line  80: Concrete 45
+Line  81: External
+Line  82: Exposure EN
+Line  83: Concrete
+Line  84: Refer Civil Specification
+Line  85: Cover Reinforcement Design Drawings.
+Line  86: Internal
+Line  87: Reinforcement
+Line  88: High EN 10080 Greek
+Line  89: KTX 2008
+Line  90: Lengths EN 1992
+Line  91: Spacers
+Line  92: Sufficient
+Line  93: Cover
+Line  94: Chairs,
+Line  95: Spacers
+Line  96: Spacers
+Line  97: Concrete Finishes EN 13670
+Line  98: Basic, Ordinary, Plain Special. Finishes
+Line  99: Concealed Ordinary Finish
+Line 100: Concealed Ordinary Finish
+Line 101: Exposed Plain Finish
+Line 102: Exposed Plain Finish
+Line 103: Internal, External,
+Line 104: Floors Floor Class Technical
+Line 105: Report Concrete Industrial Ground Floors A Guide Design Construction Concrete Society.
+Line 106: Concrete Hellenic Code Concrete Technology 2016 KTS 2016 ΤΠ 1501 01 01 01 00.
+Line 107: Exposed
+Line 108: Architect Floor Finishes Drawing Project Specification
+Line 109: Concrete Hellenic Code Concrete Technology 2016 KTS 2016 TΠ
+Line 110: 1501 01 01 02 00.
+Line 111: Steelwork
+Line 112: Contractor Concrete Contractor.
+Line 113: Concrete EN 12350
+Line 114: EN EN 12390.
+Line 115: Samples Density
+Line 116: LOT EN ISO IEC 17025
+Line 117: Engineer
+Line 118: Engineer Contractor
+Line 119: EN 12350 EN
+Line 120: 12350 EN 12350
+Line 121: MOVEMENT CONSTRUCTION JOINTS
+Line 122: Movement Ground Floor
+Line 123: Peikko TERAJOINT Movement
+Line 124: Ground Floor
+Line 125: Isolation
+Line 126: Contractor
+Line 127: EARTHWORKS FOUNDATIONS
+Line 128: Earthworks Project Specifications
+Line 129: Civil Geotechnical
+Line 130: Granular
+Line 131: ATH04 03
+Line 132: ATH04 04
+Line 133: Refer Project Specification
+Line 134: Ground Floor Ground Floor
+Line 135: Property
+Line 136: Property
+Line 137: Floor
+Line 138: Typical Floor
+Line 139: Property
+Line 140: Retail
+Line 141: Reach
+Line 142: Reach
+Line 143: Buildings Ground Floor
+Line 144: Rebar
+Line 145: ATH04 056 SH
+Line 146: ATH04 056 SH 00
+Line 147: Κτίρια Πλάκες Λίστες
+Line 148: 00
+Line 149: 00
+Line 150: IFA ISSUED APPROVAL
+Line 151: Kalogiros
+Line 152: 02 2025
+Line 153: FOUNDATION SLABS BOTTOM REBARS DIRECTION
+Line 154: Partition
+Line 155: Rebar
+Line 156: Number
+Line 157: Rebar
+Line 158: Number
+Line 159: Suffix
+Line 160: Bending Detail
+Line 161: Length Quantity Total Length
+Line 162: Weight
+Line 163: 01
+Line 164: 1752
+Line 165: 03
+Line 166: Grand
+Line 167: 2044
+Line 168: FOUNDATION SLABS BOTTOM REBARS DIRECTION
+Line 169: Partition
+Line 170: Rebar
+Line 171: Number
+Line 172: Rebar
+Line 173: Number
+Line 174: Suffix
+Line 175: Bending Detail
+Line 176: Length Quantity
+Line 177: Total Length
+Line 178: Weight
+Line 179: 02
+Line 180: 1477
+Line 181: 04
+Line 182: 06
+Line 183: 08
+Line 184: Grand
+Line 185: 1881
+Line 186: FOUNDATION SLABS BOTTOM REBARS OPENINGS
+Line 187: DIRECTIONS
+Line 188: Partition
+Line 189: Rebar
+Line 190: Number
+Line 191: Rebar
+Line 192: Number
+Line 193: Suffix
+Line 194: Bending Detail
+Line 195: Length Quantity
+Line 196: Total Length
+Line 197: Weight
+Line 198: 01
+Line 199: 02
+Line 200: 03
+Line 201: Grand
+Line 202: FOUNDATION SLABS TOP REBARS DIRECTION
+Line 203: Partition
+Line 204: Rebar
+Line 205: Number
+Line 206: Rebar
+Line 207: Number
+Line 208: Suffix
+Line 209: Bending Detail
+Line 210: Length Quantity
+Line 211: Total Length
+Line 212: Weight
+Line 213: 01
+Line 214: 1752
+Line 215: 02
+Line 216: Grand
+Line 217: 2044
+Line 218: FOUNDATION SLABS TOP REBARS DIRECTION
+Line 219: Partition
+Line 220: Rebar
+Line 221: Number
+Line 222: Rebar
+Line 223: Number
+Line 224: Suffix
+Line 225: Bending Detail
+Line 226: Length Quantity
+Line 227: Total Length
+Line 228: Weight
+Line 229: 02
+Line 230: 1841
+Line 231: 03
+Line 232: 09
+Line 233: Grand
+Line 234: 1881
+Line 235: FOUNDATION SLABS TOP REBARS OPENINGS
+Line 236: DIRECTIONS
+Line 237: Partition
+Line 238: Rebar
+Line 239: Number
+Line 240: Rebar
+Line 241: Number
+Line 242: Suffix
+Line 243: Bending Detail
+Line 244: Length Quantity
+Line 245: Total Length
+Line 246: Weight
+Line 247: 01
+Line 248: 03
+Line 249: 04
+Line 250: 05
+Line 251: Grand
+Line 252: FOUNDATION SLABS BARS DIRECTION
+Line 253: Partition
+Line 254: Rebar
+Line 255: Number
+Line 256: Rebar
+Line 257: Number
+Line 258: Suffix
+Line 259: Bending Detail
+Line 260: Length Quantity
+Line 261: Total Length
+Line 262: Weight
+Line 263: 04
+Line 264: Grand
+Line 265: FOUNDATION SLABS BARS DIRECTION
+Line 266: Partition
+Line 267: Rebar
+Line 268: Number
+Line 269: Rebar
+Line 270: Number
+Line 271: Suffix
+Line 272: Bending Detail
+Line 273: Length Quantity
+Line 274: Total Length
+Line 275: Weight
+Line 276: 01
+Line 277: 05
+Line 278: 07
+Line 279: Grand
+Line 280: 798
+Line 281: FOUNDATION SLABS ADDITIONAL BOTTOM REBARS
+Line 282: DIRECTION
+Line 283: Partition
+Line 284: Rebar
+Line 285: Number
+Line 286: Rebar
+Line 287: Number
+Line 288: Suffix
+Line 289: Bending Detail
+Line 290: Length Quantity
+Line 291: Total Length
+Line 292: Weight
+Line 293: 1484
+Line 294: Grand
+Line 295: 1484
+Line 296: FOUNDATION SLABS ADDITIONAL TOP REBARS DIRECTION
+Line 297: Partition
+Line 298: Rebar
+Line 299: Number
+Line 300: Rebar
+Line 301: Number
+Line 302: Suffix
+Line 303: Bending Detail
+Line 304: Length Quantity
+Line 305: Total Length
+Line 306: Weight
+Line 307: 05
+Line 308: 2142
+Line 309: 06
+Line 310: 72
+Line 311: 07
+Line 312: 08
+Line 313: Grand
+Line 314: 2454
+Line 315: FOUNDATION SLABS ADDITIONAL TOP REBARS DIRECTION
+Line 316: Partition
+Line 317: Rebar
+Line 318: Number
+Line 319: Rebar
+Line 320: Number
+Line 321: Suffix
+Line 322: Bending Detail
+Line 323: Length Quantity
+Line 324: Total Length
+Line 325: Weight
+Line 326: 2148
+Line 327: 72
+Line 328: 72
+Line 329: Grand
+Line 330: 2346
+Line 331: FOUNDATION SLABS ADDITIONAL BOTTOM REBARS
+Line 332: DIRECTION
+Line 333: Partition
+Line 334: Rebar
+Line 335: Number
+Line 336: Rebar
+Line 337: Number
+Line 338: Suffix
+Line 339: Bending Detail
+Line 340: Length Quantity Total Length Weight
+Line 341: 1492
+Line 342: Grand
+Line 343: 1492
+Line 344: FOUNDATION SLABS ADDITIONAL TOP REBARS DIRECTION
+Line 345: Partition
+Line 346: Rebar
+Line 347: Number
+Line 348: Rebar
+Line 349: Number
+Line 350: Suffix
+Line 351: Bending Detail
+Line 352: Length Quantity Total Length Weight
+Line 353: 08
+Line 354: 2142
+Line 355: 09
+Line 356: 72
+Line 357: Grand
+Line 358: 2454
+Line 359: FOUNDATION SLABS ADDITIONAL TOP REBARS DIRECTION
+Line 360: Partition
+Line 361: Rebar
+Line 362: Number
+Line 363: Rebar
+Line 364: Number
+Line 365: Suffix
+Line 366: Bending Detail
+Line 367: Length Quantity Total Length Weight
+Line 368: 72
+Line 369: 2148
+Line 370: 72
+Line 371: Grand
+Line 372: 2346
+Line 373: FOUNDATION SLABS BOTTOM REBARS DIRECTION
+Line 374: Partition
+Line 375: Rebar
+Line 376: Number
+Line 377: Rebar
+Line 378: Number
+Line 379: Suffix
+Line 380: Bending Detail
+Line 381: Length Quantity Total Length
+Line 382: Weight
+Line 383: 02
+Line 384: 1752
+Line 385: 04
+Line 386: Grand
+Line 387: 2086
+Line 388: FOUNDATION SLABS BOTTOM REBARS DIRECTION
+Line 389: Partition
+Line 390: Rebar
+Line 391: Number
+Line 392: Rebar
+Line 393: Number
+Line 394: Suffix
+Line 395: Bending Detail
+Line 396: Length Quantity
+Line 397: Total Length
+Line 398: Weight
+Line 399: 01
+Line 400: 1485
+Line 401: 03
+Line 402: 06
+Line 403: 07
+Line 404: 08
+Line 405: 09
+Line 406: Grand
+Line 407: 1977
+Line 408: FOUNDATION SLABS BOTTOM REBARS OPENINGS
+Line 409: DIRECTIONS
+Line 410: Partition
+Line 411: Rebar
+Line 412: Number
+Line 413: Rebar
+Line 414: Number
+Line 415: Suffix
+Line 416: Bending Detail
+Line 417: Length Quantity
+Line 418: Total Length
+Line 419: Weight
+Line 420: 03
+Line 421: 04
+Line 422: 06
+Line 423: Grand
+Line 424: FOUNDATION SLABS TOP REBARS DIRECTION
+Line 425: Partition
+Line 426: Rebar
+Line 427: Number
+Line 428: Rebar
+Line 429: Number
+Line 430: Suffix
+Line 431: Bending Detail
+Line 432: Length Quantity
+Line 433: Total Length
+Line 434: Weight
+Line 435: 02
+Line 436: 1752
+Line 437: 06
+Line 438: Grand
+Line 439: 2086
+Line 440: FOUNDATION SLABS TOP REBARS DIRECTION
+Line 441: Partition
+Line 442: Rebar
+Line 443: Number
+Line 444: Rebar
+Line 445: Number
+Line 446: Suffix
+Line 447: Bending Detail
+Line 448: Length Quantity
+Line 449: Total Length
+Line 450: Weight
+Line 451: 01
+Line 452: 1851
+Line 453: 02
+Line 454: 03
+Line 455: 04
+Line 456: 05
+Line 457: Grand
+Line 458: 1975
+Line 459: FOUNDATION SLABS TOP REBARS OPENINGS
+Line 460: DIRECTIONS
+Line 461: Partition
+Line 462: Rebar
+Line 463: Number
+Line 464: Rebar
+Line 465: Number
+Line 466: Suffix
+Line 467: Bending Detail
+Line 468: Length Quantity
+Line 469: Total Length
+Line 470: Weight
+Line 471: 03
+Line 472: 04
+Line 473: 05
+Line 474: 07
+Line 475: Grand
+Line 476: FOUNDATION SLABS BARS DIRECTION
+Line 477: Partition
+Line 478: Rebar
+Line 479: Number
+Line 480: Rebar
+Line 481: Number
+Line 482: Suffix
+Line 483: Bending Detail
+Line 484: Length Quantity
+Line 485: Total Length
+Line 486: Weight
+Line 487: 01
+Line 488: 07
+Line 489: Grand
+Line 490: FOUNDATION SLABS BARS DIRECTION
+Line 491: Partition
+Line 492: Rebar
+Line 493: Number
+Line 494: Rebar
+Line 495: Number
+Line 496: Suffix
+Line 497: Bending Detail
+Line 498: Length Quantity
+Line 499: Total Length
+Line 500: Weight
+Line 501: Grand
+Line 502: FOUNDATION SLABS ADDITIONAL BARS OPENINGS
+Line 503: Partition
+Line 504: Rebar
+Line 505: Number
+Line 506: Rebar
+Line 507: Number
+Line 508: Suffix
+Line 509: Bending Detail
+Line 510: Length
+Line 511: Quantity
+Line 512: Total Length
+Line 513: Weight
+Line 514: 01
+Line 515: 02
+Line 516: 03
+Line 517: 04
+Line 518: 05
+Line 519: 44
+Line 520: 06
+Line 521: 07
+Line 522: Grand
+Line 523: FOUNDATION SLABS ADDITIONAL BARS OPENINGS
+Line 524: Partition
+Line 525: Rebar
+Line 526: Number
+Line 527: Rebar
+Line 528: Number
+Line 529: Suffix
+Line 530: Bending Detail
+Line 531: Length
+Line 532: Quantity Total Length
+Line 533: Weight
+Line 534: 01
+Line 535: 02
+Line 536: 03
+Line 537: 04
+Line 538: 44
+Line 539: 05
+Line 540: 06
+Line 541: 07
+Line 542: Grand
+
+=== END OF FILTERED TEXT ===
+Total lines: 543

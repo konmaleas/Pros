@@ -1,0 +1,17 @@
+You're missing the following:
+
+
+
+
+
+The 'ALL chunks within 15 lines of ONE anchor' issue was resolved way back and actually proven wrong. In the contrary the 15 line has to exist.
+
+
+
+The batch_debug_processor error are produced from the luck of template title and file.
+
+
+
+The uploaded in the project's files pattern_analyzer and batch_debug_processor are the latest versions. If you can't read read them correctly then you have a serious problem.
+
+Next steps is the production of  template title and file recognition.

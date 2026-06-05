@@ -1,0 +1,119 @@
+=== FILTERED TEXT FOR: 1602-TW-A102-00.pdf ===
+
+Line   0: 2
+Line   1: 4
+Line   2: 00
+Line   3: 2
+Line   4: 00
+Line   5: LOBBY
+Line   6: OFFICE
+Line   7: 2
+Line   8: WC
+Line   9: 2
+Line  10: WC
+Line  11: KITCHENETTE
+Line  12: 2
+Line  13: WC
+Line  14: 2
+Line  15: WC
+Line  16: OFFICE
+Line  17: 2
+Line  18: WC
+Line  19: 2
+Line  20: WC
+Line  21: KITCHENETTE
+Line  22: 2
+Line  23: WC
+Line  24: 2
+Line  25: WC
+Line  26: OFFICE
+Line  27: WC
+Line  28: 2
+Line  29: WC
+Line  30: KITCHENETTE
+Line  31: WC
+Line  32: 2
+Line  33: WC
+Line  34: OFFICE
+Line  35: WC
+Line  36: 2
+Line  37: WC
+Line  38: KITCHENETTE
+Line  39: 2
+Line  40: WC
+Line  41: 2
+Line  42: WC
+Line  43: OFFICE
+Line  44: 2
+Line  45: WC
+Line  46: 2
+Line  47: WC
+Line  48: KITCHENETTE
+Line  49: 2
+Line  50: WC
+Line  51: 2
+Line  52: WC
+Line  53: OFFICE
+Line  54: 2
+Line  55: WC
+Line  56: 2
+Line  57: WC
+Line  58: KITCHENETTE
+Line  59: 2
+Line  60: WC
+Line  61: 2
+Line  62: WC
+Line  63: LIFT
+Line  64: SHAFT
+Line  65: 2
+Line  66: SHAFT
+Line  67: ROOM
+Line  68: STAIRCASE
+Line  69: 2
+Line  70: WC
+Line  71: 2
+Line  72: WC
+Line  73: WC DISABLED
+Line  74: 01
+Line  75: 02
+Line  76: 03
+Line  77: 04
+Line  78: 05
+Line  79: 06
+Line  80: REVISIONS
+Line  81: DESCRIPTION
+Line  82: DATE
+Line  83: CLIENT
+Line  84: PROJECT
+Line  85: DESIGN STAGE
+Line  86: DATE
+Line  87: SCALE
+Line  88: FILE NAME
+Line  89: DRAWING TITLE
+Line  90: DRAWING
+Line  91: TAHLIA WALK
+Line  92: VAPARCHITECTS
+Line  93: Epirou Street
+Line  94: Athens, GR Greece
+Line  95: 3262
+Line  96: 3269
+Line  97: DESIGN ARCHITECTS
+Line  98: STRUCTURAL ENGINEER
+Line  99: CONSULTANTS
+Line 100: MEP ENGINEER
+Line 101: STUDIO
+Line 102: Isavron
+Line 103: Lycabettus
+Line 104: Athens, GR 11471 Greece
+Line 105: ZAD DEVELOPMENT
+Line 106: 04 2016
+Line 107: 00
+Line 108: Level
+Line 109: Ground Floor
+Line 110: Project Status
+Line 111: Level Ground Floor
+Line 112: 1602 TW 00
+Line 113: TBD
+
+=== END OF FILTERED TEXT ===
+Total lines: 114

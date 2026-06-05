@@ -1,0 +1,185 @@
+=== FILTERED TEXT FOR: NCM-DD-ZZ-DR-ARC-3011-P4.pdf ===
+
+Line   0: ΙΣΟΓΕΙΟ
+Line   1: ΠΡΩΤΟ
+Line   2: ΔΕΥΤΕΡΟ
+Line   3: ΠΡΩΤΟ ΥΠΟΓΕΙΟ
+Line   4: ΔΕΥΤΕΡΟ ΥΠΟΓΕΙΟ
+Line   5: ΔΩΜΑΤΩΝ ΚΑΙ
+Line   6: ΔΩΜΑΤΩΝ
+Line   7: ΓΡΑΜΜΗ
+Line   8: ΟΡΙΟ
+Line   9: ΒΕΣΤΙΑΡΙΟ ΓΚΙΣΣΕ ΕΙΣΗΤΗΡΙΩΝ
+Line  10: ΠΩΛΗΤΗΡΙΟ ΜΟΥΣΕΙΟΥ
+Line  11: ΥΠΗΡΕΣΙΑΚΗ
+Line  12: ΤΕΛΙΚΟ
+Line  13: ΣΤΕΓΑΣΗ
+Line  14: ΣΤΕΓΑΣΗ ΕΚΘΕΣΙΑΚΟΥ ΧΩΡΟΥ
+Line  15: ΠΑΤΑΡΙ ΕΚΘΕΣΙΑΚΟΙ ΧΩΡΟΙ
+Line  16: ΟΡΟΦΟΣ ΕΚΘΕΣΙΑΚΟΙ ΧΩΡΟΙ
+Line  17: ΣΤΕΓΑΣΗ
+Line  18: ΜΕΤΑΛΛΙΚΗ ΚΑΤΑΣΚΕΥΗ ΣΤΗΡΙΞΗΣ PANELS
+Line  19: ΥΠΑΙΘΡΙΑ ΣΤΑΘΜΕΥΣΗ
+Line  20: 09
+Line  21: 08
+Line  22: 08
+Line  23: ΥΔΡΟΦΟΡΟΣ ΟΡΙΖΟΝΤΑΣ
+Line  24: ΜΑΡΓΑ
+Line  25: ΤΟΠΟΘΕΤΗΣΗ PANELS
+Line  26: ΠΕΡΙΒΛΗΜΑ ΟΠΛ.
+Line  27: ΜΕ ΕΣΩΤΕΡΙΚΗ ΜΟΝΩΣΗ
+Line  28: ΣΥΝΘΕΤΟΣ ΘΕΡΜΟΜΟΝΩΜΕΝΟΣ ΤΟΙΧΟΣ
+Line  29: ΕΠΙ ΜΕΤΑΛΛΙΚΟΥ ΣΚΕΛΕΤΟΥ ΓΙΑ ΤΗΝ ΕΝΤΑΞΗ
+Line  30: ΠΡΟΘΗΚΩΝ ΚΑΙ ΕΓΚΑΤΑΣΤΑΣΕΩΝ
+Line  31: ΚΕΝΟ ΚΥΚΛΟΦΟΡΙΑ ΑΕΡΑ
+Line  32: ΠΛΑΚΑ LED ΓΙΑ ΟΠΕΣ ΠΕΡΙΒΛΗΜΑΤΟΣ
+Line  33: ΟΓΚΟΣ COSMOS
+Line  34: ΚΛΙΜΑΚΕΣ ΑΠΟ
+Line  35: ΕΚΘΕΣΙΑΚΟΥΣ ΧΩΡΟΥΣ
+Line  36: ΜΕΤΑΛΛΙΚΗ ΚΑΤΑΣΚΕΥΗ ΣΤΗΡΙΞΗΣ PANELS
+Line  37: ΟΓΚΟΣ SEA
+Line  38: ΓΡΑΦΕΙΟ ΕΡΕΥΝΗΤΩΝ
+Line  39: ΑΠΟΘΗΚΗ ΛΙΘΙΝΩΝ
+Line  40: ΑΠΟΘΗΚΗ ΣΩΣΤΙΚΩΝ ΑΝΑΣΚΑΦΩΝ
+Line  41: ΚΚΜ
+Line  42: ΑΠΟΘΗΚΩΝ
+Line  43: ΑΠΟΘΗΚΗ
+Line  44: ΚΑΘΑΡΙΣΤΩΝ
+Line  45: ΜΟΝΙΜΗ ΕΚΘΕΣΗ II SEA
+Line  46: ΕΣΤΙΑΤΟΡΙΟ ΚΑΦΕ
+Line  47: ΧΩΡΟΣ ΕΠΙΣΚΕΠΤΩΝ
+Line  48: ΚΥΡΙΑΣ
+Line  49: ΔΕΥΤΕΡΟ
+Line  50: ΙΣΟΓΕΙΟΥ
+Line  51: ΠΡΩΤΟ
+Line  52: ΜΟΝΙΜΗ ΕΚΘΕΣΗ III COSMOS
+Line  53: ΜΟΝΙΜΗ ΕΚΘΕΣΗ II
+Line  54: SEA
+Line  55: ΜΟΝΙΜΗ ΕΚΘΕΣΗ III COSMOS
+Line  56: ΑΠΟΘΗΚΩΝ
+Line  57: ΚΛΙΜΑΚΟΣΤΑΣΙΟ
+Line  58: 8314
+Line  59: 8351
+Line  60: 8314
+Line  61: 8304
+Line  62: 8310
+Line  63: 8305
+Line  64: 8307
+Line  65: 8154
+Line  66: 8154
+Line  67: 8162
+Line  68: 8113
+Line  69: 5009
+Line  70: 8353
+Line  71: 8134
+Line  72: 8133
+Line  73: ΥΠΕΥΘΥΝΟΥ ΕΡΓΟΥ
+Line  74: ΗΜΕΡΟΜΗΝΙΑ
+Line  75: ONOMA ΑΡΧΕΙΟΥ
+Line  76: ΛΕΥΚΩΣΙΑ ΚΥΠΡΟΣ
+Line  77: ΜΕΛΕΤΗ ΕΦΑΡΜΟΓΗΣ DD
+Line  78: ΝΕΟ ΚΥΠΡΙΑΚΟ ΜΟΥΣΕΙΟ
+Line  79: ΗΜΕΡΟΜΗΝΙΑ
+Line  80: ΕΓΚΡΙΘΗΚΕ
+Line  81: ΤΜΗΜΑ
+Line  82: ΗΜΕΡΟΜΗΝΙΑ
+Line  83: ΕΛΕΓΧΘΗΚΕ
+Line  84: ΤΜΗΜΑ
+Line  85: ΤΙΤΛΟΣ
+Line  86: ΥΠΟΒΟΛΗ
+Line  87: ΑΡ.
+Line  88: ΥΠΟΥΡΓΕΙΟ ΜΕΤΑΦΟΡΩΝ, ΕΠΙΚΟΙΝΩΝΙΩΝ ΚΑΙ ΕΡΓΩΝ
+Line  89: ΤΜΗΜΑ ΕΡΓΩΝ
+Line  90: KEY PLAN
+Line  91: ΗΜΕΡΟΜΗΝΙΑ
+Line  92: ΠΕΡΙΕΧΟΜΕΝΟ
+Line  93: ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΜΕΛΕΤΗ
+Line  94: THEONI XANTHI XZA LLC
+Line  95: ΥΠΕΥΘΥΝΟΣ ΕΡΓΟΥ
+Line  96: ΑΡΧΙΤΕΚΤΩΝ ΘΕΩΝΗ ΞΑΝΘΗ
+Line  97: ΑΡΧΙΤΕΚΤΟΝΕΣ
+Line  98: ΜΑΡΓΑΡΙΤΑ ΖΑΚΥΝΘΙΝΟΥ
+Line  99: ΣΥΝΤΟΝΙΣΤΗΣ ΑΡΧIT ΚΗΣ ΜΕΛΕΤΗΣ
+Line 100: ΚΟΣΜΑΣ ΒΑΡΚΑΡΟΛΗΣ
+Line 101: ΑΡΧΙΤΕΚΤΟΝΙΚΑ
+Line 102: YAP
+Line 103: ΣTATIKΑ
+Line 104: RHOMBUS STRUCTURAL ENGINEERS LLC ΣΤ.
+Line 105: PENELIS CONSULTING ENGINEERS SA ΠΕΝΕΛΗΣ
+Line 106: GEORGHIOU ZEMBYLAS PARTNERS
+Line 107: ΜΗΧΑΝΟΛΟΓΙΚA
+Line 108: ΗΛΕΚΤΡΟΛΟΓΙΚA
+Line 109: ΜΟΥΣΕΙΟΛΟΓΙΚA
+Line 110: THETA ACOUSTICS LTD ΝΙΑΟΥΝΑΚΗΣ
+Line 111: ΑΚΟΥΣΤΙΚA
+Line 112: RODITIS PARTNERS
+Line 113: ΕΠΙΜΕΤΡΗΣΗ ΠΟΣΟΤΗΤΩΝ
+Line 114: FLOROS PANTELI ASSOCIATES ΠΑΝΤΕΛΗ
+Line 115: ΥΓΕΙΑ
+Line 116: ΜΟΥΣΕΙΟΓΡΑΦΙΚA
+Line 117: ΘΩΜΑΣ ΤΣΟΥΚΑΛΑΣ
+Line 118: ΦΩΤΙΣΜΟΣ
+Line 119: DECO ASSOCIATES ΕΛ. ΝΤΕΚΩ
+Line 120: ΠΥΡΟΠΡΟΣΤΑΣΙΑ
+Line 121: INT FIRE CYPRUS LTD ΣΠ. ΣΠΥΡΟΥ
+Line 122: ΚΥΚΛΟΦΟΡΙΑΚΑ
+Line 123: DROMOS CONSULTING LTD ΖΕΚΚΟΣ
+Line 124: ΣΗΜΑΝΣΗ
+Line 125: POST SPECTACULAR OFFICE ΓΑΛΙΚΑΣ
+Line 126: ΚΤΗΡΙΟΥ
+Line 127: ARION PLUS
+Line 128: ΕΡΓΑΣΙΑΣ
+Line 129: ΜΕΛΕΤΗΣ
+Line 130: FEREOS LLC ΦΕΡΑΙΟΣ Αναπλ. Υπεύθυνος Οµάδας Έργου
+Line 131: DROMOS CONSULTING LTD ΖΕΚΚΟΣ
+Line 132: ΣΥΜΒΟΥΛΟΙ ΜΕΛΕΤΗΤΕΣ
+Line 133: ΓΕΩΤΕΧΝΙΚΑ
+Line 134: ΜΟΥΣΕΙΑΚΟΣ
+Line 135: XZA
+Line 136: ΒΑΣΙΛΕΙΟΥ
+Line 137: ΕΡΓΑΣΤΗΡΙΑ
+Line 138: ΩΡ
+Line 139: ΑΡΧΙΤΕΚΤΟΝΙΚΗ
+Line 140: ΚΛΙΜΑΚΑ
+Line 141: VAP Σύµβουλος Μελέτης Εφαρµογής
+Line 142: DR ARC
+Line 143: ΚΑΤΑΛΛΗΛΟΤΗΤΑΣ
+Line 144: NCM DD
+Line 145: Engineer Record
+Line 146: GEORGHIOU ZEMBYLAS PARTNERS
+Line 147: ANDREAS EVRIPIDOU CIVIL ENGINEERS
+Line 148: ΣΤΕΡΓΙΟΣ ΓΑΛΙΚΑΣ
+Line 149: ΘΩΜΑΣ ΤΣΟΥΚΑΛΑΣ
+Line 150: ΣΤΕΡΓΙΟΣ ΓΑΛΙΚΑΣ
+Line 151: Συνεργάτης ΤΣΑΜΠΙΚΟΣ ΠΕΤΡΑΣ
+Line 152: POST SPECTACULAR OFFICE ΓΑΛΙΚΑΣ
+Line 153: ΠΡΟΜΕΛΕΤΗ ΣΑΚΕΛΛΑΡΙΟΥ
+Line 154: ΦΥΣΙΚΟΣ ΦΩΤΙΣΜΟΣ
+Line 155: ΤΣΑΓΚΡΑΣΟΥΛΗΣ
+Line 156: ΕΞΟΠΛΙΣΜΟΣ ΚΟΥΖΙΝΑΣ
+Line 157: XENEX
+Line 158: ΕΝΕΡΓΕΙΑΚΑ ΚΕΛΥΦΟΥΣ
+Line 159: METABUILD
+Line 160: ΓΡΑΦΙΣΤΙΚΑ
+Line 161: ΦΥΤΟΤΕΧΝΙΚΑ
+Line 162: LANDCO EΠΕ ΚΑΝΤΑΡΤΖΗΣ
+Line 163: ΦΕΒΡΟΥΑΡΙΟΣ 2021
+Line 164: 2021 PM
+Line 165: ΤΟΜΕΣ ΑΑ ΖΩΝΗ
+Line 166: 3011
+Line 167: ΖΖ
+Line 168: ΤΟΜΗ ΑΑ ΖΩΝΗ
+Line 169: ΤΟΜΗ ΑΑ
+Line 170: ΖΩΝΗ
+Line 171: P1
+Line 172: 06 03 2020
+Line 173: Υποβολή
+Line 174: 07 2020
+Line 175: Υποβολή
+Line 176: 2020
+Line 177: Υποβολή
+Line 178: 02 2021
+Line 179: Υποβολή
+
+=== END OF FILTERED TEXT ===
+Total lines: 180

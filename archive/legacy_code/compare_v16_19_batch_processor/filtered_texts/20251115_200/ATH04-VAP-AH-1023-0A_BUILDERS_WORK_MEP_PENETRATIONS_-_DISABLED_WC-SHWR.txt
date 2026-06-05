@@ -1,0 +1,116 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-1023-0A_BUILDERS_WORK_MEP_PENETRATIONS_-_DISABLED_WC-SHWR.pdf ===
+
+Line   0: GL
+Line   1: CEILING LEVEL
+Line   2: MP AD 034 01
+Line   3: 3660
+Line   4: 1280
+Line   5: DIS
+Line   6: WC SHWR
+Line   7: 00 034
+Line   8: GL
+Line   9: CEILING LEVEL
+Line  10: MP AD 034 02
+Line  11: MP AD 034 03
+Line  12: MP AD 034 04
+Line  13: 1120
+Line  14: 3855
+Line  15: 2085
+Line  16: 5940
+Line  17: DIS
+Line  18: WC SHWR
+Line  19: 00 034
+Line  20: 1023
+Line  21: 1023
+Line  22: DIS
+Line  23: WC SHWR
+Line  24: 00 034
+Line  25: 1023
+Line  26: 2
+Line  27: MEP PENETRATIONS CODE
+Line  28: MP AD XXX XX
+Line  29: MP
+Line  30: MEP PENETRATIONS
+Line  31: AD
+Line  32: BUILDING CODE
+Line  33: XXX
+Line  34: ROOM NUMBER
+Line  35: XX
+Line  36: PENETRATION NUMBER
+Line  37: GL
+Line  38: CEILING LEVEL
+Line  39: MP AD 034 05
+Line  40: MP AD 034 07
+Line  41: MP AD 034 08
+Line  42: MP AD 034 06
+Line  43: MP AD 034 01
+Line  44: 710
+Line  45: 1605
+Line  46: 415
+Line  47: 2950
+Line  48: 1275
+Line  49: ADMIN
+Line  50: COLO
+Line  51: COLO 2
+Line  52: 2
+Line  53: 4
+Line  54: 2
+Line  55: 4
+Line  56: TRUE NORTH
+Line  57: Sheet Title Number
+Line  58: Scale
+Line  59: Plan
+Line  60: Design Consultants
+Line  61: Microsoft
+Line  62: DATA CENTER
+Line  63: SPATA GREECE
+Line  64: Contractor Joint Venture
+Line  65: Name
+Line  66: Contractor Project
+Line  67: Contractor Contract
+Line  68: Contractor PM
+Line  69: Contractor BIM Mngr
+Line  70: Contractor Information
+Line  71: Renco Terna
+Line  72: Client
+Line  73: General Notes
+Line  74: Client Project
+Line  75: Client Contract
+Line  76: Client PM
+Line  77: Client BIM Mngr
+Line  78: Primary Client Information
+Line  79: Layout
+Line  80: Revision
+Line  81: Tombazi Chalandri
+Line  82: 15232
+Line  83: Athens Greece
+Line  84: 0800 3262
+Line  85: Agion Theodoron Square Athens
+Line  86: 10561
+Line  87: Athens Greece
+Line  88: Kimithois Agios Dimitrios
+Line  89: 17236
+Line  90: Athens Greece
+Line  91: Purpose Issue
+Line  92: Issue
+Line  93: Name
+Line  94: BUILDERS WORK MEP PENETRATIONS
+Line  95: DISABLED WC SHWR
+Line  96: VAP AH 1023
+Line  97: SCALE
+Line  98: 034 DISABLED WC SHWR ELEVATION MEP PENETRATIONS
+Line  99: SCALE
+Line 100: 034 DISABLED WC SHWR ELEVATION MEP PENETRATIONS
+Line 101: 1000
+Line 102: SCALE
+Line 103: Date
+Line 104: Description
+Line 105: 07
+Line 106: Issued Approval
+Line 107: VAP
+Line 108: SCALE
+Line 109: 034 DISABLED WC SHWR ELEVATION 2 MEP PENETRATIONS
+Line 110: 2
+
+=== END OF FILTERED TEXT ===
+Total lines: 111

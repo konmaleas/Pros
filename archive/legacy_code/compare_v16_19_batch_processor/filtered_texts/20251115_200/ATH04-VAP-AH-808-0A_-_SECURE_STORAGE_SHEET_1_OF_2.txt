@@ -1,0 +1,125 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-808-0A_-_SECURE_STORAGE_SHEET_1_OF_2.pdf ===
+
+Line   0: 4
+Line   1: 2
+Line   2: SECURE
+Line   3: STORAGE
+Line   4: 00 044
+Line   5: ID AD 043
+Line   6: 2525
+Line   7: 1880
+Line   8: WT
+Line   9: 6810
+Line  10: 1300
+Line  11: 1286
+Line  12: 1281
+Line  13: 1281
+Line  14: 1281
+Line  15: 1281
+Line  16: 1281
+Line  17: LT
+Line  18: ID AD 052
+Line  19: ID AD 051
+Line  20: POWER FLOATED
+Line  21: CONCRETE SEALED
+Line  22: ASHFORD FORMULA SEALER
+Line  23: 2525
+Line  24: 1880
+Line  25: 1065
+Line  26: WT
+Line  27: LT
+Line  28: NOTE
+Line  29: WALL TYPE LEGEND DRAWING
+Line  30: ADMIN
+Line  31: COLO
+Line  32: COLO 2
+Line  33: 2
+Line  34: 4
+Line  35: 2
+Line  36: 4
+Line  37: TRUE NORTH
+Line  38: Sheet Title Number
+Line  39: Scale
+Line  40: Plan
+Line  41: Design Consultants
+Line  42: Microsoft
+Line  43: DATA CENTER
+Line  44: SPATA GREECE
+Line  45: Contractor Joint Venture
+Line  46: Name
+Line  47: Contractor Project
+Line  48: Contractor Contract
+Line  49: Contractor PM
+Line  50: Contractor BIM Mngr
+Line  51: Contractor Information
+Line  52: Renco Terna
+Line  53: Client
+Line  54: General Notes
+Line  55: Client Project
+Line  56: Client Contract
+Line  57: Client PM
+Line  58: Client BIM Mngr
+Line  59: Primary Client Information
+Line  60: Layout
+Line  61: Revision
+Line  62: Tombazi Chalandri
+Line  63: 15232
+Line  64: Athens Greece
+Line  65: 0800 3262
+Line  66: Agion Theodoron Square Athens
+Line  67: 10561
+Line  68: Athens Greece
+Line  69: Kimithois Agios Dimitrios
+Line  70: 17236
+Line  71: Athens Greece
+Line  72: Purpose Issue
+Line  73: Issue
+Line  74: Name
+Line  75: SECURE STORAGE SHEET 2
+Line  76: VAP AH
+Line  77: SCALE
+Line  78: 07 ECURE STORAGE FLOOR PLAN
+Line  79: SCALE
+Line  80: 07 SECURE STORAGE VIEW
+Line  81: 1000
+Line  82: SCALE
+Line  83: EQUIPMENT SCHEDULE SECURE STORAGE
+Line  84: Count
+Line  85: CODE
+Line  86: Description
+Line  87: Room Name
+Line  88: Room Number
+Line  89: 2
+Line  90: TASK CHAIR LUMBAR SUPPORT
+Line  91: ARMS
+Line  92: SECURE STORAGE
+Line  93: 00 044
+Line  94: 2
+Line  95: 1600 HEIGHT ADJUSTABLE
+Line  96: RECTANGULAR DESK
+Line  97: SECURE STORAGE
+Line  98: 00 044
+Line  99: IDA
+Line 100: DOUBLE LEAF, INTERIOR DOOR
+Line 101: SECURE STORAGE
+Line 102: 00 044
+Line 103: 2400 BULK RACK
+Line 104: SECURE STORAGE
+Line 105: 00 044
+Line 106: 2400 PALLET SHELF
+Line 107: SECURE STORAGE
+Line 108: 00 044
+Line 109: 2
+Line 110: INTERIOR STEEL FRAME FIXED WINDOW
+Line 111: ACHIEVE ACOUSTIC FIRE REI
+Line 112: RATING
+Line 113: SECURE STORAGE
+Line 114: 00 044
+Line 115: Date
+Line 116: Description
+Line 117: 04
+Line 118: Issued Approval
+Line 119: VAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 120

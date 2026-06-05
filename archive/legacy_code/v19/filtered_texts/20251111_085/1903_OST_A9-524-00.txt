@@ -1,0 +1,82 @@
+=== FILTERED TEXT FOR: 1903_OST_A9-524-00.pdf ===
+
+Line   0: 450
+Line   1: 1590
+Line   2: 1260
+Line   3: 470
+Line   4: ΛΑΓΩΝΙΚΗ ΑΛΜΥΡΑ ΝΟΤΙΑ
+Line   5: ΑΝΤΙΠΑΡΟΣ LAGONIKI ALMYRA
+Line   6: SOUTH ANTIPAROS
+Line   7: ΚΑΤΟΙΚΙΕΣ ΣΤΗΝ ΑΝΤΙΠΑΡΟ
+Line   8: RESIDENCES ANTIPAROS
+Line   9: OST LIMITED
+Line  10: ΠΕΡΙΓΡΑΦΗ
+Line  11: DESCRIPTION
+Line  12: ΗΜ ΝΙΑ
+Line  13: REVISION DATE
+Line  14: Νaxou Kifisia, Greece
+Line  15: 4217 6976
+Line  16: ERISMA
+Line  17: Kontou Athens, Greece
+Line  18: 6781 6785
+Line  19: TEKEM CONSULTING ENGINEERS
+Line  20: Epirou Athens, Greece
+Line  21: 3262 3269
+Line  22: Ploutarchou Athens, 75 Greece
+Line  23: 722 4170 722 6355
+Line  24: Skoufa Athens, 72 Greece
+Line  25: 8642
+Line  26: HELLI PANGALOU
+Line  27: ΚΛΙΜΑΚΑ
+Line  28: SCALE
+Line  29: ΣΧΕΔΙΟ
+Line  30: ΕΡΓΟ
+Line  31: ΕΡΓΟΔΟΤΗΣ
+Line  32: ΗΜΕΡΟΜΗΝΙΑ ΕΚΔΟΣΗΣ
+Line  33: FIRST ISSUE DATE
+Line  34: DETAILED DESIGN
+Line  35: KAT. ΣΧΕΔΙΟΥ
+Line  36: BLD. CATEGORY
+Line  37: ISSUED
+Line  38: ΘΕΣΗ ΕΡΓΟΥ
+Line  39: CONSTR.
+Line  40: APPROVAL
+Line  41: TENDER
+Line  42: STATUS
+Line  43: DRAFT
+Line  44: FINAL
+Line  45: ΑΝΑΘ.
+Line  46: REV.
+Line  47: PROJECT
+Line  48: LOCATION
+Line  49: CLIENT
+Line  50: DRAWING
+Line  51: ΚΗΠΟΤΕΧΝΙΚΗ ΜΕΛΕΤΗ
+Line  52: LANDSCAPE DESIGN
+Line  53: ΜΗΧΑΝΟΛΟΓΙΚΗ ΜΕΛΕΤΗ
+Line  54: MEP ENGINEER
+Line  55: ΣΤΑΤΙΚΗ ΜΕΛΕΤΗ
+Line  56: STRUCTURAL ENGINEER
+Line  57: ΑΡΧΙΤΕΚΤΟΝΑΣ ΕΡΓΟΥ
+Line  58: ARCHITECTURAL DESIGN
+Line  59: ΕΚΤΕΛΕΣΗ ΑΡΧΙΤΕΚΤΟΝΙΚΗΣ
+Line  60: ΜΕΛΕΤΗΣ ΕΠΙΒΛΕΨΗ
+Line  61: EXECUTIVE ARCHITECT
+Line  62: SITE SUPERVISOR
+Line  63: DISCIPLINE
+Line  64: ARC
+Line  65: VAP
+Line  66: WHITE
+Line  67: AGT SOFT TOUCH
+Line  68: WHITE
+Line  69: RAL 9010
+Line  70: KALDEWEI MIENA
+Line  71: WATEREVOLUTION
+Line  72: A9 524 00
+Line  73: WOODWORK
+Line  74: 2021
+Line  75: COUNTERTOP
+Line  76: BATHROOM
+
+=== END OF FILTERED TEXT ===
+Total lines: 77

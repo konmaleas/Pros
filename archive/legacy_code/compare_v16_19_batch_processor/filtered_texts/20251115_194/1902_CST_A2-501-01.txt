@@ -1,0 +1,169 @@
+=== FILTERED TEXT FOR: 1902_CST_A2-501-01.pdf ===
+
+Line   0: ΤΕΛΕΙΩΜΑΤΑ ΔΑΠΕΔΩΝ FLOOR FINISHES
+Line   1: ΠΛΑΚΑΚΙ ΚΥΡΙΩΝ ΕΣΩΤΕΡΙΚΩΝ INTERIOR TILES
+Line   2: ΓΡΑΝΙΤΟΠΛΑΚΑΚΙ ΕΞΩΤΕΡΙΚΩΝ EXTERIOR TILES
+Line   3: ΠΛΑΚΑΚΙ ΒΟΗΘΗΤΙΚΩΝ TILES AUXILIARY ROOMS
+Line   4: 2
+Line   5: 2
+Line   6: 2820
+Line   7: Bedroom 2
+Line   8: ΥΠΝΟΔΩΜΑΤΙΟ 2
+Line   9: 4
+Line  10: 2500
+Line  11: Lobby
+Line  12: ΠΡΟΘΑΛΑΜΟΣ
+Line  13: 4
+Line  14: 2500
+Line  15: Bathroom 2
+Line  16: ΜΠΑΝΙΟ 2
+Line  17: 2820
+Line  18: Bedroom
+Line  19: ΥΠΝΟΔΩΜΑΤΙΟ
+Line  20: 4
+Line  21: 2500
+Line  22: Lobby
+Line  23: ΠΡΟΘΑΛΑΜΟΣ
+Line  24: 4
+Line  25: 2500
+Line  26: Bathroom
+Line  27: ΜΠΑΝΙΟ
+Line  28: 2820
+Line  29: Bedroom 4
+Line  30: ΥΠΝΟΔΩΜΑΤΙΟ 4
+Line  31: 4
+Line  32: 2500
+Line  33: Lobby
+Line  34: ΠΡΟΘΑΛΑΜΟΣ
+Line  35: 4
+Line  36: 2500
+Line  37: Bathroom 4
+Line  38: ΜΠΑΝΙΟ 4
+Line  39: 2820
+Line  40: Bedroom
+Line  41: ΥΠΝΟΔΩΜΑΤΙΟ
+Line  42: 4
+Line  43: 2500
+Line  44: Lobby
+Line  45: ΠΡΟΘΑΛΑΜΟΣ
+Line  46: 4
+Line  47: 2500
+Line  48: Bathroom
+Line  49: ΜΠΑΝΙΟ
+Line  50: ΠΡΟΒΟΛΗ ΠΕΡΓΚΟΛΑΣ ΑΝΩΘΕΝ
+Line  51: 71
+Line  52: Outdoor Area
+Line  53: Υπαίθριος
+Line  54: Outdoor 2
+Line  55: Υπαίθριος 2
+Line  56: ΕΞ
+Line  57: ΕΞ
+Line  58: ΕΞ
+Line  59: ΕΞ
+Line  60: Αρμός
+Line  61: ΚΩΔΙΚΟΣ ΧΩΡΟΥ ROOM NUMBER
+Line  62: ΕΠΙΦΑΝΕΙΑ ΧΩΡΟΥ ROOM AREA
+Line  63: ΟΠΤΟΠΛΙΝΘΟΔΟΜΗ BRICKWORK
+Line  64: ΦΕΡΩΝ ΟΡΓΑΝΙΣΜΟΣ BEARING STRUCTURE
+Line  65: ΣΤΑΘΜΗ ΤΕΛΙΚΟΥ ΔΑΠΕΔΟΥ FINISH FLOOR
+Line  66: ELEVATION
+Line  67: ΤΥΠΟΣ ΔΑΠΕΔΟΥ FLOOR TYPE
+Line  68: ΣΤΑΘΜΗ ΠΛΑΚΑΣ ΜΠΕΤΟΥ STRUCTURAL SLAB
+Line  69: ELEVATION
+Line  70: ΓΕΝΙΚΟΙ ΣΥΜΒΟΛΙΣΜΟΙ GENERAL ANNOTATION
+Line  71: ΘΕΡΜΟΜΟΝΩΣΗ THERMAL INSULATION
+Line  72: ΤΥΠΟΣ ΠΑΡΑΘΥΡΟΥ WINDOW TYPE
+Line  73: ΑΝΟΙΓΜΑ ΠΑΡΑΘΥΡΟΥ WINDOW WIDTH
+Line  74: ΠΟΔΙΑ ΠΑΡΑΘΥΡΟΥ WINDOW SILL
+Line  75: ΠΡΕΚΙ ΠΑΡΑΘΥΡΟΥ WINDOW HEAD
+Line  76: Room
+Line  77: ΔΩΜΑΤΙΟ GR
+Line  78: ΚΩΔΙΚΟΣ ΠΑΡΑΘΥΡΟΥ WINDOW NUMBER
+Line  79: ΣΥΜΒΟΛΑ ΛΕΠΤΟΜΕΡΕΙΩΝ ΣΧΕΔΙΟΥ DETAIL
+Line  80: INDICATION
+Line  81: ΤΥΠΟΣ ΘΥΡΑΣ DOOR TYPE
+Line  82: ΑΝΟΙΓΜΑ ΘΥΡΑΣ DOOR OPENING
+Line  83: ΠΟΔΙΑ ΘΥΡΑΣ DOOR SILL
+Line  84: ΠΡΕΚΙ ΘΥΡΑΣ DOOR HEAD
+Line  85: ΚΩΔΙΚΟΣ ΘΥΡΑΣ DOOR NUMBER
+Line  86: ΣΥΜΒΟΛΟ ΤΟΜΗΣ ΣΧΕΔΙΟΥ SECTION
+Line  87: INDICATION
+Line  88: 2
+Line  89: 9312
+Line  90: ΚΑΘΑΡΟ ΥΨΟΣ ΧΩΡΟΥ CEILING HEIGHT
+Line  91: ΤΕΛΕΙΩΜΑ ΟΡΟΦΗΣ CEILING FINISH
+Line  92: ΤΕΛΕΙΩΜΑ ΤΟΙΧΟΥ WALL FINISH
+Line  93: ΟΝΟΜΑ ΧΩΡΟΥ
+Line  94: ΚΛΙΜΑΚΑ
+Line  95: SCALE
+Line  96: ΣΧΕΔΙΟ
+Line  97: ΕΡΓΟ
+Line  98: ΕΡΓΟΔΟΤΗΣ
+Line  99: ΗΜΕΡΟΜΗΝΙΑ ΕΚΔΟΣΗΣ
+Line 100: FIRST ISSUE DATE
+Line 101: ΣΦΡΑΓΙΔΑ
+Line 102: ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΜΕΛΕΤΗ ΕΦΑΡΜΟΓΗΣ
+Line 103: DETAILED DESIGN
+Line 104: ΠΕΡΙΟΧΗ
+Line 105: ZONE
+Line 106: LANDSCAPE DESIGN
+Line 107: Kontou 2 Athens, Greece
+Line 108: 6781 6785
+Line 109: MEP DESIGN
+Line 110: TEKEM CONSULTING ENGINEERS
+Line 111: STRUCTURAL DESIGN
+Line 112: Epirou Αthens, Greece
+Line 113: 3262 3269
+Line 114: EXECUTIVE ARCHITECT
+Line 115: SITE SUPERVISOR
+Line 116: Ploutarchou Athens, 75 Greece
+Line 117: 722 4170 722 6355
+Line 118: ARCHITECTURAL DESIGN
+Line 119: ISSUED
+Line 120: ΘΕΣΗ ΕΡΓΟΥ
+Line 121: CONSTRUCTION
+Line 122: APPROVAL
+Line 123: TENDER
+Line 124: STATUS
+Line 125: DRAFT
+Line 126: FINAL
+Line 127: STAMP
+Line 128: DISCIPLINE
+Line 129: ARC
+Line 130: ΑΝΑΘ.
+Line 131: REV.
+Line 132: VALSAMAKIS
+Line 133: ERISMA
+Line 134: Naxou Kifisia, Greece
+Line 135: 4217 6976
+Line 136: Skoufa Athens, 72 Greece
+Line 137: 8642
+Line 138: HELLI PANGALOU
+Line 139: ΚΗΠΟΤΕΧΝΙΚΗ ΜΕΛΕΤΗ
+Line 140: ΜΗΧΑΝΟΛΟΓΙΚΗ ΜΕΛΕΤΗ
+Line 141: ΕΚΤΕΛΕΣΗ ΑΡΧΙΤΕΚΤΟΝΙΚΗΣ ΜΕΛΕΤΗΣ ΕΠΙΒΛΕΨΗ
+Line 142: ΣΤΑΤΙΚΗ ΜΕΛΕΤΗ
+Line 143: ΑΡΧΙΤΕΚΤΟΝΑΣ ΕΡΓΟΥ
+Line 144: VAP
+Line 145: PROJECT
+Line 146: LOCATION
+Line 147: CLIENT
+Line 148: DRAWING
+Line 149: ΔΑΠΕΔΑ ΤΕΛΕΙΩΜΑΤΑ
+Line 150: ΛΑΓΩΝΙΚΗ ΝΟΤΙΑ ΑΝΤΙΠΑΡΟΣ
+Line 151: LAGONIKI ALMYRA SOUTH ANTIPAROS
+Line 152: 06
+Line 153: ΙΣΟΓΕΙΟ
+Line 154: ΚΑΤΟΙΚΙΕΣ ΣΤΗΝ ΑΝΤΙΠΑΡΟ
+Line 155: RESIDENCES ANTIPAROS
+Line 156: CSTO LIMITED
+Line 157: ΚΤΙΡΙΑ 2
+Line 158: FINISHES
+Line 159: GROUND FLOOR
+Line 160: BUILDINGS 2
+Line 161: ΑΝΑΘΕΩΡΗΣΕΙΣ
+Line 162: ΠΕΡΙΓΡΑΦΗ DESCRIPTION
+Line 163: ΗΜ ΝΙΑ DATE
+
+=== END OF FILTERED TEXT ===
+Total lines: 164

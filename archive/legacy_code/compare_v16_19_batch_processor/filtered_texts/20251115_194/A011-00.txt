@@ -1,0 +1,61 @@
+=== FILTERED TEXT FOR: A011-00.pdf ===
+
+Line   0: 2
+Line   1: 2
+Line   2: 4
+Line   3: 2
+Line   4: 4
+Line   5: 2
+Line   6: 2
+Line   7: 4
+Line   8: 2
+Line   9: 4
+Line  10: 2
+Line  11: 2
+Line  12: 2
+Line  13: 2
+Line  14: 4
+Line  15: 2
+Line  16: 4
+Line  17: 2
+Line  18: 2
+Line  19: 2
+Line  20: 4
+Line  21: 4
+Line  22: 2
+Line  23: 4
+Line  24: 2
+Line  25: 4
+Line  26: 2
+Line  27: 4
+Line  28: 4
+Line  29: SIM
+Line  30: 2
+Line  31: 2
+Line  32: 2
+Line  33: 2
+Line  34: 2
+Line  35: 2691
+Line  36: 05
+Line  37: 04
+Line  38: 03
+Line  39: 02
+Line  40: 01
+Line  41: 2017
+Line  42: 2 2 2
+Line  43: 2 2 2
+Line  44: 2
+Line  45: 4
+Line  46: 0601 700 1457 2691
+Line  47: 21752
+Line  48: 10439
+Line  49: 06
+Line  50: 07
+Line  51: 2017
+Line  52: 01
+Line  53: 01
+Line  54: 02
+Line  55: 2
+
+=== END OF FILTERED TEXT ===
+Total lines: 56

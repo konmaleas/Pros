@@ -1,0 +1,105 @@
+=== FILTERED TEXT FOR: ATH1-DC03-CAP-20302-PLN-2-009-FF-00-T00_4-GENERAL_ARRANGEMENT_PLAN_DC3_FF.pdf ===
+
+Line   0: 2
+Line   1: 4
+Line   2: 2
+Line   3: 4
+Line   4: 2
+Line   5: 4
+Line   6: 40
+Line   7: SERVICE
+Line   8: LIFT
+Line   9: SERVICE
+Line  10: LIFT 2
+Line  11: OPEN SPACE
+Line  12: OFFICES
+Line  13: MEETING ROOM
+Line  14: MEETING
+Line  15: ROOM
+Line  16: OFFICE
+Line  17: OFFICE
+Line  18: OFFICE
+Line  19: OFFICE
+Line  20: OFFICE
+Line  21: STORAGE
+Line  22: ARCHIVE
+Line  23: FW COR
+Line  24: FW COR 4
+Line  25: DHA
+Line  26: DHA 2
+Line  27: FW COR
+Line  28: ROOMS
+Line  29: STA
+Line  30: FW COR 2
+Line  31: CORRIDOR
+Line  32: STA
+Line  33: STA
+Line  34: 2
+Line  35: 4
+Line  36: Version
+Line  37: Date
+Line  38: Review
+Line  39: Designer
+Line  40: Auditor
+Line  41: Approver
+Line  42: Paper Size
+Line  43: SCALE
+Line  44: ATH1 DC03 CAP 20302 PLN 2 009 FF 00 GENERAL ARRANGEMENT PLAN DC3 FF
+Line  45: 20302
+Line  46: PP Model Name
+Line  47: ORGANDI
+Line  48: Esplanade Miriam Makeba
+Line  49: Gerda Taro
+Line  50: 69100 VILLEURBANNE France
+Line  51: 4 40 00 70
+Line  52: Internet
+Line  53: GENERAL ARRANGEMENT PLAN DC3 FF
+Line  54: ATH1
+Line  55: PROJECT
+Line  56: RIBA
+Line  57: TRADE
+Line  58: AUTHOR
+Line  59: LEVEL
+Line  60: CAP TRADE
+Line  61: TYPE
+Line  62: DOC.
+Line  63: VERSION
+Line  64: DC03
+Line  65: 2
+Line  66: 20302
+Line  67: CAP
+Line  68: FF
+Line  69: PLN
+Line  70: 009
+Line  71: 00
+Line  72: SITE
+Line  73: ATH
+Line  74: Kifissias Avenue
+Line  75: GR 15125, MAROUSSI Greece
+Line  76: 4463 1552
+Line  77: Anagirountos
+Line  78: Vari 16672, Greece
+Line  79: Telephone 9654
+Line  80: Email
+Line  81: PAIANIA
+Line  82: GREECE
+Line  83: MODEL NAME
+Line  84: REFERENCE
+Line  85: FILE NAME
+Line  86: TRADE
+Line  87: ARCHITECTURE
+Line  88: Tombazi
+Line  89: Chalandri, 15232
+Line  90: Athens, Greece
+Line  91: 0800 3262
+Line  92: Thivaidos Street
+Line  93: GR Kifissia,
+Line  94: CAP TRADE General
+Line  95: 03 2025
+Line  96: First Submission
+Line  97: VAP
+Line  98: VAP
+Line  99: CAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 100

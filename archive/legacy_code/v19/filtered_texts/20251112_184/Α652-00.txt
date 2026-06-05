@@ -1,0 +1,24 @@
+=== FILTERED TEXT FOR: Α652-00.pdf ===
+
+Line   0: WC
+Line   1: WC
+Line   2: WC
+Line   3: WC
+Line   4: WC
+Line   5: WC
+Line   6: 01
+Line   7: 01
+Line   8: 02
+Line   9: 2691
+Line  10: 05
+Line  11: 04
+Line  12: 03
+Line  13: 02
+Line  14: 01
+Line  15: 2017
+Line  16: 0601 700 1457 2691
+Line  17: 21752
+Line  18: 10439
+
+=== END OF FILTERED TEXT ===
+Total lines: 19

@@ -1,0 +1,200 @@
+=== FILTERED TEXT FOR: 4A01-B06-VAP-DWG-280-DD-05101-A.pdf ===
+
+Line   0: COUR ANGLAISE
+Line   1: 00031
+Line   2: 00031
+Line   3: 2
+Line   4: 4
+Line   5: 2
+Line   6: 4
+Line   7: COUR ANGLAISE
+Line   8: COUR ANGLAISE
+Line   9: COUR ANGLAISE
+Line  10: COUR ANGLAISE
+Line  11: 4
+Line  12: ΠΥΡΟΔΙΑΜΕΡΙΣΜΑ
+Line  13: 2018 ΚΤΗΡΙΟ ΓΡΑΦΕΙΩΝ
+Line  14: ΕΠΙΚΙΝΔΥΝΟΣ ΧΩΡΟΣ
+Line  15: AUTO
+Line  16: EXIT
+Line  17: ΠΥΡΟΔΙΑΜΕΡΙΣΜΑ
+Line  18: 2018 ΚΤΗΡΙΟ ΓΡΑΦΕΙΩΝ
+Line  19: ΕΠΙΚΙΝΔΥΝΟΣ ΧΩΡΟΣ
+Line  20: ΠΥΡΑΝΤΟΧΟ
+Line  21: ΦΡΕΑΤΙΟ ΑΝΕΛΚΥΣΤΗΡΑ
+Line  22: AUTO
+Line  23: EXIT
+Line  24: AUTO
+Line  25: EXIT
+Line  26: ΠΥΡΟΔΙΑΜΕΡΙΣΜΑ
+Line  27: 41 2018 ΚΤΗΡΙΟ ΓΡΑΦΕΙΩΝ
+Line  28: ΠΥΡΟΠΡΟΣΤΑΤΕΥΜΕΝΗ ΟΔΕΥΣΗ
+Line  29: ΔΙΑΦΥΓΗΣ
+Line  30: ΠΥΡΟΔΙΑΜΕΡΙΣΜΑ
+Line  31: 41 2018 ΚΤΗΡΙΟ ΓΡΑΦΕΙΩΝ
+Line  32: ΠΥΡΟΠΡΟΣΤΑΤΕΥΜΕΝΗ ΟΔΕΥΣΗ
+Line  33: ΔΙΑΦΥΓΗΣ
+Line  34: ΠΥΡΟΔΙΑΜΕΡΙΣΜΑ
+Line  35: 41 2018 ΚΤΗΡΙΟ ΓΡΑΦΕΙΩΝ
+Line  36: ΠΥΡΟΠΡΟΣΤΑΤΕΥΜΕΝΗ ΟΔΕΥΣΗ
+Line  37: ΔΙΑΦΥΓΗΣ
+Line  38: ΠΥΡΟΔΙΑΜΕΡΙΣΜΑ
+Line  39: 2018 ΚΤΗΡΙΟ ΓΡΑΦΕΙΩΝ
+Line  40: ΕΠΙΚΙΝΔΥΝΟΣ ΧΩΡΟΣ
+Line  41: 2
+Line  42: 1000
+Line  43: 2
+Line  44: 1000
+Line  45: 2
+Line  46: 1000
+Line  47: 2
+Line  48: 1000
+Line  49: 2
+Line  50: ΠΥΡΟΔΙΑΜΕΡΙΣΜΑ
+Line  51: 2018 ΚΤΗΡΙΟ ΓΡΑΦΕΙΩΝ
+Line  52: ΕΠΙΚΙΝΔΥΝΟΣ ΧΩΡΟΣ
+Line  53: ΠΥΡΟΔΙΑΜΕΡΙΣΜΑ
+Line  54: 2018 ΚΤΗΡΙΟ ΓΡΑΦΕΙΩΝ
+Line  55: ΕΠΙΚΙΝΔΥΝΟΣ ΧΩΡΟΣ
+Line  56: ΠΥΡΟΔΙΑΜΕΡΙΣΜΑ
+Line  57: 2018 ΚΤΗΡΙΟ ΓΡΑΦΕΙΩΝ
+Line  58: ΕΠΙΚΙΝΔΥΝΟΣ ΧΩΡΟΣ
+Line  59: ΠΥΡΟΔΙΑΜΕΡΙΣΜΑ
+Line  60: 2018 ΚΤΗΡΙΟ ΓΡΑΦΕΙΩΝ
+Line  61: ΕΠΙΚΙΝΔΥΝΟΣ ΧΩΡΟΣ
+Line  62: ΠΥΡΟΔΙΑΜΕΡΙΣΜΑ
+Line  63: 2018 ΚΤΗΡΙΟ ΓΡΑΦΕΙΩΝ
+Line  64: ΕΠΙΚΙΝΔΥΝΟΣ ΧΩΡΟΣ
+Line  65: ΠΥΡΟΔΙΑΜΕΡΙΣΜΑ
+Line  66: 2018 ΚΤΗΡΙΟ ΓΡΑΦΕΙΩΝ
+Line  67: ΓΕΝΙΚΗ ΠΥΡΑΝΤΙΣΤΑΣΗ
+Line  68: ΠΥΡΟΔΙΑΜΕΡΙΣΜΑ
+Line  69: 2018 ΚΤΗΡΙΟ ΓΡΑΦΕΙΩΝ
+Line  70: ΓΕΝΙΚΗ ΠΥΡΑΝΤΙΣΤΑΣΗ
+Line  71: 1000
+Line  72: AUTO
+Line  73: EXIT
+Line  74: AUTO
+Line  75: EXIT
+Line  76: AUTO
+Line  77: EXIT
+Line  78: AUTO
+Line  79: AUTO
+Line  80: AUTO
+Line  81: AUTO
+Line  82: EXIT
+Line  83: ΠΥΡΟΔΙΑΜΕΡΙΣΜΑ
+Line  84: 2018 ΚΤΗΡΙΟ ΓΡΑΦΕΙΩΝ
+Line  85: ΓΕΝΙΚΗ ΠΥΡΑΝΤΙΣΤΑΣΗ
+Line  86: AUTO
+Line  87: AUTO
+Line  88: AUTO
+Line  89: AUTO
+Line  90: 1000
+Line  91: 2
+Line  92: ΠΥΡΟΔΙΑΜΕΡΙΣΜΑ
+Line  93: 2018 ΚΤΗΡΙΟ ΓΡΑΦΕΙΩΝ
+Line  94: ΕΠΙΚΙΝΔΥΝΟΣ ΧΩΡΟΣ
+Line  95: AUTO
+Line  96: EXIT
+Line  97: ΧΩΡΟΙ ΥΓΙΕΙΝΗΣ
+Line  98: ΑΠΟΘΗΚΗ 2
+Line  99: AUTO
+Line 100: EXIT
+Line 101: AUTO
+Line 102: EXIT
+Line 103: 2
+Line 104: AUTO
+Line 105: AUTO
+Line 106: ΠΥΡΟΔΙΑΜΕΡΙΣΜΑ
+Line 107: 2018 ΚΤΗΡΙΟ ΓΡΑΦΕΙΩΝ
+Line 108: ΓΕΝΙΚΗ ΠΥΡΑΝΤΙΣΤΑΣΗ
+Line 109: ΠΥΡΑΝΤΟΧΟ
+Line 110: ΦΡΕΑΤΙΟ
+Line 111: ΟΡΙΖΟΝΤΙΑ ΕΞΟΔΟΣ
+Line 112: ΑΠΟΘΗΚΗ
+Line 113: ΚΕΝΤΡΟ ΕΛΕΓΧΟΥ 2
+Line 114: ΚΕΝΤΡΟ ΕΛΕΓΧΟΥ
+Line 115: ΑΠΟΘΗΚΗ
+Line 116: ΟΡΙΖΟΝΤΙΑ ΕΞΟΔΟΣ
+Line 117: 2
+Line 118: 2
+Line 119: 2
+Line 120: 2
+Line 121: AUTO
+Line 122: ΓΕΝΙΚΕΣ ΣΗΜΕΙΩΣΕΙΣ GENERAL NOTES
+Line 123: ĲȚȢ 2121 1993 ĲȦȞ ȖȚĮ ĲȘȞ
+Line 124: ĲȘȢ
+Line 125: ĲȘȞ ĲȘȢ Ȃİ
+Line 126: ȖȚĮ
+Line 127: ȖȚĮ ȞĮ ĲȘ ĲȦȞ
+Line 128: Copyright Notice. 2121 1993
+Line 129: HELLINIKON
+Line 130: Disclaimer. CENTRAL ARCHAELOGICAL COUNCIL. HELLINIKON
+Line 131: CHANGE SCALE DRAWING.
+Line 132: ΥΠΟΜΝΗΜΑ KEY TABLE
+Line 133: ΕΡΓΟΔΟΤΗΣ EMPLOYER
+Line 134: ΣΥΜΒΟΥΛΟΣ ΔΙΑΧΕΙΡΙΣΗΣ ΕΡΓΟΥ
+Line 135: PROJECT MANAGEMENT CONSULTANT
+Line 136: ΚΥΡΙΟΣ ΜΕΛΕΤΗΤΗΣ LEAD DESIGNER
+Line 137: ΤΙΤΛΟΣ ΣΧΕΔΙΟΥ DRAWING TITLE
+Line 138: ΚΛΙΜΑΚΑ SCALE
+Line 139: 2
+Line 140: ΦΥΛΛΟ SHEET
+Line 141: ΔΙΑΤΑΞΗ LAYOUT
+Line 142: Project
+Line 143: Originator
+Line 144: Type
+Line 145: Discipline
+Line 146: Stage
+Line 147: Serial Number
+Line 148: Revision
+Line 149: REV.
+Line 150: DATE
+Line 151: ISSUE
+Line 152: DESCRIPTION UPDATE VERSION
+Line 153: ORIGINATED
+Line 154: CHECKED
+Line 155: VERIFIED
+Line 156: LEAD DESIGNER
+Line 157: APPROVED
+Line 158: PMC
+Line 159: STATUS
+Line 160: ΕΡΓΟ PROJECT
+Line 161: DEVELOPMENT METROPOLITAN POLE HELLINIKON AG. KOSMAS
+Line 162: ΣΤΟΙΧΕΙΑ ΕΡΓΟΔΟΤΗ EMPLOYER DETAILS
+Line 163: 15123 Marousi
+Line 164: ΣΤΟΙΧΕΙΑ ΣΥΜΒΟΥΛΟΥ ΔΙΑΧΕΙΡΙΣΗΣ ΕΡΓΟΥ
+Line 165: PROJECT MANAGEMENT CONSULTANT DETAILS
+Line 166: ΣΤΟΙΧΕΙΑ ΚΥΡΙΟΥ ΜΕΛΕΤΗΤΗ LEAD DESIGNER DETAILS
+Line 167: SUBCONSULTANT DISCIPLINE
+Line 168: SUBCONSULTANT DISCIPLINE 2
+Line 169: SUBCONSULTANT DISCIPLINE
+Line 170: SUBCONSULTANT DISCIPLINE 4
+Line 171: MODEL
+Line 172: HELLINIKON
+Line 173: VAP
+Line 174: DD
+Line 175: DWG
+Line 176: EXT
+Line 177: ΠΜ
+Line 178: ΠΜ ΠΜ
+Line 179: ΠΜ
+Line 180: ΠΜ
+Line 181: ΠΜ
+Line 182: ΠΜ
+Line 183: ΜΗΤΡΟΠΟΛΙΤΙΚΟ ΠΑΡΚΟ
+Line 184: ΠΡΑΣΙΝΟΥ ΚΑΙ ΑΝΑΨΥΧΗΣ
+Line 185: ΚΤΗΡΙΑΚΗ
+Line 186: ΕΝΟΤΗΤΑ
+Line 187: 05101
+Line 188: First Issuance Approval
+Line 189: VAP
+Line 190: VAP
+Line 191: VAP
+Line 192: ΥΠΟΜΝΗΜΑ ΠΥΡΟΠΡΟΣΤΑΣΙΑΣ
+Line 193: EXIT
+Line 194: AUTO
+
+=== END OF FILTERED TEXT ===
+Total lines: 195

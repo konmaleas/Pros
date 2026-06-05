@@ -1,0 +1,205 @@
+=== FILTERED TEXT FOR: ATH1-PWR01-CAP-10720-PLN-4-109-AL-0-T20.pdf ===
+
+Line   0: Kifissias Avenue
+Line   1: GR 15125, MAROUSSI Greece
+Line   2: 4463 1552
+Line   3: Kifisias Paradisou,
+Line   4: Marousi 15125, Greece
+Line   5: Telephone
+Line   6: Email
+Line   7: TRADE
+Line   8: EPC Contractor Εργολάβος
+Line   9: Issued Μελέτη
+Line  10: Design Phase Φάση Μελέτης
+Line  11: Kifisias Paradisou,
+Line  12: Marousi 15125, Greece
+Line  13: Telephone
+Line  14: Email
+Line  15: DETAILED DESIGN
+Line  16: ΜΕΛΕΤΗ ΕΦΑΡΜΟΓΗΣ
+Line  17: 10720 HV Substation
+Line  18: PWR01 HERMES
+Line  19: Substation Υποσταθμός Data Center IV
+Line  20: CAP TRADE T20 HV Substation
+Line  21: ORGANDI
+Line  22: Esplanade Miriam Makeba
+Line  23: Gerda Taro
+Line  24: 69100 VILLEURBANNE France
+Line  25: 0 4 40 00 70
+Line  26: Internet
+Line  27: LOCATION AGIOS LOUKAS MUNICIPALITY PAIANIA,
+Line  28: REGIONAL UNIT EAST ATTICA
+Line  29: ΠΕΡΙΟΧΗ ΑΓΙΟΥ ΛΟΥΚΑ, ΔΗΜΟΣ ΠΑΙΑΝΙΑΣ, ΠΕ ΑΝΑΤΟΛΙΚΗΣ ΑΤΤΙΚΗΣ,
+Line  30: ΠΕΡΙΦΕΡΕΙΑ ΑΤΤΙΚΗΣ
+Line  31: Version
+Line  32: Date
+Line  33: Review
+Line  34: Designer
+Line  35: Auditor
+Line  36: Approver
+Line  37: SCALE
+Line  38: PROJECT
+Line  39: RIBA
+Line  40: TRADE
+Line  41: AUTHOR
+Line  42: LEVEL
+Line  43: CAP TRADE
+Line  44: TYPE
+Line  45: DOC.
+Line  46: VERSION
+Line  47: SITE
+Line  48: MODEL NAME
+Line  49: REFERENCE
+Line  50: FILE NAME
+Line  51: ATH1 CAP 20302 MOD 4 AL 0 ARC BIM GIS
+Line  52: IPTO
+Line  53: 0
+Line  54: Paper Size
+Line  55: ATH1 PWR01 CAP 10720 PLN 4 AL 0 ΚΤΙΡΙΟ ΥΠΟΣΤΑΘΜΟΥ ΠΙΝΑΚΑΣ ΚΟΥΦΩΜΑΤΩΝ
+Line  56: ΑΠΟ CONTROL BUILDING INDEX OPENINGS
+Line  57: ΚΤΙΡΙΟ ΥΠΟΣΤΑΘΜΟΥ ΠΙΝΑΚΑΣ ΚΟΥΦΩΜΑΤΩΝ ΑΠΟ
+Line  58: CONTROL BUILDING INDEX OPENINGS
+Line  59: PWR01
+Line  60: 4
+Line  61: 10720
+Line  62: CAP
+Line  63: AL
+Line  64: PLN
+Line  65: ATH1
+Line  66: 0
+Line  67: 07 2025
+Line  68: Υποβολή
+Line  69: IC
+Line  70: NM
+Line  71: NM
+Line  72: SINGLE LEAF, FIRE RESISTANT INTERIOR DOOR METALIC FIRE RESISTING CASING PANIC BAR, COLOR RAL 7022 ΜΑΤΤΕ
+Line  73: ΜΟΝΟΦΥΛΛΗ ΞΥΛΙΝΗ, ΠΡΕΣΣΑΡΙΣΤΗ ΕΣΩΤΕΡΙΚΗ ΘΥΡΑ ΜΕ ΜΕΤΑΛΛΙΚΗ ΚΑΣΣΑ ΒΑΦΗΣ RAL 7022 MAT
+Line  74: ΚΩΔΙΚΟΣ CODE
+Line  75: ΠΛΑΤΟΣ WIDTH
+Line  76: ΥΨΟΣ HEIGHT
+Line  77: ΠΟΔΙΑ SILL
+Line  78: HEIGHT
+Line  79: ΠΡΕΚΙ HEAD
+Line  80: HEIGHT
+Line  81: ΕΠΙΠΕΔΟ LEVEL
+Line  82: ΚΤΙΡΙΟ BUILDING
+Line  83: 0
+Line  84: Ground Floor
+Line  85: ΠΑΡΑΓΩΓΟΥ
+Line  86: PROD.
+Line  87: ΠΑΡΑΓΩΓΟΥ PROD.
+Line  88: 0
+Line  89: Ground Floor
+Line  90: ΑΔΜΗΕ IPTO
+Line  91: ΑΔΜΗΕ IPTO
+Line  92: ΓΕΝΙΚΟ ΣΥΝΟΛO GRAND TOTAL
+Line  93: OUTWARD PROJECTED ALUMINUM WINDOW THERMAL BRAKE ΜΜ DOUBLE GLASS GAP FRAME COLOR RAL 7022
+Line  94: ΠΡΟΒΑΛΛΟΜΕΝΟ ΠΡΟΣ ΤΑ ΠΑΡΑΘΥΡΟ ΑΛΟΥΜΙΝΙΟΥ ΜΕ ΘΕΡΜΟΔΙΑΚΟΠΗ ΔΙΠΛΟ ΤΖΑΜΙ ΔΙΑΚΕΝΟΥ ΧΡΩΜΑΤΟΣ RAL 7022 MAT
+Line  95: ΚΩΔΙΚΟΣ CODE
+Line  96: ΠΛΑΤΟΣ WIDTH
+Line  97: ΥΨΟΣ HEIGHT
+Line  98: ΠΟΔΙΑ SILL
+Line  99: HEIGHT
+Line 100: ΠΡΕΚΙ HEAD
+Line 101: HEIGHT
+Line 102: ΕΠΙΠΕΔΟ LEVEL
+Line 103: ΚΤΙΡΙΟ BUILDING
+Line 104: Ground Floor
+Line 105: ΑΔΜΗΕ IPTO
+Line 106: ΑΔΜΗΕ IPTO
+Line 107: Ground Floor
+Line 108: ΠΑΡΑΓΩΓΟΥ
+Line 109: PROD.
+Line 110: ΠΑΡΑΓΩΓΟΥ PROD.
+Line 111: ΓΕΝΙΚΟ ΣΥΝΟΛO GRAND TOTAL
+Line 112: OUTWARD PROJECTED ALUMINUM WINDOW THERMAL BRAKE ΜΜ DOUBLE GLASS GAP FRAME COLOR RAL 7022
+Line 113: ΠΡΟΒΑΛΛΟΜΕΝΟ ΠΡΟΣ ΤΑ ΠΑΡΑΘΥΡΟ ΑΛΟΥΜΙΝΙΟΥ ΜΕ ΘΕΡΜΟΔΙΑΚΟΠΗ ΔΙΠΛΟ ΤΖΑΜΙ ΔΙΑΚΕΝΟΥ ΧΡΩΜΑΤΟΣ RAL 7022 MAT
+Line 114: ΚΩΔΙΚΟΣ CODE
+Line 115: ΠΛΑΤΟΣ WIDTH
+Line 116: ΥΨΟΣ HEIGHT
+Line 117: ΠΟΔΙΑ SILL
+Line 118: HEIGHT
+Line 119: ΠΡΕΚΙ HEAD
+Line 120: HEIGHT
+Line 121: ΕΠΙΠΕΔΟ LEVEL
+Line 122: ΚΤΙΡΙΟ BUILDING
+Line 123: Ground Floor
+Line 124: ΑΔΜΗΕ IPTO
+Line 125: ΑΔΜΗΕ IPTO
+Line 126: Ground Floor
+Line 127: ΠΑΡΑΓΩΓΟΥ
+Line 128: PROD.
+Line 129: Ground Floor
+Line 130: ΠΑΡΑΓΩΓΟΥ
+Line 131: PROD.
+Line 132: Ground Floor
+Line 133: ΠΑΡΑΓΩΓΟΥ
+Line 134: PROD.
+Line 135: Ground Floor
+Line 136: ΠΑΡΑΓΩΓΟΥ
+Line 137: PROD.
+Line 138: ΠΑΡΑΓΩΓΟΥ PROD. 4
+Line 139: ΓΕΝΙΚΟ ΣΥΝΟΛO GRAND TOTAL
+Line 140: OUTWARD PROJECTED ALUMINUM WINDOW THERMAL BRAKE ΜΜ DOUBLE GLASS GAP FRAME COLOR RAL 7022
+Line 141: ΠΡΟΒΑΛΛΟΜΕΝΟ ΠΡΟΣ ΤΑ ΠΑΡΑΘΥΡΟ ΑΛΟΥΜΙΝΙΟΥ ΜΕ ΘΕΡΜΟΔΙΑΚΟΠΗ ΔΙΠΛΟ ΤΖΑΜΙ ΔΙΑΚΕΝΟΥ ΧΡΩΜΑΤΟΣ RAL 7022 MAT
+Line 142: ΚΩΔΙΚΟΣ CODE
+Line 143: ΠΛΑΤΟΣ WIDTH
+Line 144: ΥΨΟΣ HEIGHT
+Line 145: ΠΟΔΙΑ SILL
+Line 146: HEIGHT
+Line 147: ΠΡΕΚΙ HEAD
+Line 148: HEIGHT
+Line 149: ΕΠΙΠΕΔΟ LEVEL
+Line 150: ΚΤΙΡΙΟ BUILDING
+Line 151: First Floor
+Line 152: GIS GIS
+Line 153: First Floor
+Line 154: GIS GIS
+Line 155: First Floor
+Line 156: GIS GIS
+Line 157: GIS GIS
+Line 158: ΓΕΝΙΚΟ ΣΥΝΟΛO GRAND TOTAL
+Line 159: INDUSTRIAL ROLLER DOOR, SECTIONS DOUBLE HULLED GALVINISED METAL SHEET, FILLED POLYURETHANE, COLOR RAL 7022 ΜΑΤΤΕ
+Line 160: ΒΙΟΜΗΧΑΝΙΚΟ ΡΟΛΛΟ ΑΠΟ ΔΙΑΤΟΜΕΣ ΔΙΠΛΟΥ ΤΟΙΧΩΜΑΤΟΣ ΓΑΛΒΑΝΙΣΜΕΝΗΣ ΛΑΜΑΡΙΝΑΣ, ΠΛΗΡΩΜΕΝΗΣ ΜΕ ΠΟΛΥΟΥΡΕΘΑΝΗ RAL 7022 MAT
+Line 161: ΚΩΔΙΚΟΣ CODE
+Line 162: ΠΛΑΤΟΣ WIDTH
+Line 163: ΥΨΟΣ HEIGHT
+Line 164: ΠΟΔΙΑ SILL
+Line 165: HEIGHT
+Line 166: ΠΡΕΚΙ HEAD
+Line 167: HEIGHT
+Line 168: ΕΠΙΠΕΔΟ LEVEL
+Line 169: ΚΤΙΡΙΟ BUILDING
+Line 170: 0
+Line 171: Ground Floor
+Line 172: GIS GIS
+Line 173: GIS GIS
+Line 174: ΓΕΝΙΚΟ ΣΥΝΟΛO GRAND TOTAL
+Line 175: SINGLE LEAF, MONOBLOCK IRON EXTERIOR DOOR, INDUSTRIAL TYPE PROPER DYE, AUTOMATIC DOOR CLOSER PANIC BAR, COLOR RAL 7022 ΜΑΤΤΕ
+Line 176: ΜΟΝΟΦΥΛΛΗ ΟΛΟΣΩΜΗ ΣΙΔΗΡΑ ΕΞΩΣΤΟΘΥΡΑ, ΒΙΟΜHX ΜΕNΟΥ ΤΥΠΟΥ ΚΑΤΑΛΛΗΛΗΣ ΒΑΦΗΣ, ΜΕ ΑΥΤΟΜΑΤΟΥΣ ΑΝΤΩΘΗΤΗΡΕΣ ΜΠΑΡΑ ΠΑΝΙΚΟΥ RAL 7022 MAT
+Line 177: ΚΩΔΙΚΟΣ CODE
+Line 178: ΠΛΑΤΟΣ WIDTH
+Line 179: ΥΨΟΣ HEIGHT
+Line 180: ΠΟΔΙΑ SILL
+Line 181: HEIGHT
+Line 182: ΠΡΕΚΙ HEAD
+Line 183: HEIGHT
+Line 184: ΕΠΙΠΕΔΟ LEVEL
+Line 185: ΚΤΙΡΙΟ BUILDING
+Line 186: 0
+Line 187: Ground Floor
+Line 188: GIS GIS
+Line 189: GIS GIS
+Line 190: 0
+Line 191: Ground Floor
+Line 192: ΑΔΜΗΕ IPTO
+Line 193: ΑΔΜΗΕ IPTO
+Line 194: 0
+Line 195: Ground Floor
+Line 196: GIS GIS
+Line 197: GIS GIS
+Line 198: ΓΕΝΙΚΟ ΣΥΝΟΛO GRAND TOTAL
+Line 199: ΔΙΑΘΕΤΕΙ ΠΕΡΣΙΔΕΣ ΑΕΡΙΣΜΟΥ ΣΤΟ ΚΑΤΩ ΜΕΡΟΣ ΕQUIPPED SLATTED AT BOTTOM PART
+
+=== END OF FILTERED TEXT ===
+Total lines: 200

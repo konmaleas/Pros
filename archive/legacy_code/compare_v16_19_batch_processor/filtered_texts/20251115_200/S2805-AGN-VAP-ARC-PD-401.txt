@@ -1,0 +1,98 @@
+=== FILTERED TEXT FOR: S2805-AGN-VAP-ARC-PD-401.pdf ===
+
+Line   0: OFFICE BUILDING DC
+Line   1: CONTROL BUILDING DC
+Line   2: LOADING BUILDING DC
+Line   3: DATA HALLS BUILDING DC
+Line   4: DC
+Line   5: OFFICE BUILDING DC
+Line   6: CONTROL BUILDING DC
+Line   7: LOADING BUILDING DC
+Line   8: DATA HALLS BUILDING DC
+Line   9: DC
+Line  10: DC DC
+Line  11: LOADING BUILDING DC
+Line  12: DATA HALLS BUILDING DC
+Line  13: DC
+Line  14: LOADING BUILDING DC
+Line  15: DATA HALLS BUILDING DC
+Line  16: DC
+Line  17: DATA HALLS BUILDING DC
+Line  18: DATA HALLS BUILDING DC
+Line  19: DATA HALLS BUILDING DC
+Line  20: DC
+Line  21: DATA HALLS BUILDING DC
+Line  22: DC
+Line  23: DC DC
+Line  24: ΚΛΙΜΑΚΑ
+Line  25: SCALE
+Line  26: ΣΧΕΔΙΟ
+Line  27: ΕΡΓΟ
+Line  28: ΗΜΕΡΟΜΗΝΙΑ ΕΚΔΟΣΗΣ
+Line  29: FIRST ISSUE DATE
+Line  30: ΠΕΡΙΟΧΗ
+Line  31: ZONE
+Line  32: ISSUED
+Line  33: CONSTRUCTION
+Line  34: TENDER
+Line  35: APRROVAL
+Line  36: STATUS
+Line  37: DRAFT
+Line  38: FINAL
+Line  39: DISCIPLINE
+Line  40: ARC
+Line  41: ΑΝΑΘ.
+Line  42: REV.
+Line  43: PROJECT
+Line  44: DRAWING
+Line  45: ΕΡΓΟΔΟΤΗΣ
+Line  46: CLIENT
+Line  47: Τοmpazi, Χalandri Greece
+Line  48: 3262 30210 3269
+Line  49: ΚΛΕΙΔΑ
+Line  50: KEY PLAN
+Line  51: ΘΕΣΗ
+Line  52: LOCATION
+Line  53: AGIOS DIMITRIOS KOZANI, GREECE
+Line  54: ΑΡΧΙΤΕΚΤΟΝIKH ΜΕΛΕΤΗ
+Line  55: ARCHITECTURAL DESIGN
+Line  56: ΣΤΑΤΙΚΗ ΜΕΛΕΤΗ
+Line  57: STRUCTURAL DESIGN
+Line  58: ΜΗΧΑΝΟΛΟΓΙΚΗ ΜΕΛΕΤΗ
+Line  59: MEP DESIGN
+Line  60: Anargyrountos 16672, Vari
+Line  61: 30210 4395 30210 4637
+Line  62: NSZ
+Line  63: Filolaou Ilioupolis 16342 Athens
+Line  64: Greece
+Line  65: 30210
+Line  66: ΜΕΛΕΤΗ
+Line  67: DISCIPLINE
+Line  68: ARCHITECTURAL
+Line  69: STAGE 2 CONCEPT
+Line  70: ΣΤΑΔΙΟ
+Line  71: STAGE
+Line  72: ΚΗΜ
+Line  73: LITHOS
+Line  74: VASSILIS ALEXANDROS POUTETSIS
+Line  75: ARCHITECTS ASSOCIATES IKE
+Line  76: 2025
+Line  77: DATA CENTER COMPLEX
+Line  78: PHASE
+Line  79: TOTAL CAPACITY MV
+Line  80: ΑΝΑΘΕΩΡΗΣΕΙΣ REVISIONS
+Line  81: ΠΕΡΙΓΡΑΦΗ DESCRIPTION
+Line  82: ΗΜ ΝΙΑ DATE
+Line  83: DC
+Line  84: DC
+Line  85: DC
+Line  86: 00
+Line  87: 401
+Line  88: ELEVATIONS
+Line  89: ELEVATION
+Line  90: ELEVATION
+Line  91: ELEVATION
+Line  92: ELEVATION
+
+=== END OF FILTERED TEXT ===
+Total lines: 93

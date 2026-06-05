@@ -1,0 +1,92 @@
+=== FILTERED TEXT FOR: 1906_AVL5_VAP_ARC_A9-702_3.pdf ===
+
+Line   0: ΚΛΙΣΗ
+Line   1: 3
+Line   2: ΣΤΑΤΙΚΟΣ ΦΟΡΕΑΣ
+Line   3: ΕΠΑΛΕΙΦΟΜΕΝΟ, ΣΤΕΓΑΝΟΠΟΙΗΤΙΚΟ, ΤΣΙΜΕΝΤΟΕΙΔΕΣ
+Line   4: ΚΟΝΙΑΜΑ ΔΥΟ ΣΥΣΤΑΤΙΚΩΝ
+Line   5: 3.
+Line   6: ΤΣΙΜΕΝΤΟΚΟΝΙΑ ΕΞΟΜΑΛΥΝΣΗΣ
+Line   7: ΤΣΙΜΕΝΤΟΕΙΔΗΣ ΚΟΛΛΑ
+Line   8: ΠΛΑΚΙΔΙΟ CAESAR ΠΑΧΟΥΣ
+Line   9: ΠΛΑΚΙΔΙΟ CAESAR ΠΑΧΟΥΣ
+Line  10: ΑΝΟΞΕΙΔΩΤΕΣ ΓΩΝΙΕΣ ΣΤΗΡΙΞΗΣ ΑΝΑ
+Line  11: ANOΞΕΙΔΩΤΗ ΣΧΑΡΑ ΙΔΙΟΚΑΤΑΣΚΕΥΗ
+Line  12: ΑΠΟΣΤΡΑΓΓΙΣΤΙΚΗ ΜΕΜΒΡΑΝΗ
+Line  13: ΓΕΩΥΦΑΣΜΑ ΜΗ ΥΦΑΝΤΟ
+Line  14: ΦΥΛΛΟ ΠΟΛΥΑΙΘΥΛΕΝΙΟΥ
+Line  15: ΠΕΤΡΙΝΟ ΚΑΠΑΚΙ
+Line  16: ΣΚΥΡΟΔΕΜΑ ΠΛΗΡΩΣΗΣ ΚΕΝΩΝ ΣΥΓΚΡΑΤΗΣΗΣ ΠΕΤΡΩΝ
+Line  17: ΕΠΕΝΔΥΣΗ ΑΠΟ ΦΥΣΤΙΚΗ ΠΕΤΡΑ
+Line  18: VARIES
+Line  19: ΑΥΛΑΚΙΑ ΑΝΤΙΠΑΡΟΣ
+Line  20: AYLAKIA ANTIPAROS
+Line  21: AVL
+Line  22: RESIDENCE ANTIPAROS
+Line  23: PATSILERO LTD
+Line  24: ΠΕΡΙΓΡΑΦΗ
+Line  25: DESCRIPTION
+Line  26: ΗΜ ΝΙΑ
+Line  27: REVISION DATE
+Line  28: Νaxou Kifisia, Greece
+Line  29: 4217 6976
+Line  30: ERISMA
+Line  31: Tompazi Chalandri, Greece
+Line  32: 3262 3269
+Line  33: 79 Suga Shinjuku Tokyo 0018 Japan
+Line  34: 3 3226 5336 3 3226 5366
+Line  35: ATELIER BOW WOW
+Line  36: Apollonos Athens, 10557 Greece
+Line  37: 6770
+Line  38: DOXIADIS
+Line  39: ΚΛΙΜΑΚΑ
+Line  40: SCALE
+Line  41: ΣΧΕΔΙΟ
+Line  42: ΕΡΓΟ
+Line  43: ΕΡΓΟΔΟΤΗΣ
+Line  44: ΗΜΕΡΟΜΗΝΙΑ ΕΚΔΟΣΗΣ
+Line  45: FIRST ISSUE DATE
+Line  46: DETAILED DESIGN
+Line  47: KAT. ΣΧΕΔΙΟΥ
+Line  48: BLD. CATEGORY
+Line  49: ISSUED
+Line  50: ΘΕΣΗ ΕΡΓΟΥ
+Line  51: CONSTR.
+Line  52: APPROVAL
+Line  53: TENDER
+Line  54: STATUS
+Line  55: DRAFT
+Line  56: FINAL
+Line  57: ΑΝΑΘ.
+Line  58: REV.
+Line  59: PROJECT
+Line  60: LOCATION
+Line  61: CLIENT
+Line  62: DRAWING
+Line  63: ΚΗΠΟΤΕΧΝΙΚΗ ΜΕΛΕΤΗ
+Line  64: LANDSCAPE DESIGN
+Line  65: ΜΗΧΑΝΟΛΟΓΙΚΗ ΜΕΛΕΤΗ
+Line  66: MEP ENGINEER
+Line  67: ΣΤΑΤΙΚΗ ΜΕΛΕΤΗ
+Line  68: STRUCTURAL ENGINEER
+Line  69: ΑΡΧΙΤΕΚΤΟΝΑΣ ΕΡΓΟΥ
+Line  70: ARCHITECTURAL DESIGN
+Line  71: ΕΚΤΕΛΕΣΗ ΑΡΧΙΤΕΚΤΟΝΙΚΗΣ
+Line  72: ΜΕΛΕΤΗΣ ΕΠΙΒΛΕΨΗ
+Line  73: EXECUTIVE ARCHITECT
+Line  74: SITE SUPERVISOR
+Line  75: DISCIPLINE
+Line  76: ARC
+Line  77: VAP
+Line  78: TETRAS AEM
+Line  79: Patision Greece
+Line  80: SWIMMING
+Line  81: POOL
+Line  82: OVERFLOW
+Line  83: 2020
+Line  84: A9 702 02
+Line  85: 01
+Line  86: 02
+
+=== END OF FILTERED TEXT ===
+Total lines: 87

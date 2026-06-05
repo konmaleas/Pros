@@ -1,0 +1,90 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-1095-0A_MEP_PENETRATION_ROOF_TYPICAL_DETAIL.pdf ===
+
+Line   0: EAVES LEVEL
+Line   1: RAB PARAPET
+Line   2: DATA HALL RIDGE LEVEL
+Line   3: STEEL
+Line   4: ADMIN PARAPET LEVEL
+Line   5: ADMIN ROOF RIDGE LEVEL
+Line   6: ROOF ACCESS LEVEL
+Line   7: CEMENT BOARD KNAUF
+Line   8: AQUAPANEL
+Line   9: TRAPEZOID METAL SHEET
+Line  10: PIPE COLLAR FIXED
+Line  11: TRAPEZOID METAL SHEET
+Line  12: FLASHING FIXED ROOF COWL
+Line  13: VENTILATION DUCT ACCORDING MEP STUDY
+Line  14: CLOSED CELLS RUBBER CORD
+Line  15: CORNER PROTECTION
+Line  16: POLYOLEPHIN MEMBRANE RESISTANT
+Line  17: UV RAYS
+Line  18: VAPOUR CONTROL BARRIER
+Line  19: TYVEK FR
+Line  20: STONEWOOL THERMAL
+Line  21: INSULATION
+Line  22: MEP PENETRATIONS CODE
+Line  23: MP DC XX XXX XX
+Line  24: MP
+Line  25: MEP PENETRATIONS
+Line  26: DC
+Line  27: BUILDING CODE
+Line  28: XXX
+Line  29: ROOM NUMBER
+Line  30: XX
+Line  31: PENETRATION NUMBER
+Line  32: XX
+Line  33: LEVEL
+Line  34: ADMIN
+Line  35: COLO
+Line  36: COLO
+Line  37: TRUE NORTH
+Line  38: Sheet Title Number
+Line  39: Scale
+Line  40: Plan
+Line  41: Design Consultants
+Line  42: Microsoft
+Line  43: DATA CENTER ATH04
+Line  44: SPATA GREECE
+Line  45: Contractor Joint Venture
+Line  46: Name
+Line  47: Contractor Project
+Line  48: Contractor Contract
+Line  49: Contractor PM
+Line  50: Contractor BIM Mngr
+Line  51: Contractor Information
+Line  52: Renco Terna
+Line  53: Client
+Line  54: General Notes
+Line  55: Client Project
+Line  56: Client Contract
+Line  57: Client PM
+Line  58: Client BIM Mngr
+Line  59: Primary Client Information
+Line  60: Layout
+Line  61: Revision
+Line  62: Tombazi Chalandri
+Line  63: 15232
+Line  64: Athens Greece
+Line  65: 0800 3262
+Line  66: Agion Theodoron Square Athens
+Line  67: 10561
+Line  68: Athens Greece
+Line  69: Kimithois Agios Dimitrios
+Line  70: 17236
+Line  71: Athens Greece
+Line  72: Purpose Issue
+Line  73: Issue
+Line  74: Name
+Line  75: MEP PENETRATION ROOF
+Line  76: TYPICAL DETAIL
+Line  77: ATH04 VAP AH 1095
+Line  78: Date
+Line  79: Description
+Line  80: 07
+Line  81: Issued Approval
+Line  82: VAP
+Line  83: SCALE
+Line  84: MEP PENETRATION ROOF SECTION DETAIL
+
+=== END OF FILTERED TEXT ===
+Total lines: 85

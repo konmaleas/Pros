@@ -1,0 +1,116 @@
+=== FILTERED TEXT FOR: ATH1-DC02-CAP-20302-PLN-2-004-FF-00-T00_4-GENERAL_ARRANGEMENT_PLAN_DC2_FF_6_85_.pdf ===
+
+Line   0: SERVICE
+Line   1: LIFT
+Line   2: SERVICE
+Line   3: LIFT 2
+Line   4: 2
+Line   5: 4
+Line   6: 40
+Line   7: 2
+Line   8: 2
+Line   9: 4
+Line  10: 40
+Line  11: 2
+Line  12: 4
+Line  13: BMS 2
+Line  14: WS
+Line  15: CHANGING
+Line  16: ROOM
+Line  17: OFFICE
+Line  18: WM
+Line  19: BMS LV
+Line  20: BMS
+Line  21: CAMPUS
+Line  22: BMS
+Line  23: OFFICES
+Line  24: CENTRAL
+Line  25: CORRIDOR
+Line  26: STORAGE
+Line  27: FW
+Line  28: CORRIDOR
+Line  29: 2
+Line  30: FW
+Line  31: CORRIDOR
+Line  32: WC
+Line  33: STR
+Line  34: STR
+Line  35: STR
+Line  36: OFFICES
+Line  37: LIFT
+Line  38: WC
+Line  39: MEP CORRIDOR
+Line  40: WC
+Line  41: DISSABLE
+Line  42: DATA HALL
+Line  43: PIECE
+Line  44: OFFICE
+Line  45: MEETING
+Line  46: ROOM
+Line  47: OFFICES
+Line  48: Version
+Line  49: Date
+Line  50: Review
+Line  51: Designer
+Line  52: Auditor
+Line  53: Approver
+Line  54: Paper Size
+Line  55: SCALE
+Line  56: ATH1 CAP 20302 PLN 2 004 FF 00 GENERAL ARRANGEMENT PLAN FF
+Line  57: 20302
+Line  58: PP Model Name
+Line  59: ORGANDI
+Line  60: Esplanade Miriam Makeba
+Line  61: Gerda Taro
+Line  62: 69100 VILLEURBANNE France
+Line  63: 4 40 00 70
+Line  64: Internet
+Line  65: GENERAL ARRANGEMENT PLAN FF
+Line  66: ATH1
+Line  67: PROJECT
+Line  68: RIBA
+Line  69: TRADE
+Line  70: AUTHOR
+Line  71: LEVEL
+Line  72: CAP TRADE
+Line  73: TYPE
+Line  74: DOC.
+Line  75: VERSION
+Line  76: 2
+Line  77: 20302
+Line  78: CAP
+Line  79: FF
+Line  80: PLN
+Line  81: 004
+Line  82: 00
+Line  83: SITE
+Line  84: ATH
+Line  85: Kifissias Avenue
+Line  86: GR 15125, MAROUSSI Greece
+Line  87: 4463 1552
+Line  88: Anagirountos
+Line  89: Vari 16672, Greece
+Line  90: Telephone 9654
+Line  91: Email
+Line  92: PAIANIA
+Line  93: GREECE
+Line  94: MODEL NAME
+Line  95: REFERENCE
+Line  96: FILE NAME
+Line  97: TRADE
+Line  98: ARCHITECTURE
+Line  99: Tombazi
+Line 100: Chalandri, 15232
+Line 101: Athens, Greece
+Line 102: 0800 3262
+Line 103: Thivaidos Street
+Line 104: GR Kifissia,
+Line 105: CAP TRADE General
+Line 106: 03 2025
+Line 107: First Submission
+Line 108: VAP
+Line 109: VAP
+Line 110: CAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 111

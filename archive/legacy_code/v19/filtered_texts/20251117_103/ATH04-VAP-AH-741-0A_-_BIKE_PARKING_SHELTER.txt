@@ -1,0 +1,70 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-741-0A_-_BIKE_PARKING_SHELTER.pdf ===
+
+Line   0: DASHED LINE FURNITURE
+Line   1: ACADEMY CYCLE SHELTER
+Line   2: POLYCARBONATE ROOF
+Line   3: COVER SIMILAR APPROVED
+Line   4: GALVANISED STEEL
+Line   5: CYCLE STANDS
+Line   6: PRODUCT FURNITUBES
+Line   7: COLLEGE SIMILAR
+Line   8: APPROVED
+Line   9: 750
+Line  10: 750
+Line  11: 750
+Line  12: 750
+Line  13: 2650
+Line  14: 4000
+Line  15: ADMIN
+Line  16: COLO
+Line  17: COLO
+Line  18: TRUE NORTH
+Line  19: Sheet Title Number
+Line  20: Scale
+Line  21: Plan
+Line  22: Design Consultants
+Line  23: Microsoft
+Line  24: DATA CENTER ATH04
+Line  25: SPATA GREECE
+Line  26: Contractor Joint Venture
+Line  27: Name
+Line  28: Contractor Project
+Line  29: Contractor Contract
+Line  30: Contractor PM
+Line  31: Contractor BIM Mngr
+Line  32: Contractor Information
+Line  33: Renco Terna
+Line  34: Client
+Line  35: General Notes
+Line  36: Client Project
+Line  37: Client Contract
+Line  38: Client PM
+Line  39: Client BIM Mngr
+Line  40: Primary Client Information
+Line  41: Layout
+Line  42: Revision
+Line  43: Tombazi Chalandri
+Line  44: 15232
+Line  45: Athens Greece
+Line  46: 0800 3262
+Line  47: Agion Theodoron Square Athens
+Line  48: 10561
+Line  49: Athens Greece
+Line  50: Kimithois Agios Dimitrios
+Line  51: 17236
+Line  52: Athens Greece
+Line  53: Purpose Issue
+Line  54: Issue
+Line  55: Name
+Line  56: BIKE PARKING SHELTER
+Line  57: ATH04 VAP AH 741
+Line  58: SCALE
+Line  59: BIKE SHELTER PLAN
+Line  60: Date
+Line  61: Description
+Line  62: 05
+Line  63: Issued Approval
+Line  64: VAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 65

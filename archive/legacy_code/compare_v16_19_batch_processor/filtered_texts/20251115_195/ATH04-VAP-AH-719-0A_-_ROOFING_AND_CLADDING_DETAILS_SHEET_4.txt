@@ -1,0 +1,116 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-719-0A_-_ROOFING_AND_CLADDING_DETAILS_SHEET_4.pdf ===
+
+Line   0: DETACHABLE LID
+Line   1: ACCESS
+Line   2: CABLE BROUGHT
+Line   3: PIPEWORK
+Line   4: CABLE BROUGHT
+Line   5: PIPEWORK
+Line   6: BUTYL MASTIC SEAL TOP FLASHING
+Line   7: ANGLE FILLET
+Line   8: GALV STEEL UPSTAND BASE RETURN
+Line   9: TYPICAL ROOF NEK FRONT ELEVATION
+Line  10: INSULATION PROVIDE MIN VALUE
+Line  11: MIN LOCAL CODE
+Line  12: REQUIREMENTS.
+Line  13: DETACHABLE LID
+Line  14: VAPOUR CONTROL LAYER
+Line  15: PARALON PARAFLEX MODIFIED
+Line  16: BITUMOUS ROOF MEMBRANE
+Line  17: METAL DECK
+Line  18: CEMENTICIOUS BOARD
+Line  19: TYPICAL PIPE
+Line  20: CABLE PORTS
+Line  21: GALV STEEL PENETRATION ROOF
+Line  22: ELECTRIC CABLE. DETAIL
+Line  23: WEATHERED MANUFACTURERS DETAILS
+Line  24: SPECIFICATIONS
+Line  25: COATED FLASHING
+Line  26: WATERPROOF SEALANT
+Line  27: PIPEWORK PREVENT
+Line  28: INGRESS DRIVEN WATER
+Line  29: TYPICAL CABLE ACCESS
+Line  30: ADDITIONAL
+Line  31: PIPE CABLE PORTS
+Line  32: GALV STEEL UPSTAND BASE
+Line  33: RETURN
+Line  34: PIPE COLLAR
+Line  35: GALVANISED STEEL PENETRATION
+Line  36: ROOF ELECTRIC CABLE.
+Line  37: DETAIL WEATHERED
+Line  38: MANUFACTURERS DETAILS
+Line  39: SPECIFICATIONS
+Line  40: PPC FLASHING
+Line  41: STEEL PURLIN
+Line  42: STRUCTURAL ENGINEER
+Line  43: DETAILS
+Line  44: RIB ROOF SPEED ZAMBELLI PROFILED SHEET
+Line  45: COMPACTED KALZIP INSULATION PLUS 40
+Line  46: RIB ROOF SPEED ZAMBELLI CLIP
+Line  47: RIB ROOF SPEED ZAMBELLI VAPOUR BARRIER
+Line  48: AQUAPANEL
+Line  49: METAL STRUCTURAL DECK
+Line  50: STRUCTURAL ENGINEER DETAILS
+Line  51: TOP HAT SUPPORT
+Line  52: RIGID THERMAL INSULATION
+Line  53: ADMIN
+Line  54: COLO
+Line  55: COLO 2
+Line  56: 2
+Line  57: 4
+Line  58: 2
+Line  59: 4
+Line  60: TRUE NORTH
+Line  61: Sheet Title Number
+Line  62: Scale
+Line  63: Plan
+Line  64: Design Consultants
+Line  65: Microsoft
+Line  66: DATA CENTER
+Line  67: SPATA GREECE
+Line  68: Contractor Joint Venture
+Line  69: Name
+Line  70: Contractor Project
+Line  71: Contractor Contract
+Line  72: Contractor PM
+Line  73: Contractor BIM Mngr
+Line  74: Contractor Information
+Line  75: Renco Terna
+Line  76: Client
+Line  77: General Notes
+Line  78: Client Project
+Line  79: Client Contract
+Line  80: Client PM
+Line  81: Client BIM Mngr
+Line  82: Primary Client Information
+Line  83: Layout
+Line  84: Revision
+Line  85: Tombazi Chalandri
+Line  86: 15232
+Line  87: Athens Greece
+Line  88: 0800 3262
+Line  89: Agion Theodoron Square Athens
+Line  90: 10561
+Line  91: Athens Greece
+Line  92: Kimithois Agios Dimitrios
+Line  93: 17236
+Line  94: Athens Greece
+Line  95: Purpose Issue
+Line  96: Issue
+Line  97: Name
+Line  98: ROOFING CLADDING
+Line  99: DETAILS SHEET 4
+Line 100: VAP AH 719
+Line 101: SCALE
+Line 102: SVP ENTRY ROOF DETAIL
+Line 103: SCALE
+Line 104: SCALE
+Line 105: CABLE ENTRY THROUGHROOF DETAIL
+Line 106: Date
+Line 107: Description
+Line 108: 04
+Line 109: Issued Approval
+Line 110: VAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 111

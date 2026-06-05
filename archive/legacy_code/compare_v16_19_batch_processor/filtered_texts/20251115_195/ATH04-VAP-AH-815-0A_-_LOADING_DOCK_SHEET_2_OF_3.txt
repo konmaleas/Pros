@@ -1,0 +1,136 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-815-0A_-_LOADING_DOCK_SHEET_2_OF_3.pdf ===
+
+Line   0: GL
+Line   1: CEILING LEVEL
+Line   2: 2550
+Line   3: ED AD 005
+Line   4: 6350
+Line   5: ED AD 006
+Line   6: LT MEDITE LINER
+Line   7: LT MEDITE LINER
+Line   8: SLOPING TOP
+Line   9: WT
+Line  10: LOADING
+Line  11: DOCK
+Line  12: 00 048
+Line  13: CEILING TYPE UNDERSIDE
+Line  14: METAL DECK
+Line  15: POWER FLOATED
+Line  16: CONCRETE SEALED
+Line  17: ASHFORD FORMULA SEALER
+Line  18: VINYL COVED UPSTAND
+Line  19: PREFINISHED STEEL
+Line  20: TRIMOTERM WALLS
+Line  21: PROTECTION BOARD RAL 9010
+Line  22: WHITE
+Line  23: LT MEDITE LINER
+Line  24: SLOPING TOP
+Line  25: LT MEDITE LINER
+Line  26: SLOPING TOP
+Line  27: LT MEDITE LINER
+Line  28: SLOPING TOP
+Line  29: LT MEDITE LINER
+Line  30: 2550
+Line  31: GL
+Line  32: CEILING LEVEL
+Line  33: LOADING
+Line  34: DOCK
+Line  35: 00 048
+Line  36: 6350
+Line  37: ID AD 046
+Line  38: ID AD 045
+Line  39: INTERIOR ALUMINIUM FIXED
+Line  40: WINDOW ACHIEVE
+Line  41: ACOUSTIC RATING
+Line  42: LT MEDITE LINER
+Line  43: PREFINISHED STEEL
+Line  44: TRIMOTERM WALLS
+Line  45: PROTECTION BOARD RAL 9010
+Line  46: WHITE
+Line  47: VINYL COVED UPSTAND
+Line  48: CEILING TYPE UNDERSIDE
+Line  49: METAL DECK
+Line  50: PREFINISHED STEEL
+Line  51: TRIMOTERM WALLS
+Line  52: PROTECTION BOARD RAL 9010
+Line  53: WHITE
+Line  54: 1525
+Line  55: NOTE
+Line  56: WALL TYPE LEGEND REFER DRAWING VAP AH
+Line  57: ADMIN
+Line  58: COLO
+Line  59: COLO 2
+Line  60: 2
+Line  61: 4
+Line  62: 2
+Line  63: 4
+Line  64: TRUE NORTH
+Line  65: Sheet Title Number
+Line  66: Scale
+Line  67: Plan
+Line  68: Design Consultants
+Line  69: Microsoft
+Line  70: DATA CENTER
+Line  71: SPATA GREECE
+Line  72: Contractor Joint Venture
+Line  73: Name
+Line  74: Contractor Project
+Line  75: Contractor Contract
+Line  76: Contractor PM
+Line  77: Contractor BIM Mngr
+Line  78: Contractor Information
+Line  79: Renco Terna
+Line  80: Client
+Line  81: General Notes
+Line  82: Client Project
+Line  83: Client Contract
+Line  84: Client PM
+Line  85: Client BIM Mngr
+Line  86: Primary Client Information
+Line  87: Layout
+Line  88: Revision
+Line  89: Tombazi Chalandri
+Line  90: 15232
+Line  91: Athens Greece
+Line  92: 0800 3262
+Line  93: Agion Theodoron Square Athens
+Line  94: 10561
+Line  95: Athens Greece
+Line  96: Kimithois Agios Dimitrios
+Line  97: 17236
+Line  98: Athens Greece
+Line  99: Purpose Issue
+Line 100: Issue
+Line 101: Name
+Line 102: LOADING DOCK SHEET 2
+Line 103: VAP AH
+Line 104: SCALE
+Line 105: LOADING DOCK ELEVATION EAST
+Line 106: SCALE
+Line 107: LOADING DOCK ELEVATION WEST
+Line 108: 2
+Line 109: 1000
+Line 110: SCALE
+Line 111: EQUIPMENT SCHEDULE LOADING DOCK
+Line 112: Count
+Line 113: CODE
+Line 114: Description
+Line 115: Room Name
+Line 116: Room Number
+Line 117: BALLARD, STEEL,
+Line 118: LOADING DOCK
+Line 119: 00 048
+Line 120: PALLET JACK
+Line 121: LOADING DOCK
+Line 122: 00 048
+Line 123: PALLET JACK
+Line 124: LOADING DOCK
+Line 125: 00 048
+Line 126: Date
+Line 127: Description
+Line 128: 05
+Line 129: Issued Approval
+Line 130: VAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 131

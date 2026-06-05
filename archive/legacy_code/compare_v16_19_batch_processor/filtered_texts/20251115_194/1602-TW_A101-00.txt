@@ -1,0 +1,78 @@
+=== FILTERED TEXT FOR: 1602-TW_A101-00.pdf ===
+
+Line   0: 2
+Line   1: 4
+Line   2: 00
+Line   3: 2
+Line   4: 00
+Line   5: 1404
+Line   6: PARKING
+Line   7: CORRIDOR
+Line   8: ROOM
+Line   9: ROOM
+Line  10: SHAFT
+Line  11: LIFT
+Line  12: 2
+Line  13: SHAFT
+Line  14: STORAGE
+Line  15: STORAGE
+Line  16: STAIRCASE
+Line  17: SERVICE ROOM
+Line  18: SERVICE ROOM
+Line  19: 01
+Line  20: 02
+Line  21: 03
+Line  22: 04
+Line  23: 05
+Line  24: 06
+Line  25: 07
+Line  26: 08
+Line  27: 09
+Line  28: 40
+Line  29: 41
+Line  30: 42
+Line  31: 43
+Line  32: 44
+Line  33: 45
+Line  34: 46
+Line  35: 49
+Line  36: 47
+Line  37: 48
+Line  38: WATER TANK SPACE
+Line  39: Building Projection Line
+Line  40: REVISIONS
+Line  41: DESCRIPTION
+Line  42: DATE
+Line  43: CLIENT
+Line  44: PROJECT
+Line  45: DESIGN STAGE
+Line  46: DATE
+Line  47: SCALE
+Line  48: FILE NAME
+Line  49: DRAWING TITLE
+Line  50: DRAWING
+Line  51: TAHLIA WALK
+Line  52: VAPARCHITECTS
+Line  53: Epirou Street
+Line  54: Athens, GR Greece
+Line  55: 3262
+Line  56: 3269
+Line  57: DESIGN ARCHITECTS
+Line  58: STRUCTURAL ENGINEER
+Line  59: CONSULTANTS
+Line  60: MEP ENGINEER
+Line  61: STUDIO
+Line  62: Isavron
+Line  63: Lycabettus
+Line  64: Athens, GR 11471 Greece
+Line  65: ZAD DEVELOPMENT
+Line  66: 06 05 2016
+Line  67: 00
+Line  68: Level
+Line  69: Park Layout
+Line  70: Project Status
+Line  71: Level Park Layout
+Line  72: 1602 TW 00
+
+=== END OF FILTERED TEXT ===
+Total lines: 73

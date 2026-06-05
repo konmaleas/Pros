@@ -1,0 +1,164 @@
+=== FILTERED TEXT FOR: 4005-RES-VAP-DWG-236-DD-02201-D.pdf ===
+
+Line   0: CAR ACCESS
+Line   1: BASEMENT
+Line   2: ΕΙΣΟΔΟΣ ΑΥΤΟΚΙΝΗΤΩΝ
+Line   3: ΠΡΟΣ ΥΠΟΓΕΙΟ
+Line   4: CAR EXIT
+Line   5: CAR
+Line   6: ENTRANCE
+Line   7: CAR EXIT
+Line   8: BASEMENT
+Line   9: ΕΞΟΔΟΣ ΑΥΤΟΚΙΝΗΤΩΝ
+Line  10: ΠΡΟΣ ΥΠΟΓΕΙΟ
+Line  11: 02
+Line  12: 03
+Line  13: 04
+Line  14: 05
+Line  15: 06
+Line  16: 07
+Line  17: 08
+Line  18: 09
+Line  19: BN
+Line  20: BM
+Line  21: BL
+Line  22: BK
+Line  23: BJ
+Line  24: BH
+Line  25: BF
+Line  26: BE
+Line  27: BD
+Line  28: BC
+Line  29: BB
+Line  30: AM
+Line  31: AL
+Line  32: AK
+Line  33: AJ
+Line  34: AI
+Line  35: AH
+Line  36: AG
+Line  37: AF
+Line  38: AE
+Line  39: AD
+Line  40: AC
+Line  41: AB
+Line  42: BG
+Line  43: BI
+Line  44: ΠΡΟΣΒΑΣΗ ΚΟΛΥΜΒΗΤΙΚΗΣ ΔΕΞΑΜΕΝΗΣ
+Line  45: ΑΠΟ ΑΜΕΑ ΜΕ ΜΗΧΑΝΙΚΑ ΜΕΣΑ
+Line  46: 1312
+Line  47: ΟΔΕΥΣΕΙΣ ΠΡΟΣΒΑΣΙΜΕΣ ΑΠΟ ΑΜΚ
+Line  48: ΟΔΕΥΣΕΙΣ ΜΗ ΠΡΟΣΒΑΣΙΜΕΣ ΑΠΟ ΑΜΚ
+Line  49: ΕΙΣΟΔΟΙ ΠΡΟΣΒΑΣΙΜΕΣ ΑΠΟ ΑΜΚ
+Line  50: ΕΙΣΟΔΟΙ ΜΗ ΠΡΟΣΒΑΣΙΜΕΣ ΑΠΟ ΑΜΚ
+Line  51: ΑΠΑΙΤΟΥΜΕΝΟΣ ΧΩΡΟΣ ΓΙΑ ΣΤΡΟΦΗ
+Line  52: ΑΜΑΞΙΔΙΟΥ
+Line  53: ΧΩΡΟΣ ΑΝΑΜΟΝΗΣ ΑΜΚ
+Line  54: ΣΗΜΑΝΣΗ ΑΜΕΑ
+Line  55: ΥΠΟΜΝΗΜΑ ΣΥΜΒΟΛΩΝ
+Line  56: ΠΡΟΣΒΑΣΙΜΟΤΗΤΑΣ
+Line  57: 40
+Line  58: ΓΕΝΙΚΕΣ ΣΗΜΕΙΩΣΕΙΣ GENERAL NOTES
+Line  59: ΕΓΓΡΑΦΑ ΑΝΑΦΟΡΑΣ DOCUMENT REFERENCE
+Line  60: ΤΙΤΛΟΣ ΣΧΕΔΙΟΥ DRAWING TITLE
+Line  61: ΚΩΔΙΚΟΣ ΕΓΓΡΑΦΟΥ ΣΧΕΔΙΟΥ DOCUMENT DRAWING CODIFICATION
+Line  62: Project
+Line  63: Originator
+Line  64: Type
+Line  65: Discipline
+Line  66: Stage
+Line  67: Serial Number
+Line  68: Revision
+Line  69: ΚΛΙΜΑΚΑ SCALE
+Line  70: ΔΙΑΤΑΞΗ LAYOUT
+Line  71: REV.
+Line  72: DATE
+Line  73: ISSUE
+Line  74: DESCRIPTION UPDATE VERSION
+Line  75: ORIGINATED
+Line  76: CHECKED
+Line  77: VERIFIED
+Line  78: LEAD DESIGNER
+Line  79: APPROVED
+Line  80: PMC
+Line  81: STATUS
+Line  82: ΣΥΜΒΟΥΛΟΣ ΔΙΑΧΕΙΡΙΣΗΣ ΕΡΓΟΥ
+Line  83: PROJECT MANAGEMENT CONSULTANT
+Line  84: ΣΥΜΒΟΥΛΟΥ ΔΙΑΧΕΙΡΙΣΗΣ ΕΡΓΟΥ
+Line  85: PROJECT MANAGEMENT CONSULTANT DETAILS
+Line  86: ΚΥΡΙΟΣ ΜΕΛΕΤΗΤΗΣ LEAD DESIGNER
+Line  87: ΜΕΛΕΤΗΤΗ LOCAL ARCHITECT
+Line  88: SUBCONSULTANT STRUCTURE
+Line  89: ΕΡΓΟΔΟΤΗΣ EMPLOYER
+Line  90: ΕΡΓΟΔΟΤΗ EMPLOYER DETAILS
+Line  91: ΑΝΑΠΤΥΞΗ ΤΟΥ ΜΗΤΡΟΠΟΛΙΤΙΚΟΥ ΠΟΛΟΥ ΕΛΛΗΝΙΚΟΥ ΑΓIOY ΚΟΣΜΑ
+Line  92: DEVELOPMENT METROPOLITAN POLE HELLINIKON AG. KOSMAS
+Line  93: ΕΡΓΟ PROJECT
+Line  94: ΕΛΛΗΝΙΚΟ HELLINIKON
+Line  95: Kifisias Avenue Golden Hall
+Line  96: 15123 Marousi
+Line  97: Σημείωση Πνευματικών Δικαιωμάτων. 2121 1993
+Line  98: ΕΛΛΗΝΙΚΟ
+Line  99: Ρήτρα Περιορισμού Ευθύνης. Γραφείο
+Line 100: Ελληνικού. ΕΛΛΗΝΙΚΟ
+Line 101: ΝΑ ΜΗΝ ΑΛΛΑΧΘΕΙ ΚΛΙΜΑΚΑ ΤΟΥ ΣΧΕΔΙΟΥ.
+Line 102: Copyright Notice. 2121 1993
+Line 103: HELLINIKON
+Line 104: Disclaimer. Hellinikon Office. HELLINIKON
+Line 105: CHANGE SCALE DRAWING.
+Line 106: SUBCONSULTANT MEP
+Line 107: SUBCONSULTANT LANDSCAPE
+Line 108: SUBCONSULTANT TRAFFIC
+Line 109: SUBCONSULTANT LIGHTING
+Line 110: SUBCONSULTANT ACOUSTICS
+Line 111: SUBCONSULTANT SUSTAINABILITY
+Line 112: SUBCONSULTANT SIGNAGE
+Line 113: URBAN ZONE
+Line 114: ΑΡΧΙΤΕΚΤΟΝΙΚΟΣ ΣΧΕΔΙΑΣΜΟΣ Οριστική Μελέτη
+Line 115: MODEL MDD 234 DD 0001
+Line 116: BJARKE INGELS GROUP BIG
+Line 117: AVINGUDA DA LES DRASSANES
+Line 118: 08001 BARCELON, SPAIN
+Line 119: HELLINIKON
+Line 120: ΑΝΕΓΕΡΣΗ ΥΨΗΛΟΥ ΚΤΙΡΙΟΥ ΚΑΤΟΙΚΙΩΝ ΟΡΟΦΩΝ, ΜΕ ΥΠΕΡΓΕΙΟΥΣ
+Line 121: ΟΡΟΦΟΥΣ ΥΠΟΓΕΙΑ ΒΟΗΘΗΤΙΚΩΝ ΧΩΡΩΝ ΚΑΙ ΧΩΡΩΝ ΣΤΑΘΜΕΥΣΗΣ, ΙΣΟΓΕΙΟ
+Line 122: ΤΜΗΜΑ ΚΟΙΝΟΧΡΗΣΤΩΝ ΛΕΙΤΟΥΡΓΙΩΝ ΤΩΝ ΚΑΤΟΙΚΙΩΝ ΜΕ ΚΛΕΙΣΤΗ ΚΟΛΥΜΒΗΤΙΚΗ
+Line 123: ΔΕΞΑΜΕΝΗ ΣΤΟ ΥΠΟΓΕΙΟ, ΑΝΟΙΚΤΕΣ ΚΟΛΥΜΒΗΤΙΚΕΣ ΔΕΞΑΜΕΝΕΣ ΣΕ ΔΩΜΑΤΑ
+Line 124: ΟΡΟΦΩΝ, ΚΑΤΑΣΚΕΥΕΣ ΜΕ ΦΩΤΟΒΟΛΤΑΙΚΑ ΠΑΝΕΛΑ ΚΑΙ ΗΧΟΠΕΤΑΣΜΑΤΑ ΣΤΑ
+Line 125: ΔΩΜΑΤΑ ΚΤΙΡΙΟΥ, ΔΙΑΜΟΡΦΩΣΗ ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΧΩΡΟΥ, ΔΥΟ ΥΔΑΤΙΝΑ
+Line 126: ΣΕ ΗΜΙΥΠΑΙΘΡΙΟΥΣ ΧΩΡΟΥΣ ΤΟΥ ΙΣΟΓΕΙΟΥ, ΜΕ ΦΩΤΟΒΟΛΤΑΙΚΑ
+Line 127: ΠΑΝΕΛΑ ΣΕ ΤΜΗΜΑ ΠΡΑΣΙΑΣ ΚΑΙ ΣΕ ΑΚΑΛΥΠΤΟ ΧΩΡΟ ΟΙΚΟΠΕΔΟΥ ΚΑΙ ΧΡΗΣΗ ΤΟΥ
+Line 128: AΡΘΡΟΥ ΤΟΥ ΝΟΚ ΟΠΩΣ ΙΣΧΥΕΙ ΣΤΟ
+Line 129: D
+Line 130: RES
+Line 131: VAP
+Line 132: DWG
+Line 133: DD
+Line 134: 02201
+Line 135: 4005
+Line 136: Προσβασιμότητα Υπογείου
+Line 137: ΦΥΛΛΟ SHEET 02201
+Line 138: 06 2023
+Line 139: First Issuance Approval
+Line 140: VAP
+Line 141: VAP
+Line 142: BIG
+Line 143: 04 08 2023
+Line 144: Second Issuance Approval
+Line 145: VAP
+Line 146: VAP
+Line 147: BIG
+Line 148: 09 2023
+Line 149: Third Issuance Approval
+Line 150: VAP
+Line 151: VAP
+Line 152: BIG
+Line 153: D
+Line 154: 09 2023
+Line 155: Fourth Issuance Approval
+Line 156: VAP
+Line 157: VAP
+Line 158: BIG
+
+=== END OF FILTERED TEXT ===
+Total lines: 159

@@ -1,0 +1,226 @@
+=== FILTERED TEXT FOR: NCM-DD-ZZ-DR-ARC-3031-P4.pdf ===
+
+Line   0: ΙΣΟΓΕΙΟ
+Line   1: FFL
+Line   2: ΠΡΩΤΟ ΕΠΙΠΕΔΟ
+Line   3: FFL
+Line   4: ΔΕΥΤΕΡΟ ΕΠΙΠΕΔΟ FFL
+Line   5: ΠΡΩΤΟ ΥΠΟΓΕΙΟ
+Line   6: FFL
+Line   7: ΔΕΥΤΕΡΟ ΥΠΟΓΕΙΟ
+Line   8: FFL
+Line   9: ΕΠΙΠΕΔΟ ΔΩΜΑΤΩΝ ΚΑΙ FFL
+Line  10: ΕΠΙΠΕΔΟ ΔΩΜΑΤΩΝ FFL
+Line  11: ΥΔΡΟΦΟΡΟΣ ΟΡΙΖΟΝΤΑΣ
+Line  12: ΜΑΡΓΑ
+Line  13: ΕΚΘΕΣΙΑΚΟΣ ΧΩΡΟΣ
+Line  14: ΜΟΝΙΜΗΣ ΕΚΘΕΣΗΣ
+Line  15: ΠΩΛΗΤΗΡΙΟ ΜΟΥΣΕΙΟΥ
+Line  16: ΟΡΙΟ
+Line  17: ΚΤΗΡΙΟ
+Line  18: ΑΡΜΟΣ
+Line  19: 01 ARC Level
+Line  20: FFL
+Line  21: ΚΚΜ
+Line  22: ΠΥΡΟΣΒΕΣΗΣ
+Line  23: ΚΛΙΜΑΚΟΣΤΑΣΙΟ
+Line  24: ΚΛΙΜΑΚΟΣΤΑΣΙΟ
+Line  25: ΜΟΝΙΜΗ ΕΚΘΕΣΗ III
+Line  26: COSMOS
+Line  27: ΑΝΕΛΚΥΣΤΗΡΑΣ
+Line  28: ΓΡΑΦΕΙΟ ΕΡΓΑΣΤΗΡΙΟ
+Line  29: ΕΚΘΕΣΕΩΝ
+Line  30: ΑΜΦΙΘΕΑΤΡΟ
+Line  31: ΑΠΟΘΗΚΗ
+Line  32: ΚΑΘΑΡΙΣΤΩΝ
+Line  33: ΧΩΡΟΣ
+Line  34: ΣΤΑΘΜΕΥΣΗΣ
+Line  35: ΘΕΣΕΙΣ
+Line  36: ΚΚΜ
+Line  37: ΑΜΦΙΘΕΑΤΡΟ ΦΑΣΗ
+Line  38: ΜΗΧΑΝΟΣΤΑΣΙΟ
+Line  39: ΑΝΤΛΙΩΝ
+Line  40: ΠΥΡΟΣΒΕΣΗΣ
+Line  41: ΚΛΙΜΑΚΟΣΤΑΣΙΟ
+Line  42: ΚΛΙΜΑΚΟΣΤΑΣΙΟ
+Line  43: ΧΩΡΟΣ
+Line  44: ΕΓΚΑΤΑΣΤΑΣΕΩΝ
+Line  45: ΑΝΕΛΚΥΣΤΗΡΑΣ
+Line  46: ΑΝΕΛΚΥΣΤΗΡΑΣ
+Line  47: ΑΠΟΘΗΚΕΥΤΙΚΟΣ
+Line  48: ΧΩΡΟΣ
+Line  49: ΒΟΗΘΗΤΙΚΟΣ ΧΩΡΟΣ
+Line  50: ΑΜΦΙΘΕΑΤΡΟΥ
+Line  51: ΔΕΥΤΕΡΟ ΕΠΙΠΕΔΟ FFL
+Line  52: ΕΚΘΕΣΕΩΝ
+Line  53: 5013
+Line  54: ΕΠΙΠΕΔΟ ΙΣΟΓΕΙΟΥ
+Line  55: FFL
+Line  56: ΑΡΜΟΣ
+Line  57: ΑΡΜΟΣ
+Line  58: ΠΡΩΤΟ ΕΠΙΠΕΔΟ
+Line  59: FFL
+Line  60: ΑΜΕΑ ΑΛΛΑΓΗ
+Line  61: ΒΡΕΦΩΝ
+Line  62: ΑΝΕΛΚΥΣΤΗΡΑΣ
+Line  63: ΓΥΝΑΙΚΩΝ
+Line  64: 06 01
+Line  65: 06 02
+Line  66: 08 02
+Line  67: 09 01
+Line  68: 09 02
+Line  69: 02
+Line  70: 01
+Line  71: 02
+Line  72: 01
+Line  73: 02
+Line  74: 01
+Line  75: 02
+Line  76: 01
+Line  77: 02
+Line  78: 01
+Line  79: 02
+Line  80: 01
+Line  81: 02
+Line  82: 01
+Line  83: 02
+Line  84: 01
+Line  85: 02
+Line  86: 01
+Line  87: 02
+Line  88: 01
+Line  89: 08 01
+Line  90: ΥΠΗΡΕΣΙΑΚΗ
+Line  91: ΡΧ
+Line  92: ΡΧ
+Line  93: ΠΡΟΘΑΛΑΜΟΣ
+Line  94: ΚΛΙΜΑΚΟΣΤΑΣΙΟΥ
+Line  95: ΚΛΙΜΑΚΟΣΤΑΣΙΟ
+Line  96: SHAFT
+Line  97: 8914
+Line  98: 8307
+Line  99: 8303
+Line 100: 8109
+Line 101: 8108
+Line 102: 8162
+Line 103: ΜΟΝΙΜΗ ΕΚΘΕΣΗ III
+Line 104: COSMOS
+Line 105: ΜΟΝΙΜΗ ΕΚΘΕΣΗ III
+Line 106: COSMOS
+Line 107: ΜΟΝΙΜΗ ΕΚΘΕΣΗ III
+Line 108: COSMOS
+Line 109: ΜΟΝΙΜΗ ΕΚΘΕΣΗ III
+Line 110: COSMOS
+Line 111: ΜΟΝΙΜΗ ΕΚΘΕΣΗ III
+Line 112: COSMOS
+Line 113: ΥΠΕΥΘΥΝΟΥ ΕΡΓΟΥ
+Line 114: ΗΜΕΡΟΜΗΝΙΑ
+Line 115: ONOMA ΑΡΧΕΙΟΥ
+Line 116: ΛΕΥΚΩΣΙΑ ΚΥΠΡΟΣ
+Line 117: ΜΕΛΕΤΗ ΕΦΑΡΜΟΓΗΣ DD
+Line 118: ΝΕΟ ΚΥΠΡΙΑΚΟ ΜΟΥΣΕΙΟ
+Line 119: ΗΜΕΡΟΜΗΝΙΑ
+Line 120: ΕΓΚΡΙΘΗΚΕ
+Line 121: ΤΜΗΜΑ
+Line 122: ΗΜΕΡΟΜΗΝΙΑ
+Line 123: ΕΛΕΓΧΘΗΚΕ
+Line 124: ΤΜΗΜΑ
+Line 125: ΤΙΤΛΟΣ
+Line 126: ΥΠΟΒΟΛΗ
+Line 127: ΑΡ.
+Line 128: ΥΠΟΥΡΓΕΙΟ ΜΕΤΑΦΟΡΩΝ, ΕΠΙΚΟΙΝΩΝΙΩΝ ΚΑΙ ΕΡΓΩΝ
+Line 129: ΤΜΗΜΑ ΕΡΓΩΝ
+Line 130: KEY PLAN
+Line 131: ΗΜΕΡΟΜΗΝΙΑ
+Line 132: ΠΕΡΙΕΧΟΜΕΝΟ
+Line 133: ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΜΕΛΕΤΗ
+Line 134: THEONI XANTHI XZA ARCHITECTS LLC
+Line 135: ΥΠΕΥΘΥΝΟΣ ΕΡΓΟΥ
+Line 136: ΑΡΧΙΤΕΚΤΩΝ ΘΕΩΝΗ ΞΑΝΘΗ
+Line 137: ΑΡΧΙΤΕΚΤΟΝΕΣ
+Line 138: ΜΑΡΓΑΡΙΤΑ ΖΑΚΥΝΘΙΝΟΥ
+Line 139: ΣΥΝΤΟΝΙΣΤΗΣ ΑΡΧIT ΚΗΣ ΜΕΛΕΤΗΣ
+Line 140: ΚΟΣΜΑΣ ΒΑΡΚΑΡΟΛΗΣ
+Line 141: ΑΡΧΙΤΕΚΤΟΝΙΚΑ
+Line 142: YAP ARCHITECTS
+Line 143: ΣTATIKΑ
+Line 144: RHOMBUS STRUCTURAL ENGINEERS LLC ΣΤ.
+Line 145: PENELIS CONSULTING ENGINEERS SA ΠΕΝΕΛΗΣ
+Line 146: GEORGHIOU ZEMBYLAS PARTNERS
+Line 147: ΜΗΧΑΝΟΛΟΓΙΚA
+Line 148: ΗΛΕΚΤΡΟΛΟΓΙΚA
+Line 149: ΜΟΥΣΕΙΟΛΟΓΙΚA
+Line 150: THETA ACOUSTICS LTD ΝΙΑΟΥΝΑΚΗΣ
+Line 151: ΑΚΟΥΣΤΙΚA
+Line 152: RODITIS PARTNERS
+Line 153: ΕΠΙΜΕΤΡΗΣΗ ΠΟΣΟΤΗΤΩΝ
+Line 154: FLOROS PANTELI ASSOCIATES ΠΑΝΤΕΛΗ
+Line 155: ΥΓΕΙΑ
+Line 156: ΜΟΥΣΕΙΟΓΡΑΦΙΚA
+Line 157: ΘΩΜΑΣ ΤΣΟΥΚΑΛΑΣ
+Line 158: ΦΩΤΙΣΜΟΣ
+Line 159: DECO ASSOCIATES ΕΛ. ΝΤΕΚΩ
+Line 160: ΠΥΡΟΠΡΟΣΤΑΣΙΑ
+Line 161: INT FIRE CYPRUS LTD ΣΠ. ΣΠΥΡΟΥ
+Line 162: ΚΥΚΛΟΦΟΡΙΑΚΑ
+Line 163: DROMOS CONSULTING LTD ΖΕΚΚΟΣ
+Line 164: ΣΗΜΑΝΣΗ
+Line 165: POST SPECTACULAR OFFICE ΓΑΛΙΚΑΣ
+Line 166: ΚΤΗΡΙΟΥ
+Line 167: ARION PLUS
+Line 168: ΕΡΓΑΣΙΑΣ
+Line 169: ΜΕΛΕΤΗΣ
+Line 170: FEREOS ARCHITECTS LLC ΦΕΡΑΙΟΣ Αναπλ. Υπεύθυνος Οµάδας Έργου
+Line 171: DROMOS CONSULTING LTD ΖΕΚΚΟΣ
+Line 172: ΣΥΜΒΟΥΛΟΙ ΜΕΛΕΤΗΤΕΣ
+Line 173: ΓΕΩΤΕΧΝΙΚΑ
+Line 174: ΜΟΥΣΕΙΑΚΟΣ
+Line 175: XZA ARCHITECTS
+Line 176: ΒΑΣΙΛΕΙΟΥ
+Line 177: ΕΡΓΑΣΤΗΡΙΑ
+Line 178: ΩΡ
+Line 179: ΑΡΧΙΤΕΚΤΟΝΙΚΗ
+Line 180: ΚΛΙΜΑΚΑ
+Line 181: VAP ARCHITECTS Σύµβουλος Μελέτης Εφαρµογής
+Line 182: DR ARC
+Line 183: ΚΑΤΑΛΛΗΛΟΤΗΤΑΣ
+Line 184: NCM DD
+Line 185: Engineer Record
+Line 186: GEORGHIOU ZEMBYLAS PARTNERS
+Line 187: ANDREAS EVRIPIDOU CIVIL ENGINEERS
+Line 188: ΣΤΕΡΓΙΟΣ ΓΑΛΙΚΑΣ
+Line 189: ΘΩΜΑΣ ΤΣΟΥΚΑΛΑΣ
+Line 190: ΣΤΕΡΓΙΟΣ ΓΑΛΙΚΑΣ
+Line 191: Συνεργάτης ΤΣΑΜΠΙΚΟΣ ΠΕΤΡΑΣ
+Line 192: POST SPECTACULAR OFFICE ΓΑΛΙΚΑΣ
+Line 193: ΠΡΟΜΕΛΕΤΗ ΣΑΚΕΛΛΑΡΙΟΥ
+Line 194: ΦΥΣΙΚΟΣ ΦΩΤΙΣΜΟΣ
+Line 195: ΤΣΑΓΚΡΑΣΟΥΛΗΣ
+Line 196: ΕΞΟΠΛΙΣΜΟΣ ΚΟΥΖΙΝΑΣ
+Line 197: XENEX
+Line 198: ΕΝΕΡΓΕΙΑΚΑ ΚΕΛΥΦΟΥΣ
+Line 199: METABUILD
+Line 200: ΓΡΑΦΙΣΤΙΚΑ
+Line 201: ΦΥΤΟΤΕΧΝΙΚΑ
+Line 202: LANDCO EΠΕ ΚΑΝΤΑΡΤΖΗΣ
+Line 203: ΦΕΒΡΟΥΑΡΙΟΣ 2021
+Line 204: P4
+Line 205: 02 2021
+Line 206: ΤΟΜΕΣ ΓΓ ΖΩΝΗ
+Line 207: 3031
+Line 208: ΖΖ
+Line 209: ΤΟΜΗ ΓΓ ΖΩΝΗ
+Line 210: ΤΟΜΗ ΓΓ ΖΩΝΗ
+Line 211: ΖΩΝΗ
+Line 212: 08 07 2020
+Line 213: Υποβολή
+Line 214: 07 2020
+Line 215: Υποβολή
+Line 216: 2020
+Line 217: Υποβολή
+Line 218: P4
+Line 219: 02 2021
+Line 220: Υποβολή
+
+=== END OF FILTERED TEXT ===
+Total lines: 221

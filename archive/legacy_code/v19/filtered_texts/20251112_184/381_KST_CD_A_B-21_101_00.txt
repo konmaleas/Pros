@@ -1,0 +1,44 @@
+=== FILTERED TEXT FOR: 381_KST_CD_A_B-21_101_00.pdf ===
+
+Line   0: FIRE DOOR
+Line   1: TBD BASED ON
+Line   2: FIRE PROTECTION
+Line   3: REQUIREMENTS
+Line   4: TBD
+Line   5: TBD
+Line   6: TBD
+Line   7: ΜΗΧΑΝΟΣΤΑΣΙΟ
+Line   8: ΗΛΕΚΤΡΟΣΤΑΣΙΟ
+Line   9: ABEYANCE TBD BASED
+Line  10: ON BUILDING FEEDBACK
+Line  11: 03 2023
+Line  12: GROUND FLOOR PROPOSAL
+Line  13: PROJECT
+Line  14: SCALE
+Line  15: ADDRESS
+Line  16: CHK
+Line  17: PLAN BUILDING
+Line  18: PHAEA RESORTS
+Line  19: FILE NAME
+Line  20: CONCEPT DESIGN
+Line  21: ELOUNDA, CRETE
+Line  22: SIGNED
+Line  23: DRAWING TITLE
+Line  24: 381 CD Building
+Line  25: 381 KST CD DR A B 101 00
+Line  26: ROSEWOOD BLUE PALACE
+Line  27: DESIGN STAGE
+Line  28: DATE
+Line  29: NOTES
+Line  30: REVISIONS
+Line  31: DWG
+Line  32: CLIENT
+Line  33: DRAWING
+Line  34: SUBMISSION
+Line  35: DATE
+Line  36: NO.
+Line  37: 03
+Line  38: DESCRIPTION
+
+=== END OF FILTERED TEXT ===
+Total lines: 39

@@ -1,0 +1,901 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-216-01_OVERALL_GROUND_FLOOR_GA_PLAN_IFP_2_.pdf ===
+
+Line   0: GL
+Line   1: PL ATE
+Line   2: GL
+Line   3: PL ATE
+Line   4: GL
+Line   5: PL ATE
+Line   6: GL
+Line   7: PL ATE
+Line   8: GL
+Line   9: PL ATE
+Line  10: GL
+Line  11: PL ATE
+Line  12: GL
+Line  13: PL ATE
+Line  14: GL
+Line  15: PL ATE
+Line  16: LAND
+Line  17: BM
+Line  18: LAND
+Line  19: LAND
+Line  20: LAND
+Line  21: BM
+Line  22: LAND
+Line  23: LAND
+Line  24: LAND
+Line  25: BM
+Line  26: LAND
+Line  27: LAND
+Line  28: GLAND
+Line  29: BMS GLAND
+Line  30: VENTILATION COW
+Line  31: GLAND
+Line  32: GLAND
+Line  33: GLAND
+Line  34: GLAND
+Line  35: GLAND
+Line  36: GLAND
+Line  37: GLAND
+Line  38: VENTILATION COW
+Line  39: GLAND
+Line  40: BMS
+Line  41: GLAND
+Line  42: GLAND
+Line  43: GLAND
+Line  44: BMS
+Line  45: GLAND
+Line  46: GLAND
+Line  47: GLAND
+Line  48: BMS
+Line  49: GLAND
+Line  50: GLAND
+Line  51: GL
+Line  52: PL ATE
+Line  53: BM GL
+Line  54: PL ATE
+Line  55: GL
+Line  56: PL ATE
+Line  57: GL
+Line  58: PL ATE
+Line  59: GL
+Line  60: PL ATE
+Line  61: GL
+Line  62: PL ATE
+Line  63: GL
+Line  64: PL ATE
+Line  65: GL
+Line  66: PL ATE
+Line  67: GL
+Line  68: PL ATE
+Line  69: LAND
+Line  70: BM
+Line  71: LAND
+Line  72: LAND
+Line  73: LAND
+Line  74: BM
+Line  75: LAND
+Line  76: LAND
+Line  77: LAND
+Line  78: BM
+Line  79: LAND
+Line  80: LAND
+Line  81: GLAND
+Line  82: BMS GLAND
+Line  83: VENTILATION COW
+Line  84: GLAND
+Line  85: GLAND
+Line  86: GLAND
+Line  87: GLAND
+Line  88: GLAND
+Line  89: GLAND
+Line  90: GLAND
+Line  91: VENTILATION COW
+Line  92: GLAND
+Line  93: BMS
+Line  94: GLAND
+Line  95: GLAND
+Line  96: GLAND
+Line  97: BMS
+Line  98: GLAND
+Line  99: GLAND
+Line 100: GLAND
+Line 101: BMS
+Line 102: GLAND
+Line 103: GLAND
+Line 104: BMS
+Line 105: BMS
+Line 106: BM
+Line 107: BM
+Line 108: BM
+Line 109: BM
+Line 110: BMS
+Line 111: BMS
+Line 112: BMS
+Line 113: BMS
+Line 114: BMS
+Line 115: BMS
+Line 116: BM
+Line 117: BM
+Line 118: BM
+Line 119: BM
+Line 120: BM
+Line 121: BM
+Line 122: BM
+Line 123: BM
+Line 124: BMS
+Line 125: BMS
+Line 126: BMS
+Line 127: BMS
+Line 128: GLAND
+Line 129: GLAND
+Line 130: GLAND
+Line 131: GLAND
+Line 132: BMS
+Line 133: GL
+Line 134: PL ATE
+Line 135: GL
+Line 136: PL ATE
+Line 137: GL
+Line 138: PL ATE
+Line 139: GL
+Line 140: PL ATE
+Line 141: GL
+Line 142: PL ATE
+Line 143: BM
+Line 144: BM
+Line 145: GLAND
+Line 146: GLAND
+Line 147: GLAND
+Line 148: GLAND
+Line 149: BMS
+Line 150: GL
+Line 151: PL ATE
+Line 152: GL
+Line 153: PL ATE
+Line 154: GL
+Line 155: PL ATE
+Line 156: GL
+Line 157: PL ATE
+Line 158: BM
+Line 159: GL
+Line 160: PL ATE
+Line 161: BM
+Line 162: BM
+Line 163: BM
+Line 164: BM
+Line 165: BM
+Line 166: WP
+Line 167: WP
+Line 168: WP
+Line 169: WP
+Line 170: WP
+Line 171: WP
+Line 172: WP
+Line 173: 2
+Line 174: 2
+Line 175: 4
+Line 176: 4
+Line 177: 4
+Line 178: 4
+Line 179: WP
+Line 180: 2
+Line 181: 2
+Line 182: 2
+Line 183: 2
+Line 184: WP
+Line 185: WP
+Line 186: WP
+Line 187: WP
+Line 188: WP
+Line 189: WP
+Line 190: 2
+Line 191: WP
+Line 192: WP
+Line 193: WP
+Line 194: 2
+Line 195: WP
+Line 196: 4
+Line 197: 2
+Line 198: 2
+Line 199: 2
+Line 200: 2
+Line 201: 2
+Line 202: 2
+Line 203: 2
+Line 204: 2
+Line 205: 2
+Line 206: 2
+Line 207: 2
+Line 208: 2
+Line 209: 2
+Line 210: 2
+Line 211: 2
+Line 212: 2
+Line 213: 2
+Line 214: 2
+Line 215: 2
+Line 216: 2
+Line 217: 2
+Line 218: 2
+Line 219: 2
+Line 220: 2
+Line 221: 2
+Line 222: 2
+Line 223: 2
+Line 224: 2
+Line 225: 2
+Line 226: 2
+Line 227: 2
+Line 228: 2
+Line 229: 2
+Line 230: 2
+Line 231: 2
+Line 232: 2
+Line 233: WP
+Line 234: WP
+Line 235: WP
+Line 236: WP
+Line 237: 2
+Line 238: WP
+Line 239: WP
+Line 240: WP
+Line 241: WP
+Line 242: WP
+Line 243: WP
+Line 244: WP
+Line 245: WP
+Line 246: WP
+Line 247: WP
+Line 248: WP
+Line 249: WP
+Line 250: WP
+Line 251: ZF
+Line 252: ZA
+Line 253: YF
+Line 254: YE
+Line 255: YD
+Line 256: YC
+Line 257: YB
+Line 258: YA
+Line 259: 2
+Line 260: 4
+Line 261: XF
+Line 262: XA
+Line 263: 3000
+Line 264: 9200
+Line 265: 6350
+Line 266: 6150
+Line 267: 7300
+Line 268: 7300
+Line 269: 7300
+Line 270: 7300
+Line 271: 7300
+Line 272: 7300
+Line 273: 7300
+Line 274: 7300
+Line 275: 7300
+Line 276: 7300
+Line 277: 7300
+Line 278: 7300
+Line 279: 7300
+Line 280: 7300
+Line 281: 7300
+Line 282: 7300
+Line 283: 7300
+Line 284: 7300
+Line 285: 7300
+Line 286: 7650
+Line 287: CELL
+Line 288: 00
+Line 289: CELL
+Line 290: 00
+Line 291: MECHANICAL
+Line 292: GALLERY
+Line 293: 00
+Line 294: COLD
+Line 295: WATER
+Line 296: VALVE
+Line 297: ROOM
+Line 298: 00
+Line 299: SPRINKLER
+Line 300: VALVE
+Line 301: ROOM
+Line 302: 00
+Line 303: OVERHEAD
+Line 304: WALKWAY
+Line 305: EXTENT
+Line 306: OVERHEAD
+Line 307: WALKWAY
+Line 308: EXTENT
+Line 309: GEN
+Line 310: GEN
+Line 311: GEN
+Line 312: GEN
+Line 313: GRADED
+Line 314: LOADING
+Line 315: AREA
+Line 316: ELEC
+Line 317: 00
+Line 318: ELEC 2
+Line 319: 00
+Line 320: 2
+Line 321: 00
+Line 322: 4
+Line 323: 00
+Line 324: 00
+Line 325: 00
+Line 326: ELEC
+Line 327: 00
+Line 328: CANOPY EXTENT
+Line 329: LOBBY
+Line 330: 00
+Line 331: LOBBY
+Line 332: 00
+Line 333: LOBBY
+Line 334: 00
+Line 335: LOBBY
+Line 336: 00
+Line 337: LOBBY
+Line 338: 00
+Line 339: LOBBY
+Line 340: 00
+Line 341: ELEC 4
+Line 342: 00
+Line 343: RWP
+Line 344: Indicated
+Line 345: MECHANICAL
+Line 346: GALLERY 2
+Line 347: 00
+Line 348: MECHANICAL
+Line 349: GALLERY 4
+Line 350: 00
+Line 351: UP
+Line 352: REFER DRAWING
+Line 353: 734 735
+Line 354: LOADING DOCK
+Line 355: INFORMATION
+Line 356: 2370
+Line 357: 12745
+Line 358: 3500
+Line 359: 10100
+Line 360: 4500
+Line 361: 6300
+Line 362: 6350
+Line 363: 6000
+Line 364: 7695
+Line 365: 2370
+Line 366: 2465
+Line 367: 5500
+Line 368: 20750
+Line 369: 4500
+Line 370: 20750
+Line 371: 5500
+Line 372: 2465
+Line 373: 61930
+Line 374: 29350
+Line 375: CELL 2
+Line 376: 00
+Line 377: STAIRCASE
+Line 378: 2
+Line 379: 00
+Line 380: FACILITY
+Line 381: OFFICE
+Line 382: 00 005
+Line 383: OFFICE
+Line 384: 00 015
+Line 385: FIRE
+Line 386: ESCAPE
+Line 387: CORRIDOR
+Line 388: 00 019
+Line 389: BREAK
+Line 390: ROOM
+Line 391: 00 017
+Line 392: STORAGE
+Line 393: 00 018
+Line 394: OFFICE
+Line 395: 00 014
+Line 396: WELLNESS
+Line 397: 00 013
+Line 398: MMR
+Line 399: 00 020
+Line 400: FCR
+Line 401: 00 022
+Line 402: SER
+Line 403: 00 023
+Line 404: PHONE
+Line 405: BOOTH
+Line 406: 00 011
+Line 407: PRINT ROOM
+Line 408: 00 012
+Line 409: MEETING
+Line 410: ROOM
+Line 411: 00 010
+Line 412: CONFERENCE
+Line 413: ROOM
+Line 414: 00 009
+Line 415: OFFICE
+Line 416: 00 004
+Line 417: FOC
+Line 418: 00 003
+Line 419: SOC OFFICE
+Line 420: 00 007
+Line 421: SOC
+Line 422: STORAGE
+Line 423: 00 008
+Line 424: LOBBY
+Line 425: 00 029
+Line 426: ELEC ROOM
+Line 427: 00 024
+Line 428: SOC
+Line 429: 00 006
+Line 430: LOBBY
+Line 431: 00 025
+Line 432: WC
+Line 433: 00 026
+Line 434: SHWR
+Line 435: CHANGE
+Line 436: 00 028
+Line 437: LOBBY
+Line 438: 00 027
+Line 439: WC
+Line 440: 00 030
+Line 441: WC
+Line 442: 00 031
+Line 443: CORRIDOR
+Line 444: 00 021
+Line 445: INNER
+Line 446: LOBBY
+Line 447: 00 002
+Line 448: ENTRANCE
+Line 449: LOBBY
+Line 450: 00 001
+Line 451: CONFERENCE
+Line 452: ROOM 2
+Line 453: 00 032
+Line 454: CHECK
+Line 455: POINT
+Line 456: 00 036
+Line 457: JANITOR
+Line 458: ROOM
+Line 459: 00 037
+Line 460: SHRED
+Line 461: ROOM
+Line 462: 00 045
+Line 463: LOBBY WC
+Line 464: 00 033
+Line 465: CABLE
+Line 466: STORAGE
+Line 467: 00 041
+Line 468: GENERAL
+Line 469: STORAGE
+Line 470: 00 042
+Line 471: HIGH VALUE
+Line 472: STORAGE
+Line 473: 00 046
+Line 474: SECURE
+Line 475: STORAGE
+Line 476: 00 044
+Line 477: RECEIVING
+Line 478: STAGING
+Line 479: AREA
+Line 480: 00 040
+Line 481: CE
+Line 482: WORKSHOP
+Line 483: 00 043
+Line 484: MMR 2
+Line 485: 00 053
+Line 486: WC
+Line 487: 00 051
+Line 488: FIRE
+Line 489: ESCAPE
+Line 490: CORRIDOR
+Line 491: 00 052
+Line 492: LOADING
+Line 493: DOCK
+Line 494: 00 048
+Line 495: ADMIN
+Line 496: SPRINKLER
+Line 497: RISER
+Line 498: 00 049
+Line 499: INCOMING
+Line 500: WATER
+Line 501: RISER
+Line 502: 00 055
+Line 503: 2
+Line 504: COLD
+Line 505: WATER
+Line 506: VALVE
+Line 507: ROOM
+Line 508: 00
+Line 509: 2
+Line 510: SPRINKLER
+Line 511: VALVE
+Line 512: ROOM
+Line 513: 00
+Line 514: CORRIDOR
+Line 515: 00 016
+Line 516: DIS
+Line 517: WC SHWR
+Line 518: 00 034
+Line 519: ASSET
+Line 520: MANAGEMENT
+Line 521: 00 047
+Line 522: CELL 4
+Line 523: 00
+Line 524: MECHANICAL
+Line 525: GALLERY
+Line 526: 00
+Line 527: STORE
+Line 528: 00 056
+Line 529: UNISEX WC
+Line 530: 00 039
+Line 531: GALLERY
+Line 532: LOBBY
+Line 533: 00
+Line 534: GALLERY
+Line 535: LOBBY
+Line 536: 00
+Line 537: GALLERY
+Line 538: LOBBY
+Line 539: 00
+Line 540: GALLERY
+Line 541: LOBBY
+Line 542: 00
+Line 543: AIRLOCK
+Line 544: 00 038
+Line 545: CAT LADDER
+Line 546: GRD
+Line 547: RAB
+Line 548: STAIRCASE
+Line 549: 00
+Line 550: 3850
+Line 551: CAT LADDER
+Line 552: GRD LEVEL RAB
+Line 553: LEVEL
+Line 554: 2
+Line 555: 2
+Line 556: 4
+Line 557: 4
+Line 558: 01
+Line 559: 01
+Line 560: 03
+Line 561: 03
+Line 562: 4
+Line 563: 4
+Line 564: FALLOW SPACE FUTURE EXPANSION
+Line 565: 2
+Line 566: 2
+Line 567: 4
+Line 568: 4
+Line 569: GRAVEL
+Line 570: PERIMETER
+Line 571: CAT LADDER
+Line 572: GRD LEVEL
+Line 573: RAB LEVEL
+Line 574: CAT LADDER
+Line 575: GRD LEVEL RAB
+Line 576: LEVEL
+Line 577: MJ
+Line 578: MJ
+Line 579: BIN
+Line 580: STORE
+Line 581: 2
+Line 582: 4
+Line 583: XA
+Line 584: XF
+Line 585: ADMIN
+Line 586: 2
+Line 587: 2
+Line 588: 4
+Line 589: 2
+Line 590: 4
+Line 591: TRUE NORTH
+Line 592: Sheet Title Number
+Line 593: Scale
+Line 594: Plan
+Line 595: Design Consultants
+Line 596: Microsoft
+Line 597: DATA CENTER
+Line 598: SPATA GREECE
+Line 599: Contractor Joint Venture
+Line 600: Name
+Line 601: Contractor Project
+Line 602: Contractor Contract
+Line 603: Contractor PM
+Line 604: Contractor BIM Mngr
+Line 605: Contractor Information
+Line 606: Renco Terna
+Line 607: Client
+Line 608: General Notes
+Line 609: Client Project
+Line 610: Client Contract
+Line 611: Client PM
+Line 612: Client BIM Mngr
+Line 613: Primary Client Information
+Line 614: Layout
+Line 615: Revision
+Line 616: Tombazi Chalandri
+Line 617: 15232
+Line 618: Athens Greece
+Line 619: 0800 3262
+Line 620: Agion Theodoron Square Athens
+Line 621: 10561
+Line 622: Athens Greece
+Line 623: Kimithois Agios Dimitrios
+Line 624: 17236
+Line 625: Athens Greece
+Line 626: Purpose Issue
+Line 627: Issue
+Line 628: Name
+Line 629: 01
+Line 630: OVERALL GROUND FLOOR GA
+Line 631: PLAN IFP 2
+Line 632: VAP AH 01
+Line 633: SCALE
+Line 634: GROUND FLOOR GENERAL ARRANGEMENT
+Line 635: Room Schedule Number Name
+Line 636: Number
+Line 637: Name
+Line 638: Area
+Line 639: 00 001
+Line 640: ENTRANCE LOBBY
+Line 641: 00 002
+Line 642: INNER LOBBY
+Line 643: 40
+Line 644: 00 003
+Line 645: FOC
+Line 646: 00 004
+Line 647: OFFICE
+Line 648: 00 005
+Line 649: FACILITY OFFICE
+Line 650: 00 006
+Line 651: SOC
+Line 652: 41
+Line 653: 00 007
+Line 654: SOC OFFICE
+Line 655: 00 008
+Line 656: SOC STORAGE
+Line 657: 00 009
+Line 658: CONFERENCE ROOM
+Line 659: 00 010
+Line 660: MEETING ROOM
+Line 661: 00 011
+Line 662: PHONE BOOTH
+Line 663: 00 012
+Line 664: PRINT ROOM
+Line 665: 2
+Line 666: 00 013
+Line 667: WELLNESS
+Line 668: 00 014
+Line 669: OFFICE
+Line 670: 00 015
+Line 671: OFFICE
+Line 672: 00 016
+Line 673: CORRIDOR
+Line 674: 00 017
+Line 675: BREAK ROOM
+Line 676: 00 018
+Line 677: STORAGE
+Line 678: 00 019
+Line 679: FIRE ESCAPE CORRIDOR
+Line 680: 00 020
+Line 681: MMR
+Line 682: 00 021
+Line 683: CORRIDOR
+Line 684: 00 022
+Line 685: FCR
+Line 686: 00 023
+Line 687: SER
+Line 688: 00 024
+Line 689: ELEC ROOM
+Line 690: 49
+Line 691: 00 025
+Line 692: LOBBY
+Line 693: 00 026
+Line 694: WC
+Line 695: 2
+Line 696: 00 027
+Line 697: LOBBY
+Line 698: 2
+Line 699: 00 028
+Line 700: SHWR CHANGE
+Line 701: 4
+Line 702: 00 029
+Line 703: LOBBY
+Line 704: 00 030
+Line 705: WC
+Line 706: 2
+Line 707: 00 031
+Line 708: WC
+Line 709: 2
+Line 710: 00 032
+Line 711: CONFERENCE ROOM 2
+Line 712: 00 033
+Line 713: LOBBY WC
+Line 714: 4
+Line 715: 00 034
+Line 716: DIS WC SHWR
+Line 717: 00 036
+Line 718: CHECK POINT
+Line 719: 48
+Line 720: 00 037
+Line 721: JANITOR ROOM
+Line 722: 00 038
+Line 723: AIRLOCK
+Line 724: 00 039
+Line 725: UNISEX WC
+Line 726: 4
+Line 727: 00 040
+Line 728: RECEIVING STAGING AREA
+Line 729: 76
+Line 730: Room Schedule Number Name
+Line 731: Number
+Line 732: Name
+Line 733: Area
+Line 734: 00 041
+Line 735: CABLE STORAGE
+Line 736: 00 042
+Line 737: GENERAL STORAGE
+Line 738: 44
+Line 739: 00 043
+Line 740: CE WORKSHOP
+Line 741: 00 044
+Line 742: SECURE STORAGE
+Line 743: 00 045
+Line 744: SHRED ROOM
+Line 745: 00 046
+Line 746: HIGH VALUE STORAGE
+Line 747: 00 047
+Line 748: ASSET MANAGEMENT
+Line 749: 00 048
+Line 750: LOADING DOCK
+Line 751: 00 049
+Line 752: ADMIN SPRINKLER RISER
+Line 753: 00 051
+Line 754: WC
+Line 755: 00 052
+Line 756: FIRE ESCAPE CORRIDOR
+Line 757: 4
+Line 758: 00 053
+Line 759: MMR 2
+Line 760: 00 055
+Line 761: INCOMING WATER RISER
+Line 762: 2
+Line 763: 00 056
+Line 764: STORE
+Line 765: 00 059
+Line 766: LOBBY
+Line 767: 00 060
+Line 768: BIN STORE
+Line 769: 00
+Line 770: CELL
+Line 771: 731
+Line 772: 00
+Line 773: CELL 2
+Line 774: 00
+Line 775: CELL
+Line 776: 737
+Line 777: 00
+Line 778: CELL 4
+Line 779: 00
+Line 780: MECHANICAL GALLERY 2
+Line 781: 00
+Line 782: MECHANICAL GALLERY 4
+Line 783: 00
+Line 784: MECHANICAL GALLERY
+Line 785: 00
+Line 786: MECHANICAL GALLERY
+Line 787: 00
+Line 788: COLD WATER VALVE ROOM
+Line 789: 00
+Line 790: SPRINKLER VALVE ROOM
+Line 791: 00
+Line 792: LOBBY
+Line 793: 00
+Line 794: LOBBY
+Line 795: 00
+Line 796: LOBBY
+Line 797: 00
+Line 798: ELEC 2
+Line 799: 00
+Line 800: 2
+Line 801: 41
+Line 802: 00
+Line 803: 4
+Line 804: 00
+Line 805: ELEC 4
+Line 806: 00
+Line 807: ELEC
+Line 808: 00
+Line 809: 41
+Line 810: 00
+Line 811: 00
+Line 812: ELEC
+Line 813: 00
+Line 814: LOBBY
+Line 815: 00
+Line 816: LOBBY
+Line 817: Room Schedule Number Name
+Line 818: Number
+Line 819: Name
+Line 820: Area
+Line 821: 00
+Line 822: LOBBY
+Line 823: 00
+Line 824: STAIRCASE
+Line 825: 00
+Line 826: STAIRCASE 2
+Line 827: 00
+Line 828: 2 COLD WATER VALVE ROOM
+Line 829: 00
+Line 830: 2 SPRINKLER VALVE ROOM
+Line 831: 00
+Line 832: GALLERY LOBBY
+Line 833: 00
+Line 834: GALLERY LOBBY
+Line 835: 00
+Line 836: GALLERY LOBBY
+Line 837: 00
+Line 838: GALLERY LOBBY
+Line 839: 00
+Line 840: SPRINKLER VALVE ROOM
+Line 841: 00
+Line 842: STORE
+Line 843: 00
+Line 844: SWITCH ROOM
+Line 845: 00
+Line 846: PUMP ROOM
+Line 847: 00
+Line 848: STORE
+Line 849: 00
+Line 850: COMMS ROOM
+Line 851: 00
+Line 852: SWITCH ROOM
+Line 853: 01 01
+Line 854: LOBBY GANTRY
+Line 855: 01 02
+Line 856: LOBBY GANTRY
+Line 857: 01 03
+Line 858: ELEC. ROOM 4 GANTRY
+Line 859: 01 04
+Line 860: ELEC. ROOM 2 GANTRY
+Line 861: 01 05
+Line 862: ELEC. ROOM GANTRY
+Line 863: 01 06
+Line 864: ELEC. ROOM GANTRY
+Line 865: 01 07
+Line 866: LOBBY GANTRY
+Line 867: 01 08
+Line 868: LOBBY GANTRY
+Line 869: 01 09
+Line 870: MECH GALLERY 4 GANTRY
+Line 871: 01
+Line 872: MECH GALLERY GANTRY
+Line 873: 01
+Line 874: MECH GALLERY 2 GANTRY
+Line 875: 01
+Line 876: MECH GALLERY GANTRY
+Line 877: 01
+Line 878: RETURN AIR BALCONY SOUTH
+Line 879: 01
+Line 880: RETURN AIR BALCONY NORTH
+Line 881: 01
+Line 882: NORTH PLANT COMPOUND
+Line 883: 2147
+Line 884: 01
+Line 885: SOUTH PLANT COMPOUND
+Line 886: 2237
+Line 887: 5000
+Line 888: 10000
+Line 889: SCALE
+Line 890: Date
+Line 891: Description
+Line 892: 01
+Line 893: 09 09
+Line 894: Issued Approval
+Line 895: VAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 896

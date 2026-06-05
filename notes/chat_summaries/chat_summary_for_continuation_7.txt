@@ -1,0 +1,66 @@
+Continuation Summary - PDF Title Extraction Pipeline
+Current Status: Batch Processing & Debugging Phase
+What We Built (Stages 1-4)
+
+Text Extraction (Stage 1A): PyMuPDF extracts raw text
+Text Processing (Stage 1B): Character normalization (Greek→Latin), line splitting
+Frequency Analysis (Stage 2): Word frequencies, chunk positions, noise threshold
+Adaptive Filtering (Stage 3): Removes noise while preserving structural terms
+Multi-Anchor Pattern Analysis (Stage 4):
+
+Template-based chunk pattern learning (length, alpha/digit/mixed)
+Multi-anchor support for split titles
+Two-pass validation with adaptive offset learning
+Greedy assignment for ambiguous pattern matches
+
+
+
+Key Technical Achievement
+Switched from filtered_lines to processed_lines - CRITICAL FIX that enabled:
+
+Finding dynamic chunks (L0, L1, L2, B2) that were previously filtered out
+100% success on test batch (44/44 files validated)
+Pattern matching works across document variants
+
+Batch Processing System
+Created: batch_processor.py with multiprocessing
+
+Template detection: "Most complete title" strategy (fallback to min())
+Processes batches in parallel
+Outputs JSON (detailed) + CSV (summary)
+Error handling with comprehensive logging
+
+Current Results (3,828 batches processed)
+
+Success: 7.9% (303 batches) - 100% validation
+Partial: 1.5% (59 batches) - 80-99% validation
+Failed: 41.5% (1,588 batches) - <80% validation
+Skipped: 49.1% (1,878 batches) - ≤2 files
+
+Known Issues to Fix
+1. Batch Over-Counting (URGENT)
+
+Expected: 566 batches (from submissions_directories.pkl)
+Script found: 3,828 batches
+Cause: Script treating subdirectories within submission folders as separate batches
+Fix needed: Only process directories containing PDFs directly, ignore nested subdirs
+
+2. Image-Only PDFs
+
+Some PDFs contain no extractable text (scanned images)
+Solution to implement:
+
+Detect image PDFs before processing
+Use Tesseract OCR for conversion
+Better detection: Search for title chunks in text, not arbitrary character count
+
+
+
+3. Multi-Delimiter Title Splitting
+
+Current: Only splits on -
+Example failure: LAN-ARC_FD-101 00 → should be 5 chunks, gets only 3
+Solution: Use re.split(r'[^a-zA-Z0-9]+', title) to split on ALL non-alphanumeric chars
+
+Data Structure
+

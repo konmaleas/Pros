@@ -1,0 +1,320 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-730-0B_EXTERNAL_GLAZING_KEY_PLAN.pdf ===
+
+Line   0: ZA
+Line   1: YF
+Line   2: YE
+Line   3: YD
+Line   4: YC
+Line   5: YB
+Line   6: YA
+Line   7: XA
+Line   8: 746
+Line   9: 747
+Line  10: 746
+Line  11: 747
+Line  12: 746
+Line  13: 746
+Line  14: 720
+Line  15: 03
+Line  16: 03
+Line  17: BREAK
+Line  18: ROOM
+Line  19: ATH04 00 017
+Line  20: FACILITY
+Line  21: OFFICE
+Line  22: ATH04 00 005
+Line  23: FOC
+Line  24: ATH04 00 003
+Line  25: OFFICE
+Line  26: ATH04 00 015
+Line  27: RECEIVING
+Line  28: STAGING
+Line  29: AREA
+Line  30: ATH04 00 040
+Line  31: SOC
+Line  32: ATH04 00 006
+Line  33: FCR
+Line  34: ATH04 00 022
+Line  35: SER
+Line  36: ATH04 00 023
+Line  37: OFFICE
+Line  38: ATH04 00 014
+Line  39: ELEC ROOM
+Line  40: ATH04 00 024
+Line  41: CE
+Line  42: WORKSHOP
+Line  43: ATH04 00 043
+Line  44: LOADING
+Line  45: DOCK
+Line  46: ATH04 00 048
+Line  47: HIGH VALUE
+Line  48: STORAGE
+Line  49: ATH04 00 046
+Line  50: SECURE
+Line  51: STORAGE
+Line  52: ATH04 00 044
+Line  53: ASSET
+Line  54: MANAGEMENT
+Line  55: ATH04 00 047
+Line  56: GENERAL
+Line  57: STORAGE
+Line  58: ATH04 00 042
+Line  59: SHRED
+Line  60: ROOM
+Line  61: ATH04 00 045
+Line  62: CABLE
+Line  63: STORAGE
+Line  64: ATH04 00 041
+Line  65: CONFERENCE
+Line  66: ROOM
+Line  67: ATH04 00 032
+Line  68: MMR
+Line  69: ATH04 00 053
+Line  70: UNISEX WC
+Line  71: ATH04 00 039
+Line  72: CHECK
+Line  73: POINT
+Line  74: ATH04 00 036
+Line  75: LOBBY WC
+Line  76: ATH04 00 033
+Line  77: ENTRANCE
+Line  78: LOBBY
+Line  79: ATH04 00 001
+Line  80: INNER
+Line  81: LOBBY
+Line  82: ATH04 00 002
+Line  83: MMR
+Line  84: ATH04 00 020
+Line  85: JANITOR
+Line  86: ROOM
+Line  87: ATH04 00 037
+Line  88: WELLNESS
+Line  89: ATH04 00 013
+Line  90: SHWR
+Line  91: CHANGE
+Line  92: ATH04 00 028
+Line  93: CONFERENCE
+Line  94: ROOM
+Line  95: ATH04 00 009
+Line  96: OFFICE A
+Line  97: ATH04 00 004
+Line  98: PHONE
+Line  99: BOOTH
+Line 100: ATH04 00 011
+Line 101: MEETING
+Line 102: ROOM
+Line 103: ATH04 00 010
+Line 104: SOC
+Line 105: STORAGE
+Line 106: ATH04 00 008
+Line 107: SOC OFFICE
+Line 108: ATH04 00 007
+Line 109: WC
+Line 110: ATH04 00 051
+Line 111: ADMIN
+Line 112: SPRINKLER
+Line 113: RISER
+Line 114: ATH04 00 049
+Line 115: DIS
+Line 116: WC SHWR
+Line 117: ATH04 00 034
+Line 118: WC
+Line 119: ATH04 00 031
+Line 120: WC
+Line 121: ATH04 00 026
+Line 122: LOBBY
+Line 123: ATH04 00 029
+Line 124: FIRE
+Line 125: ESCAPE
+Line 126: CORRIDOR
+Line 127: ATH04 00 052
+Line 128: FIRE
+Line 129: ESCAPE
+Line 130: CORRIDOR
+Line 131: ATH04 00 019
+Line 132: CORRIDOR
+Line 133: ATH04 00 016
+Line 134: CORRIDOR
+Line 135: ATH04 00 021
+Line 136: STORAGE
+Line 137: ATH04 00 018
+Line 138: PRINT ROOM
+Line 139: ATH04 00 012
+Line 140: WC
+Line 141: ATH04 00 030
+Line 142: LOBBY
+Line 143: ATH04 00 027
+Line 144: LOBBY
+Line 145: ATH04 00 025
+Line 146: INCOMING
+Line 147: WATER
+Line 148: RISER
+Line 149: ATH04 00 055
+Line 150: COLO
+Line 151: STORE
+Line 152: ATH04 00 056
+Line 153: LOBBY
+Line 154: ATH04 00 059
+Line 155: AIRLOCK
+Line 156: ATH04 00 038
+Line 157: IG 010
+Line 158: IG 009
+Line 159: IG 008
+Line 160: IG 007
+Line 161: IG 003
+Line 162: IG 002
+Line 163: IG 004
+Line 164: IG 006
+Line 165: IG 001
+Line 166: IG 011
+Line 167: IG 012
+Line 168: IG 013
+Line 169: IG 015
+Line 170: IG 014
+Line 171: IW 001
+Line 172: IW 002
+Line 173: IW 003
+Line 174: IW 004
+Line 175: IW 005
+Line 176: IW 006
+Line 177: IW 007
+Line 178: IW 008
+Line 179: IW 009
+Line 180: IW 010
+Line 181: IW 011
+Line 182: EW 001
+Line 183: ED 009
+Line 184: ID DC 020
+Line 185: ID DC 025
+Line 186: ED 006
+Line 187: ED 040
+Line 188: ED 019
+Line 189: ID 045
+Line 190: ID 044
+Line 191: ID 047
+Line 192: ID 054
+Line 193: ID 053
+Line 194: ID 055
+Line 195: ID 048
+Line 196: ID 043
+Line 197: ID 049
+Line 198: ID 050
+Line 199: ID 052
+Line 200: ID 051
+Line 201: ED 005
+Line 202: ED 010
+Line 203: ED 011
+Line 204: ID 042
+Line 205: ID 028
+Line 206: ID 040
+Line 207: ID 037
+Line 208: ID 003
+Line 209: ID 002
+Line 210: CW 001
+Line 211: CW 003
+Line 212: ID 017
+Line 213: ID 023
+Line 214: ID 021
+Line 215: ID 024
+Line 216: ID 020
+Line 217: ID 025
+Line 218: ID 025
+Line 219: ED 004
+Line 220: ED 003
+Line 221: ID 027
+Line 222: ID 012
+Line 223: ID 019
+Line 224: ID 032
+Line 225: ID 016
+Line 226: ID 030
+Line 227: ID 031
+Line 228: ID 041
+Line 229: ID 035
+Line 230: ID 036
+Line 231: ID 034
+Line 232: ID 033
+Line 233: ID 060
+Line 234: ID 011
+Line 235: ID 039
+Line 236: ID 014
+Line 237: ID 013
+Line 238: ID 008
+Line 239: ID 009
+Line 240: ID 018
+Line 241: CW 005
+Line 242: CW 004
+Line 243: ED 002
+Line 244: ED 001
+Line 245: CW 002
+Line 246: ID 038
+Line 247: ID 046
+Line 248: IG 017
+Line 249: IG 018
+Line 250: YF
+Line 251: YE
+Line 252: YD
+Line 253: YC
+Line 254: YB
+Line 255: YA
+Line 256: ZA
+Line 257: EXTERNAL GLAZING
+Line 258: ADMIN
+Line 259: COLO
+Line 260: COLO
+Line 261: TRUE NORTH
+Line 262: Sheet Title Number
+Line 263: Scale
+Line 264: Plan
+Line 265: Design Consultants
+Line 266: Microsoft
+Line 267: DATA CENTER ATH04
+Line 268: SPATA GREECE
+Line 269: Contractor Joint Venture
+Line 270: Name
+Line 271: Contractor Project
+Line 272: Contractor Contract
+Line 273: Contractor PM
+Line 274: Contractor BIM Mngr
+Line 275: Contractor Information
+Line 276: Renco Terna
+Line 277: Client
+Line 278: General Notes
+Line 279: Client Project
+Line 280: Client Contract
+Line 281: Client PM
+Line 282: Client BIM Mngr
+Line 283: Primary Client Information
+Line 284: Layout
+Line 285: Revision
+Line 286: Tombazi Chalandri
+Line 287: 15232
+Line 288: Athens Greece
+Line 289: 0800 3262
+Line 290: Agion Theodoron Square Athens
+Line 291: 10561
+Line 292: Athens Greece
+Line 293: Kimithois Agios Dimitrios
+Line 294: 17236
+Line 295: Athens Greece
+Line 296: Purpose Issue
+Line 297: Issue
+Line 298: Name
+Line 299: EXTERNAL GLAZING KEY PLAN
+Line 300: ATH04 VAP AH 730
+Line 301: Date
+Line 302: Description
+Line 303: 07
+Line 304: Issued Approval
+Line 305: VAP
+Line 306: 08
+Line 307: Issued Approval
+Line 308: VAP
+Line 309: SCALE
+Line 310: ADMIN EXTERNAL GLAZING KEY PLAN
+Line 311: NEW DRAWING EXTERNAL GLAZING WINDOW CODES
+Line 312: CREATED TAGGED 2025
+Line 313: Pending Secondary Steel
+Line 314: Structure.
+
+=== END OF FILTERED TEXT ===
+Total lines: 315

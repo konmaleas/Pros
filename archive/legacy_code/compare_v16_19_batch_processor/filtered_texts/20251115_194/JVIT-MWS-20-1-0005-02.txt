@@ -1,0 +1,430 @@
+=== FILTERED TEXT FOR: JVIT-MWS-20-1-0005-02.pdf ===
+
+Line   0: Loading
+Line   1: Refuse Store
+Line   2: Entepreneur Centre
+Line   3: Multifunctional Room
+Line   4: HV Switchroom
+Line   5: TR
+Line   6: TR
+Line   7: MS Fire Control Room
+Line   8: Escape Staircase
+Line   9: WC
+Line  10: Janitorial
+Line  11: Escape Corridor
+Line  12: Corridor
+Line  13: WC
+Line  14: WC AMEA
+Line  15: Managers Office First
+Line  16: WC Lobby
+Line  17: MEP Lobby
+Line  18: WC
+Line  19: WC
+Line  20: WC
+Line  21: WC
+Line  22: Boilers
+Line  23: Escape Staircase
+Line  24: Delivery Dispatch
+Line  25: Storage
+Line  26: UPS Battery Room
+Line  27: Emergency Lighting
+Line  28: Generator Switchboard
+Line  29: Lobby
+Line  30: LV Switchroom
+Line  31: MEP
+Line  32: Mechanical Pipework
+Line  33: Lobby
+Line  34: Lift
+Line  35: Escape Corridor
+Line  36: Generator Fuel Tank Room
+Line  37: Practice Room
+Line  38: Corridor
+Line  39: Control Room
+Line  40: Control Room
+Line  41: Corridor
+Line  42: Control Room
+Line  43: Control Room
+Line  44: Recording Studio
+Line  45: Escape Corridor
+Line  46: Radio Station
+Line  47: Corridor
+Line  48: Control Room
+Line  49: Control Room
+Line  50: Multifunctional Room
+Line  51: Youth Open Space
+Line  52: Corridor
+Line  53: Generator Plant Room
+Line  54: Storage
+Line  55: Inlet Silenser
+Line  56: Storage
+Line  57: Storage
+Line  58: JA
+Line  59: JB
+Line  60: JC
+Line  61: JD
+Line  62: JE
+Line  63: JF
+Line  64: JG
+Line  65: JH
+Line  66: KA
+Line  67: KB
+Line  68: KC
+Line  69: KD
+Line  70: KE
+Line  71: KF
+Line  72: KG
+Line  73: KH
+Line  74: LA
+Line  75: LB
+Line  76: LC
+Line  77: LD
+Line  78: LE
+Line  79: LF
+Line  80: LG
+Line  81: LH
+Line  82: MA
+Line  83: MB
+Line  84: Generator
+Line  85: GSB LB
+Line  86: Delivery Dispatch
+Line  87: Book Fumigation
+Line  88: Janitorial
+Line  89: SEE DWG JVIT MWS 0009
+Line  90: SEE DWG JVIT MWS 0008
+Line  91: Hose Union
+Line  92: CWS AHU
+Line  93: Buffer Zone
+Line  94: Hose Union
+Line  95: SERVE WC CAFE AREA
+Line  96: WSR
+Line  97: WSR
+Line  98: WSR
+Line  99: WSR
+Line 100: 70
+Line 101: 71
+Line 102: 72
+Line 103: 73
+Line 104: 74
+Line 105: 75
+Line 106: 76
+Line 107: 77
+Line 108: 78
+Line 109: PP PIPING INSULATION
+Line 110: 40
+Line 111: NH ARMAFLEX
+Line 112: WATER SUPPLY
+Line 113: COLD WATER SUPPORTS EQUIPPED RUBBER INSERTS
+Line 114: FULLY TIGHTENED.
+Line 115: HOT WATER HOT WATER RETURN
+Line 116: SUPPORTS ANCHORING POINTS EQUIPPED
+Line 117: RUBBER INSERTS FULLY TIGHTENED WHEREAS SUPPORTS
+Line 118: REMARKS PIPING SUPPORTS
+Line 119: SLIDING POINTS EQUIPPED RUBBER INSERTS LOOSE
+Line 120: TIGHTENING
+Line 121: 40
+Line 122: 75
+Line 123: 75
+Line 124: Ball
+Line 125: RPBW
+Line 126: RENZO PIANO BUILDING WORKSHOP
+Line 127: CONSULTANT
+Line 128: FRONT
+Line 129: ACOUSTIC DESIGN
+Line 130: ARUP Acoustics
+Line 131: THEATRE DESIGN CONSULTANT
+Line 132: THEATRE PROJECTS CONSULTANTS
+Line 133: LIBRARY CONSULTANT
+Line 134: LANDSCAPE DESIGN
+Line 135: DEBORAH NEVINS
+Line 136: Associates,
+Line 137: COLLABORATION
+Line 138: HELLI PANGALOU
+Line 139: MEP ENGINEER
+Line 140: ARUP
+Line 141: COLLABORATION
+Line 142: LDK
+Line 143: STRUCTURAL ENGINEER
+Line 144: EXPEDITION
+Line 145: COLLABORATION
+Line 146: OMETE
+Line 147: EXECUTIVE ARCHITECT
+Line 148: BETAPLAN
+Line 149: DESIGN ARCHITECT
+Line 150: TRAFFIC CONSULTANT
+Line 151: DENCO
+Line 152: PROJECT MANAGER COST CONSULTANT
+Line 153: FAITHFUL GOULD
+Line 154: Archives
+Line 155: 75004 Paris France
+Line 156: 44 4900
+Line 157: 42 78 0198
+Line 158: Aristodimou Street
+Line 159: Athens, GR 76 Greece
+Line 160: 72
+Line 161: 72
+Line 162: Regent Street, Morley House
+Line 163: London, UK
+Line 164: 44 1000
+Line 165: 44 1001
+Line 166: Asklipiou Street
+Line 167: Athens, GR 72 Greece
+Line 168: 30026
+Line 169: 44631
+Line 170: Fitzroy Street
+Line 171: 44 755 2191
+Line 172: 44 755 3743
+Line 173: Thivaidos Street
+Line 174: Athens, GR Greece
+Line 175: 96700
+Line 176: 96709
+Line 177: Lafayette Street, Suite
+Line 178: York, NY 10012 USA
+Line 179: 1125
+Line 180: Skoufa Street
+Line 181: Athens, GR 72 Greece
+Line 182: 6219
+Line 183: 9225
+Line 184: Linton House
+Line 185: Highgate Road
+Line 186: London, UK
+Line 187: 44 7284 5888
+Line 188: Alexi
+Line 189: Elizabeth Street
+Line 190: South Norwalk, CT 06854 3025 USA
+Line 191: 0830
+Line 192: 0835
+Line 193: Americas
+Line 194: York, NY 10013 USA
+Line 195: 2669
+Line 196: 1056
+Line 197: Varick Street
+Line 198: York, NY 10014 USA
+Line 199: 2220
+Line 200: 2253
+Line 201: Kifisias
+Line 202: Athens, GR Greece
+Line 203: 54801
+Line 204: 54800
+Line 205: Paradisou Street
+Line 206: Athens, GR Greece
+Line 207: 15245
+Line 208: 11951
+Line 209: AMA Alexi Marmot Associates
+Line 210: IRRIGATION DESIGN
+Line 211: SOTIRIOS MAVRAGANIS
+Line 212: 42 Vasileos Georgiou Street
+Line 213: Athens, GR Greece
+Line 214: DATE
+Line 215: DESCRIPTION
+Line 216: REV.
+Line 217: SIGNATURE
+Line 218: DRAWN
+Line 219: CHECKED
+Line 220: APPROVED
+Line 221: Messogeion Avenue, Athens, GR 11526 Greece
+Line 222: 68000, 68098
+Line 223: Vasilissis Sofias Avenue, Athens, GR 11528 Greece
+Line 224: 72 41311, 72 41312
+Line 225: JV STAMP
+Line 226: CONSULTANT STAMP
+Line 227: CONSTRUCTION
+Line 228: INFORMATION
+Line 229: CANCELED
+Line 230: SCALE
+Line 231: ISSUED
+Line 232: APPROVAL STATUS
+Line 233: INFORMATION
+Line 234: APPROVAL
+Line 235: REVIEW
+Line 236: REFERENCED DRAWING NUMBER
+Line 237: ER DESIGN DRAWING
+Line 238: SHOP DRAWING
+Line 239: BUILT
+Line 240: AUTHOR
+Line 241: DISCIPLINE
+Line 242: ZONE
+Line 243: DRWG TYPE
+Line 244: REV.
+Line 245: JVIT
+Line 246: QR CODE
+Line 247: FIRST ISSUE DATE
+Line 248: CONSTRUCTION
+Line 249: ADDITIONAL DESIGN DRAWING
+Line 250: COMMENTS
+Line 251: COMMENTS
+Line 252: JVIT STATUS
+Line 253: Library
+Line 254: Zone
+Line 255: Library
+Line 256: Zone 2
+Line 257: Library
+Line 258: Zone
+Line 259: Notes
+Line 260: JVIT MEP 00 0001, JVIT MEP 00 0002
+Line 261: JVIT ELC 00 0001, JVIT ELC 00 0002
+Line 262: JVIT ELC 00 0003
+Line 263: ICT
+Line 264: JVIT MEP 00 0003
+Line 265: 2015
+Line 266: ELTEME
+Line 267: ROB.
+Line 268: VAV.
+Line 269: RENISION 2011 BUILDING PERMIT DUE MINOR AMENDENTS
+Line 270: 02
+Line 271: JVIT MWS 0006
+Line 272: JVIT MWS 0004
+Line 273: RPBW
+Line 274: RENZO PIANO BUILDING WORKSHOP
+Line 275: CONSULTANT
+Line 276: FRONT
+Line 277: ACOUSTIC DESIGN
+Line 278: ARUP Acoustics
+Line 279: THEATRE DESIGN CONSULTANT
+Line 280: THEATRE PROJECTS CONSULTANTS
+Line 281: LIBRARY CONSULTANT
+Line 282: LANDSCAPE DESIGN
+Line 283: DEBORAH NEVINS
+Line 284: Associates,
+Line 285: COLLABORATION
+Line 286: HELLI PANGALOU
+Line 287: MEP ENGINEER
+Line 288: ARUP
+Line 289: COLLABORATION
+Line 290: LDK
+Line 291: STRUCTURAL ENGINEER
+Line 292: EXPEDITION
+Line 293: COLLABORATION
+Line 294: OMETE
+Line 295: EXECUTIVE ARCHITECT
+Line 296: BETAPLAN
+Line 297: DESIGN ARCHITECT
+Line 298: TRAFFIC CONSULTANT
+Line 299: DENCO
+Line 300: PROJECT MANAGER COST CONSULTANT
+Line 301: FAITHFUL GOULD
+Line 302: Archives
+Line 303: 75004 Paris France
+Line 304: 44 4900
+Line 305: 42 78 0198
+Line 306: Aristodimou Street
+Line 307: Athens, GR 76 Greece
+Line 308: 72
+Line 309: 72
+Line 310: Regent Street, Morley House
+Line 311: London, UK
+Line 312: 44 1000
+Line 313: 44 1001
+Line 314: Asklipiou Street
+Line 315: Athens, GR 72 Greece
+Line 316: 30026
+Line 317: 44631
+Line 318: Fitzroy Street
+Line 319: 44 755 2191
+Line 320: 44 755 3743
+Line 321: Thivaidos Street
+Line 322: Athens, GR Greece
+Line 323: 96700
+Line 324: 96709
+Line 325: Lafayette Street, Suite
+Line 326: York, NY 10012 USA
+Line 327: 1125
+Line 328: Skoufa Street
+Line 329: Athens, GR 72 Greece
+Line 330: 6219
+Line 331: 9225
+Line 332: Linton House
+Line 333: Highgate Road
+Line 334: London, UK
+Line 335: 44 7284 5888
+Line 336: Alexi
+Line 337: Elizabeth Street
+Line 338: South Norwalk, CT 06854 3025 USA
+Line 339: 0830
+Line 340: 0835
+Line 341: Americas
+Line 342: York, NY 10013 USA
+Line 343: 2669
+Line 344: 1056
+Line 345: Varick Street
+Line 346: York, NY 10014 USA
+Line 347: 2220
+Line 348: 2253
+Line 349: Kifisias
+Line 350: Athens, GR Greece
+Line 351: 54801
+Line 352: 54800
+Line 353: Paradisou Street
+Line 354: Athens, GR Greece
+Line 355: 15245
+Line 356: 11951
+Line 357: AMA Alexi Marmot Associates
+Line 358: IRRIGATION DESIGN
+Line 359: SOTIRIOS MAVRAGANIS
+Line 360: 42 Vasileos Georgiou Street
+Line 361: Athens, GR Greece
+Line 362: DATE
+Line 363: DESCRIPTION
+Line 364: REV.
+Line 365: SIGNATURE
+Line 366: DRAWN
+Line 367: CHECKED
+Line 368: APPROVED
+Line 369: Messogeion Avenue, Athens, GR 11526 Greece
+Line 370: 68000, 68098
+Line 371: Vasilissis Sofias Avenue, Athens, GR 11528 Greece
+Line 372: 72 41311, 72 41312
+Line 373: JV STAMP
+Line 374: CONSULTANT STAMP
+Line 375: CONSTRUCTION
+Line 376: INFORMATION
+Line 377: CANCELED
+Line 378: SCALE
+Line 379: ISSUED
+Line 380: APPROVAL STATUS
+Line 381: INFORMATION
+Line 382: APPROVAL
+Line 383: REVIEW
+Line 384: REFERENCED DRAWING NUMBER
+Line 385: ER DESIGN DRAWING
+Line 386: SHOP DRAWING
+Line 387: BUILT
+Line 388: AUTHOR
+Line 389: DISCIPLINE
+Line 390: ZONE
+Line 391: DRWG TYPE
+Line 392: REV.
+Line 393: JVIT
+Line 394: QR CODE
+Line 395: FIRST ISSUE DATE
+Line 396: CONSTRUCTION
+Line 397: ADDITIONAL DESIGN DRAWING
+Line 398: COMMENTS
+Line 399: COMMENTS
+Line 400: JVIT STATUS
+Line 401: Library
+Line 402: Zone
+Line 403: Library
+Line 404: Zone 2
+Line 405: Library
+Line 406: Zone
+Line 407: Notes
+Line 408: JVIT MEP 00 0001, JVIT MEP 00 0002
+Line 409: JVIT ELC 00 0001, JVIT ELC 00 0002
+Line 410: JVIT ELC 00 0003
+Line 411: ICT
+Line 412: JVIT MEP 00 0003
+Line 413: 2015
+Line 414: ELTEME
+Line 415: ROB.
+Line 416: VAV.
+Line 417: RENISION 2011 BUILDING PERMIT DUE MINOR AMENDENTS
+Line 418: 02
+Line 419: 02
+Line 420: MWS
+Line 421: 2015
+Line 422: LIBRARY
+Line 423: WATER SUPPLY
+Line 424: Zone 2
+
+=== END OF FILTERED TEXT ===
+Total lines: 425

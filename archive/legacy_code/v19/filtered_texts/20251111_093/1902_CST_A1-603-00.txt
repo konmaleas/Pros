@@ -1,0 +1,248 @@
+=== FILTERED TEXT FOR: 1902_CST_A1-603-00.pdf ===
+
+Line   0: BLANCO LINUS
+Line   1: BLANCO ETAGON
+Line   2: BLANCO ETAGON
+Line   3: 1730
+Line   4: 1410
+Line   5: 700
+Line   6: EQ
+Line   7: EQ
+Line   8: EQ
+Line   9: EQ
+Line  10: FISCER PAYKEL
+Line  11: BLACK FRENCH DOOR
+Line  12: SECOND OPTION
+Line  13: FISCER PAYKEL
+Line  14: IMTEGRATED COLUMN
+Line  15: FREEZER
+Line  16: INTEGRATED COLUMN
+Line  17: FREEZER
+Line  18: 1810
+Line  19: 2200
+Line  20: 1410
+Line  21: 700
+Line  22: 1415
+Line  23: FISCHER
+Line  24: PAYKEL
+Line  25: INDUCTION
+Line  26: COOKTOP
+Line  27: ZONES
+Line  28: Kitchen
+Line  29: ΚΟΥΖΙΝΑ
+Line  30: Kitchen
+Line  31: Lobby
+Line  32: ΠΡΟΘΑΛΑΜΟΣ ΚΟΥΖΙΝΑΣ
+Line  33: Pantry
+Line  34: ΑΠΟΘΗΚΗ ΤΡΟΦΙΜΩΝ
+Line  35: SEE DRAWING A9
+Line  36: POWER POINT
+Line  37: WATERPROOF
+Line  38: POWER POINT
+Line  39: WATERPROOF
+Line  40: POWER POINT
+Line  41: WATERPROOF POWER POINT
+Line  42: DISHWASHERS
+Line  43: EQ
+Line  44: EQ
+Line  45: EQ
+Line  46: EQ
+Line  47: PORCELAIN
+Line  48: TOP
+Line  49: PORCELAIN
+Line  50: TOP
+Line  51: PORCELAIN TOP
+Line  52: PORCELAIN TOP
+Line  53: EQ
+Line  54: EQ
+Line  55: POWER
+Line  56: POINT VACUUM
+Line  57: CLEANER
+Line  58: MOTION SENSOR
+Line  59: TRASH
+Line  60: TRASH
+Line  61: DISHWASHER
+Line  62: LACQUER LEAF
+Line  63: CLOSET
+Line  64: PORCELAIN TOP
+Line  65: RECESS
+Line  66: 400
+Line  67: 450
+Line  68: 450
+Line  69: 450
+Line  70: 450
+Line  71: 450
+Line  72: 450
+Line  73: 450
+Line  74: 450
+Line  75: 450
+Line  76: 47
+Line  77: 1400
+Line  78: WATERPROOF
+Line  79: POWER POINT
+Line  80: EQ
+Line  81: EQ
+Line  82: EQ
+Line  83: EQ
+Line  84: DISHWASHER
+Line  85: WATERPROOF POWER
+Line  86: POINT
+Line  87: EQ
+Line  88: EQ
+Line  89: 2100
+Line  90: 1100
+Line  91: 2204
+Line  92: 790
+Line  93: 790
+Line  94: ΣΥΡΤΑΡΙΑ ΑΠΟ ΛΑΚΑ
+Line  95: MICROWAVE OVEN FISHER
+Line  96: PAYKEL
+Line  97: PORCELAIN TOP
+Line  98: COLLECTEUR
+Line  99: FISCER PAYKEL BLACK FRENCH
+Line 100: DOOR
+Line 101: SECOND OPTION FISCER PAYKEL
+Line 102: IMTEGRATED COLUMN FREEZER
+Line 103: INTEGRATED COLUMN
+Line 104: FREEZER
+Line 105: 700
+Line 106: 1400
+Line 107: WATERPROOF
+Line 108: POWER
+Line 109: POINT
+Line 110: PORCEALIN
+Line 111: TOP
+Line 112: EQ
+Line 113: EQ
+Line 114: WATERPROOF
+Line 115: POWER POINT
+Line 116: 1928
+Line 117: 2868
+Line 118: SEE DRAWING A9
+Line 119: 700
+Line 120: FISCER PAYKEL BUILT
+Line 121: OVEN
+Line 122: 1200
+Line 123: 700
+Line 124: WATERPROOF
+Line 125: POWER POINT
+Line 126: PORCELAIN TOP
+Line 127: 1300
+Line 128: 1200
+Line 129: HVAC GRILLE
+Line 130: EQ
+Line 131: EQ
+Line 132: 1198
+Line 133: FISCER PAYKEL Wall
+Line 134: Chimney
+Line 135: Rangehood
+Line 136: 2500
+Line 137: 2868
+Line 138: 4790
+Line 139: 2940
+Line 140: 6090
+Line 141: 2940
+Line 142: 1973
+Line 143: 1407
+Line 144: 1407
+Line 145: SMOKE DETECTOR
+Line 146: 2320
+Line 147: 6090
+Line 148: 2300
+Line 149: SMOKE DETECTOR
+Line 150: 2280
+Line 151: 2150
+Line 152: HVAC
+Line 153: GRILLE
+Line 154: EQ
+Line 155: EQ
+Line 156: WIRELESS ACCESS POINT
+Line 157: 2950
+Line 158: 6090
+Line 159: 9040
+Line 160: 2114
+Line 161: 2180
+Line 162: 1772
+Line 163: 1100
+Line 164: 1768
+Line 165: ΚΛΙΜΑΚΑ
+Line 166: SCALE
+Line 167: ΣΧΕΔΙΟ
+Line 168: ΕΡΓΟ
+Line 169: ΕΡΓΟΔΟΤΗΣ
+Line 170: ΗΜΕΡΟΜΗΝΙΑ ΕΚΔΟΣΗΣ
+Line 171: FIRST ISSUE DATE
+Line 172: ΣΦΡΑΓΙΔΑ
+Line 173: ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΜΕΛΕΤΗ ΕΦΑΡΜΟΓΗΣ
+Line 174: DETAILED DESIGN
+Line 175: ΠΕΡΙΟΧΗ
+Line 176: ZONE
+Line 177: LANDSCAPE DESIGN
+Line 178: Kontou Athens, Greece
+Line 179: 6781 6785
+Line 180: MEP DESIGN
+Line 181: TEKEM CONSULTING ENGINEERS
+Line 182: STRUCTURAL DESIGN
+Line 183: Epirou Αthens, Greece
+Line 184: 3262 3269
+Line 185: EXECUTIVE ARCHITECT
+Line 186: SITE SUPERVISOR
+Line 187: Ploutarchou Athens, 75 Greece
+Line 188: 722 4170 722 6355
+Line 189: ARCHITECTURAL DESIGN
+Line 190: ISSUED
+Line 191: ΘΕΣΗ ΕΡΓΟΥ
+Line 192: CONSTRUCTION
+Line 193: APPROVAL
+Line 194: TENDER
+Line 195: STATUS
+Line 196: DRAFT
+Line 197: FINAL
+Line 198: STAMP
+Line 199: DISCIPLINE
+Line 200: ARC
+Line 201: ΑΝΑΘ.
+Line 202: REV.
+Line 203: VALSAMAKIS
+Line 204: ERISMA
+Line 205: Naxou Kifisia, Greece
+Line 206: 4217 6976
+Line 207: Skoufa Athens, 72 Greece
+Line 208: 8642
+Line 209: HELLI PANGALOU
+Line 210: ΚΗΠΟΤΕΧΝΙΚΗ ΜΕΛΕΤΗ
+Line 211: ΜΗΧΑΝΟΛΟΓΙΚΗ ΜΕΛΕΤΗ
+Line 212: ΕΚΤΕΛΕΣΗ ΑΡΧΙΤΕΚΤΟΝΙΚΗΣ ΜΕΛΕΤΗΣ ΕΠΙΒΛΕΨΗ
+Line 213: ΣΤΑΤΙΚΗ ΜΕΛΕΤΗ
+Line 214: ΑΡΧΙΤΕΚΤΟΝΑΣ ΕΡΓΟΥ
+Line 215: VAP
+Line 216: PROJECT
+Line 217: LOCATION
+Line 218: CLIENT
+Line 219: DRAWING
+Line 220: ΑΝΑΠΤΥΓΜΑ
+Line 221: ΛΑΓΩΝΙΚΗ ΑΛΜΥΡΑ ΝΟΤΙΑ ΑΝΤΙΠΑΡΟΣ
+Line 222: LAGONIKI ALMYRA SOUTH ANTIPAROS
+Line 223: 01
+Line 224: ΚΟΥΖΙΝΑ
+Line 225: ΚΑΤΟΙΚΙΕΣ ΣΤΗΝ ΑΝΤΙΠΑΡΟ
+Line 226: RESIDENCES ANTIPAROS
+Line 227: CSTO LIMITED
+Line 228: ΚΤΙΡΙΟ
+Line 229: INTERIOR ELEVATION
+Line 230: KITCHEN
+Line 231: BUILDING
+Line 232: ΙΣΟΓΕΙΟ ΚΟΥΖΙΝΑ ΚΑΤΟΨΗ
+Line 233: ΤΥΠΙΚΗ ΟΨΗ ΚΟΥΖΙΝΑΣ
+Line 234: ΤΥΠΙΚΗ ΟΨΗ ISLAND
+Line 235: ΤΥΠΙΚΗ ΟΨΗ ΚΟΥΖΙΝΑΣ
+Line 236: ΤΥΠΙΚΗ ΟΨΗ ΚΟΥΖΙΝΑΣ
+Line 237: ΙΣΟΓΕΙΟ KOYZINA ΑΝΟΨΗ
+Line 238: ΑΝΑΘΕΩΡΗΣΕΙΣ
+Line 239: ΠΕΡΙΓΡΑΦΗ DESCRIPTION
+Line 240: ΗΜ ΝΙΑ DATE
+Line 241: ΤΥΠΙΚΗ ΟΨΗ ISLAND
+Line 242: 00
+
+=== END OF FILTERED TEXT ===
+Total lines: 243

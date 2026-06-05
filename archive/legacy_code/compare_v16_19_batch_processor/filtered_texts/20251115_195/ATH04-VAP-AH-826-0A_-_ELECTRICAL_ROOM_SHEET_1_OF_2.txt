@@ -1,0 +1,84 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-826-0A_-_ELECTRICAL_ROOM_SHEET_1_OF_2.pdf ===
+
+Line   0: 4
+Line   1: 2
+Line   2: 49
+Line   3: ELEC ROOM
+Line   4: 00 024
+Line   5: 4452
+Line   6: 1932
+Line   7: ID AD 032
+Line   8: YC
+Line   9: 1048
+Line  10: 2863
+Line  11: 3287
+Line  12: POWER FLOATED
+Line  13: CONCRETE SEALED
+Line  14: ASHFORD FORMULA SEALER
+Line  15: WT 4
+Line  16: WT 4
+Line  17: WT 4
+Line  18: WT 4
+Line  19: NOTE
+Line  20: WALL TYPE LEGEND REFER DRAWING
+Line  21: ADMIN
+Line  22: COLO
+Line  23: COLO 2
+Line  24: 2
+Line  25: 4
+Line  26: 2
+Line  27: 4
+Line  28: TRUE NORTH
+Line  29: Sheet Title Number
+Line  30: Scale
+Line  31: Plan
+Line  32: Design Consultants
+Line  33: Microsoft
+Line  34: DATA CENTER
+Line  35: SPATA GREECE
+Line  36: Contractor Joint Venture
+Line  37: Name
+Line  38: Contractor Project
+Line  39: Contractor Contract
+Line  40: Contractor PM
+Line  41: Contractor BIM Mngr
+Line  42: Contractor Information
+Line  43: Renco Terna
+Line  44: Client
+Line  45: General Notes
+Line  46: Client Project
+Line  47: Client Contract
+Line  48: Client PM
+Line  49: Client BIM Mngr
+Line  50: Primary Client Information
+Line  51: Layout
+Line  52: Revision
+Line  53: Tombazi Chalandri
+Line  54: 15232
+Line  55: Athens Greece
+Line  56: 0800 3262
+Line  57: Agion Theodoron Square Athens
+Line  58: 10561
+Line  59: Athens Greece
+Line  60: Kimithois Agios Dimitrios
+Line  61: 17236
+Line  62: Athens Greece
+Line  63: Purpose Issue
+Line  64: Issue
+Line  65: Name
+Line  66: ELECTRICAL ROOM SHEET 2
+Line  67: VAP AH
+Line  68: SCALE
+Line  69: ELECTRICAL ROOM FLOOR PLAN
+Line  70: SCALE
+Line  71: ELECTRICAL ROOM VIEW
+Line  72: 1000
+Line  73: SCALE
+Line  74: Date
+Line  75: Description
+Line  76: 04
+Line  77: Issued Approval
+Line  78: VAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 79

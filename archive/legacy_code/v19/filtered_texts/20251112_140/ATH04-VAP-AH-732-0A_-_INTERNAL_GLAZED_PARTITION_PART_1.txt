@@ -1,0 +1,142 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-732-0A_-_INTERNAL_GLAZED_PARTITION_PART_1.pdf ===
+
+Line   0: 732
+Line   1: 732
+Line   2: MEETING
+Line   3: ROOM
+Line   4: ATH04 00 010
+Line   5: CORRIDOR
+Line   6: ATH04 00 016
+Line   7: YB
+Line   8: 1000
+Line   9: 1000
+Line  10: 725
+Line  11: 1000
+Line  12: 1000
+Line  13: 1000
+Line  14: 788
+Line  15: 1000
+Line  16: 1000
+Line  17: 1500
+Line  18: 1500
+Line  19: 1500
+Line  20: 1500
+Line  21: 1500
+Line  22: XA
+Line  23: 732
+Line  24: OFFICE
+Line  25: ATH04 00 014
+Line  26: OFFICE
+Line  27: ATH04 00 015
+Line  28: ZA
+Line  29: YA
+Line  30: 1050
+Line  31: 1650
+Line  32: 1650
+Line  33: 1650
+Line  34: 1725
+Line  35: 1725
+Line  36: 1050
+Line  37: 1050
+Line  38: GL
+Line  39: 3000
+Line  40: 3000
+Line  41: YB
+Line  42: 1000
+Line  43: 3000
+Line  44: 1000
+Line  45: 1000
+Line  46: 1000
+Line  47: 725
+Line  48: 3000
+Line  49: Manifestations
+Line  50: TB
+Line  51: YB
+Line  52: 3000
+Line  53: MANIFESTATION
+Line  54: REQUIRED INTEGRATED
+Line  55: BLINDS FULL EXTENT
+Line  56: GLASS
+Line  57: YA
+Line  58: 1150
+Line  59: 1125
+Line  60: 1125
+Line  61: XA
+Line  62: MANIFESTATION
+Line  63: REQUIRED INTEGRATED
+Line  64: BLINDS FULL EXTENT
+Line  65: GLASS
+Line  66: ZA
+Line  67: YA
+Line  68: 1125
+Line  69: 1150
+Line  70: ADMIN
+Line  71: COLO
+Line  72: COLO
+Line  73: TRUE NORTH
+Line  74: Sheet Title Number
+Line  75: Scale
+Line  76: Plan
+Line  77: Design Consultants
+Line  78: Microsoft
+Line  79: DATA CENTER ATH04
+Line  80: SPATA GREECE
+Line  81: Contractor Joint Venture
+Line  82: Name
+Line  83: Contractor Project
+Line  84: Contractor Contract
+Line  85: Contractor PM
+Line  86: Contractor BIM Mngr
+Line  87: Contractor Information
+Line  88: Renco Terna
+Line  89: Client
+Line  90: General Notes
+Line  91: Client Project
+Line  92: Client Contract
+Line  93: Client PM
+Line  94: Client BIM Mngr
+Line  95: Primary Client Information
+Line  96: Layout
+Line  97: Revision
+Line  98: Tombazi Chalandri
+Line  99: 15232
+Line 100: Athens Greece
+Line 101: 0800 3262
+Line 102: Agion Theodoron Square Athens
+Line 103: 10561
+Line 104: Athens Greece
+Line 105: Kimithois Agios Dimitrios
+Line 106: 17236
+Line 107: Athens Greece
+Line 108: Purpose Issue
+Line 109: Issue
+Line 110: Name
+Line 111: INTERNAL GLAZED PARTITION
+Line 112: PART
+Line 113: ATH04 VAP AH 732
+Line 114: SCALE
+Line 115: INTERNAL WINDOW FOC MEETING ROOM PLAN
+Line 116: SCALE
+Line 117: INTERNAL WINDOW PLAN
+Line 118: SCALE
+Line 119: INTERNAL WINDOW MR ELEVATION
+Line 120: SCALE
+Line 121: INTERNAL WINDOW MR ELEVATION
+Line 122: SCALE
+Line 123: INTERNAL WINDOW MR ELEVATION
+Line 124: SCALE
+Line 125: INTERNAL WINDOW MR ELEVATION
+Line 126: SCALE
+Line 127: INTERNAL WINDOW FACILITY OFFICE ELEVATION
+Line 128: SCALE
+Line 129: INTERNAL WINDOW FACILITY OFFICE ELEVATION
+Line 130: 1250
+Line 131: SCALE
+Line 132: Date
+Line 133: Description
+Line 134: 05
+Line 135: Issued Approval
+Line 136: VAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 137

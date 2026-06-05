@@ -1,0 +1,36 @@
+=== FILTERED TEXT FOR: A604-00.pdf ===
+
+Line   0: Ceiling Ground
+Line   1: Floor
+Line   2: Level First Floor
+Line   3: Level
+Line   4: Level
+Line   5: REVISIONS
+Line   6: CLIENT
+Line   7: PROJECT
+Line   8: DESIGN STAGE
+Line   9: DATE
+Line  10: SCALE
+Line  11: FILE NAME
+Line  12: DRAWING TITLE
+Line  13: DRAWING
+Line  14: TAHLIA WALK
+Line  15: VAPARCHITECTS
+Line  16: DESIGN ARCHITECTS
+Line  17: STRUCTURAL ENGINEER
+Line  18: CONSULTANTS
+Line  19: MEP ENGINEER
+Line  20: STUDIO
+Line  21: ZAD DEVELOPMENT
+Line  22: 2016 03
+Line  23: Lobby Internal
+Line  24: Elevation
+Line  25: Project Status
+Line  26: Lobby Internal Elevation
+Line  27: Description
+Line  28: Date
+Line  29: First
+Line  30: 06
+
+=== END OF FILTERED TEXT ===
+Total lines: 31

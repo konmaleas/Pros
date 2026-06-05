@@ -1,0 +1,156 @@
+=== FILTERED TEXT FOR: 1904_AGMT_A9-701-01.pdf ===
+
+Line   0: A9 701
+Line   1: A9 701
+Line   2: A9 701
+Line   3: A9 701
+Line   4: A9 701
+Line   5: A9 701
+Line   6: A9 701
+Line   7: A9 701
+Line   8: A9 701
+Line   9: A9 701
+Line  10: ΠΙΣΙΝΑ
+Line  11: ΥΔΡΟΣΤΑΣΙΟ
+Line  12: ΔΕΞΑΜΕΝΗ ΥΠΕΡΧΕΙΛΙΣΗΣ
+Line  13: ΧΩΡΟΣ BBQ
+Line  14: ΤΔ
+Line  15: ΣΠ
+Line  16: ΤΔ
+Line  17: ΣΠ
+Line  18: ΤΔ
+Line  19: ΣΠ
+Line  20: ΤΔ
+Line  21: ΣΠ
+Line  22: ΤΔ
+Line  23: ΣΠ
+Line  24: ΤΔ
+Line  25: ΣΠ
+Line  26: ΤΔ
+Line  27: ΣΠ
+Line  28: ΤΔ
+Line  29: ΣΠ
+Line  30: ΤΔ
+Line  31: ΣΠ
+Line  32: ΤΔ
+Line  33: ΣΠ
+Line  34: ΧΩΡΟΣ BBQ
+Line  35: ΠΙΣΙΝΑ
+Line  36: 702
+Line  37: A9
+Line  38: ΠΙΣΙΝΑ
+Line  39: 702
+Line  40: A9
+Line  41: ΧΩΡΟΣ BBQ
+Line  42: ΧΩΡΟΣ BBQ
+Line  43: ΠΙΣΙΝΑ
+Line  44: RESIDENCES ANTIPAROS
+Line  45: MARC THOMA
+Line  46: ΠΕΡΙΓΡΑΦΗ DESCRIPTION
+Line  47: ΗΜ ΝΙΑ DATE
+Line  48: ΚΛΙΜΑΚΑ
+Line  49: SCALE
+Line  50: ΣΧΕΔΙΟ
+Line  51: ΕΡΓΟ
+Line  52: ΕΡΓΟΔΟΤΗΣ
+Line  53: ΗΜΕΡΟΜΗΝΙΑ ΕΚΔΟΣΗΣ
+Line  54: FIRST ISSUE DATE
+Line  55: ΣΦΡΑΓΙΔΑ
+Line  56: DETAILED DESIGN
+Line  57: ΠΕΡΙΟΧΗ
+Line  58: ZONE
+Line  59: LANDSCAPE DESIGN
+Line  60: Kifissias Athens, 15454 Greece
+Line  61: MEP ENGINEER
+Line  62: PG KAMARINOS
+Line  63: STRUCTURAL ENGINEER
+Line  64: Epirou Αthens, Greece
+Line  65: 3262 3269
+Line  66: EXECUTIVE ARCHITECT
+Line  67: SITE SUPERVISOR
+Line  68: Kallidromiou 42 Athens, 11473 Greece
+Line  69: ARCHITECTURAL DESIGN
+Line  70: ISSUED
+Line  71: ΘΕΣΗ ΕΡΓΟΥ
+Line  72: CONSTRUCTION
+Line  73: APPROVAL
+Line  74: TENDER
+Line  75: STATUS
+Line  76: DRAFT
+Line  77: FINAL
+Line  78: STAMP
+Line  79: ΚΑΤ. ΜΕΛΕΤΗΣ
+Line  80: DISCIPLINE
+Line  81: ARC
+Line  82: ΑΝΑΘ.
+Line  83: REV.
+Line  84: ANTONAS OFFICE
+Line  85: ERISMA
+Line  86: Naxou Kifisia, Greece
+Line  87: 4217 6976
+Line  88: Apollonos Athens, 10557 Greece
+Line  89: 6770
+Line  90: DOXIADIS
+Line  91: ΚΗΠΟΤΕΧΝΙΚΗ ΜΕΛΕΤΗ
+Line  92: ΜΗΧΑΝΟΛΟΓΙΚΗ ΜΕΛΕΤΗ
+Line  93: ΕΚΤΕΛΕΣΗ ΑΡΧΙΤΕΚΤΟΝΙΚΗΣ MEΛΕΤΗΣ
+Line  94: ΕΠΙΒΛΕΨΗ
+Line  95: ΣΤΑΤΙΚΗ ΜΕΛΕΤΗ
+Line  96: ΑΡΧΙΤΕΚΤΟΝΑΣ ΕΡΓΟΥ
+Line  97: VAP
+Line  98: PROJECT
+Line  99: LOCATION
+Line 100: CLIENT
+Line 101: DRAWING
+Line 102: PH
+Line 103: POOL
+Line 104: ΚΩΔΙΚΟΣ ΧΩΡΟΥ ROOM NUMBER
+Line 105: ΕΠΙΦΑΝΕΙΑ ΧΩΡΟΥ ROOM AREA
+Line 106: ΣΤΑΘΜΗ ΤΕΛΙΚΟΥ ΔΑΠΕΔΟΥ
+Line 107: FINISH FLOOR ELEVATION
+Line 108: ΤΥΠΟΣ ΔΑΠΕΔΟΥ FLOOR TYPE
+Line 109: ƵƦ
+Line 110: STRUCTURAL SLAB ELEVATION
+Line 111: ΣΤΑΘΜΗ ΠΛΑΚΑΣ ΜΠΕΤΟN
+Line 112: 1127
+Line 113: ΤΥΠΟΣ ΠΑΡΑΘΥΡΟΥ WINDOW TYPE
+Line 114: ΑΝΟΙΓΜΑ ΠΑΡΑΘΥΡΟΥ WINDOW WIDTH
+Line 115: ΠΟΔΙΑ ΠΑΡΑΘΥΡΟΥ WINDOW SILL
+Line 116: ΠΡΕΚΙ ΠΑΡΑΘΥΡΟΥ WINDOW HEAD
+Line 117: ΚΩΔΙΚΟΣ ΠΑΡΑΘΥΡΟΥ WINDOW NUMBER
+Line 118: ΣΥΜΒΟΛΑ ΛΕΠΤΟΜΕΡΕΙΩΝ ΣΧΕΔΙΟΥ
+Line 119: ΤΥΠΟΣ ΘΥΡΑΣ DOOR TYPE
+Line 120: ΑΝΟΙΓΜΑ ΘΥΡΑΣ DOOR HEAD
+Line 121: ΠΡΕΚΙ ΘΥΡΑΣ DOOR HEAD
+Line 122: ΚΩΔΙΚΟΣ ΘΥΡΑΣ DOOR NUMBER
+Line 123: ΣΥΜΒΟΛΟ ΤΟΜΗΣ ΣΧΕΔΙΟΥ
+Line 124: SECTION INDICATION
+Line 125: 9312
+Line 126: ΚΑΘΑΡΟ ΥΨΟΣ ΧΩΡΟΥ CEILING HEIGHT
+Line 127: ΤΕΛΕΙΩΜΑ ΟΡΟΦΗΣ CEILING FINISH
+Line 128: ΤΕΛΕΙΩΜΑ ΤΟΙΧΟΥ WALL FINISH
+Line 129: Room
+Line 130: ROOM NAME
+Line 131: DETAIL INDICATION
+Line 132: KΑΘΑΡΟ YΨΟΣ ΧΩΡΟΥ ROOM ΝΕΤ ΗΕIGHT
+Line 133: A9 701 01
+Line 134: 02 2020
+Line 135: POOL BBQ
+Line 136: AREA
+Line 137: PLAN SECTIONS
+Line 138: SECTION
+Line 139: SECTION
+Line 140: SECTION
+Line 141: SECTION
+Line 142: POOL BBQ PLAN
+Line 143: SECTION
+Line 144: ΑΔΡΟ ΜΩΣΑΪΚΟ
+Line 145: ΠΑΤΗΤΗ ΤΣΙΜΕΝΤΟΚΟΝΙΑ
+Line 146: ΠΑΤΗΜΕΝΟ ΧΩΜΑ
+Line 147: METAΛΛΙΚΟ ΣΤΕΓΑΣΤΡΟ ΕΚΚΡΕΜΕΙ ΟΡΙΣΤΙΚΟΠΟΙΗΣΗ
+Line 148: ΤΥΠΟΥ
+Line 149: ΠΑΚΑΚΙ ΨΗΦΙΔΑ ΓΙΑ ΤΗΝ ΕΠΕΝΔΥΣΗ ΤΗΣ ΠΙΣΙΝΑΣ
+Line 150: ΕΠΕΝΔΥΣΗ ΚΑΠΑΚΙ ΜΑΡΜΑΡΟΥ
+
+=== END OF FILTERED TEXT ===
+Total lines: 151

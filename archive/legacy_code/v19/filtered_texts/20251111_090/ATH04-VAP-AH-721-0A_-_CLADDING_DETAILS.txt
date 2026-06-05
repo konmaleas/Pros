@@ -1,0 +1,77 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-721-0A_-_CLADDING_DETAILS.pdf ===
+
+Line   0: EPDM
+Line   1: Fixing
+Line   2: Thermal
+Line   3: Self PE
+Line   4: Fixing
+Line   5: Secondary
+Line   6: TRIMOTERM FTV PANEL
+Line   7: Fixing
+Line   8: Thermal
+Line   9: Fixing
+Line  10: EPDM
+Line  11: Self PE
+Line  12: Secondary
+Line  13: 40
+Line  14: TRIMOTERM FTV PANEL
+Line  15: Self PE
+Line  16: EPDM
+Line  17: TRIMOTERM FTV PANEL
+Line  18: ADMIN
+Line  19: COLO
+Line  20: COLO
+Line  21: TRUE NORTH
+Line  22: Sheet Title Number
+Line  23: Scale
+Line  24: Plan
+Line  25: Design Consultants
+Line  26: Microsoft
+Line  27: DATA CENTER ATH04
+Line  28: SPATA GREECE
+Line  29: Contractor Joint Venture
+Line  30: Name
+Line  31: Contractor Project
+Line  32: Contractor Contract
+Line  33: Contractor PM
+Line  34: Contractor BIM Mngr
+Line  35: Contractor Information
+Line  36: Renco Terna
+Line  37: Client
+Line  38: General Notes
+Line  39: Client Project
+Line  40: Client Contract
+Line  41: Client PM
+Line  42: Client BIM Mngr
+Line  43: Primary Client Information
+Line  44: Layout
+Line  45: Revision
+Line  46: Tombazi Chalandri
+Line  47: 15232
+Line  48: Athens Greece
+Line  49: 0800 3262
+Line  50: Agion Theodoron Square Athens
+Line  51: 10561
+Line  52: Athens Greece
+Line  53: Kimithois Agios Dimitrios
+Line  54: 17236
+Line  55: Athens Greece
+Line  56: Purpose Issue
+Line  57: Issue
+Line  58: Name
+Line  59: CLADDING DETAILS
+Line  60: ATH04 VAP AH 721
+Line  61: Date
+Line  62: Description
+Line  63: 04
+Line  64: Issued Approval
+Line  65: VAP
+Line  66: SCALE
+Line  67: TRIMOTERM FTV PANEL JOINT DETAIL CORNER
+Line  68: SCALE
+Line  69: TRIMOTERM FTV PANEL JOINT DETAIL HORIZONTAL
+Line  70: SCALE
+Line  71: TRIMOTERM FTV PANEL JOINT DETAIL VERTICAL
+
+=== END OF FILTERED TEXT ===
+Total lines: 72

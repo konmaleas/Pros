@@ -1,0 +1,164 @@
+=== FILTERED TEXT FOR: 1902_CST_A2-301-01.pdf ===
+
+Line   0: ΕΠΙΠΕΔΟ 02
+Line   1: ΔΩΜΑ
+Line   2: FFL
+Line   3: SSL
+Line   4: FFL
+Line   5: SSL
+Line   6: FFL
+Line   7: SSL
+Line   8: SSL
+Line   9: FFL
+Line  10: SSL
+Line  11: SSL
+Line  12: Bedroom 2
+Line  13: ΥΠΝΟΔΩΜΑΤΙΟ 2
+Line  14: 4
+Line  15: Bathroom
+Line  16: ΜΠΑΝΙΟ
+Line  17: 71
+Line  18: Outdoor Area
+Line  19: Υπαίθριος
+Line  20: Bedroom 4
+Line  21: ΥΠΝΟΔΩΜΑΤΙΟ 4
+Line  22: Roof
+Line  23: ΔΩΜΑ
+Line  24: 4
+Line  25: Lobby
+Line  26: ΠΡΟΘΑΛΑΜΟΣ
+Line  27: FFL
+Line  28: FFL
+Line  29: 48
+Line  30: Roof
+Line  31: ΔΩΜΑ
+Line  32: ΕΠΙΠΕΔΟ 02
+Line  33: ΔΩΜΑ
+Line  34: FFL
+Line  35: SSL
+Line  36: FFL
+Line  37: SSL
+Line  38: FFL
+Line  39: SSL
+Line  40: SSL
+Line  41: FFL
+Line  42: Bedroom
+Line  43: ΥΠΝΟΔΩΜΑΤΙΟ
+Line  44: Bedroom 4
+Line  45: ΥΠΝΟΔΩΜΑΤΙΟ 4
+Line  46: 4
+Line  47: Bathroom 4
+Line  48: ΜΠΑΝΙΟ 4
+Line  49: FFL
+Line  50: SSL
+Line  51: ΚΩΔΙΚΟΣ ΧΩΡΟΥ ROOM NUMBER
+Line  52: ΕΠΙΦΑΝΕΙΑ ΧΩΡΟΥ ROOM AREA
+Line  53: ΟΠΤΟΠΛΙΝΘΟΔΟΜΗ BRICKWORK
+Line  54: ΦΕΡΩΝ ΟΡΓΑΝΙΣΜΟΣ BEARING STRUCTURE
+Line  55: ΣΤΑΘΜΗ ΤΕΛΙΚΟΥ ΔΑΠΕΔΟΥ FINISH FLOOR
+Line  56: ELEVATION
+Line  57: ΤΥΠΟΣ ΔΑΠΕΔΟΥ FLOOR TYPE
+Line  58: ΣΤΑΘΜΗ ΠΛΑΚΑΣ ΜΠΕΤΟΥ STRUCTURAL SLAB
+Line  59: ELEVATION
+Line  60: ΓΕΝΙΚΟΙ ΣΥΜΒΟΛΙΣΜΟΙ GENERAL ANNOTATION
+Line  61: ΘΕΡΜΟΜΟΝΩΣΗ THERMAL INSULATION
+Line  62: ΤΥΠΟΣ ΠΑΡΑΘΥΡΟΥ WINDOW TYPE
+Line  63: ΑΝΟΙΓΜΑ ΠΑΡΑΘΥΡΟΥ WINDOW WIDTH
+Line  64: ΠΟΔΙΑ ΠΑΡΑΘΥΡΟΥ WINDOW SILL
+Line  65: ΠΡΕΚΙ ΠΑΡΑΘΥΡΟΥ WINDOW HEAD
+Line  66: Room
+Line  67: ΔΩΜΑΤΙΟ GR
+Line  68: ΚΩΔΙΚΟΣ ΠΑΡΑΘΥΡΟΥ WINDOW NUMBER
+Line  69: ΣΥΜΒΟΛΑ ΛΕΠΤΟΜΕΡΕΙΩΝ ΣΧΕΔΙΟΥ DETAIL
+Line  70: INDICATION
+Line  71: ΤΥΠΟΣ ΘΥΡΑΣ DOOR TYPE
+Line  72: ΑΝΟΙΓΜΑ ΘΥΡΑΣ DOOR OPENING
+Line  73: ΠΟΔΙΑ ΘΥΡΑΣ DOOR SILL
+Line  74: ΠΡΕΚΙ ΘΥΡΑΣ DOOR HEAD
+Line  75: ΚΩΔΙΚΟΣ ΘΥΡΑΣ DOOR NUMBER
+Line  76: ΣΥΜΒΟΛΟ ΤΟΜΗΣ ΣΧΕΔΙΟΥ SECTION
+Line  77: INDICATION
+Line  78: 2
+Line  79: 9312
+Line  80: ΚΑΘΑΡΟ ΥΨΟΣ ΧΩΡΟΥ CEILING HEIGHT
+Line  81: ΤΕΛΕΙΩΜΑ ΟΡΟΦΗΣ CEILING FINISH
+Line  82: ΤΕΛΕΙΩΜΑ ΤΟΙΧΟΥ WALL FINISH
+Line  83: ΟΝΟΜΑ ΧΩΡΟΥ
+Line  84: ΚΛΙΜΑΚΑ
+Line  85: SCALE
+Line  86: ΣΧΕΔΙΟ
+Line  87: ΕΡΓΟ
+Line  88: ΕΡΓΟΔΟΤΗΣ
+Line  89: ΗΜΕΡΟΜΗΝΙΑ ΕΚΔΟΣΗΣ
+Line  90: FIRST ISSUE DATE
+Line  91: ΣΦΡΑΓΙΔΑ
+Line  92: ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΜΕΛΕΤΗ ΕΦΑΡΜΟΓΗΣ
+Line  93: DETAILED DESIGN
+Line  94: ΠΕΡΙΟΧΗ
+Line  95: ZONE
+Line  96: LANDSCAPE DESIGN
+Line  97: Kontou 2 Athens, Greece
+Line  98: 6781 6785
+Line  99: MEP DESIGN
+Line 100: TEKEM CONSULTING ENGINEERS
+Line 101: STRUCTURAL DESIGN
+Line 102: Epirou Αthens, Greece
+Line 103: 3262 3269
+Line 104: EXECUTIVE ARCHITECT
+Line 105: SITE SUPERVISOR
+Line 106: Ploutarchou Athens, 75 Greece
+Line 107: 722 4170 722 6355
+Line 108: ARCHITECTURAL DESIGN
+Line 109: ISSUED
+Line 110: ΘΕΣΗ ΕΡΓΟΥ
+Line 111: CONSTRUCTION
+Line 112: APPROVAL
+Line 113: TENDER
+Line 114: STATUS
+Line 115: DRAFT
+Line 116: FINAL
+Line 117: STAMP
+Line 118: DISCIPLINE
+Line 119: ARC
+Line 120: ΑΝΑΘ.
+Line 121: REV.
+Line 122: VALSAMAKIS
+Line 123: ERISMA
+Line 124: Naxou Kifisia, Greece
+Line 125: 4217 6976
+Line 126: Skoufa Athens, 72 Greece
+Line 127: 8642
+Line 128: HELLI PANGALOU
+Line 129: ΚΗΠΟΤΕΧΝΙΚΗ ΜΕΛΕΤΗ
+Line 130: ΜΗΧΑΝΟΛΟΓΙΚΗ ΜΕΛΕΤΗ
+Line 131: ΕΚΤΕΛΕΣΗ ΑΡΧΙΤΕΚΤΟΝΙΚΗΣ ΜΕΛΕΤΗΣ ΕΠΙΒΛΕΨΗ
+Line 132: ΣΤΑΤΙΚΗ ΜΕΛΕΤΗ
+Line 133: ΑΡΧΙΤΕΚΤΟΝΑΣ ΕΡΓΟΥ
+Line 134: VAP
+Line 135: PROJECT
+Line 136: LOCATION
+Line 137: CLIENT
+Line 138: DRAWING
+Line 139: ΤΟΜΕΣ
+Line 140: ΛΑΓΩΝΙΚΗ ΑΛΜΥΡΑ ΝΟΤΙΑ ΑΝΤΙΠΑΡΟΣ
+Line 141: LAGONIKI ALMYRA SOUTH ANTIPAROS
+Line 142: 09
+Line 143: ΓΓ ΚΚ
+Line 144: ΚΑΤΟΙΚΙΕΣ ΣΤΗΝ ΑΝΤΙΠΑΡΟ
+Line 145: RESIDENCES ANTIPAROS
+Line 146: CSTO LIMITED
+Line 147: ΚΤΙΡΙΑ 2
+Line 148: SECTIONS
+Line 149: ΓΓ ΚΚ
+Line 150: BUILDINGS 2
+Line 151: ΤΟΜΗ ΓΓ
+Line 152: ΤΟΜΗ ΚΚ
+Line 153: 2
+Line 154: ΑΝΑΘΕΩΡΗΣΕΙΣ
+Line 155: ΠΕΡΙΓΡΑΦΗ DESCRIPTION
+Line 156: ΗΜ ΝΙΑ DATE
+Line 157: Stone
+Line 158: 09 2019
+
+=== END OF FILTERED TEXT ===
+Total lines: 159

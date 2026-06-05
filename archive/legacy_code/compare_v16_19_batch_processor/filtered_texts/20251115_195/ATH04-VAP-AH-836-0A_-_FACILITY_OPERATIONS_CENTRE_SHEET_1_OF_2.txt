@@ -1,0 +1,163 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-836-0A_-_FACILITY_OPERATIONS_CENTRE_SHEET_1_OF_2.pdf ===
+
+Line   0: 2
+Line   1: 4
+Line   2: 1800
+Line   3: 1800
+Line   4: 1800
+Line   5: 1800
+Line   6: 1800
+Line   7: 1800
+Line   8: WT
+Line   9: CW
+Line  10: FOC
+Line  11: 00 003
+Line  12: YC
+Line  13: INTERFACE
+Line  14: UNITY BONE
+Line  15: 3000
+Line  16: 1150
+Line  17: 1352
+Line  18: 1402
+Line  19: 1500
+Line  20: 1500
+Line  21: 1500
+Line  22: 1500
+Line  23: 1500
+Line  24: 785
+Line  25: ID AD 007
+Line  26: WT
+Line  27: WT
+Line  28: WS
+Line  29: LT 2
+Line  30: NOTE
+Line  31: WALL TYPE LEGEND DRAWING
+Line  32: ADMIN
+Line  33: COLO
+Line  34: COLO 2
+Line  35: 2
+Line  36: 4
+Line  37: 2
+Line  38: 4
+Line  39: TRUE NORTH
+Line  40: Sheet Title Number
+Line  41: Scale
+Line  42: Plan
+Line  43: Design Consultants
+Line  44: Microsoft
+Line  45: DATA CENTER
+Line  46: SPATA GREECE
+Line  47: Contractor Joint Venture
+Line  48: Name
+Line  49: Contractor Project
+Line  50: Contractor Contract
+Line  51: Contractor PM
+Line  52: Contractor BIM Mngr
+Line  53: Contractor Information
+Line  54: Renco Terna
+Line  55: Client
+Line  56: General Notes
+Line  57: Client Project
+Line  58: Client Contract
+Line  59: Client PM
+Line  60: Client BIM Mngr
+Line  61: Primary Client Information
+Line  62: Layout
+Line  63: Revision
+Line  64: Tombazi Chalandri
+Line  65: 15232
+Line  66: Athens Greece
+Line  67: 0800 3262
+Line  68: Agion Theodoron Square Athens
+Line  69: 10561
+Line  70: Athens Greece
+Line  71: Kimithois Agios Dimitrios
+Line  72: 17236
+Line  73: Athens Greece
+Line  74: Purpose Issue
+Line  75: Issue
+Line  76: Name
+Line  77: FACILITY OPERATIONS CENTRE
+Line  78: SHEET 2
+Line  79: VAP AH
+Line  80: SCALE
+Line  81: FOC FLOOR PLAN
+Line  82: SCALE
+Line  83: FOC VIEW
+Line  84: 1000
+Line  85: SCALE
+Line  86: EQUIPMENT SCHEDULE FOC
+Line  87: Count
+Line  88: Code
+Line  89: Description
+Line  90: Room Name Room Number
+Line  91: SLIM JIM BINS
+Line  92: FOC
+Line  93: 00 003
+Line  94: BOX FILE MOBILE
+Line  95: FOC
+Line  96: 00 003
+Line  97: SECURITY CABINET DEAL DRAWERS SEE JOINERY DETAILS
+Line  98: FOC
+Line  99: 00 003
+Line 100: 4
+Line 101: CABINET, DOOR, FORMICA FACED MDF
+Line 102: FOC
+Line 103: 00 003
+Line 104: 2
+Line 105: CABINET, 2 DRAWER, FORMICA FACED MDF
+Line 106: FOC
+Line 107: 00 003
+Line 108: BASELINE SPEC SHURESAFE MODEL
+Line 109: HAVE DOUBLE HINGED LID. BUILT
+Line 110: CABINET JOINERY
+Line 111: DRAWERS BUILT SLOTS TYPICALLY ROWS,
+Line 112: SLOTS ANGLED BACKWARD DEGREES PROPERLY SIZED
+Line 113: ACCOMMODATE BADGE USED.
+Line 114: DRAWER INSTALLED FFL ADJACENT DESKTOPS
+Line 115: FLUSH EITHER SIDE. FIRE RATING REQUIREMENT PARTITION
+Line 116: MAINTAINED.
+Line 117: FOC
+Line 118: 00 003
+Line 119: WORK CHAIR ARMS
+Line 120: FOC
+Line 121: 00 003
+Line 122: CPU HOLDER
+Line 123: FOC
+Line 124: 00 003
+Line 125: HEIGHT ADJUSTABLE RECTANGULAR DESK CPU HOLDER
+Line 126: FOC
+Line 127: 00 003
+Line 128: FORMICA FACED MDF GABLE
+Line 129: FOC
+Line 130: 00 003
+Line 131: 2
+Line 132: INFILL PANEL, FORMICA FACED MDF
+Line 133: FOC
+Line 134: 00 003
+Line 135: KEYBOARD MOUSE
+Line 136: FOC
+Line 137: 00 003
+Line 138: 4
+Line 139: FLAT PANEL DISPLAY AV SPECIALIST DRAWINGS DETAILS FOC
+Line 140: 00 003
+Line 141: LARGE LCD MONITOR
+Line 142: FOC
+Line 143: 00 003
+Line 144: MONITOR ARM 2
+Line 145: FOC
+Line 146: 00 003
+Line 147: PAPERWORK STORAGE SHELVING
+Line 148: FOC
+Line 149: 00 003
+Line 150: LO STATIONS, CABINETS ROIP STATIONS
+Line 151: FOC
+Line 152: 00 003
+Line 153: Date
+Line 154: Description
+Line 155: 04
+Line 156: Issued Approval
+Line 157: VAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 158

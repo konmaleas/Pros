@@ -1,0 +1,52 @@
+
+args: ({'1.pdf': FileAnalysisResult(filename='4005-RES-VAP-DWG-233-IC-07020-0.pdf',
+                                    template_file=True,
+                                    distance_patterns=[DistancePattern(anchor_chunk="['Kifisias', "
+                                                                                     "'Avenue', "
+                                                                                     "'Golden', "
+                                                                                     "'Hall']",
+                                                                                     anchor_line=87,
+                                                                                     chunk_distances={'0': 4,
+                                                                                     '07020': 12,
+                                                                                     '233': -7,
+                                                                                     '4005': 13,
+                                                                                     'DWG': 9,
+                                                                                     'IC': -7,
+                                                                                     'RES': 7,
+                                                                                     'VAP': 8},
+                                                                       chunk_lines={'0': 91,
+                                                                                     07020': 99,
+                                                                                     233': 80,
+                                                                                     4005': 100,
+                                                                                     DWG': 96,
+                                                                                     IC': 80,
+                                                                                     RES': 94,
+                                                                                     VAP': 95})],
+                                                                       anchor_chunks=["['Kifisias', "
+                                                                                      "'Avenue', "
+                                                                                      "'Golden', "
+                                                                                      "'Hall']"],
+                                                                       total_chunks_found=0),
+        '2.pdf': FileAnalysisResult(filename='4005-RES-VAP-DWG-234-DD-07130-1.pdf',
+                                    template_file=False,
+                                    distance_patterns=[DistancePattern(anchor_chunk="['Kifisias', "
+                                                                                    "'Avenue', "
+                                                                                    "'Golden', "
+                                                                                    "'Hall']",
+                                                                       anchor_line=80,
+                                                                       chunk_distances={'1': 4,
+                                                                                        '07130': 12,
+                                                                                        '234': -7,
+                                                                                        '4005': 13,
+                                                                                        'DWG': 9,
+                                                                                        'DD': -7,
+                                                                                        'RES': 7,
+                                                                                        'VAP': 8},
+                                                                       chunk_lines={'1': 84,
+                                                                                    '07130': 92,
+                                                                                    '234': 73,
+                                                                                    '4005': 93,
+                                                                                    'DWG': 89,
+                                                                                    'D': 73,
+                                                                                    'RES': 87,
+                                                                                    'VAP': 88})],

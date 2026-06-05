@@ -1,0 +1,132 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-1033-0A_BUILDERS_WORK_MEP_PENETRATIONS_-_ADMIN_SPRINKLER.pdf ===
+
+Line   0: 1033
+Line   1: 1033
+Line   2: 2
+Line   3: 1033
+Line   4: 1033
+Line   5: 4
+Line   6: ADMIN
+Line   7: SPRINKLER
+Line   8: RISER
+Line   9: 00 049
+Line  10: CEILING LEVEL
+Line  11: MP AD 048
+Line  12: MP AD 049 01
+Line  13: ADMIN
+Line  14: SPRINKLER
+Line  15: RISER
+Line  16: 00 049
+Line  17: 3625
+Line  18: 1590
+Line  19: GL
+Line  20: CEILING LEVEL
+Line  21: YE
+Line  22: ADMIN
+Line  23: SPRINKLER
+Line  24: RISER
+Line  25: 00 049
+Line  26: 755
+Line  27: 1200
+Line  28: 1500
+Line  29: MP AD 047
+Line  30: MP AD 048 06
+Line  31: MP AD 048 05
+Line  32: MP AD 047
+Line  33: MP AD 048 07
+Line  34: 4800
+Line  35: 3475
+Line  36: 5070
+Line  37: CEILING LEVEL
+Line  38: MP AD 047 07
+Line  39: MP AD 047 06
+Line  40: MP AD 047 08
+Line  41: 3965
+Line  42: ADMIN
+Line  43: SPRINKLER
+Line  44: RISER
+Line  45: 00 049
+Line  46: GL
+Line  47: CEILING LEVEL
+Line  48: ADMIN
+Line  49: SPRINKLER
+Line  50: RISER
+Line  51: 00 049
+Line  52: MEP PENETRATIONS CODE
+Line  53: MP AD XXX XX
+Line  54: MP
+Line  55: MEP PENETRATIONS
+Line  56: AD
+Line  57: BUILDING CODE
+Line  58: XXX
+Line  59: ROOM NUMBER
+Line  60: XX
+Line  61: PENETRATION NUMBER
+Line  62: ADMIN
+Line  63: COLO
+Line  64: COLO 2
+Line  65: 2
+Line  66: 4
+Line  67: 2
+Line  68: 4
+Line  69: TRUE NORTH
+Line  70: Sheet Title Number
+Line  71: Scale
+Line  72: Plan
+Line  73: Design Consultants
+Line  74: Microsoft
+Line  75: DATA CENTER
+Line  76: SPATA GREECE
+Line  77: Contractor Joint Venture
+Line  78: Name
+Line  79: Contractor Project
+Line  80: Contractor Contract
+Line  81: Contractor PM
+Line  82: Contractor BIM Mngr
+Line  83: Contractor Information
+Line  84: Renco Terna
+Line  85: Client
+Line  86: General Notes
+Line  87: Client Project
+Line  88: Client Contract
+Line  89: Client PM
+Line  90: Client BIM Mngr
+Line  91: Primary Client Information
+Line  92: Layout
+Line  93: Revision
+Line  94: Tombazi Chalandri
+Line  95: 15232
+Line  96: Athens Greece
+Line  97: 0800 3262
+Line  98: Agion Theodoron Square Athens
+Line  99: 10561
+Line 100: Athens Greece
+Line 101: Kimithois Agios Dimitrios
+Line 102: 17236
+Line 103: Athens Greece
+Line 104: Purpose Issue
+Line 105: Issue
+Line 106: Name
+Line 107: BUILDERS WORK MEP PENETRATIONS
+Line 108: ADMIN SPRINKLER
+Line 109: VAP AH 1033
+Line 110: SCALE
+Line 111: 049 ADMIN SPRINKLER RISER ELEVATION MEP PENETRATIONS
+Line 112: SCALE
+Line 113: 049 ADMIN SPRINKLER RISER ELEVATION 2 MEP PENETRATIONS
+Line 114: 2
+Line 115: SCALE
+Line 116: 049 ADMIN SPRINKLER RISER ELEVATION MEP PENETRATIONS
+Line 117: SCALE
+Line 118: 049 ADMIN SPRINKLER RISER ELEVATION 4 MEP PENETRATIONS
+Line 119: 4
+Line 120: 1000
+Line 121: SCALE
+Line 122: Date
+Line 123: Description
+Line 124: 07
+Line 125: Issued Approval
+Line 126: VAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 127

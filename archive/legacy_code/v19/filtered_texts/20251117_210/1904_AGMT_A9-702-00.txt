@@ -1,0 +1,95 @@
+=== FILTERED TEXT FOR: 1904_AGMT_A9-702-00.pdf ===
+
+Line   0: Swimming Pool
+Line   1: ΠΙΣΙΝΑ
+Line   2: ΤΕΛΙΚΟ ΔΑΠΕΔΟ ΜΩΣΑΪΚΟΥ ΜΕ
+Line   3: ΑΝΤΙΟΛΙΣΘΗΡΗ ΤΕΛΙΚΗ ΕΠΙΣΤΡΩΣΗ
+Line   4: ΣΤΑΤΙΚΟΣ ΦΟΡΕΑΣ
+Line   5: ΕΠΑΛΕΙΦΟΜΕΝΟ, ΣΤΕΓΑΝΟΠΟΙΗΤΙΚΟ,
+Line   6: ΤΣΙΜΕΝΤΟΕΙΔΕΣ ΚΟΝΙΑΜΑ ΔΥΟ ΣΥΣΤΑΤΙΚΩΝ
+Line   7: ANOΞΕΙΔΩΤΗ ΣΤΡΑΝΤΖΑ ΠΑΧΟΣ ΓΙΑ
+Line   8: ΤΟΝ ΕΓΚΕΙΒΩΤΙΣΜΟ ΤΟΥ ΜΩΣΑΙΚΟΥ
+Line   9: ΔΑΠΕΔΟΥ
+Line  10: ΤΕΛΙΚΗ ΕΠΙΦΑΝΕΙΑ ΤΣΙΜΕΝΤΟΚΟΝΙΑΣ
+Line  11: ΠΛΕΓΜΑ ΟΠΛΙΣΜΟΥ ΤΣΙΜΕΝΤΟΚΟΝΙΑΣ
+Line  12: ΑΣΤΑΡΙ
+Line  13: ΥΠΟΒΑΣΗ ΤΣΙΜΕΝΤΟΚΟΝΙΑΣ
+Line  14: ΤΕΛΙΚΗ ΕΠΙΦΑΝΕΙΑ ΑΠΟ ΜΑΡΜΑΡΟ
+Line  15: ΤΣΙΜΕΝΤΟΕΙΔΗΣ ΚΟΛΛΑ
+Line  16: ΠΛΑΚΑΚΙΑ ΨΗΦΙΔΑ
+Line  17: ΤΣΙΜΕΝΤΟΚΟΝΙΑ ΕΞΟΜΑΛΥΝΣΗΣ
+Line  18: ΦΥΛΛΟ ΠΟΛΥΑΙΘΥΛΕΝΙΟΥ
+Line  19: ΜΕΜΒΡΑΝΗ
+Line  20: ΓΕΩΥΦΑΣΜΑ ΜΗ ΥΦΑΝΤΟ
+Line  21: ΚΛΙΣΗ
+Line  22: ΚΛΙΣΗ
+Line  23: ΑΓ. ΚΥΡΙΑΚΗ ΑΝΤΙΠΑΡΟΣ
+Line  24: ΑG. KYRIAKI ANTIPAROS
+Line  25: AGMT
+Line  26: RESIDENCES ANTIPAROS
+Line  27: MARC THOMA
+Line  28: ΠΕΡΙΓΡΑΦΗ
+Line  29: DESCRIPTION
+Line  30: ΗΜ ΝΙΑ
+Line  31: REVISION DATE
+Line  32: Νaxou Kifisia, Greece
+Line  33: 4217 6976
+Line  34: ERISMA
+Line  35: PG KAMARINOS
+Line  36: Epirou Athens, Greece
+Line  37: 3262 3269
+Line  38: Kallidromiou 42 Athens, 11473 Greece
+Line  39: 0323
+Line  40: ANTONAS OFFICE
+Line  41: Apollonos Athens, 10557 Greece
+Line  42: 6770
+Line  43: DOXIADIS
+Line  44: ΚΛΙΜΑΚΑ
+Line  45: SCALE
+Line  46: ΣΧΕΔΙΟ
+Line  47: ΕΡΓΟ
+Line  48: ΕΡΓΟΔΟΤΗΣ
+Line  49: ΗΜΕΡΟΜΗΝΙΑ ΕΚΔΟΣΗΣ
+Line  50: FIRST ISSUE DATE
+Line  51: DETAILED DESIGN
+Line  52: KAT. ΣΧΕΔΙΟΥ
+Line  53: BLD. CATEGORY
+Line  54: ISSUED
+Line  55: ΘΕΣΗ ΕΡΓΟΥ
+Line  56: CONSTR.
+Line  57: APPROVAL
+Line  58: TENDER
+Line  59: STATUS
+Line  60: DRAFT
+Line  61: FINAL
+Line  62: ΑΝΑΘ.
+Line  63: REV.
+Line  64: PROJECT
+Line  65: LOCATION
+Line  66: CLIENT
+Line  67: DRAWING
+Line  68: ΚΗΠΟΤΕΧΝΙΚΗ ΜΕΛΕΤΗ
+Line  69: LANDSCAPE DESIGN
+Line  70: ΜΗΧΑΝΟΛΟΓΙΚΗ ΜΕΛΕΤΗ
+Line  71: MEP ENGINEER
+Line  72: ΣΤΑΤΙΚΗ ΜΕΛΕΤΗ
+Line  73: STRUCTURAL ENGINEER
+Line  74: ΑΡΧΙΤΕΚΤΟΝΑΣ ΕΡΓΟΥ
+Line  75: ARCHITECTURAL DESIGN
+Line  76: ΕΚΤΕΛΕΣΗ ΑΡΧΙΤΕΚΤΟΝΙΚΗΣ
+Line  77: ΜΕΛΕΤΗΣ ΕΠΙΒΛΕΨΗ
+Line  78: EXECUTIVE ARCHITECT
+Line  79: SITE SUPERVISOR
+Line  80: DISCIPLINE
+Line  81: ARC
+Line  82: VAP
+Line  83: Kifissias Avenue Athens, 15451 Greece
+Line  84: 6470
+Line  85: SWIMMING
+Line  86: POOL
+Line  87: WEST SIDE
+Line  88: FORMING
+Line  89: A9 702 00
+
+=== END OF FILTERED TEXT ===
+Total lines: 90

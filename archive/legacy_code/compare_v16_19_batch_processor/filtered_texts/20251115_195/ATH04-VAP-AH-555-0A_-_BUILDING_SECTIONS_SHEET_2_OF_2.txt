@@ -1,0 +1,209 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-555-0A_-_BUILDING_SECTIONS_SHEET_2_OF_2.pdf ===
+
+Line   0: EAVES LEVEL
+Line   1: RAB PARAPET
+Line   2: DATA HALL RIDGE LEVEL
+Line   3: 2
+Line   4: 4
+Line   5: DATA HALL CEILING
+Line   6: SLAB.
+Line   7: COLO
+Line   8: CELL
+Line   9: 00
+Line  10: COLO
+Line  11: CELL
+Line  12: 00
+Line  13: PROPRIETRY SUSPENDED
+Line  14: CEILING SYSTEM
+Line  15: BOARD
+Line  16: CLEANROOM
+Line  17: AMSTRONG PRIMA DUNE SUPREME.
+Line  18: REFER SPECIFICATION
+Line  19: DETAILS
+Line  20: COLO
+Line  21: ELEC
+Line  22: 00
+Line  23: COLO
+Line  24: ELEC
+Line  25: 00
+Line  26: COLO
+Line  27: 00
+Line  28: COLO
+Line  29: 00
+Line  30: 7300
+Line  31: 7300
+Line  32: 7300
+Line  33: 7300
+Line  34: 7300
+Line  35: 7300
+Line  36: 7300
+Line  37: 7300
+Line  38: 7300
+Line  39: 6970
+Line  40: 6350
+Line  41: 9200
+Line  42: 3000
+Line  43: MMR
+Line  44: 00 020
+Line  45: CORRIDOR
+Line  46: 00 016
+Line  47: FACILITY
+Line  48: OFFICE
+Line  49: 00 005
+Line  50: EUROBOND
+Line  51: FIREMASTER CEILING
+Line  52: PHOTOVOLTAIC PANELS
+Line  53: SPECIALIST DESIGN
+Line  54: COORDINATED
+Line  55: KAL ZIP WALKWAY
+Line  56: HANDRAIL
+Line  57: SLAB
+Line  58: EAVES LEVEL
+Line  59: RAB PARAPET
+Line  60: DATA HALL RIDGE LEVEL
+Line  61: ZF
+Line  62: ZA
+Line  63: YB
+Line  64: DATA HALL CEILING
+Line  65: XF
+Line  66: XA
+Line  67: TOP ROOF ACCESS STAIR
+Line  68: RACK
+Line  69: PROPRIETRY SUSPENDED CEILING
+Line  70: SYSTEM BOARD
+Line  71: CLEANROOM
+Line  72: TATE MINERAL FIBRE HYGIENE RATED
+Line  73: ACOUSTIC CEILING TILE 1200
+Line  74: WITHSUSPENDED CEILING STRUCTURAL
+Line  75: GRID. REFER SPEC DETAIL
+Line  76: CEILING
+Line  77: 4470
+Line  78: 2465
+Line  79: 5500
+Line  80: 7150
+Line  81: 3500
+Line  82: 10100
+Line  83: 4500
+Line  84: 20750
+Line  85: 5500
+Line  86: 2465
+Line  87: COLO
+Line  88: MECHANICAL
+Line  89: GALLERY 4
+Line  90: 00
+Line  91: COLO
+Line  92: CELL
+Line  93: 00
+Line  94: COLO
+Line  95: CELL 4
+Line  96: 00
+Line  97: COLO
+Line  98: MECH
+Line  99: GALLERY 4
+Line 100: GANTRY
+Line 101: 01 09
+Line 102: COLO
+Line 103: MECHANICAL
+Line 104: GALLERY
+Line 105: 00
+Line 106: COLO
+Line 107: MECH
+Line 108: GALLERY
+Line 109: GANTRY
+Line 110: 01
+Line 111: ADMIN
+Line 112: COLO
+Line 113: 2
+Line 114: 2
+Line 115: 4
+Line 116: 4
+Line 117: COLO 2
+Line 118: SLAB
+Line 119: EAVES LEVEL
+Line 120: RAB PARAPET
+Line 121: DATA HALL RIDGE LEVEL
+Line 122: DATA HALL CEILING
+Line 123: RACK
+Line 124: COLO
+Line 125: CELL
+Line 126: 00
+Line 127: 7650
+Line 128: 7300
+Line 129: 7300
+Line 130: 7300
+Line 131: 7300
+Line 132: 7300
+Line 133: 7300
+Line 134: 7300
+Line 135: 7300
+Line 136: 7300
+Line 137: 7300
+Line 138: 7300
+Line 139: ADMIN
+Line 140: ADMIN
+Line 141: COLO
+Line 142: COLO 2
+Line 143: 2
+Line 144: 4
+Line 145: 2
+Line 146: 4
+Line 147: TRUE NORTH
+Line 148: Sheet Title Number
+Line 149: Scale
+Line 150: Plan
+Line 151: Design Consultants
+Line 152: Microsoft
+Line 153: DATA CENTER
+Line 154: SPATA GREECE
+Line 155: Contractor Joint Venture
+Line 156: Name
+Line 157: Contractor Project
+Line 158: Contractor Contract
+Line 159: Contractor PM
+Line 160: Contractor BIM Mngr
+Line 161: Contractor Information
+Line 162: Renco Terna
+Line 163: Client
+Line 164: General Notes
+Line 165: Client Project
+Line 166: Client Contract
+Line 167: Client PM
+Line 168: Client BIM Mngr
+Line 169: Primary Client Information
+Line 170: Layout
+Line 171: Revision
+Line 172: Tombazi Chalandri
+Line 173: 15232
+Line 174: Athens Greece
+Line 175: 0800 3262
+Line 176: Agion Theodoron Square Athens
+Line 177: 10561
+Line 178: Athens Greece
+Line 179: Kimithois Agios Dimitrios
+Line 180: 17236
+Line 181: Athens Greece
+Line 182: Purpose Issue
+Line 183: Issue
+Line 184: Name
+Line 185: BUILDING SECTIONS
+Line 186: SHEET 2 2
+Line 187: VAP AH
+Line 188: SCALE
+Line 189: BUILDING LONG SECTION 2 2
+Line 190: SCALE
+Line 191: BUILDING CROSS SECTION 4
+Line 192: SCALE
+Line 193: BUILDING LONG SECTION 2
+Line 194: 5000
+Line 195: 10000
+Line 196: SCALE
+Line 197: SCALE 4000
+Line 198: MASTERPLAN KEY PLAN
+Line 199: Date
+Line 200: Description
+Line 201: 04
+Line 202: Issued Approval
+Line 203: VAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 204

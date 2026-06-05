@@ -1,0 +1,228 @@
+=== FILTERED TEXT FOR: 4005-RES-BIG-234-CO-00102.pdf ===
+
+Line   0: Πεζόδρομος Pedestrian Pathway
+Line   1: Πεζόδρομος Pedestrian Pathway
+Line   2: Πεζόδρομος Pedestrian Pathway
+Line   3: Πεζόδρομος Pedestrian Pathway
+Line   4: Πεζόδρομος Pedestrian Pathway
+Line   5: Γραμμή
+Line   6: Πεζόδρομος
+Line   7: Μητροπολιτικού Πόλου Ελληνικού Κοσμά Metropolitan Pole
+Line   8: Agios Kosmas
+Line   9: MAIN BUILDING
+Line  10: COORDINATES
+Line  11: Position
+Line  12: Position
+Line  13: AMENITIES BUILDING
+Line  14: COORDINATES
+Line  15: Position
+Line  16: Position
+Line  17: PLOT COORDINATES
+Line  18: Position
+Line  19: Position
+Line  20: Ποσειδώνος
+Line  21: Πεζόδρομος Pedestrian Pathway
+Line  22: Πεζόδρομος Pedestrian Pathway
+Line  23: ΠΜ
+Line  24: ΠΜ
+Line  25: ΠΜ
+Line  26: ΠΜ
+Line  27: ΠΜ
+Line  28: ΠΜ
+Line  29: ΠΜ
+Line  30: PΜ
+Line  31: ΠΜ
+Line  32: ΠΜ
+Line  33: ΠΜ
+Line  34: ΠΜ
+Line  35: ΠΜ
+Line  36: ΠΜ
+Line  37: ΠΜ
+Line  38: ΠΜ
+Line  39: ΠΜ
+Line  40: Πεζόδρομος Pedestrian Pathway
+Line  41: Πεζόδρομος Pedestrian Pathway
+Line  42: Πεζόδρομος Pedestrian Pathway
+Line  43: Πεζόδρομος Pedestrian Pathway
+Line  44: Πεζόδρομος Pedestrian Pathway
+Line  45: Πεζόδρομος Pedestrian Pathway
+Line  46: Πεζόδρομος Pedestrian Pathway
+Line  47: Πεζόδρομος Pedestrian Pathway
+Line  48: Πεζόδρομος Pedestrian Pathway
+Line  49: Πεζόδρομος Pedestrian Pathway
+Line  50: Πεζόδρομος Pedestrian Pathway
+Line  51: Πεζόδρομος Pedestrian Pathway
+Line  52: Πεζόδρομος Pedestrian Pathway
+Line  53: Πεζόδρομος Pedestrian Pathway
+Line  54: Πεζόδρομος Pedestrian Pathway
+Line  55: Πεζόδρομος Pedestrian Pathway
+Line  56: Πεζόδρομος Pedestrian Pathway
+Line  57: Πεζόδρομος Pedestrian Pathway
+Line  58: Πεζόδρομος Pedestrian Pathway
+Line  59: 714
+Line  60: 717
+Line  61: 715
+Line  62: 716
+Line  63: 409
+Line  64: 405
+Line  65: 709
+Line  66: 710
+Line  67: 436
+Line  68: 434
+Line  69: 433
+Line  70: 431
+Line  71: 430
+Line  72: 429
+Line  73: 428
+Line  74: 427
+Line  75: 426
+Line  76: 424
+Line  77: 707
+Line  78: 468
+Line  79: 467
+Line  80: 466
+Line  81: 465
+Line  82: 464
+Line  83: 461
+Line  84: 460
+Line  85: 459
+Line  86: 458
+Line  87: 457
+Line  88: 456
+Line  89: 455
+Line  90: 454
+Line  91: 453
+Line  92: 452
+Line  93: 450
+Line  94: 449
+Line  95: 447
+Line  96: 446
+Line  97: 445
+Line  98: 444
+Line  99: 443
+Line 100: 442
+Line 101: 441
+Line 102: 440
+Line 103: 439
+Line 104: 438
+Line 105: 437
+Line 106: 718
+Line 107: 717
+Line 108: 716
+Line 109: 715
+Line 110: 714
+Line 111: 713
+Line 112: 712
+Line 113: 711
+Line 114: 710
+Line 115: 709
+Line 116: 708
+Line 117: 707
+Line 118: 706
+Line 119: 472
+Line 120: 471
+Line 121: 469
+Line 122: 408
+Line 123: 407
+Line 124: 406
+Line 125: 404
+Line 126: 403
+Line 127: 470
+Line 128: 451
+Line 129: 448
+Line 130: 435
+Line 131: 432
+Line 132: 425
+Line 133: ΓΗΠΕΔΟ ΕΘΝΙΚΟΥ ΠΕΙΡΑΙΩΣ
+Line 134: ΕΥΔΑΠ
+Line 135: ΑΓΙΟΥ ΚΟΣΜΑ ΔΑΜΙΑΝΟΥ
+Line 136: ΕΥΔΑΠ
+Line 137: ΕΥΔΑΠ
+Line 138: ΕΥΔΑΠ
+Line 139: CF
+Line 140: CF
+Line 141: CF
+Line 142: CF
+Line 143: CF
+Line 144: CF
+Line 145: CF
+Line 146: CF
+Line 147: CF
+Line 148: CF
+Line 149: CITY PLANNING ZONE, SCALE 5000
+Line 150: KEYPLAN KEYSECTION
+Line 151: ΓΕΝΙΚΕΣ ΣΗΜΕΙΩΣΕΙΣ GENERAL NOTES
+Line 152: ΕΓΓΡΑΦΑ ΑΝΑΦΟΡΑΣ DOCUMENT REFERENCE
+Line 153: ΘΕΣΗ ΓΡΑΦΙΚΗΣ ΚΛΙΜΑΚΑΣ GRAPHIC SCALE LOCATION
+Line 154: URBAN ZONE
+Line 155: ΦΥΛΛΟ SHEET
+Line 156: ARCHITECTURAL DESIGN HELLINIKON HIGH RISE RESIDENTIAL
+Line 157: STAMPED
+Line 158: BIG
+Line 159: BIG
+Line 160: STAMPED
+Line 161: STAMPED
+Line 162: BIG
+Line 163: Issued Information Review
+Line 164: HELLINIKON
+Line 165: Σημείωση Πνευματικών Δικαιωμάτων. 2121 1993
+Line 166: ΕΛΛΗΝΙΚΟ
+Line 167: Ρήτρα Περιορισμού Ευθύνης. ΕΛΛΗΝΙΚΟ
+Line 168: ΝΑ ΜΗΝ ΑΛΛΑΧΘΕΙ ΚΛΙΜΑΚΑ ΤΟΥ ΣΧΕΔΙΟΥ.
+Line 169: Copyright Notice. 2121 1993
+Line 170: HELLINIKON
+Line 171: Disclaimer. HELLINIKON
+Line 172: CHANGE SCALE DRAWING.
+Line 173: MODEL
+Line 174: ΣΤΟΙΧΕΙΑ ΚΥΡΙΟΥ ΜΕΛΕΤΗΤΗ LEAD DESIGNER DETAILS
+Line 175: ΣΤΟΙΧΕΙΑ ΣΥΜΒΟΥΛΟΥ ΔΙΑΧΕΙΡΙΣΗΣ ΕΡΓΟΥ
+Line 176: PROJECT MANAGEMENT CONSULTANT DETAILS
+Line 177: Kifisias Avenue Golden Hall
+Line 178: 15123 Marousi
+Line 179: ΕΛΛΗΝΙΚΟ HELLINIKON
+Line 180: ΣΤΟΙΧΕΙΑ ΕΡΓΟΔΟΤΗ EMPLOYER DETAILS
+Line 181: DEVELOPMENT METROPOLITAN POLE HELLINIKON AG. KOSMAS
+Line 182: ΑΝΑΠΤΥΞΗ ΤΟΥ ΜΗΤΡΟΠΟΛΙΤΙΚΟΥ ΠΟΛΟΥ ΕΛΛΗΝΙΚΟΥ ΑΓIOY ΚΟΣΜΑ
+Line 183: ΕΡΓΟ PROJECT
+Line 184: STATUS
+Line 185: APPROVED
+Line 186: PMC
+Line 187: VERIFIED
+Line 188: LEAD DESIGNER
+Line 189: CHECKED
+Line 190: ORIGINATED
+Line 191: DESCRIPTION UPDATE VERSION
+Line 192: DATE
+Line 193: ISSUE
+Line 194: REV.
+Line 195: Revision
+Line 196: Serial Number
+Line 197: Stage
+Line 198: Discipline
+Line 199: Type
+Line 200: Originator
+Line 201: Project
+Line 202: ΔΙΑΤΑΞΗ LAYOUT
+Line 203: ΚΩΔΙΚΟΣ ΕΓΓΡΑΦΟΥ ΣΧΕΔΙΟΥ DOCUMENT DRAWING CODIFICATION
+Line 204: ΚΛΙΜΑΚΑ SCALE
+Line 205: File Path
+Line 206: ΤΙΤΛΟΣ ΣΧΕΔΙΟΥ DRAWING TITLE
+Line 207: ΚΥΡΙΟΣ ΜΕΛΕΤΗΤΗΣ LEAD DESIGNER
+Line 208: ΣΥΜΒΟΥΛΟΣ ΔΙΑΧΕΙΡΙΣΗΣ ΕΡΓΟΥ
+Line 209: PROJECT MANAGEMENT CONSULTANT
+Line 210: ΕΡΓΟΔΟΤΗΣ EMPLOYER
+Line 211: ENGINEERING CONSULTANT
+Line 212: EXECUTIVE ARCHITECT
+Line 213: STUCTURAL CONSULTANT
+Line 214: MEP ENGINEERING CONSULTANT
+Line 215: 4005
+Line 216: BIG
+Line 217: RES
+Line 218: DWG
+Line 219: 234
+Line 220: CO
+Line 221: SITE PLAN
+Line 222: 00102
+
+=== END OF FILTERED TEXT ===
+Total lines: 223

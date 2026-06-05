@@ -1,0 +1,92 @@
+=== FILTERED TEXT FOR: 1906_AVL5_VAP_ARC_A9-142_3.pdf ===
+
+Line   0: 2
+Line   1: 4
+Line   2: ΚΑΠΑΚΙ ΠΕΤΡΑΣ
+Line   3: 2.
+Line   4: ΕΠΕΝΔΥΣΗ ΕΜΦΑΝΟΥΣ ΠΕΤΡΑΣ
+Line   5: ΚΟΝΙΑΜΑ ΣΥΓΚΟΛΛΗΣΗΣ
+Line   6: 4.
+Line   7: ΣΤΑΤΙΚΟΣ ΦΟΡΕΑΣ ΒΛ. ΣΤΑΤΙΚΑ
+Line   8: ΣΤΕΓΑΝΩΤΙΚΟ ΚΟΝΙΑΜΑ ΕΝΟΣ
+Line   9: ΣΥΣΤΑΣΤΙΚΟΥ, ΤΣΙΜΕΝΤΟΕΙΔΟΥΣ
+Line  10: ΒΑΣΕΩΣ
+Line  11: ΔΙΠΛΟ ΑΣΦΑΛΤΟΠΑΝΟ
+Line  12: ΦΥΛΛΟ ΠΡΟΣΤΑΣΙΑΣ ΚΑΙ
+Line  13: ΣΥΓΚΡΑΤΗΣΗΣ ΥΓΡΑΣΙΑΣ
+Line  14: AΠΟΣΤΡΑΓΓΙΣΤΙΚΗ ΜΕΜΒΡΑΝΗ
+Line  15: ΓΕΩΥΦΑΣΜΑ
+Line  16: ΕΞΩΤΕΡΙΚΟΣ ΣΟΒΑΣ
+Line  17: Ακριβής
+Line  18: ΑΥΛΑΚΙΑ ΑΝΤΙΠΑΡΟΣ
+Line  19: AYLAKIA ANTIPAROS
+Line  20: AVL
+Line  21: RESIDENCE ANTIPAROS
+Line  22: PATSILERO LTD
+Line  23: ΠΕΡΙΓΡΑΦΗ
+Line  24: DESCRIPTION
+Line  25: ΗΜ ΝΙΑ
+Line  26: REVISION DATE
+Line  27: Νaxou Kifisia, Greece
+Line  28: 4217 6976
+Line  29: ERISMA
+Line  30: Tompazi Chalandri, Greece
+Line  31: 3262 3269
+Line  32: 79 Suga Shinjuku Tokyo 0018 Japan
+Line  33: 3226 5336 3226 5366
+Line  34: ATELIER BOW WOW
+Line  35: Apollonos Athens, 10557 Greece
+Line  36: 6770
+Line  37: DOXIADIS
+Line  38: ΚΛΙΜΑΚΑ
+Line  39: SCALE
+Line  40: ΣΧΕΔΙΟ
+Line  41: ΕΡΓΟ
+Line  42: ΕΡΓΟΔΟΤΗΣ
+Line  43: ΗΜΕΡΟΜΗΝΙΑ ΕΚΔΟΣΗΣ
+Line  44: FIRST ISSUE DATE
+Line  45: DETAILED DESIGN
+Line  46: KAT. ΣΧΕΔΙΟΥ
+Line  47: BLD. CATEGORY
+Line  48: ISSUED
+Line  49: ΘΕΣΗ ΕΡΓΟΥ
+Line  50: CONSTR.
+Line  51: APPROVAL
+Line  52: TENDER
+Line  53: STATUS
+Line  54: DRAFT
+Line  55: FINAL
+Line  56: ΑΝΑΘ.
+Line  57: REV.
+Line  58: PROJECT
+Line  59: LOCATION
+Line  60: CLIENT
+Line  61: DRAWING
+Line  62: ΚΗΠΟΤΕΧΝΙΚΗ ΜΕΛΕΤΗ
+Line  63: LANDSCAPE DESIGN
+Line  64: ΜΗΧΑΝΟΛΟΓΙΚΗ ΜΕΛΕΤΗ
+Line  65: MEP ENGINEER
+Line  66: ΣΤΑΤΙΚΗ ΜΕΛΕΤΗ
+Line  67: STRUCTURAL ENGINEER
+Line  68: ΑΡΧΙΤΕΚΤΟΝΑΣ ΕΡΓΟΥ
+Line  69: ARCHITECTURAL DESIGN
+Line  70: ΕΚΤΕΛΕΣΗ ΑΡΧΙΤΕΚΤΟΝΙΚΗΣ
+Line  71: ΜΕΛΕΤΗΣ ΕΠΙΒΛΕΨΗ
+Line  72: EXECUTIVE ARCHITECT
+Line  73: SITE SUPERVISOR
+Line  74: DISCIPLINE
+Line  75: ARC
+Line  76: VAP
+Line  77: TETRAS AEM
+Line  78: Patision Greece
+Line  79: BUILDING
+Line  80: SHELL
+Line  81: ROOF
+Line  82: 07 08 2020
+Line  83: 03
+Line  84: 01
+Line  85: 02
+Line  86: 03 MINOR AMENDMENTS 04
+
+=== END OF FILTERED TEXT ===
+Total lines: 87

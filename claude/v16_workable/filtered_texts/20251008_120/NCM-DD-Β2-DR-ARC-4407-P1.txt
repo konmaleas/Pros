@@ -1,0 +1,158 @@
+=== FILTERED TEXT FOR: NCM-DD-Β2-DR-ARC-4407-P1.pdf ===
+
+Line   0: ΑΝΤΛΙΟΣΤΑΣΙΟ
+Line   1: ΚΑΘΡΕΠΤΗΣ ΚΡΥΦΟ ΦΩΤΙΣΜΟ ΠΕΡΙΜΕΤΡΙΚΑ
+Line   2: ΔΟΧΕΙΟ ΥΓΡΟΥ ΣΑΠΟΥΝΙΟΥ
+Line   3: 1000
+Line   4: 700
+Line   5: 1220
+Line   6: ΑΝΔΡΩΝ
+Line   7: ΠΛΑΚΑΚΙΑ
+Line   8: ΝΙΠΤΗΡΑΣ ΕΛΕΥΘΕΡΟΣ ΤΥΠΟΥ
+Line   9: ΠΛΑΚΙΔΙΑ
+Line  10: ΓΥΝΑΙΚΩΝ
+Line  11: ΑΠΟΘΗΚΗ ΚΑΘΑΡΙΣΤΩΝ
+Line  12: 700
+Line  13: ΠΛΑΚΑΚΙΑ
+Line  14: ΑΝΔΡΩΝ
+Line  15: 2020
+Line  16: 480
+Line  17: 1240
+Line  18: 1200
+Line  19: 430
+Line  20: 770
+Line  21: ΓΥΝΑΙΚΩΝ
+Line  22: ΑΝΔΡΩΝ
+Line  23: ΚΑΘΡΕΠΤΗΣ ΚΡΥΦΟ ΦΩΤΙΣΜΟ ΠΕΡΙΜΕΤΡΙΚΑ
+Line  24: ΚΑΘΡΕΠΤΗΣ ΚΡΥΦΟ ΦΩΤΙΣΜΟ ΠΕΡΙΜΕΤΡΙΚΑ
+Line  25: ΚΕΡΑΜΙΚΕΣ ΠΛΑΚΕΣ
+Line  26: ΝΙΠΤΗΡΑΣ ΕΛΕΥΘΕΡΟΣ ΤΥΠΟΥ
+Line  27: ΚΑΛΑΘΟΣ ΑΧΡΗΣΤΩΝ ΠΛΑΣΤΙΚΟΣ
+Line  28: ΚΑΛΑΘΟΣ ΑΧΡΗΣΤΩΝ ΠΛΑΣΤΙΚΟΣ
+Line  29: ΠΛΑΚΙΔΙΑ
+Line  30: ΠΛΑΚΙΔΙΑ
+Line  31: ΝΙΠΤΗΡΑΣ ΕΛΕΥΘΕΡΟΣ ΤΥΠΟΥ
+Line  32: ΧΑΡΤΟΘΗΚΗ
+Line  33: ΧΑΡΤΟΘΗΚΗ
+Line  34: ΚΑΘΡΕΠΤΗΣ ΚΡΥΦΟ ΦΩΤΙΣΜΟ ΠΕΡΙΜΕΤΡΙΚΑ
+Line  35: ΔΟΧΕΙΟ ΥΓΡΟΥ ΣΑΠΟΥΝΙΟΥ
+Line  36: 1000
+Line  37: 1200
+Line  38: 700
+Line  39: ΓΥΝΑΙΚΩΝ
+Line  40: ΚΕΡΑΜΙΚΕΣ ΠΛΑΚΕΣ
+Line  41: ΚΑΛΑΘΟΣ ΑΧΡΗΣΤΩΝ ΠΛΑΣΤΙΚΟΣ
+Line  42: ΝΙΠΤΗΡΑΣ ΕΛΕΥΘΕΡΟΣ ΤΥΠΟΥ
+Line  43: 2010
+Line  44: 1880
+Line  45: ΠΛΑΚΑΚΙΑ
+Line  46: ΓΥΝΑΙΚΩΝ
+Line  47: ΣΦΡΑΓΙΔΑ ΥΠΕΥΘΥΝΟΥ ΕΡΓΟΥ
+Line  48: ΗΜΕΡΟΜΗΝΙΑ
+Line  49: ONOMA ΑΡΧΕΙΟΥ
+Line  50: ΛΕΥΚΩΣΙΑ ΚΥΠΡΟΣ
+Line  51: ΝΕΟ ΚΥΠΡΙΑΚΟ ΜΟΥΣΕΙΟ
+Line  52: ΗΜΕΡΟΜΗΝΙΑ
+Line  53: ΕΓΚΡΙΘΗΚΕ
+Line  54: ΤΜΗΜΑ
+Line  55: ΗΜΕΡΟΜΗΝΙΑ
+Line  56: ΕΛΕΓΧΘΗΚΕ
+Line  57: ΤΜΗΜΑ
+Line  58: ΥΠΟΒΟΛΗ
+Line  59: ΑΡ. ΣΧΕΔΙΟΥ
+Line  60: ΥΠΟΥΡΓΕΙΟ ΜΕΤΑΦΟΡΩΝ, ΕΠΙΚΟΙΝΩΝΙΩΝ ΚΑΙ ΕΡΓΩΝ
+Line  61: ΤΜΗΜΑ ΔΗΜΟΣΙΩΝ ΕΡΓΩΝ
+Line  62: ΗΜΕΡΟΜΗΝΙΑ
+Line  63: ΠΕΡΙΕΧΟΜΕΝΟ
+Line  64: ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΜΕΛΕΤΗ
+Line  65: THEONI XANTHI XZA LLC
+Line  66: ΥΠΕΥΘΥΝΟΣ ΟΜΑΔΑΣ ΕΡΓΟΥ
+Line  67: ΑΡΧΙΤΕΚΤΩΝ ΘΕΩΝΗ ΞΑΝΘΗ
+Line  68: ΣΥΝΕΡΓΑΤΕΣ ΑΡΧΙΤΕΚΤΟΝΕΣ
+Line  69: ΘΟΔΩΡΗΣ ΑΝΔΡΟΥΛΑΚΗΣ
+Line  70: ΜΑΡΓΑΡΙΤΑ ΖΑΚΥΝΘΙΝΟΥ
+Line  71: ΣΥΝΤΟΝΙΣΤΗΣ ΑΡΧIT ΚΗΣ ΜΕΛΕΤΗΣ
+Line  72: ΚΟΣΜΑΣ ΒΑΡΚΑΡΟΛΗΣ
+Line  73: ΚΛΙΜΑΚΑ
+Line  74: DR ARC
+Line  75: NCM DD
+Line  76: ΜΕΛΕΤΗ ΕΦΑΡΜΟΓΗΣ DD
+Line  77: ΤΙΤΛΟΣ ΣΧΕΔΙΟΥ
+Line  78: ΣΤΑΔΙΟ ΕΡΓΑΣΙΑΣ
+Line  79: ΕΙΔΟΣ ΜΕΛΕΤΗΣ
+Line  80: ΑΡΧΙΤΕΚΤΟΝΙΚΗ
+Line  81: ΣΥΜΒΟΥΛΟΙ ΜΕΛΕΤΗΤΕΣ
+Line  82: ΣΤΑΔΙΟ ΚΑΤΑΛΛΗΛΟΤΗΤΑΣ
+Line  83: KEY PLAN
+Line  84: ΑΡΧΙΤΕΚΤΟΝΙΚΑ
+Line  85: YAP
+Line  86: ΣTATIKΑ
+Line  87: RHOMBUS STRUCTURAL ENGINEERS LLC ΣΤ. ΕΥΣΤΡΑΤΙΑΔΗΣ
+Line  88: PENELIS CONSULTING ENGINEERS SA ΠΕΝΕΛΗΣ
+Line  89: GEORGHIOU ZEMBYLAS PARTNERS
+Line  90: ΜΗΧΑΝΟΛΟΓΙΚA
+Line  91: ΗΛΕΚΤΡΟΛΟΓΙΚA
+Line  92: ΜΟΥΣΕΙΟΛΟΓΙΚA
+Line  93: THETA ACOUSTICS LTD ΝΙΑΟΥΝΑΚΗΣ
+Line  94: ΑΚΟΥΣΤΙΚA
+Line  95: RODITIS PARTNERS ΡΟΔΙΤΗΣ
+Line  96: ΕΠΙΜΕΤΡΗΣΗ ΠΟΣΟΤΗΤΩΝ
+Line  97: FLOROS PANTELI ASSOCIATES ΠΑΝΤΕΛΗ
+Line  98: ΥΓΕΙΑ
+Line  99: ΜΟΥΣΕΙΟΓΡΑΦΙΚA
+Line 100: ΘΩΜΑΣ ΤΣΟΥΚΑΛΑΣ
+Line 101: ΕΙΔΙΚΟΣ ΦΩΤΙΣΜΟΣ
+Line 102: DECO ASSOCIATES ΕΛ. ΝΤΕΚΩ
+Line 103: ΠΥΡΟΠΡΟΣΤΑΣΙΑ
+Line 104: INT FIRE CYPRUS LTD ΣΠ. ΣΠΥΡΟΥ
+Line 105: ΚΥΚΛΟΦΟΡΙΑΚΑ
+Line 106: ΥΔΡΑΥΛΙΚA
+Line 107: DROMOS CONSULTING LTD ΖΕΚΚΟΣ
+Line 108: ΣΗΜΑΝΣΗ
+Line 109: POST SPECTACULAR OFFICE ΓΑΛΙΚΑΣ
+Line 110: ΚΤΗΡΙΟΥ
+Line 111: ARION PLUS
+Line 112: FEREOS LLC ΦΕΡΑΙΟΣ
+Line 113: Αναπλ. Υπεύθυνος Ομάδας
+Line 114: DROMOS CONSULTING LTD ΖΕΚΚΟΣ
+Line 115: ΕΙΔΙΚΑ ΓΕΩΤΕΧΝΙΚΑ
+Line 116: ΚΑΒΒΑΔΑΣ
+Line 117: ΜΟΥΣΕΙΑΚΟΣ ΣΧΕΔΙΑΣΜΟΣ
+Line 118: XZA
+Line 119: ΒΑΣΙΛΕΙΟΥ
+Line 120: ΕΡΓΑΣΤΗΡΙΑ
+Line 121: VAP
+Line 122: Σύμβουλος Μελέτης Εφαρμογής
+Line 123: GEORGHIOU ZEMBYLAS PARTNERS
+Line 124: ANDREAS EVRIPIDOU CIVIL ENGINEERS ΕΥΡΙΠΙΔΟΥ
+Line 125: ΣΤΕΡΓΙΟΣ ΓΑΛΙΚΑΣ
+Line 126: ΘΩΜΑΣ ΤΣΟΥΚΑΛΑΣ
+Line 127: ΣΤΕΡΓΙΟΣ ΓΑΛΙΚΑΣ
+Line 128: Συνεργάτης ΤΣΑΜΠΙΚΟΣ ΠΕΤΡΑΣ
+Line 129: POST SPECTACULAR OFFICE ΓΑΛΙΚΑΣ
+Line 130: ΠΡΟΜΕΛΕΤΗ ΣΑΚΕΛΛΑΡΙΟΥ
+Line 131: ΦΥΣΙΚΟΣ ΦΩΤΙΣΜΟΣ
+Line 132: ΤΣΑΓΚΡΑΣΟΥΛΗΣ
+Line 133: ΕΞΟΠΛΙΣΜΟΣ ΚΟΥΖΙΝΑΣ
+Line 134: XENEX ΚΑΛΟΓΕΡΙΑΣ
+Line 135: ΕΝΕΡΓΕΙΑΚΑ ΚΕΛΥΦΟΥΣ
+Line 136: METABUILD
+Line 137: ΓΡΑΦΙΣΤΙΚΑ
+Line 138: ΦΥΤΟΤΕΧΝΙΚΑ
+Line 139: LANDCO EΠΕ ΚΑΝΤΑΡΤΖΗΣ
+Line 140: ΑΥΓΟΥΣΤΟΣ 2021
+Line 141: P1
+Line 142: 2021 08
+Line 143: 4407
+Line 144: ΑΝΑΠΤΥΓΜΑΤΑ ΧΩΡΩΝ
+Line 145: 4407
+Line 146: 1150
+Line 147: ΕΠΙΠΕΔΟ
+Line 148: ΦΕΒΡΟΥΑΡΙΟΣ 2021
+Line 149: Υποβολή
+Line 150: P1
+Line 151: ΑΥΓΟΥΣΤΟΣ 2021
+Line 152: Βάσει
+
+=== END OF FILTERED TEXT ===
+Total lines: 153

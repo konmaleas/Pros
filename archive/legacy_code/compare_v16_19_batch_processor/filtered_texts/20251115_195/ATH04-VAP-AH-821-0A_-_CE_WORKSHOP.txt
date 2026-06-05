@@ -1,0 +1,197 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-821-0A_-_CE_WORKSHOP.pdf ===
+
+Line   0: CE WORKSHOP
+Line   1: 00 043
+Line   2: YE
+Line   3: ID AD 047
+Line   4: POWER FLOATED
+Line   5: CONCRETE SEALED
+Line   6: ASHFORD FORMULA SEALER
+Line   7: LT 2
+Line   8: WT
+Line   9: 1285
+Line  10: 1880
+Line  11: 2015
+Line  12: 6350
+Line  13: 75
+Line  14: WT
+Line  15: LT 2
+Line  16: WT
+Line  17: LT 2
+Line  18: LT 2
+Line  19: 4
+Line  20: CE
+Line  21: WORKSHOP
+Line  22: 00 043
+Line  23: CEILING TYPE UNDERSIDE
+Line  24: METAL DECK
+Line  25: POWER FLOATED
+Line  26: CONCRETE SEALED
+Line  27: ASHFORD FORMULA SEALER
+Line  28: VINYL COVED UPSTAND
+Line  29: PREFINISHED STEEL
+Line  30: FIREMASTER WALLS ABOVE
+Line  31: PROTECTION BOARD RAL 9010
+Line  32: WHITE, PAINTED GYPSUM
+Line  33: BOARD WALLS, COAT PRIMER
+Line  34: DIAMOND MATT
+Line  35: LATEXT
+Line  36: WT
+Line  37: LT 2
+Line  38: LT 2
+Line  39: WT
+Line  40: 3000
+Line  41: CEILING TYPE UNDERSIDE
+Line  42: METAL DECK
+Line  43: PREFINISHED STEEL
+Line  44: FIREMASTER WALLS ABOVE
+Line  45: PROTECTION BOARD RAL 9010
+Line  46: WHITE, PAINTED GYPSUM
+Line  47: BOARD WALLS, COAT PRIMER
+Line  48: DIAMOND MATT
+Line  49: LATEXT
+Line  50: VINYL COVED UPSTAND
+Line  51: POWER FLOATED
+Line  52: CONCRETE SEALED
+Line  53: ASHFORD FORMULA SEALER
+Line  54: ID AD 047
+Line  55: CE
+Line  56: WORKSHOP
+Line  57: 00 043
+Line  58: LT 2
+Line  59: WT
+Line  60: WT
+Line  61: LT 2
+Line  62: 3000
+Line  63: WT
+Line  64: PREFINISHED STEEL
+Line  65: FIREMASTER WALLS ABOVE
+Line  66: PROTECTION BOARD RAL 9010
+Line  67: WHITE, PAINTED GYPSUM
+Line  68: BOARD WALLS, COAT PRIMER
+Line  69: DIAMOND MATT
+Line  70: LATEXT
+Line  71: CEILING TYPE UNDERSIDE
+Line  72: METAL DECK
+Line  73: VINYL COVED UPSTAND
+Line  74: POWER FLOATED
+Line  75: CONCRETE SEALED
+Line  76: ASHFORD FORMULA SEALER
+Line  77: WT
+Line  78: WT
+Line  79: LT 2
+Line  80: LT 2
+Line  81: CE
+Line  82: WORKSHOP
+Line  83: 00 043
+Line  84: CE
+Line  85: WORKSHOP
+Line  86: 00 043
+Line  87: CEILING TYPE UNDERSIDE
+Line  88: METAL DECK
+Line  89: PREFINISHED STEEL
+Line  90: FIREMASTER WALLS ABOVE
+Line  91: PROTECTION BOARD RAL 9010
+Line  92: WHITE, PAINTED GYPSUM
+Line  93: BOARD WALLS, COAT PRIMER
+Line  94: DIAMOND MATT
+Line  95: LATEXT
+Line  96: POWER FLOATED
+Line  97: CONCRETE SEALED
+Line  98: ASHFORD FORMULA SEALER
+Line  99: VINYL COVED UPSTAND
+Line 100: WT
+Line 101: LT 2
+Line 102: LT 2
+Line 103: WT
+Line 104: 3000
+Line 105: NOTE
+Line 106: WALL TYPE LEGEND REFER DRAWING
+Line 107: ADMIN
+Line 108: COLO
+Line 109: COLO 2
+Line 110: 2
+Line 111: 4
+Line 112: 2
+Line 113: 4
+Line 114: TRUE NORTH
+Line 115: Sheet Title Number
+Line 116: Scale
+Line 117: Plan
+Line 118: Design Consultants
+Line 119: Microsoft
+Line 120: DATA CENTER
+Line 121: SPATA GREECE
+Line 122: Contractor Joint Venture
+Line 123: Name
+Line 124: Contractor Project
+Line 125: Contractor Contract
+Line 126: Contractor PM
+Line 127: Contractor BIM Mngr
+Line 128: Contractor Information
+Line 129: Renco Terna
+Line 130: Client
+Line 131: General Notes
+Line 132: Client Project
+Line 133: Client Contract
+Line 134: Client PM
+Line 135: Client BIM Mngr
+Line 136: Primary Client Information
+Line 137: Layout
+Line 138: Revision
+Line 139: Tombazi Chalandri
+Line 140: 15232
+Line 141: Athens Greece
+Line 142: 0800 3262
+Line 143: Agion Theodoron Square Athens
+Line 144: 10561
+Line 145: Athens Greece
+Line 146: Kimithois Agios Dimitrios
+Line 147: 17236
+Line 148: Athens Greece
+Line 149: Purpose Issue
+Line 150: Issue
+Line 151: Name
+Line 152: CE WORKSHOP
+Line 153: VAP AH
+Line 154: SCALE
+Line 155: CE WORKSHOP FLOOR PLAN
+Line 156: SCALE
+Line 157: CE WORKSHOP VIEW
+Line 158: 2
+Line 159: 1000
+Line 160: SCALE
+Line 161: SCALE
+Line 162: WORKSHOP ELEVATION EAST
+Line 163: 4
+Line 164: SCALE
+Line 165: WORKSHOP ELEVATION NORTH
+Line 166: SCALE
+Line 167: WORKSHOP ELEVATION SOUTH
+Line 168: SCALE
+Line 169: WORKSHOP ELEVATION WEST
+Line 170: EQUIPMENT SCHEDULE CE WORKSHOP
+Line 171: Count
+Line 172: CODE
+Line 173: Description
+Line 174: Room Name
+Line 175: Room Number
+Line 176: HEIGHT ADJUSTABLE RECTANGULAR DESK
+Line 177: ACOUSTIC DESK SCREEN
+Line 178: CE WORKSHOP
+Line 179: 00 043
+Line 180: IDA
+Line 181: DOUBLE LEAF, INTERIOR DOOR
+Line 182: CE WORKSHOP
+Line 183: 00 043
+Line 184: BULK RACK
+Line 185: CE WORKSHOP
+Line 186: 00 043
+Line 187: Date
+Line 188: Description
+Line 189: 04
+Line 190: Issued Approval
+Line 191: VAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 192

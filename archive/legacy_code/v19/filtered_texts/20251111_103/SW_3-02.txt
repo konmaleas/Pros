@@ -1,0 +1,201 @@
+=== FILTERED TEXT FOR: SW_3-02.pdf ===
+
+Line   0: First Floor Area 742
+Line   1: Total Area 1505
+Line   2: CEO CICO CEO
+Line   3: Chief
+Line   4: Infrastructure
+Line   5: Controls Officer
+Line   6: INF Project
+Line   7: Director
+Line   8: Infrastructure Park
+Line   9: Director
+Line  10: ADM ADM
+Line  11: Infra Department
+Line  12: Assistant
+Line  13: INF INF
+Line  14: INF PM GIS PM
+Line  15: Park PM
+Line  16: Archaeology
+Line  17: Cultural Heritage
+Line  18: INF INF
+Line  19: INF PM Sports
+Line  20: MEP Manager
+Line  21: Sports Project
+Line  22: Associate
+Line  23: KITCHENETTE
+Line  24: INF Project
+Line  25: Director
+Line  26: Infrastructure
+Line  27: INF Project
+Line  28: Director Sports
+Line  29: INF INF
+Line  30: PM AMEA
+Line  31: Project Associate
+Line  32: AMEA
+Line  33: INF INF
+Line  34: INF Project
+Line  35: Associate Infra
+Line  36: INF Project
+Line  37: Director Park
+Line  38: SO SO SO
+Line  39: Senior Security
+Line  40: Manager Quality
+Line  41: Associate PM MEP
+Line  42: SO Site
+Line  43: Operations Director
+Line  44: INF INF PM
+Line  45: Infra PM MEP Infra
+Line  46: CONFERENCE
+Line  47: SPARE
+Line  48: SPARE
+Line  49: CONFERENCE
+Line  50: CA INF Guest
+Line  51: Room Contracts
+Line  52: Director Staff
+Line  53: QS Manager
+Line  54: SO SO SO
+Line  55: SO Site
+Line  56: Operations
+Line  57: Technician
+Line  58: COPY
+Line  59: INF INF Site
+Line  60: Supervision Site
+Line  61: Supervision Sports
+Line  62: STORAGE
+Line  63: RC RC
+Line  64: Race Race
+Line  65: INF INF
+Line  66: Landscape MEP
+Line  67: Manager
+Line  68: Project Associate
+Line  69: Landscape
+Line  70: TP TP Surveyor
+Line  71: Surveyor
+Line  72: PC UPP
+Line  73: Programme
+Line  74: Controls Urban
+Line  75: Planning
+Line  76: Permitting Team
+Line  77: SO SO SO
+Line  78: Senior Health
+Line  79: Safety Manager
+Line  80: Environmental
+Line  81: Compliance
+Line  82: Associate Smart
+Line  83: Tech Manager
+Line  84: INF INF Site
+Line  85: Engineer
+Line  86: Landscape Site
+Line  87: Engineer
+Line  88: Landscape
+Line  89: WC
+Line  90: WC
+Line  91: ΑΝΑΒΑΤΟΡΙΟ ΑΜΕΑ
+Line  92: INF INF PM
+Line  93: Roads PM Civil
+Line  94: JANITOR
+Line  95: Spare Room
+Line  96: Space Room
+Line  97: ΣΥΝΔΕΣΗ ΤΩΝ ΛΕΚΑΝΩΝ ΣΤΟΝ
+Line  98: ΚΕΝΤΡΙΚΟ ΣΩΛΗΝΑ ΑΠΟΧΕΤΕΥΣΗΣ
+Line  99: ΘΑ ΓΙΝΕΙ ΜΕ
+Line 100: DN
+Line 101: DN
+Line 102: DN
+Line 103: DN
+Line 104: DN
+Line 105: DN
+Line 106: DN
+Line 107: DN
+Line 108: DN
+Line 109: ΣΥΝΔΕΣΗ ΤΩΝ ΝΙΠΤΗΡΩΝ ΣΤΟΝ
+Line 110: ΚΕΝΤΡΙΚΟ ΣΩΛΗΝΑ ΑΠΟΧΕΤΕΥΣΗΣ
+Line 111: ΘΑ ΓΙΝΕΙ ΜΕ
+Line 112: DN 40
+Line 113: DN 40
+Line 114: DN
+Line 115: DN
+Line 116: DN
+Line 117: DN
+Line 118: DN
+Line 119: ΚΛΙΜΑΚΑ
+Line 120: SCALE
+Line 121: ΣΧΕΔΙΟ
+Line 122: ΗΜΕΡΟΜΗΝΙΑ ΕΚΔΟΣΗΣ
+Line 123: FIRST ISSUE DATE
+Line 124: ΣΦΡΑΓΙΔΑ
+Line 125: ΠΕΡΙΟΧΗ
+Line 126: ZONE
+Line 127: ISSUED
+Line 128: CONSTRUCTION
+Line 129: APPROVAL
+Line 130: TENDER
+Line 131: STATUS
+Line 132: DRAFT
+Line 133: FINAL
+Line 134: ΚΑΤ. ΜΕΛΕΤΗΣ
+Line 135: DISCIPLINE
+Line 136: ΑΝΑΘ.
+Line 137: REV.
+Line 138: DRAWING
+Line 139: LAYOYT LEGEND
+Line 140: ΥΠΟΜΝΗΜΑ ΠΙΝΑΚΙΔΟΠΟΙΗΣΗΣ
+Line 141: ΑΝΑΠΤΥΞΗ ΜΗΤΡΟΠΟΛΙΤΙΚΟΥ ΠΟΛΟΥ
+Line 142: ΕΛΛΗΝΙΚΟΥ ΚΟΣΜΑ
+Line 143: HELLINIKON DEVELOPMENT PROJECT
+Line 144: ΕΡΓΟ
+Line 145: PROJECT
+Line 146: ΕΡΓΟΤΑΞΙΑΚΑ ΓΡΑΦΕΙΑ ΕΛΛΗΝΙΚΟ
+Line 147: ELLINIKON SITE OFFICES
+Line 148: ΕΡΓΟΔΟΤΗΣ
+Line 149: CLIENT
+Line 150: PROJECT CONSULTANT
+Line 151: ΣΥΜΒΟΥΛΟΣ ΕΡΓΟΥ
+Line 152: ΜΕΛΕΤΗ
+Line 153: DESIGN
+Line 154: STAMP
+Line 155: ΕΛΛΗΝΙΚΟ
+Line 156: ELLINIKON
+Line 157: 00
+Line 158: ΚΑΤΟΨΗ ΟΡΟΦΟΥ
+Line 159: 04
+Line 160: SW
+Line 161: 02
+Line 162: ΓΡΑΦΕΙΑ ΔΙΟΙΚΗΣΗΣ
+Line 163: ΕΠΙΒΛΕΨΗΣ
+Line 164: FLOOR PLANVIEW
+Line 165: ADMINISTRATION
+Line 166: SUPERVISION
+Line 167: OFFICES
+Line 168: ΑΠΟΧΕΤΕΥΣΗΣ
+Line 169: SEWAGE
+Line 170: SO
+Line 171: ΑΝΑΘΕΩΡΗΣΕΙΣ
+Line 172: ΠΕΡΙΓΡΑΦΗ DESCRIPTION
+Line 173: ΗΜ ΝΙΑ DATE
+Line 174: 00
+Line 175: Site Offices
+Line 176: 04 2023
+Line 177: 70
+Line 178: DN
+Line 179: 40
+Line 180: Αντιστοιχία
+Line 181: PP Aποχέτευσης
+Line 182: ΣΙΦΩΝΙ ΔΑΠΕΔΟΥ
+Line 183: ΤΑΠΑ ΚΑΘΑΡΙΣΜΟΥ
+Line 184: ΑΝΤΛΙΑ ANYΨΩΣΗΣ ΛΥΜΑΤΩΝ
+Line 185: ΔΙΚΤΥΟ ΑΠΟΧΕΤΕΥΣΗΣ PP
+Line 186: KESSEL PARADE
+Line 187: Αποχέτευση
+Line 188: ΥΠΟΜΝΗΜΑ ΣΥΜΒΟΛΩΝ
+Line 189: ΔΙΚΤΥΟ ΑΕΡΙΣΜΟΥ ΑΠΟΧΕΤΕΥΣΗΣ PP
+Line 190: BAΛΒΙΔΑ ΜΙΚΑ ΑΕΡΙΣΜΟΥ
+Line 191: ΦΡΕΑΤΙΟ
+Line 192: ΣΗΜΕΙΩΣΕΙΣ
+Line 193: ΣΕ ΟΛΟΥΣ ΤΟΥΣ EΠΙΜΕΡΟΥΣ ΚΛΑΔΟΥΣ ΑΠΟΧΕΤΕΥΣΗΣ ΘΑ ΠΡΕΠΕΙ ΝΑ
+Line 194: ΕΞΑΣΦΑΛΊΖΕΤΑΙ ΚΛΙΣΗ ΣΤΟΥΣ ΚΛΑΔΟΥΣ ΤΟΥ ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΧΩΡΟΥ ΘΑ
+Line 195: ΘΑ ΠΡΕΠΕΙ ΝΑ ΕΞΑΣΦΑΛΊΖΕΤΑΙ ΕΛΑΧΙΣΤΗ ΚΛΙΣΗ
+
+=== END OF FILTERED TEXT ===
+Total lines: 196

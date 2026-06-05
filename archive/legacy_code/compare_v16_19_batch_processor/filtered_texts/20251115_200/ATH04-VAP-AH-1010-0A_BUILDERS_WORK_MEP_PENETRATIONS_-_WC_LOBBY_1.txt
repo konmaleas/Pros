@@ -1,0 +1,151 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-1010-0A_BUILDERS_WORK_MEP_PENETRATIONS_-_WC_LOBBY_1.pdf ===
+
+Line   0: 1010
+Line   1: 2
+Line   2: 1010
+Line   3: 1010
+Line   4: 4
+Line   5: 1010
+Line   6: LOBBY
+Line   7: 00 025
+Line   8: WC
+Line   9: 00 026
+Line  10: 1010
+Line  11: 1010
+Line  12: GL
+Line  13: CEILING LEVEL
+Line  14: MP AD 026 01
+Line  15: MP AD 026 02
+Line  16: MP AD 026 03
+Line  17: 3655
+Line  18: 445
+Line  19: 3660
+Line  20: WC
+Line  21: 00 026
+Line  22: MP AD 026
+Line  23: 1875
+Line  24: GL
+Line  25: CEILING LEVEL
+Line  26: MP AD 026 04
+Line  27: MP AD 026 05
+Line  28: MP AD 026 07
+Line  29: MP AD 026 08
+Line  30: MP AD 026 09
+Line  31: MP AD 026 06
+Line  32: 1255
+Line  33: 4230
+Line  34: 2000
+Line  35: 3675
+Line  36: 4005
+Line  37: 445
+Line  38: LOBBY
+Line  39: 00 025
+Line  40: GL
+Line  41: CEILING LEVEL
+Line  42: 3820
+Line  43: MP AD 026
+Line  44: MP AD 026
+Line  45: WC
+Line  46: 00 026
+Line  47: LOBBY
+Line  48: 00 025
+Line  49: GL
+Line  50: CEILING LEVEL
+Line  51: WC
+Line  52: 00 026
+Line  53: MEP PENETRATIONS CODE
+Line  54: MP AD XXX XX
+Line  55: MP
+Line  56: MEP PENETRATIONS
+Line  57: AD
+Line  58: BUILDING CODE
+Line  59: XXX
+Line  60: ROOM NUMBER
+Line  61: XX
+Line  62: PENETRATION NUMBER
+Line  63: GL
+Line  64: CEILING LEVEL
+Line  65: MP AD 026 04
+Line  66: MP AD 026 05
+Line  67: MP AD 026 06
+Line  68: MP AD 026 07
+Line  69: MP AD 026 08
+Line  70: MP AD 026 09
+Line  71: LOBBY
+Line  72: 00 025
+Line  73: GL
+Line  74: CEILING LEVEL
+Line  75: MP AD 026
+Line  76: MP AD 026
+Line  77: ADMIN
+Line  78: COLO
+Line  79: COLO 2
+Line  80: 2
+Line  81: 4
+Line  82: 2
+Line  83: 4
+Line  84: TRUE NORTH
+Line  85: Sheet Title Number
+Line  86: Scale
+Line  87: Plan
+Line  88: Design Consultants
+Line  89: Microsoft
+Line  90: DATA CENTER
+Line  91: SPATA GREECE
+Line  92: Contractor Joint Venture
+Line  93: Name
+Line  94: Contractor Project
+Line  95: Contractor Contract
+Line  96: Contractor PM
+Line  97: Contractor BIM Mngr
+Line  98: Contractor Information
+Line  99: Renco Terna
+Line 100: Client
+Line 101: General Notes
+Line 102: Client Project
+Line 103: Client Contract
+Line 104: Client PM
+Line 105: Client BIM Mngr
+Line 106: Primary Client Information
+Line 107: Layout
+Line 108: Revision
+Line 109: Tombazi Chalandri
+Line 110: 15232
+Line 111: Athens Greece
+Line 112: 0800 3262
+Line 113: Agion Theodoron Square Athens
+Line 114: 10561
+Line 115: Athens Greece
+Line 116: Kimithois Agios Dimitrios
+Line 117: 17236
+Line 118: Athens Greece
+Line 119: Purpose Issue
+Line 120: Issue
+Line 121: Name
+Line 122: BUILDERS WORK MEP PENETRATIONS
+Line 123: WC LOBBY
+Line 124: VAP AH 1010
+Line 125: SCALE
+Line 126: 026 WC ELEVATION MEP PENETRATIONS
+Line 127: SCALE
+Line 128: 025 WC ELEVATION 2 MEP PENETRATIONS
+Line 129: 2
+Line 130: SCALE
+Line 131: 025 026 WC ELEVATION MEP PENETRATIONS
+Line 132: SCALE
+Line 133: 026 WC ELEVATION 4 MEP PENETRATIONS
+Line 134: 4
+Line 135: 1000
+Line 136: SCALE
+Line 137: Date
+Line 138: Description
+Line 139: 07
+Line 140: Issued Approval
+Line 141: VAP
+Line 142: SCALE
+Line 143: 025 LOBBY ELEVATION MEP PENETRATIONS
+Line 144: SCALE
+Line 145: 026 WC ELEVATION MEP PENETRATIONS
+
+=== END OF FILTERED TEXT ===
+Total lines: 146

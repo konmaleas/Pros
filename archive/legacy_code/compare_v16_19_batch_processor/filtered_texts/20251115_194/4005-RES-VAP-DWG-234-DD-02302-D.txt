@@ -1,0 +1,493 @@
+=== FILTERED TEXT FOR: 4005-RES-VAP-DWG-234-DD-02302-D.pdf ===
+
+Line   0: 01
+Line   1: 02
+Line   2: 03
+Line   3: 04
+Line   4: 05
+Line   5: 06
+Line   6: 07
+Line   7: 08
+Line   8: 09
+Line   9: BM
+Line  10: BL
+Line  11: BK
+Line  12: BJ
+Line  13: BH
+Line  14: BF
+Line  15: BE
+Line  16: BD
+Line  17: BC
+Line  18: BB
+Line  19: AM
+Line  20: AL
+Line  21: AK
+Line  22: AJ
+Line  23: AI
+Line  24: AH
+Line  25: AG
+Line  26: AF
+Line  27: AE
+Line  28: AD
+Line  29: AC
+Line  30: AB
+Line  31: BG
+Line  32: LIVING DINING
+Line  33: Καθιστικό
+Line  34: Υπνοδωµάτιο 2
+Line  35: MB
+Line  36: Κυρίως
+Line  37: Κυρίως
+Line  38: Λουτρό 2
+Line  39: STUDIO
+Line  40: MB
+Line  41: Κυρίως
+Line  42: CIRC
+Line  43: Κυρίως
+Line  44: LOBBY
+Line  45: LIFT LOBBY
+Line  46: MB
+Line  47: Κυρίως
+Line  48: Υπνοδωµάτιο 2
+Line  49: CIRC
+Line  50: Λουτρό 2
+Line  51: LIVING DINING
+Line  52: Καθιστικό
+Line  53: Κυρίως
+Line  54: LIVING DINING
+Line  55: Καθιστικό
+Line  56: MB
+Line  57: Κυρίως
+Line  58: Κυρίως
+Line  59: Λουτρό 2
+Line  60: SECURITY ROOM
+Line  61: Χώρος
+Line  62: BOH ROOM
+Line  63: Βοηθητικοί
+Line  64: LIFT LOBBY
+Line  65: LOBBY
+Line  66: LIFT LOBBY
+Line  67: BOH ROOM
+Line  68: Βοηθητικοί
+Line  69: LOBBY
+Line  70: LIVING DINING
+Line  71: Καθιστικό
+Line  72: TECH
+Line  73: Χώρος
+Line  74: WC
+Line  75: LAUNDRY
+Line  76: Χώρος
+Line  77: LIVING DINING
+Line  78: Καθιστικό
+Line  79: Υπνοδωµάτιο 2
+Line  80: MB
+Line  81: Κυρίως
+Line  82: Κυρίως
+Line  83: Λουτρό 2
+Line  84: CIRC
+Line  85: Υπνοδωµάτιο
+Line  86: WC
+Line  87: LIVING DINING
+Line  88: Καθιστικό
+Line  89: LIFT LOBBY
+Line  90: Κυρίως
+Line  91: Λουτρό 2
+Line  92: Υπνοδωµάτιο 2
+Line  93: MB
+Line  94: Κυρίως
+Line  95: EGRESS
+Line  96: EGRESS
+Line  97: MB
+Line  98: Κυρίως
+Line  99: Κυρίως
+Line 100: Υπνοδωµάτιο 2
+Line 101: LIVING DINING
+Line 102: Καθιστικό
+Line 103: CIRC
+Line 104: Κυρίως
+Line 105: Λουτρό 2
+Line 106: Λουτρό 2
+Line 107: Κυρίως
+Line 108: MB
+Line 109: Κυρίως
+Line 110: CIRC
+Line 111: LIVING DINING
+Line 112: Καθιστικό
+Line 113: Υπνοδωµάτιο 2
+Line 114: TECH LAUNDRY
+Line 115: Χώρος
+Line 116: CIRC
+Line 117: LIFT LOBBY
+Line 118: LIVING DINING
+Line 119: Καθιστικό
+Line 120: MB
+Line 121: Κυρίως
+Line 122: Υπνοδωµάτιο
+Line 123: Υπνοδωµάτιο 2
+Line 124: MB
+Line 125: Κυρίως
+Line 126: CIRC
+Line 127: TECH LAUNDRY
+Line 128: Χώρος
+Line 129: Λουτρό 2
+Line 130: Κυρίως
+Line 131: LIVING DINING
+Line 132: Καθιστικό
+Line 133: Κυρίως
+Line 134: TERRACE
+Line 135: Aυλή
+Line 136: TERRACE
+Line 137: Aυλή
+Line 138: TERRACE
+Line 139: Aυλή
+Line 140: TERRACE
+Line 141: Aυλή
+Line 142: TERRACE
+Line 143: Aυλή
+Line 144: TERRACE
+Line 145: Aυλή
+Line 146: TERRACE
+Line 147: Aυλή
+Line 148: TERRACE
+Line 149: Aυλή
+Line 150: TERRACE
+Line 151: Aυλή
+Line 152: TERRACE
+Line 153: Aυλή
+Line 154: TERRACE
+Line 155: Aυλή
+Line 156: CIRC
+Line 157: 4
+Line 158: 2
+Line 159: CIRC
+Line 160: LIVING DINING
+Line 161: Καθιστικό
+Line 162: CIRC
+Line 163: Υπνοδωµάτιο 2
+Line 164: LIVING DINING
+Line 165: Καθιστικό
+Line 166: CIRC
+Line 167: LOBBY
+Line 168: LOBBY
+Line 169: 04001
+Line 170: 04000
+Line 171: 03001
+Line 172: 03000
+Line 173: 03003
+Line 174: 03002
+Line 175: 03
+Line 176: DOUBLE HEIGHT AREA
+Line 177: Redundant Room
+Line 178: 03
+Line 179: 01
+Line 180: 01
+Line 181: 01
+Line 182: 01
+Line 183: 44
+Line 184: DA
+Line 185: 03
+Line 186: DA
+Line 187: 01
+Line 188: 01
+Line 189: 70
+Line 190: 03
+Line 191: 03
+Line 192: 03
+Line 193: 01
+Line 194: 76
+Line 195: 432.
+Line 196: 77
+Line 197: 71
+Line 198: 01
+Line 199: 01
+Line 200: 4
+Line 201: 2
+Line 202: 4
+Line 203: 2
+Line 204: 4
+Line 205: 2
+Line 206: 4
+Line 207: 2
+Line 208: ΕΞΥΠΗΡΕΤΗΣΗΣ
+Line 209: ΕΠΙΣΚΕΠΤΩΝ
+Line 210: BI
+Line 211: ΥΠΟΓΕΙΟΥ ΧΩΡΟΥ
+Line 212: ΣΤΑΘΜΕΥΣΗΣ ΑΥΤΟΚΙΝΗΤΩΝ
+Line 213: 4
+Line 214: 2
+Line 215: ΡΑΜΠΑΣ
+Line 216: ΡΑΜΠΑΣ
+Line 217: ΕΙΣΟΔΟΣ ΑΜΚ
+Line 218: 4
+Line 219: 2
+Line 220: ΠΡΑΣΙΑ
+Line 221: ΠΡΑΣΙΑ
+Line 222: SEMI OUTDOOR SPACE
+Line 223: ΗΜΙΥΠΑΙΘΡΙΟΣ ΧΩΡΟΣ
+Line 224: ARCHITECTURAL ELEMENT
+Line 225: ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΠΡΟΕΞΟΧΗ
+Line 226: OUTDOOR SPACE
+Line 227: ΥΠΑΙΘΡΙΟΣ ΧΩΡΟΣ
+Line 228: COVERED AREA
+Line 229: ΣΤΕΓΑΣΜΕΝΟΣ ΧΩΡΟΣ
+Line 230: SHAFT
+Line 231: Φρεάτιο
+Line 232: LIFT
+Line 233: Ανελ
+Line 234: FF LIFT
+Line 235: Ανελ
+Line 236: FF LIFT LOBBY
+Line 237: SHAFT
+Line 238: Φρεάτιο
+Line 239: SHAFT
+Line 240: Φρεάτιο
+Line 241: LIFT
+Line 242: Ανελ
+Line 243: SHAFT
+Line 244: Φρεάτιο
+Line 245: SHAFT
+Line 246: Φρεάτιο
+Line 247: DA
+Line 248: LIFT
+Line 249: Ανελ
+Line 250: SHAFT
+Line 251: Φρεάτιο
+Line 252: SHAFT
+Line 253: Φρεάτιο
+Line 254: DA
+Line 255: DA
+Line 256: LIFT
+Line 257: Ανελ
+Line 258: FF LIFT
+Line 259: Ανελ
+Line 260: SHAFT
+Line 261: Φρεάτιο
+Line 262: SHAFT
+Line 263: Φρεάτιο
+Line 264: SHAFT
+Line 265: Φρεάτιο
+Line 266: FF LIFT LOBBY
+Line 267: LIFT
+Line 268: Ανελ
+Line 269: FF LIFT
+Line 270: Ανελ
+Line 271: FF LIFT LOBBY
+Line 272: SHAFT
+Line 273: Φρεάτιο
+Line 274: SHAFT
+Line 275: Φρεάτιο
+Line 276: SHAFT
+Line 277: Φρεάτιο
+Line 278: Ζώνη Φύτευσης
+Line 279: Ποδηλατόδρομος
+Line 280: Ζώνη Φύτευσης
+Line 281: Bicycle Lane
+Line 282: Parking Area
+Line 283: Planting Area
+Line 284: Planting Area
+Line 285: Πεζοδρόμιο
+Line 286: Pavement
+Line 287: Θέσεις Στάθμευσης
+Line 288: SHALLOW WATER FEATURE
+Line 289: ΣΤΟΙΧΕΙΟ
+Line 290: SHALLOW WATER FEATURE
+Line 291: ΣΤΟΙΧΕΙΟ
+Line 292: SEMI OUTDOOR SPACE
+Line 293: ΗΜΙΥΠΑΙΘΡΙΟΣ ΧΩΡΟΣ
+Line 294: GYM AMENITIES
+Line 295: Κοινόχρηστος
+Line 296: DA
+Line 297: LIFT
+Line 298: Ανελ
+Line 299: LIFT
+Line 300: Ανελ
+Line 301: VEGETATED AREA
+Line 302: ΦΥΤΕΜΕΝΕΣ ΕΠΙΦΑΝΕΙΕΣ
+Line 303: ΕΚΤΟΣ ΦΥΤΕΥΣΗΣ
+Line 304: VEGETATED AREA
+Line 305: ΦΥΤΕΜΕΝΕΣ ΕΠΙΦΑΝΕΙΕΣ
+Line 306: ΕΚΤΟΣ ΦΥΤΕΥΣΗΣ
+Line 307: ΕΓΚΕΚΡΙΜΕΝΟΣ
+Line 308: ΠΛΑΤΟΣ
+Line 309: ΕΓΚΕΚΡΙΜΕΝΟΣ ΚΟΙΝΟΧΡΗΣΤΟΣ ΤΗΣ ΠΕΡΙΟΧΗΣ
+Line 310: ΠΛΑΤΟΣ
+Line 311: ΕΓΚΡΙΣΗ ΚΥΚΛΟΦΟΡΙΑΚΗΣ
+Line 312: ΣΥΜΦΩΝΑ ΜΕ ΤΗΝ
+Line 313: ΥΠ ΑΡΙΘΜΟΝ
+Line 314: ΓΕΝ. ΝΣΗ ΣΥΓΚ.
+Line 315: ΝΣΗ
+Line 316: ARCHITECTURAL ELEMENT
+Line 317: ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΠΡΟΕΞΟΧΗ
+Line 318: ARCHITECTURAL ELEMENT
+Line 319: ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΠΡΟΕΞΟΧΗ
+Line 320: ARCHITECTURAL ELEMENT
+Line 321: ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΠΡΟΕΞΟΧΗ
+Line 322: ARCHITECTURAL ELEMENT
+Line 323: ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΠΡΟΕΞΟΧΗ
+Line 324: ARCHITECTURAL ELEMENT
+Line 325: ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΠΡΟΕΞΟΧΗ
+Line 326: ARCHITECTURAL ELEMENT
+Line 327: ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΠΡΟΕΞΟΧΗ
+Line 328: COVERED AREA
+Line 329: ΣΤΕΓΑΣΜΕΝΟΣ ΧΩΡΟΣ
+Line 330: ARCHITECTURAL ELEMENT
+Line 331: ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΠΡΟΕΞΟΧΗ
+Line 332: ARCHITECTURAL ELEMENT
+Line 333: ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΠΡΟΕΞΟΧΗ
+Line 334: ARCHITECTURAL ELEMENT
+Line 335: ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΠΡΟΕΞΟΧΗ
+Line 336: ΕΡΜΑΡΙΟ ΣΥΛΛΟΓΗΣ ΑΠΟΡΡΙΜΑΤΩΝ
+Line 337: ΣΥΜΦΩΝΑ ΜΕ ΤΟ ΤΟΥ
+Line 338: ΥΠΟΜΝΗΜΑ ΚΑΤΟΨΕΩΝ
+Line 339: DRAWING SYMBOLS LEGEND
+Line 340: Name
+Line 341: 01
+Line 342: 06000
+Line 343: ΑΓΓΛΙΚΗ ΟΝΟΜΑΣΙΑ ΧΩΡΟΥ
+Line 344: ΕΛΛΗΝΙΚΗ ΟΝΟΜΑΣΙΑ ΧΩΡΟΥ
+Line 345: ΚΩΔΙΚΟΣ ΘΥΡΑΣ
+Line 346: ΠΡΕΚΙ ΘΥΡΑΣ
+Line 347: ΠΟΔΙΑ ΘΥΡΑΣ
+Line 348: ΑΝΟΙΓΜΑ ΘΥΡΑΣ
+Line 349: ΚΩΔΙΚΟΣ ΠΑΡΑΘΥΡΟΥ
+Line 350: ΠΟΔΙΑ ΠΑΡΑΘΥΡΟΥ
+Line 351: ΠΡΕΚΙ ΠΑΡΑΘΥΡΟΥ
+Line 352: ΑΝΟΙΓΜΑ ΠΑΡΑΘΥΡΟΥ
+Line 353: ΣΥΜΒΟΛΟ ΤΟΜΗΣ
+Line 354: 16600 FFL
+Line 355: ΣΤΑΘΜΗ ΤΕΛΙΚΟΥ ΔΑΠΕΔΟΥ
+Line 356: 16350 SSL
+Line 357: ΣΤΑΘΜΗ ΠΛΑΚΑΣ ΜΠΕΤΟΥ
+Line 358: ΦΡΕΑΤΙΟ
+Line 359: Name
+Line 360: ΑΡΙΘΜΗΣΗ ΔΙΑΜΕΡΙΣΜΑΤΟΣ
+Line 361: ΑΓΓΛΙΚΗ ΟΝΟΜΑΣΙΑ ΔΩΜΑΤΙΟΥ
+Line 362: ΚΩΔΙΚΟΣ ΔΩΜΑΤΙΟΥ
+Line 363: ΕΛΛΗΝΙΚΗ ΟΝΟΜΑΣΙΑ ΔΩΜΑΤΙΟΥ
+Line 364: ΑΡΙΘΜΟΣ ΤΙΤΛΟΥ ΣΧΕΔΙΟΥ
+Line 365: ΣΥΜΒΟΛΟ ΟΨΗΣ
+Line 366: ΠΑΤΗΜΑ
+Line 367: ΡΙΧΤΙ
+Line 368: ΤΥΠΟΛΟΓΙΑ ΔΙΑΜΕΡΙΣΜΑΤΟΣ
+Line 369: ΑΡΙΘΜΟΣ ΤΙΤΛΟΥ ΣΧΕΔΙΟΥ
+Line 370: ΑΡΙΘΜΟΣ ΣΧΕΔΙΟΥ
+Line 371: ΑΡΙΘΜΟΣ ΣΧΕΔΙΟΥ
+Line 372: 06000
+Line 373: ΑΡΙΘΜΟΣ ΣΚΑΛΟΠΑΤΙΩΝ
+Line 374: ΚΩΔΙΚΟΣ ΔΩΜΑΤΙΟΥ
+Line 375: ΥΠΟΜΝΗΜΑ ΥΛΙΚΩΝ ΠΕΡΙΒΑΛΛΟΝΤΟΣ
+Line 376: ΧΩΡΟΥ
+Line 377: COMMON VEGETATED AREA
+Line 378: ΚΟΙΝΟΧΡΗΣΤΗ ΠΕΡΙΟΧΗ ΦΥΤΕΥΣΗΣ
+Line 379: LIMESTONE TILING
+Line 380: ΠΛΑΚΕΣ ΑΣΒΕΣΤΟΛΙΘΟΥ
+Line 381: SHALLOW WATER FEATURE
+Line 382: ΥΔΑΤΙΝΟ ΣΤΟΙΧΕΙΟ
+Line 383: SAND
+Line 384: ΑΜΜΟΣ
+Line 385: PRIVATE VEGETATED AREA
+Line 386: ΙΔΙΩΤΙΚΗ ΠΕΡΙΟΧΗ ΦΥΤΕΥΣΗΣ
+Line 387: 40
+Line 388: ΓΕΝΙΚΕΣ ΣΗΜΕΙΩΣΕΙΣ GENERAL NOTES
+Line 389: ΕΓΓΡΑΦΑ ΑΝΑΦΟΡΑΣ DOCUMENT REFERENCE
+Line 390: ΤΙΤΛΟΣ ΣΧΕΔΙΟΥ DRAWING TITLE
+Line 391: ΚΩΔΙΚΟΣ ΕΓΓΡΑΦΟΥ ΣΧΕΔΙΟΥ DOCUMENT DRAWING CODIFICATION
+Line 392: Project
+Line 393: Originator
+Line 394: Type
+Line 395: Discipline
+Line 396: Stage
+Line 397: Serial Number
+Line 398: Revision
+Line 399: ΚΛΙΜΑΚΑ SCALE
+Line 400: ΔΙΑΤΑΞΗ LAYOUT
+Line 401: REV.
+Line 402: DATE
+Line 403: ISSUE
+Line 404: DESCRIPTION UPDATE VERSION
+Line 405: ORIGINATED
+Line 406: CHECKED
+Line 407: VERIFIED
+Line 408: LEAD DESIGNER
+Line 409: APPROVED
+Line 410: PMC
+Line 411: STATUS
+Line 412: ΣΥΜΒΟΥΛΟΣ ΔΙΑΧΕΙΡΙΣΗΣ ΕΡΓΟΥ
+Line 413: PROJECT MANAGEMENT CONSULTANT
+Line 414: ΣΥΜΒΟΥΛΟΥ ΔΙΑΧΕΙΡΙΣΗΣ ΕΡΓΟΥ
+Line 415: PROJECT MANAGEMENT CONSULTANT DETAILS
+Line 416: ΚΥΡΙΟΣ ΜΕΛΕΤΗΤΗΣ LEAD DESIGNER
+Line 417: ΜΕΛΕΤΗΤΗ LOCAL ARCHITECT
+Line 418: SUBCONSULTANT STRUCTURE
+Line 419: ΕΡΓΟΔΟΤΗΣ EMPLOYER
+Line 420: ΕΡΓΟΔΟΤΗ EMPLOYER DETAILS
+Line 421: ΑΝΑΠΤΥΞΗ ΤΟΥ ΜΗΤΡΟΠΟΛΙΤΙΚΟΥ ΠΟΛΟΥ ΕΛΛΗΝΙΚΟΥ ΑΓIOY ΚΟΣΜΑ
+Line 422: DEVELOPMENT METROPOLITAN POLE HELLINIKON AG. KOSMAS
+Line 423: ΕΡΓΟ PROJECT
+Line 424: ΕΛΛΗΝΙΚΟ HELLINIKON
+Line 425: Kifisias Avenue Golden Hall
+Line 426: 15123 Marousi
+Line 427: Σημείωση Πνευματικών Δικαιωμάτων. 2121 1993
+Line 428: ΕΛΛΗΝΙΚΟ
+Line 429: Ρήτρα Περιορισμού Ευθύνης. Γραφείο
+Line 430: Ελληνικού. ΕΛΛΗΝΙΚΟ
+Line 431: ΝΑ ΜΗΝ ΑΛΛΑΧΘΕΙ ΚΛΙΜΑΚΑ ΤΟΥ ΣΧΕΔΙΟΥ.
+Line 432: Copyright Notice. 2121 1993
+Line 433: HELLINIKON
+Line 434: Disclaimer. Hellinikon Office. HELLINIKON
+Line 435: CHANGE SCALE DRAWING.
+Line 436: SUBCONSULTANT MEP
+Line 437: SUBCONSULTANT LANDSCAPE
+Line 438: SUBCONSULTANT TRAFFIC
+Line 439: SUBCONSULTANT LIGHTING
+Line 440: SUBCONSULTANT ACOUSTICS
+Line 441: SUBCONSULTANT SUSTAINABILITY
+Line 442: SUBCONSULTANT SIGNAGE
+Line 443: URBAN ZONE
+Line 444: ΑΡΧΙΤΕΚΤΟΝΙΚΟΣ ΣΧΕΔΙΑΣΜΟΣ Οριστική Μελέτη
+Line 445: MODEL MDD DD 0001
+Line 446: BJARKE INGELS GROUP BIG
+Line 447: AVINGUDA DA LES DRASSANES
+Line 448: 08001 BARCELON, SPAIN
+Line 449: HELLINIKON
+Line 450: ΑΝΕΓΕΡΣΗ ΥΨΗΛΟΥ ΚΤΙΡΙΟΥ ΚΑΤΟΙΚΙΩΝ ΟΡΟΦΩΝ, ΜΕ ΥΠΕΡΓΕΙΟΥΣ
+Line 451: ΟΡΟΦΟΥΣ 2 ΥΠΟΓΕΙΑ ΒΟΗΘΗΤΙΚΩΝ ΧΩΡΩΝ ΚΑΙ ΧΩΡΩΝ ΣΤΑΘΜΕΥΣΗΣ, ΙΣΟΓΕΙΟ
+Line 452: ΤΜΗΜΑ ΚΟΙΝΟΧΡΗΣΤΩΝ ΛΕΙΤΟΥΡΓΙΩΝ ΤΩΝ ΚΑΤΟΙΚΙΩΝ ΜΕ ΚΛΕΙΣΤΗ ΚΟΛΥΜΒΗΤΙΚΗ
+Line 453: ΔΕΞΑΜΕΝΗ ΣΤΟ ΥΠΟΓΕΙΟ, ΑΝΟΙΚΤΕΣ ΚΟΛΥΜΒΗΤΙΚΕΣ ΔΕΞΑΜΕΝΕΣ ΣΕ ΔΩΜΑΤΑ
+Line 454: ΟΡΟΦΩΝ, ΚΑΤΑΣΚΕΥΕΣ ΜΕ ΦΩΤΟΒΟΛΤΑΙΚΑ ΠΑΝΕΛΑ ΚΑΙ ΗΧΟΠΕΤΑΣΜΑΤΑ ΣΤΑ
+Line 455: ΔΩΜΑΤΑ ΚΤΙΡΙΟΥ, ΔΙΑΜΟΡΦΩΣΗ ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΧΩΡΟΥ, ΔΥΟ ΥΔΑΤΙΝΑ
+Line 456: ΣΕ ΗΜΙΥΠΑΙΘΡΙΟΥΣ ΧΩΡΟΥΣ ΤΟΥ ΜΕ ΦΩΤΟΒΟΛΤΑΙΚΑ
+Line 457: ΠΑΝΕΛΑ ΣΕ ΤΜΗΜΑ ΠΡΑΣΙΑΣ ΚΑΙ ΣΕ ΑΚΑΛΥΠΤΟ ΧΩΡΟ ΟΙΚΟΠΕΔΟΥ ΚΑΙ ΧΡΗΣΗ ΤΟΥ
+Line 458: AΡΘΡΟΥ ΤΟΥ ΝΟΚ ΟΠΩΣ ΙΣΧΥΕΙ ΣΤΟ
+Line 459: RES
+Line 460: VAP
+Line 461: DWG
+Line 462: DD
+Line 463: 02302
+Line 464: 4005
+Line 465: ΚΑΤΟΨΗ
+Line 466: ΦΥΛΛΟ SHEET 02302
+Line 467: General Floor Plan
+Line 468: 06 2023
+Line 469: First Issuance Approval
+Line 470: VAP
+Line 471: VAP
+Line 472: BIG
+Line 473: 04 08 2023
+Line 474: Second Issuance Approval
+Line 475: VAP
+Line 476: VAP
+Line 477: BIG
+Line 478: 09 2023
+Line 479: Third Issuance Approval
+Line 480: VAP
+Line 481: VAP
+Line 482: BIG
+Line 483: 09 2023
+Line 484: Fourth Issuance Approval
+Line 485: VAP
+Line 486: VAP
+Line 487: BIG
+
+=== END OF FILTERED TEXT ===
+Total lines: 488

@@ -1,0 +1,59 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-833-0A_-_FACILITY_OFFICE_SHEET_4_OF_4.pdf ===
+
+Line   0: ADMIN
+Line   1: COLO
+Line   2: COLO 2
+Line   3: 2
+Line   4: 4
+Line   5: 2
+Line   6: 4
+Line   7: TRUE NORTH
+Line   8: Sheet Title Number
+Line   9: Scale
+Line  10: Plan
+Line  11: Design Consultants
+Line  12: Microsoft
+Line  13: DATA CENTER
+Line  14: SPATA GREECE
+Line  15: Contractor Joint Venture
+Line  16: Name
+Line  17: Contractor Project
+Line  18: Contractor Contract
+Line  19: Contractor PM
+Line  20: Contractor BIM Mngr
+Line  21: Contractor Information
+Line  22: Renco Terna
+Line  23: Client
+Line  24: General Notes
+Line  25: Client Project
+Line  26: Client Contract
+Line  27: Client PM
+Line  28: Client BIM Mngr
+Line  29: Primary Client Information
+Line  30: Layout
+Line  31: Revision
+Line  32: Tombazi Chalandri
+Line  33: 15232
+Line  34: Athens Greece
+Line  35: 0800 3262
+Line  36: Agion Theodoron Square Athens
+Line  37: 10561
+Line  38: Athens Greece
+Line  39: Kimithois Agios Dimitrios
+Line  40: 17236
+Line  41: Athens Greece
+Line  42: Purpose Issue
+Line  43: Issue
+Line  44: Name
+Line  45: FACILITY OFFICE SHEET 4 4
+Line  46: VAP AH
+Line  47: SCALE
+Line  48: FACULTY OFFICE VIEW
+Line  49: Date
+Line  50: Description
+Line  51: 04
+Line  52: Issued Approval
+Line  53: VAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 54

@@ -1,0 +1,121 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-1030-0A_BUILDERS_WORK_MEP_PENETRATIONS_-_OFFICE_B_C.pdf ===
+
+Line   0: 1030
+Line   1: 1030
+Line   2: 2
+Line   3: 1030
+Line   4: 1030
+Line   5: 4
+Line   6: OFFICE
+Line   7: 00 015
+Line   8: OFFICE
+Line   9: 00 014
+Line  10: CEILING LEVEL
+Line  11: MP AD 015 01
+Line  12: MP AD 015 02
+Line  13: MP AD 015 03
+Line  14: OFFICE
+Line  15: 00 015
+Line  16: 3885
+Line  17: 420
+Line  18: 1120
+Line  19: GL
+Line  20: CEILING LEVEL
+Line  21: OA
+Line  22: YA
+Line  23: OFFICE
+Line  24: 00 015
+Line  25: MP AD 015 04
+Line  26: MP AD 015 05
+Line  27: 1715
+Line  28: 4505
+Line  29: 4205
+Line  30: CEILING LEVEL
+Line  31: OFFICE
+Line  32: 00 015
+Line  33: MEP PENETRATIONS CODE
+Line  34: MP AD XXX XX
+Line  35: MP
+Line  36: MEP PENETRATIONS
+Line  37: AD
+Line  38: BUILDING CODE
+Line  39: XXX
+Line  40: ROOM NUMBER
+Line  41: XX
+Line  42: PENETRATION NUMBER
+Line  43: GL
+Line  44: CEILING LEVEL
+Line  45: MP AD 014 01
+Line  46: MP AD 014 02
+Line  47: 795
+Line  48: 4195
+Line  49: OFFICE
+Line  50: 00 014
+Line  51: ADMIN
+Line  52: COLO
+Line  53: COLO 2
+Line  54: 2
+Line  55: 4
+Line  56: 2
+Line  57: 4
+Line  58: TRUE NORTH
+Line  59: Sheet Title Number
+Line  60: Scale
+Line  61: Plan
+Line  62: Design Consultants
+Line  63: Microsoft
+Line  64: DATA CENTER
+Line  65: SPATA GREECE
+Line  66: Contractor Joint Venture
+Line  67: Name
+Line  68: Contractor Project
+Line  69: Contractor Contract
+Line  70: Contractor PM
+Line  71: Contractor BIM Mngr
+Line  72: Contractor Information
+Line  73: Renco Terna
+Line  74: Client
+Line  75: General Notes
+Line  76: Client Project
+Line  77: Client Contract
+Line  78: Client PM
+Line  79: Client BIM Mngr
+Line  80: Primary Client Information
+Line  81: Layout
+Line  82: Revision
+Line  83: Tombazi Chalandri
+Line  84: 15232
+Line  85: Athens Greece
+Line  86: 0800 3262
+Line  87: Agion Theodoron Square Athens
+Line  88: 10561
+Line  89: Athens Greece
+Line  90: Kimithois Agios Dimitrios
+Line  91: 17236
+Line  92: Athens Greece
+Line  93: Purpose Issue
+Line  94: Issue
+Line  95: Name
+Line  96: BUILDERS WORK MEP PENETRATIONS
+Line  97: OFFICE
+Line  98: VAP AH 1030
+Line  99: SCALE
+Line 100: 015 OFFICE ELEVATION MEP PENETRATIONS
+Line 101: SCALE
+Line 102: 015 OFFICE ELEVATION 2 MEP PENETRATIONS
+Line 103: 2
+Line 104: SCALE
+Line 105: 015 OFFICE ELEVATION MEP PENETRATIONS
+Line 106: 1000
+Line 107: SCALE
+Line 108: Date
+Line 109: Description
+Line 110: 07
+Line 111: Issued Approval
+Line 112: VAP
+Line 113: SCALE
+Line 114: 014 MEETING ROOM 2 ELEVATION 4 MEP PENETRATIONS
+Line 115: 4
+
+=== END OF FILTERED TEXT ===
+Total lines: 116

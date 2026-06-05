@@ -1,0 +1,106 @@
+=== FILTERED TEXT FOR: BOQ_List.pdf ===
+
+Line   0: BOQ
+Line   1: CODE
+Line   2: DRAWING
+Line   3: USE
+Line   4: DESCRIPTION
+Line   5: UNITS
+Line   6: PRODUCT NAME
+Line   7: DIMENSIONS
+Line   8: IMAGE
+Line   9: SUPPLIER
+Line  10: ITEM PRICE
+Line  11: 2
+Line  12: 2
+Line  13: MAIDEA GEA SINK
+Line  14: MAIDEA ITALY
+Line  15: Matt Metal PVD
+Line  16: 2
+Line  17: Fantini Aboutwater
+Line  18: Fukasawa
+Line  19: Κυπριώτης
+Line  20: Matt Metal PVD
+Line  21: 2
+Line  22: Fantini Aboutwater
+Line  23: Fukasawa
+Line  24: Κυπριώτης
+Line  25: Matt Metal PVD
+Line  26: Fantini Aboutwater
+Line  27: Fukasawa
+Line  28: Κυπριώτης
+Line  29: FURNISHING
+Line  30: FLAMINIA
+Line  31: GALASSIA
+Line  32: 2
+Line  33: FLAMINIA
+Line  34: GALASSIA
+Line  35: Matt Metal
+Line  36: PVD
+Line  37: BRODWARE
+Line  38: Interior
+Line  39: Exterior
+Line  40: Matt
+Line  41: Metal PVD
+Line  42: 2
+Line  43: Fantini Aboutwater
+Line  44: Aboutwater
+Line  45: Fukasawa
+Line  46: Κυπριώτης
+Line  47: Matt
+Line  48: Metal PVD
+Line  49: Fantini Aboutwater
+Line  50: Aboutwater
+Line  51: Fukasawa
+Line  52: Κυπριώτης
+Line  53: Matt Metal
+Line  54: PVD
+Line  55: Shower Fantini
+Line  56: Aboutwater
+Line  57: Aboutwater
+Line  58: Fukasawa
+Line  59: Κυπριώτης
+Line  60: Matt
+Line  61: Metal PVD
+Line  62: Shower Matt Metal
+Line  63: PVD
+Line  64: Fantini
+Line  65: Aboutwater
+Line  66: Aboutwater
+Line  67: Fukasawa
+Line  68: Κυπριώτης
+Line  69: Built 2
+Line  70: Matt Metal PVD
+Line  71: Built
+Line  72: 2
+Line  73: Fantini
+Line  74: Aboutwater
+Line  75: Aboutwater
+Line  76: Fukasawa
+Line  77: Κυπριώτης
+Line  78: Interior
+Line  79: Exterior
+Line  80: Matt Metal
+Line  81: PVD
+Line  82: 2
+Line  83: Shower Fantini
+Line  84: Aboutwater
+Line  85: Aboutwater
+Line  86: Fukasawa
+Line  87: 45
+Line  88: Κυπριώτης
+Line  89: Interior
+Line  90: Exterior
+Line  91: Built Matt
+Line  92: Metal PVD
+Line  93: 2
+Line  94: Built
+Line  95: Fantini Aboutwater
+Line  96: Aboutwater
+Line  97: Fukasawa
+Line  98: Κυπριώτης
+Line  99: Matt
+Line 100: Metal PVD
+
+=== END OF FILTERED TEXT ===
+Total lines: 101

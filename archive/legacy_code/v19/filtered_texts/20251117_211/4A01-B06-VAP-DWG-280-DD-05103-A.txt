@@ -1,0 +1,99 @@
+=== FILTERED TEXT FOR: 4A01-B06-VAP-DWG-280-DD-05103-A.pdf ===
+
+Line   0: 03101
+Line   1: A
+Line   2: 03101
+Line   3: A
+Line   4: A
+Line   5: A
+Line   6: AUTO
+Line   7: EXIT
+Line   8: AUTO
+Line   9: EXIT
+Line  10: AUTO
+Line  11: EXIT
+Line  12: Απόσταση
+Line  13: Απόσταση
+Line  14: Απόσταση
+Line  15: MEETING
+Line  16: MEETING
+Line  17: MEETING
+Line  18: MEETING
+Line  19: MEETING
+Line  20: MEETING
+Line  21: AUTO
+Line  22: EXIT
+Line  23: AUTO
+Line  24: EXIT
+Line  25: Λήκος
+Line  26: AUTO
+Line  27: EXIT
+Line  28: Σημείωση Πνευματικών Δικαιωμάτων. 2121 1993
+Line  29: ΕΛΛΗΝΙΚΟ
+Line  30: Ρήτρα Περιορισμού Ευθύνης. ΚΑΣ. ΕΛΛΗΝΙΚΟ
+Line  31: ΝΑ ΜΗΝ ΑΛΛΑΧΘΕΙ ΚΛΙΜΑΚΑ ΤΟΥ ΣΧΕΔΙΟΥ.
+Line  32: Copyright Notice. 2121 1993
+Line  33: HELLINIKON
+Line  34: Disclaimer. CENTRAL ARCHAELOGICAL COUNCIL. HELLINIKON
+Line  35: CHANGE SCALE DRAWING.
+Line  36: 03
+Line  37: PROJECT MANAGEMENT CONSULTANT
+Line  38: Project
+Line  39: Originator
+Line  40: Type
+Line  41: Discipline
+Line  42: Stage
+Line  43: Serial Number
+Line  44: Revision
+Line  45: REV.
+Line  46: DATE
+Line  47: ISSUE
+Line  48: DESCRIPTION UPDATE VERSION
+Line  49: ORIGINATED
+Line  50: CHECKED
+Line  51: VERIFIED
+Line  52: LEAD DESIGNER
+Line  53: APPROVED
+Line  54: PMC
+Line  55: STATUS
+Line  56: ΑΝΑΠΤΥΞΗ ΤΟΥ ΜΗΤΡΟΠΟΛΙΤΙΚΟΥ ΠΟΛΟΥ ΕΛΛΗΝΙΚΟΥ ΑΓIOY ΚΟΣΜΑ
+Line  57: DEVELOPMENT METROPOLITAN POLE HELLINIKON AG. KOSMAS
+Line  58: 03
+Line  59: ΕΛΛΗΝΙΚΟ HELLINIKON
+Line  60: Kifisias Avenue Golden Hall
+Line  61: 15123 Marousi
+Line  62: PROJECT MANAGEMENT CONSULTANT DETAILS
+Line  63: SUBCONSULTANT DISCIPLINE
+Line  64: SUBCONSULTANT DISCIPLINE
+Line  65: SUBCONSULTANT DISCIPLINE
+Line  66: SUBCONSULTANT DISCIPLINE
+Line  67: MODEL
+Line  68: HELLINIKON
+Line  69: ΕΣΩΤΕΡΙΚΕΣ ΔΙΑΡΡΥΘΜΙΣΕΙΣ, ΔΙΑΜΟΡΦΩΣΗ ΟΨΕΩΝ ΚΑΙ ΑΛΛΑΓΗ ΧΡΗΣΗΣ
+Line  70: ΔΙΑΤΗΡΟΥΜΕΝΟΥ ΚΤΗΡΙΟΥ ΤΗΣ ΚΤΗΡΙΑΚΗΣ ΕΝΟΤΗΤΑΣ
+Line  71: ΤΟΥ ΜΗΤΡΟΠΟΛΙΤΙΚΟΥ ΠΑΡΚΟΥ ΠΡΑΣΙΝΟΥ ΚΑΙ ΑΝΑΨΥΧΗΣ
+Line  72: ΤΟΥ ΜΗΤΡΟΠΟΛΙΤΙΚΟΥ ΠΟΛΟΥ ΕΛΛΗΝΙΚΟΥ ΑΓ. ΚΟΣΜΑ
+Line  73: ΠΡΩΗΝ ΚΤΗΡΙΟΥ ΚΑΝΟΕ ΚΑΓΙΑΚ
+Line  74: ΠΑΘΗΤΙΚΗ ΠΥΡΟΠΡΟΣΤΑΣΙΑ
+Line  75: 4A01
+Line  76: B06
+Line  77: VAP
+Line  78: 280
+Line  79: DD
+Line  80: DWG
+Line  81: EXT
+Line  82: A
+Line  83: 05103
+Line  84: A
+Line  85: First Issuance Approval
+Line  86: VAP
+Line  87: A
+Line  88: VAP
+Line  89: VAP
+Line  90: ΚΑΤΟΨΗ ΟΡΟΦΟΥ
+Line  91: EXIT
+Line  92: AUTO
+Line  93: A
+
+=== END OF FILTERED TEXT ===
+Total lines: 94

@@ -1,0 +1,148 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-814-0A_-_LOADING_DOCK_SHEET_1_OF_3.pdf ===
+
+Line   0: GL
+Line   1: CEILING LEVEL
+Line   2: LOADING
+Line   3: DOCK
+Line   4: ATH04 00 048
+Line   5: YF
+Line   6: WT
+Line   7: LT MEDITE LINER
+Line   8: CEILING TYPE UNDERSIDE
+Line   9: METAL DECK
+Line  10: VINYL COVED UPSTAND
+Line  11: PREFINISHED STEEL
+Line  12: TRIMOTERM WALLS
+Line  13: PROTECTION BOARD RAL 9010
+Line  14: WHITE
+Line  15: GL
+Line  16: CEILING LEVEL
+Line  17: LOADING
+Line  18: DOCK
+Line  19: ATH04 00 048
+Line  20: YF
+Line  21: ID AD 053
+Line  22: ID AD 054
+Line  23: LT
+Line  24: LT MEDITE LINER
+Line  25: 1525
+Line  26: POWER FLOATED
+Line  27: CONCRETE SEALED
+Line  28: ASHFORD FORMULA SEALER
+Line  29: VINYL COVED UPSTAND
+Line  30: PREFINISHED STEEL
+Line  31: TRIMOTERM WALLS
+Line  32: PROTECTION BOARD RAL 9010
+Line  33: WHITE
+Line  34: CEILING TYPE UNDERSIDE
+Line  35: METAL DECK
+Line  36: TRIMOTERM 1200 PERFORM
+Line  37: COMPOSITE ARCHITECTURAL
+Line  38: FACADE SYSTEM,
+Line  39: HORIZONTALLY LAID
+Line  40: SELECTED RAL COLOUR.
+Line  41: REFER
+Line  42: SPECIFICATIONS DETAILS
+Line  43: WT
+Line  44: LOADING DOCK
+Line  45: ATH04 00 048
+Line  46: ED AD 005
+Line  47: 3000
+Line  48: 2550
+Line  49: 11250
+Line  50: 9200
+Line  51: 6350
+Line  52: YE
+Line  53: YF
+Line  54: POWER FLOATED
+Line  55: CONCRETE SEALED
+Line  56: ASHFORD FORMULA SEALER
+Line  57: 4460
+Line  58: 1978
+Line  59: 2015
+Line  60: 14770
+Line  61: LT
+Line  62: WT
+Line  63: ID AD 053
+Line  64: ID AD 054
+Line  65: ID AD 045
+Line  66: ID AD 046
+Line  67: ED AD 006
+Line  68: 1532
+Line  69: 1050
+Line  70: 1050
+Line  71: 1050
+Line  72: 1050
+Line  73: 1050
+Line  74: WT
+Line  75: LT
+Line  76: 1453
+Line  77: 1280
+Line  78: 768
+Line  79: 2000
+Line  80: 1280
+Line  81: 1280
+Line  82: 1976
+Line  83: 1750
+Line  84: LT
+Line  85: NOTE
+Line  86: WALL TYPE LEGEND REFER DRAWING ATH04 VAP AH
+Line  87: ADMIN
+Line  88: COLO
+Line  89: COLO
+Line  90: TRUE NORTH
+Line  91: Sheet Title Number
+Line  92: Scale
+Line  93: Plan
+Line  94: Design Consultants
+Line  95: Microsoft
+Line  96: DATA CENTER ATH04
+Line  97: SPATA GREECE
+Line  98: Contractor Joint Venture
+Line  99: Name
+Line 100: Contractor Project
+Line 101: Contractor Contract
+Line 102: Contractor PM
+Line 103: Contractor BIM Mngr
+Line 104: Contractor Information
+Line 105: Renco Terna
+Line 106: Client
+Line 107: General Notes
+Line 108: Client Project
+Line 109: Client Contract
+Line 110: Client PM
+Line 111: Client BIM Mngr
+Line 112: Primary Client Information
+Line 113: Layout
+Line 114: Revision
+Line 115: Tombazi Chalandri
+Line 116: 15232
+Line 117: Athens Greece
+Line 118: 0800 3262
+Line 119: Agion Theodoron Square Athens
+Line 120: 10561
+Line 121: Athens Greece
+Line 122: Kimithois Agios Dimitrios
+Line 123: 17236
+Line 124: Athens Greece
+Line 125: Purpose Issue
+Line 126: Issue
+Line 127: Name
+Line 128: LOADING DOCK SHEET
+Line 129: ATH04 VAP AH
+Line 130: SCALE
+Line 131: LOADING DOCK ELEVATION NORTH
+Line 132: SCALE
+Line 133: LOADING DOCK ELEVATION SOUTH
+Line 134: SCALE
+Line 135: LOADING DOCK FLOOR PLAN
+Line 136: 1000
+Line 137: SCALE
+Line 138: Date
+Line 139: Description
+Line 140: 05
+Line 141: Issued Approval
+Line 142: VAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 143

@@ -1,0 +1,107 @@
+=== FILTERED TEXT FOR: ATH1-PWR01-CAP-10720-PLN-4-105-AL-0-T20.pdf ===
+
+Line   0: 2
+Line   1: 2
+Line   2: MAX
+Line   3: 2
+Line   4: 2
+Line   5: 2
+Line   6: ΓΡΑΜΜΗ ΦΥΣΙΚΟΥ ΕΔΑΦΟΥΣ
+Line   7: 4
+Line   8: 2
+Line   9: MAX
+Line  10: ΓΡΑΜΜΗ ΦΥΣΙΚΟΥ ΕΔΑΦΟΥΣ
+Line  11: 2
+Line  12: .00
+Line  13: ΠΕΡΙΓΡΑΦΗ ΥΛΙΚΩΝ
+Line  14: ΛΕΠΤΟΚΟΚΚΟΣ ΣΟΒΑΣ ΘΕΡΜΟΠΡΟΣΟΨΗΣ ΧΡΩΜΑΤΟΣ
+Line  15: ΥΠΟΛΕΥΚΟΥ
+Line  16: 2. ΣΤΕΓΑΣΤΡΟ ΑΠΟ ΣΚΥΡΟΔΕΜΑ ΧΡΩΜΑΤΟΣ ΥΠΟΛΕΥΚΟΥ
+Line  17: ΜΕΤΑΛΛΙΚΟ ΚΟΥΦΩΜΑ RAL 7022 MAT
+Line  18: 4. ΒΙΟΜΗΧΑΝΙΚΟ ΡΟΛΟ RAL 7022 MAT
+Line  19: ΣΤΗΘΑΙΟ ΑΠΟ ΛΕΠΤΟΚΟΚΚΟ ΣΟΒΑ ΧΡΩΜΑΤΟΣ
+Line  20: ΥΠΟΛΕΥΚΟΥ
+Line  21: ΓΥΨΙΝΗ ΚΟΡΝΙΖΑ ΧΡΩΜΑΤΟΣ ΛΕΥΚΟΥ
+Line  22: ΜΕΤΑΛΛΙΚΗ ΥΔΡΟΡΟΗ RAL 7022 MAT
+Line  23: ΜΕΤΑΛΛΙΚΟ ΚΙΓΚΛΙΔΩΜΑ ΓΑΛΒΑΝΙΖΕ RAL 7022 MAT
+Line  24: ΕΞΩΤΕΡΙΚΗ ΚΛΙΜΑΚΑ ΑΠΟ ΕΜΦΑΝΕΣ ΣΚΥΡΟΔΕΜΑ
+Line  25: ΕΞΕΔΡΑ ΦΟΡΤΟΕΚΦΟΡΤΩΣΗΣ ΑΠΟ ΕΜΦΑΝΕΣ
+Line  26: ΣΚΥΡΟΔΕΜΑ
+Line  27: ΜΕΤΑΛΛΙΚΟ ΣΤΟΜΙΟ ΕΞΑΕΡΙΣΜΟΥ ΜΕ ΠΕΡΣΙΔΕΣ
+Line  28: RAL 7022 MAT
+Line  29: Kifissias Avenue
+Line  30: GR 15125, MAROUSSI Greece
+Line  31: 4463 1552
+Line  32: Kifisias 2 Paradisou,
+Line  33: Marousi 15125, Greece
+Line  34: Telephone
+Line  35: Email
+Line  36: TRADE
+Line  37: EPC Contractor Εργολάβος
+Line  38: Issued Μελέτη
+Line  39: Design Phase Φάση Μελέτης
+Line  40: Kifisias 2 Paradisou,
+Line  41: Marousi 15125, Greece
+Line  42: Telephone
+Line  43: Email
+Line  44: DETAILED DESIGN
+Line  45: ΜΕΛΕΤΗ ΕΦΑΡΜΟΓΗΣ
+Line  46: 10720 HV Substation
+Line  47: HERMES
+Line  48: Substation Υποσταθμός Data Center IV
+Line  49: CAP TRADE HV Substation
+Line  50: ORGANDI
+Line  51: Esplanade Miriam Makeba
+Line  52: Gerda Taro
+Line  53: 69100 VILLEURBANNE France
+Line  54: 4 40 00 70
+Line  55: Internet
+Line  56: LOCATION AGIOS LOUKAS MUNICIPALITY PAIANIA,
+Line  57: REGIONAL UNIT EAST ATTICA
+Line  58: ΠΕΡΙΟΧΗ ΑΓΙΟΥ ΛΟΥΚΑ, ΔΗΜΟΣ ΠΑΙΑΝΙΑΣ, ΠΕ ΑΝΑΤΟΛΙΚΗΣ ΑΤΤΙΚΗΣ,
+Line  59: ΠΕΡΙΦΕΡΕΙΑ ΑΤΤΙΚΗΣ
+Line  60: Version
+Line  61: Date
+Line  62: Review
+Line  63: Designer
+Line  64: Auditor
+Line  65: Approver
+Line  66: SCALE
+Line  67: PROJECT
+Line  68: RIBA
+Line  69: TRADE
+Line  70: AUTHOR
+Line  71: LEVEL
+Line  72: CAP TRADE
+Line  73: TYPE
+Line  74: DOC.
+Line  75: VERSION
+Line  76: SITE
+Line  77: MODEL NAME
+Line  78: REFERENCE
+Line  79: FILE NAME
+Line  80: ATH1 CAP 20302 MOD 4 AL ARC BIM GIS
+Line  81: IPTO
+Line  82: Paper Size
+Line  83: ATH1 CAP 10720 PLN 4 AL ΚΤΙΡΙΟ ΥΠΟΣΤΑΘΜΟΥ ΟΨΕΙΣ ΝΟΤΕΙΟΑΝΑΤΟΛΙΚΗ
+Line  84: ΝΟΥΤΕΙΟΔΥΤΙΚΗ CONTROL BUILDING SOUTHWEST SOUTHEAST ELEVATIONS
+Line  85: ΚΤΙΡΙΟ ΥΠΟΣΤΑΘΜΟΥ ΟΨΕΙΣ ΝΟΤΕΙΟΑΝΑΤΟΛΙΚΗ
+Line  86: ΝΟΥΤΕΙΟΔΥΤΙΚΗ CONTROL BUILDING SOUTHWEST
+Line  87: SOUTHEAST ELEVATIONS
+Line  88: 4
+Line  89: 10720
+Line  90: CAP
+Line  91: AL
+Line  92: PLN
+Line  93: ATH1
+Line  94: ΝΟΤΙΟΔΥΤΙΚΗ ΟΨΗ
+Line  95: 2
+Line  96: ΝΟΤΙΟΑΝΑΤΟΛΙΚΗ ΟΨΗ
+Line  97: 07 2025
+Line  98: Υποβολή
+Line  99: IC
+Line 100: NM
+Line 101: NM
+
+=== END OF FILTERED TEXT ===
+Total lines: 102

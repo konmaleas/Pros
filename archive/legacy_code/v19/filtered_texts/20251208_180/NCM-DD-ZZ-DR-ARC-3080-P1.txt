@@ -1,0 +1,154 @@
+=== FILTERED TEXT FOR: NCM-DD-ZZ-DR-ARC-3080-P1.pdf ===
+
+Line   0: ΙΣΟΓΕΙΟ
+Line   1: ΠΡΩΤΟ
+Line   2: ΔΕΥΤΕΡΟ
+Line   3: ΔΩΜΑΤΩΝ ΚΑΙ
+Line   4: ΔΩΜΑΤΩΝ
+Line   5: ΥΔΡΟΦΟΡΟΣ ΟΡΙΖΟΝΤΑΣ
+Line   6: ΜΑΡΓΑ
+Line   7: 01 ARC Level
+Line   8: SHAFT
+Line   9: ΑΠΟΘΗΚΗ ΣΩΣΤΙΚΩΝ
+Line  10: ΑΝΑΣΚΑΦΩΝ
+Line  11: SHAFT
+Line  12: ΠΡΟΘΑΛΑΜΟΣ
+Line  13: ΚΛΙΜΑΚΟΣΤΑΣΙΟΥ
+Line  14: SHAFT
+Line  15: SHAFT
+Line  16: ΑΠΟΘΗΚΗ ΣΩΣΤΙΚΩΝ
+Line  17: ΑΝΑΣΚΑΦΩΝ
+Line  18: ΕΚΘΕΣΕΙΣ
+Line  19: ΕΚΘΕΣΕΙΣ
+Line  20: ΕΚΘΕΣΕΙΣ
+Line  21: ΜΟΝΙΜΗ ΕΚΘΕΣΗ II SEA
+Line  22: ΣΤΑΘΜΕΥΣΗΣ
+Line  23: ΘΕΣΕΙΣ
+Line  24: ΣΤΑΘΜΕΥΣΗΣ
+Line  25: ΘΕΣΕΙΣ
+Line  26: ΔΕΥΤΕΡΟ
+Line  27: ΙΣΟΓΕΙΟΥ
+Line  28: ΠΡΩΤΟ
+Line  29: ΜΟΝΙΜΗ ΕΚΘΕΣΗ II SEA
+Line  30: ΗΜΙΥΠΑΙΘΡΙΟΣ
+Line  31: ΜΟΝΙΜΗ ΕΚΘΕΣΗ II
+Line  32: SEA
+Line  33: ΕΠΙΣΚΕΠΤΩΝ
+Line  34: ΦΥΛΑΚΕΙΟ ΑΙΘΡΙΟΥ
+Line  35: ΑΙΘΡΙΟ ΜΟΥΣΕΙΟΥ
+Line  36: ΕΣΤΙΑΤΟΡΙΟ ΚΑΦΕ
+Line  37: ΕΓΚΑΤΑΣΤΑΣΕΩΝ
+Line  38: ΕΣΤΙΑΤΟΡΙΟ ΚΑΦΕ
+Line  39: ΑΙΘΡΙΟ ΜΟΥΣΕΙΟΥ
+Line  40: ΕΚΘΕΣΕΙΣ
+Line  41: ΦΩΤΟΒΟΛΤΑΪΚΑ ΠΑΝΕΛ
+Line  42: ΜΕΤΑΛΛΙΚΗ ΣΧΑΡΑ ΣΤΗΡΙΞΗΣ
+Line  43: ΜΕΤΑΛΛΙΚΗ ΚΑΤΑΣΚΕΥΗ ΣΤΗΡΙΞΗΣ PANELS
+Line  44: ΟΓΚΟΣ SEA
+Line  45: ΣΤΕΓΑΣΗ FOYER
+Line  46: ΟΓΚΟΣ COSMOS
+Line  47: ΥΠΕΥΘΥΝΟΥ ΕΡΓΟΥ
+Line  48: ΗΜΕΡΟΜΗΝΙΑ
+Line  49: ONOMA ΑΡΧΕΙΟΥ
+Line  50: ΛΕΥΚΩΣΙΑ ΚΥΠΡΟΣ
+Line  51: ΜΕΛΕΤΗ ΕΦΑΡΜΟΓΗΣ DD
+Line  52: ΝΕΟ ΚΥΠΡΙΑΚΟ ΜΟΥΣΕΙΟ
+Line  53: ΗΜΕΡΟΜΗΝΙΑ
+Line  54: ΕΓΚΡΙΘΗΚΕ
+Line  55: ΤΜΗΜΑ
+Line  56: ΗΜΕΡΟΜΗΝΙΑ
+Line  57: ΕΛΕΓΧΘΗΚΕ
+Line  58: ΤΜΗΜΑ
+Line  59: ΤΙΤΛΟΣ
+Line  60: ΥΠΟΒΟΛΗ
+Line  61: ΑΡ.
+Line  62: ΥΠΟΥΡΓΕΙΟ ΜΕΤΑΦΟΡΩΝ, ΕΠΙΚΟΙΝΩΝΙΩΝ ΚΑΙ ΕΡΓΩΝ
+Line  63: ΤΜΗΜΑ ΕΡΓΩΝ
+Line  64: KEY PLAN
+Line  65: ΗΜΕΡΟΜΗΝΙΑ
+Line  66: ΠΕΡΙΕΧΟΜΕΝΟ
+Line  67: ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΜΕΛΕΤΗ
+Line  68: THEONI XANTHI XZA LLC
+Line  69: ΥΠΕΥΘΥΝΟΣ ΕΡΓΟΥ
+Line  70: ΑΡΧΙΤΕΚΤΩΝ ΘΕΩΝΗ ΞΑΝΘΗ
+Line  71: ΑΡΧΙΤΕΚΤΟΝΕΣ
+Line  72: ΜΑΡΓΑΡΙΤΑ ΖΑΚΥΝΘΙΝΟΥ
+Line  73: ΣΥΝΤΟΝΙΣΤΗΣ ΑΡΧIT ΚΗΣ ΜΕΛΕΤΗΣ
+Line  74: ΚΟΣΜΑΣ ΒΑΡΚΑΡΟΛΗΣ
+Line  75: ΑΡΧΙΤΕΚΤΟΝΙΚΑ
+Line  76: YAP
+Line  77: ΣTATIKΑ
+Line  78: RHOMBUS STRUCTURAL ENGINEERS LLC ΣΤ.
+Line  79: PENELIS CONSULTING ENGINEERS SA ΠΕΝΕΛΗΣ
+Line  80: GEORGHIOU ZEMBYLAS PARTNERS
+Line  81: ΜΗΧΑΝΟΛΟΓΙΚA
+Line  82: ΗΛΕΚΤΡΟΛΟΓΙΚA
+Line  83: ΜΟΥΣΕΙΟΛΟΓΙΚA
+Line  84: THETA ACOUSTICS LTD ΝΙΑΟΥΝΑΚΗΣ
+Line  85: ΑΚΟΥΣΤΙΚA
+Line  86: RODITIS PARTNERS
+Line  87: ΕΠΙΜΕΤΡΗΣΗ ΠΟΣΟΤΗΤΩΝ
+Line  88: FLOROS PANTELI ASSOCIATES ΠΑΝΤΕΛΗ
+Line  89: ΥΓΕΙΑ
+Line  90: ΜΟΥΣΕΙΟΓΡΑΦΙΚA
+Line  91: ΘΩΜΑΣ ΤΣΟΥΚΑΛΑΣ
+Line  92: ΦΩΤΙΣΜΟΣ
+Line  93: DECO ASSOCIATES ΕΛ. ΝΤΕΚΩ
+Line  94: ΠΥΡΟΠΡΟΣΤΑΣΙΑ
+Line  95: INT FIRE CYPRUS LTD ΣΠ. ΣΠΥΡΟΥ
+Line  96: ΚΥΚΛΟΦΟΡΙΑΚΑ
+Line  97: DROMOS CONSULTING LTD ΖΕΚΚΟΣ
+Line  98: ΣΗΜΑΝΣΗ
+Line  99: POST SPECTACULAR OFFICE ΓΑΛΙΚΑΣ
+Line 100: ΚΤΗΡΙΟΥ
+Line 101: ARION PLUS
+Line 102: ΕΡΓΑΣΙΑΣ
+Line 103: ΜΕΛΕΤΗΣ
+Line 104: FEREOS LLC ΦΕΡΑΙΟΣ Αναπλ. Υπεύθυνος Οµάδας Έργου
+Line 105: DROMOS CONSULTING LTD ΖΕΚΚΟΣ
+Line 106: ΣΥΜΒΟΥΛΟΙ ΜΕΛΕΤΗΤΕΣ
+Line 107: ΓΕΩΤΕΧΝΙΚΑ
+Line 108: ΜΟΥΣΕΙΑΚΟΣ
+Line 109: XZA
+Line 110: ΒΑΣΙΛΕΙΟΥ
+Line 111: ΕΡΓΑΣΤΗΡΙΑ
+Line 112: ΩΡ
+Line 113: ΑΡΧΙΤΕΚΤΟΝΙΚΗ
+Line 114: ΚΛΙΜΑΚΑ
+Line 115: VAP Σύµβουλος Μελέτης Εφαρµογής
+Line 116: DR ARC
+Line 117: ΚΑΤΑΛΛΗΛΟΤΗΤΑΣ
+Line 118: NCM DD
+Line 119: Engineer Record
+Line 120: GEORGHIOU ZEMBYLAS PARTNERS
+Line 121: ANDREAS EVRIPIDOU CIVIL ENGINEERS
+Line 122: ΣΤΕΡΓΙΟΣ ΓΑΛΙΚΑΣ
+Line 123: ΘΩΜΑΣ ΤΣΟΥΚΑΛΑΣ
+Line 124: ΣΤΕΡΓΙΟΣ ΓΑΛΙΚΑΣ
+Line 125: Συνεργάτης ΤΣΑΜΠΙΚΟΣ ΠΕΤΡΑΣ
+Line 126: POST SPECTACULAR OFFICE ΓΑΛΙΚΑΣ
+Line 127: ΠΡΟΜΕΛΕΤΗ ΣΑΚΕΛΛΑΡΙΟΥ
+Line 128: ΦΥΣΙΚΟΣ ΦΩΤΙΣΜΟΣ
+Line 129: ΤΣΑΓΚΡΑΣΟΥΛΗΣ
+Line 130: ΕΞΟΠΛΙΣΜΟΣ ΚΟΥΖΙΝΑΣ
+Line 131: XENEX
+Line 132: ΕΝΕΡΓΕΙΑΚΑ ΚΕΛΥΦΟΥΣ
+Line 133: METABUILD
+Line 134: ΓΡΑΦΙΣΤΙΚΑ
+Line 135: ΦΥΤΟΤΕΧΝΙΚΑ
+Line 136: LANDCO EΠΕ ΚΑΝΤΑΡΤΖΗΣ
+Line 137: ΦΕΒΡΟΥΑΡΙΟΣ 2021
+Line 138: P1
+Line 139: 02 2021 44
+Line 140: ΤΟΜΕΣ ΘΘ ΑΝΤΙΘΕΤΗ ΖΩΝΗ
+Line 141: 3080
+Line 142: ZZ
+Line 143: ΤΟΜΗ ΘΘ ΖΩΝΗ
+Line 144: ΤΟΜΗ ΘΘ
+Line 145: ΖΩΝΗ
+Line 146: P1
+Line 147: 02 2021
+Line 148: Υποβολή
+
+=== END OF FILTERED TEXT ===
+Total lines: 149

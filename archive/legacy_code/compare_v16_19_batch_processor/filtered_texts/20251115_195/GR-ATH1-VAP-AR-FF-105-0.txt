@@ -1,0 +1,138 @@
+=== FILTERED TEXT FOR: GR-ATH1-VAP-AR-FF-105-0.pdf ===
+
+Line   0: 2
+Line   1: 4
+Line   2: TEL SEC 2
+Line   3: CUSTOMER
+Line   4: STORE ROOM
+Line   5: STAGING AREA
+Line   6: AIR LOCK
+Line   7: MAN
+Line   8: MATERIAL TRAP
+Line   9: MECHANICAL
+Line  10: GALLERY
+Line  11: DATA HALL
+Line  12: 1093
+Line  13: MECHANICAL
+Line  14: GALLERY
+Line  15: AIR LOCK
+Line  16: FF 026
+Line  17: FF 027
+Line  18: FF 028
+Line  19: FF 029
+Line  20: FF 031
+Line  21: FF 033
+Line  22: FF 038
+Line  23: FF 039
+Line  24: FF 040
+Line  25: FF 041
+Line  26: FF 036
+Line  27: CIRCULATION
+Line  28: CIRCULATION
+Line  29: 78
+Line  30: CIRCULATION
+Line  31: CIRCULATION
+Line  32: FF 025
+Line  33: FF 032
+Line  34: FF 042
+Line  35: AR
+Line  36: AR
+Line  37: AR
+Line  38: AR
+Line  39: FF 035
+Line  40: FF 034
+Line  41: FF 004
+Line  42: FF 005
+Line  43: FF 023
+Line  44: FF 016
+Line  45: FF 030
+Line  46: FF 037
+Line  47: FF 043
+Line  48: FF 044
+Line  49: FF 045
+Line  50: FF 046
+Line  51: FF 047
+Line  52: SETBACK
+Line  53: AR
+Line  54: FFL SSL
+Line  55: FFL SSL
+Line  56: FFL SSL
+Line  57: DRAWING SYMBOLS LEGEND
+Line  58: Name
+Line  59: ROOM CODE
+Line  60: ROOM NAME
+Line  61: ROOM AREA
+Line  62: XF XX
+Line  63: DOOR CODE
+Line  64: DOOR SILL
+Line  65: DOOR HEAD
+Line  66: DOOR WIDTH
+Line  67: FFL
+Line  68: FINAL FLOOR LEVEL
+Line  69: AR
+Line  70: DRAWING NUMBER
+Line  71: SHEET NUMBER
+Line  72: AR
+Line  73: DRAWING NUMBER
+Line  74: SHEET NUMBER
+Line  75: BUILDING GRID LINES
+Line  76: RELATIVE HEIGHT ABSOLUTE HEIGHT
+Line  77: SHAFT
+Line  78: SSL
+Line  79: STRUCTURAL SLAB LEVEL
+Line  80: PLANTING
+Line  81: PROJECT NO.
+Line  82: DRAWN
+Line  83: CHECKED
+Line  84: SHEET SIZE
+Line  85: SCALE
+Line  86: SHEET TITLE NUMBER
+Line  87: SEAL
+Line  88: DATA CENTER MEP CONSULTANT
+Line  89: Syska Hennessy Group,
+Line  90: Dubai Internet City, Building Office Dubai, UAE
+Line  91: 4 3810
+Line  92: GENERAL NOTES
+Line  93: CONSULTANT
+Line  94: Ravine Street, Athina Greece
+Line  95: 4
+Line  96: ARCHITECT
+Line  97: Tompazi Chalandri
+Line  98: VAP Architects
+Line  99: STRUCTURAL ENGINEER
+Line 100: NAMA Consulting Engineers Planners SA
+Line 101: Address Perrikou GR 11524 Athens, Greece
+Line 102: KEY PLAN
+Line 103: SCALE DRAWINGS.
+Line 104: DOUBT, REQUEST MORE FURTHER
+Line 105: INFORMATION.
+Line 106: 2. DRAWING READ
+Line 107: CONJUNCTION CONTRACT
+Line 108: CONDITIONS, SPECIFICATIONS,
+Line 109: EQUIPMENT SCHEDULES
+Line 110: ARCHITECTURAL DRAWINGS.
+Line 111: DIMENSIONS MILLIMETER
+Line 112: ELEVATIONS METERS UNNLESS
+Line 113: OTHERWISE SPECIFIED.
+Line 114: 4. COMMUNICATION
+Line 115: SPECIALIZED DISCIPLINES SHOWN
+Line 116: DRAWINGS
+Line 117: CONTRACTOR.
+Line 118: Κοινότητα Σπάτων Λούτσας
+Line 119: Municipal Community Spata Loutsa, Athens, Greece
+Line 120: ATH Data Center
+Line 121: 2 2025 02 04
+Line 122: Autodesk Docs Damac Greece DC Design Greece VAP ARC DC
+Line 123: GR ATH1 VAP AR FF
+Line 124: VAP
+Line 125: General Arrangement Plan FF Technical
+Line 126: Blocks
+Line 127: VAP
+Line 128: REV
+Line 129: DATE
+Line 130: DESCRIPTION
+Line 131: 02 2025
+Line 132: First Issuance Approval
+
+=== END OF FILTERED TEXT ===
+Total lines: 133

@@ -1,0 +1,127 @@
+=== FILTERED TEXT FOR: 1903_OST_A9-526-00.pdf ===
+
+Line   0: 1000
+Line   1: 476
+Line   2: 476
+Line   3: 404
+Line   4: 404
+Line   5: 1075
+Line   6: 472
+Line   7: 1100
+Line   8: ΚΑΘΑΡΟ ΥΨΟΣ ΜΕΛΕΤΗΣ
+Line   9: 1140
+Line  10: 780
+Line  11: 1000
+Line  12: 476
+Line  13: 476
+Line  14: 476
+Line  15: 404
+Line  16: 404
+Line  17: 1800
+Line  18: 465
+Line  19: 1020
+Line  20: 1100
+Line  21: 1880
+Line  22: 1050
+Line  23: ΛΑΓΩΝΙΚΗ ΑΛΜΥΡΑ ΝΟΤΙΑ
+Line  24: ΑΝΤΙΠΑΡΟΣ LAGONIKI ALMYRA
+Line  25: SOUTH ANTIPAROS
+Line  26: RESIDENCES ANTIPAROS
+Line  27: OST LIMITED
+Line  28: ΠΕΡΙΓΡΑΦΗ
+Line  29: DESCRIPTION
+Line  30: ΗΜ ΝΙΑ
+Line  31: REVISION DATE
+Line  32: Νaxou Kifisia, Greece
+Line  33: 4217 6976
+Line  34: ERISMA
+Line  35: Kontou 2 Athens, Greece
+Line  36: 6781 6785
+Line  37: TEKEM CONSULTING ENGINEERS
+Line  38: Epirou Athens, Greece
+Line  39: 3262 3269
+Line  40: Ploutarchou Athens, 75 Greece
+Line  41: 722 4170 722 6355
+Line  42: VALSAMAKIS
+Line  43: Skoufa Athens, 72 Greece
+Line  44: 8642
+Line  45: HELLI PANGALOU
+Line  46: ΚΛΙΜΑΚΑ
+Line  47: SCALE
+Line  48: ΣΧΕΔΙΟ
+Line  49: ΕΡΓΟ
+Line  50: ΕΡΓΟΔΟΤΗΣ
+Line  51: ΗΜΕΡΟΜΗΝΙΑ ΕΚΔΟΣΗΣ
+Line  52: FIRST ISSUE DATE
+Line  53: DETAILED DESIGN
+Line  54: KAT. ΣΧΕΔΙΟΥ
+Line  55: BLD. CATEGORY
+Line  56: ISSUED
+Line  57: ΘΕΣΗ ΕΡΓΟΥ
+Line  58: CONSTR.
+Line  59: APPROVAL
+Line  60: TENDER
+Line  61: STATUS
+Line  62: DRAFT
+Line  63: FINAL
+Line  64: ΑΝΑΘ.
+Line  65: REV.
+Line  66: PROJECT
+Line  67: LOCATION
+Line  68: CLIENT
+Line  69: DRAWING
+Line  70: ΚΗΠΟΤΕΧΝΙΚΗ ΜΕΛΕΤΗ
+Line  71: LANDSCAPE DESIGN
+Line  72: ΜΗΧΑΝΟΛΟΓΙΚΗ ΜΕΛΕΤΗ
+Line  73: MEP ENGINEER
+Line  74: ΣΤΑΤΙΚΗ ΜΕΛΕΤΗ
+Line  75: STRUCTURAL ENGINEER
+Line  76: ΑΡΧΙΤΕΚΤΟΝΑΣ ΕΡΓΟΥ
+Line  77: ARCHITECTURAL DESIGN
+Line  78: ΕΚΤΕΛΕΣΗ ΑΡΧΙΤΕΚΤΟΝΙΚΗΣ
+Line  79: ΜΕΛΕΤΗΣ ΕΠΙΒΛΕΨΗ
+Line  80: EXECUTIVE ARCHITECT
+Line  81: SITE SUPERVISOR
+Line  82: DISCIPLINE
+Line  83: ARC
+Line  84: VAP
+Line  85: ΚΑΤΟΨΗ
+Line  86: ΚΛΙΜΑΚΑ
+Line  87: ΔΙΑΜΗΚΗΣ ΟΨΗ
+Line  88: 2
+Line  89: ΚΛΙΜΑΚΑ
+Line  90: 00
+Line  91: 2020
+Line  92: ΛΕΠΤΟΜΕΡΕΙΑ
+Line  93: 4
+Line  94: ΚΛΙΜΑΚΑ 2
+Line  95: ΕΓΚΑΡΣΙΑ ΟΨΗ
+Line  96: ΚΛΙΜΑΚΑ
+Line  97: 2
+Line  98: WOODWORK
+Line  99: COUNTERTOP
+Line 100: CABINETS
+Line 101: KITCHEN
+Line 102: 4
+Line 103: 2
+Line 104: ΠΑΓΚΟΣ ΑΠΟ ΛΕΥΚΗ ΦΟΡΜΑΪΚΑ ΕΝΔΕΙΚΤΙΚΑ
+Line 105: 2. ΡΑΦΙΑ KAI KOYTIA ΕΣΩΤΕΡΙΚΑ ΝΤΟΥΛΑΠΙΩΝ ΕΡΜΑΡΙΟΥ
+Line 106: ΑΠΟ ΛΕΥΚΗ ΜΕΛΑΜΙΝΗ AGT SOFT TOUCH WHITE
+Line 107: ΦΥΛΛΑ EΡΜΑΡΙOY ΑΠΟ ΛΕΥΚΗ ΜΕΛΑΜΙΝΗ
+Line 108: 4. XOYΦΤΑ ΚΡΥΦΟ ΠΟΜΟΛΟ ΚΑΘ ΟΛΟ ΤΟ ΥΨΟΣ
+Line 109: ΤΩΝ ΦΥΛΛΩΝ ΛΕΠΤΟΜΕΡΕΙΑ ΕΙΝΑΙ ΕΝΔΕΙΚΤΙΚΗ, EΠΙΘΥΜΗΤΗ
+Line 110: ΕΙΝΑΙ ΑΠΟΣΤΑΣΗ ΤΩΝ ΓΙΑ ΝΑ ΑΝΟΙΓΟΥΝ ΤΑ ΦΥΛΛΑ
+Line 111: ΤΑΙΝΙΑ LED ΕΣΩΤΕΡΙΚΑ ΝΤΟΥΛΑΠΙΟΥ
+Line 112: ΘΕΣΗ
+Line 113: ΚΡΥΦΗ ΜΠΑΖΑ ΜΑΧ. ΥΨΟΣ
+Line 114: ΠΡΙΖΑ
+Line 115: ΠΡΙΖΑ
+Line 116: 2
+Line 117: 2
+Line 118: 2
+Line 119: 2
+Line 120: 4
+Line 121: 4
+
+=== END OF FILTERED TEXT ===
+Total lines: 122

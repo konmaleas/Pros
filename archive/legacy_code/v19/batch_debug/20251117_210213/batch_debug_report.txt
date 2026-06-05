@@ -1,0 +1,746 @@
+====================================================================================================
+BATCH DEBUG PROCESSOR - COMPREHENSIVE REPORT
+====================================================================================================
+
+SUMMARY:
+  Total Projects: 44
+  Total Cases: 47
+  Total PDFs: 1225
+  Successful Cases: 47
+  Failed Cases: 0
+  Success Rate: 100.0%
+
+====================================================================================================
+
+PROJECT: 2203 KLM-9
+Path: /media/konstantinos/DATA/PyTests/Submission/Process/2203 KLM-9
+Total PDFs: 7
+Cases: 1 (1 successful, 0 failed)
+----------------------------------------------------------------------------------------------------
+  Case 1: Α-200_ΑΝΟΨΕΙΣ
+    Path: /media/konstantinos/DATA/PyTests/Submission/Process/2203 KLM-9/Α-200_ΑΝΟΨΕΙΣ
+    PDFs: 7
+    Inferred Title: KLM-ARC-A201
+    Status: âœ“ SUCCESS
+    Template File: None
+    Files Analyzed: 7
+    Files with Patterns: 0
+    Processing Time: 4.15s
+
+
+PROJECT: 1301 SNFCC
+Path: /media/konstantinos/DATA/PyTests/Submission/Process/1301 SNFCC
+Total PDFs: 9
+Cases: 1 (1 successful, 0 failed)
+----------------------------------------------------------------------------------------------------
+  Case 1: SUBMIT 21-10-2013
+    Path: /media/konstantinos/DATA/PyTests/Submission/Process/1301 SNFCC/SUBMIT 21-10-2013
+    PDFs: 9
+    Inferred Title: JVIT-COS-10-1-0023-00
+    Status: âœ“ SUCCESS
+    Template File: None
+    Files Analyzed: 9
+    Files with Patterns: 0
+    Processing Time: 8.17s
+
+
+PROJECT: 1601 KAPLANKAYA
+Path: /media/konstantinos/DATA/PyTests/Submission/Process/1601 KAPLANKAYA
+Total PDFs: 22
+Cases: 1 (1 successful, 0 failed)
+----------------------------------------------------------------------------------------------------
+  Case 1: PDF_SUBMISSION 31_03
+    Path: /media/konstantinos/DATA/PyTests/Submission/Process/1601 KAPLANKAYA/PDF_SUBMISSION 31_03
+    PDFs: 22
+    Inferred Title: A0-0000-00
+    Status: âœ“ SUCCESS
+    Template File: None
+    Files Analyzed: 22
+    Files with Patterns: 0
+    Processing Time: 18.69s
+
+
+PROJECT: 1602 TAHLIA WALK
+Path: /media/konstantinos/DATA/PyTests/Submission/Process/1602 TAHLIA WALK
+Total PDFs: 72
+Cases: 2 (2 successful, 0 failed)
+----------------------------------------------------------------------------------------------------
+  Case 1: A3
+    Path: /media/konstantinos/DATA/PyTests/Submission/Process/1602 TAHLIA WALK/A3
+    PDFs: 18
+    Inferred Title: A101-00
+    Status: âœ“ SUCCESS
+    Template File: None
+    Files Analyzed: 18
+    Files with Patterns: 0
+    Processing Time: 13.82s
+
+  Case 2: PDF
+    Path: /media/konstantinos/DATA/PyTests/Submission/Process/1602 TAHLIA WALK/PDF
+    PDFs: 54
+    Inferred Title: VAP-TW-A001-00
+    Status: âœ“ SUCCESS
+    Template File: None
+    Files Analyzed: 54
+    Files with Patterns: 0
+    Processing Time: 36.68s
+
+
+PROJECT: 1603 SNFCC-DAY_2
+Path: /media/konstantinos/DATA/PyTests/Submission/Process/1603 SNFCC-DAY_2
+Total PDFs: 5
+Cases: 1 (1 successful, 0 failed)
+----------------------------------------------------------------------------------------------------
+  Case 1: PDF
+    Path: /media/konstantinos/DATA/PyTests/Submission/Process/1603 SNFCC-DAY_2/PDF
+    PDFs: 5
+    Inferred Title: JVIT-ARC-10-1-3301-D2
+    Status: âœ“ SUCCESS
+    Template File: None
+    Files Analyzed: 5
+    Files with Patterns: 0
+    Processing Time: 8.94s
+
+
+PROJECT: 1605 INTRAKAT HOTEL MYKONOS
+Path: /media/konstantinos/DATA/PyTests/Submission/Process/1605 INTRAKAT HOTEL MYKONOS
+Total PDFs: 75
+Cases: 1 (1 successful, 0 failed)
+----------------------------------------------------------------------------------------------------
+  Case 1: PDF
+    Path: /media/konstantinos/DATA/PyTests/Submission/Process/1605 INTRAKAT HOTEL MYKONOS/PDF
+    PDFs: 75
+    Inferred Title: 1-303-00
+    Status: âœ“ SUCCESS
+    Template File: None
+    Files Analyzed: 75
+    Files with Patterns: 0
+    Processing Time: 48.56s
+
+
+PROJECT: 1701 PORTOHELI
+Path: /media/konstantinos/DATA/PyTests/Submission/Process/1701 PORTOHELI
+Total PDFs: 201
+Cases: 1 (1 successful, 0 failed)
+----------------------------------------------------------------------------------------------------
+  Case 1: PDF
+    Path: /media/konstantinos/DATA/PyTests/Submission/Process/1701 PORTOHELI/PDF
+    PDFs: 201
+    Inferred Title: A001-00
+    Status: âœ“ SUCCESS
+    Template File: None
+    Files Analyzed: 201
+    Files with Patterns: 0
+    Processing Time: 202.26s
+
+
+PROJECT: 1702 XRHMATISTHRIO
+Path: /media/konstantinos/DATA/PyTests/Submission/Process/1702 XRHMATISTHRIO
+Total PDFs: 13
+Cases: 1 (1 successful, 0 failed)
+----------------------------------------------------------------------------------------------------
+  Case 1: PDF
+    Path: /media/konstantinos/DATA/PyTests/Submission/Process/1702 XRHMATISTHRIO/PDF
+    PDFs: 13
+    Inferred Title: YF01
+    Status: âœ“ SUCCESS
+    Template File: None
+    Files Analyzed: 13
+    Files with Patterns: 0
+    Processing Time: 9.50s
+
+
+PROJECT: 1707 ΔΗΜΑΡΧΕΙΟ ΧΑΛΑΝΔΡΙΟΥ
+Path: /media/konstantinos/DATA/PyTests/Submission/Process/1707 ΔΗΜΑΡΧΕΙΟ ΧΑΛΑΝΔΡΙΟΥ
+Total PDFs: 19
+Cases: 1 (1 successful, 0 failed)
+----------------------------------------------------------------------------------------------------
+  Case 1: PDF
+    Path: /media/konstantinos/DATA/PyTests/Submission/Process/1707 ΔΗΜΑΡΧΕΙΟ ΧΑΛΑΝΔΡΙΟΥ/PDF
+    PDFs: 19
+    Inferred Title: 1707-A701-00
+    Status: âœ“ SUCCESS
+    Template File: None
+    Files Analyzed: 19
+    Files with Patterns: 0
+    Processing Time: 16.24s
+
+
+PROJECT: 1708 PORTOHELI-II
+Path: /media/konstantinos/DATA/PyTests/Submission/Process/1708 PORTOHELI-II
+Total PDFs: 16
+Cases: 1 (1 successful, 0 failed)
+----------------------------------------------------------------------------------------------------
+  Case 1: 1708_PORTOHELI_II_PDF_OM
+    Path: /media/konstantinos/DATA/PyTests/Submission/Process/1708 PORTOHELI-II/1708_PORTOHELI_II_PDF_OM
+    PDFs: 16
+    Inferred Title: 101
+    Status: âœ“ SUCCESS
+    Template File: None
+    Files Analyzed: 16
+    Files with Patterns: 0
+    Processing Time: 12.79s
+
+
+PROJECT: 1802 SNFCC-BP_93-2017_REV
+Path: /media/konstantinos/DATA/PyTests/Submission/Process/1802 SNFCC-BP_93-2017_REV
+Total PDFs: 10
+Cases: 1 (1 successful, 0 failed)
+----------------------------------------------------------------------------------------------------
+  Case 1: ΑΝΑΘΕΩΡΗΣΗ ΑΔΕΙΑΣ ΔΟΜΗΣΗΣ
+    Path: /media/konstantinos/DATA/PyTests/Submission/Process/1802 SNFCC-BP_93-2017_REV/ΑΝΑΘΕΩΡΗΣΗ ΑΔΕΙΑΣ ΔΟΜΗΣΗΣ
+    PDFs: 10
+    Inferred Title: JVIT-ARC-00-0-0011-02-REV02
+    Status: âœ“ SUCCESS
+    Template File: None
+    Files Analyzed: 10
+    Files with Patterns: 0
+    Processing Time: 22.15s
+
+
+PROJECT: 1902 CST
+Path: /media/konstantinos/DATA/PyTests/Submission/Process/1902 CST
+Total PDFs: 32
+Cases: 1 (1 successful, 0 failed)
+----------------------------------------------------------------------------------------------------
+  Case 1: PDF
+    Path: /media/konstantinos/DATA/PyTests/Submission/Process/1902 CST/PDF
+    PDFs: 32
+    Inferred Title: 1902-CST-A9-501-00
+    Status: âœ“ SUCCESS
+    Template File: None
+    Files Analyzed: 32
+    Files with Patterns: 0
+    Processing Time: 21.23s
+
+
+PROJECT: 1903 OST
+Path: /media/konstantinos/DATA/PyTests/Submission/Process/1903 OST
+Total PDFs: 7
+Cases: 1 (1 successful, 0 failed)
+----------------------------------------------------------------------------------------------------
+  Case 1: PDF
+    Path: /media/konstantinos/DATA/PyTests/Submission/Process/1903 OST/PDF
+    PDFs: 7
+    Inferred Title: 1903-OST-A9-524-00
+    Status: âœ“ SUCCESS
+    Template File: None
+    Files Analyzed: 7
+    Files with Patterns: 0
+    Processing Time: 5.08s
+
+
+PROJECT: 1904 AGMT
+Path: /media/konstantinos/DATA/PyTests/Submission/Process/1904 AGMT
+Total PDFs: 7
+Cases: 1 (1 successful, 0 failed)
+----------------------------------------------------------------------------------------------------
+  Case 1: PDF
+    Path: /media/konstantinos/DATA/PyTests/Submission/Process/1904 AGMT/PDF
+    PDFs: 7
+    Inferred Title: 1904-AGMT-A9-426-00
+    Status: âœ“ SUCCESS
+    Template File: None
+    Files Analyzed: 7
+    Files with Patterns: 0
+    Processing Time: 4.53s
+
+
+PROJECT: 1906 AVL5
+Path: /media/konstantinos/DATA/PyTests/Submission/Process/1906 AVL5
+Total PDFs: 13
+Cases: 1 (1 successful, 0 failed)
+----------------------------------------------------------------------------------------------------
+  Case 1: PDF
+    Path: /media/konstantinos/DATA/PyTests/Submission/Process/1906 AVL5/PDF
+    PDFs: 13
+    Inferred Title: 1906-AVL5-VAP-ARC-A9-132-3
+    Status: âœ“ SUCCESS
+    Template File: None
+    Files Analyzed: 13
+    Files with Patterns: 0
+    Processing Time: 9.39s
+
+
+PROJECT: 1907 PEN4
+Path: /media/konstantinos/DATA/PyTests/Submission/Process/1907 PEN4
+Total PDFs: 7
+Cases: 1 (1 successful, 0 failed)
+----------------------------------------------------------------------------------------------------
+  Case 1: SIGNED
+    Path: /media/konstantinos/DATA/PyTests/Submission/Process/1907 PEN4/SIGNED
+    PDFs: 7
+    Inferred Title: PEN-IV-A101
+    Status: âœ“ SUCCESS
+    Template File: None
+    Files Analyzed: 7
+    Files with Patterns: 0
+    Processing Time: 4.48s
+
+
+PROJECT: 1910 CYPRUS MUSEUM
+Path: /media/konstantinos/DATA/PyTests/Submission/Process/1910 CYPRUS MUSEUM
+Total PDFs: 16
+Cases: 1 (1 successful, 0 failed)
+----------------------------------------------------------------------------------------------------
+  Case 1: PDF new
+    Path: /media/konstantinos/DATA/PyTests/Submission/Process/1910 CYPRUS MUSEUM/PDF new
+    PDFs: 16
+    Inferred Title: NCM-DD-ZZ-DR-ARC-3011-P4
+    Status: âœ“ SUCCESS
+    Template File: None
+    Files Analyzed: 16
+    Files with Patterns: 0
+    Processing Time: 44.40s
+
+
+PROJECT: 2001 HELLINIKON_SITE_MGMT
+Path: /media/konstantinos/DATA/PyTests/Submission/Process/2001 HELLINIKON_SITE_MGMT
+Total PDFs: 3
+Cases: 1 (1 successful, 0 failed)
+----------------------------------------------------------------------------------------------------
+  Case 1: ΥΠΟΓΕΙΟΠΟΙΗΣΗ ΠΟΣΕΙΔΩΝΟΣ
+    Path: /media/konstantinos/DATA/PyTests/Submission/Process/2001 HELLINIKON_SITE_MGMT/ΥΠΟΓΕΙΟΠΟΙΗΣΗ ΠΟΣΕΙΔΩΝΟΣ
+    PDFs: 3
+    Inferred Title: 02-CIV-GEN-301-L-001-02
+    Status: âœ“ SUCCESS
+    Template File: None
+    Files Analyzed: 3
+    Files with Patterns: 0
+    Processing Time: 2.91s
+
+
+PROJECT: 2101 TERNA_M-TR
+Path: /media/konstantinos/DATA/PyTests/Submission/Process/2101 TERNA_M-TR
+Total PDFs: 6
+Cases: 1 (1 successful, 0 failed)
+----------------------------------------------------------------------------------------------------
+  Case 1: PDF
+    Path: /media/konstantinos/DATA/PyTests/Submission/Process/2101 TERNA_M-TR/PDF
+    PDFs: 6
+    Inferred Title: TRN-MTR-VAP-A-301-01
+    Status: âœ“ SUCCESS
+    Template File: None
+    Files Analyzed: 6
+    Files with Patterns: 0
+    Processing Time: 4.64s
+
+
+PROJECT: 2103 ΧΡΥΣΑΝΘΕΜΩΝ
+Path: /media/konstantinos/DATA/PyTests/Submission/Process/2103 ΧΡΥΣΑΝΘΕΜΩΝ
+Total PDFs: 4
+Cases: 1 (1 successful, 0 failed)
+----------------------------------------------------------------------------------------------------
+  Case 1: ΤΟΜΕΣ
+    Path: /media/konstantinos/DATA/PyTests/Submission/Process/2103 ΧΡΥΣΑΝΘΕΜΩΝ/ΤΟΜΕΣ
+    PDFs: 4
+    Inferred Title: 2103-CHR-ARC-301
+    Status: âœ“ SUCCESS
+    Template File: None
+    Files Analyzed: 4
+    Files with Patterns: 0
+    Processing Time: 3.68s
+
+
+PROJECT: 2106 SNFCC_RESTAURANT_BP-REV
+Path: /media/konstantinos/DATA/PyTests/Submission/Process/2106 SNFCC_RESTAURANT_BP-REV
+Total PDFs: 13
+Cases: 1 (1 successful, 0 failed)
+----------------------------------------------------------------------------------------------------
+  Case 1: ΥΔΡΕΥΣΗ
+    Path: /media/konstantinos/DATA/PyTests/Submission/Process/2106 SNFCC_RESTAURANT_BP-REV/ΥΔΡΕΥΣΗ
+    PDFs: 13
+    Inferred Title: JVIT-MWE-60-1-0001-02
+    Status: âœ“ SUCCESS
+    Template File: None
+    Files Analyzed: 13
+    Files with Patterns: 0
+    Processing Time: 15.61s
+
+
+PROJECT: 2107 HEL_SEAFRONT_VL-PLOT_1.2.4
+Path: /media/konstantinos/DATA/PyTests/Submission/Process/2107 HEL_SEAFRONT_VL-PLOT_1.2.4
+Total PDFs: 12
+Cases: 1 (1 successful, 0 failed)
+----------------------------------------------------------------------------------------------------
+  Case 1: PDF
+    Path: /media/konstantinos/DATA/PyTests/Submission/Process/2107 HEL_SEAFRONT_VL-PLOT_1.2.4/PDF
+    PDFs: 12
+    Inferred Title: 4062-124-ATA-DWG-234-DD-00801-A
+    Status: âœ“ SUCCESS
+    Template File: None
+    Files Analyzed: 12
+    Files with Patterns: 0
+    Processing Time: 19.95s
+
+
+PROJECT: 2108 ATH3-DATA_CENTER
+Path: /media/konstantinos/DATA/PyTests/Submission/Process/2108 ATH3-DATA_CENTER
+Total PDFs: 8
+Cases: 1 (1 successful, 0 failed)
+----------------------------------------------------------------------------------------------------
+  Case 1: PDF
+    Path: /media/konstantinos/DATA/PyTests/Submission/Process/2108 ATH3-DATA_CENTER/PDF
+    PDFs: 8
+    Inferred Title: GR-ATH3-Z-ZZ-MYT-DD-A-45000
+    Status: âœ“ SUCCESS
+    Template File: None
+    Files Analyzed: 8
+    Files with Patterns: 0
+    Processing Time: 7.24s
+
+
+PROJECT: 2110 BIG AU1.5
+Path: /media/konstantinos/DATA/PyTests/Submission/Process/2110 BIG AU1.5
+Total PDFs: 4
+Cases: 1 (1 successful, 0 failed)
+----------------------------------------------------------------------------------------------------
+  Case 1: PDF
+    Path: /media/konstantinos/DATA/PyTests/Submission/Process/2110 BIG AU1.5/PDF
+    PDFs: 4
+    Inferred Title: 4005-RES-BIG-234-CO-00102
+    Status: âœ“ SUCCESS
+    Template File: None
+    Files Analyzed: 4
+    Files with Patterns: 0
+    Processing Time: 3.78s
+
+
+PROJECT: 2202 AMANZOE_V23
+Path: /media/konstantinos/DATA/PyTests/Submission/Process/2202 AMANZOE_V23
+Total PDFs: 6
+Cases: 1 (1 successful, 0 failed)
+----------------------------------------------------------------------------------------------------
+  Case 1: PDFs
+    Path: /media/konstantinos/DATA/PyTests/Submission/Process/2202 AMANZOE_V23/PDFs
+    PDFs: 6
+    Inferred Title: HELMOOB-23-PW-001-A
+    Status: âœ“ SUCCESS
+    Template File: None
+    Files Analyzed: 6
+    Files with Patterns: 0
+    Processing Time: 5.53s
+
+
+PROJECT: 2206 BLP TEMES
+Path: /media/konstantinos/DATA/PyTests/Submission/Process/2206 BLP TEMES
+Total PDFs: 59
+Cases: 3 (3 successful, 0 failed)
+----------------------------------------------------------------------------------------------------
+  Case 1: B05
+    Path: /media/konstantinos/DATA/PyTests/Submission/Process/2206 BLP TEMES/B05
+    PDFs: 4
+    Inferred Title: BLP-VAP-ARC-TD-A-B05-1-0011
+    Status: âœ“ SUCCESS
+    Template File: None
+    Files Analyzed: 4
+    Files with Patterns: 0
+    Processing Time: 5.39s
+
+  Case 2: DETAILS
+    Path: /media/konstantinos/DATA/PyTests/Submission/Process/2206 BLP TEMES/DETAILS
+    PDFs: 6
+    Inferred Title: 271-BD01-Lighting-Details-REV01
+    Status: âœ“ SUCCESS
+    Template File: None
+    Files Analyzed: 6
+    Files with Patterns: 0
+    Processing Time: 3.31s
+
+  Case 3: DRAWINGS
+    Path: /media/konstantinos/DATA/PyTests/Submission/Process/2206 BLP TEMES/DRAWINGS
+    PDFs: 49
+    Inferred Title: 381-KST-CD-A-B-9A-101-00
+    Status: âœ“ SUCCESS
+    Template File: None
+    Files Analyzed: 49
+    Files with Patterns: 0
+    Processing Time: 39.89s
+
+
+PROJECT: 2208 AVAX-SITE_OFFICES
+Path: /media/konstantinos/DATA/PyTests/Submission/Process/2208 AVAX-SITE_OFFICES
+Total PDFs: 31
+Cases: 1 (1 successful, 0 failed)
+----------------------------------------------------------------------------------------------------
+  Case 1: PDF
+    Path: /media/konstantinos/DATA/PyTests/Submission/Process/2208 AVAX-SITE_OFFICES/PDF
+    PDFs: 31
+    Inferred Title: ARC-SO-A1-101-00
+    Status: âœ“ SUCCESS
+    Template File: None
+    Files Analyzed: 31
+    Files with Patterns: 0
+    Processing Time: 49.28s
+
+
+PROJECT: 2211 HELLINIKON-AU1.5
+Path: /media/konstantinos/DATA/PyTests/Submission/Process/2211 HELLINIKON-AU1.5
+Total PDFs: 15
+Cases: 1 (1 successful, 0 failed)
+----------------------------------------------------------------------------------------------------
+  Case 1: ZIP PERMIT
+    Path: /media/konstantinos/DATA/PyTests/Submission/Process/2211 HELLINIKON-AU1.5/ZIP PERMIT
+    PDFs: 15
+    Inferred Title: 4005-RES-VAP-DWG-234-DD-02301-D
+    Status: âœ“ SUCCESS
+    Template File: None
+    Files Analyzed: 15
+    Files with Patterns: 0
+    Processing Time: 13.39s
+
+
+PROJECT: 2213 AMANZOE_V24
+Path: /media/konstantinos/DATA/PyTests/Submission/Process/2213 AMANZOE_V24
+Total PDFs: 9
+Cases: 1 (1 successful, 0 failed)
+----------------------------------------------------------------------------------------------------
+  Case 1: S
+    Path: /media/konstantinos/DATA/PyTests/Submission/Process/2213 AMANZOE_V24/S
+    PDFs: 9
+    Inferred Title: HELMOOB-24-DD-VAP-ARC-A9-800-HARDSCAPE-STAIRS-DETAILS-A9-804
+    Status: âœ“ SUCCESS
+    Template File: None
+    Files Analyzed: 9
+    Files with Patterns: 0
+    Processing Time: 4.04s
+
+
+PROJECT: 2302 ATH4-DATA_CENTER
+Path: /media/konstantinos/DATA/PyTests/Submission/Process/2302 ATH4-DATA_CENTER
+Total PDFs: 2
+Cases: 1 (1 successful, 0 failed)
+----------------------------------------------------------------------------------------------------
+  Case 1: 20230804_ FLOOR PLANS 43000
+    Path: /media/konstantinos/DATA/PyTests/Submission/Process/2302 ATH4-DATA_CENTER/20230804_ FLOOR PLANS 43000
+    PDFs: 2
+    Inferred Title: GR-ATH4-Z-L1-MYT-DR-A-43000
+    Status: âœ“ SUCCESS
+    Template File: None
+    Files Analyzed: 2
+    Files with Patterns: 0
+    Processing Time: 1.14s
+
+
+PROJECT: 2303 ELLINIKON_B6-PARK_ADMIN
+Path: /media/konstantinos/DATA/PyTests/Submission/Process/2303 ELLINIKON_B6-PARK_ADMIN
+Total PDFs: 7
+Cases: 1 (1 successful, 0 failed)
+----------------------------------------------------------------------------------------------------
+  Case 1: PDF
+    Path: /media/konstantinos/DATA/PyTests/Submission/Process/2303 ELLINIKON_B6-PARK_ADMIN/PDF
+    PDFs: 7
+    Inferred Title: 4A01-B06-VAP-DWG-280-DD-05101-A
+    Status: âœ“ SUCCESS
+    Template File: None
+    Files Analyzed: 7
+    Files with Patterns: 0
+    Processing Time: 8.81s
+
+
+PROJECT: 2305 AMANZOE_V23-R
+Path: /media/konstantinos/DATA/PyTests/Submission/Process/2305 AMANZOE_V23-R
+Total PDFs: 13
+Cases: 1 (1 successful, 0 failed)
+----------------------------------------------------------------------------------------------------
+  Case 1: 02 Μελέτη Ενεργειακής Απόδοσης Κτιρίου
+    Path: /media/konstantinos/DATA/PyTests/Submission/Process/2305 AMANZOE_V23-R/02 Μελέτη Ενεργειακής Απόδοσης Κτιρίου
+    PDFs: 13
+    Inferred Title: HELMOOB-23-KNK-001-A
+    Status: âœ“ SUCCESS
+    Template File: None
+    Files Analyzed: 13
+    Files with Patterns: 0
+    Processing Time: 8.21s
+
+
+PROJECT: 2306 AMANZOE_V07
+Path: /media/konstantinos/DATA/PyTests/Submission/Process/2306 AMANZOE_V07
+Total PDFs: 6
+Cases: 1 (1 successful, 0 failed)
+----------------------------------------------------------------------------------------------------
+  Case 1: V07_PDF
+    Path: /media/konstantinos/DATA/PyTests/Submission/Process/2306 AMANZOE_V07/V07_PDF
+    PDFs: 6
+    Inferred Title: HELMOOB-TK07-DD-VAP-A1-302-SEC-G01-G02
+    Status: âœ“ SUCCESS
+    Template File: None
+    Files Analyzed: 6
+    Files with Patterns: 0
+    Processing Time: 5.11s
+
+
+PROJECT: 2307 ERIGON-KAPREZA
+Path: /media/konstantinos/DATA/PyTests/Submission/Process/2307 ERIGON-KAPREZA
+Total PDFs: 7
+Cases: 1 (1 successful, 0 failed)
+----------------------------------------------------------------------------------------------------
+  Case 1: DRAWINGS
+    Path: /media/konstantinos/DATA/PyTests/Submission/Process/2307 ERIGON-KAPREZA/DRAWINGS
+    PDFs: 7
+    Inferred Title: 2307-ERIGON-VAP-ARCH-101-COVERAGE-DIAGRAM
+    Status: âœ“ SUCCESS
+    Template File: None
+    Files Analyzed: 7
+    Files with Patterns: 0
+    Processing Time: 5.83s
+
+
+PROJECT: 2401 PHAEA-SOUTH_CRETE
+Path: /media/konstantinos/DATA/PyTests/Submission/Process/2401 PHAEA-SOUTH_CRETE
+Total PDFs: 6
+Cases: 1 (1 successful, 0 failed)
+----------------------------------------------------------------------------------------------------
+  Case 1: PDF
+    Path: /media/konstantinos/DATA/PyTests/Submission/Process/2401 PHAEA-SOUTH_CRETE/PDF
+    PDFs: 6
+    Inferred Title: 425-KST-CD-DWG-A10-101-00
+    Status: âœ“ SUCCESS
+    Template File: None
+    Files Analyzed: 6
+    Files with Patterns: 0
+    Processing Time: 4.59s
+
+
+PROJECT: 2403 PORTOHELI_VEENA _109DEGREES
+Path: /media/konstantinos/DATA/PyTests/Submission/Process/2403 PORTOHELI_VEENA _109DEGREES
+Total PDFs: 10
+Cases: 1 (1 successful, 0 failed)
+----------------------------------------------------------------------------------------------------
+  Case 1: 02PDF
+    Path: /media/konstantinos/DATA/PyTests/Submission/Process/2403 PORTOHELI_VEENA _109DEGREES/02PDF
+    PDFs: 10
+    Inferred Title: PR1325-TOR-DRW-FRW-04-01-1-1
+    Status: âœ“ SUCCESS
+    Template File: None
+    Files Analyzed: 10
+    Files with Patterns: 0
+    Processing Time: 8.75s
+
+
+PROJECT: 2404 -DATA4-ATH01-DC01
+Path: /media/konstantinos/DATA/PyTests/Submission/Process/2404 -DATA4-ATH01-DC01
+Total PDFs: 8
+Cases: 1 (1 successful, 0 failed)
+----------------------------------------------------------------------------------------------------
+  Case 1: PDF
+    Path: /media/konstantinos/DATA/PyTests/Submission/Process/2404 -DATA4-ATH01-DC01/PDF
+    PDFs: 8
+    Inferred Title: ATH1-PWR01-CAP-10720-PLN-4-103-TT-0-T20
+    Status: âœ“ SUCCESS
+    Template File: None
+    Files Analyzed: 8
+    Files with Patterns: 0
+    Processing Time: 5.70s
+
+
+PROJECT: 2405 DIONYSIOY AREOPAGHTOY
+Path: /media/konstantinos/DATA/PyTests/Submission/Process/2405 DIONYSIOY AREOPAGHTOY
+Total PDFs: 5
+Cases: 1 (1 successful, 0 failed)
+----------------------------------------------------------------------------------------------------
+  Case 1: PDF
+    Path: /media/konstantinos/DATA/PyTests/Submission/Process/2405 DIONYSIOY AREOPAGHTOY/PDF
+    PDFs: 5
+    Inferred Title: Areopagitou-01
+    Status: âœ“ SUCCESS
+    Template File: None
+    Files Analyzed: 5
+    Files with Patterns: 0
+    Processing Time: 3.29s
+
+
+PROJECT: 2406 DAMAC-ATH1
+Path: /media/konstantinos/DATA/PyTests/Submission/Process/2406 DAMAC-ATH1
+Total PDFs: 13
+Cases: 1 (1 successful, 0 failed)
+----------------------------------------------------------------------------------------------------
+  Case 1: 01
+    Path: /media/konstantinos/DATA/PyTests/Submission/Process/2406 DAMAC-ATH1/01
+    PDFs: 13
+    Inferred Title: GR-ATH1-VAP-AR-001-0
+    Status: âœ“ SUCCESS
+    Template File: None
+    Files Analyzed: 13
+    Files with Patterns: 0
+    Processing Time: 9.94s
+
+
+PROJECT: 2407 ΤΣΕΠΕΛΟΒΟ-ΧΑΓΙΑΤΙ
+Path: /media/konstantinos/DATA/PyTests/Submission/Process/2407 ΤΣΕΠΕΛΟΒΟ-ΧΑΓΙΑΤΙ
+Total PDFs: 5
+Cases: 1 (1 successful, 0 failed)
+----------------------------------------------------------------------------------------------------
+  Case 1: 20241218_ORISTIKH-MK
+    Path: /media/konstantinos/DATA/PyTests/Submission/Process/2407 ΤΣΕΠΕΛΟΒΟ-ΧΑΓΙΑΤΙ/20241218_ORISTIKH-MK
+    PDFs: 5
+    Inferred Title: HYT-VAP-ARC-PD-DP-A100-B-YPOGEIO
+    Status: âœ“ SUCCESS
+    Template File: None
+    Files Analyzed: 5
+    Files with Patterns: 0
+    Processing Time: 3.03s
+
+
+PROJECT: 2409 AIA-EXTENSION
+Path: /media/konstantinos/DATA/PyTests/Submission/Process/2409 AIA-EXTENSION
+Total PDFs: 9
+Cases: 1 (1 successful, 0 failed)
+----------------------------------------------------------------------------------------------------
+  Case 1: 20241213_SUBMISSION
+    Path: /media/konstantinos/DATA/PyTests/Submission/Process/2409 AIA-EXTENSION/20241213_SUBMISSION
+    PDFs: 9
+    Inferred Title: AEP-ANM-002-0910-DRW-AR-PDGA0501
+    Status: âœ“ SUCCESS
+    Template File: None
+    Files Analyzed: 9
+    Files with Patterns: 0
+    Processing Time: 7.19s
+
+
+PROJECT: 2410 MICROSOFT-DC_ATH04
+Path: /media/konstantinos/DATA/PyTests/Submission/Process/2410 MICROSOFT-DC_ATH04
+Total PDFs: 415
+Cases: 1 (1 successful, 0 failed)
+----------------------------------------------------------------------------------------------------
+  Case 1: PDF
+    Path: /media/konstantinos/DATA/PyTests/Submission/Process/2410 MICROSOFT-DC_ATH04/PDF
+    PDFs: 415
+    Inferred Title: ATH04-VAP-AH-301-A-ADMIN-REFLECTED-CEILING-PLAN
+    Status: âœ“ SUCCESS
+    Template File: None
+    Files Analyzed: 415
+    Files with Patterns: 0
+    Processing Time: 409.82s
+
+
+PROJECT: 2501 AG.NIKOLAOS-DC
+Path: /media/konstantinos/DATA/PyTests/Submission/Process/2501 AG.NIKOLAOS-DC
+Total PDFs: 7
+Cases: 1 (1 successful, 0 failed)
+----------------------------------------------------------------------------------------------------
+  Case 1: PDF
+    Path: /media/konstantinos/DATA/PyTests/Submission/Process/2501 AG.NIKOLAOS-DC/PDF
+    PDFs: 7
+    Inferred Title: S2805-AGN-VAP-ARC-PD-100
+    Status: âœ“ SUCCESS
+    Template File: None
+    Files Analyzed: 7
+    Files with Patterns: 0
+    Processing Time: 6.59s
+
+
+PROJECT: 2502 DATA4-DC02+DC03
+Path: /media/konstantinos/DATA/PyTests/Submission/Process/2502 DATA4-DC02+DC03
+Total PDFs: 11
+Cases: 1 (1 successful, 0 failed)
+----------------------------------------------------------------------------------------------------
+  Case 1: PDF
+    Path: /media/konstantinos/DATA/PyTests/Submission/Process/2502 DATA4-DC02+DC03/PDF
+    PDFs: 11
+    Inferred Title: ATH1-DC02-CAP-20302-PLN-2-001-AL-00-T00-4-GENERAL-MASTERPLAN
+    Status: âœ“ SUCCESS
+    Template File: None
+    Files Analyzed: 11
+    Files with Patterns: 0
+    Processing Time: 6.90s

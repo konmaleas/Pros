@@ -1,0 +1,96 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-1091-0A_BUILDERS_WORK_MEP_PENETRATIONS_ON_ROOF_-_ADMIN_ROOF_SHEET_2_OF_2.pdf ===
+
+Line   0: 1095
+Line   1: YD
+Line   2: YE
+Line   3: YF
+Line   4: MP AD
+Line   5: MP AD
+Line   6: MP AD 08
+Line   7: MP AD 04
+Line   8: MP AD
+Line   9: MP AD 05
+Line  10: MP AD 02
+Line  11: MP AD 06
+Line  12: MP AD 07
+Line  13: MP AD 01
+Line  14: MEP HOLES ROOF
+Line  15: 2920
+Line  16: 3415
+Line  17: 2495
+Line  18: 1445
+Line  19: 4335
+Line  20: 1895
+Line  21: 2825
+Line  22: 1280
+Line  23: 485
+Line  24: 2895
+Line  25: 1480
+Line  26: MEP PENETRATIONS CODE
+Line  27: MP AD XXX XX
+Line  28: MP
+Line  29: MEP PENETRATIONS
+Line  30: AD
+Line  31: BUILDING CODE
+Line  32: XXX
+Line  33: ROOM NUMBER
+Line  34: XX
+Line  35: PENETRATION NUMBER
+Line  36: ADMIN
+Line  37: COLO
+Line  38: COLO 2
+Line  39: 2
+Line  40: 4
+Line  41: 2
+Line  42: 4
+Line  43: TRUE NORTH
+Line  44: Sheet Title Number
+Line  45: Scale
+Line  46: Plan
+Line  47: Design Consultants
+Line  48: Microsoft
+Line  49: DATA CENTER
+Line  50: SPATA GREECE
+Line  51: Contractor Joint Venture
+Line  52: Name
+Line  53: Contractor Project
+Line  54: Contractor Contract
+Line  55: Contractor PM
+Line  56: Contractor BIM Mngr
+Line  57: Contractor Information
+Line  58: Renco Terna
+Line  59: Client
+Line  60: General Notes
+Line  61: Client Project
+Line  62: Client Contract
+Line  63: Client PM
+Line  64: Client BIM Mngr
+Line  65: Primary Client Information
+Line  66: Layout
+Line  67: Revision
+Line  68: Tombazi Chalandri
+Line  69: 15232
+Line  70: Athens Greece
+Line  71: 0800 3262
+Line  72: Agion Theodoron Square Athens
+Line  73: 10561
+Line  74: Athens Greece
+Line  75: Kimithois Agios Dimitrios
+Line  76: 17236
+Line  77: Athens Greece
+Line  78: Purpose Issue
+Line  79: Issue
+Line  80: Name
+Line  81: BUILDERS WORK MEP PENETRATIONS
+Line  82: ROOF ADMIN ROOF SHEET 2 2
+Line  83: VAP AH 1091
+Line  84: Date
+Line  85: Description
+Line  86: 07
+Line  87: Issued Approval
+Line  88: VAP
+Line  89: SCALE
+Line  90: ADMIN ROOF PART 2
+
+=== END OF FILTERED TEXT ===
+Total lines: 91

@@ -1,0 +1,29 @@
+=== FILTERED TEXT FOR: JVIT-MWE-60-1-0005-02.pdf ===
+
+Line   0: Cooling Tower
+Line   1: IL
+Line   2: IMP
+Line   3: Inspection Manhole Hose
+Line   4: JVIT MWS 0001
+Line   5: JVIT MWS 0001
+Line   6: Inspection Manhole Hose
+Line   7: IMP
+Line   8: Valve
+Line   9: IMP 2
+Line  10: AJVIT MWE 0006
+Line  11: JVIT MWE 0002
+Line  12: 02
+Line  13: MWE
+Line  14: 2015
+Line  15: CIVIL SERVICES
+Line  16: POTABLE WATER
+Line  17: LAYOUT PLAN AGORA
+Line  18: LEVEL SHEET 4
+Line  19: Genaral Notes
+Line  20: JVIT COS 00 0001
+Line  21: 2. Details JVIT CES 0001 JVIT CES 0002,
+Line  22: JVIT MWE 0010
+Line  23: JVIT CES 0002, JVIT MWE 0010
+
+=== END OF FILTERED TEXT ===
+Total lines: 24

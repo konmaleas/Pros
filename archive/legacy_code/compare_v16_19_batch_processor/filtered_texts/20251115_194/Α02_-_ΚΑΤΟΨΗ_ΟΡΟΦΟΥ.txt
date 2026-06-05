@@ -1,0 +1,273 @@
+=== FILTERED TEXT FOR: Α02_-_ΚΑΤΟΨΗ_ΟΡΟΦΟΥ.pdf ===
+
+Line   0: 2
+Line   1: 4
+Line   2: 2
+Line   3: ΑΙΘΟΥΣΑ
+Line   4: ΣΥΝΕΡΓΑΣΙΑΣ
+Line   5: ΑΤΟΜΩΝ
+Line   6: ΓΡΑΦΕΙΑ
+Line   7: ΑΤΟΜΩΝ
+Line   8: 70
+Line   9: BUSINESS
+Line  10: LOUNGE
+Line  11: ΚΛΙΜΑΚΟΣΤΑΣΙΟ
+Line  12: BUSINESS MEETING
+Line  13: ΑΤΟΜΩΝ
+Line  14: ΠΡΟΘΑΛΑΜΟΣ
+Line  15: 4
+Line  16: WC
+Line  17: ΕΣΤΙΑΤΟΡΙΟΥ
+Line  18: ΠΡΟΘ. WC
+Line  19: 4
+Line  20: WC ΓΥΝΑΙΚΩΝ
+Line  21: 2
+Line  22: WC
+Line  23: 2
+Line  24: 77
+Line  25: 4
+Line  26: ΠΡΟΘ. WC ΓΥΝ.
+Line  27: WC
+Line  28: WC
+Line  29: WC ΑΜΕΑ
+Line  30: 4
+Line  31: ΠΡΟΘΑΛΑΜΟΣ
+Line  32: WC
+Line  33: 4
+Line  34: ΠΡΟΘ. WC ΑΝ.
+Line  35: WC
+Line  36: WC
+Line  37: ΚΑΘΑΡΙΣΤΡΙΑ
+Line  38: 2
+Line  39: WC
+Line  40: ΕΠΙΣΚΕΠΤΩΝ
+Line  41: 2
+Line  42: ΒΟΗΘΗΤΙΚΟΣ ΧΩΡΟΣ
+Line  43: ΚΟΥΖΙΝΑΣ
+Line  44: ΚΛΙΜΑΚΟΣΤΑΣΙΟ 2
+Line  45: ΚΛΙΜΑΚΟΣΤΑΣΙΟ
+Line  46: 2
+Line  47: ASC
+Line  48: 4
+Line  49: ASC 4
+Line  50: ΦΡΕΑΤΙΟ 4
+Line  51: ΦΡΕΑΤΙΟ
+Line  52: ΦΡΕΑΤΙΟ 2
+Line  53: ΚΛΙΜΑΚΟΣΤΑΣΙΟ
+Line  54: ASC
+Line  55: ASC 2
+Line  56: 2
+Line  57: ΦΡΕΑΤΙΟ
+Line  58: ΕΣΤΙΑΤΟΡΙΟ
+Line  59: ΑΤΟΜΩΝ
+Line  60: 2
+Line  61: PRIVATE AREA
+Line  62: COLLOCATION
+Line  63: BOOTH
+Line  64: ΑΝΑΒΑΤΟΡΙΟ
+Line  65: ΑΠΟΡΡΙΜΜΑΤΩΝ
+Line  66: ΑΝΑΒΑΤΟΡΙΟ
+Line  67: ΚΟΥΖΙΝΑΣ
+Line  68: COLLOCATION
+Line  69: COLLOCATION
+Line  70: BOOTH 4
+Line  71: COLLOCATION
+Line  72: BOOTH 2
+Line  73: COLLOCATION
+Line  74: BOOTH
+Line  75: COLLOCATION
+Line  76: 2200
+Line  77: 1600
+Line  78: 2200
+Line  79: 1800
+Line  80: 2300
+Line  81: 2
+Line  82: 2
+Line  83: 2
+Line  84: 2
+Line  85: 2
+Line  86: 2
+Line  87: 2
+Line  88: 2
+Line  89: 2
+Line  90: 2
+Line  91: 2
+Line  92: 2
+Line  93: 4
+Line  94: 2
+Line  95: 2
+Line  96: 2
+Line  97: 4
+Line  98: 2
+Line  99: ΒΟΗΘΗΤΙΚΟΣ
+Line 100: ΧΩΡΟΣ
+Line 101: 2
+Line 102: ΤΟΙΧΟΣ ΚΑΤΩ
+Line 103: ΑΠΟ
+Line 104: ΠΑΡΑΘΥΡΟΥ
+Line 105: 4
+Line 106: 4
+Line 107: 2
+Line 108: 4
+Line 109: 4
+Line 110: 4
+Line 111: 4
+Line 112: 2200
+Line 113: 2200
+Line 114: 2200
+Line 115: 2
+Line 116: 2
+Line 117: 2
+Line 118: 2
+Line 119: 4
+Line 120: 4
+Line 121: 4
+Line 122: 4
+Line 123: 4
+Line 124: ΧΩΡΟΥ
+Line 125: ΟΝΟΜΑ ΧΩΡΟΥ
+Line 126: ΤΕΤΡΑΓΩΝΙΚΑ ΧΩΡΟΥ
+Line 127: ΘΥΡΑΣ
+Line 128: ΤΥΠΟΣ ΘΥΡΑΣ
+Line 129: ΑΝΟΙΓΜΑ ΘΥΡΑΣ
+Line 130: ΠΡΕΚΙ ΘΥΡΑΣ
+Line 131: ΦΕΡΩΝ ΟΡΓΑΝΙΣΜΟΣ
+Line 132: ΣΤΑΘΜΗ ΤΕΛΙΚΟΥ
+Line 133: ΤΥΠΟΣ
+Line 134: ΣΤΑΘΜΗ ΠΛΑΚΑΣ
+Line 135: ΜΠΕΤΟΥ
+Line 136: ΣΥΜΒΟΛΙΣΜΟΙ ΚΑΤΟΨΕΩΝ
+Line 137: ΤΕΛΕΙΩΜΑ
+Line 138: ΟΛΟ ΤΟΝ ΧΩΡΟ
+Line 139: 2
+Line 140: ΤΕΛΕΙΩΜΑΤΟΣ
+Line 141: ΤΟΙΧΟΥ
+Line 142: KINHTOY
+Line 143: ΧΩΡΙΣΜΑΤΟΣ ΑΡΙΘΜΗΣΗ
+Line 144: ΓΥΨΟΠΕΤΑΣΜΑΤΑ
+Line 145: 2
+Line 146: 2
+Line 147: ΤΥΠΟΣ ΠΑΡΑΘΥΡΟΥ
+Line 148: ΑΝΟΙΓΜΑ ΠΑΡΑΘΥΡΟΥ
+Line 149: ΠΑΡΑΘΥΡΟΥ
+Line 150: ΠΡΕΚΙ ΠΑΡΑΘΥΡΟΥ
+Line 151: ΤΥΠΟΙ
+Line 152: ΤΟΙΧΟΣ ΜΕ
+Line 153: ΣΚΕΛΕΤΟ
+Line 154: ΤΟΙΧΟΣ ΜΕ
+Line 155: ΣΚΕΛΕΤΟ
+Line 156: ΤΟΙΧΟΣ ΜΟΝΗΣ ΜΕ
+Line 157: ΣΚΕΛΕΤΟ
+Line 158: ΤΟΙΧΟΣ ΜΕ
+Line 159: ΣΚΕΛΕΤΟ
+Line 160: ΠΥΡΑΝΤΟΧΟΣ ΤΟΙΧΟΣ
+Line 161: ΜΕ ΣΚΕΛΕΤΟ
+Line 162: ΤΟΙΧΟΣ ΜΟΝΗΣ
+Line 163: ΜΕ ΣΚΕΛΕΤΟ
+Line 164: ΤΟΙΧΟΣ ΜΟΝΗΣ
+Line 165: ΜΕ ΣΚΕΛΕΤΟ
+Line 166: ΠΥΡΑΝΤΟΧΟΣ ΤΟΙΧΟΣ ΜΟΝΗΣ
+Line 167: ΜΕ ΣΚΕΛΕΤΟ
+Line 168: ΜΟΝΗΣ
+Line 169: ΜΕ ΣΚΕΛΕΤΟ
+Line 170: ΜΕ ΣΚΕΛΕΤΟ
+Line 171: ΠΥΡΑΝΤΟΧΗΣ
+Line 172: ΜΕ ΣΚΕΛΕΤΟ
+Line 173: ΜΟΝΗΣ
+Line 174: ΑΝΘΥΓΡΟ
+Line 175: ΣΗΜΕΙΩΣΗ ΟΛΟΙ ΟΙ ΤΟΙΧΟΙ ΚΑΙ ΟΙ
+Line 176: ΦΤΑΝΟΥΝ ΜΕΧΡΙ ΤΗΝ ΕΠΑΝΩ
+Line 177: ΠΛΑΚΑ ΕΚΤΟΣ ΤΗΝ
+Line 178: ΠΕΡΙΠΤΩΣΗ ΥΦΙΣΤΑΜΕΝΗΣ
+Line 179: ΠΟΥ
+Line 180: ΤΕΧΝΗΤΟΣ Braun, Λευκά
+Line 181: Θάσου
+Line 182: ΞΥΛΙΝΑ ΑΚΟΥΣΤΙΚΑ ΠΑΝΕΛΑ
+Line 183: Akustik
+Line 184: ΞΥΛΙΝΑ ΑΚΟΥΣΤΙΚΑ ΠΑΝΕΛΑ
+Line 185: Akustik
+Line 186: ΠΑΝΕΛΑ ΜΕ HΧΟΑΠΟΡΡΟΦΗΤΙΚΟ
+Line 187: ΥΛΙΚΟ ΤΥΠΟΥ ΤΕΧΑΑ KAI
+Line 188: ΥΦΑΣΜΑΤΟΣ
+Line 189: ΞΥΛΙΝΑ ΑΚΟΥΣΤΙΚΑ ΠΑΝΕΛΑ ΤΥΠΟΥ
+Line 190: IDEACUSTIC ΤΗΣ IDEATEC
+Line 191: ΚΕΡΑΜΙΚΑ Royal Mosa
+Line 192: ΚΟΥΖΙΝΑ
+Line 193: ΚΕΡΑΜΙΚΑ WC
+Line 194: ΒΑΜΜΕΝΟΣ ΤΟΙΧΟΣ
+Line 195: ΤΑΠΕΤΣΑΡΙΑ
+Line 196: ΞΥΛΙΝΗ
+Line 197: ΤΕΛΕΙΩΜΑΤΑ
+Line 198: ΣΟΒΑΤΕΠΙ
+Line 199: ΞΥΛΙΝΟ ΕΣΟΧΗ
+Line 200: 2.
+Line 201: ΞΥΛΙΝΟ ΒΑΜΜΕΝΟ
+Line 202: ΥΦΙΣΤΑΜΕΝΟ
+Line 203: 4.
+Line 204: ΧΩΡΙΣ ΣΟΒΑΤΕΠΙ
+Line 205: ΤΕΛΕΙΩΜΑΤΑ
+Line 206: ΒΥΝΙΛΙΚΕΣ ΠΛΑΚΕΣ ΠΑΧΟΥΣ
+Line 207: GREY
+Line 208: ΜΟΚΕΤΑ ΚΟΜΜΑΤΙΑ ΠΑΧΟΥΣ
+Line 209: FORBO
+Line 210: ΕΤΕΡΟΓΕΝΕΙΣ ΒΥΝΙΛΙΚΕΣ ΠΛΑΚΕΣ
+Line 211: ΠΑΧΟΥΣ ALLURA FLEX
+Line 212: STONE 1508 ,FORBO
+Line 213: DECK ΕΚ. ΜΕ ΣΚΕΛΕΤΟ ΕΚ.
+Line 214: Denco DM
+Line 215: Quality
+Line 216: ΕΠΕ Μαλαματίνας
+Line 217: ΚΕΡΑΜΙΚΟ Royal Mosa,
+Line 218: Quality ΕΠΕ Μαλαματίνας
+Line 219: ΚΥΒΟΛΙΘΟΙ
+Line 220: ΥΦΙΣΤΑΜΕΝΟ
+Line 221: 2
+Line 222: 4
+Line 223: ΑΙΘΟΥΣΑ ΣΥΝΕΡΓΑΣΙΑΣ ΑΤΟΜΩΝ
+Line 224: LOBBY
+Line 225: ΑΝΕΜΟΦΡΑΚΤΗΣ
+Line 226: LOBBY
+Line 227: ΑΙΘΟΥΣΑ
+Line 228: ΑΙΘΟΥΣΑ
+Line 229: 77
+Line 230: ΕΣΤΙΑΤΟΡΙΟ ΑΤΟΜΩΝ
+Line 231: ΟΡΟΦΟΣ
+Line 232: 6000
+Line 233: ΙΣΟΓΕΙΟ
+Line 234: 1530
+Line 235: ΟΡΟΦΟΣ
+Line 236: 9750
+Line 237: ΚΛΙΜΑΚΑ
+Line 238: ΕΡΓΟ
+Line 239: ΦΟΡΕΑΣ
+Line 240: ΑΡΙΘΜΟΣ
+Line 241: ΗΜΕΡΟΜΗΝΙΑ ΜΕΛΕΤΗΣ
+Line 242: ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΜΕΛΕΤΗ
+Line 243: ΜΕΛΕΤΗΣ
+Line 244: ΣΤΑΤΙΚΗ ΜΕΛEΤΗ
+Line 245: ΗΜ ΝΙΑ
+Line 246: ΚΑΤΗΓΟΡΙΑ
+Line 247: ΜΕΛΕΤΗ ΕΓΚΑΤΑΣΤΑΣΕΩΝ
+Line 248: Φιλολάου Ηλιούπολη 16342 Ελλάδα
+Line 249: ΚΗΜ
+Line 250: ΟΜΙΛΟΣ
+Line 251: ΧΡΗΜΑΤΙΣΤΗΡΙΟΥ ΑΘΗΝΩΝ
+Line 252: Φιλήμονος Αθήνα 11521 Ελλάδα
+Line 253: Ηπείρου Αθήνα, Ελλάδα
+Line 254: 3262 3269
+Line 255: ΑΡΧΙΤΕΚΤΟΝΙΚH ΜΕΛEΤΗ
+Line 256: ΚΑΤΟΨΗ
+Line 257: ΤΟΜΗ LOBBY
+Line 258: ΜΑΡΤΙΟΣ
+Line 259: ΟΡΙΣΤΙΚΗ ΜΕΛΕΤΗ
+Line 260: Λεωφ. Αθηνών Αθήνα 42
+Line 261: 03 2017
+Line 262: ΝΕΑ ΧΩΡΩΝ
+Line 263: ΤΟΥ ΤΟΥ ΟΜΙΛΟΥ
+Line 264: ΧΡΗΜΑΤIΣΤHΡΙΟΥ ΑΘΗΝΩΝ
+Line 265: ΚΑΤΟΨΗ ΟΡΟΦΟΥ
+Line 266: 2
+Line 267: TOMH LOBBY
+
+=== END OF FILTERED TEXT ===
+Total lines: 268

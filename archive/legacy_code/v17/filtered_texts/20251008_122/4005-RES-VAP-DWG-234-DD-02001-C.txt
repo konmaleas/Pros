@@ -1,0 +1,384 @@
+=== FILTERED TEXT FOR: 4005-RES-VAP-DWG-234-DD-02001-C.pdf ===
+
+Line   0: Biowaste
+Line   1: C
+Line   2: C
+Line   3: Plastics
+Line   4: Plastics
+Line   5: Residuals
+Line   6: Residuals
+Line   7: Residuals
+Line   8: Residuals
+Line   9: Residuals
+Line  10: Residuals
+Line  11: Glass
+Line  12: Biowaste
+Line  13: Biowaste
+Line  14: Biowaste
+Line  15: Glass
+Line  16: Metals
+Line  17: Metals
+Line  18: AB
+Line  19: 01
+Line  20: 02
+Line  21: 03
+Line  22: 04
+Line  23: 05
+Line  24: 06
+Line  25: 07
+Line  26: 08
+Line  27: 09
+Line  28: AC
+Line  29: AD
+Line  30: AE
+Line  31: AF
+Line  32: AG
+Line  33: AH
+Line  34: AI
+Line  35: AJ
+Line  36: AK
+Line  37: AL
+Line  38: AM
+Line  39: BA
+Line  40: BB
+Line  41: BC
+Line  42: BD
+Line  43: BE
+Line  44: BF
+Line  45: BG
+Line  46: BH
+Line  47: BI
+Line  48: BJ
+Line  49: BK
+Line  50: BL
+Line  51: BM
+Line  52: BN
+Line  53: SITE BOUNDARY
+Line  54: SETBACK LINE
+Line  55: EV CHARGING STATION
+Line  56: Ράμπα
+Line  57: Ράμπα
+Line  58: Ράμπα
+Line  59: Ράμπα
+Line  60: Ράμπα
+Line  61: Ράμπα
+Line  62: ACCESS HATCH
+Line  63: Ανθρωποθυρίδα
+Line  64: PARKING GATES
+Line  65: Πύλη
+Line  66: EXHAUST
+Line  67: DOUBLE HEIGHT SPACE
+Line  68: CATWALK
+Line  69: PEDESTRIAN WALKWAY ΠΕΖΟΔΡΟΜΙΟ
+Line  70: MEDIAN SEPARATION ΝΗΣΙΔΑ
+Line  71: CLEAR HEIGHT
+Line  72: 2545
+Line  73: C
+Line  74: 04002
+Line  75: PEDESTRIAN WALKWAY ΠΕΖΟΔΡΟΜΙΟ
+Line  76: PEDESTRIAN WALKWAY ΠΕΖΟΔΡΟΜΙΟ
+Line  77: MEDIAN SEPARATION ΝΗΣΙΔΑ
+Line  78: PEDESTRIAN WALKWAY ΠΕΖΟΔΡΟΜΙΟ
+Line  79: ΤΟ BASEMENT
+Line  80: Ράμπα Υπόγειο
+Line  81: CORRIDOR
+Line  82: CORRIDOR
+Line  83: GARBAGE
+Line  84: Απορρίματα
+Line  85: FIREFIGHTING
+Line  86: PARKING
+Line  87: PARKING
+Line  88: HVAC
+Line  89: Βοηθητικός
+Line  90: GARBAGE
+Line  91: Απορρίματα
+Line  92: UPS
+Line  93: GENERATOR
+Line  94: Γεννήτρια
+Line  95: MAIN LV SWITCHROOM
+Line  96: ΓΠΧΤ
+Line  97: PRIVATE MV
+Line  98: ΜΤ
+Line  99: ICT SERVER
+Line 100: FF TANK
+Line 101: Δεξαμενή
+Line 102: FF TANK
+Line 103: Δεξαμενή
+Line 104: CCTV CONTROL
+Line 105: Κέντρο
+Line 106: GSM
+Line 107: CORRIDOR
+Line 108: HVAC
+Line 109: CORRIDOR
+Line 110: ICT SERVER
+Line 111: Χώρο
+Line 112: MEP PLANT
+Line 113: Μηχανολογικός
+Line 114: 04003
+Line 115: 04004
+Line 116: HEDNO PUBLIC
+Line 117: SUBSTATION
+Line 118: Υποσταθμός ΔΕΗ
+Line 119: Ground
+Line 120: STRUCTURAL
+Line 121: Άνοιγμα
+Line 122: 10000
+Line 123: 07002
+Line 124: 07001
+Line 125: BATTERY ENERGY
+Line 126: REPOSITORY
+Line 127: FIRE CYLINDERS
+Line 128: HEDNO MV
+Line 129: ΜΤ ΔΕΔΔΗΕ
+Line 130: TRANSFORMER
+Line 131: Μετασχηματιστές
+Line 132: Motorcycle Parking
+Line 133: FUEL TANK
+Line 134: Δεξαμενή
+Line 135: CORRIDOR
+Line 136: DUCT ROUTING SLAB
+Line 137: DRAINAGE GRILLE
+Line 138: Motorcycle Parking
+Line 139: SLAB
+Line 140: SLAB
+Line 141: SLAB
+Line 142: IRRIGATION TANK
+Line 143: Δεξαμενή
+Line 144: CABLE ROUTING
+Line 145: Διέλευση
+Line 146: SLAB
+Line 147: Concrete
+Line 148: OPENINGS CEILING
+Line 149: Οπές
+Line 150: CONCRETE TUNNEL
+Line 151: Τούνελ
+Line 152: CORRIDOR
+Line 153: VRF
+Line 154: CORRIDOR
+Line 155: CORRIDOR
+Line 156: DRAINAGE GRILLE
+Line 157: Σχάρα
+Line 158: Άνοιγμα
+Line 159: ΠΡΑΣΙΑ
+Line 160: GROUND BUILDING OUTLINE
+Line 161: Περίγραμμα
+Line 162: BUILDING JOINT
+Line 163: Αρμός
+Line 164: VERTICAL CONCRETE
+Line 165: Κάθετο
+Line 166: STRUCTURAL
+Line 167: Άνοιγμα
+Line 168: STRUCTURAL
+Line 169: Άνοιγμα
+Line 170: STRUCTURAL
+Line 171: Άνοιγμα
+Line 172: EXHAUST
+Line 173: CONTINUES GROUND
+Line 174: 750
+Line 175: SLAB
+Line 176: CORRIDOR
+Line 177: IRRIGATION TANK
+Line 178: Δεξαμενή Άρδευσης
+Line 179: IRRIGATION TANK
+Line 180: Δεξαμενή Άρδευσης
+Line 181: FENCE BOUNDARY
+Line 182: WAIST AREA PLAN STREET LEVEL
+Line 183: GYM AMENITIES
+Line 184: Κοινόχρηστος
+Line 185: WC DISABLED
+Line 186: Λουτρό AMEA
+Line 187: WC
+Line 188: Λουτρό
+Line 189: CHANGING
+Line 190: Αποδητήρια
+Line 191: CHANGING
+Line 192: Αποδητήρια
+Line 193: POOL
+Line 194: Κολυμβητική
+Line 195: FF LOBBY
+Line 196: Ανελκυστήρα
+Line 197: LOBBY
+Line 198: LOBBY
+Line 199: Κλιμακοστάσιο
+Line 200: BOH
+Line 201: Βοηθητικός
+Line 202: LOBBY C
+Line 203: Κλιμακοστάσιο C
+Line 204: BOH
+Line 205: Βοηθητικός
+Line 206: LOBBY
+Line 207: Κλιμακοστάσιο
+Line 208: FF LOBBY
+Line 209: Ανελκυστήρα
+Line 210: LOBBY
+Line 211: Κλιμακοστάσιο
+Line 212: FF LOBBY
+Line 213: Ανελκυστήρα
+Line 214: PLANTER
+Line 215: Φύτευση
+Line 216: PARKING
+Line 217: PARKING
+Line 218: VRF
+Line 219: AREA
+Line 220: NAME ENGLISH
+Line 221: FINAL LEVEL SURVEY POINT
+Line 222: 4500 FFL
+Line 223: 4200 SSL
+Line 224: STRUCTURAL SLAB LEVEL SURVEY POINT
+Line 225: ANNOTATION SYMBOLS
+Line 226: WINDOW TYPE
+Line 227: WINDOW WIDTH
+Line 228: WINDOW SILL
+Line 229: WINDOW LINTEL
+Line 230: Name
+Line 231: 06000
+Line 232: WINDOW
+Line 233: DETAIL
+Line 234: DOOR TYPE
+Line 235: DOOR WIDTH
+Line 236: DOOR SILL
+Line 237: DOOR HEIGHT
+Line 238: DOOR SERIAL
+Line 239: 06000
+Line 240: 06000
+Line 241: CODE
+Line 242: NAME GREEK
+Line 243: 1150
+Line 244: TREAD WIDTH
+Line 245: RISER HEIGHT
+Line 246: RISERS
+Line 247: 01
+Line 248: DETAIL
+Line 249: FINAL LEVEL SURVEY POINT
+Line 250: 4500 FFL
+Line 251: DRAWING
+Line 252: DRAWING
+Line 253: DETAIL
+Line 254: DRAWING
+Line 255: DIMENTION STYLE
+Line 256: STRUCTURAL SLAB LEVEL SURVEY POINT
+Line 257: 4200 SSL
+Line 258: 40
+Line 259: ΓΕΝΙΚΕΣ ΣΗΜΕΙΩΣΕΙΣ GENERAL NOTES
+Line 260: ΕΓΓΡΑΦΑ ΑΝΑΦΟΡΑΣ DOCUMENT REFERENCE
+Line 261: ΤΙΤΛΟΣ ΣΧΕΔΙΟΥ DRAWING TITLE
+Line 262: ΚΩΔΙΚΟΣ ΕΓΓΡΑΦΟΥ ΣΧΕΔΙΟΥ DOCUMENT DRAWING CODIFICATION
+Line 263: Project
+Line 264: Originator
+Line 265: Type
+Line 266: Discipline
+Line 267: Stage
+Line 268: Serial Number
+Line 269: Revision
+Line 270: ΚΛΙΜΑΚΑ SCALE
+Line 271: ΔΙΑΤΑΞΗ LAYOUT
+Line 272: REV.
+Line 273: DATE
+Line 274: ISSUE
+Line 275: DESCRIPTION UPDATE VERSION
+Line 276: ORIGINATED
+Line 277: CHECKED
+Line 278: VERIFIED
+Line 279: LEAD DESIGNER
+Line 280: APPROVED
+Line 281: PMC
+Line 282: STATUS
+Line 283: ΣΥΜΒΟΥΛΟΣ ΔΙΑΧΕΙΡΙΣΗΣ ΕΡΓΟΥ
+Line 284: PROJECT MANAGEMENT CONSULTANT
+Line 285: ΣΤΟΙΧΕΙΑ ΣΥΜΒΟΥΛΟΥ ΔΙΑΧΕΙΡΙΣΗΣ ΕΡΓΟΥ
+Line 286: PROJECT MANAGEMENT CONSULTANT DETAILS
+Line 287: ΚΥΡΙΟΣ ΜΕΛΕΤΗΤΗΣ LEAD DESIGNER
+Line 288: ΣΤΟΙΧΕΙΑ ΜΕΛΕΤΗΤΗ LOCAL ARCHITECT
+Line 289: SUBCONSULTANT STRUCTURE
+Line 290: ΕΡΓΟΔΟΤΗΣ EMPLOYER
+Line 291: ΣΤΟΙΧΕΙΑ ΕΡΓΟΔΟΤΗ EMPLOYER DETAILS
+Line 292: ΑΝΑΠΤΥΞΗ ΤΟΥ ΜΗΤΡΟΠΟΛΙΤΙΚΟΥ ΠΟΛΟΥ ΕΛΛΗΝΙΚΟΥ ΑΓIOY ΚΟΣΜΑ
+Line 293: DEVELOPMENT METROPOLITAN POLE HELLINIKON AG. KOSMAS
+Line 294: ΕΡΓΟ PROJECT
+Line 295: ΕΛΛΗΝΙΚΟ HELLINIKON
+Line 296: Kifisias Avenue Golden Hall
+Line 297: 15123 Marousi
+Line 298: Σημείωση Πνευματικών Δικαιωμάτων. 2121 1993
+Line 299: ΕΛΛΗΝΙΚΟ
+Line 300: Ρήτρα Περιορισμού Ευθύνης.
+Line 301: ΕΛΛΗΝΙΚΟ
+Line 302: ΝΑ ΜΗΝ ΑΛΛΑΧΘΕΙ ΚΛΙΜΑΚΑ ΤΟΥ ΣΧΕΔΙΟΥ.
+Line 303: Copyright Notice. 2121 1993
+Line 304: HELLINIKON
+Line 305: Disclaimer. HELLINIKON
+Line 306: CHANGE SCALE DRAWING.
+Line 307: BIG.
+Line 308: BIG
+Line 309: Preliminary Design
+Line 310: SUBCONSULTANT MEP
+Line 311: SUBCONSULTANT LANDSCAPE
+Line 312: SUBCONSULTANT TRAFFIC
+Line 313: SUBCONSULTANT LIGHTING
+Line 314: SUBCONSULTANT ACOUSTICS
+Line 315: SUBCONSULTANT SUSTAINABILITY
+Line 316: SUBCONSULTANT SIGNAGE
+Line 317: Όλες
+Line 318: BIG.
+Line 319: BIG
+Line 320: Όλες
+Line 321: Preliminary Design
+Line 322: URBAN ZONE
+Line 323: ARCHITECTURAL DESIGN Permit Design
+Line 324: ΑΡΧΙΤΕΚΤΟΝΙΚΟΣ ΣΧΕΔΙΑΣΜΟΣ Οριστική Μελέτη
+Line 325: MODEL MDD 234 DD 0001
+Line 326: BJARKE INGELS GROUP BIG
+Line 327: AVINGUDA DA LES DRASSANES
+Line 328: 08001 BARCELON, SPAIN
+Line 329: HELLINIKON
+Line 330: C
+Line 331: High Rise Residential Development
+Line 332: BASEMENT DESIGN PLAN LEVEL
+Line 333: RES
+Line 334: VAP
+Line 335: DWG
+Line 336: 234
+Line 337: DD
+Line 338: 02001
+Line 339: 4005
+Line 340: High Rise Residential Development
+Line 341: ΚΑΤΟΨΗ YΠΟΓΕΙΟΥ
+Line 342: ΦΥΛΛΟ SHEET 02001
+Line 343: COUNT
+Line 344: Name
+Line 345: Area
+Line 346: ΥΠΟΓΕΙΟΥ
+Line 347: ΥΠΟΓΕΙΟΥ
+Line 348: ΥΠΟΓΕΙΟΥ
+Line 349: ΥΠΟΓΕΙΟΥ
+Line 350: Grand
+Line 351: Parking Spot Calculation
+Line 352: Basement
+Line 353: 42
+Line 354: Disabled
+Line 355: EV
+Line 356: LPG
+Line 357: Grand 77
+Line 358: Motorcycle Spot Calculation
+Line 359: Basement
+Line 360: Moto
+Line 361: Grand
+Line 362: 06 2023
+Line 363: First Approval
+Line 364: VAP
+Line 365: VAP
+Line 366: BIG
+Line 367: 04 08 2023
+Line 368: Second Approval
+Line 369: VAP
+Line 370: VAP
+Line 371: BIG
+Line 372: C
+Line 373: 09 2023
+Line 374: Third Approval
+Line 375: VAP
+Line 376: VAP
+Line 377: BIG
+Line 378: PENDING STAIR MODIFICATION
+
+=== END OF FILTERED TEXT ===
+Total lines: 379

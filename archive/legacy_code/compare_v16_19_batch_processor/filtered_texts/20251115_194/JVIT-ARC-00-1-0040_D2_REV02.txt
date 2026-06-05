@@ -1,0 +1,463 @@
+=== FILTERED TEXT FOR: JVIT-ARC-00-1-0040_D2_REV02.pdf ===
+
+Line   0: ΠΕΖΟΔΡΟΜΟΣ ΜΕΤΡΩΝ
+Line   1: ΠΕΖΟΔΡΟΜΟΣ ΜΕΤΡΩΝ
+Line   2: ΠΕΡΙΟΧΗ
+Line   3: ΖΩΝΗ
+Line   4: ΠΕΡΙΟΧΗ
+Line   5: ΖΩΝΗ
+Line   6: ΠΕΡΙΟΧΗ IV
+Line   7: ΖΩΝΗ
+Line   8: ΠΛΑΤΟΣ
+Line   9: ΠΛΑΤΟΣ
+Line  10: ΠΛΑΤΟΣ
+Line  11: ΠΛΑΤΟΣ
+Line  12: ΠΛΑΤΟΣ
+Line  13: ΠΛΑΤΟΣ
+Line  14: ΚΤΙΡΙΟ ΣΥΝΤΗΡΗΣΗΣ
+Line  15: ΠΑΡΚΟΥ
+Line  16: ΠΕΡΙΠΤΕΡΟ ΚΑΝΑΛΙΟΥ
+Line  17: Υπαίθριος
+Line  18: ΠΕΡΙΠΤΕΡΟ ΠΑΡΚΟΥ
+Line  19: Υπόσκαφος
+Line  20: Περίγραμμα
+Line  21: Περίγραμμα
+Line  22: Περίγραμμα
+Line  23: Περίγραμμα
+Line  24: ΠΕΡΙΟΧΗ
+Line  25: ΖΩΝΗ
+Line  26: ΓΚΡΕΜΟΣ ΛΥΡΙΚΗΣ ΣΚΗΝΗΣ
+Line  27: ΖΩΝΗ ΑΝΑΣΧΕΣΗΣ
+Line  28: ΔΡΟΜΟΣ
+Line  29: ΔΡΟΜΟΣ
+Line  30: ΔΡΟΜΟΣ
+Line  31: ΓΚΡΕΜΟΣ
+Line  32: ΧΩΡΟΣ ΣΤΑΘΜΕΥΣΗΣ
+Line  33: ΑΥΤΟΚΙΝΗΤΩΝ
+Line  34: ΛΥΡΙΚΗ
+Line  35: ΕΘΝΙΚΗ ΒΙΒΛΙΟΘΗΚΗ
+Line  36: Περίγραμμα
+Line  37: ΠΕΡΙΟΧΗ
+Line  38: ΖΩΝΗ
+Line  39: ΠΕΡΙΟΧΗ
+Line  40: Υδάτινο
+Line  41: Περίγραμμα
+Line  42: Περίγραμμα
+Line  43: Περίγραμμα
+Line  44: Copyright 2015
+Line  45: Richter Spielgeräte
+Line  46: 83112 Frasdorf, 49 8052 4180
+Line  47: 4
+Line  48: 4
+Line  49: 4
+Line  50: 4
+Line  51: BS
+Line  52: TC
+Line  53: TC
+Line  54: BS
+Line  55: BW
+Line  56: BS
+Line  57: ASL
+Line  58: BW
+Line  59: BW
+Line  60: BW
+Line  61: BW
+Line  62: BW
+Line  63: LP
+Line  64: BW
+Line  65: BW
+Line  66: BW
+Line  67: BW
+Line  68: BW
+Line  69: BW
+Line  70: BW
+Line  71: ΠΕΡΙΟΧΗ
+Line  72: ΖΩΝΗ
+Line  73: STOP
+Line  74: ΠΕΡΙΟΧΗ ΦΥΤΕΥΣΗΣ
+Line  75: ΒΟΥΡΤΣΙΣΤΟ ΣΚΥΡΟΔΕΜΑ
+Line  76: ΟΔΟΣ ΝΑΥΑΡΙΝΟΥ
+Line  77: ΟΔΟΣ ΣΑΧΤΟΥΡΗ
+Line  78: ΟΔΟΣ ΠΕΙΣΙΣΤΡΑΤΟΥ
+Line  79: ΟΔΟΣ ΝΑΥΑΡΧΟΥ ΒΟΤΣΗ
+Line  80: ΟΔΟΣ ΦΙΛΙΠΠΟΥ
+Line  81: ΟΔΟΣ ΕΥΡΙΠΙΔΟΥ
+Line  82: ΟΔΟΣ
+Line  83: ΟΔΟΣ ΕΥΡΙΠΙΔΟΥ
+Line  84: ΟΔΟΣ ΗΡΑΚΛΕΟΥΣ
+Line  85: ΟΔΟΣ
+Line  86: ΟΔΟΣ ΔΟΙΡΑΝΗΣ
+Line  87: ΟΔΟΣ ΠΕΙΣΙΣΤΡΑΤΟΥ
+Line  88: ΕΛ
+Line  89: ΑΔΙΕΞΟΔΟ
+Line  90: ΜΠΕΤΟΝ
+Line  91: ΟΔΟΣ ΕΥΡΙΠΙΔΟΥ
+Line  92: 4
+Line  93: ESPLANADA
+Line  94: ΛΕΩΦ. ΠΟΣΕΙΔΩΝΟΣ
+Line  95: ΥΠΟΓΕΙΑ ΔΙΑΒΑΣΗ ΠΕΖΩΝ
+Line  96: ΥΠΟΓΕΙΑ ΔΙΑΒΑΣΗ
+Line  97: 2
+Line  98: 4
+Line  99: 40
+Line 100: 41
+Line 101: 42
+Line 102: 43
+Line 103: 44
+Line 104: 45
+Line 105: 46
+Line 106: 47
+Line 107: 48
+Line 108: 49
+Line 109: 70
+Line 110: 71
+Line 111: 72
+Line 112: 73
+Line 113: 74
+Line 114: 75
+Line 115: 76
+Line 116: 77
+Line 117: 78
+Line 118: 79
+Line 119: ΟΔΟΣ ΙΣΜΗΝΗΣ
+Line 120: ΛΕΩΦΟΡΟΣ ΣΥΓΓΡΟΥ
+Line 121: ΓΡΑΜΜΗ ΤΡΑΜ
+Line 122: TRAM LINE
+Line 123: ΓΡΑΜΜΗ ΤΡΑΜ
+Line 124: ΟΔΟΣ ΑΓΗΣΙΛΑΟΥ
+Line 125: Σκάμα Αρχαιολογίας
+Line 126: Περίγραμμα
+Line 127: ΟΔΟΣ ΝΑΥΑΡΙΝΟΥ
+Line 128: ΟΔΟΣ ΣΑΧΤΟΥΡΗ
+Line 129: ΟΔΟΣ ΠΕΙΣΙΣΤΡΑΤΟΥ
+Line 130: ΟΔΟΣ ΝΑΥΑΡΧΟΥ ΒΟΤΣΗ
+Line 131: ΟΔΟΣ ΦΙΛΙΠΠΟΥ
+Line 132: ΟΔΟΣ ΕΥΡΙΠΙΔΟΥ
+Line 133: ΟΔΟΣ
+Line 134: ΟΔΟΣ ΕΥΡΙΠΙΔΟΥ
+Line 135: ΟΔΟΣ ΗΡΑΚΛΕΟΥΣ
+Line 136: ΟΔΟΣ
+Line 137: ΟΔΟΣ ΔΟΙΡΑΝΗΣ
+Line 138: ΟΔΟΣ ΠΕΙΣΙΣΤΡΑΤΟΥ
+Line 139: ΑΔΙΕΞΟΔΟ
+Line 140: ESPLANADA
+Line 141: ΛΕΩΦ. ΠΟΣΕΙΔΩΝΟΣ
+Line 142: ΥΠΟΓΕΙΑ ΔΙΑΒΑΣΗ ΠΕΖΩΝ
+Line 143: ΥΠΟΓΕΙΑ ΔΙΑΒΑΣΗ
+Line 144: ΟΔΟΣ ΙΣΜΗΝΗΣ
+Line 145: ΛΕΩΦΟΡΟΣ ΣΥΓΓΡΟΥ
+Line 146: ΓΡΑΜΜΗ ΤΡΑΜ
+Line 147: TRAM LINE
+Line 148: ΓΡΑΜΜΗ ΤΡΑΜ
+Line 149: ΟΔΟΣ ΑΓΗΣΙΛΑΟΥ
+Line 150: ΠΕΖΟΔΡΟΜΟΣ ΜΕΤΡΩΝ
+Line 151: ΠΕΖΟΔΡΟΜΟΣ ΜΕΤΡΩΝ
+Line 152: ΠΕΡΙΟΧΗ IV
+Line 153: ΖΩΝΗ
+Line 154: ΠΕΡΙΟΧΗ
+Line 155: ΖΩΝΗ
+Line 156: ΠΕΡΙΟΧΗ
+Line 157: ΖΩΝΗ
+Line 158: ΠΕΡΙΟΧΗ
+Line 159: ΖΩΝΗ
+Line 160: ΠΕΡΙΟΧΗ
+Line 161: ΖΩΝΗ
+Line 162: ΠΕΡΙΟΧΗ
+Line 163: ΖΩΝΗ
+Line 164: ΠΕΡΙΟΧΗ
+Line 165: RPBW
+Line 166: RENZO PIANO BUILDING WORKSHOP
+Line 167: FACADE CONSULTANT
+Line 168: ΣΥΜΒΟΥΛΟΣ ΠΡΟΣΟΨΕΩΝ
+Line 169: FRONT
+Line 170: ACOUSTIC DESIGN
+Line 171: ΑΚΟΥΣΤΙΚΗ ΜΕΛΕΤΗ
+Line 172: ARUP Acoustics
+Line 173: THEATRE DESIGN CONSULTANT
+Line 174: ΣΥΜΒΟΥΛΟΣ ΘΕΑΤΡΙΚΟΥ ΣΧΕΔΙΑΣΜΟΥ
+Line 175: THEATRE PROJECTS CONSULTANTS
+Line 176: LIBRARY CONSULTANT
+Line 177: ΣΥΜΒΟΥΛΟΣ ΣΧΕΔΙΑΣΜΟΥ ΒΙΒΛΙΟΘΗΚΗΣ
+Line 178: LANDSCAPE DESIGN
+Line 179: ΜΕΛΕΤΗ ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΧΩΡΟΥ
+Line 180: DEBORAH NEVINS
+Line 181: Associates,
+Line 182: COLLABORATION
+Line 183: ΜΕΛΕΤΗΤΗΣ
+Line 184: HELLI PANGALOU
+Line 185: MEP ENGINEER
+Line 186: ΜΕΛΕΤΗ ΕΓΚΑΤΑΣΤΑΣΕΩΝ
+Line 187: ARUP
+Line 188: COLLABORATION
+Line 189: ΜΕΛΕΤΗΤΗΣ
+Line 190: LDK
+Line 191: STRUCTURAL ENGINEER
+Line 192: ΣΤΑΤΙΚΗ ΜΕΛΕΤΗ
+Line 193: EXPEDITION
+Line 194: COLLABORATION
+Line 195: ΜΕΛΕΤΗΤΗΣ
+Line 196: OMETE
+Line 197: EXECUTIVE ARCHITECT
+Line 198: ΑΡΧΙΤΕΚΤΟΝΑΣ
+Line 199: BETAPLAN
+Line 200: DESIGN ARCHITECT
+Line 201: ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΜΕΛΕΤΗ ΑΡΧΙΤΕΚΤΟΝΑΣ ΕΡΓΟΥ
+Line 202: TRAFFIC CONSULTANT
+Line 203: ΚΥΚΛΟΦΟΡΙΑΚΗ ΜΕΛΕΤΗ
+Line 204: DENCO
+Line 205: PROJECT MANAGER COST CONSULTANT
+Line 206: ΣΥΝΤΟΝΙΣΜΟΣ ΜΕΛΕΤΗΣ ΣΥΜΒΟΥΛΟΣ ΠΡΟΥΠΟΛΟΓΙΣΜΟΥ
+Line 207: FAITHFUL GOULD
+Line 208: Archives
+Line 209: 75004 Paris France
+Line 210: 44 4900
+Line 211: 42 78 0198
+Line 212: Aristodimou Street
+Line 213: Athens, GR 76 Greece
+Line 214: 72
+Line 215: 72
+Line 216: Regent Street, Morley House
+Line 217: London, UK
+Line 218: 44 1000
+Line 219: 44 1001
+Line 220: Asklipiou Street
+Line 221: Athens, GR 72 Greece
+Line 222: 30026
+Line 223: 44631
+Line 224: Fitzroy Street
+Line 225: London, UK
+Line 226: 44 755 2191
+Line 227: 44 755 3743
+Line 228: Thivaidos Street
+Line 229: Athens, GR Greece
+Line 230: 96700
+Line 231: 96709
+Line 232: Lafayette Street, Suite
+Line 233: York, NY 10012 USA
+Line 234: 1125
+Line 235: Skoufa Street
+Line 236: Athens, GR 72 Greece
+Line 237: 6219
+Line 238: 9225
+Line 239: Linton House
+Line 240: Highgate Road
+Line 241: London, UK
+Line 242: 44 7284 5888
+Line 243: Alexi
+Line 244: Elizabeth Street
+Line 245: South Norwalk, CT 06854 3025 USA
+Line 246: 0830
+Line 247: 0835
+Line 248: Americas
+Line 249: York, NY 10013 USA
+Line 250: 2669
+Line 251: 1056
+Line 252: Varick Street
+Line 253: York, NY 10014 USA
+Line 254: 2220
+Line 255: 2253
+Line 256: Kifisias
+Line 257: Athens, GR Greece
+Line 258: 54801
+Line 259: 54800
+Line 260: Paradisou Street
+Line 261: Athens, GR Greece
+Line 262: 15245
+Line 263: 11951
+Line 264: AMA Alexi Marmot Associates
+Line 265: IRRIGATION DESIGN
+Line 266: ΜΕΛΕΤΗ ΑΡΔΕΥΣΗΣ
+Line 267: SOTIRIOS MAVRAGANIS
+Line 268: 42 Vasileos Georgiou Street
+Line 269: Athens, GR Greece
+Line 270: REV.
+Line 271: STAVROS NIARCHOS FOUNDATION CULTURAL CENTER
+Line 272: PROJECT
+Line 273: KEY PLAN
+Line 274: ΕΡΓΟ
+Line 275: Vasilissis Sofias Avenue, Athens, Greece
+Line 276: 72 41311, 72 41312
+Line 277: ΚΛΕΙΔΑ ΣΧΕΔΙΟΥ
+Line 278: DRWG TITLE
+Line 279: ΤΙΤΛΟΣ ΣΧΕΔΙΟΥ
+Line 280: CONSULTANT STAMP
+Line 281: ΣΦΡΑΓΙΔΑ ΣΥΜΒΟΥΛΟΥ
+Line 282: SCALE
+Line 283: ΚΛΙΜΑΚΑ
+Line 284: REFERENCED DRAWING NUMBER
+Line 285: AUTHOR
+Line 286: ΣΥΝΤΑΚΤΗΣ
+Line 287: DISCIPLINE
+Line 288: ΚΑΤ. ΜΕΛΕΤΗΣ
+Line 289: ZONE
+Line 290: ΠΕΡΙΟΧΗ
+Line 291: DRWG TYPE
+Line 292: ΕΙΔΟΣ ΣΧΕΔΙΟΥ
+Line 293: REV.
+Line 294: ΑΝΑΘ.
+Line 295: QR CODE
+Line 296: FIRST ISSUE DATE
+Line 297: ΗΜΕΡ. ΕΚΔ.
+Line 298: DRAWN
+Line 299: CHECKED
+Line 300: APPROVED
+Line 301: DATE
+Line 302: DESCRIPTION
+Line 303: 00
+Line 304: RPBW ATH CUR PARKB RS DAY 2 SKITSOSNFCC FINAL
+Line 305: ΑΝΑΘΕΩΡΗΣΗ ΤΗΣ ΥΠ ΑΡΙΘΜ. 72 2017 ΑΔΕΙΑΣ ΔΟΜΗΣΗΣ ΜΕΤΑ ΤΗΣ 2017
+Line 306: ΑΝΑΘΕΩΡΗΣΗΣ ΑΥΤΗΣ ΛΟΓΩ ΚΑΤΑΣΚΕΥΗΣ ΑΝΟΙΧΤΟΥ ΓΗΠΕΔΟΥ ΠΟΛΛΑΠΛΩΝ
+Line 307: ΑΘΛΗΜΑΤΩΝ ΣΤΟ ΠΑΡΚΟ ΚΑΙ ΜΙΚΡΟΤΡΟΠΟΠΟΙΗΣΕΩΝ ΣΤΗ ΔΙΑΡΡΥΘΜΙΣΗ ΤΟΥ
+Line 308: ΚΥΛΙΚΕΙΟΥ ΤΟΥ ΠΑΡΚΟΥ.
+Line 309: PROJECT
+Line 310: ΕΡΓΟ
+Line 311: APPROVALS
+Line 312: ΘΕΩΡΗΣΕΙΣ
+Line 313: CONSULTANT SIGNATURE
+Line 314: ΥΠΟΓΡΑΦΗ ΣΥΜΒΟΥΛΟΥ
+Line 315: ΠΕΡΙΟΧΗ ΙΔΙΟΚΤΗΣΙΑΣ ΚΕΔ
+Line 316: ΠΕΡΙΟΧΗ ΥΠΟΛΟΓΙΣΜΟΥ
+Line 317: ΣΥΝΤΕΛΕΣΤΗ ΔΟΜΗΣΗΣ ΚΑΙ
+Line 318: ΣΥΝΤΕΛΕΣΤΗ ΚΑΛΥΨΗΣ
+Line 319: ΠΕΡΙΟΧΗ ΕΝΤΟΣ ΤΗΣ ΟΠΟΙΑΣ
+Line 320: ΕΠΙΤΡΕΠΕΤΑΙ ΔΟΜΗΣΗ
+Line 321: ΠΑΡΑΧΩΡΟΥΜΕΝΗ ΠΕΡΙΟΧΗ ΓΙΑ
+Line 322: ΤΗΝ ΓΗΠΕΔΟΥ
+Line 323: ΠΟΔΟΣΦΑΙΡΟΥ, ΑΝΟΙΚΤΟΥ
+Line 324: ΚΤΙΣΜΑΤΩΝ ΣΥΝΟΛΙΚΟΥ ΕΜΒΑΔΟΥ
+Line 325: ΚΑΙ ΠΑΙΔΙΚΗΣ ΧΑΡΑΣ
+Line 326: ΠAΡΑΧΩΡΟΥΜΕΝH ΚΑΤΑ ΧΡΗΣΗ
+Line 327: ΕΚΤΑΣH ΣΤΟΝ ΔΗΜΟ ΚΑΛΛΙΘΕΑΣ
+Line 328: ΖΩΝΗ
+Line 329: ΠΕΡΙΟΧΗ ΚΤΙΡΙΩΝ ΕΘΝΙΚΗΣ
+Line 330: ΛΥΡΙΚΗΣ ΣΚΗΝΗΣ ΚΑΙ ΕΘΝΙΚΗΣ
+Line 331: ΒΙΒΛΙΟΘΗΚΗΣ ΖΩΝΗ
+Line 332: ΠAΡΑΧΩΡΟΥΜΕΝH ΚΑΤΑ ΧΡΗΣΗ
+Line 333: ΕΚΤΑΣH ΓΙΑ ΤΗΝ ΥΛΟΠΟΙΗΣΗ ΤΟΥ
+Line 334: ΠΟΛΙΤΙΣΤΙΚΟΥ ΚΕΝΤΡΟΥ ΙΔΡΥΜΑ
+Line 335: ΣΤΑΥΡΟΣ ΝΙΑΡΧΟΣ
+Line 336: ΠΕΡΙΟΧΗ ΠΑΡΚΟΥ ΖΩΝΗ
+Line 337: ΠΕΡΙΟΧΗ ΠΑΡΚΟΥ ΖΩΝΗ
+Line 338: ΠΕΡΙΟΧΗ ΠΑΡΚΟΥ ΖΩΝΗ
+Line 339: ΤΜΗΜΑ ΕΣΠΛΑΝΑΔΑΣ ΕΚΤΟΣ
+Line 340: ΟΡΙΩΝ ΕΡΓΟΥ
+Line 341: ΑΝΑΔΙΑΜΟΡΦΩΣΗ ΤΗΣ
+Line 342: ΥΠΑΡΧΟΥΣΑΣ ΦΥΤΕΥΣΗΣ
+Line 343: ΠΑΡΚΟ ΚΑΙ ΕΚΤΕΤΑΜΕΝΕΣ
+Line 344: ΕΠΙΦΑΝΕΙΕΣ ΝΕΡΟΥ, ΚΤΙΣΜΑΤΑ
+Line 345: ΕΞΥΠΗΡΕΤΗΣHΣ ΤΟΥ ΠΑΡΚΟΥ
+Line 346: ΕΠΙΦΑΝΕΙΑΣ ΚΑΙ
+Line 347: ΥΠΟΓΕΙΕΣ ΔΕΞΑΜΕΝΕΣ ΝΕΡΟΥ
+Line 348: ΠΑΡΚΟ ΚΑΙ ΚΛΕΙΣΤΩΝ
+Line 349: ΧΩΡΩΝ ΣΤΑΘΜΕΥΣΗΣ ΜΕ ΚΑΛΥΨΗ
+Line 350: ΠΡΑΣΙΝΟΥ
+Line 351: ΦΥΤΕΥΣΗ ΚΑΙ ΔΙΑΜΟΡΦΩΣΗ
+Line 352: ΠΡΟΣΒΑΣΕΩΝ
+Line 353: ΤΜΗΜΑ ΕΣΠΛΑΝΑΔΑΣ ΕNΤΟΣ
+Line 354: ΟΡΙΩΝ ΕΡΓΟΥ ΖΩΝΗ
+Line 355: ΦΥΤΕΥΣΗ ΚΑΙ ΔΙΑΜΟΡΦΩΣΗ
+Line 356: ΠΡΟΣΒΑΣΕΩΝ
+Line 357: IV
+Line 358: ΡΥΜΟΤΟΜΙΚΗ ΓΡΑΜΜΗ
+Line 359: ΟΙΚΟΔΟΜΙΚΗ ΓΡΑΜΜΗ
+Line 360: ΕΞΑΡΤΩΜΕΝΟΣ ΑΠΟ ΤΟ ΚΡΑΤΙΚΟ ΤΡΙΓΩΝΟΜΕΤΡΙΚΟ ΔΙΚΤΥΟ ΕΓΣΑ
+Line 361: Σύμφωνα 3785 ΦΕΚ 2009
+Line 362: Παλαιού Ιπποδρόμου Εσπλανάδας Ειδικού Σχεδίου
+Line 363: Ολοκληρωμένης Αναπτυξης ΕΣΟΑΠ Φαλήρου, ΦΕΚ
+Line 364: Ζώνη
+Line 365: Παραχωρούμενη Δήμο Καλιθέας
+Line 366: Ζώνη
+Line 367: Παραχωρούμενη
+Line 368: ΙΔΡΥΜΑ ΣΤΑΥΡΟΣ ΝΙΑΡΧΟΣ
+Line 369: Zώνη
+Line 370: Περιοχή
+Line 371: ΚΕΝΤΡΟ ΠΟΛΙΤΙΣΜΟΥ ΙΔΡΥΜΑ ΣΤΑΥΡΟΣ ΝΙΑΡΧΟΣ Ολυμπιακό Συγκρότημα
+Line 372: Φαλήρου
+Line 373: Περιοχή
+Line 374: Τμήμα
+Line 375: Eμβαδόν Κτηματικής Εταιρείας Δημοσίου Ζώνες
+Line 376: Eμβαδόν Ζώνες
+Line 377: EΑΗΘΙΚΛΜΝΞΟΠΡΒΓΔΕΖΑ
+Line 378: Eμβαδόν Ζώνη
+Line 379: EΑΗΘΙΚΛΜΝΞΟΠΡΒΑ
+Line 380: Eμβαδόν
+Line 381: Ζώνη
+Line 382: EΙΣΤΥΦΧΨΩΚI
+Line 383: Eμβαδόν Περιοχή
+Line 384: ΟΡΟΙ ΔΟΜΗΣΗΣ ΣΥΝΟΛΙΚΗΣ ΕΠΙΦΑΝΕΙΑΣ ΕΚΤΟΣ ΤΗΣ ΖΩΝΗΣ
+Line 385: Συντελεστής Δόμησης
+Line 386: Ποσοστό Κάλυψης
+Line 387: Συντελεστής 4
+Line 388: Μέγιστο Υψος Κτιριου
+Line 389: Μέγιστο Υψος Στεγάστρου
+Line 390: ΟΡΟΙ ΔΟΜΗΣΗΣ ZΩΝΗΣ Aρθρο 3785 ΦΕΚ 2009
+Line 391: Συντελεστής Δόμησης Aφαιρούμενα
+Line 392: Ποσοστό Κάλυψης Aφαιρούμενα
+Line 393: Συντελεστής ΓΟΚ
+Line 394: Μέγιστο Υψος ΓΟΚ
+Line 395: ΟΡΟΙ ΔΟΜΗΣΗΣ
+Line 396: 2 2016
+Line 397: ΔΗΛΩΣΗ ΙΔΙΟΚΤΗΤΗ 2011
+Line 398: ΚΕΝΤΡΟ ΠΟΛΙΤΙΣΜΟΥ ΙΔΡΥΜΑ ΣΤΑΥΡΟΣ ΝΙΑΡΧΟΣ
+Line 399: ΑΕ, Κτηματικής
+Line 400: Εταιρείας Δημοσίου,
+Line 401: 2009, 2009
+Line 402: ΕΚΠΡΟΣΩΠΟΣ
+Line 403: ΔΗΛΩΣΗ ΜΗΧΑΝΙΚΟΥ 77
+Line 404: Δηλώνω Νόμο
+Line 405: ΑΗΘΙΚΛΜΝΞΟΠΡΒΑ ΖΩΝΗ
+Line 406: Καλλιθέα Αττικής, Γενικού Πολεοδομικού Σχεδίου
+Line 407: Δήμου Καλλιθέας,
+Line 408: Δήμου Καλλιθέας, Νοτίου Τομέα
+Line 409: Αθηνών
+Line 410: Νόμου 1337
+Line 411: ΔΕΗ, 1923
+Line 412: ΜΗΧΑΝΙΚΟΣ
+Line 413: 2
+Line 414: 4
+Line 415: 2
+Line 416: 4
+Line 417: 2
+Line 418: 4
+Line 419: ΔΗΛΩΣΗ ΝΟΜΟΥ 2308
+Line 420: ΑΗΘΙΣΤΥΦΧΨΩΚΛΜΝΞΟΠΡΒΓΔΕΖΑ
+Line 421: ΚΑΕΚ
+Line 422: ΜΗΧΑΝΙΚΟΣ
+Line 423: ΠΑΡΑΤΗΡΗΣΕΙΣ
+Line 424: ΕΓΣΑ
+Line 425: 2.
+Line 426: ΦΕΚ 2009, 3785, Πολεοδομική
+Line 427: Ενότητα Δήμου Καλλιθέας
+Line 428: UTM
+Line 429: ΕΓΣΑ GPS
+Line 430: URBANUS TOCOM
+Line 431: Topographical Diagram
+Line 432: 2018
+Line 433: GENERAL DRAWING
+Line 434: RPBW 0040
+Line 435: 2
+Line 436: JVIT ARC
+Line 437: 00
+Line 438: 0040
+Line 439: ΟΙΚΟΔΟΜΙΚΗ ΑΔΕΙΑ
+Line 440: 2011
+Line 441: ΑΝΑΘΕΩΡΗΣΕΙΣ
+Line 442: 2012
+Line 443: 2012
+Line 444: 2012
+Line 445: 2013
+Line 446: 2013
+Line 447: 2014
+Line 448: 42 2015
+Line 449: 2016
+Line 450: ΕΓΚΡΙΣΗ ΕΡΓΑΣΙΩΝ
+Line 451: ΜΙΚΡΗΣ ΚΛΙΜΑΚΑΣ
+Line 452: 56366
+Line 453: 2016
+Line 454: ΟΙΚΟΔΟΜΙΚΗ ΑΔΕΙΑ
+Line 455: 72 2017
+Line 456: ΑΝΑΘΕΩΡΗΣΕΙΣ
+Line 457: 2017
+
+=== END OF FILTERED TEXT ===
+Total lines: 458

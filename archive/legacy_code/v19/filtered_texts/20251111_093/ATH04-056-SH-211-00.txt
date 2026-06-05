@@ -1,0 +1,257 @@
+=== FILTERED TEXT FOR: ATH04-056-SH-211-00.pdf ===
+
+Line   0: XF
+Line   1: DB
+Line   2: Horizontal
+Line   3: DB
+Line   4: DB
+Line   5: Bolt
+Line   6: Bolt
+Line   7: Bolt
+Line   8: Bolt
+Line   9: Bolt
+Line  10: A
+Line  11: XA
+Line  12: DB
+Line  13: Horizontal
+Line  14: DB
+Line  15: Bolt
+Line  16: Bolt
+Line  17: Bolt
+Line  18: Bolt
+Line  19: DB
+Line  20: DB
+Line  21: DB,
+Line  22: DB
+Line  23: DB
+Line  24: DB,
+Line  25: DB
+Line  26: DB
+Line  27: DB,
+Line  28: DB
+Line  29: DB
+Line  30: DB,
+Line  31: DB
+Line  32: DB
+Line  33: DB,
+Line  34: DB
+Line  35: DB
+Line  36: DB,
+Line  37: DB
+Line  38: DB
+Line  39: DB,
+Line  40: Vary Refer
+Line  41: Grade
+Line  42: Thick
+Line  43: Refer
+Line  44: Ground Floor Plan
+Line  45: Columns
+Line  46: External
+Line  47: Portion
+Line  48: ADMIN
+Line  49: COLO
+Line  50: COLO
+Line  51: TRUE NORTH
+Line  52: Microsoft
+Line  53: ENGINEERING CONSULTANT
+Line  54: ΣΥΜΒΟΥΛΟΣ ΜΕΛΕΤΗΤΗΣ
+Line  55: CERTIFIED ENGINEER
+Line  56: ΑΔΕΙΟΥΧΟΣ ΜΗΧΑΝΙΚΟΣ
+Line  57: SUPPLIER DOCUMENT NUMBER
+Line  58: ΚΩΔΙΚΟΣ ΣΧΕΔΙΟΥ ΠΡΟΜΗΘΕΥΤΗ
+Line  59: REVISION
+Line  60: ΑΝΑΘΕΩΡΗΣΗ
+Line  61: 00
+Line  62: A. Karra
+Line  63: Xenopoulos
+Line  64: ΣΥΝΤΑΚΤΗΣ
+Line  65: ΕΛΕΓΧΘΗΚΕ
+Line  66: ΕΓΚΡΙΘΗΚΕ
+Line  67: ΗΜΕΡΟΜΗΝΙΑ
+Line  68: ΑΝΑΘ.
+Line  69: ΣΗΜΕΙΩΣΕΙΣ ΠΕΡΙΓΡΑΦΗ
+Line  70: PREPAR
+Line  71: VERIFY
+Line  72: APROVAL
+Line  73: DATE
+Line  74: REV.
+Line  75: REMARK DESCRIPTION
+Line  76: PROJECT TITLE
+Line  77: TAG NUMBERS
+Line  78: ΕΤΙΚΕΤΑΣ
+Line  79: ATH04 DATA CENTER
+Line  80: DRAWING TITLE
+Line  81: DRAWING
+Line  82: ΑΡΙΘΜΟΣ ΣΧΕΔΙΟΥ
+Line  83: SCALE
+Line  84: ΚΛΙΜΑΚΑ
+Line  85: FORMAT
+Line  86: ΜΟΡΦΗ
+Line  87: FACILITY CODE
+Line  88: ΚΩΔ. ΕΓΚΑΤΑΣ.
+Line  89: SYSTEM
+Line  90: ΣΥΣΤΗΜΑΤΟΣ
+Line  91: SHEET
+Line  92: ΦΥΛΛΟ
+Line  93: RD CODE
+Line  94: ΚΩΔΙΚΟΣ RD
+Line  95: REVISION
+Line  96: ΑΝΑΘΕΩΡ.
+Line  97: ATH 04
+Line  98: JVRT
+Line  99: A. Koukouselis
+Line 100: Civil Engineer
+Line 101: Structural Engineer
+Line 102: Απόστολος Κουκουσέλης
+Line 103: Πολιτικός Μηχανικός
+Line 104: Πολιτικός Μηχανικός
+Line 105: PILE FOUNDATION ADMINISTRATION
+Line 106: BALLARD BUILDING
+Line 107: ΤΙΤΛΟΣ ΕΡΓΟΥ
+Line 108: ΤΙΤΛΟΣ ΣΧΕΔΙΟΥ
+Line 109: GENERAL NOTES CONSTRUCTION
+Line 110: STATIKI SA Structural Project Specification Architectural,
+Line 111: Civil, Mechanical Electrical General Notes ATH04 A 000
+Line 112: Refer
+Line 113: STATIKI SA
+Line 114: Work
+Line 115: Statutory Authorities.
+Line 116: CAST SITU CONCRETE
+Line 117: Cast Project Specification Greek Hellenic Code
+Line 118: Concrete Technology 2016 KTS 2016 ΤΠ 1501 01 01 01 00. Concrete
+Line 119: Summary Project Specification
+Line 120: Pile
+Line 121: Exposure EN
+Line 122: Concrete 45
+Line 123: Blinding
+Line 124: Concrete
+Line 125: Blinding
+Line 126: Ground
+Line 127: Exposure EN
+Line 128: Concrete 45
+Line 129: External
+Line 130: Exposure EN
+Line 131: Concrete
+Line 132: Refer Civil Specification
+Line 133: Cover Reinforcement Design Drawings.
+Line 134: Internal
+Line 135: Reinforcement
+Line 136: High EN 10080 Greek
+Line 137: KTX 2008
+Line 138: Lengths EN 1992
+Line 139: Spacers
+Line 140: Sufficient
+Line 141: Cover
+Line 142: Chairs,
+Line 143: Spacers
+Line 144: Spacers
+Line 145: Concrete Finishes EN 13670
+Line 146: Basic, Ordinary, Plain Special. Finishes
+Line 147: Concealed Ordinary Finish
+Line 148: Concealed Ordinary Finish
+Line 149: Exposed Plain Finish
+Line 150: Exposed Plain Finish
+Line 151: Internal, External,
+Line 152: Floors Floor Class Technical
+Line 153: Report Concrete Industrial Ground Floors A Guide Design Construction Concrete Society.
+Line 154: Concrete Hellenic Code Concrete Technology 2016 KTS 2016 ΤΠ 1501 01 01 01 00.
+Line 155: Exposed
+Line 156: Architect Floor Finishes Drawing Project Specification
+Line 157: Concrete Hellenic Code Concrete Technology 2016 KTS 2016 TΠ
+Line 158: 1501 01 01 02 00.
+Line 159: Steelwork
+Line 160: Contractor Concrete Contractor.
+Line 161: Concrete EN 12350
+Line 162: EN EN 12390.
+Line 163: Samples Density
+Line 164: LOT EN ISO IEC 17025
+Line 165: Engineer
+Line 166: Engineer Contractor
+Line 167: EN 12350 EN
+Line 168: 12350 EN 12350
+Line 169: MOVEMENT CONSTRUCTION JOINTS
+Line 170: Movement Ground Floor
+Line 171: Peikko TERAJOINT Movement
+Line 172: Ground Floor
+Line 173: Isolation
+Line 174: Contractor
+Line 175: EARTHWORKS FOUNDATIONS
+Line 176: Earthworks Project Specifications
+Line 177: Civil Geotechnical
+Line 178: Granular
+Line 179: ATH04 03
+Line 180: ATH04 04
+Line 181: Refer Project Specification
+Line 182: Ground Floor Ground Floor
+Line 183: Property
+Line 184: Property
+Line 185: Floor
+Line 186: Typical Floor
+Line 187: Property
+Line 188: Retail
+Line 189: Reach
+Line 190: Reach
+Line 191: Building Beam Reinforcement
+Line 192: Pile Caps
+Line 193: ATH04 056 SH
+Line 194: ATH04 056 SH 00
+Line 195: Κτίριο Ανάπτυγμα
+Line 196: 00
+Line 197: 00
+Line 198: IFA ISSUED APPROVAL
+Line 199: Kalogiros
+Line 200: 02 2025
+Line 201: Reinforcement Beams Pile Caps
+Line 202: Longitudinal Beams Pile
+Line 203: Longitudinal Beams Pile
+Line 204: Typical Beam
+Line 205: Typical Beam
+Line 206: Typical Beam
+Line 207: Typical Beam
+Line 208: Typical Beam
+Line 209: Section
+Line 210: Section A
+Line 211: BEAM REINFORCEMENT SCHEDULE
+Line 212: Partition
+Line 213: Rebar
+Line 214: Number
+Line 215: Rebar
+Line 216: Number
+Line 217: Suffix
+Line 218: Bending Detail
+Line 219: Length
+Line 220: Quantity
+Line 221: Total Length Weight
+Line 222: 01
+Line 223: 02
+Line 224: 03
+Line 225: 04
+Line 226: 05
+Line 227: 06
+Line 228: 07
+Line 229: 40
+Line 230: 08
+Line 231: 09
+Line 232: 480
+Line 233: BEAM REINFORCEMENT SCHEDULE
+Line 234: Partition
+Line 235: Rebar
+Line 236: Number
+Line 237: Rebar
+Line 238: Number
+Line 239: Suffix
+Line 240: Bending Detail
+Line 241: Length
+Line 242: Quantity
+Line 243: Total Length Weight
+Line 244: BEAM TOTALS
+Line 245: Diameter
+Line 246: Total Length
+Line 247: Weight
+Line 248: Totals
+Line 249: Section
+Line 250: Section
+Line 251: Typical HD
+
+=== END OF FILTERED TEXT ===
+Total lines: 252

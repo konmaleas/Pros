@@ -1,0 +1,131 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-846-0A_-_RECEIVING_STAGING_AREA_SHEET_2_OF_3.pdf ===
+
+Line   0: GL
+Line   1: DIMENSION VARY DEPENDING ON ROOM LOCATION
+Line   2: 1525
+Line   3: ID AD 038
+Line   4: WT
+Line   5: WT
+Line   6: LT MEDITE LINER
+Line   7: POWER FLOATED
+Line   8: CONCRETE SEALED
+Line   9: ASHFORD FORMULA SEALER
+Line  10: VINYL COVED UPSTAND
+Line  11: PREFINISHED STEEL
+Line  12: FIREMASTER WALLS ABOVE
+Line  13: PROTECTION BOARD RAL 9010
+Line  14: WHITE
+Line  15: ID AD 050
+Line  16: CEILING TYPE UNDERSIDE
+Line  17: METAL DECK
+Line  18: HIGH SPEED ROLLER DOOR
+Line  19: GL
+Line  20: ID AD 045
+Line  21: ID AD 046
+Line  22: LT MEDITE LINER
+Line  23: WT COMPOSITE
+Line  24: WALL CLADDING
+Line  25: STONEWOOL CORE POWDER
+Line  26: COATED METAL SKIN
+Line  27: SELECTED COLOUR
+Line  28: PREFINISHED STEEL
+Line  29: FIREMASTER WALLS ABOVE
+Line  30: PROTECTION BOARD RAL 9010
+Line  31: WHITE
+Line  32: VINYL COVED UPSTAND
+Line  33: POWER FLOATED
+Line  34: CONCRETE SEALED
+Line  35: ASHFORD FORMULA SEALER
+Line  36: 1525
+Line  37: WT
+Line  38: WT
+Line  39: CEILING TYPE UNDERSIDE
+Line  40: METAL DECK
+Line  41: HIGH SPEED ROLLER DOOR
+Line  42: GL
+Line  43: ID AD 043
+Line  44: ID AD 044
+Line  45: RECEIVING
+Line  46: STAGING
+Line  47: AREA
+Line  48: 00 040
+Line  49: YE
+Line  50: 1525
+Line  51: LT MEDITE LINER
+Line  52: POWER FLOATED
+Line  53: CONCRETE SEALED
+Line  54: ASHFORD FORMULA SEALER
+Line  55: VINYL COVED UPSTAND
+Line  56: PREFINISHED STEEL
+Line  57: FIREMASTER WALLS ABOVE
+Line  58: PROTECTION BOARD RAL 9010
+Line  59: WHITE
+Line  60: LT MEDITE LINER
+Line  61: HIGH SPEED ROLLER DOOR
+Line  62: HIGH SPEED ROLLER DOOR
+Line  63: NOTE
+Line  64: WALL TYPE LEGEND DRAWING
+Line  65: ADMIN
+Line  66: COLO
+Line  67: COLO 2
+Line  68: 2
+Line  69: 4
+Line  70: 2
+Line  71: 4
+Line  72: TRUE NORTH
+Line  73: Sheet Title Number
+Line  74: Scale
+Line  75: Plan
+Line  76: Design Consultants
+Line  77: Microsoft
+Line  78: DATA CENTER
+Line  79: SPATA GREECE
+Line  80: Contractor Joint Venture
+Line  81: Name
+Line  82: Contractor Project
+Line  83: Contractor Contract
+Line  84: Contractor PM
+Line  85: Contractor BIM Mngr
+Line  86: Contractor Information
+Line  87: Renco Terna
+Line  88: Client
+Line  89: General Notes
+Line  90: Client Project
+Line  91: Client Contract
+Line  92: Client PM
+Line  93: Client BIM Mngr
+Line  94: Primary Client Information
+Line  95: Layout
+Line  96: Revision
+Line  97: Tombazi Chalandri
+Line  98: 15232
+Line  99: Athens Greece
+Line 100: 0800 3262
+Line 101: Agion Theodoron Square Athens
+Line 102: 10561
+Line 103: Athens Greece
+Line 104: Kimithois Agios Dimitrios
+Line 105: 17236
+Line 106: Athens Greece
+Line 107: Purpose Issue
+Line 108: Issue
+Line 109: Name
+Line 110: RECEIVING STAGING AREA SHEET
+Line 111: 2
+Line 112: VAP AH
+Line 113: SCALE
+Line 114: RECEIVING STAGING AREA ELEVATION 4
+Line 115: SCALE
+Line 116: RECEIVING STAGING AREA ELEVATION 2
+Line 117: SCALE
+Line 118: RECEIVING STAGING AREA ELEVATION
+Line 119: 1250
+Line 120: SCALE
+Line 121: Date
+Line 122: Description
+Line 123: 04
+Line 124: Issued Approval
+Line 125: VAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 126

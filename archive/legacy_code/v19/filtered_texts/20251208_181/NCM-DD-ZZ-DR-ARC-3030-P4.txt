@@ -1,0 +1,172 @@
+=== FILTERED TEXT FOR: NCM-DD-ZZ-DR-ARC-3030-P4.pdf ===
+
+Line   0: ΙΣΟΓΕΙΟ
+Line   1: ΠΡΩΤΟ
+Line   2: ΔΕΥΤΕΡΟ
+Line   3: ΠΡΩΤΟ ΥΠΟΓΕΙΟ
+Line   4: ΔΕΥΤΕΡΟ ΥΠΟΓΕΙΟ
+Line   5: ΔΩΜΑΤΩΝ ΚΑΙ
+Line   6: ΔΩΜΑΤΩΝ
+Line   7: ΥΔΡΟΦΟΡΟΣ ΟΡΙΖΟΝΤΑΣ
+Line   8: ΜΑΡΓΑ
+Line   9: ΠΩΛΗΤΗΡΙΟ ΜΟΥΣΕΙΟΥ
+Line  10: ΦΩΤΟΒΟΛΤΑΪΚΑ ΠΑΝΕΛ
+Line  11: ΜΕΤΑΛΛΙΚΗ ΣΧΑΡΑ ΣΤΗΡΙΞΗΣ
+Line  12: CHILLERS
+Line  13: Πάρκο Πεδιαίου
+Line  14: ΟΧΗΜΑΤΟΣ
+Line  15: ΑΥΛΗ ΕΡΓΑΣΤΗΡΙΩΝ
+Line  16: ΦΑΣΗ ΕΡΓΟΥ
+Line  17: ΟΡΙΟ ΠΡΑΝΟΥΣ
+Line  18: ΟΡΙΟ ΠΡΑΝΟΥΣ
+Line  19: ΧΩΡΟΣ ΠΑΡΑΛΑΒΗΣ ΕΥΡΗΜΑΤΩΝ
+Line  20: ΓΡΑΦΕΙΟ
+Line  21: ΨΗΦΙΟΠ ΣΗΣ
+Line  22: ΕΣΩΤΕΡΙΚΟΣ
+Line  23: ΜΗΧΑΝΟΣΤΑΣΙΟ ΝΕΡΟΥ ΧΡΗΣΗΣ
+Line  24: ΚΚΜ
+Line  25: ΚΚΜ
+Line  26: ΠΑΡΑΣΚΕΥΑΣΤΗΡΙΟ
+Line  27: ΗΛΕΚΤΡΟΣΤΑΣΙΟ
+Line  28: ΜΟΝΙΜΗ ΕΚΘΕΣΗ III
+Line  29: COSMOS
+Line  30: ΔΕΥΤΕΡΟ
+Line  31: ΙΣΟΓΕΙΟΥ
+Line  32: ΠΡΩΤΟ
+Line  33: ΜΟΝΙΜΗ ΕΚΘΕΣΗ III COSMOS
+Line  34: ΜΟΝΙΜΗ ΕΚΘΕΣΗ III COSMOS
+Line  35: ΠΡΟΘΑΛΑΜΟΣ
+Line  36: ΚΛΙΜΑΚΟΣΤΑΣΙΟΥ
+Line  37: 04
+Line  38: 05
+Line  39: 05
+Line  40: 06
+Line  41: 06
+Line  42: ΑΠΟΚΑΠΝΙΣΜΟΣ
+Line  43: WC ΦΥΛΑΚΕΙΟΥ
+Line  44: ΥΠΗΡΕΣΙΑΚΗ
+Line  45: ΑΠΟΘΗΚΗ
+Line  46: ΓΡΑΦΕΙΟΥ
+Line  47: ΠΩΛΗΤΗΡΙΟΥ
+Line  48: WC ΦΥΛΑΚΕΙΟΥ
+Line  49: 8353
+Line  50: 8310
+Line  51: 8304
+Line  52: 8360
+Line  53: 8362
+Line  54: 8363
+Line  55: 8366
+Line  56: 8163
+Line  57: 8312
+Line  58: ΜΟΝΙΜΗ ΕΚΘΕΣΗ III
+Line  59: COSMOS
+Line  60: ΥΠΕΥΘΥΝΟΥ ΕΡΓΟΥ
+Line  61: ΗΜΕΡΟΜΗΝΙΑ
+Line  62: ONOMA ΑΡΧΕΙΟΥ
+Line  63: ΛΕΥΚΩΣΙΑ ΚΥΠΡΟΣ
+Line  64: ΜΕΛΕΤΗ ΕΦΑΡΜΟΓΗΣ DD
+Line  65: ΝΕΟ ΚΥΠΡΙΑΚΟ ΜΟΥΣΕΙΟ
+Line  66: ΗΜΕΡΟΜΗΝΙΑ
+Line  67: ΕΓΚΡΙΘΗΚΕ
+Line  68: ΤΜΗΜΑ
+Line  69: ΗΜΕΡΟΜΗΝΙΑ
+Line  70: ΕΛΕΓΧΘΗΚΕ
+Line  71: ΤΜΗΜΑ
+Line  72: ΤΙΤΛΟΣ
+Line  73: ΥΠΟΒΟΛΗ
+Line  74: ΑΡ.
+Line  75: ΥΠΟΥΡΓΕΙΟ ΜΕΤΑΦΟΡΩΝ, ΕΠΙΚΟΙΝΩΝΙΩΝ ΚΑΙ ΕΡΓΩΝ
+Line  76: ΤΜΗΜΑ ΕΡΓΩΝ
+Line  77: KEY PLAN
+Line  78: ΗΜΕΡΟΜΗΝΙΑ
+Line  79: ΠΕΡΙΕΧΟΜΕΝΟ
+Line  80: ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΜΕΛΕΤΗ
+Line  81: THEONI XANTHI XZA LLC
+Line  82: ΥΠΕΥΘΥΝΟΣ ΕΡΓΟΥ
+Line  83: ΑΡΧΙΤΕΚΤΩΝ ΘΕΩΝΗ ΞΑΝΘΗ
+Line  84: ΑΡΧΙΤΕΚΤΟΝΕΣ
+Line  85: ΜΑΡΓΑΡΙΤΑ ΖΑΚΥΝΘΙΝΟΥ
+Line  86: ΣΥΝΤΟΝΙΣΤΗΣ ΑΡΧIT ΚΗΣ ΜΕΛΕΤΗΣ
+Line  87: ΚΟΣΜΑΣ ΒΑΡΚΑΡΟΛΗΣ
+Line  88: ΑΡΧΙΤΕΚΤΟΝΙΚΑ
+Line  89: YAP
+Line  90: ΣTATIKΑ
+Line  91: RHOMBUS STRUCTURAL ENGINEERS LLC ΣΤ.
+Line  92: PENELIS CONSULTING ENGINEERS SA ΠΕΝΕΛΗΣ
+Line  93: GEORGHIOU ZEMBYLAS PARTNERS
+Line  94: ΜΗΧΑΝΟΛΟΓΙΚA
+Line  95: ΗΛΕΚΤΡΟΛΟΓΙΚA
+Line  96: ΜΟΥΣΕΙΟΛΟΓΙΚA
+Line  97: THETA ACOUSTICS LTD ΝΙΑΟΥΝΑΚΗΣ
+Line  98: ΑΚΟΥΣΤΙΚA
+Line  99: RODITIS PARTNERS
+Line 100: ΕΠΙΜΕΤΡΗΣΗ ΠΟΣΟΤΗΤΩΝ
+Line 101: FLOROS PANTELI ASSOCIATES ΠΑΝΤΕΛΗ
+Line 102: ΥΓΕΙΑ
+Line 103: ΜΟΥΣΕΙΟΓΡΑΦΙΚA
+Line 104: ΘΩΜΑΣ ΤΣΟΥΚΑΛΑΣ
+Line 105: ΦΩΤΙΣΜΟΣ
+Line 106: DECO ASSOCIATES ΕΛ. ΝΤΕΚΩ
+Line 107: ΠΥΡΟΠΡΟΣΤΑΣΙΑ
+Line 108: INT FIRE CYPRUS LTD ΣΠ. ΣΠΥΡΟΥ
+Line 109: ΚΥΚΛΟΦΟΡΙΑΚΑ
+Line 110: DROMOS CONSULTING LTD ΖΕΚΚΟΣ
+Line 111: ΣΗΜΑΝΣΗ
+Line 112: POST SPECTACULAR OFFICE ΓΑΛΙΚΑΣ
+Line 113: ΚΤΗΡΙΟΥ
+Line 114: ARION PLUS
+Line 115: ΕΡΓΑΣΙΑΣ
+Line 116: ΜΕΛΕΤΗΣ
+Line 117: FEREOS LLC ΦΕΡΑΙΟΣ Αναπλ. Υπεύθυνος Οµάδας Έργου
+Line 118: DROMOS CONSULTING LTD ΖΕΚΚΟΣ
+Line 119: ΣΥΜΒΟΥΛΟΙ ΜΕΛΕΤΗΤΕΣ
+Line 120: ΓΕΩΤΕΧΝΙΚΑ
+Line 121: ΜΟΥΣΕΙΑΚΟΣ
+Line 122: XZA
+Line 123: ΒΑΣΙΛΕΙΟΥ
+Line 124: ΕΡΓΑΣΤΗΡΙΑ
+Line 125: ΩΡ
+Line 126: ΑΡΧΙΤΕΚΤΟΝΙΚΗ
+Line 127: ΚΛΙΜΑΚΑ
+Line 128: VAP Σύµβουλος Μελέτης Εφαρµογής
+Line 129: DR ARC
+Line 130: ΚΑΤΑΛΛΗΛΟΤΗΤΑΣ
+Line 131: NCM DD
+Line 132: Engineer Record
+Line 133: GEORGHIOU ZEMBYLAS PARTNERS
+Line 134: ANDREAS EVRIPIDOU CIVIL ENGINEERS
+Line 135: ΣΤΕΡΓΙΟΣ ΓΑΛΙΚΑΣ
+Line 136: ΘΩΜΑΣ ΤΣΟΥΚΑΛΑΣ
+Line 137: ΣΤΕΡΓΙΟΣ ΓΑΛΙΚΑΣ
+Line 138: Συνεργάτης ΤΣΑΜΠΙΚΟΣ ΠΕΤΡΑΣ
+Line 139: POST SPECTACULAR OFFICE ΓΑΛΙΚΑΣ
+Line 140: ΠΡΟΜΕΛΕΤΗ ΣΑΚΕΛΛΑΡΙΟΥ
+Line 141: ΦΥΣΙΚΟΣ ΦΩΤΙΣΜΟΣ
+Line 142: ΤΣΑΓΚΡΑΣΟΥΛΗΣ
+Line 143: ΕΞΟΠΛΙΣΜΟΣ ΚΟΥΖΙΝΑΣ
+Line 144: XENEX
+Line 145: ΕΝΕΡΓΕΙΑΚΑ ΚΕΛΥΦΟΥΣ
+Line 146: METABUILD
+Line 147: ΓΡΑΦΙΣΤΙΚΑ
+Line 148: ΦΥΤΟΤΕΧΝΙΚΑ
+Line 149: LANDCO EΠΕ ΚΑΝΤΑΡΤΖΗΣ
+Line 150: ΦΕΒΡΟΥΑΡΙΟΣ 2021
+Line 151: 2021
+Line 152: ΤΟΜΕΣ ΓΓ ΖΩΝΗ
+Line 153: 3030
+Line 154: ΖΖ
+Line 155: ΖΩΝΗ
+Line 156: ΤΟΜΗ ΓΓ ΖΩΝΗ
+Line 157: ΤΟΜΗ ΓΓ ΖΩΝΗ
+Line 158: P1
+Line 159: 08 07 2020
+Line 160: Υποβολή
+Line 161: 07 2020
+Line 162: Υποβολή
+Line 163: 2020
+Line 164: Υποβολή
+Line 165: 2021
+Line 166: Υποβολή
+
+=== END OF FILTERED TEXT ===
+Total lines: 167

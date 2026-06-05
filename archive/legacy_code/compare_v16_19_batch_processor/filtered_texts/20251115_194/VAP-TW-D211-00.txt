@@ -1,0 +1,118 @@
+=== FILTERED TEXT FOR: VAP-TW-D211-00.pdf ===
+
+Line   0: Level
+Line   1: Level
+Line   2: Level
+Line   3: Level 2
+Line   4: Level
+Line   5: 4
+Line   6: 2
+Line   7: 4
+Line   8: 2
+Line   9: Detail
+Line  10: Scale
+Line  11: Detail
+Line  12: Scale
+Line  13: 2
+Line  14: Detail
+Line  15: Scale
+Line  16: Detail
+Line  17: Scale
+Line  18: 4
+Line  19: Detail
+Line  20: Scale
+Line  21: Detail
+Line  22: Scale
+Line  23: Detail
+Line  24: Scale
+Line  25: Detail
+Line  26: Scale
+Line  27: Detail
+Line  28: Scale
+Line  29: Epoxy Paint
+Line  30: Structural Concrete Slab
+Line  31: Industrial Floor
+Line  32: Mesh Reinforcing
+Line  33: Marble Flooring
+Line  34: Staircase Landing
+Line  35: Cementitious Grouting
+Line  36: Structural Concrete Slab
+Line  37: Mortar
+Line  38: Marble Flooring Type
+Line  39: Cementitious Grouting
+Line  40: Structural Concrete Slab
+Line  41: Mortar
+Line  42: Concrete Screed
+Line  43: Mesh Reinforcing
+Line  44: Marble Flooring Type
+Line  45: Cementitious Grouting
+Line  46: Structural Concrete Slab
+Line  47: Mortar
+Line  48: Concrete Screed
+Line  49: Mesh Reinforcing
+Line  50: Marble Flooring Type
+Line  51: Cementitious Grouting
+Line  52: Structural Concrete Slab
+Line  53: Mortar
+Line  54: Concrete Screed
+Line  55: Mesh Reinforcing
+Line  56: Cement
+Line  57: Structural Concrete Slab
+Line  58: Tiles Flooring
+Line  59: Water Resistant Coat
+Line  60: 2
+Line  61: Tiles Adhesive
+Line  62: Mesh Reinforcing
+Line  63: Cement
+Line  64: Structural Concrete Slab
+Line  65: Tiles Flooring Type 2 Kitchen
+Line  66: Water Resistant Coat
+Line  67: 2
+Line  68: Tiles Adhesive
+Line  69: Mesh Reinforcing
+Line  70: Floor Finish Others
+Line  71: Cement Screed
+Line  72: Structural Concrete Slab
+Line  73: Bituminous
+Line  74: Mesh Reinforcing
+Line  75: Cement
+Line  76: Rigid
+Line  77: Mortar
+Line  78: Peble
+Line  79: Cement
+Line  80: Peble
+Line  81: REVISIONS
+Line  82: CLIENT
+Line  83: PROJECT
+Line  84: DESIGN STAGE
+Line  85: DATE
+Line  86: SCALE
+Line  87: FILE NAME
+Line  88: DRAWING TITLE
+Line  89: DRAWING
+Line  90: TAHLIA WALK
+Line  91: VAPARCHITECTS
+Line  92: Epirou Street
+Line  93: Athens, GR Greece
+Line  94: 3262
+Line  95: 3269
+Line  96: DESIGN ARCHITECTS
+Line  97: CONSULTANTS
+Line  98: STUDIO
+Line  99: Isavron
+Line 100: Lycabettus
+Line 101: Athens, GR 11471 Greece
+Line 102: ZAD DEVELOPMENT
+Line 103: STRUCTURAL ENGINEER
+Line 104: MEP ENGINEER
+Line 105: 01 PM
+Line 106: Typical Details
+Line 107: Floors
+Line 108: Detail Design
+Line 109: Description
+Line 110: Date
+Line 111: First
+Line 112: 07
+
+=== END OF FILTERED TEXT ===
+Total lines: 113

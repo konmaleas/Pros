@@ -1,0 +1,69 @@
+=== FILTERED TEXT FOR: ATH1-DC02-CAP-20302-PLN-2-006-RF-00-T00_4-GENERAL_ARRANGEMENT_PLAN_DC2_RF_13_70_.pdf ===
+
+Line   0: 2
+Line   1: Version
+Line   2: Date
+Line   3: Review
+Line   4: Designer
+Line   5: Auditor
+Line   6: Approver
+Line   7: Paper Size
+Line   8: SCALE
+Line   9: ATH1 CAP 20302 PLN 2 006 RF 00 GENERAL ARRANGEMENT PLAN RF
+Line  10: 20302
+Line  11: PP Model Name
+Line  12: ORGANDI
+Line  13: Esplanade Miriam Makeba
+Line  14: Gerda Taro
+Line  15: 69100 VILLEURBANNE France
+Line  16: 40 00 70
+Line  17: Internet
+Line  18: GENERAL ARRANGEMENT PLAN RF
+Line  19: ATH1
+Line  20: PROJECT
+Line  21: RIBA
+Line  22: TRADE
+Line  23: AUTHOR
+Line  24: LEVEL
+Line  25: CAP TRADE
+Line  26: TYPE
+Line  27: DOC.
+Line  28: VERSION
+Line  29: 2
+Line  30: 20302
+Line  31: CAP
+Line  32: RF
+Line  33: PLN
+Line  34: 006
+Line  35: 00
+Line  36: SITE
+Line  37: ATH
+Line  38: Kifissias Avenue
+Line  39: GR 15125, MAROUSSI Greece
+Line  40: 4463 1552
+Line  41: Anagirountos
+Line  42: Vari 16672, Greece
+Line  43: Telephone 9654
+Line  44: Email
+Line  45: PAIANIA
+Line  46: GREECE
+Line  47: MODEL NAME
+Line  48: REFERENCE
+Line  49: FILE NAME
+Line  50: TRADE
+Line  51: ARCHITECTURE
+Line  52: Tombazi
+Line  53: Chalandri, 15232
+Line  54: Athens, Greece
+Line  55: 0800 3262
+Line  56: Thivaidos Street
+Line  57: GR Kifissia,
+Line  58: CAP TRADE General
+Line  59: 03 2025
+Line  60: First Submission
+Line  61: VAP
+Line  62: VAP
+Line  63: CAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 64

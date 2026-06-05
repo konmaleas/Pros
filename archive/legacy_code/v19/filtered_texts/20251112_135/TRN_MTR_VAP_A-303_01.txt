@@ -1,0 +1,96 @@
+=== FILTERED TEXT FOR: TRN_MTR_VAP_A-303_01.pdf ===
+
+Line   0: ΟΡΟΦΟΣ
+Line   1: 6730
+Line   2: ΟΡΟΦΟΣ
+Line   3: 9910
+Line   4: ΟΡΟΦΟΣ
+Line   5: 13010
+Line   6: ΟΡΟΦΟΣ
+Line   7: 16000
+Line   8: ΟΡΟΦΟΣ
+Line   9: 19360
+Line  10: ΙΣΟΓΕΙΟ
+Line  11: 3760
+Line  12: 2060
+Line  13: ΙΣΟΓΕΙΟ
+Line  14: ΕΠΙΠΕΔΟ
+Line  15: 3090
+Line  16: ΕΠΙΠΕΔΟ
+Line  17: 5390
+Line  18: ΥΠΕΡΔΩΜΑ
+Line  19: 25390
+Line  20: ΟΡΙΟ ΟΙΚΟΠΕΔΟΥ
+Line  21: ΠΛΑΤΟΣ
+Line  22: ΟΡΙΟ ΟΙΚΟΠΕΔΟΥ
+Line  23: 2350
+Line  24: ΚΛΙΜΑΚΑ
+Line  25: SCALE
+Line  26: ΕΡΓΟ
+Line  27: ΗΜΕΡΟΜΗΝΙΑ
+Line  28: FIRST ISSUE DATE
+Line  29: ΠΕΡΙΟΧΗ
+Line  30: ZONE
+Line  31: ISSUED
+Line  32: CONSTRUCTION
+Line  33: APPROVAL
+Line  34: TENDER
+Line  35: STATUS
+Line  36: DRAFT
+Line  37: FINAL
+Line  38: DISCIPLINE
+Line  39: ARC
+Line  40: ΑΝΑΘ.
+Line  41: REV.
+Line  42: VAP
+Line  43: PROJECT
+Line  44: DRAWING
+Line  45: CLIENT
+Line  46: Τοµπάζη Χαλάνδρι, 15332
+Line  47: 3262 3269
+Line  48: KEY PLAN
+Line  49: ΠΡΟΕΓΚΡΙΣΗ ΓΙΑ ΕΣΩΤΕΡΙΚΕΣ ΣΕ
+Line  50: ΥΦΙΣΤΑΜΕΝO ΚΤΙΡΙΟ ΓΡΑΦΕΙΩΝ ΧΩΡΙΣ
+Line  51: ΜΕΤΑΒΟΛΗ ΦΟΡΤΙΩΝ, ΠΡΟΣΘΗΚΗ
+Line  52: ΑΝΕΛΚΥΣΤΗΡΑ ΑΜΕΑ, ΕΠΕΜΒΑΣΕΙΣ ΣΤΙΣ ΟΨΕΙΣ
+Line  53: ΜΕ ΧΡΗΣΗ ΙΚΡΙΩΜΑΤΩΝ, ΕΓΚΑΤΑΣΤΑΣΗ
+Line  54: ΦΩΤΟΒΟΛΤΑΪΚΩΝ ΣΥΣΤΗΜΑΤΩΝ, ΠΡΟΣΘΗΚΗ
+Line  55: ΣΤΕΓΑΣΤΡΟΥ ΣΤΟ
+Line  56: ΑΚΑΛΥΠΤΟΥ ΧΩΡΟΥ ΚΑΙ ΟΠΗ ΠΛΑΚΑΣ ΓΙΑ ΤΗ
+Line  57: ΣΤΑΣΗΣ ΚΛΙΜΑΚΟΣΤΑΣΙΟΥ
+Line  58: ΘΕΣΗ
+Line  59: LOCATION
+Line  60: ΜΕΣΟΓΕΙΩΝ ΚΑΙ ΤΡΙΚΑΛΩΝ
+Line  61: ΑΜΠΕΛΟΚΗΠΟΙ ΑΘΗΝΑΙΩΝ 80077
+Line  62: ΑΡΧΙΤΕΚΤΟΝIKH ΜΕΛΕΤΗ
+Line  63: ARCHITECTURAL DESIGN
+Line  64: ΣΤΑΤΙΚΗ ΜΕΛΕΤΗ
+Line  65: STRUCTURAL DESIGN
+Line  66: ΜΗΧΑΝΟΛΟΓΙΚΗ ΜΕΛΕΤΗ
+Line  67: MEP DESIGN
+Line  68: Λεωφ. Αναγυρούντος 16672, Βάρη
+Line  69: 4395 4637
+Line  70: NSZ
+Line  71: Φιλολάου Ηλιούπουλη
+Line  72: ΜΕΛΕΤΗ
+Line  73: STUDY
+Line  74: STAGE
+Line  75: ΜΕΛΕΤΗΤΗ
+Line  76: DESIGNER STAMP
+Line  77: ΕΤΑΙΡΕΙΑΣ
+Line  78: COMPANY STAMP
+Line  79: ΚΗΜ ΕΜΜΑΝΟΥΗΛ ΤΣΕΚΟΥΡΑΣ
+Line  80: ΛΙΘΟΣ ΣΥΜΒΟΥΛΟΙ ΜΗΧΑΝΙΚΟΙ
+Line  81: VASSILIS ALEXANDROS POUTETSIS
+Line  82: ARCHITECTS ASSOCIATES IKE
+Line  83: ΤΟΜΗ ΓΓ
+Line  84: 08 06
+Line  85: A
+Line  86: ΑΝΑΘΕΩΡΗΣΕΙΣ
+Line  87: ΠΕΡΙΓΡΑΦΗ DESCRIPTION
+Line  88: ΗΜ ΝΙΑ DATE
+Line  89: ΠΡΩΤΗ ΥΠΟΒΟΛΗ
+Line  90: 08 06 2021
+
+=== END OF FILTERED TEXT ===
+Total lines: 91

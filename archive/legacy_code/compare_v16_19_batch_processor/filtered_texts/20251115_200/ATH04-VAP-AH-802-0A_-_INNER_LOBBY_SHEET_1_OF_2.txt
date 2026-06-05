@@ -1,0 +1,132 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-802-0A_-_INNER_LOBBY_SHEET_1_OF_2.pdf ===
+
+Line   0: 4
+Line   1: 2
+Line   2: 2150
+Line   3: 1200
+Line   4: 1270
+Line   5: 4259
+Line   6: 40
+Line   7: INNER LOBBY
+Line   8: 00 002
+Line   9: 9200
+Line  10: ID AD 002
+Line  11: DOUBLED GLAZED,
+Line  12: THERMALLY BROKEN,
+Line  13: ALUMINIUM STICK CURTAIN
+Line  14: WALL SYSTEM
+Line  15: POLYESTER POWDER
+Line  16: COATED PAINT FINISH
+Line  17: WT
+Line  18: WT
+Line  19: YC
+Line  20: YD
+Line  21: INTERFACE UNITY
+Line  22: INTERNAL CARPET
+Line  23: GRAPHITE
+Line  24: 4922
+Line  25: 1568
+Line  26: 6021
+Line  27: 72
+Line  28: THK FLOATING COUNTER
+Line  29: SHELF CONCEALED
+Line  30: BRACKET SUPPORT WHITE
+Line  31: LAMINATE FINISH
+Line  32: FIXED DOUBLE GLAZED
+Line  33: SECURITY WIDOW, RAL 7022
+Line  34: FIXED DOUBLE GLAZED
+Line  35: SECURITY WIDOW, RAL 7022
+Line  36: ID AD 003
+Line  37: LT 2
+Line  38: WT 2
+Line  39: WS
+Line  40: ID AD 010
+Line  41: CW
+Line  42: ID AD 006
+Line  43: ID AD 005
+Line  44: ID AD 004
+Line  45: 7968
+Line  46: 489
+Line  47: 1090
+Line  48: 1090
+Line  49: 1108
+Line  50: 4500
+Line  51: 793
+Line  52: 2216
+Line  53: NOTE
+Line  54: WALL TYPE LEGEND DRAWING
+Line  55: ADMIN
+Line  56: COLO
+Line  57: COLO 2
+Line  58: 2
+Line  59: 4
+Line  60: 2
+Line  61: 4
+Line  62: TRUE NORTH
+Line  63: Sheet Title Number
+Line  64: Scale
+Line  65: Plan
+Line  66: Design Consultants
+Line  67: Microsoft
+Line  68: DATA CENTER
+Line  69: SPATA GREECE
+Line  70: Contractor Joint Venture
+Line  71: Name
+Line  72: Contractor Project
+Line  73: Contractor Contract
+Line  74: Contractor PM
+Line  75: Contractor BIM Mngr
+Line  76: Contractor Information
+Line  77: Renco Terna
+Line  78: Client
+Line  79: General Notes
+Line  80: Client Project
+Line  81: Client Contract
+Line  82: Client PM
+Line  83: Client BIM Mngr
+Line  84: Primary Client Information
+Line  85: Layout
+Line  86: Revision
+Line  87: Tombazi Chalandri
+Line  88: 15232
+Line  89: Athens Greece
+Line  90: 0800 3262
+Line  91: Agion Theodoron Square Athens
+Line  92: 10561
+Line  93: Athens Greece
+Line  94: Kimithois Agios Dimitrios
+Line  95: 17236
+Line  96: Athens Greece
+Line  97: Purpose Issue
+Line  98: Issue
+Line  99: Name
+Line 100: INNER LOBBY SHEET 2
+Line 101: VAP AH
+Line 102: SCALE
+Line 103: 02 INNER LOBBY FLOOR PLAN
+Line 104: SCALE
+Line 105: 02 INNER LOBBY VIEW
+Line 106: 1000
+Line 107: SCALE
+Line 108: EQUIPMENT SCHEDULE INNER LOBBY
+Line 109: Count
+Line 110: Code
+Line 111: Description
+Line 112: Room Name
+Line 113: Room Number
+Line 114: THK FLOATING COUNTER SHELF
+Line 115: CONCEALED BRACKET SUPPORT
+Line 116: WHITE LAMINATE FINISH
+Line 117: INNER LOBBY 00 002
+Line 118: THK FLOATING COUNTER SHELF
+Line 119: CONCEALED BRACKET SUPPORT
+Line 120: WHITE LAMINATE FINISH
+Line 121: INNER LOBBY 00 002
+Line 122: Date
+Line 123: Description
+Line 124: 04
+Line 125: Issued Approval
+Line 126: VAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 127

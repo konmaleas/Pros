@@ -1,0 +1,70 @@
+=== FILTERED TEXT FOR: PEN_IV-A103.pdf ===
+
+Line   0: ΚΑΘΙΣΤΙΚΟ
+Line   1: ΛΟΥΤΡΟ
+Line   2: WC
+Line   3: ΓΚΑΡΝΤ ΜΠΑ
+Line   4: 2
+Line   5: ΛΟΥΤΡΟ 2
+Line   6: 2
+Line   7: ΛΟΥΤΡΟ
+Line   8: ΓΚΑΡΝΤΑ
+Line   9: ΡΟΜΠΑ
+Line  10: COUR ANGLAISE
+Line  11: ΥΠΟΣΚΑΦΟ
+Line  12: ΚΤΙΣΜΑ ATELIER
+Line  13: ΠΕΡΓΚΟΛΑ BBQ
+Line  14: COUR ANGLAISE
+Line  15: COUR ANGLAISE
+Line  16: ΚΟΛΥΜΒΗΤΙΚΗ
+Line  17: ΔΕΞΑΜΕΝΗ
+Line  18: ΕΙΣΟΔΟΣ
+Line  19: ΕΙΣΟΔΟΣ
+Line  20: KOYZINA
+Line  21: 2
+Line  22: 2
+Line  23: ΚΑΘΙΣΤΙΚΟ
+Line  24: ΚΑΘΙΣΤΙΚΟ
+Line  25: 2
+Line  26: ΛΟΥΤΡΟ
+Line  27: KOYZINA
+Line  28: ΕΙΣΟΔΟΣ
+Line  29: ΚOYZINA
+Line  30: ΓΚΑΡ ΜΠΑ 2
+Line  31: ΛΟΥΤΡΟ 2
+Line  32: ΛΟΥΤΡΟ 2
+Line  33: ΛΟΥΤΡΟ
+Line  34: ΛΟΥΤΡΟ
+Line  35: ΛΟΥΤΡΟ
+Line  36: ΛΟΥΤΡΟ
+Line  37: WC
+Line  38: ΓΚΑΡ ΜΠΑ
+Line  39: ΒΟΡΕΙΟΔΥΤΙΚΗ ΟΨΗ
+Line  40: ΒΟΡΕΙΟΔΥΤΙΚΗ ΟΨΗ
+Line  41: TOMH
+Line  42: TOMH
+Line  43: ΝΟΤΙΑ ΟΨΗ
+Line  44: ΝΟΤΙΑ ΟΨΗ
+Line  45: ΔΕΞΑΜΕΝΗ ΝΕΡΟΥ 4
+Line  46: ΦΕΑΠΟΤΑΠΗΟΣ 2020
+Line  47: ΕΠΓΟ
+Line  48: ΑΠΥΗΣΕΙΣΟΜΗΙΗ ΜΕΚΕΣΗ
+Line  49: ΣΦΠΑΓΗΔΑ ΤΟΟΓΠΑΦΗ
+Line  50: ANDREAS FUHRIMANN GABRIELLE HACHLER
+Line  51: ARCHITEKTEN ETH BSA ZURICH CH
+Line  52: ΕΙΣΕΚΕΣΗ ΑΠΥΗΣΕΙΣΟΜΗΙΗΣ ΜΕΚΕΣΗΣ
+Line  53: ΓΕΣΗ ΕΠΓΟΤ
+Line  54: ΟΗΓΑΔΑΙΗΑ ΙΑΤΙΑΠΕΣ ΣΗΣ ΙΟΗΜΟΣΗΣΑΣ
+Line  55: ΑΜΣΗΟΑΠΟΤ, ΜΟΜΟΤ ΙΤΙΚΑΔΨΜ
+Line  56: ΙΤΠΗΟΣ ΣΟΤ ΕΠΓΟΤ
+Line  57: PASTOR LTD
+Line  58: ΣΣΑΔΗΟ ΜΕΚΕΣΗΣ
+Line  59: ΟΠΗΣΣΗΙΗ ΜΕΚΕΣΗ
+Line  60: ΣΥΕΔΗΟ
+Line  61: ΑΠΗΓΜΟΣ
+Line  62: ΗΜΕΠΟΜΗΜΗΑ
+Line  63: ΙΚΗΜΑΙΑ
+Line  64: 467 2010
+
+=== END OF FILTERED TEXT ===
+Total lines: 65

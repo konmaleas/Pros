@@ -1,0 +1,2196 @@
+=== FILTERED TEXT FOR: ARC-SO-A1-101-00.pdf ===
+
+Line   0: Οδός
+Line   1: Οδός
+Line   2: 4
+Line   3: 4
+Line   4: 4
+Line   5: 4
+Line   6: 4
+Line   7: 4
+Line   8: 4
+Line   9: 4
+Line  10: 4
+Line  11: 4
+Line  12: 4
+Line  13: 4
+Line  14: 4
+Line  15: 4
+Line  16: 4
+Line  17: 4
+Line  18: 4
+Line  19: 4
+Line  20: 4
+Line  21: Πεζόδρομος
+Line  22: Πεζόδρομος
+Line  23: 4
+Line  24: Πεζόδρομος
+Line  25: Πεζόδρομος
+Line  26: Πεζόδρομος
+Line  27: Πεζόδρομος
+Line  28: Πεζόδρομος
+Line  29: Πεζόδρομος
+Line  30: Πεζόδρομος
+Line  31: ΚΤΙΡΙO ΟΔΟΥ
+Line  32: ΚΤΙΡΙO ΟΔΟΥ
+Line  33: ΚΤΙΡΙO ΟΔΟΥ
+Line  34: Tαφικό
+Line  35: 4
+Line  36: 4
+Line  37: 4
+Line  38: 4
+Line  39: 4
+Line  40: 4
+Line  41: 4
+Line  42: 4
+Line  43: 4
+Line  44: 4
+Line  45: 4
+Line  46: 4
+Line  47: ΠΡΑΣΙΝΟ
+Line  48: ΠΡΑΣΙΝΟ
+Line  49: ΤΑΦΙΚΟ ΜΝΗΜΕΙΟ
+Line  50: ΑΡΧΙΚΗ ΘΕΣΗ
+Line  51: ΠΡΑΣΙΝΟ
+Line  52: ΤΑΦΙΚΟ ΜΝΗΜΕΙΟ
+Line  53: ΠΑΡΚΟ ΥΠΟΓΕΙΟΣ
+Line  54: ΣΤΑΘΜΟΣ
+Line  55: ΣΤΑΘΜΕΥΣΗΣ
+Line  56: ΟΧΗΜΑΤΩΝ
+Line  57: ΠΛΑΤΕΙΑ
+Line  58: ΠΡΑΣΙΝΟ
+Line  59: ΠΡΑΣΙΝΟ
+Line  60: ΠΥΛΗ ΕΙΣΟΔΟΥ
+Line  61: ΠΑΡΚΟΥ
+Line  62: ΠΡΑΣΙΝΟ ΠΥΛΗ
+Line  63: ΕΙΣΟΔΟΥ ΠΑΡΚΟΥ
+Line  64: ΤΑΦΙΚΟ ΜΝΗΜΕΙΟ
+Line  65: ΠΡΑΣΙΝΟ ΠΥΛΗ
+Line  66: ΕΙΣΟΔΟΥ ΠΑΡΚΟΥ
+Line  67: ΡΕΜΑ ΑΕΡΟΔΡΟΜΙΟΥ
+Line  68: ASW
+Line  69: 000
+Line  70: 050
+Line  71: 400
+Line  72: 400
+Line  73: 450
+Line  74: 700
+Line  75: 750
+Line  76: Waste
+Line  77: Storage
+Line  78: Labor
+Line  79: First
+Line  80: Laboratory Area
+Line  81: Technical
+Line  82: Office Manager
+Line  83: Engineering
+Line  84: Manager
+Line  85: Contracts Manager
+Line  86: Planning Control
+Line  87: Project Director
+Line  88: Secretary
+Line  89: Plotter
+Line  90: Plotter
+Line  91: Kitchen
+Line  92: Engineering
+Line  93: Technical
+Line  94: Officers
+Line  95: Construction
+Line  96: Manager
+Line  97: Document
+Line  98: Controller
+Line  99: Meeting Room
+Line 100: HSE Officers
+Line 101: HSE Officers
+Line 102: HSE Manager
+Line 103: Plotter
+Line 104: Surveyors
+Line 105: Surveyors
+Line 106: Surveyors
+Line 107: Printing Room
+Line 108: Chief Surveyor
+Line 109: Survey Equipment
+Line 110: Storage Room
+Line 111: Kitchen
+Line 112: 2 2
+Line 113: ΕΛ
+Line 114: 2 2
+Line 115: Τρίτη Triti
+Line 116: Ζήτα Zita
+Line 117: Τρίτη Triti
+Line 118: 79
+Line 119: 78
+Line 120: 74
+Line 121: 72
+Line 122: 73
+Line 123: 79
+Line 124: 72
+Line 125: 74
+Line 126: 76
+Line 127: 77
+Line 128: 73
+Line 129: 76
+Line 130: 77
+Line 131: 78
+Line 132: 07
+Line 133: 79
+Line 134: 76
+Line 135: 70
+Line 136: 73
+Line 137: 75
+Line 138: 73
+Line 139: 73
+Line 140: 77
+Line 141: 77
+Line 142: 78
+Line 143: 76
+Line 144: 75
+Line 145: 76
+Line 146: 77
+Line 147: 73
+Line 148: 75
+Line 149: 00
+Line 150: 02
+Line 151: 02
+Line 152: 47
+Line 153: 71
+Line 154: 09
+Line 155: 02
+Line 156: 08
+Line 157: 04
+Line 158: 70
+Line 159: 72
+Line 160: 09
+Line 161: 07
+Line 162: 78
+Line 163: 43
+Line 164: 00
+Line 165: 75
+Line 166: 01
+Line 167: 76
+Line 168: 75
+Line 169: 77
+Line 170: 05
+Line 171: .2
+Line 172: .2
+Line 173: 4
+Line 174: .4 4
+Line 175: 2 4.
+Line 176: 2 4.
+Line 177: 2 4.
+Line 178: 4
+Line 179: 2 4. 78
+Line 180: 2 4
+Line 181: 2 4
+Line 182: 2 4
+Line 183: 2 4
+Line 184: 2 4
+Line 185: 2 4
+Line 186: 2 4
+Line 187: 2 4
+Line 188: 2 4
+Line 189: 2 4
+Line 190: 2 4
+Line 191: 2 4
+Line 192: 2 4 .2
+Line 193: 2 4
+Line 194: 2 4. 06
+Line 195: 2
+Line 196: 4
+Line 197: 4
+Line 198: 2
+Line 199: 2 72
+Line 200: 2 78
+Line 201: 2
+Line 202: 2
+Line 203: 2
+Line 204: 2
+Line 205: 2
+Line 206: 2
+Line 207: 2 4. 03
+Line 208: 2 4. 03
+Line 209: 2 4 4
+Line 210: 2 4 2
+Line 211: 2 4
+Line 212: 2 4
+Line 213: 2 4
+Line 214: 2 4
+Line 215: 2 4
+Line 216: 2 4 4
+Line 217: 2 4 2
+Line 218: 2 4
+Line 219: 2 4 4
+Line 220: 2 4 4
+Line 221: 2 4 2
+Line 222: 2 4
+Line 223: 2 4 2
+Line 224: 2 4
+Line 225: 2 4 .4 4
+Line 226: 2 4
+Line 227: 2 4 .2
+Line 228: 2 4 .2
+Line 229: 2 4
+Line 230: 2 4 2
+Line 231: 2 4
+Line 232: 2 4
+Line 233: 2 4
+Line 234: 2 4
+Line 235: 2 4
+Line 236: 2 4
+Line 237: 2 4
+Line 238: 2 4. 40
+Line 239: .2
+Line 240: 2 4.
+Line 241: 2
+Line 242: .2
+Line 243: 2
+Line 244: .2
+Line 245: 2
+Line 246: 2 4. 04
+Line 247: 2 4. 06
+Line 248: 4
+Line 249: 2
+Line 250: 4
+Line 251: 2
+Line 252: .2 2
+Line 253: 2
+Line 254: 2 4.
+Line 255: 2 4. 02
+Line 256: .4 2
+Line 257: 2 4 .2
+Line 258: .4
+Line 259: 2 4
+Line 260: 2 4 .4 4
+Line 261: 2 4.
+Line 262: 2 4
+Line 263: 2
+Line 264: 2
+Line 265: 2
+Line 266: 2
+Line 267: 2 4.
+Line 268: 2 4.
+Line 269: 2 4.
+Line 270: 2 4. 4
+Line 271: .4
+Line 272: .4
+Line 273: .2 4
+Line 274: .4
+Line 275: .2 2
+Line 276: 2
+Line 277: 2 4.
+Line 278: 2 4. 2
+Line 279: 2 4.
+Line 280: 2
+Line 281: .4
+Line 282: 2
+Line 283: .4
+Line 284: 2
+Line 285: 4
+Line 286: 2
+Line 287: 2
+Line 288: 4
+Line 289: 2
+Line 290: 2
+Line 291: .2
+Line 292: 2
+Line 293: 2 4.
+Line 294: 2 76
+Line 295: 2
+Line 296: 2
+Line 297: 2
+Line 298: 2
+Line 299: 2 4. 43
+Line 300: .4 4
+Line 301: .2
+Line 302: 2 4.
+Line 303: 4
+Line 304: .2
+Line 305: 2 46
+Line 306: 2
+Line 307: .4
+Line 308: 2 42
+Line 309: .4
+Line 310: .4
+Line 311: 2
+Line 312: 2 4. 46
+Line 313: 2 4.
+Line 314: 2 4.
+Line 315: 2
+Line 316: 2 4.
+Line 317: 2 4.
+Line 318: 44
+Line 319: 2 4.
+Line 320: 2
+Line 321: 2 4. 42
+Line 322: .4
+Line 323: 2 4. 78
+Line 324: 2
+Line 325: 4
+Line 326: 2 4.
+Line 327: 2 4.
+Line 328: .2
+Line 329: .4
+Line 330: 2 4. 76
+Line 331: 2 4.
+Line 332: 2 4. 48
+Line 333: 2 4. 76
+Line 334: 2
+Line 335: 2 4.
+Line 336: 2 4. 78
+Line 337: 2
+Line 338: 2 4.
+Line 339: 2 4.
+Line 340: 2 4. 4
+Line 341: .4
+Line 342: .4
+Line 343: 2 4.
+Line 344: 2 4.
+Line 345: 07
+Line 346: 09
+Line 347: 06
+Line 348: 00
+Line 349: 2
+Line 350: 09
+Line 351: 44
+Line 352: 76
+Line 353: 05
+Line 354: 44
+Line 355: 74
+Line 356: 75
+Line 357: 43
+Line 358: 41
+Line 359: 46
+Line 360: 48
+Line 361: 49
+Line 362: 49
+Line 363: 49
+Line 364: 42
+Line 365: 77
+Line 366: 70
+Line 367: 46
+Line 368: 72
+Line 369: 43
+Line 370: 74
+Line 371: 70
+Line 372: 06
+Line 373: 05
+Line 374: 08
+Line 375: 02
+Line 376: 09
+Line 377: 44
+Line 378: 09
+Line 379: 2 41
+Line 380: 08
+Line 381: 03
+Line 382: 71
+Line 383: 2
+Line 384: 2
+Line 385: 46
+Line 386: .4
+Line 387: 4
+Line 388: .2
+Line 389: .2 4
+Line 390: .2 2
+Line 391: .2
+Line 392: 4
+Line 393: .4 4
+Line 394: .2
+Line 395: 2
+Line 396: 4
+Line 397: 4
+Line 398: 4
+Line 399: 41
+Line 400: .4
+Line 401: .4
+Line 402: .4 4
+Line 403: .4
+Line 404: .4
+Line 405: 71
+Line 406: 78
+Line 407: 75
+Line 408: 03
+Line 409: 44
+Line 410: 41
+Line 411: 47
+Line 412: 76
+Line 413: 49
+Line 414: 49
+Line 415: .4
+Line 416: 4
+Line 417: .4
+Line 418: .4
+Line 419: .4
+Line 420: .4
+Line 421: .4
+Line 422: 2
+Line 423: .4
+Line 424: .4
+Line 425: .4 4
+Line 426: .4
+Line 427: 4
+Line 428: 78
+Line 429: 00
+Line 430: 76
+Line 431: 75
+Line 432: 00
+Line 433: 73
+Line 434: 41
+Line 435: 01
+Line 436: 78
+Line 437: 78
+Line 438: 06
+Line 439: 75
+Line 440: 71
+Line 441: 08
+Line 442: 78
+Line 443: 04
+Line 444: 40
+Line 445: 72
+Line 446: 42
+Line 447: 76
+Line 448: 42
+Line 449: 43
+Line 450: 48
+Line 451: 78
+Line 452: .4
+Line 453: 42
+Line 454: .2
+Line 455: .4 2
+Line 456: 41
+Line 457: .2
+Line 458: 72
+Line 459: 48
+Line 460: 2
+Line 461: .4
+Line 462: .4
+Line 463: 09
+Line 464: .2
+Line 465: 05
+Line 466: 04
+Line 467: 45
+Line 468: .2
+Line 469: 4
+Line 470: 04
+Line 471: 4
+Line 472: .2
+Line 473: 2
+Line 474: .4
+Line 475: 2
+Line 476: .2
+Line 477: .4
+Line 478: 2
+Line 479: 4
+Line 480: .4 2
+Line 481: 2
+Line 482: .2
+Line 483: .4
+Line 484: 2
+Line 485: .4
+Line 486: .2
+Line 487: 2
+Line 488: .2
+Line 489: 4
+Line 490: 4
+Line 491: 4
+Line 492: 4
+Line 493: 2 4
+Line 494: 2 4
+Line 495: 2 4 .2
+Line 496: 2 4 .2 2
+Line 497: 2 4 .4
+Line 498: 2 4 2
+Line 499: 2 4
+Line 500: 47
+Line 501: 44
+Line 502: 41
+Line 503: 40
+Line 504: 47
+Line 505: 73
+Line 506: 78
+Line 507: 79
+Line 508: 78
+Line 509: 72
+Line 510: 79
+Line 511: 2
+Line 512: 05
+Line 513: 2 4. 42
+Line 514: 06
+Line 515: 01
+Line 516: 43
+Line 517: 48
+Line 518: 2
+Line 519: 2
+Line 520: 2
+Line 521: 4
+Line 522: 2 76
+Line 523: 2
+Line 524: 2 4
+Line 525: 2
+Line 526: 2
+Line 527: 2 71
+Line 528: 2
+Line 529: 2
+Line 530: 2 48
+Line 531: 2 4
+Line 532: 41
+Line 533: 07
+Line 534: 04
+Line 535: 02
+Line 536: 05
+Line 537: 2
+Line 538: 2 41
+Line 539: .4 4
+Line 540: .4
+Line 541: 2
+Line 542: 2
+Line 543: .2
+Line 544: .2 4
+Line 545: 2
+Line 546: 2
+Line 547: 2
+Line 548: 2 04
+Line 549: 2
+Line 550: 77
+Line 551: 73
+Line 552: 72
+Line 553: 75
+Line 554: 75
+Line 555: 74
+Line 556: 09
+Line 557: 02
+Line 558: 04
+Line 559: 07
+Line 560: 03
+Line 561: 01
+Line 562: 2
+Line 563: 70
+Line 564: 73
+Line 565: 76
+Line 566: 78
+Line 567: 47
+Line 568: 44
+Line 569: 41
+Line 570: 43
+Line 571: 77
+Line 572: 01
+Line 573: 46
+Line 574: 45
+Line 575: 03
+Line 576: 05
+Line 577: 03
+Line 578: 47
+Line 579: 47
+Line 580: 47
+Line 581: 49
+Line 582: 47
+Line 583: 40
+Line 584: 71
+Line 585: 2
+Line 586: 2 2.
+Line 587: 41
+Line 588: 2 2.
+Line 589: 2 2.
+Line 590: 2
+Line 591: 2
+Line 592: 2
+Line 593: 2 2.
+Line 594: 2 2. 05
+Line 595: 2
+Line 596: 2 2.
+Line 597: 2 2.
+Line 598: 2
+Line 599: 2 2.
+Line 600: 2 2.
+Line 601: 2 .2
+Line 602: 2 2.
+Line 603: 2
+Line 604: 2
+Line 605: 2 2.
+Line 606: 2 2.
+Line 607: 2 2. 48
+Line 608: 2 2.
+Line 609: 2 4
+Line 610: 2 2. 76
+Line 611: 2
+Line 612: 4
+Line 613: 2
+Line 614: .4
+Line 615: .4
+Line 616: .4
+Line 617: .4
+Line 618: .4
+Line 619: .4
+Line 620: 4
+Line 621: 2
+Line 622: 42
+Line 623: 44
+Line 624: 48
+Line 625: 49
+Line 626: 09
+Line 627: 05
+Line 628: 02
+Line 629: 71
+Line 630: 2
+Line 631: 4
+Line 632: .4
+Line 633: .4 4
+Line 634: .4
+Line 635: 4
+Line 636: 4
+Line 637: 2
+Line 638: 2
+Line 639: 4
+Line 640: 4
+Line 641: .2
+Line 642: 2
+Line 643: 4
+Line 644: 2
+Line 645: 4
+Line 646: 4
+Line 647: 2
+Line 648: 2
+Line 649: .2
+Line 650: .4 2
+Line 651: .4
+Line 652: .4
+Line 653: 2
+Line 654: 4
+Line 655: .4
+Line 656: .4 4
+Line 657: .4 2
+Line 658: .4
+Line 659: .4
+Line 660: 4
+Line 661: .2 4
+Line 662: .2
+Line 663: .2
+Line 664: .2
+Line 665: .4
+Line 666: .4 2
+Line 667: .2
+Line 668: .2
+Line 669: .2
+Line 670: .2
+Line 671: 4
+Line 672: 76
+Line 673: 78
+Line 674: 75
+Line 675: 71
+Line 676: .4
+Line 677: 41
+Line 678: .2
+Line 679: 08
+Line 680: .2
+Line 681: 41
+Line 682: 45
+Line 683: 44
+Line 684: 41
+Line 685: 06
+Line 686: 01
+Line 687: 71
+Line 688: 76
+Line 689: 79
+Line 690: 03
+Line 691: 07
+Line 692: 06
+Line 693: 76
+Line 694: 72
+Line 695: 4
+Line 696: .4
+Line 697: 4
+Line 698: .2
+Line 699: .2 4
+Line 700: .2
+Line 701: 2
+Line 702: 4
+Line 703: 4
+Line 704: 4
+Line 705: .2 4
+Line 706: .2
+Line 707: 2
+Line 708: .4
+Line 709: .4
+Line 710: .4
+Line 711: .4
+Line 712: 4
+Line 713: 2
+Line 714: 4
+Line 715: 2
+Line 716: 2
+Line 717: 2
+Line 718: 4
+Line 719: .4
+Line 720: 4
+Line 721: 4
+Line 722: 2
+Line 723: .2 4
+Line 724: .2 2
+Line 725: 4
+Line 726: 4
+Line 727: 4 2
+Line 728: 4
+Line 729: 4
+Line 730: 4
+Line 731: 4 4
+Line 732: .2
+Line 733: .4
+Line 734: 4
+Line 735: .4
+Line 736: 42
+Line 737: .4
+Line 738: 47
+Line 739: 45
+Line 740: .4
+Line 741: 49
+Line 742: 71
+Line 743: 73
+Line 744: 74
+Line 745: 04
+Line 746: 48
+Line 747: 43
+Line 748: 2
+Line 749: .2
+Line 750: 04
+Line 751: 4
+Line 752: 4
+Line 753: 4
+Line 754: 4
+Line 755: 4
+Line 756: 4 4
+Line 757: 4
+Line 758: 4
+Line 759: 4
+Line 760: 4 2
+Line 761: 4
+Line 762: 4
+Line 763: 4
+Line 764: 4
+Line 765: 4 .2
+Line 766: 4
+Line 767: 4
+Line 768: 4 .4
+Line 769: 4 .4
+Line 770: 4 .4
+Line 771: 4 2
+Line 772: 4
+Line 773: 4 2
+Line 774: 4
+Line 775: 4
+Line 776: 4
+Line 777: 4
+Line 778: 4. 74
+Line 779: 4. 74
+Line 780: 2
+Line 781: 4.
+Line 782: 4.
+Line 783: 40
+Line 784: 47
+Line 785: 74
+Line 786: 41
+Line 787: 47
+Line 788: 49
+Line 789: 44
+Line 790: 43
+Line 791: 73
+Line 792: 71
+Line 793: 45
+Line 794: 4.
+Line 795: 4.
+Line 796: 4.
+Line 797: 4.
+Line 798: 4.
+Line 799: 4
+Line 800: 4 4
+Line 801: 4 4
+Line 802: 4. 04
+Line 803: 4.
+Line 804: 4.
+Line 805: 41
+Line 806: 48
+Line 807: 49
+Line 808: 4
+Line 809: 4 2
+Line 810: 4
+Line 811: 4
+Line 812: 4
+Line 813: 4
+Line 814: 4 .4 4
+Line 815: 4
+Line 816: 4.
+Line 817: .4 2
+Line 818: 4
+Line 819: .4
+Line 820: .4
+Line 821: .2
+Line 822: 4. 4
+Line 823: 4.
+Line 824: 4.
+Line 825: 4.
+Line 826: 4.
+Line 827: .4
+Line 828: 4. 45
+Line 829: 4.
+Line 830: 4. 41
+Line 831: .4
+Line 832: 4. 48
+Line 833: 4. 40
+Line 834: 4.
+Line 835: 4.
+Line 836: 4.
+Line 837: 4.
+Line 838: 4.
+Line 839: 4. 76
+Line 840: 4. 75
+Line 841: 4.
+Line 842: 4
+Line 843: 75
+Line 844: 72
+Line 845: 03
+Line 846: 00
+Line 847: 08
+Line 848: 73
+Line 849: .2 4
+Line 850: 4.
+Line 851: 4
+Line 852: 42
+Line 853: 46
+Line 854: 47
+Line 855: 2 4.
+Line 856: 2 4.
+Line 857: 2 4. 74
+Line 858: 2 4.
+Line 859: 2 4.
+Line 860: 2 4.
+Line 861: 2 4. 72
+Line 862: 2 4. 76
+Line 863: 2
+Line 864: 2 4.
+Line 865: 2 4.
+Line 866: 2 4.
+Line 867: 2
+Line 868: 2
+Line 869: 2 .2 4
+Line 870: 2
+Line 871: 2
+Line 872: 2
+Line 873: 2 4.
+Line 874: 2 4.
+Line 875: 2 4
+Line 876: 2
+Line 877: 2
+Line 878: 2 .2
+Line 879: 2
+Line 880: 2
+Line 881: 2
+Line 882: 2
+Line 883: 2
+Line 884: 2
+Line 885: 2
+Line 886: 2 4
+Line 887: 2
+Line 888: 2 .2
+Line 889: 2
+Line 890: 2
+Line 891: 2 4
+Line 892: 2
+Line 893: 2
+Line 894: 2
+Line 895: 2
+Line 896: 2 .4
+Line 897: 2 4
+Line 898: 2
+Line 899: 2
+Line 900: 2 .4
+Line 901: 2
+Line 902: 2 .2
+Line 903: 2
+Line 904: 2
+Line 905: 2
+Line 906: 2 .2 4
+Line 907: 2
+Line 908: 2 .4
+Line 909: 2
+Line 910: 2
+Line 911: 2
+Line 912: 2
+Line 913: 2
+Line 914: 2
+Line 915: 2
+Line 916: 2
+Line 917: 2 2
+Line 918: 2 .2 2
+Line 919: 2
+Line 920: 45
+Line 921: 46
+Line 922: 40
+Line 923: 40
+Line 924: 4
+Line 925: .2
+Line 926: .2
+Line 927: 48
+Line 928: 2 4.
+Line 929: 2
+Line 930: 2 4.
+Line 931: 2
+Line 932: 2 4. 70
+Line 933: 2 4. 75
+Line 934: 2 4.
+Line 935: 2 4
+Line 936: 2 4
+Line 937: 2 4
+Line 938: 2
+Line 939: 2
+Line 940: 2
+Line 941: 2
+Line 942: 2
+Line 943: 4
+Line 944: 2
+Line 945: 4 4
+Line 946: 4
+Line 947: 4
+Line 948: 4
+Line 949: 4 4
+Line 950: 4
+Line 951: 4 2
+Line 952: 4
+Line 953: 4
+Line 954: 2
+Line 955: 4
+Line 956: 2
+Line 957: 2
+Line 958: 4
+Line 959: 4
+Line 960: 4
+Line 961: 4 2
+Line 962: 4
+Line 963: 4
+Line 964: 4 .2
+Line 965: 4
+Line 966: 4
+Line 967: 4 2
+Line 968: 4 .2
+Line 969: 4
+Line 970: 4
+Line 971: 4
+Line 972: 4 .2
+Line 973: 4 .2
+Line 974: 4
+Line 975: 4
+Line 976: 4 .4
+Line 977: 4
+Line 978: 4
+Line 979: 4
+Line 980: 4
+Line 981: 4
+Line 982: 4
+Line 983: 4 4
+Line 984: 4 .2 4
+Line 985: 2
+Line 986: 4 2
+Line 987: 4
+Line 988: 4
+Line 989: .2
+Line 990: 2 2
+Line 991: 2
+Line 992: 2
+Line 993: 49
+Line 994: 75
+Line 995: 4
+Line 996: 73
+Line 997: 4
+Line 998: .4
+Line 999: .4
+Line 1000: 2. 02
+Line 1001: 73
+Line 1002: 4
+Line 1003: 2.
+Line 1004: 2 .4
+Line 1005: 79
+Line 1006: 4. 02
+Line 1007: 4.
+Line 1008: 70
+Line 1009: 4
+Line 1010: 4. 76
+Line 1011: 4. 72
+Line 1012: 4.
+Line 1013: 4. 40
+Line 1014: 4. 47
+Line 1015: 4.
+Line 1016: 4. 45
+Line 1017: 4.
+Line 1018: 04
+Line 1019: 45
+Line 1020: 42
+Line 1021: 79
+Line 1022: 74
+Line 1023: 06
+Line 1024: 06
+Line 1025: 08
+Line 1026: 09
+Line 1027: 05
+Line 1028: 02
+Line 1029: 78
+Line 1030: 70
+Line 1031: 77
+Line 1032: 02
+Line 1033: 75
+Line 1034: 46
+Line 1035: 4. 48
+Line 1036: 4. 73
+Line 1037: 2
+Line 1038: 4. 45
+Line 1039: .4
+Line 1040: 4.
+Line 1041: 4
+Line 1042: 4.
+Line 1043: 4.
+Line 1044: .4 2
+Line 1045: 4.
+Line 1046: .4
+Line 1047: 4.
+Line 1048: 4. 45
+Line 1049: 4.
+Line 1050: 4.
+Line 1051: 4.
+Line 1052: 4. 40
+Line 1053: 4. 48
+Line 1054: 4.
+Line 1055: .4
+Line 1056: .4
+Line 1057: .2
+Line 1058: 4.
+Line 1059: 4
+Line 1060: 4 2
+Line 1061: 4
+Line 1062: 4 .2
+Line 1063: 4.
+Line 1064: 03
+Line 1065: 44
+Line 1066: 06
+Line 1067: 08
+Line 1068: 44
+Line 1069: 71
+Line 1070: 47
+Line 1071: 03
+Line 1072: 44
+Line 1073: 41
+Line 1074: 75
+Line 1075: 75
+Line 1076: .4
+Line 1077: 70
+Line 1078: 4
+Line 1079: 2
+Line 1080: 2
+Line 1081: 2
+Line 1082: .4
+Line 1083: 2
+Line 1084: .2
+Line 1085: 2
+Line 1086: 2
+Line 1087: 2 4
+Line 1088: 2
+Line 1089: 2
+Line 1090: 2
+Line 1091: 2 .2
+Line 1092: 2
+Line 1093: 2
+Line 1094: .4
+Line 1095: .2 4
+Line 1096: 2
+Line 1097: 2 .2
+Line 1098: 2
+Line 1099: 4
+Line 1100: .4
+Line 1101: 4
+Line 1102: 2
+Line 1103: .4
+Line 1104: 4
+Line 1105: 4 4
+Line 1106: 4
+Line 1107: 4
+Line 1108: 4
+Line 1109: .4 4
+Line 1110: .4
+Line 1111: .4
+Line 1112: 2 .2
+Line 1113: 2
+Line 1114: 75
+Line 1115: 79
+Line 1116: 46
+Line 1117: 03
+Line 1118: 00
+Line 1119: 00
+Line 1120: 72
+Line 1121: 04
+Line 1122: 08
+Line 1123: 47
+Line 1124: 4.
+Line 1125: 2
+Line 1126: 4.
+Line 1127: 4.
+Line 1128: 4.
+Line 1129: 4. 05
+Line 1130: 4.
+Line 1131: .2
+Line 1132: 4. 75
+Line 1133: 4.
+Line 1134: 4.
+Line 1135: 4. 72
+Line 1136: 4.
+Line 1137: 4
+Line 1138: 4
+Line 1139: 4
+Line 1140: 4
+Line 1141: 4
+Line 1142: 4
+Line 1143: 4
+Line 1144: 4
+Line 1145: 4
+Line 1146: 4
+Line 1147: 4
+Line 1148: 4 4
+Line 1149: 4
+Line 1150: 4
+Line 1151: 2
+Line 1152: 4
+Line 1153: 4
+Line 1154: 2
+Line 1155: 4
+Line 1156: 2
+Line 1157: 4
+Line 1158: 4
+Line 1159: 4
+Line 1160: 4 4
+Line 1161: 4. 03
+Line 1162: 4.
+Line 1163: 4.
+Line 1164: 43
+Line 1165: 47
+Line 1166: 49
+Line 1167: 47
+Line 1168: 73
+Line 1169: 4
+Line 1170: 4
+Line 1171: 4 .4
+Line 1172: 4
+Line 1173: 4
+Line 1174: 4
+Line 1175: 4 4
+Line 1176: 2
+Line 1177: 4.
+Line 1178: 4.
+Line 1179: 03
+Line 1180: 04
+Line 1181: 77
+Line 1182: 78
+Line 1183: 05
+Line 1184: 72
+Line 1185: 00
+Line 1186: 4.
+Line 1187: 2
+Line 1188: 2
+Line 1189: 4 4
+Line 1190: 4
+Line 1191: 4 .4
+Line 1192: 4
+Line 1193: 4 .2 4
+Line 1194: 2 .2
+Line 1195: 2 .2 2
+Line 1196: 2 .2
+Line 1197: 2 .2 4
+Line 1198: 2 .2
+Line 1199: 2
+Line 1200: 2 .2
+Line 1201: 2
+Line 1202: 2 .4
+Line 1203: 2
+Line 1204: 2 .4 2
+Line 1205: 2 .4
+Line 1206: 2 .4
+Line 1207: 2
+Line 1208: 2
+Line 1209: 2
+Line 1210: 2
+Line 1211: 2
+Line 1212: 2.
+Line 1213: 2.
+Line 1214: 2. 75
+Line 1215: 2
+Line 1216: 00
+Line 1217: 01
+Line 1218: 06
+Line 1219: 06
+Line 1220: 77
+Line 1221: 03
+Line 1222: 09
+Line 1223: 05
+Line 1224: 00
+Line 1225: 75
+Line 1226: 78
+Line 1227: 01
+Line 1228: 75
+Line 1229: 03
+Line 1230: 46
+Line 1231: 73
+Line 1232: 49
+Line 1233: 4.
+Line 1234: .4
+Line 1235: .2
+Line 1236: 4. 04
+Line 1237: .2
+Line 1238: 4
+Line 1239: 4. 41
+Line 1240: .4 4
+Line 1241: 4.
+Line 1242: 4. 49
+Line 1243: .4
+Line 1244: .4 4
+Line 1245: 4.
+Line 1246: 4.
+Line 1247: 4. 46
+Line 1248: .4
+Line 1249: 4.
+Line 1250: 4.
+Line 1251: 4
+Line 1252: 4.
+Line 1253: .2
+Line 1254: 4.
+Line 1255: .2 4
+Line 1256: .4
+Line 1257: 4.
+Line 1258: 4. 75
+Line 1259: 4. 75
+Line 1260: 4. 43
+Line 1261: 4.
+Line 1262: 4
+Line 1263: 4. 2
+Line 1264: 2
+Line 1265: 2 .4
+Line 1266: 4
+Line 1267: .2
+Line 1268: 72
+Line 1269: 78
+Line 1270: 4
+Line 1271: 4
+Line 1272: 2
+Line 1273: 4 4
+Line 1274: 4
+Line 1275: 4
+Line 1276: 4 2
+Line 1277: 4
+Line 1278: 4
+Line 1279: 4
+Line 1280: 4
+Line 1281: 4
+Line 1282: 4
+Line 1283: 4
+Line 1284: 2 4
+Line 1285: 2
+Line 1286: 73
+Line 1287: 2
+Line 1288: 49
+Line 1289: .2
+Line 1290: 2
+Line 1291: 78
+Line 1292: 71
+Line 1293: 2
+Line 1294: 71
+Line 1295: 04
+Line 1296: 06
+Line 1297: 47
+Line 1298: 45
+Line 1299: 74
+Line 1300: 42
+Line 1301: 41
+Line 1302: .4
+Line 1303: 41
+Line 1304: .4 4
+Line 1305: 48
+Line 1306: 49
+Line 1307: 2
+Line 1308: 4
+Line 1309: 4
+Line 1310: 4
+Line 1311: .4 4
+Line 1312: .2
+Line 1313: .2
+Line 1314: .2
+Line 1315: 4
+Line 1316: 2
+Line 1317: .4
+Line 1318: .4
+Line 1319: .2
+Line 1320: .2
+Line 1321: 4
+Line 1322: 40
+Line 1323: 2
+Line 1324: 2
+Line 1325: 02
+Line 1326: 78
+Line 1327: 74
+Line 1328: 70
+Line 1329: 44
+Line 1330: 4.
+Line 1331: 4.
+Line 1332: 4.
+Line 1333: .2 4
+Line 1334: 4.
+Line 1335: 4.
+Line 1336: 4.
+Line 1337: 4 .2
+Line 1338: 4
+Line 1339: 4
+Line 1340: 4
+Line 1341: 4
+Line 1342: 4
+Line 1343: 4
+Line 1344: 4 4
+Line 1345: 4
+Line 1346: 4
+Line 1347: 4
+Line 1348: 2
+Line 1349: 4
+Line 1350: 2
+Line 1351: .2
+Line 1352: .2
+Line 1353: 46
+Line 1354: 07
+Line 1355: 78
+Line 1356: 41
+Line 1357: 44
+Line 1358: 75
+Line 1359: 73
+Line 1360: 41
+Line 1361: 40
+Line 1362: 77
+Line 1363: 70
+Line 1364: 70
+Line 1365: 09
+Line 1366: 76
+Line 1367: 72
+Line 1368: 77
+Line 1369: 71
+Line 1370: 71
+Line 1371: 77
+Line 1372: 00
+Line 1373: 49
+Line 1374: 01
+Line 1375: 00
+Line 1376: 01
+Line 1377: 03
+Line 1378: 02
+Line 1379: 03
+Line 1380: 01
+Line 1381: 06
+Line 1382: 78
+Line 1383: 78
+Line 1384: 76
+Line 1385: 00
+Line 1386: 00
+Line 1387: 08
+Line 1388: 08
+Line 1389: 00
+Line 1390: 01
+Line 1391: 02
+Line 1392: 05
+Line 1393: 72
+Line 1394: 78
+Line 1395: 73
+Line 1396: 72
+Line 1397: 02
+Line 1398: 72
+Line 1399: 77
+Line 1400: 00
+Line 1401: 02
+Line 1402: 02
+Line 1403: 05
+Line 1404: 49
+Line 1405: 02
+Line 1406: 07
+Line 1407: 05
+Line 1408: 78
+Line 1409: 47
+Line 1410: 49
+Line 1411: 40
+Line 1412: 09
+Line 1413: 04
+Line 1414: 02
+Line 1415: 00
+Line 1416: 03
+Line 1417: 09
+Line 1418: 05
+Line 1419: 07
+Line 1420: 73
+Line 1421: 78
+Line 1422: 73
+Line 1423: 79
+Line 1424: 71
+Line 1425: 07
+Line 1426: .2
+Line 1427: .2
+Line 1428: 2
+Line 1429: 4
+Line 1430: 2
+Line 1431: .4
+Line 1432: .4
+Line 1433: 2
+Line 1434: 2
+Line 1435: 2 .2
+Line 1436: 2 2
+Line 1437: 2
+Line 1438: 2
+Line 1439: 4
+Line 1440: 2 4
+Line 1441: 2 4
+Line 1442: 2 .2
+Line 1443: 2 4
+Line 1444: 2 .2
+Line 1445: 2
+Line 1446: .4
+Line 1447: 4
+Line 1448: .4 4
+Line 1449: .4
+Line 1450: .2 2
+Line 1451: .2
+Line 1452: .2
+Line 1453: .4
+Line 1454: .4
+Line 1455: .4
+Line 1456: .4
+Line 1457: 4
+Line 1458: 4
+Line 1459: .2
+Line 1460: .2 4
+Line 1461: .2 2
+Line 1462: .4
+Line 1463: .2
+Line 1464: .4
+Line 1465: 4
+Line 1466: 4
+Line 1467: 2
+Line 1468: 2
+Line 1469: 2
+Line 1470: 2 .2 2
+Line 1471: 2 .2
+Line 1472: 2
+Line 1473: 2
+Line 1474: 4
+Line 1475: .4
+Line 1476: .2
+Line 1477: .4
+Line 1478: .4
+Line 1479: 2
+Line 1480: 2
+Line 1481: 2
+Line 1482: 2
+Line 1483: 2
+Line 1484: 4
+Line 1485: .4
+Line 1486: 2
+Line 1487: 2 2
+Line 1488: .4
+Line 1489: .2 2
+Line 1490: .4
+Line 1491: 2
+Line 1492: 2
+Line 1493: .4
+Line 1494: .2
+Line 1495: 2
+Line 1496: .4
+Line 1497: .4
+Line 1498: .4
+Line 1499: .4 4
+Line 1500: 4
+Line 1501: 4
+Line 1502: 2
+Line 1503: 76
+Line 1504: .4
+Line 1505: 40
+Line 1506: .2
+Line 1507: 76
+Line 1508: 2
+Line 1509: 2
+Line 1510: 2 .2
+Line 1511: 2 4
+Line 1512: 2
+Line 1513: 2 2
+Line 1514: 2
+Line 1515: 2
+Line 1516: 2 4
+Line 1517: 2 .2 4
+Line 1518: 2
+Line 1519: 2 .2
+Line 1520: 2
+Line 1521: 2
+Line 1522: 2 .4
+Line 1523: 2
+Line 1524: 2
+Line 1525: 2 .4
+Line 1526: 2 .4 4
+Line 1527: 2 .4
+Line 1528: .4
+Line 1529: .2
+Line 1530: .2
+Line 1531: 2
+Line 1532: .2
+Line 1533: .2
+Line 1534: 2
+Line 1535: .4
+Line 1536: 2
+Line 1537: 4
+Line 1538: 2
+Line 1539: 2
+Line 1540: 2
+Line 1541: .4
+Line 1542: .2 2
+Line 1543: .2
+Line 1544: 4
+Line 1545: 2
+Line 1546: 2
+Line 1547: .2
+Line 1548: .2 4
+Line 1549: .4
+Line 1550: .4 2
+Line 1551: .4 2
+Line 1552: .2
+Line 1553: .4 4
+Line 1554: 2
+Line 1555: 2
+Line 1556: 2 2
+Line 1557: 2
+Line 1558: 4
+Line 1559: .4 4
+Line 1560: .4 4
+Line 1561: .2
+Line 1562: .2
+Line 1563: .4
+Line 1564: .4 2
+Line 1565: .4
+Line 1566: .4
+Line 1567: .4
+Line 1568: .4
+Line 1569: .4
+Line 1570: .2
+Line 1571: .2
+Line 1572: 2
+Line 1573: .4
+Line 1574: 4
+Line 1575: 4
+Line 1576: .4
+Line 1577: .4
+Line 1578: .2 4
+Line 1579: 2
+Line 1580: 2
+Line 1581: 2 .2
+Line 1582: 2
+Line 1583: .4
+Line 1584: 2 2
+Line 1585: 4
+Line 1586: 2
+Line 1587: 2
+Line 1588: .4
+Line 1589: .4
+Line 1590: 4
+Line 1591: 2 .4
+Line 1592: 2 .4 4
+Line 1593: .4
+Line 1594: 4
+Line 1595: .4
+Line 1596: .4
+Line 1597: 4
+Line 1598: 4
+Line 1599: 2
+Line 1600: 2 2
+Line 1601: 2 4
+Line 1602: 2
+Line 1603: 2
+Line 1604: 2
+Line 1605: 2 4
+Line 1606: 2 .4
+Line 1607: 2
+Line 1608: 4
+Line 1609: 4
+Line 1610: 2 2
+Line 1611: 2 2
+Line 1612: 2 2
+Line 1613: 2
+Line 1614: 2
+Line 1615: 2 .2 4
+Line 1616: 2 4
+Line 1617: 2 .4
+Line 1618: 2 2
+Line 1619: 2
+Line 1620: 2
+Line 1621: 2
+Line 1622: 2 4
+Line 1623: 2 .4
+Line 1624: 2
+Line 1625: 2
+Line 1626: 2 .4 4
+Line 1627: 2 .4
+Line 1628: 2
+Line 1629: 4
+Line 1630: 4
+Line 1631: 4
+Line 1632: 4
+Line 1633: 4
+Line 1634: 2
+Line 1635: 2
+Line 1636: 03
+Line 1637: .2
+Line 1638: .2
+Line 1639: 2 .2
+Line 1640: 2
+Line 1641: 2
+Line 1642: 2
+Line 1643: 2
+Line 1644: 2
+Line 1645: 2
+Line 1646: .2 2
+Line 1647: .2 2
+Line 1648: .2
+Line 1649: .2
+Line 1650: 2
+Line 1651: 2
+Line 1652: 4
+Line 1653: 4
+Line 1654: 2 .2 2
+Line 1655: 2 .2
+Line 1656: 2
+Line 1657: Γάμα Gama
+Line 1658: Waste
+Line 1659: Storage
+Line 1660: First
+Line 1661: Laboratory Area
+Line 1662: Parking
+Line 1663: Parking
+Line 1664: ΠΕΖΟΔΡΟΜΟΣ
+Line 1665: PEDESTRIAN ROAD
+Line 1666: Visitors Parking
+Line 1667: Spare
+Line 1668: Gate
+Line 1669: Exit
+Line 1670: Parking
+Line 1671: Entrance
+Line 1672: Parking
+Line 1673: Parking
+Line 1674: Parking
+Line 1675: Parking
+Line 1676: Parking
+Line 1677: Επίστρωση
+Line 1678: Parking
+Line 1679: 4
+Line 1680: 2
+Line 1681: 4
+Line 1682: 2
+Line 1683: 4
+Line 1684: 2
+Line 1685: 4
+Line 1686: 2
+Line 1687: 4
+Line 1688: 2
+Line 1689: 4
+Line 1690: 2
+Line 1691: ΑΝΑΒΑΤΟΡΙΟ ΑΜΕΑ
+Line 1692: Επίπεδη
+Line 1693: Επίπεδη
+Line 1694: Οδός
+Line 1695: Οδός
+Line 1696: Άλφα Οδός
+Line 1697: 2
+Line 1698: 4
+Line 1699: 40
+Line 1700: 42
+Line 1701: 44
+Line 1702: 45
+Line 1703: 46
+Line 1704: 47
+Line 1705: 48
+Line 1706: 49
+Line 1707: 41
+Line 1708: 70
+Line 1709: 71
+Line 1710: 73
+Line 1711: 74
+Line 1712: 75
+Line 1713: 76
+Line 1714: 43
+Line 1715: 78
+Line 1716: 72
+Line 1717: 79
+Line 1718: 77
+Line 1719: 4
+Line 1720: 4
+Line 1721: 4
+Line 1722: 4
+Line 1723: 4
+Line 1724: 4
+Line 1725: 4
+Line 1726: 4
+Line 1727: 4
+Line 1728: 4
+Line 1729: 4
+Line 1730: 4
+Line 1731: 4
+Line 1732: 4
+Line 1733: 4
+Line 1734: 4
+Line 1735: 4
+Line 1736: 4
+Line 1737: 4
+Line 1738: 4
+Line 1739: 4
+Line 1740: 4
+Line 1741: 4
+Line 1742: 4
+Line 1743: 4
+Line 1744: 4
+Line 1745: 4
+Line 1746: 4
+Line 1747: 4
+Line 1748: 4
+Line 1749: 4
+Line 1750: 4
+Line 1751: 4
+Line 1752: 4
+Line 1753: 4
+Line 1754: 4
+Line 1755: Πεζόδρομος
+Line 1756: Πεζόδρομος
+Line 1757: 4
+Line 1758: Πεζόδρομος
+Line 1759: Πεζόδρομος
+Line 1760: 4
+Line 1761: 4
+Line 1762: 4
+Line 1763: 4
+Line 1764: Πεζόδρομος
+Line 1765: Πεζόδρομος
+Line 1766: Πεζόδρομος
+Line 1767: Πεζόδρομος
+Line 1768: Πεζόδρομος
+Line 1769: Πεζόδρομος
+Line 1770: Πεζόδρομος
+Line 1771: Πεζόδρομος
+Line 1772: Πεζόδρομος
+Line 1773: Πεζόδρομος
+Line 1774: Πεζόδρομος
+Line 1775: Πεζόδρομος
+Line 1776: Πεζόδρομος
+Line 1777: Πεζόδρομος
+Line 1778: Πεζόδρομος
+Line 1779: Πεζόδρομος
+Line 1780: Πεζόδρομος
+Line 1781: Πεζόδρομος
+Line 1782: Πεζόδρομος
+Line 1783: Πεζόδρομος
+Line 1784: Πεζόδρομος
+Line 1785: Πεζόδρομος
+Line 1786: Πεζόδρομος
+Line 1787: Πεζόδρομος
+Line 1788: Πεζόδρομος
+Line 1789: Πεζόδρομος
+Line 1790: Πεζόδρομος
+Line 1791: 712
+Line 1792: 714
+Line 1793: 717
+Line 1794: 71
+Line 1795: 48
+Line 1796: 47
+Line 1797: 46
+Line 1798: 45
+Line 1799: 44
+Line 1800: 43
+Line 1801: 42
+Line 1802: 41
+Line 1803: 40
+Line 1804: 4
+Line 1805: 2
+Line 1806: 49
+Line 1807: 713
+Line 1808: 715
+Line 1809: 716
+Line 1810: 494
+Line 1811: 493
+Line 1812: 492
+Line 1813: 491
+Line 1814: 489
+Line 1815: 488
+Line 1816: 487
+Line 1817: 486
+Line 1818: 485
+Line 1819: 484
+Line 1820: 483
+Line 1821: 482
+Line 1822: 701
+Line 1823: 702
+Line 1824: 704
+Line 1825: 703
+Line 1826: 700
+Line 1827: 704
+Line 1828: 703
+Line 1829: 702
+Line 1830: 701
+Line 1831: 700
+Line 1832: 481
+Line 1833: 480
+Line 1834: 479
+Line 1835: 478
+Line 1836: 495
+Line 1837: 496
+Line 1838: 497
+Line 1839: 498
+Line 1840: 720
+Line 1841: 719
+Line 1842: 499
+Line 1843: 490
+Line 1844: ΚΤΙΡΙO ΟΔΟΥ
+Line 1845: ΚΤΙΡΙO ΟΔΟΥ
+Line 1846: ΚΤΙΡΙO ΟΔΟΥ
+Line 1847: Tαφικό
+Line 1848: 4
+Line 1849: 4
+Line 1850: 4
+Line 1851: 4
+Line 1852: 4
+Line 1853: 4
+Line 1854: 4
+Line 1855: 4
+Line 1856: 4
+Line 1857: 4
+Line 1858: 4
+Line 1859: 4
+Line 1860: 4
+Line 1861: 4
+Line 1862: 4
+Line 1863: 4
+Line 1864: 4
+Line 1865: 4
+Line 1866: 4
+Line 1867: 4
+Line 1868: 4
+Line 1869: 4
+Line 1870: 4
+Line 1871: 4
+Line 1872: 4
+Line 1873: 4
+Line 1874: 4
+Line 1875: 4
+Line 1876: 4
+Line 1877: 4
+Line 1878: 4
+Line 1879: 4
+Line 1880: 4
+Line 1881: 4
+Line 1882: 4
+Line 1883: 4
+Line 1884: 4
+Line 1885: 4
+Line 1886: 4
+Line 1887: 4
+Line 1888: 4
+Line 1889: 4
+Line 1890: 4
+Line 1891: 4
+Line 1892: 4
+Line 1893: 4
+Line 1894: 4
+Line 1895: 4
+Line 1896: 4
+Line 1897: ΤΑΦΙΚΟ ΜΝΗΜΕΙΟ
+Line 1898: ΑΠΟ ΜΕΤΑΦΟΡΑ
+Line 1899: ΑΝΟΙΧΤΟΣ
+Line 1900: ΧΩΡΟΣ
+Line 1901: ΑΝΟΙΧΤΟΣ
+Line 1902: ΧΩΡΟΣ
+Line 1903: ΑΝΟΙΧΤΟΣ
+Line 1904: ΧΩΡΟΣ
+Line 1905: ΠΡΑΣΙΝΟ
+Line 1906: ΠΡΑΣΙΝΟ
+Line 1907: ΠΡΑΣΙΝΟ
+Line 1908: ΠΥΛΗ ΕΙΣΟΔΟΥ
+Line 1909: ΠΑΡΚΟΥ
+Line 1910: ΠΡΑΣΙΝΟ
+Line 1911: ΤΑΦΙΚΟ ΜΝΗΜΕΙΟ
+Line 1912: ΑΡΧΙΚΗ ΘΕΣΗ
+Line 1913: ΤΑΦΙΚΟ ΜΝΗΜΕΙΟ
+Line 1914: ΑΠΟ ΜΕΤΑΦΟΡΑ
+Line 1915: Αγίου
+Line 1916: Αλεξάνδρου
+Line 1917: ΑΝΟΙΧΤΟΣ
+Line 1918: ΧΩΡΟΣ
+Line 1919: ΠΡΑΣΙΝΟ
+Line 1920: ΠΛΑΤΕΙΑ
+Line 1921: ΠΛΑΤΕΙΑ
+Line 1922: ΠΡΑΣΙΝΟ
+Line 1923: ΠΡΑΣΙΝΟ
+Line 1924: ΠΡΑΣΙΝΟ
+Line 1925: ΠΡΑΣΙΝΟ
+Line 1926: ΠΡΑΣΙΝΟ ΓΡΑΜΜΙΚΟ
+Line 1927: ΠΑΡΚΟ
+Line 1928: ΠΡΑΣΙΝΟ
+Line 1929: ΠΥΛΗ ΕΙΣΟΔΟΥ
+Line 1930: ΠΑΡΚΟΥ
+Line 1931: ΤΑΦΙΚΟ ΜΝΗΜΕΙΟ
+Line 1932: ΤΑΦΙΚΟ ΜΝΗΜΕΙΟ
+Line 1933: ΑΠΟ ΜΕΤΑΦΟΡΑ
+Line 1934: ΕΝΔΕΙΚΤΙΚΗ
+Line 1935: ΘΕΣΗ
+Line 1936: ΠΕΖΟΓΕΦΥΡΑΣ
+Line 1937: ΤΟΥΡΙΣΜΟΣ
+Line 1938: ΑΝΑΨΥΧΗ
+Line 1939: TA
+Line 1940: ΧΡΗ
+Line 1941: ΤΟ
+Line 1942: ΑΝ
+Line 1943: ΕΠΙΧΕ
+Line 1944: ΠΑΡ
+Line 1945: ΠΡΑΣΙΝΟ ΓΡΑΜΜΙΚΟ
+Line 1946: ΠΑΡΚΟ ΥΠΟΓΕΙΟΣ
+Line 1947: ΣΤΑΘΜΟΣ
+Line 1948: ΣΤΑΘΜΕΥΣΗΣ
+Line 1949: ΟΧΗΜΑΤΩΝ
+Line 1950: ΟΣ
+Line 1951: ΠΡΑΣΙΝΟ
+Line 1952: ΠΛΑΤΕΙΑ
+Line 1953: ΠΡΑΣΙΝΟ
+Line 1954: ΠΡΑΣΙΝΟ
+Line 1955: ΠΡΑΣΙΝΟ
+Line 1956: ΠΥΛΗ ΕΙΣΟΔΟΥ
+Line 1957: ΠΑΡΚΟΥ
+Line 1958: ΠΡΑΣΙΝΟ
+Line 1959: ΠΥΛΗ ΕΙΣΟΔΟΥ
+Line 1960: ΠΑΡΚΟΥ
+Line 1961: ΠΡΑΣΙΝΟ ΠΥΛΗ
+Line 1962: ΕΙΣΟΔΟΥ ΠΑΡΚΟΥ
+Line 1963: ΤΑΦΙΚΟ ΜΝΗΜΕΙΟ
+Line 1964: ΠΡΑΣΙΝΟ
+Line 1965: ΠΡΑΣΙΝΟ ΠΥΛΗ
+Line 1966: ΕΙΣΟΔΟΥ ΠΑΡΚΟΥ
+Line 1967: ΠΜ
+Line 1968: ΠΜ
+Line 1969: ΠΜ
+Line 1970: ΠΜ
+Line 1971: ΚΤHΡΙΑΚΗ ΕΝΟΤΗΤΑ
+Line 1972: ΠΜ IIΙ
+Line 1973: ΠΜ
+Line 1974: 2
+Line 1975: 4
+Line 1976: 4
+Line 1977: 4
+Line 1978: 4
+Line 1979: 2
+Line 1980: 2
+Line 1981: 49 49
+Line 1982: 48 48
+Line 1983: 47 47
+Line 1984: 46 46
+Line 1985: 45 45
+Line 1986: 44 44
+Line 1987: 43 43
+Line 1988: 42 42
+Line 1989: 41 41
+Line 1990: 40
+Line 1991: 2930
+Line 1992: 4
+Line 1993: 4
+Line 1994: 2
+Line 1995: 2
+Line 1996: ΡΕΜΑ ΑΕΡΟΔΡΟΜΙΟΥ
+Line 1997: ΡΕΜΑ ΑΕΡΟΔΡΟΜΙΟΥ
+Line 1998: 2
+Line 1999: 4
+Line 2000: 4
+Line 2001: ΠΜ
+Line 2002: 2
+Line 2003: ΡΕΜΑ ΑΕΡΟΔΡΟΜΙΟΥ
+Line 2004: 01 03
+Line 2005: ΑΑ
+Line 2006: 03
+Line 2007: ASW
+Line 2008: ASW
+Line 2009: 000
+Line 2010: 050
+Line 2011: 400
+Line 2012: 450
+Line 2013: 000
+Line 2014: 000
+Line 2015: 050
+Line 2016: 400
+Line 2017: 450
+Line 2018: 000
+Line 2019: TSW
+Line 2020: Λιθορριπή Riprap
+Line 2021: TSW
+Line 2022: TSW
+Line 2023: Λιθορριπή Riprap
+Line 2024: 700
+Line 2025: 750
+Line 2026: 000
+Line 2027: 050
+Line 2028: 3001
+Line 2029: 050
+Line 2030: 400
+Line 2031: 450
+Line 2032: 700
+Line 2033: 750
+Line 2034: 000
+Line 2035: 050
+Line 2036: 400
+Line 2037: 450
+Line 2038: 700
+Line 2039: 750
+Line 2040: 000
+Line 2041: 050
+Line 2042: Waste
+Line 2043: Storage
+Line 2044: Labor
+Line 2045: First
+Line 2046: Laboratory Area
+Line 2047: Technical
+Line 2048: Office Manager
+Line 2049: Engineering
+Line 2050: Manager
+Line 2051: Contracts Manager
+Line 2052: Planning Control
+Line 2053: Project Director
+Line 2054: Secretary
+Line 2055: Plotter
+Line 2056: Plotter
+Line 2057: Kitchen
+Line 2058: Engineering
+Line 2059: Technical
+Line 2060: Officers
+Line 2061: Construction
+Line 2062: Manager
+Line 2063: Document
+Line 2064: Controller
+Line 2065: Meeting Room
+Line 2066: HSE Officers
+Line 2067: HSE Officers
+Line 2068: HSE Manager
+Line 2069: Plotter
+Line 2070: Surveyors
+Line 2071: Surveyors
+Line 2072: Surveyors
+Line 2073: Printing Room
+Line 2074: Chief Surveyor
+Line 2075: Survey Equipment
+Line 2076: Storage Room
+Line 2077: Kitchen
+Line 2078: Ποσειδώνος Poseidonos
+Line 2079: Ποσειδώνος Poseidonos
+Line 2080: ΕΛ
+Line 2081: 2 2
+Line 2082: 2 2
+Line 2083: ΕΛ
+Line 2084: 2 2
+Line 2085: Κέντρο Ελληνικού Hellinikon
+Line 2086: Τρίτη Triti
+Line 2087: Οσίου Λαυρεντίου Osiou Lavrentiou
+Line 2088: Γιώτα Giota
+Line 2089: Ζήτα Zita
+Line 2090: Τρίτη Triti
+Line 2091: Γάμα Gama
+Line 2092: Βήτα Vita
+Line 2093: Άλφα Alfa
+Line 2094: Waste
+Line 2095: Storage
+Line 2096: First
+Line 2097: Laboratory Area
+Line 2098: Parking
+Line 2099: Parking
+Line 2100: ΠΕΖΟΔΡΟΜΟΣ
+Line 2101: PEDESTRIAN ROAD
+Line 2102: Visitors Parking
+Line 2103: Spare
+Line 2104: Gate
+Line 2105: Exit
+Line 2106: Parking
+Line 2107: Entrance
+Line 2108: Parking
+Line 2109: Parking
+Line 2110: Parking
+Line 2111: Parking
+Line 2112: Parking
+Line 2113: Επίστρωση
+Line 2114: Parking
+Line 2115: 4
+Line 2116: 2
+Line 2117: 4
+Line 2118: 2
+Line 2119: 4
+Line 2120: 2
+Line 2121: 4
+Line 2122: 2
+Line 2123: 4
+Line 2124: 2
+Line 2125: 4
+Line 2126: 2
+Line 2127: ΑΝΑΒΑΤΟΡΙΟ
+Line 2128: ΑΜΕΑ
+Line 2129: Parking Space
+Line 2130: Sheltered Parking Space
+Line 2131: Parking Space EV
+Line 2132: Disabled Parking Space
+Line 2133: Lighting Post
+Line 2134: Επίπεδη
+Line 2135: Επίπεδη
+Line 2136: LEGEND
+Line 2137: ΑΝΑΘΕΩΡΗΣΕΙΣ
+Line 2138: ΠΕΡΙΓΡΑΦΗ DESCRIPTION
+Line 2139: ΗΜ ΝΙΑ DATE
+Line 2140: ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΜΕΛΕΤΗ
+Line 2141: ΚΛΙΜΑΚΑ
+Line 2142: SCALE
+Line 2143: ΣΧΕΔΙΟ
+Line 2144: ΗΜΕΡΟΜΗΝΙΑ ΕΚΔΟΣΗΣ
+Line 2145: FIRST ISSUE DATE
+Line 2146: ΣΦΡΑΓΙΔΑ
+Line 2147: ΠΕΡΙΟΧΗ
+Line 2148: ZONE
+Line 2149: ISSUED
+Line 2150: CONSTRUCTION
+Line 2151: APPROVAL
+Line 2152: TENDER
+Line 2153: STATUS
+Line 2154: DRAFT
+Line 2155: FINAL
+Line 2156: ΚΑΤ. ΜΕΛΕΤΗΣ
+Line 2157: DISCIPLINE
+Line 2158: ΑΝΑΘ.
+Line 2159: REV.
+Line 2160: DRAWING
+Line 2161: LAYOYT LEGEND
+Line 2162: ΥΠΟΜΝΗΜΑ ΠΙΝΑΚΙΔΟΠΟΙΗΣΗΣ
+Line 2163: ΑΝΑΠΤΥΞΗ ΜΗΤΡΟΠΟΛΙΤΙΚΟΥ ΠΟΛΟΥ
+Line 2164: ΚΟΣΜΑ
+Line 2165: HELLINIKON DEVELOPMENT PROJECT
+Line 2166: ΕΡΓΟ
+Line 2167: PROJECT
+Line 2168: ΕΡΓΟΔΟΤΗΣ
+Line 2169: CLIENT
+Line 2170: PROJECT CONSULTANT
+Line 2171: ΣΥΜΒΟΥΛΟΣ ΕΡΓΟΥ
+Line 2172: ΘΕΜΑ
+Line 2173: SUBJECT
+Line 2174: 3262
+Line 2175: STAMP
+Line 2176: ΕΡΓΟΤΑΞΙΑΚΑ ΓΡΑΦΕΙΑ ΕΛΛΗΝΙΚΟ
+Line 2177: ELLINIKON SITE OFFICES
+Line 2178: ΕΛΛΗΝΙΚΟ
+Line 2179: ELLINIKON
+Line 2180: ΕΡΓΟΤΑΞΙΑΚΑ
+Line 2181: ΓΡΑΦΕΙΑ
+Line 2182: ΕΛΛΗΝΙΚΟ
+Line 2183: SITE OFFICES
+Line 2184: ELLINIKON
+Line 2185: ΓΕΝΙΚΗ ΔΙΑΤΑΞΗ
+Line 2186: MASTERPLAN
+Line 2187: 04 2023
+Line 2188: 00
+Line 2189: SO
+Line 2190: ARC
+
+=== END OF FILTERED TEXT ===
+Total lines: 2191

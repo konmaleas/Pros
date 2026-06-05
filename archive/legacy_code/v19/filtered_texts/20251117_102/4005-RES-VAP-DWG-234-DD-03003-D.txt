@@ -1,0 +1,190 @@
+=== FILTERED TEXT FOR: 4005-RES-VAP-DWG-234-DD-03003-D.pdf ===
+
+Line   0: BR
+Line   1: BQ
+Line   2: BP
+Line   3: BO
+Line   4: BN
+Line   5: BM
+Line   6: BL
+Line   7: BK
+Line   8: BJ
+Line   9: BH
+Line  10: BF
+Line  11: BE
+Line  12: BD
+Line  13: BC
+Line  14: BB
+Line  15: BA
+Line  16: AR
+Line  17: AQ
+Line  18: AP
+Line  19: AO
+Line  20: AM
+Line  21: AL
+Line  22: AK
+Line  23: AJ
+Line  24: AI
+Line  25: AH
+Line  26: AG
+Line  27: AF
+Line  28: AE
+Line  29: AD
+Line  30: AC
+Line  31: AB
+Line  32: AA
+Line  33: BG
+Line  34: ΠΡΟΫΠΑΡΧΟΥΣΑ ΓΡΑΜΜΗ ΦΥΣΙΚΟΥ ΕΔΑΦΟΥΣ
+Line  35: ΓΡΑΜΜΗ ΔΙΑΜΟΡΦΩΜΕΝΟΥ ΦΥΣΙΚΟΥ ΕΔΑΦΟΥΣ ΠΔ
+Line  36: ΠΡΟΒΟΛΗ
+Line  37: ΠΡΟΒΟΛΗ
+Line  38: ΠΡΟΒΟΛΗ
+Line  39: ΠΡΟΒΟΛΗ
+Line  40: ΕΠΙΠΕΔΟ ΥΠΟΓΕΙΟΥ
+Line  41: ΕΠΙΠΕΔΟ ΙΣΟΓΕΙΟΥ
+Line  42: ΕΠΙΠΕΔΟ ΟΡΟΦΟΥ
+Line  43: ΕΠΙΠΕΔΟ ΟΡΟΦΟΥ
+Line  44: ΕΠΙΠΕΔΟ ΟΡΟΦΟΥ
+Line  45: ΕΠΙΠΕΔΟ ΟΡΟΦΟΥ
+Line  46: ΕΠΙΠΕΔΟ ΟΡΟΦΟΥ
+Line  47: ΕΠΙΠΕΔΟ ΟΡΟΦΟΥ
+Line  48: ΕΠΙΠΕΔΟ ΟΡΟΦΟΥ
+Line  49: ΕΠΙΠΕΔΟ ΟΡΟΦΟΥ
+Line  50: ΕΠΙΠΕΔΟ ΟΡΟΦΟΥ
+Line  51: ΕΠΙΠΕΔΟ ΟΡΟΦΟΥ
+Line  52: ΕΠΙΠΕΔΟ ΟΡΟΦΟΥ
+Line  53: ΕΠΙΠΕΔΟ ΟΡΟΦΟΥ
+Line  54: ΕΠΙΠΕΔΟ ΟΡΟΦΟΥ
+Line  55: ΕΠΙΠΕΔΟ ΟΡΟΦΟΥ
+Line  56: BI
+Line  57: ΣΧΕΤΙΚΗ ΑΠΟΛΥΤΗ ΣΤΑΘΜΗ
+Line  58: ΔΙΑΜΟΡΦΩΜΕΝΟ ΕΔΑΦΟΣ
+Line  59: ΑΦΕΤΗΡΙΑ ΥΨΩΝ,
+Line  60: ΜΕΓΙΣΤΟ ΕΠΙΤΡΕΠΟΜΕΝΟ ΥΨΟΣ
+Line  61: ΕΓΚΑΤΑΣΤΑΣΕΙΣ ΔΩΜΑΤΟΣ ΓΙΑ ΤΟΝ ΚΛΙΜΑΤΙΣΜΟ
+Line  62: ΚΑΙ ΥΠΕΡΥΨΩΜΕΝΗ ΚΑΤΑΣΚΕΥΗ ΜΕ ΦΩΤΟΒΟΛΤΑΪΚΑ ΠΑΝΕΛΑ
+Line  63: ΣΕ ΟΡΙΖΟΝΤΙΑ ΘΕΣΗ ΚΑΙ ΠΕΡΙΜΕΤΡΙΚΗ ΠΛΗΡΩΣΗ
+Line  64: ΜΕ ΗΧΟΑΠΟΡΡΟΦΗΤΙΚΑ ΠΑΝΕΛΑ
+Line  65: ΝΟΚ
+Line  66: ΕΓΚΑΤΑΣΤΑΣΕΙΣ ΔΩΜΑΤΟΣ ΓΙΑ ΤΟΝ ΚΛΙΜΑΤΙΣΜΟ
+Line  67: ΚΑΙ ΥΠΕΡΥΨΩΜΕΝΗ ΚΑΤΑΣΚΕΥΗ ΜΕ ΦΩΤΟΒΟΛΤΑΪΚΑ ΠΑΝΕΛΑ
+Line  68: ΣΕ ΟΡΙΖΟΝΤΙΑ ΘΕΣΗ ΚΑΙ ΠΕΡΙΜΕΤΡΙΚΗ ΠΛΗΡΩΣΗ
+Line  69: ΜΕ ΗΧΟΑΠΟΡΡΟΦΗΤΙΚΑ ΠΑΝΕΛΑ
+Line  70: ΝΟΚ
+Line  71: ΠΕΡΙΓΡΑΦΗ ΥΛΙΚΩΝ ΟΨEΩΝ MATERIALS DESCRIPTION
+Line  72: ΥΠΟΜΝΗΜΑ ΟΨΕΩΝ
+Line  73: ΣΧΕΤΙΚΗ ΣΤΑΘΜΗ ΤΕΛΙΚΟΥ ΔΑΠΕΔΟΥ
+Line  74: ΕΠΙΠΕΔΟ
+Line  75: ΑΠΟΛΥΤΗ ΣΤΑΘΜΗ ΤΕΛΙΚΟΥ ΔΑΠΕΔΟΥ
+Line  76: ΓΡΑΜΜΗ ΔΙΑΜΟΡΦΩΜΕΝΟΥ ΕΔΑΦΟΥΣ
+Line  77: ΑΦΕΤΗΡΙΑ ΥΨΩΝ
+Line  78: ΓΡΑΜΜΗ ΔΙΑΜΟΡΦΩΜΕΝΟΥ
+Line  79: ΦΥΣΙΚΟΥ ΕΔΑΦΟΥΣ
+Line  80: ΠΡΟΫΠΑΡΧΟΥΣΑ ΓΡΑΜΜΗ
+Line  81: ΦΥΣΙΚΟΥ ΕΔΑΦΟΥΣ
+Line  82: 40
+Line  83: ΓΕΝΙΚΕΣ ΣΗΜΕΙΩΣΕΙΣ GENERAL NOTES
+Line  84: ΕΓΓΡΑΦΑ ΑΝΑΦΟΡΑΣ DOCUMENT REFERENCE
+Line  85: ΤΙΤΛΟΣ ΣΧΕΔΙΟΥ DRAWING TITLE
+Line  86: ΚΩΔΙΚΟΣ ΕΓΓΡΑΦΟΥ ΣΧΕΔΙΟΥ DOCUMENT DRAWING CODIFICATION
+Line  87: Project
+Line  88: Originator
+Line  89: Type
+Line  90: Discipline
+Line  91: Stage
+Line  92: Serial Number
+Line  93: Revision
+Line  94: ΚΛΙΜΑΚΑ SCALE
+Line  95: ΔΙΑΤΑΞΗ LAYOUT
+Line  96: REV.
+Line  97: DATE
+Line  98: ISSUE
+Line  99: DESCRIPTION UPDATE VERSION
+Line 100: ORIGINATED
+Line 101: CHECKED
+Line 102: VERIFIED
+Line 103: LEAD DESIGNER
+Line 104: APPROVED
+Line 105: PMC
+Line 106: STATUS
+Line 107: ΣΥΜΒΟΥΛΟΣ ΔΙΑΧΕΙΡΙΣΗΣ ΕΡΓΟΥ
+Line 108: PROJECT MANAGEMENT CONSULTANT
+Line 109: ΣΥΜΒΟΥΛΟΥ ΔΙΑΧΕΙΡΙΣΗΣ ΕΡΓΟΥ
+Line 110: PROJECT MANAGEMENT CONSULTANT DETAILS
+Line 111: ΚΥΡΙΟΣ ΜΕΛΕΤΗΤΗΣ LEAD DESIGNER
+Line 112: ΜΕΛΕΤΗΤΗ LOCAL ARCHITECT
+Line 113: SUBCONSULTANT STRUCTURE
+Line 114: ΕΡΓΟΔΟΤΗΣ EMPLOYER
+Line 115: ΕΡΓΟΔΟΤΗ EMPLOYER DETAILS
+Line 116: ΑΝΑΠΤΥΞΗ ΤΟΥ ΜΗΤΡΟΠΟΛΙΤΙΚΟΥ ΠΟΛΟΥ ΕΛΛΗΝΙΚΟΥ ΑΓIOY ΚΟΣΜΑ
+Line 117: DEVELOPMENT METROPOLITAN POLE HELLINIKON AG. KOSMAS
+Line 118: ΕΡΓΟ PROJECT
+Line 119: ΕΛΛΗΝΙΚΟ HELLINIKON
+Line 120: Kifisias Avenue Golden Hall
+Line 121: 15123 Marousi
+Line 122: Σημείωση Πνευματικών Δικαιωμάτων. 2121 1993
+Line 123: ΕΛΛΗΝΙΚΟ
+Line 124: Ρήτρα Περιορισμού Ευθύνης. Γραφείο
+Line 125: Ελληνικού. ΕΛΛΗΝΙΚΟ
+Line 126: ΝΑ ΜΗΝ ΑΛΛΑΧΘΕΙ ΚΛΙΜΑΚΑ ΤΟΥ ΣΧΕΔΙΟΥ.
+Line 127: Copyright Notice. 2121 1993
+Line 128: HELLINIKON
+Line 129: Disclaimer. Hellinikon Office. HELLINIKON
+Line 130: CHANGE SCALE DRAWING.
+Line 131: SUBCONSULTANT MEP
+Line 132: SUBCONSULTANT LANDSCAPE
+Line 133: SUBCONSULTANT TRAFFIC
+Line 134: SUBCONSULTANT LIGHTING
+Line 135: SUBCONSULTANT ACOUSTICS
+Line 136: SUBCONSULTANT SUSTAINABILITY
+Line 137: SUBCONSULTANT SIGNAGE
+Line 138: URBAN ZONE
+Line 139: ΑΡΧΙΤΕΚΤΟΝΙΚΟΣ ΣΧΕΔΙΑΣΜΟΣ Οριστική Μελέτη
+Line 140: MODEL MDD 234 DD 0001
+Line 141: BJARKE INGELS GROUP BIG
+Line 142: AVINGUDA DA LES DRASSANES
+Line 143: 08001 BARCELON, SPAIN
+Line 144: HELLINIKON
+Line 145: ΑΝΕΓΕΡΣΗ ΥΨΗΛΟΥ ΚΤΙΡΙΟΥ ΚΑΤΟΙΚΙΩΝ ΟΡΟΦΩΝ, ΜΕ ΥΠΕΡΓΕΙΟΥΣ
+Line 146: ΟΡΟΦΟΥΣ ΥΠΟΓΕΙΑ ΒΟΗΘΗΤΙΚΩΝ ΧΩΡΩΝ ΚΑΙ ΧΩΡΩΝ ΣΤΑΘΜΕΥΣΗΣ, ΙΣΟΓΕΙΟ
+Line 147: ΤΜΗΜΑ ΚΟΙΝΟΧΡΗΣΤΩΝ ΛΕΙΤΟΥΡΓΙΩΝ ΤΩΝ ΚΑΤΟΙΚΙΩΝ ΜΕ ΚΛΕΙΣΤΗ ΚΟΛΥΜΒΗΤΙΚΗ
+Line 148: ΔΕΞΑΜΕΝΗ ΣΤΟ ΥΠΟΓΕΙΟ, ΑΝΟΙΚΤΕΣ ΚΟΛΥΜΒΗΤΙΚΕΣ ΔΕΞΑΜΕΝΕΣ ΣΕ ΔΩΜΑΤΑ
+Line 149: ΟΡΟΦΩΝ, ΚΑΤΑΣΚΕΥΕΣ ΜΕ ΦΩΤΟΒΟΛΤΑΙΚΑ ΠΑΝΕΛΑ ΚΑΙ ΗΧΟΠΕΤΑΣΜΑΤΑ ΣΤΑ
+Line 150: ΔΩΜΑΤΑ ΚΤΙΡΙΟΥ, ΔΙΑΜΟΡΦΩΣΗ ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΧΩΡΟΥ, ΔΥΟ ΥΔΑΤΙΝΑ
+Line 151: ΣΕ ΗΜΙΥΠΑΙΘΡΙΟΥΣ ΧΩΡΟΥΣ ΤΟΥ ΙΣΟΓΕΙΟΥ, ΜΕ ΦΩΤΟΒΟΛΤΑΙΚΑ
+Line 152: ΠΑΝΕΛΑ ΣΕ ΤΜΗΜΑ ΠΡΑΣΙΑΣ ΚΑΙ ΣΕ ΑΚΑΛΥΠΤΟ ΧΩΡΟ ΟΙΚΟΠΕΔΟΥ ΚΑΙ ΧΡΗΣΗ ΤΟΥ
+Line 153: AΡΘΡΟΥ ΤΟΥ ΝΟΚ ΟΠΩΣ ΙΣΧΥΕΙ ΣΤΟ
+Line 154: D
+Line 155: RES
+Line 156: VAP
+Line 157: DWG
+Line 158: 234
+Line 159: DD
+Line 160: 03003
+Line 161: 4005
+Line 162: ΔΥΤΙΚΗ ΟΨΗ
+Line 163: ΦΥΛΛΟ SHEET 03003
+Line 164: 06 2023
+Line 165: First Issuance Approval
+Line 166: VAP
+Line 167: VAP
+Line 168: BIG
+Line 169: 04 08 2023
+Line 170: Second Issuance Approval
+Line 171: VAP
+Line 172: VAP
+Line 173: BIG
+Line 174: 09 2023
+Line 175: Third Issuance Approval
+Line 176: VAP
+Line 177: VAP
+Line 178: BIG
+Line 179: D
+Line 180: 09 2023
+Line 181: Fourth Issuance Approval
+Line 182: VAP
+Line 183: VAP
+Line 184: BIG
+
+=== END OF FILTERED TEXT ===
+Total lines: 185

@@ -1,0 +1,44 @@
+=== FILTERED TEXT FOR: PEN_IV-A105.pdf ===
+
+Line   0: ΔΩΜΑ
+Line   1: ΔΩΜΑ
+Line   2: ΔΩΜΑ
+Line   3: ΔΩΜΑ
+Line   4: ΞΥΛΙΝΗ
+Line   5: ΠΕΡΓΚΟΛΑ
+Line   6: ΣΤΕΓΑΣΤΡΟ
+Line   7: COUR ANGLAISE
+Line   8: ΞΥΛΙΝΗ
+Line   9: ΠΕΡΓΚΟΛΑ
+Line  10: ΔΩΜΑ
+Line  11: ΔΩΜΑ
+Line  12: ΣΤΕΓΑΣΤΡΟ
+Line  13: ΣΤΕΓΑΣΤΡΟ
+Line  14: ΒΟΡΕΙΟΔΥΤΙΚΗ ΟΨΗ
+Line  15: ΒΟΡΕΙΟΔΥΤΙΚΗ ΟΨΗ
+Line  16: TOMH
+Line  17: TOMH
+Line  18: ΝΟΤΙΑ ΟΨΗ
+Line  19: ΦΥΤΕΥΣΗ
+Line  20: ΦΔΑΡΟΤΑΡΗΟΣ 2020
+Line  21: ΔΡΓΟ
+Line  22: ΑΡΧΗΤΔΚΤΟΜΗΚΗ ΜΔΛΔΤΗ
+Line  23: ΣΦΡΑΓΗΔΑ ΤΠΟΓΡΑΦΗ
+Line  24: ANDREAS FUHRIMANN GABRIELLE HACHLER
+Line  25: ARCHITEKTEN ETH BSA ZURICH CH
+Line  26: ΔΚΤΔΛΔΣΗ ΑΡΧΗΤΔΚΤΟΜΗΚΗΣ ΜΔΛΔΤΗΣ
+Line  27: ΘΔΣΗ ΔΡΓΟΤ
+Line  28: ΠΗΓΑΔΑΚΗΑ ΚΑΤΚΑΡΔΣ ΤΗΣ ΚΟΗΜΟΤΗΤΑΣ
+Line  29: ΑΜΤΗΠΑΡΟΤ, ΜΟΜΟΤ ΚΤΚΛΑΔΨΜ
+Line  30: ΚΤΡΗΟΣ ΤΟΤ ΔΡΓΟΤ
+Line  31: PASTOR LTD
+Line  32: ΣΤΑΔΗΟ ΜΔΛΔΤΗΣ
+Line  33: ΟΡΗΣΤΗΚΗ ΜΔΛΔΤΗ
+Line  34: ΣΧΔΔΗΟ
+Line  35: ΑΡΗΘΜΟΣ
+Line  36: ΗΜΔΡΟΜΗΜΗΑ
+Line  37: ΚΛΗΜΑΚΑ
+Line  38: 467 2010
+
+=== END OF FILTERED TEXT ===
+Total lines: 39

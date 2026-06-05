@@ -1,0 +1,75 @@
+=== FILTERED TEXT FOR: A101-00.pdf ===
+
+Line   0: UP
+Line   1: PARKING
+Line   2: ROOM
+Line   3: SHAFT
+Line   4: LIFT
+Line   5: STORAGE
+Line   6: SERVICE ROOM
+Line   7: SERVICE ROOM
+Line   8: 01
+Line   9: 02
+Line  10: 03
+Line  11: 04
+Line  12: 05
+Line  13: 06
+Line  14: 07
+Line  15: 08
+Line  16: 09
+Line  17: 43
+Line  18: 40
+Line  19: 44
+Line  20: Building Projection Line
+Line  21: 41
+Line  22: 42
+Line  23: 45
+Line  24: 46
+Line  25: POTENTIAL AREA
+Line  26: MECHANICAL INSTALLATION
+Line  27: POTENTIAL AREA MECHANICAL
+Line  28: INSTALLATION
+Line  29: SHAFT
+Line  30: ROOM
+Line  31: STORAGE
+Line  32: STAIRCASE
+Line  33: STORAGE
+Line  34: BASEMENT LOBBY
+Line  35: REVISIONS
+Line  36: CLIENT
+Line  37: PROJECT
+Line  38: DESIGN STAGE
+Line  39: DATE
+Line  40: SCALE
+Line  41: FILE NAME
+Line  42: DRAWING TITLE
+Line  43: DRAWING
+Line  44: TAHLIA WALK
+Line  45: VAPARCHITECTS
+Line  46: Street
+Line  47: Athens, GR
+Line  48: 00
+Line  49: DESIGN ARCHITECTS
+Line  50: STRUCTURAL ENGINEER
+Line  51: CONSULTANTS
+Line  52: MEP ENGINEER
+Line  53: STUDIO
+Line  54: Lycab
+Line  55: Athens, 47
+Line  56: 75
+Line  57: 72
+Line  58: ZAD DEVELOPMENT
+Line  59: 2016 41 44
+Line  60: A101
+Line  61: Level
+Line  62: Park Layout
+Line  63: Project Status
+Line  64: Level Park Layout
+Line  65: 1602 TW A101 00
+Line  66: Description
+Line  67: Date
+Line  68: First
+Line  69: 06
+
+=== END OF FILTERED TEXT ===
+Total lines: 70

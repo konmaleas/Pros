@@ -1,0 +1,167 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-845-0A_-_RECEIVING_STAGING_AREA_SHEET_1_OF_3.pdf ===
+
+Line   0: 2525
+Line   1: 1880
+Line   2: 7332
+Line   3: 2150
+Line   4: 1280
+Line   5: WT
+Line   6: 1280
+Line   7: 768
+Line   8: 2000
+Line   9: RECEIVING
+Line  10: STAGING
+Line  11: AREA
+Line  12: ATH04 00 040
+Line  13: YE
+Line  14: Fork Lift Marking
+Line  15: POWER FLOATED
+Line  16: CONCRETE SEALED
+Line  17: ASHFORD FORMULA SEALER
+Line  18: LT
+Line  19: LT
+Line  20: LT
+Line  21: WT
+Line  22: ID AD 049
+Line  23: ID AD 048
+Line  24: ID AD 050
+Line  25: ID AD 038
+Line  26: ID AD 043
+Line  27: ID AD 047
+Line  28: ID AD 044
+Line  29: ID AD 045
+Line  30: ID AD 046
+Line  31: WT
+Line  32: 4890
+Line  33: 15575
+Line  34: WT
+Line  35: 1050
+Line  36: 1201
+Line  37: 2000
+Line  38: 750
+Line  39: 1880
+Line  40: 1880
+Line  41: 6120
+Line  42: 1880
+Line  43: 2280
+Line  44: LT
+Line  45: WT
+Line  46: LT
+Line  47: GL
+Line  48: CEILING LEVEL
+Line  49: YE
+Line  50: ID AD 047
+Line  51: ID AD 048
+Line  52: ID AD 049
+Line  53: LT MEDITE LINER
+Line  54: CEILING TYPE UNDERSIDE
+Line  55: METAL DECK
+Line  56: POWER FLOATED
+Line  57: CONCRETE SEALED
+Line  58: ASHFORD FORMULA SEALER
+Line  59: VINYL COVED UPSTAND
+Line  60: PREFINISHED STEEL
+Line  61: FIREMASTER WALLS ABOVE
+Line  62: PROTECTION BOARD RAL 9010
+Line  63: WHITE
+Line  64: RECEIVING
+Line  65: STAGING
+Line  66: AREA
+Line  67: ATH04 00 040
+Line  68: 1525
+Line  69: WT
+Line  70: WT
+Line  71: WT
+Line  72: HIGH SPEED ROLLER DOOR
+Line  73: HIGH SPEED ROLLER DOOR
+Line  74: NOTE
+Line  75: WALL TYPE LEGEND REFER DRAWING ATH04 A
+Line  76: ADMIN
+Line  77: COLO
+Line  78: COLO
+Line  79: TRUE NORTH
+Line  80: Sheet Title Number
+Line  81: Scale
+Line  82: Plan
+Line  83: Design Consultants
+Line  84: Microsoft
+Line  85: DATA CENTER ATH04
+Line  86: SPATA GREECE
+Line  87: Contractor Joint Venture
+Line  88: Name
+Line  89: Contractor Project
+Line  90: Contractor Contract
+Line  91: Contractor PM
+Line  92: Contractor BIM Mngr
+Line  93: Contractor Information
+Line  94: Renco Terna
+Line  95: Client
+Line  96: General Notes
+Line  97: Client Project
+Line  98: Client Contract
+Line  99: Client PM
+Line 100: Client BIM Mngr
+Line 101: Primary Client Information
+Line 102: Layout
+Line 103: Revision
+Line 104: Tombazi Chalandri
+Line 105: 15232
+Line 106: Athens Greece
+Line 107: 0800 3262
+Line 108: Agion Theodoron Square Athens
+Line 109: 10561
+Line 110: Athens Greece
+Line 111: Kimithois Agios Dimitrios
+Line 112: 17236
+Line 113: Athens Greece
+Line 114: Purpose Issue
+Line 115: Issue
+Line 116: Name
+Line 117: RECEIVING STAGING AREA SHEET
+Line 118: ATH04 VAP AH
+Line 119: SCALE
+Line 120: RECEIVING STAGING AREA
+Line 121: SCALE
+Line 122: RECEIVING STAGING AREA ELEVATION
+Line 123: 1250
+Line 124: SCALE
+Line 125: EQUIPMENT SCHEDULE RECEIVING STAGING AREA
+Line 126: Count Type Mark
+Line 127: Description
+Line 128: Room Name
+Line 129: Room Number
+Line 130: BALLARD, STEEL,
+Line 131: RECEIVING STAGING AREA
+Line 132: ATH04 00 040
+Line 133: HEIGHT ADJUSTABLE RECTANGULAR
+Line 134: DESK ACOUSTIC DESK SCREEN
+Line 135: RECEIVING STAGING AREA
+Line 136: ATH04 00 040
+Line 137: FORK LIFT CHARGE STATION
+Line 138: RECEIVING STAGING AREA
+Line 139: ATH04 00 040
+Line 140: FLOORSTANDING WATER DISPENSER
+Line 141: BASE CABINET
+Line 142: RECEIVING STAGING AREA
+Line 143: ATH04 00 040
+Line 144: IDA
+Line 145: SINGLE LEAF, INTERIOR DOOR
+Line 146: RECEIVING STAGING AREA
+Line 147: ATH04 00 040
+Line 148: PALLET JACK
+Line 149: RECEIVING STAGING AREA
+Line 150: ATH04 00 040
+Line 151: PALLET JACK CHARGE STATION
+Line 152: RECEIVING STAGING AREA
+Line 153: ATH04 00 040
+Line 154: PALLET JACK
+Line 155: RECEIVING STAGING AREA
+Line 156: ATH04 00 040
+Line 157: Date
+Line 158: Description
+Line 159: 04
+Line 160: Issued Approval
+Line 161: VAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 162

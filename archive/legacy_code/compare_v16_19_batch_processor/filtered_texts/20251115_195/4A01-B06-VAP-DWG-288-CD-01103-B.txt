@@ -1,0 +1,884 @@
+=== FILTERED TEXT FOR: 4A01-B06-VAP-DWG-288-CD-01103-B.pdf ===
+
+Line   0: ΠΦ
+Line   1: ΔΕΗ
+Line   2: UPS
+Line   3: SSL
+Line   4: FFL
+Line   5: SSL
+Line   6: FFL
+Line   7: SSL
+Line   8: FFL
+Line   9: ΘΥΑΛ
+Line  10: DE
+Line  11: DE
+Line  12: DE
+Line  13: ΠΦ
+Line  14: ΠΦ
+Line  15: ΔΕΗ
+Line  16: UPS
+Line  17: DE
+Line  18: SSL
+Line  19: FFL
+Line  20: SSL
+Line  21: FFL
+Line  22: SSL
+Line  23: FFL
+Line  24: SSL
+Line  25: FFL
+Line  26: ΔΩΜΑ ΙΣΟΓΕΙΟΥ ΓΙΑ ΜΗΧΑΝΟΛΟΓΙΚΕΣ ΕΓΚΑΤΑΣΤΑΣΕΙΣ
+Line  27: ΥΦΙΣΤΑΜΕΝΗ ΔΙΑΤΗΡΟΥΜΕΝΗ ΔΑΠΕΔΟΣΤΡΩΣΗ ΔΩΜΑΤΟΣ
+Line  28: GROUND FLOOR ROOF MEP EQUIPMENT
+Line  29: EXISTING MAINTAINED FLOORING
+Line  30: ΠΦ ΠΣ
+Line  31: VAP DWG CD 01132
+Line  32: ΦΟΥΡΝΟΣ
+Line  33: ΠΛ. ΠΙΑΤΩΝ
+Line  34: ΑΠΟΡΡΟΦΗΤΗΡΑΣ
+Line  35: ΕΣΤΙΕΣ
+Line  36: ΕΛ. ΨΥΓΕΙΟ
+Line  37: ELEVATOR
+Line  38: VAP DWG CD 01131
+Line  39: ΠΕΡΙΟΧΗ ΕΚΤΟΣ ΜΕΛΕΤΗΣ
+Line  40: ΔΩΜΑ ΙΣΟΓΕΙΟΥ ΓΙΑ ΜΗΧΑΝΟΛΟΓΙΚΕΣ ΕΓΚΑΤΑΣΤΑΣΕΙΣ
+Line  41: ΥΦΙΣΤΑΜΕΝΗ ΔΙΑΤΗΡΟΥΜΕΝΗ ΔΑΠΕΔΟΣΤΡΩΣΗ ΔΩΜΑΤΟΣ
+Line  42: GROUND FLOOR ROOF MEP EQUIPMENT
+Line  43: EXISTING MAINTAINED FLOORING
+Line  44: ΔΩΜΑ ΙΣΟΓΕΙΟΥ ΓΙΑ ΜΗΧΑΝΟΛΟΓΙΚΕΣ ΕΓΚΑΤΑΣΤΑΣΕΙΣ
+Line  45: ΥΦΙΣΤΑΜΕΝΗ ΔΙΑΤΗΡΟΥΜΕΝΗ ΔΑΠΕΔΟΣΤΡΩΣΗ ΔΩΜΑΤΟΣ
+Line  46: GROUND FLOOR ROOF MEP EQUIPMENT
+Line  47: EXISTING MAINTAINED FLOORING
+Line  48: ΜΕΤΑΛΛΙΚΗ
+Line  49: CB
+Line  50: 01
+Line  51: CB
+Line  52: 04
+Line  53: CB
+Line  54: 06
+Line  55: CB
+Line  56: 07
+Line  57: ΜΕΤΑΛΛΙΚΗ
+Line  58: ΚΑΘΕΤΕΣ ΠΕΡΣΙΔΕΣ
+Line  59: ΟΡΙΖΟΝΤΙΑ ΜΕΤΑΛΛΙΚΗ ΓΙΑ ΣΤΗΡΙΞΗ ΠΕΡΣΙΔΩΝ
+Line  60: ΜΕΤΑΛΛΙΚΗ
+Line  61: ΜΕΤΑΛΛΙΚΗ
+Line  62: ΕΦΕΛΚΥΟΜΕΝΗ
+Line  63: ΚΑΘΑΙΡΕΣΗ ΥΦΙΣΤΑΜΕΝΩΝ ΦΕΓΓΙΤΩΝ ΚΑΙ ΚΛΕΙΣΙΜΟ ΟΠΗΣ ΜΕ ΠΑΝΕΛΟ ΠΑΓΙΟΚΑΛΥΨΗΣ ΜΕ ΠΕΤΡΟΒΑΜΒΑΚΑ
+Line  64: ΚΑΘΑΙΡΕΣΗ ΥΦΙΣΤΑΜΕΝΩΝ ΦΕΓΓΙΤΩΝ ΚΑΙ ΚΛΕΙΣΙΜΟ ΟΠΗΣ ΜΕ ΠΑΝΕΛΟ ΠΑΓΙΟΚΑΛΥΨΗΣ ΜΕ ΠΕΤΡΟΒΑΜΒΑΚΑ
+Line  65: CB
+Line  66: 05
+Line  67: CB
+Line  68: 02
+Line  69: ΕΦΕΛΚΥΟΜΕΝΗ
+Line  70: ΚΛΕΙΣΙΜΟ ΟΠΗΣ ΓΙΑ ΛΟΓΟΥΣ ΠΑΘΗΤΙΚΗΣ ΠΥΡΟΠΡΟΣΤΑΣΙΑΣ
+Line  71: ΚΑΘΑΙΡΕΣΗ ΥΦΙΣΤΑΜΕΝΩΝ ΦΕΓΓΙΤΩΝ ΚΑΙ ΚΛΕΙΣΙΜΟ ΟΠΗΣ ΜΕ ΠΑΝΕΛΟ ΠΑΓΙΟΚΑΛΥΨΗΣ ΜΕ ΠΕΤΡΟΒΑΜΒΑΚΑ
+Line  72: 2
+Line  73: 2
+Line  74: 4
+Line  75: 2
+Line  76: 4
+Line  77: 2
+Line  78: 4
+Line  79: 4
+Line  80: 2
+Line  81: 03101
+Line  82: 03101
+Line  83: 03103
+Line  84: 03101
+Line  85: CB
+Line  86: 08
+Line  87: CB
+Line  88: 08
+Line  89: CB
+Line  90: 08
+Line  91: 70
+Line  92: 70
+Line  93: SW
+Line  94: MD
+Line  95: MD
+Line  96: MD
+Line  97: MD
+Line  98: MD
+Line  99: MD
+Line 100: SW
+Line 101: SW
+Line 102: MD
+Line 103: SW
+Line 104: SW
+Line 105: MD
+Line 106: DRV.
+Line 107: DALI
+Line 108: SW
+Line 109: DRV.
+Line 110: DALI
+Line 111: DRV.
+Line 112: DALI
+Line 113: DRV.
+Line 114: DALI
+Line 115: DRV.
+Line 116: DALI
+Line 117: DRV.
+Line 118: DALI
+Line 119: DRV.
+Line 120: DALI
+Line 121: DRV.
+Line 122: DALI
+Line 123: DRV.
+Line 124: DALI
+Line 125: DRV.
+Line 126: DALI
+Line 127: DALI DRV.
+Line 128: DRV.
+Line 129: DALI
+Line 130: SW
+Line 131: SW
+Line 132: SW
+Line 133: SW
+Line 134: SW
+Line 135: SW
+Line 136: SW
+Line 137: SW
+Line 138: SW
+Line 139: SW
+Line 140: SW
+Line 141: SW
+Line 142: SW
+Line 143: SW
+Line 144: SW
+Line 145: SW
+Line 146: DALI DRV.
+Line 147: DALI DRV.
+Line 148: DALI DRV.
+Line 149: Mounting Height
+Line 150: Ύψος Τοποθέτησης
+Line 151: MH
+Line 152: Mounting Height
+Line 153: Ύψος Τοποθέτησης
+Line 154: MH
+Line 155: SW
+Line 156: DRV.
+Line 157: DALI
+Line 158: DRV.
+Line 159: DALI
+Line 160: DRV.
+Line 161: DALI
+Line 162: DRV.
+Line 163: DALI
+Line 164: SW
+Line 165: SW
+Line 166: SW
+Line 167: SW
+Line 168: SW
+Line 169: SW
+Line 170: SW
+Line 171: SW
+Line 172: SW
+Line 173: MD
+Line 174: SW
+Line 175: SW
+Line 176: SW
+Line 177: SW
+Line 178: TS
+Line 179: TS
+Line 180: DRV.
+Line 181: DALI
+Line 182: DRV.
+Line 183: DALI
+Line 184: TS
+Line 185: TS
+Line 186: NOTE 01
+Line 187: DRV.
+Line 188: DRV.
+Line 189: DRV.
+Line 190: DRV.
+Line 191: SW
+Line 192: 2
+Line 193: 2 DRV.
+Line 194: 2
+Line 195: 2 DRV.
+Line 196: 2
+Line 197: 2 DRV.
+Line 198: 2
+Line 199: 2 DRV.
+Line 200: 2
+Line 201: 2 DRV.
+Line 202: 2
+Line 203: 2 DRV.
+Line 204: 2
+Line 205: 2 DRV.
+Line 206: 2
+Line 207: 2 DRV.
+Line 208: 2
+Line 209: 2 DRV.
+Line 210: DRV.
+Line 211: 2
+Line 212: 2 DRV.
+Line 213: 2
+Line 214: 2 DRV.
+Line 215: 2
+Line 216: 2 DRV.
+Line 217: 2
+Line 218: 2 DRV.
+Line 219: DRV.
+Line 220: DRV.
+Line 221: DRV.
+Line 222: DRV.
+Line 223: DALI DRV.
+Line 224: DALI DRV.
+Line 225: DRV.
+Line 226: 2
+Line 227: 2 DRV.
+Line 228: 2
+Line 229: 2 DRV.
+Line 230: DRV.
+Line 231: 2
+Line 232: 2 DRV.
+Line 233: DRV.
+Line 234: 2
+Line 235: 2 DRV.
+Line 236: 2
+Line 237: 2 DRV.
+Line 238: NOTE 02
+Line 239: MS
+Line 240: MC
+Line 241: MF
+Line 242: GBW
+Line 243: GBW
+Line 244: MF
+Line 245: ML
+Line 246: GBW
+Line 247: MC
+Line 248: MC
+Line 249: ML
+Line 250: ML
+Line 251: MC
+Line 252: MC
+Line 253: GBW
+Line 254: GBP
+Line 255: GBP
+Line 256: GBP
+Line 257: MF
+Line 258: GBP
+Line 259: NC
+Line 260: NC
+Line 261: MF
+Line 262: MF
+Line 263: MF
+Line 264: MF
+Line 265: MF
+Line 266: MF
+Line 267: MF
+Line 268: MF
+Line 269: MF
+Line 270: MF
+Line 271: MC
+Line 272: GBW
+Line 273: GBW
+Line 274: MF
+Line 275: GBW
+Line 276: NC
+Line 277: MS
+Line 278: MC
+Line 279: MF
+Line 280: GBW
+Line 281: GBW
+Line 282: MF
+Line 283: ML
+Line 284: GBW
+Line 285: MC
+Line 286: MC
+Line 287: ML
+Line 288: ML
+Line 289: MC
+Line 290: GBW
+Line 291: GBP
+Line 292: GBP
+Line 293: MF
+Line 294: GBP
+Line 295: NC
+Line 296: NC
+Line 297: MF
+Line 298: MF
+Line 299: MF
+Line 300: MF
+Line 301: MF
+Line 302: MF
+Line 303: MF
+Line 304: MF
+Line 305: MF
+Line 306: MF
+Line 307: MC
+Line 308: GBW
+Line 309: GBW
+Line 310: MF
+Line 311: GBW
+Line 312: NC
+Line 313: 2 DRV.
+Line 314: DALI
+Line 315: Mounting Height
+Line 316: Ύψος Τοποθέτησης
+Line 317: MH
+Line 318: Mounting Height
+Line 319: Ύψος Τοποθέτησης
+Line 320: MH
+Line 321: Mounting Height
+Line 322: Ύψος Τοποθέτησης
+Line 323: MH
+Line 324: Mounting Height
+Line 325: Ύψος Τοποθέτησης
+Line 326: MH
+Line 327: Mounting Height
+Line 328: Ύψος Τοποθέτησης
+Line 329: MH
+Line 330: Mounting Height
+Line 331: Ύψος Τοποθέτησης
+Line 332: MH
+Line 333: Mounting Height
+Line 334: Ύψος Τοποθέτησης
+Line 335: MH
+Line 336: Mounting Height
+Line 337: Ύψος Τοποθέτησης
+Line 338: MH
+Line 339: Mounting Height
+Line 340: Ύψος Τοποθέτησης
+Line 341: MH
+Line 342: Mounting Height
+Line 343: Ύψος Τοποθέτησης
+Line 344: MH
+Line 345: Hanging Height
+Line 346: Ύψος Ανάρτησης
+Line 347: Hanging Height
+Line 348: Ύψος Ανάρτησης
+Line 349: Hanging Height
+Line 350: Ύψος Ανάρτησης
+Line 351: Hanging Height
+Line 352: Ύψος Ανάρτησης
+Line 353: LEGEND INDOOR
+Line 354: Lighting Ceiling Level
+Line 355: Lighting Ceiling Level
+Line 356: Cove
+Line 357: Ceiling
+Line 358: Linear MINI Electron
+Line 359: Profile
+Line 360: Driver DALI Dimmable.
+Line 361: Linear Pendant Luminaire, Light, UGR
+Line 362: Horizontal Pendant Acoustic Panel Alphabet
+Line 363: Dimensions
+Line 364: Driver DALI Dimmable.
+Line 365: Pendant
+Line 366: SYMBOL.
+Line 367: DESCRIPTION.
+Line 368: SYMBOL.
+Line 369: DESCRIPTION.
+Line 370: LREF.
+Line 371: Recessed
+Line 372: Linear
+Line 373: Cove
+Line 374: Ceiling Wall Recessed Linear Luminaire ALPHA
+Line 375: TRIMLESS LAMDA Black Body
+Line 376: System 5288 System 5289
+Line 377: Dimensions
+Line 378: Bevel
+Line 379: Wall Furniture
+Line 380: SAMSUNG. ELECTRON
+Line 381: Linear MINI
+Line 382: Electron
+Line 383: Profile
+Line 384: Driver Dimmable DALI.
+Line 385: Pendant Track DALI Custom Design
+Line 386: Custom Spotlight Giota
+Line 387: UGR DALI
+Line 388: Dimmable ALPHABET
+Line 389: Track Dimensions
+Line 390: Spot Dimensions
+Line 391: Pendant
+Line 392: Track
+Line 393: Pendant
+Line 394: Ring Pendant Luminaire, Direct Light, FI Alpha Shallow
+Line 395: Opal DALI
+Line 396: Dimmable Driver White, Suspended
+Line 397: Horizontal Pendant Acoustic Panel ALPHABET
+Line 398: Recessed Magnetic Track TRIMLESS DEEP
+Line 399: Recessed Magnetic Zeta Magnetic Black,
+Line 400: UGR DALI Dimmable
+Line 401: Driver ALPHABET
+Line 402: Spot Dimensions
+Line 403: Recessed
+Line 404: Track
+Line 405: Recessed
+Line 406: Pendant Linear Linear Luminaire,
+Line 407: WHITE Alphabet
+Line 408: Dimensions
+Line 409: Driver DALI Dimmable.
+Line 410: Linear Pendant Luminaire,
+Line 411: UGR
+Line 412: Black Alphabet
+Line 413: Dimensions
+Line 414: Driver DALI Dimmable.
+Line 415: Pendant
+Line 416: Linear Pendant Luminaire, 03 Leds
+Line 417: UGR DALI BLACK
+Line 418: BLACK, Alphabet
+Line 419: Dimensions
+Line 420: Driver DALI Dimmable.
+Line 421: Pendant
+Line 422: Single Spot Beam
+Line 423: 2 2 CRI White
+Line 424: Arkos Light Driver DALI Dimmable.
+Line 425: Dimensions Trimless
+Line 426: Mounting Fixture 2
+Line 427: 2
+Line 428: Pendant Spotlight SCOPE SUSP, Beam
+Line 429: CRI Black Black Arkos Light
+Line 430: Dimensions
+Line 431: Driver Included Fast Connect DALI Dimmable.
+Line 432: Surface
+Line 433: Recessed
+Line 434: Decorative Wall Light BOT BOT BLACK
+Line 435: Lead OFF.
+Line 436: BLACK AROMAS
+Line 437: Dimensions TBD.
+Line 438: Mounted Downlight
+Line 439: TR, 01
+Line 440: Alphabet
+Line 441: Dimensions
+Line 442: Driver DALI Dimmable.
+Line 443: Recessed
+Line 444: Ceiling Recessed Spotlight Swap
+Line 445: White Arkos Light
+Line 446: Dimensions
+Line 447: Driver DALI Dimmable.
+Line 448: Recessed
+Line 449: Ceiling Recessed Spotlight Swap Asymmetric,
+Line 450: White Arkos Light
+Line 451: Dimensions
+Line 452: Driver DALI Dimmable.
+Line 453: Recessed
+Line 454: Ceiling Recessed Panel Panel 3941 0041
+Line 455: UGR Flicker,
+Line 456: White Mineral FALSE CEILING Disano
+Line 457: Dimensions
+Line 458: Driver DALI Dimmable.
+Line 459: Recessed
+Line 460: Recessed
+Line 461: IP Rated Ceiling Recessed Fixed Spotlight Swap
+Line 462: White Arkos Light
+Line 463: Dimensions
+Line 464: Driver ARKOS LIGHT
+Line 465: Surface Mounted Panel Panel 3941 0041
+Line 466: UGR Flicker, White Disano
+Line 467: Dimensions
+Line 468: Driver DALI Dimmable.
+Line 469: Linear Pendant Luminaire, ACOUSTIC,
+Line 470: UGR
+Line 471: Black Various
+Line 472: Dimensions Acoustic Panel
+Line 473: 70
+Line 474: Alphabet Lighting
+Line 475: Pendant
+Line 476: Circuit DALI Dimmable Pendant Track
+Line 477: Adjustable
+Line 478: UGR White, DALI Driver
+Line 479: ALPABET
+Line 480: Track Dimensions Total
+Line 481: Spot Dimensions
+Line 482: Pendant
+Line 483: Track
+Line 484: Recessed Magnetic Track Adjustable Projector GIOTA
+Line 485: MAGNETIC, UGR DALI
+Line 486: Dimmable Driver Alphabet
+Line 487: Spot Dimensions
+Line 488: Recessed
+Line 489: Track
+Line 490: Mounted Downlight TR,
+Line 491: 01
+Line 492: Black Alphabet
+Line 493: Dimensions
+Line 494: Driver DALI Dimmable.
+Line 495: Recessed
+Line 496: Surface
+Line 497: Ceiling Mounted Spot, SHOT LIGHT SURFACE WTW,
+Line 498: CRI White. DALI Dimmable
+Line 499: Driver
+Line 500: ARKOS LIGHT
+Line 501: Dimensions
+Line 502: Pendant
+Line 503: Recessed
+Line 504: Ceiling Recessed Mounted Downlight
+Line 505: GBP Ceiling 01
+Line 506: White Black Alphabet
+Line 507: Dimensions
+Line 508: Driver DALI Dimmable.
+Line 509: Ceiling Strip Linear Direct Lighting,
+Line 510: DALI Dimmable,
+Line 511: SAMSUNG ELECTRON
+Line 512: SAMSUNG. ELECTRON
+Line 513: Linear MINI
+Line 514: Electron
+Line 515: Profile Length
+Line 516: Driver DALI Dimmable.
+Line 517: Pendant
+Line 518: Pendant Lighting, STICK BASE DALI WT,
+Line 519: CRI White
+Line 520: ARKOS LIGHT
+Line 521: Dimensions
+Line 522: Surface
+Line 523: Single Spot Recessed SHOT LIGHT
+Line 524: Beam CRI
+Line 525: Black Arkos Light Driver DALI Dimmable.
+Line 526: Dimensions Depth
+Line 527: Recessed
+Line 528: Cove
+Line 529: Linear Wall Light LIGUA 2 White,
+Line 530: Electron
+Line 531: Profile
+Line 532: Driver DALI Dimmable.
+Line 533: Linear Trimless Lighting,
+Line 534: White Alphabet
+Line 535: Dimensions
+Line 536: ALPHABET
+Line 537: Driver DALI Dimmable.
+Line 538: Recessed
+Line 539: Linear
+Line 540: Ceiling Recessed Panel Panel
+Line 541: UGR Flicker, White
+Line 542: Disano
+Line 543: Dimensions
+Line 544: Driver OFF.
+Line 545: Recessed
+Line 546: Ceiling Recessed Panel Panel 3941 0041
+Line 547: Springs UGR
+Line 548: Flicker, White Gypsum Board False Ceiling
+Line 549: Disano Dimensions
+Line 550: Driver DALI Dimmable.
+Line 551: Recessed
+Line 552: COMMENTS ΠΑΡΑΤΗΡΗΣΕΙΣ
+Line 553: Indicates
+Line 554: Υποδεικνύει
+Line 555: 2.
+Line 556: 2. Όλοι
+Line 557: Πριν
+Line 558: 4.
+Line 559: 4. Βλέπε
+Line 560: Lighting
+Line 561: Ceiling
+Line 562: Table Floor
+Line 563: Cove
+Line 564: MOUNTING SYMBOLS ΣΥΜΒΟΛΑ
+Line 565: Ground
+Line 566: Cove
+Line 567: Recessed
+Line 568: Surface
+Line 569: Pendant
+Line 570: Wall
+Line 571: Wall
+Line 572: Wall
+Line 573: Pendant
+Line 574: Scene
+Line 575: Scene
+Line 576: Scene 4
+Line 577: Master
+Line 578: OFF
+Line 579: Scene 2
+Line 580: Scene
+Line 581: INDICATIVE CONTROL PLATE
+Line 582: LEGEND INDOOR
+Line 583: Lighting Ceiling Level
+Line 584: Lighting Ceiling Level
+Line 585: SYMBOL.
+Line 586: DESCRIPTION.
+Line 587: SYMBOL.
+Line 588: DESCRIPTION.
+Line 589: LREF.
+Line 590: Recessed
+Line 591: Linear Ceiling Recessed
+Line 592: CRI White Alphabet
+Line 593: Dimensions
+Line 594: Driver
+Line 595: Recessed
+Line 596: Linear Surface Mounted Luminaire Ceiling,
+Line 597: CRI White Alphabet
+Line 598: Dimensions
+Line 599: Driver
+Line 600: Surface
+Line 601: IP Rated Linear Surface Mounted Luminaire,
+Line 602: CRI Gray. Philips
+Line 603: Dimensions
+Line 604: Driver
+Line 605: Pendant Linear Luminaire OUTLINER
+Line 606: Black, DALI, CRI Black Electron
+Line 607: Dimensions
+Line 608: Driver DALI Dimmable.
+Line 609: Surface
+Line 610: Pendant
+Line 611: Pendant
+Line 612: LEGEND OUTDOOR
+Line 613: SYMBOL.
+Line 614: DESCRIPTION.
+Line 615: LREF.
+Line 616: Wall Vertically RIBBON FLED BLUE
+Line 617: MINI Anod. ELECTRON
+Line 618: Driver Dimmable DMX
+Line 619: Profile
+Line 620: Surface
+Line 621: Strip
+Line 622: Wall Washer ELEGANT MAX II Anodized ELEGANT MAX
+Line 623: II 1240 Beam
+Line 624: Dimensions
+Line 625: Elegant Antiglare Anod.
+Line 626: Driver Dimmable DMX
+Line 627: Wall
+Line 628: Washer
+Line 629: Waterproof Wall Sconce Kobo ,Polycarbonate,
+Line 630: LOMBARDO SRL.
+Line 631: Dimensions
+Line 632: Driver Power OFF
+Line 633: ALOHA Spot Beam
+Line 634: Black Flexa Lighting
+Line 635: Dimensions
+Line 636: Driver OFF.
+Line 637: Projector
+Line 638: Wall
+Line 639: Sconce
+Line 640: Wall Washer ELEGANT MAX II Anodized ELEGANT MAX
+Line 641: II 1240 Beam
+Line 642: Dimensions
+Line 643: Elegant Antiglare Anod.
+Line 644: Driver Dimmable DMX
+Line 645: Wall
+Line 646: Washer
+Line 647: Pendant Highbay Luminaire, High 4 HB
+Line 648: Beam
+Line 649: UGR Black, Aluminum Polycarbonate, OFF
+Line 650: Ledvance
+Line 651: Dimensions Cable
+Line 652: Accessories Mounting
+Line 653: Pendant Highbay Luminaire, High 4 HB
+Line 654: 13000 Beam 70 UGR
+Line 655: Black, Aluminum Polycarbonate, OFF Ledvance
+Line 656: Dimensions Cable
+Line 657: Accessories Mounting
+Line 658: IP Rated Pendant Linear Luminaire OUTLINER
+Line 659: White, CRI Black,
+Line 660: Dimensions
+Line 661: Driver DALI Dimmable Electron
+Line 662: Ceiling Recessed Fixed Downlight DL PFM
+Line 663: WT DALI, CRI UGR
+Line 664: White LEDVANCE
+Line 665: Dimensions
+Line 666: Driver Recommended OSRAM
+Line 667: OTI DALI NFC DALI Dimmable
+Line 668: Ceiling Recessed Fixed Downlight DL ALU DN 4000
+Line 669: WT, 1260 CRI White
+Line 670: LEDVANCE
+Line 671: Dimensions
+Line 672: Driver OFF
+Line 673: Recessed
+Line 674: Recessed
+Line 675: Ceiling Recessed Fixed Downlight DL PFM
+Line 676: WT DALI, CRI UGR
+Line 677: White LEDVANCE
+Line 678: Dimensions
+Line 679: Driver OFF
+Line 680: Surface
+Line 681: Surface
+Line 682: EL. SUPPLY
+Line 683: TIME SWITCH ΧΡΟΝΟΔΙΑΚΟΠΤΗΣ
+Line 684: SWITCH OFF
+Line 685: DIMMABLE DALI
+Line 686: LIGHT CHANNEL LIGHT CHANNEL LEVEL CHANNEL NR. 00 CHANNEL NR. DALI
+Line 687: Dimmable
+Line 688: PUSH BUTON
+Line 689: SOCKET
+Line 690: ES
+Line 691: TS
+Line 692: SW
+Line 693: MOTION DETECTOR
+Line 694: MD
+Line 695: EMERGENCY LIGHTS
+Line 696: EM
+Line 697: EMERGENCY LIGHT INTEGRATED BATTERIES EXIT
+Line 698: ΦΩΤΙΣΤΙΚΟ ΑΣΦΑΛΕΙΑΣ ΜΕ ΕΝΣΩΜΑΤΩΜΕΝΕΣ ΜΠΑΤΑΡΙΕΣ ΚΑΙ ΕΞΟΔΟΥ
+Line 699: SAFETY LIGHT BUILT BATTERIES ESCAPE DIRECTION
+Line 700: ΦΩΤΙΣΤΙΚΟ ΑΣΦΑΛΕΙΑΣ ΜΕ ΕΝΣΩΜΑΤΩΜΕΝΕΣ ΜΠΑΤΑΡΙΕΣ ΚΑΙ ΟΔΕΥΣΗΣ
+Line 701: ΔΙΑΦΥΓΗΣ
+Line 702: LEGEND
+Line 703: LS
+Line 704: LIGHT SENSOR PHOTOSENSOR
+Line 705: Architectural Lighting Control Plate, Scene Master OFF
+Line 706: Note
+Line 707: Control Plate
+Line 708: Exact
+Line 709: Client, Operator
+Line 710: NOTE 01 CLOSED OFFICE SPACE DEVELOPMENT DIRECTOR OFFICE PARK ADMIN
+Line 711: Bevel
+Line 712: Γωνία
+Line 713: NOTE 01
+Line 714: NOTE 02 KITCHENETTE BREAK AREA SECURITY TFM
+Line 715: Recessed Strip Ceiling
+Line 716: Ταινία
+Line 717: NOTE 02
+Line 718: 01103
+Line 719: First Issuance Approval
+Line 720: VAP
+Line 721: EXT
+Line 722: VAP
+Line 723: VAP
+Line 724: FIRST FLOOR PLAN LIGHTING DESIGN
+Line 725: ΚΑΤΟΨΗ ΟΡΟΦΟΥ ΜΕΛΕΤΗ ΦΩΤΙΣΜΟΥ
+Line 726: Σημείωση Πνευματικών Δικαιωμάτων. 2121 1993
+Line 727: ΕΛΛΗΝΙΚΟ
+Line 728: Ρήτρα Περιορισμού Ευθύνης. ΕΛΛΗΝΙΚΟ ΕΛΛΗΝΙΚΟ
+Line 729: ΝΑ ΜΗΝ ΑΛΛΑΧΘΕΙ ΚΛΙΜΑΚΑ ΤΟΥ ΣΧΕΔΙΟΥ.
+Line 730: Copyright Notice. 2121 1993
+Line 731: HELLINIKON
+Line 732: Disclaimer. HELLINIKON HELLINIKON
+Line 733: CHANGE SCALE DRAWING.
+Line 734: ΓΕΝΙΚΕΣ ΣΗΜΕΙΩΣΕΙΣ GENERAL NOTES
+Line 735: ΠΜ
+Line 736: ΠΜ ΠΜ
+Line 737: ΠΜ
+Line 738: ΠΜ
+Line 739: ΠΜ
+Line 740: ΠΜ
+Line 741: ΜΗΤΡΟΠΟΛΙΤΙΚΟ ΠΑΡΚΟ
+Line 742: ΠΡΑΣΙΝΟΥ ΚΑΙ ΑΝΑΨΥΧΗΣ
+Line 743: ΚΤΗΡΙΑΚΗ
+Line 744: ΕΝΟΤΗΤΑ
+Line 745: ΘΕΣΗ ΚΤΙΡΙΟΥ BUILDING LOCATION
+Line 746: ΕΡΓΟΔΟΤΗΣ EMPLOYER
+Line 747: ΣΥΜΒΟΥΛΟΣ ΔΙΑΧΕΙΡΙΣΗΣ ΕΡΓΟΥ
+Line 748: PROJECT MANAGEMENT CONSULTANT
+Line 749: ΚΥΡΙΟΣ ΜΕΛΕΤΗΤΗΣ LEAD DESIGNER
+Line 750: ΤΙΤΛΟΣ ΣΧΕΔΙΟΥ DRAWING TITLE
+Line 751: ΚΛΙΜΑΚΑ SCALE
+Line 752: ΚΩΔΙΚΟΣ ΕΓΓΡΑΦΟΥ ΣΧΕΔΙΟΥ DOCUMENT DRAWING CODIFICATION
+Line 753: ΦΥΛΛΟ SHEET
+Line 754: ΔΙΑΤΑΞΗ LAYOUT
+Line 755: Project
+Line 756: Originator
+Line 757: Type
+Line 758: Discipline
+Line 759: Stage
+Line 760: Serial Number
+Line 761: Revision
+Line 762: REV.
+Line 763: DATE
+Line 764: ISSUE
+Line 765: DESCRIPTION UPDATE VERSION
+Line 766: ORIGINATED
+Line 767: CHECKED
+Line 768: VERIFIED
+Line 769: LEAD DESIGNER
+Line 770: APPROVED
+Line 771: PMC
+Line 772: STATUS
+Line 773: ΕΡΓΟ PROJECT
+Line 774: ΑΝΑΠΤΥΞΗ ΤΟΥ ΜΗΤΡΟΠΟΛΙΤΙΚΟΥ ΠΟΛΟΥ ΕΛΛΗΝΙΚΟΥ ΑΓIOY ΚΟΣΜΑ
+Line 775: DEVELOPMENT METROPOLITAN POLE HELLINIKON AG. KOSMAS
+Line 776: ΣΤΟΙΧΕΙΑ ΕΡΓΟΔΟΤΗ EMPLOYER DETAILS
+Line 777: ΕΛΛΗΝΙΚΟ HELLINIKON
+Line 778: Kifisias Avenue Golden Hall
+Line 779: 15123 Marousi
+Line 780: ΣΤΟΙΧΕΙΑ ΣΥΜΒΟΥΛΟΥ ΔΙΑΧΕΙΡΙΣΗΣ ΕΡΓΟΥ
+Line 781: PROJECT MANAGEMENT CONSULTANT DETAILS
+Line 782: ΣΤΟΙΧΕΙΑ ΚΥΡΙΟΥ ΜΕΛΕΤΗΤΗ LEAD DESIGNER DETAILS
+Line 783: SUBCONSULTANT DISCIPLINE
+Line 784: SUBCONSULTANT DISCIPLINE 2
+Line 785: SUBCONSULTANT DISCIPLINE
+Line 786: SUBCONSULTANT DISCIPLINE 4
+Line 787: MODEL
+Line 788: HELLINIKON
+Line 789: ΑΝΑΚΑΙΝΙΣΗ ΚΑΙ ΔΙΑΡΡΥΘΜΙΣΗ ΤΟΥ ΥΦΙΣΤΑΜΕΝΟΥ ΚΤΗΡΙΟΥ
+Line 790: ΣΤΗΝ ΠΕΡΙΟΧΗ ΚΑΝΟΕ ΚΑΓΙΑΚ ΕΝΤΟΣ ΤΟΥ ΜΗΤΡΟΠΟΛΙΤΙΚΟΥ ΠΑΡΚΟΥ
+Line 791: ΜΕΛΕΤΗ ΕΦΑΡΜΟΓΗΣ
+Line 792: VAP
+Line 793: CD
+Line 794: DWG
+Line 795: REFURBISHMENT FIT OUT EXISTING BUILDING
+Line 796: CANOE KAYAK AREA METROPOLITAN PARK
+Line 797: CONSTRUCTION DESIGN
+Line 798: ΣΥΜΒΟΛΙΣΜΟΙ ΗΛΕΚΤΡΟΜΗΧΑΝΟΛΟΓΙΚΩΝ
+Line 799: ΠΡΙΖΑ
+Line 800: ΔΙΑΚΟΠΤΗΣ
+Line 801: ΔΙΑΚΟΠΤΗΣ ΚΟΜΙΤΑΤΕΡ
+Line 802: ΠΡΙΖΑ ΓΙΑ ΤΗΛΕΟΡΑΣΗ
+Line 803: ΠΡΙΖΑ ΓΙΑ ΤΗΛΕΦΩΝΟ
+Line 804: ΔΕΗ
+Line 805: UPS
+Line 806: ΠΦ ΠΣ
+Line 807: ΠΥΡΟΣΒΕΣΤΙΚΗ ΦΩΛΙΑ
+Line 808: ΠΥΡΟΣΒΕΣΤΗΡΑΣ
+Line 809: ΗΛΕΚΤΡΟΛΟΓΙΚΟΙ ΠΙΝΑΚΕΣ
+Line 810: ΕΝΔΟΔΑΠΕΔΙΕΣ ΚΕΦΑΛΕΣ
+Line 811: ΟΝΟΜΑΣΙΑ ΧΩΡΟΥ ROOM NAME
+Line 812: ΓΕΝΙΚΟΙ ΣΥΜΒΟΛΙΣΜΟΙ SYMBOLS
+Line 813: ΑΡΙΘΜHΣΗ ΧΩΡΟΥ ΟΡΟΦΟΣ, ΑΡΙΘΜΟΣ
+Line 814: ROOM NUMBER LEVEL, NUMBER
+Line 815: ΕΜΒΑΔΟΝ ΧΩΡΟΥ ROOM AREA
+Line 816: ΚΩΔΙΚΟΣ ΝΕΑΣ ΘΥΡΑΣ NEW DOOR TYPE
+Line 817: ΠΡΕΚΙ ΘΥΡΑΣ HEAD HEIGHT
+Line 818: ΑΝΟΙΓΜΑ ΘΥΡΑΣ WIDTH
+Line 819: ΣΤΑΘΜΗ ΜΠΕΤΟΝ
+Line 820: STRUCTURAL SLAB LEVEL
+Line 821: ΣΤΑΘΜΗ ΤΕΛΙΚΟΥ ΔΑΠΕΔΟΥ
+Line 822: FINAL FLOOR LEVEL
+Line 823: 00000
+Line 824: ΛΕΠΤΟΜΕΡΕΙΩΝ
+Line 825: DETAIL SYMBOL
+Line 826: ΟΝΟΜΑΣΙΑ ΤΟΜΗΣ SECTION NAME
+Line 827: ΤΥΠΟΣ ΤΟΙΧΟΠΟΙΙΑΣ WALL TYPE
+Line 828: ΤΥΠΟΣ ΚΙΝΗΤΩΝ ΧΩΡΙΣΜΑΤΩΝ
+Line 829: GLASS PARTITION TYPE
+Line 830: ΚΩΔΙΚΟΣ ΥΦΙΣΤΑΜΕΝΗΣ ΘΥΡΑΣ
+Line 831: EXISTING DOOR TYPE
+Line 832: ΠΡΕΚΙ ΘΥΡΑΣ HEAD HEIGHT
+Line 833: ΑΝΟΙΓΜΑ ΘΥΡΑΣ WIDTH
+Line 834: ΤΥΠΟΣ ΥΦΙΣΤΑΜΕΝΟΥ ΠΑΡΑΘΥΡΟΥ
+Line 835: EXISTING WINDOW TYPE
+Line 836: ΠΟΔΙΑ ΠΑΡΑΘΥΡΟΥ SEAL HEIGHT
+Line 837: ΠΡΕΚΙ ΠΑΡΑΘΥΡΟΥ HEAD HEIGHT
+Line 838: ΠΛΑΤΟΣ ΠΑΡΑΘΥΡΟΥ WIDTH
+Line 839: ΑΡΙΘΜΟΣ ΣΧΕΔΙΟΥ DRAWING NUMBER
+Line 840: ΥΦΙΣΤΑΜΕΝΑ ΔΙΑΤΗΡΟΥΜΕΝΑ ΕΙΔΗ ΥΓΙΕΙΝΗΣ
+Line 841: EXISTING SANITARY
+Line 842: NEA ΕΙΔΗ ΥΓΙΕΙΝΗΣ NEW SANITARY
+Line 843: ΤΥΠΟΣ ΕΡΜΑΡΙΟΥ CABINET TYPE
+Line 844: DN
+Line 845: AF 01
+Line 846: 000
+Line 847: ΦΕΡΟΝ ΟΡΓΑΝΙΣΜΟΣ ΚΤΗΡΙΟΥ ΑΠΟ ΟΠΛΙΣΜΕΝΟ ΣΚΥΡΟΔΕΜΑ
+Line 848: CONCRETE FRAMED STRUCTURE
+Line 849: ΥΦΙΣΤΑΜΕΝΗ ΤΟΙΧΟΠΟΙΙΑ ΑΠΟ ΟΠΤΟΠΛΙΘΟΔΟΜΗ
+Line 850: EXISTING BRICK WALL
+Line 851: ΥΦΙΣΤΑΜΕΝΑ ΧΩΡΙΣΜΑΤΑ ΑΠΟ ΓΥΨΟΣΑΝΙΔΑ
+Line 852: EXISTING PARTITIONS GYPSUM BOARD
+Line 853: ΔΟΚΑΡΙΑ ΣΕ ΠΡΟΒΟΛΗ
+Line 854: BEAMS
+Line 855: ΝΕΑ ΧΩΡΙΣΜΑΤΑ ΑΠΟ ΞΗΡΑ ΔΟΜΗΣΗ
+Line 856: NEW DRYWALL PARTITIONS
+Line 857: ΝΕΑ ΚΙΝΗΤΑ ΧΩΡΙΣΜΑΤΑ
+Line 858: NEW GLASS PARTITIONS
+Line 859: TΥΠΟΣ ΔΑΠΕΔΟΥ FLOORING TYPE
+Line 860: ΤΥΠΟΣ NEOY ΠΑΡΑΘΥΡΟΥ
+Line 861: NEW WINDOW TYPE
+Line 862: ΠΟΔΙΑ ΠΑΡΑΘΥΡΟΥ SEAL HEIGHT
+Line 863: ΠΡΕΚΙ ΠΑΡΑΘΥΡΟΥ HEAD HEIGHT
+Line 864: ΠΛΑΤΟΣ ΠΑΡΑΘΥΡΟΥ WIDTH
+Line 865: SSL
+Line 866: FFL
+Line 867: CB
+Line 868: 00000
+Line 869: 00000
+Line 870: ΧΩΡΟΣ
+Line 871: ROOM
+Line 872: USER
+Line 873: Recessed Strip Wall
+Line 874: Χωνευτή Ταινία Κάθετης Τοποθέτησης
+Line 875: Second Issuance Approval
+Line 876: VAP
+Line 877: VAP
+Line 878: VAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 879

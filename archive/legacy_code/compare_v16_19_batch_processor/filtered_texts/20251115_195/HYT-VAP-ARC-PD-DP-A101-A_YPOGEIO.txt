@@ -1,0 +1,19 @@
+=== FILTERED TEXT FOR: HYT-VAP-ARC-PD-DP-A101-A_YPOGEIO.pdf ===
+
+Line   0: Minibar Soft
+Line   1: MASSAGE
+Line   2: SAUNA
+Line   3: DOUCHE
+Line   4: PLAYROOM
+Line   5: WC
+Line   6: WC
+Line   7: WC
+Line   8: 2
+Line   9: SPA
+Line  10: 2
+Line  11: 4
+Line  12: 2
+Line  13: 4
+
+=== END OF FILTERED TEXT ===
+Total lines: 14

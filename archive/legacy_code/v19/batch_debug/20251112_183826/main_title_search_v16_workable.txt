@@ -1,0 +1,64 @@
+/home/konstantinos/PycharmProjects/Pros/.venv/bin/python /home/konstantinos/PycharmProjects/Pros/claude/v16_workable/main_title_search.py 
+ic| f'Start Time({dt2.now().strftime("%H:%M:%S")})': 'Start Time(19:15:35)'
+
+Found 11 PDF file(s) in /media/konstantinos/DATA/PyTests/Submission/Process/2502 DATA4-DC02+DC03/PDF
+
+Analyzing: ATH1-DC03-CAP-20302-PLN-2-011-AL-00-T00_4-SECTIONS_DC3.pdf
+Title: ATH1-DC03-CAP-20302-PLN-2-011-AL-00-T00_4-SECTIONS_DC3
+
+
+============================================================
+STARTING MULTI-ANCHOR PATTERN ANALYSIS
+============================================================
+
+Learned Chunk Patterns:
+  ATH1: length=4, alpha=False, digit=False, mixed=True
+  DC03: length=4, alpha=False, digit=False, mixed=True
+  CAP: length=3, alpha=True, digit=False, mixed=False
+  20302: length=5, alpha=False, digit=True, mixed=False
+  PLN: length=3, alpha=True, digit=False, mixed=False
+  2: length=1, alpha=False, digit=True, mixed=False
+  011: length=3, alpha=False, digit=True, mixed=False
+  AL: length=2, alpha=True, digit=False, mixed=False
+  00: length=2, alpha=False, digit=True, mixed=False
+  T00_4: length=5, alpha=False, digit=False, mixed=False
+  SECTIONS_DC3: length=12, alpha=False, digit=False, mixed=False
+
+Using global noise threshold: 8
+Traceback (most recent call last):
+  File "/home/konstantinos/PycharmProjects/Pros/claude/v16_workable/main_title_search.py", line 310, in <module>
+    result = get_complete_analysis_multi_anchor(pdf_file, title, files, extract_and_process)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/konstantinos/PycharmProjects/Pros/claude/v16_workable/main_title_search.py", line 181, in get_complete_analysis_multi_anchor
+    pattern_analyzer.print_validation_report(validation_results)
+  File "/home/konstantinos/PycharmProjects/Pros/claude/v16_workable/pattern_analyzer.py", line 977, in print_validation_report
+    print(f"  Total files tested: {validation_results['total_files']}")
+                                   ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+KeyError: 'total_files'
+WARNING: Could not achieve complete chunk coverage with available anchors
+
+============================================================
+DEDUPLICATED & RANKED ANCHORS (by distance quality)
+============================================================
+
+============================================================
+Total viable anchors: 0
+
+=== Coverage Summary ===
+Total chunks: 11
+Covered: 9
+Missing: 2
+Missing chunks: SECTIONS_DC3, T00_4
+
+============================================================
+VALIDATING ANCHORS ACROSS ALL FILES (Pattern-Based on Processed Lines)
+============================================================
+
+============================================================
+ANCHOR VALIDATION REPORT (Two-Pass Pattern-Based)
+============================================================
+
+Overall Statistics:
+
+Process finished with exit code 1
+

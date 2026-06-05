@@ -1,0 +1,12 @@
+=== FILTERED TEXT FOR: Λ900-00.pdf ===
+
+Line   0: ΑΡ. ΣΧΕΔΙΟΥ
+Line   1: ΚΛΙΜΑΚΑ
+Line   2: ΠΙΝΑΚΑΣ ΧΩΡΩΝ
+Line   3: ΘΕΜΑ
+Line   4: ΣΧΕΔΙΑ ΛΕΠΤΟΜΕΡΕΙΩΝ
+Line   5: ΠΙΝΑΚΕΣ ΧΩΡΩΝ
+Line   6: ΠΙΝΑΚΑΣ ΧΩΡΩΝ ΥΠΟΓΕΙΟΥ
+
+=== END OF FILTERED TEXT ===
+Total lines: 7

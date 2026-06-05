@@ -1,0 +1,123 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-1008-0A_BUILDERS_WORK_MEP_PENETRATIONS_-_LOADING_DOCK_SHEET_1-2.pdf ===
+
+Line   0: GL
+Line   1: CEILING LEVEL
+Line   2: YF
+Line   3: MP AD 048 04
+Line   4: MP AD 048 03
+Line   5: MP AD 048 05
+Line   6: MP AD 048 01
+Line   7: MP AD 048 06
+Line   8: MP AD 048 07
+Line   9: MP AD 048 02
+Line  10: 1880
+Line  11: 1830
+Line  12: 3625
+Line  13: 4375
+Line  14: 3475
+Line  15: 5070
+Line  16: 1795
+Line  17: LOADING
+Line  18: DOCK
+Line  19: ATH04 00 048
+Line  20: GL
+Line  21: CEILING LEVEL
+Line  22: YE
+Line  23: YF
+Line  24: 3910
+Line  25: 1230
+Line  26: 1000
+Line  27: 1005
+Line  28: 3490
+Line  29: 445
+Line  30: 3465
+Line  31: 3440
+Line  32: 2090
+Line  33: 4740
+Line  34: 4250
+Line  35: MP AD 048 09
+Line  36: MP AD 048
+Line  37: MP AD 048
+Line  38: MP AD 048
+Line  39: MP AD 048
+Line  40: MP AD 048
+Line  41: MP AD 048
+Line  42: MP AD 048 08
+Line  43: LOADING
+Line  44: DOCK
+Line  45: ATH04 00 048
+Line  46: 1008
+Line  47: 1008
+Line  48: 1009
+Line  49: 1009
+Line  50: LOADING
+Line  51: DOCK
+Line  52: ATH04 00 048
+Line  53: MEP PENETRATIONS CODE
+Line  54: MP AD XXX XX
+Line  55: MP
+Line  56: MEP PENETRATIONS
+Line  57: AD
+Line  58: BUILDING CODE
+Line  59: XXX
+Line  60: ROOM NUMBER
+Line  61: XX
+Line  62: PENETRATION NUMBER
+Line  63: ADMIN
+Line  64: COLO
+Line  65: COLO
+Line  66: TRUE NORTH
+Line  67: Sheet Title Number
+Line  68: Scale
+Line  69: Plan
+Line  70: Design Consultants
+Line  71: Microsoft
+Line  72: DATA CENTER ATH04
+Line  73: SPATA GREECE
+Line  74: Contractor Joint Venture
+Line  75: Name
+Line  76: Contractor Project
+Line  77: Contractor Contract
+Line  78: Contractor PM
+Line  79: Contractor BIM Mngr
+Line  80: Contractor Information
+Line  81: Renco Terna
+Line  82: Client
+Line  83: General Notes
+Line  84: Client Project
+Line  85: Client Contract
+Line  86: Client PM
+Line  87: Client BIM Mngr
+Line  88: Primary Client Information
+Line  89: Layout
+Line  90: Revision
+Line  91: Tombazi Chalandri
+Line  92: 15232
+Line  93: Athens Greece
+Line  94: 0800 3262
+Line  95: Agion Theodoron Square Athens
+Line  96: 10561
+Line  97: Athens Greece
+Line  98: Kimithois Agios Dimitrios
+Line  99: 17236
+Line 100: Athens Greece
+Line 101: Purpose Issue
+Line 102: Issue
+Line 103: Name
+Line 104: BUILDERS WORK MEP PENETRATIONS
+Line 105: LOADING DOCK SHEET
+Line 106: ATH04 VAP AH 1008
+Line 107: SCALE
+Line 108: 048 LOADING DOCK ELEVATION NORTH MEP PENETRATIONS
+Line 109: SCALE
+Line 110: 048 LOADING DOCK ELEVATION SOUTH MEP PENETRATIONS
+Line 111: 1000
+Line 112: SCALE
+Line 113: Date
+Line 114: Description
+Line 115: 07
+Line 116: Issued Approval
+Line 117: VAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 118

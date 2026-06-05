@@ -1,0 +1,167 @@
+=== FILTERED TEXT FOR: NCM-DD-ZZ-DR-ARC-3060-P1.pdf ===
+
+Line   0: ΙΣΟΓΕΙΟ
+Line   1: ΠΡΩΤΟ
+Line   2: ΔΕΥΤΕΡΟ
+Line   3: ΔΕΥΤΕΡΟ ΥΠΟΓΕΙΟ
+Line   4: ΔΩΜΑΤΩΝ
+Line   5: ΔΩΜΑΤΩΝ
+Line   6: 01
+Line   7: 02
+Line   8: 03
+Line   9: 04
+Line  10: 04
+Line  11: 05
+Line  12: 06
+Line  13: ΜΑΡΓΑ
+Line  14: ΥΠΑΙΘΡΙΑ ΖΩΝΗ ΕΚΘΕΣΕΙΣ
+Line  15: ΣΤΑΘΜΕΥΣΗ ΛΕΩΦΟΡΕΙΩΝ
+Line  16: ΚΤΙΡΙΟ
+Line  17: ΥΔΡΟΦΟΡΟΣ ΟΡΙΖΟΝΤΑΣ
+Line  18: ΥΔΡΟΦΟΡΟΣ ΟΡΙΖΟΝΤΑΣ
+Line  19: ΜΑΡΓΑ
+Line  20: ΜΑΡΓΑ
+Line  21: ΓΡΑΜΜΗ
+Line  22: ΟΡΙΟ ΖΩΝΗΣ ΛΕΩΦΟΡΕΙΩΝ
+Line  23: ΟΡΙΟ ΠΡΑΝΟΥΣ
+Line  24: ΛΕΩΦΟΡΟΣ ΝΕΧΡΟΥ
+Line  25: 01 ARC Level
+Line  26: ΓΡΑΦΕΙΟ
+Line  27: ΥΠΕΥΘΥΝΟΥ
+Line  28: ΑΠΟΘΗΚΗ
+Line  29: ΣΥΣΤΗΜΑΤΙΚΩΝ
+Line  30: ΣΩΣΤΙΚΩΝ
+Line  31: ΑΝΑΣΚΑΦΩΝ
+Line  32: ΕΡΓΑΣΤΗΡΙΟ
+Line  33: ΣΥΝΤΗΡΗΣΗΣ
+Line  34: ΤΟΙΧΟΓΡΑΦΙΩΝ
+Line  35: ΑΠΟΘΗΚΗ
+Line  36: ΣΥΣΤΗΜΑΤΙΚΩΝ
+Line  37: ΣΩΣΤΙΚΩΝ
+Line  38: ΑΝΑΣΚΑΦΩΝ
+Line  39: ΓΡΑΦΕΙΟ
+Line  40: ΥΠΕΥΘΥΝΟΥ
+Line  41: ΕΡΓΑΣΤΗΡΙΟ
+Line  42: ΣΥΝΤΗΡΗΣΗΣ
+Line  43: ΚΕΡΑΜΙΚΩΝ
+Line  44: ΓΥΑΛΙΟΥ
+Line  45: ΧΩΡΟΣ
+Line  46: ΥΠΗΡΕΣΙΩΝ
+Line  47: ΕΞΩΤΕΡΙΚΟΥ ΧΩΡΟΥ
+Line  48: ΕΡΓΑΣΤΗΡΙΩΝ
+Line  49: ΑΠΟΘΗΚΗ
+Line  50: ΣΥΣΤΗΜΑΤΙΚΩΝ
+Line  51: ΣΩΣΤΙΚΩΝ
+Line  52: ΑΝΑΣΚΑΦΩΝ
+Line  53: ΑΠΟΘΗΚΗ
+Line  54: ΣΥΣΤΗΜΑΤΙΚΩΝ
+Line  55: ΣΩΣΤΙΚΩΝ
+Line  56: ΑΝΑΣΚΑΦΩΝ
+Line  57: ΔΕΥΤΕΡΟ
+Line  58: ΙΣΟΓΕΙΟΥ
+Line  59: ΠΡΩΤΟ
+Line  60: ΥΠΕΥΘΥΝΟΥ ΕΡΓΟΥ
+Line  61: ΗΜΕΡΟΜΗΝΙΑ
+Line  62: ONOMA ΑΡΧΕΙΟΥ
+Line  63: ΛΕΥΚΩΣΙΑ ΚΥΠΡΟΣ
+Line  64: ΜΕΛΕΤΗ ΕΦΑΡΜΟΓΗΣ DD
+Line  65: ΝΕΟ ΚΥΠΡΙΑΚΟ ΜΟΥΣΕΙΟ
+Line  66: ΗΜΕΡΟΜΗΝΙΑ
+Line  67: ΕΓΚΡΙΘΗΚΕ
+Line  68: ΤΜΗΜΑ
+Line  69: ΗΜΕΡΟΜΗΝΙΑ
+Line  70: ΕΛΕΓΧΘΗΚΕ
+Line  71: ΤΜΗΜΑ
+Line  72: ΤΙΤΛΟΣ
+Line  73: ΥΠΟΒΟΛΗ
+Line  74: ΑΡ.
+Line  75: ΥΠΟΥΡΓΕΙΟ ΜΕΤΑΦΟΡΩΝ, ΕΠΙΚΟΙΝΩΝΙΩΝ ΕΡΓΩΝ
+Line  76: ΤΜΗΜΑ ΕΡΓΩΝ
+Line  77: KEY PLAN
+Line  78: ΗΜΕΡΟΜΗΝΙΑ
+Line  79: ΠΕΡΙΕΧΟΜΕΝΟ
+Line  80: ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΜΕΛΕΤΗ
+Line  81: THEONI XANTHI XZA LLC
+Line  82: ΥΠΕΥΘΥΝΟΣ ΕΡΓΟΥ
+Line  83: ΑΡΧΙΤΕΚΤΩΝ ΘΕΩΝΗ ΞΑΝΘΗ
+Line  84: ΑΡΧΙΤΕΚΤΟΝΕΣ
+Line  85: ΜΑΡΓΑΡΙΤΑ ΖΑΚΥΝΘΙΝΟΥ
+Line  86: ΣΥΝΤΟΝΙΣΤΗΣ ΑΡΧIT ΚΗΣ ΜΕΛΕΤΗΣ
+Line  87: ΚΟΣΜΑΣ ΒΑΡΚΑΡΟΛΗΣ
+Line  88: ΑΡΧΙΤΕΚΤΟΝΙΚΑ
+Line  89: YAP
+Line  90: ΣTATIKΑ
+Line  91: RHOMBUS STRUCTURAL ENGINEERS LLC ΣΤ.
+Line  92: PENELIS CONSULTING ENGINEERS SA ΠΕΝΕΛΗΣ
+Line  93: GEORGHIOU ZEMBYLAS PARTNERS
+Line  94: ΜΗΧΑΝΟΛΟΓΙΚA
+Line  95: ΗΛΕΚΤΡΟΛΟΓΙΚA
+Line  96: ΜΟΥΣΕΙΟΛΟΓΙΚA
+Line  97: THETA ACOUSTICS LTD ΝΙΑΟΥΝΑΚΗΣ
+Line  98: ΑΚΟΥΣΤΙΚA
+Line  99: RODITIS PARTNERS
+Line 100: ΕΠΙΜΕΤΡΗΣΗ ΠΟΣΟΤΗΤΩΝ
+Line 101: FLOROS PANTELI ASSOCIATES ΠΑΝΤΕΛΗ
+Line 102: ΥΓΕΙΑ
+Line 103: ΜΟΥΣΕΙΟΓΡΑΦΙΚA
+Line 104: ΘΩΜΑΣ ΤΣΟΥΚΑΛΑΣ
+Line 105: ΦΩΤΙΣΜΟΣ
+Line 106: DECO ASSOCIATES ΕΛ. ΝΤΕΚΩ
+Line 107: ΠΥΡΟΠΡΟΣΤΑΣΙΑ
+Line 108: INT FIRE CYPRUS LTD ΣΠ. ΣΠΥΡΟΥ
+Line 109: ΚΥΚΛΟΦΟΡΙΑΚΑ
+Line 110: DROMOS CONSULTING LTD ΖΕΚΚΟΣ
+Line 111: ΣΗΜΑΝΣΗ
+Line 112: POST SPECTACULAR OFFICE ΓΑΛΙΚΑΣ
+Line 113: ΚΤΗΡΙΟΥ
+Line 114: ARION PLUS
+Line 115: ΕΡΓΑΣΙΑΣ
+Line 116: ΜΕΛΕΤΗΣ
+Line 117: FEREOS LLC ΦΕΡΑΙΟΣ Αναπλ. Υπεύθυνος Οµάδας Έργου
+Line 118: DROMOS CONSULTING LTD ΖΕΚΚΟΣ
+Line 119: ΣΥΜΒΟΥΛΟΙ ΜΕΛΕΤΗΤΕΣ
+Line 120: ΓΕΩΤΕΧΝΙΚΑ
+Line 121: ΜΟΥΣΕΙΑΚΟΣ
+Line 122: XZA
+Line 123: ΒΑΣΙΛΕΙΟΥ
+Line 124: ΕΡΓΑΣΤΗΡΙΑ
+Line 125: ΩΡ
+Line 126: ΑΡΧΙΤΕΚΤΟΝΙΚΗ
+Line 127: ΚΛΙΜΑΚΑ
+Line 128: VAP Σύµβουλος Μελέτης Εφαρµογής
+Line 129: DR ARC
+Line 130: ΚΑΤΑΛΛΗΛΟΤΗΤΑΣ
+Line 131: NCM DD
+Line 132: Engineer Record
+Line 133: GEORGHIOU ZEMBYLAS PARTNERS
+Line 134: ANDREAS EVRIPIDOU CIVIL ENGINEERS
+Line 135: ΣΤΕΡΓΙΟΣ ΓΑΛΙΚΑΣ
+Line 136: ΘΩΜΑΣ ΤΣΟΥΚΑΛΑΣ
+Line 137: ΣΤΕΡΓΙΟΣ ΓΑΛΙΚΑΣ
+Line 138: Συνεργάτης ΤΣΑΜΠΙΚΟΣ ΠΕΤΡΑΣ
+Line 139: POST SPECTACULAR OFFICE ΓΑΛΙΚΑΣ
+Line 140: ΠΡΟΜΕΛΕΤΗ ΣΑΚΕΛΛΑΡΙΟΥ
+Line 141: ΦΥΣΙΚΟΣ ΦΩΤΙΣΜΟΣ
+Line 142: ΤΣΑΓΚΡΑΣΟΥΛΗΣ
+Line 143: ΕΞΟΠΛΙΣΜΟΣ ΚΟΥΖΙΝΑΣ
+Line 144: XENEX
+Line 145: ΕΝΕΡΓΕΙΑΚΑ ΚΕΛΥΦΟΥΣ
+Line 146: METABUILD
+Line 147: ΓΡΑΦΙΣΤΙΚΑ
+Line 148: ΦΥΤΟΤΕΧΝΙΚΑ
+Line 149: LANDCO EΠΕ ΚΑΝΤΑΡΤΖΗΣ
+Line 150: ΦΕΒΡΟΥΑΡΙΟΣ 2021
+Line 151: P1
+Line 152: 02 2021
+Line 153: ΤΟΜΕΣ ΖΖ ΖΩΝΗ
+Line 154: 3060
+Line 155: ZZ
+Line 156: ΤΟΜΗ ΖΖ
+Line 157: ΤΟΜΗ ΖΖ ΖΩΝΗ
+Line 158: ΖΩΝΗ
+Line 159: P1
+Line 160: 02 2021
+Line 161: Υποβολή
+
+=== END OF FILTERED TEXT ===
+Total lines: 162

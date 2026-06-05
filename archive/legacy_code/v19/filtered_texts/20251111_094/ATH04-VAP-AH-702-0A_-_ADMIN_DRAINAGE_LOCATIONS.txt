@@ -1,0 +1,118 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-702-0A_-_ADMIN_DRAINAGE_LOCATIONS.pdf ===
+
+Line   0: DN
+Line   1: ZF
+Line   2: ZA
+Line   3: YF
+Line   4: YE
+Line   5: YD
+Line   6: YC
+Line   7: YB
+Line   8: YA
+Line   9: 2370
+Line  10: 12745
+Line  11: 3500
+Line  12: 10100
+Line  13: 4500
+Line  14: 6300
+Line  15: 6350
+Line  16: 6000
+Line  17: 7695
+Line  18: 2370
+Line  19: 61930
+Line  20: GUTTER LINE
+Line  21: RIDGE LINE
+Line  22: GUTTER LINE
+Line  23: DP
+Line  24: DP
+Line  25: DP
+Line  26: CANOPY
+Line  27: HIGH PARAPET
+Line  28: ALUMINIUM STANDING SEAM
+Line  29: ROOF INTEGRATED SOLAR
+Line  30: PANELS ROOFING SYSTEM
+Line  31: 3000
+Line  32: 9200
+Line  33: 6350
+Line  34: 6150
+Line  35: DP
+Line  36: RAIN WATER OUTLET
+Line  37: RAIN WATER OUTLET
+Line  38: RAIN WATER OUTLET
+Line  39: RAIN WATER OUTLET
+Line  40: RAIN
+Line  41: WATER
+Line  42: OUTLET
+Line  43: RAIN
+Line  44: WATER
+Line  45: OUTLET
+Line  46: RAIN
+Line  47: WATER
+Line  48: OUTLET
+Line  49: RAIN
+Line  50: WATER
+Line  51: OUTLET
+Line  52: CANOPY
+Line  53: OUTLET CONNECTED
+Line  54: RWP
+Line  55: CANOPY SOFFIT
+Line  56: OUTLET
+Line  57: CONNECTED
+Line  58: RWP
+Line  59: CANOPY
+Line  60: SOFFIT
+Line  61: ADMIN
+Line  62: COLO
+Line  63: COLO
+Line  64: TRUE NORTH
+Line  65: Sheet Title Number
+Line  66: Scale
+Line  67: Plan
+Line  68: Design Consultants
+Line  69: Microsoft
+Line  70: DATA CENTER ATH04
+Line  71: SPATA GREECE
+Line  72: Contractor Joint Venture
+Line  73: Name
+Line  74: Contractor Project
+Line  75: Contractor Contract
+Line  76: Contractor PM
+Line  77: Contractor BIM Mngr
+Line  78: Contractor Information
+Line  79: Renco Terna
+Line  80: Client
+Line  81: General Notes
+Line  82: Client Project
+Line  83: Client Contract
+Line  84: Client PM
+Line  85: Client BIM Mngr
+Line  86: Primary Client Information
+Line  87: Layout
+Line  88: Revision
+Line  89: Tombazi Chalandri
+Line  90: 15232
+Line  91: Athens Greece
+Line  92: 0800 3262
+Line  93: Agion Theodoron Square Athens
+Line  94: 10561
+Line  95: Athens Greece
+Line  96: Kimithois Agios Dimitrios
+Line  97: 17236
+Line  98: Athens Greece
+Line  99: Purpose Issue
+Line 100: Issue
+Line 101: Name
+Line 102: ADMIN DRAINAGE LOCATIONS
+Line 103: ATH04 VAP AH 702
+Line 104: SCALE
+Line 105: ROOF PLAN SYPHONIC DRAINAGE DESIGNER
+Line 106: RAIN WATER
+Line 107: OUTLET
+Line 108: Date
+Line 109: Description
+Line 110: 04
+Line 111: Issued Approval
+Line 112: VAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 113

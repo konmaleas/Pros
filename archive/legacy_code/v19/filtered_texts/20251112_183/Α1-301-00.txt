@@ -1,0 +1,131 @@
+=== FILTERED TEXT FOR: Α1-301-00.pdf ===
+
+Line   0: Level
+Line   1: Level
+Line   2: Level
+Line   3: 02
+Line   4: ΓΡΑΦΕΙΟ ΣΕΦ
+Line   5: ΓΥΝΑΙΚΩΝ
+Line   6: ΑΠΟΘΗΚΗ
+Line   7: ΤΡΟΦΙΜΩΝ
+Line   8: ΑΠΟΘΗΚΗ
+Line   9: ΤΡΟΦΙΜΩΝ
+Line  10: ΑΠΟΘΗΚΗ
+Line  11: ΜΠΑΡ
+Line  12: ΧΩΡΟΣ
+Line  13: ΑΠΟΣΚΕΥΩΝ
+Line  14: IT UPS
+Line  15: ΧΩΡΟΣ
+Line  16: 01
+Line  17: ΑΜΕΑ
+Line  18: 03
+Line  19: 05
+Line  20: 04
+Line  21: ΠΡΟΘΑΛΑΜΟΣ
+Line  22: ΠΡΟΘΑΛΑΜΟΣ
+Line  23: ΠΡΟΘΑΛΑΜΟΣ
+Line  24: ΠΡΟΘΑΛΑΜΟΣ
+Line  25: ΧΩΡΟΙ
+Line  26: ΥΓΙΕΙΝΗΣ
+Line  27: ΣΟΥΙΤΑ
+Line  28: ΧΩΡΟΙ
+Line  29: ΥΓΙΕΙΝΗΣ
+Line  30: ΚΑΤΑΨΥΚΤΗ
+Line  31: WC
+Line  32: WC
+Line  33: NTOYΣ
+Line  34: WC
+Line  35: WC
+Line  36: NTOYΣ
+Line  37: NTOYΣ
+Line  38: WC
+Line  39: A1
+Line  40: Level
+Line  41: ΖΑΧΑΡΟΠΛΑΣΤΙΚΗ
+Line  42: ΚΟΥΖΙΝΑ
+Line  43: ΣΗΜΕΙΟ
+Line  44: ΠΑΡΑΛΑΒΗΣ
+Line  45: ΠΑΡΑΓΓΕΛΙΩΝ
+Line  46: ΧΩΡΟΣ
+Line  47: ΜΠΟΥΦΕ
+Line  48: ΠΡΩΪΝΟΥ
+Line  49: ΣΑΛΟΝΙ
+Line  50: 06
+Line  51: ΣΟΥΙΤΑ
+Line  52: 07
+Line  53: ΣΟΥΙΤΑ
+Line  54: 08
+Line  55: ΑΥΛΗ
+Line  56: 08
+Line  57: ΠΡΟΘΑΛΑΜΟΣ
+Line  58: WC KOINOY
+Line  59: ΠΡΟΘΑΛΑΜΟΣ
+Line  60: WC ΓΥΝΑΙΚΩΝ
+Line  61: WC ΓΥΝΑΙΚΩΝ
+Line  62: ΧΩΡΟΙ
+Line  63: ΥΓΙΕΙΝΗΣ
+Line  64: ΧΩΡΟΙ
+Line  65: ΥΓΙΕΙΝΗΣ
+Line  66: ΧΩΡΟΙ
+Line  67: ΥΓΙΕΙΝΗΣ
+Line  68: A1
+Line  69: ΠΡΟΘΑΛΑΜΟΣ
+Line  70: WC
+Line  71: ΧΩΡΟΙ
+Line  72: ΥΓΙΕΙΝΗΣ
+Line  73: ΠΡΟΘΑΛΑΜΟΣ
+Line  74: ΠΡΟΘΑΛΑΜΟΣ
+Line  75: A1
+Line  76: ΚΛΙΜΑΚΑ
+Line  77: ΚΑΤΗΓΟΡΙΑ
+Line  78: ΚΥΡΙΟΣ ΕΡΓΟΥ
+Line  79: ΕΡΓΟ
+Line  80: ΑΡΙΘΜΟΣ ΣΧΕΔΙΟΥ
+Line  81: ΗΜΕΡΟΜΗΝΙΑ ΜΕΛΕΤΗΣ
+Line  82: VAP ARCHITECTS
+Line  83: Ηπείρου Αθήνα Ελλάδα
+Line  84: 3262 3269
+Line  85: ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΜΕΛΕΤΗ
+Line  86: ΣΤΑΔΙΟ ΜΕΛΕΤΗΣ
+Line  87: Όλες
+Line  88: ΣΥΝΕΡΓΑΤΕΣ ΜΕΛΕΤΗΣ ΕΦΑΡΜΟΓΗΣ
+Line  89: ΚΛΕΙΔΑ
+Line  90: ΣΧΕΔΙΟ
+Line  91: HΜ ΝΙΑ ΣΧΕΔΙΟΥ
+Line  92: ΑΚΟΥΣΤΙΚΗ ΜΕΛΕΤΗ
+Line  93: ΜΕΛΕΤΗ ΦΩΤΙΣΜΟΥ
+Line  94: ΣΤΑΤΙΚΗ ΜΕΛΕΤΗ
+Line  95: ΜΗΧΑΝΟΛΟΓΙΚΗ ΜΕΛΕΤΗ
+Line  96: Ροστάν 44, 41, Αθήνα
+Line  97: 771, 2023
+Line  98: Σύμβουλοι Μηχανικοί
+Line  99: ΠΑΡΑΤΗΡΗΣΕΙΣ
+Line 100: ΕΡΕΙΣΜΑ
+Line 101: ΤΕΧΝΙΚΗ ΕΤΑΙΡΕΙΑ
+Line 102: Νάξου Κηφισιά
+Line 103: Παρασκευής Χαλάνδρι
+Line 104: 42 094,
+Line 105: IFI
+Line 106: INTRA ΞΕΝΟΔΟΧΕΙΑΚΗ
+Line 107: 2016 46
+Line 108: ΚΑΤΑΣΚΕΥΑΣΤΙΚΑ
+Line 109: ΑΝΑΚΑΤΑΣΚΕΥΗ ΞΕΝΟΔΟΧΕΙΟΥ
+Line 110: ΣΤΗΝ ΜΥΚΟΝΟ
+Line 111: ΟΚΤΩΒΡΙΟΣ 2016
+Line 112: ΜΕΛΕΤΗ ΕΦΑΡΜΟΓΗΣ
+Line 113: Πλατύς Γιαλός Μύκονος
+Line 114: ΤΟΜΕΣ
+Line 115: 2016
+Line 116: A1 A1
+Line 117: A1 00
+Line 118: ΤΟΜΗ
+Line 119: ΤΟΜΗ
+Line 120: ΑΝΑΘΕΩΡΗΣΕΙΣ
+Line 121: ΠΕΡΙΓΡΑΦΗ
+Line 122: ΗΜ ΝΙΑ
+Line 123: 00
+Line 124: ΠΡΩΤΗ ΕΚΔΟΣΗ
+Line 125: 2016
+
+=== END OF FILTERED TEXT ===
+Total lines: 126

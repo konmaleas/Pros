@@ -1,0 +1,97 @@
+=== FILTERED TEXT FOR: ARC-SO-A1-107-00.pdf ===
+
+Line   0: 2
+Line   1: 4
+Line   2: 2
+Line   3: 4
+Line   4: GROUND FLOOR SITE LEVEL
+Line   5: GROUND FLOOR FFL
+Line   6: FLOOR FFL
+Line   7: FLOOR FFL
+Line   8: 2
+Line   9: 4
+Line  10: FFL
+Line  11: FFL
+Line  12: FFL
+Line  13: FFL
+Line  14: GROUND FLOOR SITE LEVEL
+Line  15: GROUND FLOOR FFL
+Line  16: FLOOR FFL
+Line  17: FLOOR FFL
+Line  18: 2
+Line  19: 4
+Line  20: GROUND FLOOR SITE LEVEL
+Line  21: GROUND FLOOR FFL
+Line  22: FLOOR FFL
+Line  23: FLOOR FFL
+Line  24: 2
+Line  25: 4
+Line  26: EM EM EM
+Line  27: Marine Works
+Line  28: Manager
+Line  29: Engineer Associate
+Line  30: LUNCH
+Line  31: LUNCH
+Line  32: PMC PMC
+Line  33: Leader
+Line  34: CONFERENCE
+Line  35: SO SO SO
+Line  36: SO Site
+Line  37: Operations
+Line  38: Technician
+Line  39: ΚΛΙΜΑΚΑ
+Line  40: SCALE
+Line  41: ΕΡΓΟ
+Line  42: ΗΜΕΡΟΜΗΝΙΑ
+Line  43: FIRST ISSUE DATE
+Line  44: ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΜΕΛΕΤΗ
+Line  45: ΠΕΡΙΟΧΗ
+Line  46: ZONE
+Line  47: ISSUED
+Line  48: CONSTRUCTION
+Line  49: APPROVAL
+Line  50: TENDER
+Line  51: STATUS
+Line  52: DRAFT
+Line  53: FINAL
+Line  54: STAMP
+Line  55: DISCIPLINE
+Line  56: SO
+Line  57: ΑΝΑΘ.
+Line  58: REV.
+Line  59: ARC
+Line  60: PROJECT
+Line  61: DRAWING
+Line  62: ΜΕΛΕΤΗ
+Line  63: DESIGN
+Line  64: CLIENT
+Line  65: ΣΥΜΒΟΥΛΟΣ ΕΡΓΟΥ
+Line  66: PROJECT CONSULTANT
+Line  67: 3262
+Line  68: ΥΠΟΜΝΗΜΑ
+Line  69: LAYOUT LEGEND
+Line  70: ΑΝΑΠΤΥΞΗ ΜΗΤΡΟΠΟΛΙΤΙΚΟΥ ΠΟΛΟΥ
+Line  71: ΕΛΛΗΝΙΚΟΥ ΑΓΙΟΥ ΚΟΣΜΑ
+Line  72: HELLINIKON DEVELOPMENT PROJECT
+Line  73: ΕΡΓΟΤΑΞΙΑΚΑ ΓΡΑΦΕΙΑ ΕΛΛΗΝΙΚΟ
+Line  74: ELLINIKON SITE OFFICES
+Line  75: ΕΛΛΗΝΙΚΟ
+Line  76: ELLINIKON
+Line  77: ΟΨΕΙΣ ΚΑΙ ΤΟΜΗ
+Line  78: 04
+Line  79: ΕΡΓΟΤΑΞΙΑΚΑ ΓΡΑΦΕΙΑ
+Line  80: ΕΛΛΗΝΙΚΟ
+Line  81: ELEVATIONS SECTION
+Line  82: SITE OFFICES
+Line  83: ELLINIKON
+Line  84: ΟΨΗ
+Line  85: ΟΨΗ
+Line  86: 2
+Line  87: ΤΟΜΗ 2
+Line  88: DRAFT
+Line  89: ΑΝΑΘΕΩΡΗΣΕΙΣ
+Line  90: ΠΕΡΙΓΡΑΦΗ DESCRIPTION
+Line  91: ΗΜ ΝΙΑ DATE
+
+=== END OF FILTERED TEXT ===
+Total lines: 92

@@ -1,0 +1,108 @@
+Chat Summary for Continuation
+What We Accomplished
+1. Fixed Batch Over-Counting Issue (URGENT) ✅
+Problem: Batch processor found 3,828 batches instead of expected 605
+Root Cause: Script was treating every subdirectory as a batch instead of only directories containing PDFs directly
+Solution Implemented:
+
+Changed from nested directory traversal to using pre-built PDF path list
+Created load_pdf_paths() to load from pickle file
+Created group_files_by_batch() to group by parent directory
+Modified process_all_batches() to use the authoritative file list
+Result: Now correctly processes exactly 605 batches
+
+2. Implemented Multi-Delimiter Title Splitting ✅
+Problem: Titles only split on -, causing failures like LAN-ARC_FD-101 00 → 3 chunks instead of 5
+Solution Implemented:
+
+Created utils.py with split_title_chunks() function
+Uses regex re.split(r'[^a-zA-Z0-9]+', title) to split on ALL non-alphanumeric characters
+Updated 3 files:
+
+utils.py - New utility module
+batch_processor.py - Updated 2 locations (lines 46, 117)
+pattern_analyzer.py - Updated _extract_title_chunks() method
+Result: LAN-ARC_FD-101 00 now correctly splits into ['LAN', 'ARC', 'FD', '101', '00']
+
+
+
+3. Fixed JSON Serialization Issue ✅
+Problem: JSON file was saving as string representation instead of structured data
+Root Cause: batch_name was a Path object, not JSON serializable
+Solution: Modified save_results_json() to convert Path objects to strings before serialization
+Result: JSON files now properly parseable as structured data
+Current Batch Processing Results
+Total batches: 605
+Success: 28 (100% validation)
+Partial: 11 (80-99% validation)
+Failed: 144 (<80% validation)
+Skipped: 422 (≤2 files)
+Errors: 0
+Duration: 8.4 minutes
+Files Updated
+
+utils.py (NEW) - Multi-delimiter splitting utility
+batch_processor.py - Fixed batch counting, multi-delimiter support, JSON serialization
+pattern_analyzer.py - Multi-delimiter support via utils import
+
+Outstanding Issues
+1. Image-Only PDFs (Deferred)
+
+Some PDFs contain no extractable text (scanned images)
+Decision: Skip them for now
+Future: Implement OCR detection in TextExtractor
+
+2. Next Task: Batch Debug Processor (IN PROGRESS)
+Requirements:
+
+Process test cases from /PyTests/Submission/Process/ directory
+Structure:
+
+  /PyTests/Submission/Process/
+  ├── 2110 BIG AU1.5/           ← PROJECT
+  │   └── PDF/                   ← CASE (contains PDF files)
+  ├── Another Project/           ← PROJECT
+  │   ├── Case1/                 ← CASE
+  │   └── Case2/                 ← CASE
+
+Need to create batch_debug_processor.py that:
+
+Groups cases by project
+Processes each case independently
+Reports results per case
+Supports multiple cases per project
+
+
+
+Status: Awaiting test directory structure file to implement
+Architecture Context
+
+4-Stage Pipeline: Extract → Process → Frequency Analysis → Pattern Analysis
+Multi-anchor support: Handles split titles across document areas
+Pattern-based validation: Two-pass system with adaptive offset learning
+Multiprocessing: 3 workers for parallel batch processing
+Success criteria: 100% = all chunks found, 80-99% = partial, <80% = failed
+
+Key Technical Details
+
+Title format example: NCM-DD-B1-DR-ARC-4408-P1
+Processing time: ~1 second per file
+Uses processed_lines (not filtered_lines) for validation
+Noise threshold: 76 (tuned for structural vs measurement distinction)
+Max distance threshold: 15 lines from anchor
+
+Critical Working Style Reminder
+
+Chat first, code later - Only code when explicitly requested
+Brief answers - Discuss approaches before implementation
+Always use dataclass for Python classes
+Import style: All imports at top, use from utils import split_title_chunks pattern
+Logging: Use icecream (ic) with custom timestamp prefix, not print
+
+Next Steps for New Chat
+
+Receive test directory structure file
+Code batch_debug_processor.py for crash-test scenarios
+Test on PyTests directory structure
+Analyze results and iterate
+RetryClaude can make mistakes. Please double-check responses.

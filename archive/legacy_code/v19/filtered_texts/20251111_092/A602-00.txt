@@ -1,0 +1,34 @@
+=== FILTERED TEXT FOR: A602-00.pdf ===
+
+Line   0: CIRCULATION LOBBY
+Line   1: STAIRCASE
+Line   2: MAIN LOBBY
+Line   3: REVISIONS
+Line   4: CLIENT
+Line   5: PROJECT
+Line   6: DESIGN STAGE
+Line   7: DATE
+Line   8: SCALE
+Line   9: FILE NAME
+Line  10: DRAWING TITLE
+Line  11: DRAWING
+Line  12: TAHLIA WALK
+Line  13: VAPARCHITECTS
+Line  14: DESIGN ARCHITECTS
+Line  15: STRUCTURAL ENGINEER
+Line  16: CONSULTANTS
+Line  17: MEP ENGINEER
+Line  18: STUDIO
+Line  19: ZAD DEVELOPMENT
+Line  20: 2016 47
+Line  21: Lobby
+Line  22: Ceiling Plan
+Line  23: Project Status
+Line  24: Lobby Ceiling Plan
+Line  25: Description
+Line  26: Date
+Line  27: First
+Line  28: 06
+
+=== END OF FILTERED TEXT ===
+Total lines: 29

@@ -1,0 +1,20 @@
+The problem probably lies in the following logic:
+Distance for B1: |found_offset +1 - expected +4| = 3 lines.
+Which should be: Distance for B1: |found_offset +1 + expected +4| = 3 lines.
+On the other hand: Distance for P1: |found_offset +1 - expected +1| = 0 lines.
+Which should be: Distance for P1: |found_offset = expected +1| = 1 lines.
+Because only the pieces below the line ['30', '7', '2021', '7', '07', '55', 'pm'] has to be shifted.
+
+Case 4444, Lx, Bx:
+
+['AUGUST', '2021']
+
+['P1']
+
+['30', '7', '2021', '7', '07', '55', 'pm']
+
+['4404']
+
+['B2']
+
+Case 4408, B1;

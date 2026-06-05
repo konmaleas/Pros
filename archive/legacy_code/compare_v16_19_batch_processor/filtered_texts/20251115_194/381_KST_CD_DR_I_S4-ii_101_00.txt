@@ -1,0 +1,38 @@
+=== FILTERED TEXT FOR: 381_KST_CD_DR_I_S4-ii_101_00.pdf ===
+
+Line   0: MEP
+Line   1: LINEN
+Line   2: STORAGE
+Line   3: TV
+Line   4: DATE
+Line   5: ADDRESS
+Line   6: NO.
+Line   7: KST CD DR 00
+Line   8: BUILDING
+Line   9: PROPOSAL
+Line  10: ELOUNDA, GREECE
+Line  11: ROSEWOOD BLUE PALACE
+Line  12: PHAEA RESORTS
+Line  13: CD Type
+Line  14: DATE
+Line  15: FILE NAME
+Line  16: SCALE
+Line  17: CLIENT
+Line  18: PROJECT
+Line  19: 04 2022
+Line  20: DESIGN STAGE
+Line  21: DRAWING TITLE
+Line  22: DRAWING
+Line  23: CHK
+Line  24: NOTES
+Line  25: REVISIONS
+Line  26: DWG
+Line  27: CONCEPT DESIGN
+Line  28: DESCRIPTION
+Line  29: 04 2022
+Line  30: PLAN POOL TYPE
+Line  31: 04 2022
+Line  32: SUBMISSION
+
+=== END OF FILTERED TEXT ===
+Total lines: 33

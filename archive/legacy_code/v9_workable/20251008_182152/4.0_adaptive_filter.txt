@@ -1,0 +1,16 @@
+18:21:53.408545 | /home/konstantinos/PycharmProjects/Pros/claude/v9_workable/main_title_search.py:30 in debug_file()
+                  ict(): None
+                  args: (AdaptiveFilter(title_chunks=['4005',
+                                                      'RES',
+                                                      'VAP',
+                                                      'DWG',
+                                                      '233',
+                                                      'CD',
+                                                      '12100',
+                                                      'A'],
+                                        noise_threshold=14,
+                                        title_alpha=['RES', 'VAP', 'DWG', 'CD', 'A'],
+                                        title_digit=['4005', '233', '12100'],
+                                        nlp=<spacy.lang.en.English object at 0x7f7637092410>,
+                                        word_frequencies={}),)
+                  'w': 'w'

@@ -1,0 +1,247 @@
+=== FILTERED TEXT FOR: Α1-615-01.pdf ===
+
+Line   0: 3561
+Line   1: 1082
+Line   2: 1150
+Line   3: 1150
+Line   4: 1056
+Line   5: 1150
+Line   6: 1150
+Line   7: 434
+Line   8: 1026
+Line   9: 1300
+Line  10: 1590
+Line  11: 1350
+Line  12: 1700
+Line  13: 1850
+Line  14: EQ
+Line  15: EQ
+Line  16: EQ
+Line  17: EQ
+Line  18: EQ
+Line  19: EQ
+Line  20: EQ
+Line  21: EQ
+Line  22: WC ΑΝΔΡΩΝ
+Line  23: ΠΡΟΘΑΛΑΜΟΣ WC
+Line  24: ΑΝΔΡΩΝ
+Line  25: ΠΡΟΘΑΛΑΜΟΣ WC
+Line  26: ΓΥΝΑΙΚΩΝ
+Line  27: WC ΓΥΝΑΙΚΩΝ 1
+Line  28: WC ΓΥΝΑΙΚΩΝ
+Line  29: WC ΑΝΔΡΩΝ 1
+Line  30: EQ
+Line  31: EQ
+Line  32: EQ
+Line  33: EQ
+Line  34: 445
+Line  35: 445
+Line  36: ΑΡΜΟΚΑΛΥΠΤΡΟ
+Line  37: ΓΙΑ ΕΚ. ΑΡΜΟ
+Line  38: ΑΡΜΟΚΑΛΥΠΤΡΟ
+Line  39: ΓΙΑ ΕΚ. ΑΡΜΟ
+Line  40: ΠΡΟΘΑΛΑΜΟΣ WC
+Line  41: KOINOY
+Line  42: 713
+Line  43: EQ
+Line  44: EQ
+Line  45: ΚΑΔΟΣ
+Line  46: ΚΑΔΟΣ
+Line  47: ΕΝΤΟΙΧΙΣΜΕΝΟ
+Line  48: KAZANAKI ΜΕ
+Line  49: ΠΛΑΚΕΤΑ
+Line  50: ΚΡΕΜΑΣΤΗ
+Line  51: ΛΕΚΑΝΗ
+Line  52: ΕΝΤΟΙΧΙΣΜΕΝΟ
+Line  53: KAZANAKI ΜΕ
+Line  54: ΠΛΑΚΕΤΑ
+Line  55: ΚΡΕΜΑΣΤΗ
+Line  56: ΛΕΚΑΝΗ
+Line  57: ΣΤΕΓΝΩΤΗΡΑΣ
+Line  58: ΧΕΡΙΩΝ
+Line  59: ΣΤΕΓΝΩΤΗΡΑΣ
+Line  60: ΧΕΡΙΩΝ
+Line  61: ΕΠΙΤΟΙΧΟΣ
+Line  62: ΚΑΘΡΕΠΤΗΣ
+Line  63: ΕΠΙΤΟΙΧΗ
+Line  64: ΜΠΑΤΑΡΙΑ
+Line  65: ΝΙΠΤΗΡΑ ΔΥΟ
+Line  66: ΛΑΒΩΝ
+Line  67: ΕΠΙΚΑΘΗΜΕΝΟΣ
+Line  68: ΝΙΠΤΗΡΑΣ
+Line  69: ΠΑΓΚΟΣ
+Line  70: ΠΡΟΘΑΛΑΜΟΣ WC
+Line  71: ΑΝΔΡΩΝ
+Line  72: WC ΑΝΔΡΩΝ 1
+Line  73: WC ΑΝΔΡΩΝ
+Line  74: ΠΡΟΘΑΛΑΜΟΣ WC
+Line  75: ΓΥΝΑΙΚΩΝ
+Line  76: ΠΡΟΘΑΛΑΜΟΣ WC
+Line  77: KOINOY
+Line  78: WC ΓΥΝΑΙΚΩΝ 1
+Line  79: WC ΓΥΝΑΙΚΩΝ
+Line  80: EQ
+Line  81: EQ
+Line  82: EQ
+Line  83: EQ
+Line  84: EQ
+Line  85: EQ
+Line  86: EQ
+Line  87: EQ
+Line  88: 1
+Line  89: 1
+Line  90: 1
+Line  91: 1
+Line  92: 1
+Line  93: 1
+Line  94: 1
+Line  95: 1
+Line  96: EQ
+Line  97: EQ
+Line  98: 400
+Line  99: EQ
+Line 100: EQ
+Line 101: 400
+Line 102: 400
+Line 103: 400
+Line 104: EQ
+Line 105: EQ
+Line 106: ΣΗΜΑΝΣΗ
+Line 107: ΔΙΑΦΥΓΗΣ
+Line 108: EQ
+Line 109: EQ
+Line 110: ΣΗΜΑΝΣΗ
+Line 111: ΔΙΑΦΥΓΗΣ
+Line 112: EQ
+Line 113: EQ
+Line 114: ΣΗΜΑΝΣΗ
+Line 115: ΔΙΑΦΥΓΗΣ
+Line 116: EQ
+Line 117: EQ
+Line 118: 400
+Line 119: EQ
+Line 120: EQ
+Line 121: EQ
+Line 122: EQ
+Line 123: EQ
+Line 124: EQ
+Line 125: 400
+Line 126: EQ
+Line 127: EQ
+Line 128: Level
+Line 129: 400
+Line 130: 2400
+Line 131: 1100
+Line 132: ΣΤΕΓΝΩΤΗΡΑΣ
+Line 133: ΧΕΡΙΩΝ
+Line 134: ΠΡΟΘΑΛΑΜΟΣ WC
+Line 135: ΓΥΝΑΙΚΩΝ
+Line 136: 2400
+Line 137: 400
+Line 138: ΣΗΜΑΝΣΗ
+Line 139: ΔΙΑΦΥΓΗΣ
+Line 140: 1100
+Line 141: 1025
+Line 142: ΕΠΙΤΟΙΧΗ
+Line 143: ΜΠΑΤΑΡΙΑ
+Line 144: ΝΙΠΤΗΡΑ ΔΥΟ
+Line 145: ΛΑΒΩΝ
+Line 146: ΕΠΙΚΑΘΗΜΕΝΟΣ
+Line 147: ΝΙΠΤΗΡΑΣ
+Line 148: ΠΑΓΚΟΣ
+Line 149: Level
+Line 150: 400
+Line 151: 400
+Line 152: 2400
+Line 153: 1100
+Line 154: ΣΤΕΓΝΩΤΗΡΑΣ
+Line 155: ΧΕΡΙΩΝ
+Line 156: ΠΡΟΘΑΛΑΜΟΣ WC
+Line 157: ΓΥΝΑΙΚΩΝ
+Line 158: 2200
+Line 159: EQ
+Line 160: EQ
+Line 161: 400
+Line 162: 1100
+Line 163: 1025
+Line 164: 1000
+Line 165: ΕΠΙΤΟΙΧΟΣ
+Line 166: ΚΑΘΡΕΠΤΗΣ
+Line 167: ΕΠΙΤΟΙΧΗ
+Line 168: ΜΠΑΤΑΡΙΑ
+Line 169: ΝΙΠΤΗΡΑ ΔΥΟ
+Line 170: ΛΑΒΩΝ
+Line 171: ΕΠΙΚΑΘΗΜΕΝΟΣ
+Line 172: ΝΙΠΤΗΡΑΣ
+Line 173: ΠΑΓΚΟΣ
+Line 174: 1100
+Line 175: Level
+Line 176: ΚΑΔΟΣ
+Line 177: 420
+Line 178: 1000
+Line 179: ΚΡΕΜΑΣΤΗ
+Line 180: ΛΕΚΑΝΗ
+Line 181: ΕΝΤΟΙΧΙΣΜΕΝΟ
+Line 182: KAZANAKI ΜΕ
+Line 183: ΠΛΑΚΕΤΑ
+Line 184: WC ΓΥΝΑΙΚΩΝ
+Line 185: 400
+Line 186: 2400
+Line 187: ΚΑΔΟΣ
+Line 188: WC ΓΥΝΑΙΚΩΝ
+Line 189: 420
+Line 190: 1000
+Line 191: ΚΡΕΜΑΣΤΗ
+Line 192: ΛΕΚΑΝΗ
+Line 193: 2400
+Line 194: 400
+Line 195: ΕΝΤΟΙΧΙΣΜΕΝΟ
+Line 196: KAZANAKI ΜΕ
+Line 197: ΠΛΑΚΕΤΑ
+Line 198: 400
+Line 199: EQ
+Line 200: EQ
+Line 201: 2400
+Line 202: 400
+Line 203: 420
+Line 204: ΚΡΕΜΑΣΤΗ
+Line 205: ΛΕΚΑΝΗ
+Line 206: ΕΝΤΟΙΧΙΣΜΕΝΟ
+Line 207: KAZANAKI ΜΕ
+Line 208: ΠΛΑΚΕΤΑ
+Line 209: WC ΓΥΝΑΙΚΩΝ
+Line 210: 1 2017 47
+Line 211: 1
+Line 212: 1
+Line 213: ΚΑΤΟΨΗ WC ΚΟΙΝΟΥ
+Line 214: 1
+Line 215: ΑΝΟΨΗ WC ΚΟΙΝΟΥ
+Line 216: 1
+Line 217: 1 WC ΚΟΙΝΟΥ
+Line 218: 1
+Line 219: WC ΚΟΙΝΟΥ
+Line 220: 1
+Line 221: WC ΚΟΙΝΟΥ
+Line 222: 1
+Line 223: WC ΚΟΙΝΟΥ
+Line 224: 1
+Line 225: WC ΚΟΙΝΟΥ
+Line 226: 01 2017
+Line 227: 01
+Line 228: 01 2017
+Line 229: 01
+Line 230: 01 2017
+Line 231: 01
+Line 232: 01 2017
+Line 233: 01
+Line 234: 01 2017
+Line 235: 01
+Line 236: 01 2017
+Line 237: 01
+Line 238: 01 2017
+Line 239: 01
+Line 240: 01 2017
+Line 241: 01
+
+=== END OF FILTERED TEXT ===
+Total lines: 242

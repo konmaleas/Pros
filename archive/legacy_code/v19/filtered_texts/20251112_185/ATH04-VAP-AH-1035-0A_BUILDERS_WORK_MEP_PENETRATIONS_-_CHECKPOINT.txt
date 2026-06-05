@@ -1,0 +1,158 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-1035-0A_BUILDERS_WORK_MEP_PENETRATIONS_-_CHECKPOINT.pdf ===
+
+Line   0: GL
+Line   1: CEILING LEVEL
+Line   2: YD
+Line   3: MP AD 036 03
+Line   4: MP AD 036 06
+Line   5: MP AD 036 07
+Line   6: MP AD 036 08
+Line   7: MP AD 036 09
+Line   8: MP AD 036 02
+Line   9: MP AD 036 01
+Line  10: MP AD 036 05
+Line  11: 3000
+Line  12: 1255
+Line  13: 3705
+Line  14: 1575
+Line  15: 1640
+Line  16: 730
+Line  17: 475
+Line  18: 3735
+Line  19: 2110
+Line  20: 4055
+Line  21: 4025
+Line  22: 4555
+Line  23: CHECK
+Line  24: POINT
+Line  25: ATH04 00 036
+Line  26: MP AD 036 04
+Line  27: GL
+Line  28: CEILING LEVEL
+Line  29: YD
+Line  30: MP AD 036
+Line  31: MP AD 036
+Line  32: MP AD 036
+Line  33: MP AD 036
+Line  34: MP AD 036
+Line  35: MP AD 036
+Line  36: 3700
+Line  37: 1555
+Line  38: 3735
+Line  39: 1545
+Line  40: 1350
+Line  41: 1315
+Line  42: 2260
+Line  43: 1350
+Line  44: 1640
+Line  45: CHECK
+Line  46: POINT
+Line  47: ATH04 00 036
+Line  48: GL
+Line  49: CEILING LEVEL
+Line  50: MP AD 036
+Line  51: MP AD 036
+Line  52: MP AD 036
+Line  53: MP AD 036
+Line  54: MP AD 036
+Line  55: MP AD 040
+Line  56: MP AD 040
+Line  57: 790
+Line  58: 1725
+Line  59: 4920
+Line  60: 4390
+Line  61: 3740
+Line  62: 1120
+Line  63: 3735
+Line  64: 3015
+Line  65: CHECK
+Line  66: POINT
+Line  67: ATH04 00 036
+Line  68: GL
+Line  69: CEILING LEVEL
+Line  70: MP AD 036
+Line  71: MP AD 036
+Line  72: MP AD 036
+Line  73: CHECK
+Line  74: POINT
+Line  75: ATH04 00 036
+Line  76: 1035
+Line  77: 1035
+Line  78: 1035
+Line  79: 1035
+Line  80: CHECK
+Line  81: POINT
+Line  82: ATH04 00 036
+Line  83: 1027
+Line  84: MEP PENETRATIONS CODE
+Line  85: MP AD XXX XX
+Line  86: MP
+Line  87: MEP PENETRATIONS
+Line  88: AD
+Line  89: BUILDING CODE
+Line  90: XXX
+Line  91: ROOM NUMBER
+Line  92: XX
+Line  93: PENETRATION NUMBER
+Line  94: SCALE
+Line  95: 036 CHECKPOINT ELEVATION EAST MEP PENETRATIONS
+Line  96: SCALE
+Line  97: 036 CHECKPOINT ELEVATION NORTH MEP PENETRATIONS
+Line  98: SCALE
+Line  99: 036 CHECKPOINT ELEVATION SOUTH MEP PENETRATIONS
+Line 100: SCALE
+Line 101: 036 CHECKPOINT ELEVATION WEST MEP PENETRATIONS
+Line 102: ADMIN
+Line 103: COLO
+Line 104: COLO
+Line 105: TRUE NORTH
+Line 106: Sheet Title Number
+Line 107: Scale
+Line 108: Plan
+Line 109: Design Consultants
+Line 110: Microsoft
+Line 111: DATA CENTER ATH04
+Line 112: SPATA GREECE
+Line 113: Contractor Joint Venture
+Line 114: Name
+Line 115: Contractor Project
+Line 116: Contractor Contract
+Line 117: Contractor PM
+Line 118: Contractor BIM Mngr
+Line 119: Contractor Information
+Line 120: Renco Terna
+Line 121: Client
+Line 122: General Notes
+Line 123: Client Project
+Line 124: Client Contract
+Line 125: Client PM
+Line 126: Client BIM Mngr
+Line 127: Primary Client Information
+Line 128: Layout
+Line 129: Revision
+Line 130: Tombazi Chalandri
+Line 131: 15232
+Line 132: Athens Greece
+Line 133: 0800 3262
+Line 134: Agion Theodoron Square Athens
+Line 135: 10561
+Line 136: Athens Greece
+Line 137: Kimithois Agios Dimitrios
+Line 138: 17236
+Line 139: Athens Greece
+Line 140: Purpose Issue
+Line 141: Issue
+Line 142: Name
+Line 143: BUILDERS WORK MEP PENETRATIONS
+Line 144: CHECKPOINT
+Line 145: ATH04 VAP AH 1035
+Line 146: Date
+Line 147: Description
+Line 148: 07
+Line 149: Issued Approval
+Line 150: VAP
+Line 151: 1000
+Line 152: SCALE
+
+=== END OF FILTERED TEXT ===
+Total lines: 153

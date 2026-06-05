@@ -1,0 +1,112 @@
+=== FILTERED TEXT FOR: KLM-ARC-A201.pdf ===
+
+Line   0: ΑΚΑΛΥΠΤΟΣ
+Line   1: ΑΚΑΛΥΠΤΟΣ
+Line   2: ΑΚΑΛΥΠΤΟΣ
+Line   3: Απόσταση
+Line   4: ΜΛ
+Line   5: XΨ
+Line   6: ΓΨA
+Line   7: ΚΛΙΜΑΚΟΣΤΑΣΙΟ
+Line   8: 03
+Line   9: 02
+Line  10: WC AMEA
+Line  11: 01
+Line  12: 04
+Line  13: 05
+Line  14: ΧΩΡΟΣ ΥΠΟΔΟΧΗΣ
+Line  15: ΠΡΟΘΑΛΑΜΟΣ
+Line  16: XΨ
+Line  17: XΨ
+Line  18: ΑΠΛΗ ΓΥΨΟΣΑΝΙΔΑ
+Line  19: ΧΨE
+Line  20: ΧΩΡΙΣ ΨΕΥΔΟΡΟΦΗ ΠΛΑΚΑ ΣΚΥΡΟΔΕΜΑΤΟΣ ΜΕ ΕΠΙΧΡΙΣΜΑ
+Line  21: ΜΚ ΜΕΤΑΛΛΙΚΕΣ ΚΑΣΕΤΕΣ ΔΙΑΤΡΗΤΕΣ ΤΥΠΟΥ LAY FLUSH
+Line  22: ΓΨΑ
+Line  23: ΑΝΘΥΓΡΗ ΓΥΨΟΣΑΝΙΔΑ
+Line  24: ΜΛ ΜΕΤΑΛΛΙΚΕΣ ΑΔΙΑΤΡΗΤΕΣ ΛΩΡΙΔΕΣ ΠΛΑΤΟΥΣ
+Line  25: ΥΠΟΜΝΗΜΑ ΨΕΥΔΟΡΟΦΩΝ
+Line  26: ΘΕ ΘΥΡΙΔΑ ΕΠΙΣΚΕΨΗΣ
+Line  27: ΓΡΑΜΜΙΚΟ ΦΩΣ LED
+Line  28: ΓΡΑΜΜΙΚΟ ΣΤΟΜΙΟ
+Line  29: ΦΩΤΙΣΤΙΚΟ ΟΡΟΦΗΣ LED
+Line  30: ΦΩΤΙΣΤΙΚΟ ΣΠΟΤ
+Line  31: ΦΩΤΙΣΤΙΚΟ ΣΠΟΤ ΣΤΕΓΑΝΟ
+Line  32: ΗΜ ΣΤΟΙΧΕΙΑ ΕΝΤΑΣΣΟΜΕΝΑ ΣΤΗΝ ΨΕΥΔΟΡΟΦΗ
+Line  33: ΑΝΙΧΝΕΥΤΗΣ ΚΑΠΝΟΥ
+Line  34: ΕΞΑΕΡΙΣΜΟΣ WC
+Line  35: ΜΛΑ ΜΕΤΑΛΛΙΚΕΣ ΛΩΡΙΔΕΣ ΑΝΟΙΧΤΗΣ ΔΙΑΤΟΜΗΣ
+Line  36: ΗΨ ΗΧΟΜΟΝΩΤΙΚΑ ΠΑΝΕΛΑ
+Line  37: ΑΝΙΧΝΕΥΤΗΣ ΠΑΡΟΥΣΙΑΣ ΠΑΘΗΤΙΚΩΝ ΥΠΕΡΥΘΡΩΝ
+Line  38: ΑΝΙΧΝΕΥΤΗΣ ΠΑΡΟΥΣΙΑΣ ΠΑΘΗΤΙΚΩΝ ΥΠΕΡΥΘΡΩΝ
+Line  39: ΜΕ ΑΙΣΘΗΤΗΡΑ ΦΩΤΕΙΝΟΤΗΤΑΣ
+Line  40: ΠΑΡΑΤΗΡΗΣΗ
+Line  41: ΟΙ ΑΚΡΙΒΕΙΣ ΤΩΝ ΣΤΟΙΧΕΙΩΝ ΣΤΙΣ ΨΕΥΔΟΡΟΦΕΣ
+Line  42: ΘΑ ΠΑΡΘΟΥΝ ΑΠΟ ΤΑ ΑΡΧΙΤΕΚΤΟΝΙΚΑ
+Line  43: ΚΛΙΜΑΚΑ
+Line  44: SCALE
+Line  45: ΣΧΕΔΙΟ
+Line  46: ΕΡΓΟ
+Line  47: ΗΜΕΡΟΜΗΝΙΑ ΕΚΔΟΣΗΣ
+Line  48: FIRST ISSUE DATE
+Line  49: ΠΕΡΙΟΧΗ
+Line  50: ZONE
+Line  51: ISSUED
+Line  52: CONSTRUCTION
+Line  53: APPROVAL
+Line  54: TENDER
+Line  55: STATUS
+Line  56: DRAFT
+Line  57: FINAL
+Line  58: DISCIPLINE
+Line  59: ARC
+Line  60: ΑΝΑΘ.
+Line  61: REV.
+Line  62: VAP
+Line  63: PROJECT
+Line  64: DRAWING
+Line  65: ΕΡΓΟΔΟΤΗΣ
+Line  66: CLIENT
+Line  67: Τομπάζη Χαλάνδρι, 15332
+Line  68: 3262 3269
+Line  69: ΚΛΕΙΔΑ
+Line  70: KEY PLAN
+Line  71: ΟΙΚΟΔΟΜΙΚΗ ΑΔΕΙΑ ΓΙΑ ΑΝΕΓΕΡΣΗ
+Line  72: ΕΞΑΩΡΟΦΟΥ ΚΤΗΡΙΟΥ ΓΡΑΦΕΙΩΝ
+Line  73: ME ΙΣΟΓΕΙΟ ΚΑΙ ΥΠΟΓΕΙΟΥΣ
+Line  74: ΧΩΡΟΥΣ ΣΤΑΘΜΕΥΣΗΣ
+Line  75: ΘΕΣΗ
+Line  76: LOCATION
+Line  77: ΚΑΛΑΜΩΝ
+Line  78: ΑΜΠΕΛΟΚΗΠΟΙ ΔΗΜΟΥ ΑΘΗΝΑΙΩΝ 80076
+Line  79: ΑΡΧΙΤΕΚΤΟΝIKH
+Line  80: ARCHITECTURAL DESIGN
+Line  81: ΣΤΑΤΙΚΗ
+Line  82: STRUCTURAL DESIGN
+Line  83: ΜΗΧΑΝΟΛΟΓΙΚΗ
+Line  84: MEP DESIGN
+Line  85: Λεωφ. Αναγυρούντος 16672, Βάρη
+Line  86: 4395 4637
+Line  87: NSZ
+Line  88: Θηβαϊδος Κηφισιά
+Line  89: STUDY
+Line  90: ΣΤΑΔΙΟ
+Line  91: STAGE
+Line  92: ΣΦΡΑΓΙΔΑ ΜΕΛΕΤΗΤΗ
+Line  93: DESIGNER STAMP
+Line  94: LDK ΣΥΜΒΟΥΛΟΙ ΜΗΧΑΝΙΚΟΙ
+Line  95: ΛΙΘΟΣ ΣΥΜΒΟΥΛΟΙ ΜΗΧΑΝΙΚΟΙ
+Line  96: VASSILIS ALEXANDROS POUTETSIS
+Line  97: ARCHITECTS ASSOCIATES IKE
+Line  98: 00
+Line  99: ΑΝΟΨΗ ΙΣΟΓΕΙΟΥ
+Line 100: ΙΑΝΟΥΑΡΙΟΣ 2024
+Line 101: ΑΝΑΘΕΩΡΗΣΕΙΣ
+Line 102: ΠΕΡΙΓΡΑΦΗ DESCRIPTION
+Line 103: ΗΜ ΝΙΑ DATE
+Line 104: ΙΣΟΓΕΙΟ
+Line 105: FL
+Line 106: SL
+
+=== END OF FILTERED TEXT ===
+Total lines: 107

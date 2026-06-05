@@ -1,0 +1,499 @@
+=== FILTERED TEXT FOR: JVIT-ARC-00-1-0041_D2_REV02.pdf ===
+
+Line   0: STAIR
+Line   1: ΚΕΝΟ ΑΠΟΛΗΞΗΣ
+Line   2: PLAN PARKING LEVEL 2
+Line   3: ΚΑΤΟΨΗ ΠΑΡΚΙΝΓΚ ΕΠΙΠΕΔΟ 2
+Line   4: PLAN PARKING LEVEL
+Line   5: ΚΑΤΟΨΗ ΠΑΡΚΙΝΓΚ ΕΠΙΠΕΔΟ
+Line   6: PLAN PARKING LEVEL
+Line   7: ΚΑΤΟΨΗ ΠΑΡΚΙΝΓΚ ΕΠΙΠΕΔΟ
+Line   8: LIBRARY PLAN LEVEL 01
+Line   9: ΚΑΤΟΨΗ ΒΙΒΛΙΟΘΗΚΗΣ ΕΠΙΠΕΔΟ 01
+Line  10: OPERA PLAN LEVEL 01
+Line  11: ΚΑΤΟΨΗ ΟΠΕΡΑΣ ΕΠΙΠΕΔΟ 01
+Line  12: OPERA PLAN LEVEL 02
+Line  13: ΚΑΤΟΨΗ ΟΠΕΡΑΣ ΕΠΙΠΕΔΟ 02
+Line  14: OPERA PLAN LEVEL 03
+Line  15: ΚΑΤΟΨΗ ΟΠΕΡΑΣ ΕΠΙΠΕΔΟ 03
+Line  16: OPERA PLAN LEVEL 04
+Line  17: ΚΑΤΟΨΗ ΟΠΕΡΑΣ ΕΠΙΠΕΔΟ 04
+Line  18: OPERA PLAN LEVEL 05
+Line  19: ΚΑΤΟΨΗ ΟΠΕΡΑΣ ΕΠΙΠΕΔΟ 05
+Line  20: LIBRARY PLAN LEVEL 02
+Line  21: ΚΑΤΟΨΗ ΒΙΒΛΙΟΘΗΚΗΣ ΕΠΙΠΕΔΟ 02
+Line  22: LIBRARY PLAN LEVEL 03
+Line  23: ΚΑΤΟΨΗ ΒΙΒΛΙΟΘΗΚΗΣ ΕΠΙΠΕΔΟ 03
+Line  24: LIBRARY PLAN LEVEL 04
+Line  25: ΚΑΤΟΨΗ ΒΙΒΛΙΟΘΗΚΗΣ ΕΠΙΠΕΔΟ 04
+Line  26: LIBRARY PLAN LEVEL 05
+Line  27: ΚΑΤΟΨΗ ΒΙΒΛΙΟΘΗΚΗΣ ΕΠΙΠΕΔΟ 05
+Line  28: Building
+Line  29: First
+Line  30: Υπολογισμός Δόμησης
+Line  31: Library
+Line  32: Εθνική Βιβλιοθήκη Kενό
+Line  33: Building
+Line  34: Underground
+Line  35: Υπολογισμός Δόμησης
+Line  36: LIBRARY ΕΘΝΙΚΗ
+Line  37: ΒΙΒΛΙΟΘΗΚΗ
+Line  38: Opera
+Line  39: Λυρική Σκηνή Kενό
+Line  40: Buffer Zone
+Line  41: Ζώνη Ανάσχεσης Kενό
+Line  42: PARKING ΧΩΡΟΣ
+Line  43: ΣΤΑΘΜΕΥΣΗΣ
+Line  44: ΑΥΤΟΚΙΝΗΤΩΝ
+Line  45: OPERA ΛΥΡΙΚΗ
+Line  46: Building
+Line  47: Second
+Line  48: Υπολογισμός Δόμησης
+Line  49: Kενό
+Line  50: Kενό
+Line  51: KENO
+Line  52: Buffer Zone
+Line  53: Ζώνη Ανάσχεσης Kενό
+Line  54: Building
+Line  55: Third
+Line  56: Υπολογισμός Δόμησης
+Line  57: Building
+Line  58: Fourth
+Line  59: Υπολογισμός Δόμησης
+Line  60: Building
+Line  61: Fifth
+Line  62: Υπολογισμός Δόμησης
+Line  63: Kενό
+Line  64: Kενό
+Line  65: Kενό
+Line  66: Kενό
+Line  67: PARKING ΧΩΡΟΣ
+Line  68: ΣΤΑΘΜΕΥΣΗΣ
+Line  69: ΑΥΤΟΚΙΝΗΤΩΝ
+Line  70: Kενό
+Line  71: Kενό
+Line  72: Kενό
+Line  73: Kενό
+Line  74: Kενό
+Line  75: Kενό
+Line  76: OPERA ΛΥΡΙΚΗ
+Line  77: LIBRARY ΕΘΝΙΚΗ
+Line  78: ΒΙΒΛΙΟΘΗΚΗ
+Line  79: LIBRARY ΕΘΝΙΚΗ
+Line  80: ΒΙΒΛΙΟΘΗΚΗ
+Line  81: OPERA ΛΥΡΙΚΗ
+Line  82: OPERA ΛΥΡΙΚΗ
+Line  83: LIBRARY ΕΘΝΙΚΗ
+Line  84: ΒΙΒΛΙΟΘΗΚΗ
+Line  85: OPERA ΛΥΡΙΚΗ
+Line  86: Buffer Zone
+Line  87: Ζώνη Ανάσχεσης Kενό
+Line  88: Buffer Zone
+Line  89: Ζώνη Ανάσχεσης Kενό
+Line  90: PARKING ΧΩΡΟΣ
+Line  91: ΣΤΑΘΜΕΥΣΗΣ
+Line  92: ΑΥΤΟΚΙΝΗΤΩΝ
+Line  93: PARKING
+Line  94: ΧΩΡΟΣ ΣΤΑΘΜΕΥΣΗΣ
+Line  95: ΑΥΤΟΚΙΝΗΤΩΝ ΧΩΡΟΣ
+Line  96: ΔΙΠΛΟΥ ΥΨΟΥΣ
+Line  97: Library
+Line  98: Εθνική Βιβλιοθήκη Kενό
+Line  99: STAIR
+Line 100: ΚΛΙΜ. ΚΕΝΟ
+Line 101: STAIR
+Line 102: ΚΕΝΟ ΑΠΟΛΗΞΗΣ
+Line 103: LIFT
+Line 104: ΚΕΝΟ ΑΝΕΛΚ.
+Line 105: LIFT
+Line 106: ΚΕΝΟ ΑΝΕΛΚ.
+Line 107: STAIR
+Line 108: ΚΕΝΟ ΑΠΟΛΗΞΗΣ
+Line 109: Opera
+Line 110: Λυρική Σκηνή Kενό
+Line 111: LIFT
+Line 112: ΚΕΝΟ ΑΝΕΛΚ.
+Line 113: LIFT
+Line 114: ΚΕΝΟ ΑΝΕΛΚ.
+Line 115: LIFT
+Line 116: ΚΕΝΟ ΑΝΕΛΚ.
+Line 117: LIFT
+Line 118: ΚΕΝΟ ΑΝΕΛΚ.
+Line 119: LIFT
+Line 120: ΚΕΝΟ ΑΝΕΛΚ.
+Line 121: LIFT
+Line 122: ΚΕΝΟ ΑΝΕΛΚ.
+Line 123: LIFT
+Line 124: ΚΕΝΟ ΑΝΕΛΚ.
+Line 125: LIFT
+Line 126: ΚΕΝΟ ΑΝΕΛΚ.
+Line 127: LIFT
+Line 128: ΚΕΝΟ ΑΝΕΛΚ.
+Line 129: LIFT
+Line 130: ΚΕΝΟ ΑΝΕΛΚ.
+Line 131: LIFT
+Line 132: ΚΕΝΟ ΑΝΕΛΚ.
+Line 133: LIFT
+Line 134: ΚΕΝΟ ΑΝΕΛΚ.
+Line 135: Library
+Line 136: Εθνική Βιβλιοθήκη Kενό
+Line 137: Opera
+Line 138: Λυρική Σκηνή Kενό
+Line 139: STAIR
+Line 140: ΚΕΝΟ ΑΠΟΛΗΞΗΣ
+Line 141: STAIR
+Line 142: ΚΕΝΟ ΑΠΟΛΗΞΗΣ
+Line 143: Opera
+Line 144: Λυρική Σκηνή Kενό
+Line 145: Kενό
+Line 146: Kενό
+Line 147: Opera
+Line 148: Λυρική Σκηνή Kενό
+Line 149: Library
+Line 150: Εθνική Βιβλιοθήκη Kενό
+Line 151: STAIR
+Line 152: ΚΕΝΟ ΑΠΟΛΗΞΗΣ
+Line 153: STAIR
+Line 154: ΚΕΝΟ ΑΠΟΛΗΞΗΣ
+Line 155: AGORA ΑΓΟΡΑ
+Line 156: AGORA ΑΓΟΡΑ
+Line 157: AGORA ΑΓΟΡΑ
+Line 158: AGORA ΑΓΟΡΑ
+Line 159: AGORA ΑΓΟΡΑ
+Line 160: AGORA ΑΓΟΡΑ
+Line 161: OPERA PLAN LEVEL
+Line 162: ΚΑΤΟΨΗ ΟΠΕΡΑΣ ΕΠΙΠΕΔΟ
+Line 163: Building
+Line 164: Underground
+Line 165: Υπολογισμός Δόμησης
+Line 166: Opera MEP
+Line 167: Λυρικής
+Line 168: Σκηνής
+Line 169: Outline Level
+Line 170: Περίγραμμα Επιπέδου
+Line 171: 40
+Line 172: 70
+Line 173: STAIR
+Line 174: ΚΕΝΟ ΑΠΟΛΗΞΗΣ
+Line 175: OPERA ΛΥΡΙΚΗ
+Line 176: AGORA ΑΓΟΡΑ
+Line 177: PARKING ΧΩΡΟΣ
+Line 178: ΣΤΑΘΜΕΥΣΗΣ
+Line 179: ΑΥΤΟΚΙΝΗΤΩΝ
+Line 180: LIBRARY ΕΘΝΙΚΗ
+Line 181: ΒΙΒΛΙΟΘΗΚΗ
+Line 182: Buffer Zone
+Line 183: Ζώνη Ανάσχεσης
+Line 184: STAIR
+Line 185: ΚΕΝΟ ΑΠΟΛΗΞΗΣ
+Line 186: STAIR
+Line 187: ΚΕΝΟ ΑΠΟΛΗΞΗΣ
+Line 188: STAIR
+Line 189: ΚΕΝΟ ΑΠΟΛΗΞΗΣ
+Line 190: PARKING ΧΩΡΟΣ
+Line 191: ΣΤΑΘΜΕΥΣΗΣ
+Line 192: ΑΥΤΟΚΙΝΗΤΩΝ
+Line 193: ΠΕΡΙΓΡΑΜΜΑ
+Line 194: ΚΑΛΥΨΗΣ
+Line 195: Building
+Line 196: Agora Level
+Line 197: Υπολογισμός Δόμησης Αγοράς
+Line 198: LIBRARY PLAN AGORA LEVEL
+Line 199: ΚΑΤΟΨΗ ΒΙΒΛΙΟΘΗΚΗΣ ΕΠΙΠΕΔΟ ΑΓΟΡΑΣ
+Line 200: OPERA PLAN AGORA LEVEL 00
+Line 201: ΚΑΤΟΨΗ ΟΠΕΡΑΣ ΕΠΙΠΕΔΟ ΑΓΟΡΑΣ 00
+Line 202: 40
+Line 203: 70
+Line 204: Opera MEP
+Line 205: Λυρικής
+Line 206: Σκηνής
+Line 207: Lift Above
+Line 208: Μηχανοστάσια
+Line 209: Aνελκυστήρων
+Line 210: Building
+Line 211: Underground
+Line 212: Υπολογισμός Δόμησης
+Line 213: OPERA PLAN LEVEL
+Line 214: ΚΑΤΟΨΗ ΟΠΕΡΑΣ ΕΠΙΠΕΔΟ
+Line 215: 40
+Line 216: 70
+Line 217: Sound
+Line 218: Ανελκυστήρας Θαλάμου
+Line 219: Orchestra MEP
+Line 220: Χώροι
+Line 221: Ορχήστρας
+Line 222: Stage MEP
+Line 223: Χώροι Σκηνής
+Line 224: Opera MEP
+Line 225: Χώροι Λυρικής
+Line 226: Σκηνής
+Line 227: Fondations
+Line 228: Θεμελίωση
+Line 229: Building
+Line 230: Underground
+Line 231: Υπολογισμός Δόμησης
+Line 232: Lift Above
+Line 233: Μηχανοστάσια
+Line 234: Aνελκυστήρων
+Line 235: Auxiliary
+Line 236: Βοηθητικοί Χώροι
+Line 237: Library MEP
+Line 238: Χώροι Εθνικής
+Line 239: Βιβλιοθήκης
+Line 240: Auxiliary
+Line 241: Βοηθητικοί Χώροι
+Line 242: Fondations
+Line 243: Θεμελίωση
+Line 244: 40
+Line 245: 70
+Line 246: Opera MEP
+Line 247: Χώροι Λυρικής
+Line 248: Σκηνής
+Line 249: Outline Level
+Line 250: Περίγραμμα Επιπέδου
+Line 251: OPERA PLAN LEVEL
+Line 252: ΚΑΤΟΨΗ ΟΠΕΡΑΣ ΕΠΙΠΕΔΟ
+Line 253: LIBRARY PLAN LEVEL
+Line 254: ΚΑΤΟΨΗ ΒΙΒΛΙΟΘΗΚΗΣ ΕΠΙΠΕΔΟ
+Line 255: ΚΛΙΜΑΚΑ 1000 SCALE 1000
+Line 256: ΚΛΙΜΑΚΑ 1000 SCALE 1000
+Line 257: ΚΛΙΜΑΚΑ 1000 SCALE 1000
+Line 258: ΚΛΙΜΑΚΑ 1000 SCALE 1000
+Line 259: ΚΛΙΜΑΚΑ 1000 SCALE 1000
+Line 260: ΚΛΙΜΑΚΑ 1000 SCALE 1000
+Line 261: ΚΛΙΜΑΚΑ 1000 SCALE 1000
+Line 262: ΚΛΙΜΑΚΑ 1000 SCALE 1000
+Line 263: ΚΛΙΜΑΚΑ 1000 SCALE 1000
+Line 264: 40
+Line 265: 70
+Line 266: 40
+Line 267: 70
+Line 268: 40
+Line 269: 70
+Line 270: 40
+Line 271: 70
+Line 272: 40
+Line 273: 70
+Line 274: BALCONY
+Line 275: EΞΩΣΤΗΣ
+Line 276: CANOPY
+Line 277: ΠΡΟΣΤΕΓΑΣΜΑ
+Line 278: CANOPY
+Line 279: ΠΡΟΣΤΕΓΑΣΜΑ
+Line 280: ΚΕΝΟ
+Line 281: Auxiliary
+Line 282: Βοηθητικοί Χώροι
+Line 283: Περίγραμμα
+Line 284: Περίγραμμα
+Line 285: Υπόγειος
+Line 286: Συντελεστή Δόμησης.
+Line 287: Περίγραμμα
+Line 288: Περίγραμμα
+Line 289: OPERA PLAN LEVEL 06
+Line 290: ΚΑΤΟΨΗ ΟΠΕΡΑΣ ΕΠΙΠΕΔΟ 06
+Line 291: OPERA PLAN LEVEL 07
+Line 292: ΚΑΤΟΨΗ ΟΠΕΡΑΣ ΕΠΙΠΕΔΟ 07
+Line 293: OPERA PLAN LEVEL 05
+Line 294: ΚΑΤΟΨΗ ΟΠΕΡΑΣ ΕΠΙΠΕΔΟ 05
+Line 295: Building
+Line 296: Sixth
+Line 297: Υπολογισμός Δόμησης
+Line 298: Building
+Line 299: Seventh
+Line 300: Υπολογισμός Δόμησης
+Line 301: KENO
+Line 302: Building
+Line 303: Fifth
+Line 304: Υπολογισμός Δόμησης
+Line 305: OPERA ΛΥΡΙΚΗ
+Line 306: OPERA ΛΥΡΙΚΗ
+Line 307: Opera
+Line 308: Λυρική Σκηνή Kενό
+Line 309: Library
+Line 310: Εθνική Βιβλιοθήκη Kενό
+Line 311: LIFT
+Line 312: ΚΕΝΟ ΑΝΕΛΚ.
+Line 313: Opera
+Line 314: Λυρική Σκηνή Kενό
+Line 315: LIFT
+Line 316: ΚΕΝΟ ΑΝΕΛΚ.
+Line 317: KENO
+Line 318: KENO
+Line 319: Opera
+Line 320: Λυρική Σκηνή Kενό
+Line 321: LIFT
+Line 322: ΚΕΝΟ ΑΝΕΛΚ.
+Line 323: AGORA ΑΓΟΡΑ
+Line 324: AGORA ΑΓΟΡΑ
+Line 325: AGORA ΑΓΟΡΑ
+Line 326: ΚΛΙΜΑΚΑ 1000 SCALE 1000
+Line 327: ΚΛΙΜΑΚΑ 1000 SCALE 1000
+Line 328: ΚΛΙΜΑΚΑ 1000 SCALE 1000
+Line 329: STAIR
+Line 330: ΚΕΝΟ
+Line 331: 40
+Line 332: 70
+Line 333: 40
+Line 334: 70
+Line 335: 40
+Line 336: 70
+Line 337: RPBW
+Line 338: RENZO PIANO BUILDING WORKSHOP
+Line 339: FACADE CONSULTANT
+Line 340: ΣΥΜΒΟΥΛΟΣ ΠΡΟΣΟΨΕΩΝ
+Line 341: FRONT
+Line 342: ACOUSTIC DESIGN
+Line 343: ΑΚΟΥΣΤΙΚΗ ΜΕΛΕΤΗ
+Line 344: ARUP Acoustics
+Line 345: THEATRE DESIGN CONSULTANT
+Line 346: ΣΥΜΒΟΥΛΟΣ ΘΕΑΤΡΙΚΟΥ ΣΧΕΔΙΑΣΜΟΥ
+Line 347: THEATRE PROJECTS CONSULTANTS
+Line 348: LIBRARY CONSULTANT
+Line 349: ΣΥΜΒΟΥΛΟΣ ΣΧΕΔΙΑΣΜΟΥ ΒΙΒΛΙΟΘΗΚΗΣ
+Line 350: LANDSCAPE DESIGN
+Line 351: ΜΕΛΕΤΗ ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΧΩΡΟΥ
+Line 352: DEBORAH NEVINS
+Line 353: Associates,
+Line 354: COLLABORATION
+Line 355: ΜΕΛΕΤΗΤΗΣ
+Line 356: HELLI PANGALOU
+Line 357: MEP ENGINEER
+Line 358: ΜΕΛΕΤΗ ΕΓΚΑΤΑΣΤΑΣΕΩΝ
+Line 359: ARUP
+Line 360: COLLABORATION
+Line 361: ΜΕΛΕΤΗΤΗΣ
+Line 362: LDK
+Line 363: STRUCTURAL ENGINEER
+Line 364: ΣΤΑΤΙΚΗ ΜΕΛΕΤΗ
+Line 365: EXPEDITION
+Line 366: COLLABORATION
+Line 367: ΜΕΛΕΤΗΤΗΣ
+Line 368: OMETE
+Line 369: EXECUTIVE ARCHITECT
+Line 370: ΑΡΧΙΤΕΚΤΟΝΑΣ
+Line 371: BETAPLAN
+Line 372: DESIGN ARCHITECT
+Line 373: ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΜΕΛΕΤΗ ΑΡΧΙΤΕΚΤΟΝΑΣ ΕΡΓΟΥ
+Line 374: TRAFFIC CONSULTANT
+Line 375: ΚΥΚΛΟΦΟΡΙΑΚΗ ΜΕΛΕΤΗ
+Line 376: DENCO
+Line 377: PROJECT MANAGER COST CONSULTANT
+Line 378: ΣΥΝΤΟΝΙΣΜΟΣ ΜΕΛΕΤΗΣ ΣΥΜΒΟΥΛΟΣ ΠΡΟΥΠΟΛΟΓΙΣΜΟΥ
+Line 379: FAITHFUL GOULD
+Line 380: Archives
+Line 381: 75004 Paris France
+Line 382: 44 4900
+Line 383: 42 78 0198
+Line 384: Aristodimou Street
+Line 385: Athens, GR 76 Greece
+Line 386: 72
+Line 387: 72
+Line 388: Regent Street, Morley House
+Line 389: London, UK
+Line 390: 44 1000
+Line 391: 44 1001
+Line 392: Asklipiou Street
+Line 393: Athens, GR 72 Greece
+Line 394: 30026
+Line 395: 44631
+Line 396: Fitzroy Street
+Line 397: London, UK
+Line 398: 44 755 2191
+Line 399: 44 755 3743
+Line 400: Thivaidos Street
+Line 401: Athens, GR Greece
+Line 402: 96700
+Line 403: 96709
+Line 404: Lafayette Street, Suite
+Line 405: York, NY 10012 USA
+Line 406: 1125
+Line 407: Skoufa Street
+Line 408: Athens, GR 72 Greece
+Line 409: 6219
+Line 410: 9225
+Line 411: Linton House
+Line 412: Highgate Road
+Line 413: London, UK
+Line 414: 44 7284 5888
+Line 415: Alexi
+Line 416: Elizabeth Street
+Line 417: South Norwalk, CT 06854 3025 USA
+Line 418: 0830
+Line 419: 0835
+Line 420: Americas
+Line 421: York, NY 10013 USA
+Line 422: 2669
+Line 423: 1056
+Line 424: Varick Street
+Line 425: York, NY 10014 USA
+Line 426: 2220
+Line 427: 2253
+Line 428: Kifisias
+Line 429: Athens, GR Greece
+Line 430: 54801
+Line 431: 54800
+Line 432: Paradisou Street
+Line 433: Athens, GR Greece
+Line 434: 15245
+Line 435: 11951
+Line 436: AMA Alexi Marmot Associates
+Line 437: IRRIGATION DESIGN
+Line 438: ΜΕΛΕΤΗ ΑΡΔΕΥΣΗΣ
+Line 439: SOTIRIOS MAVRAGANIS
+Line 440: 42 Vasileos Georgiou Street
+Line 441: Athens, GR Greece
+Line 442: REV.
+Line 443: STAVROS NIARCHOS FOUNDATION CULTURAL CENTER
+Line 444: PROJECT
+Line 445: KEY PLAN
+Line 446: ΕΡΓΟ
+Line 447: Vasilissis Sofias Avenue, Athens, Greece
+Line 448: 72 41311, 72 41312
+Line 449: ΚΛΕΙΔΑ ΣΧΕΔΙΟΥ
+Line 450: DRWG TITLE
+Line 451: ΤΙΤΛΟΣ ΣΧΕΔΙΟΥ
+Line 452: CONSULTANT STAMP
+Line 453: ΣΦΡΑΓΙΔΑ ΣΥΜΒΟΥΛΟΥ
+Line 454: SCALE
+Line 455: ΚΛΙΜΑΚΑ
+Line 456: REFERENCED DRAWING NUMBER
+Line 457: AUTHOR
+Line 458: ΣΥΝΤΑΚΤΗΣ
+Line 459: DISCIPLINE
+Line 460: ΚΑΤ. ΜΕΛΕΤΗΣ
+Line 461: ZONE
+Line 462: ΠΕΡΙΟΧΗ
+Line 463: DRWG TYPE
+Line 464: ΕΙΔΟΣ ΣΧΕΔΙΟΥ
+Line 465: REV.
+Line 466: ΑΝΑΘ.
+Line 467: QR CODE
+Line 468: FIRST ISSUE DATE
+Line 469: ΗΜΕΡ. ΕΚΔ.
+Line 470: DRAWN
+Line 471: CHECKED
+Line 472: APPROVED
+Line 473: DATE
+Line 474: DESCRIPTION
+Line 475: 00
+Line 476: PROJECT
+Line 477: ΕΡΓΟ
+Line 478: CONSULTANT SIGNATURE
+Line 479: ΥΠΟΓΡΑΦΗ ΣΥΜΒΟΥΛΟΥ
+Line 480: APPROVALS
+Line 481: ΘΕΩΡΗΣΕΙΣ
+Line 482: ΑΝΑΘΕΩΡΗΣΗ ΤΗΣ ΥΠ ΑΡΙΘΜ. 72 2017 ΑΔΕΙΑΣ ΔΟΜΗΣΗΣ ΜΕΤΑ ΤΗΣ 2017
+Line 483: ΑΝΑΘΕΩΡΗΣΗΣ ΑΥΤΗΣ ΛΟΓΩ ΚΑΤΑΣΚΕΥΗΣ ΑΝΟΙΧΤΟΥ ΓΗΠΕΔΟΥ ΠΟΛΛΑΠΛΩΝ
+Line 484: ΑΘΛΗΜΑΤΩΝ ΣΤΟ ΠΑΡΚΟ ΚΑΙ ΜΙΚΡΟΤΡΟΠΟΠΟΙΗΣΕΩΝ ΣΤΗ ΔΙΑΡΡΥΘΜΙΣΗ ΤΟΥ
+Line 485: ΚΥΛΙΚΕΙΟΥ ΤΟΥ ΠΑΡΚΟΥ.
+Line 486: Coverage Diagram
+Line 487: 03 2018
+Line 488: GENERAL DRAWING
+Line 489: RPBW 0041
+Line 490: 02
+Line 491: JVIT ARC
+Line 492: 00
+Line 493: 0041
+
+=== END OF FILTERED TEXT ===
+Total lines: 494

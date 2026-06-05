@@ -1,0 +1,229 @@
+=== FILTERED TEXT FOR: 4005-RES-VAP-DWG-234-DD-05000-C.pdf ===
+
+Line   0: AB
+Line   1: 02
+Line   2: 03
+Line   3: 04
+Line   4: 05
+Line   5: 06
+Line   6: 07
+Line   7: 08
+Line   8: 09
+Line   9: AC
+Line  10: AD
+Line  11: AE
+Line  12: AF
+Line  13: AG
+Line  14: AH
+Line  15: AI
+Line  16: AJ
+Line  17: AK
+Line  18: AL
+Line  19: AM
+Line  20: BA
+Line  21: BB
+Line  22: BC
+Line  23: BD
+Line  24: BE
+Line  25: BF
+Line  26: BG
+Line  27: BH
+Line  28: BI
+Line  29: BJ
+Line  30: BK
+Line  31: BL
+Line  32: BM
+Line  33: BN
+Line  34: C
+Line  35: 04002
+Line  36: 04003
+Line  37: 04004
+Line  38: VENTILATION
+Line  39: Μηχανοστάσιο
+Line  40: DROP SLAB AREA
+Line  41: CLEAR ROOM HEIGHT
+Line  42: FFL
+Line  43: POOL TANK. CLEAR AREA
+Line  44: HEIGHT FFL
+Line  45: CONCRETE BEAM
+Line  46: PROJECTION
+Line  47: CONCRETE BEAM
+Line  48: PROJECTION
+Line  49: TREE PLANTER
+Line  50: CONCRETE BEAM
+Line  51: PROJECTION
+Line  52: VENTILATION
+Line  53: Μηχανοστάσιο
+Line  54: FIREFIGHTING
+Line  55: Μηχανοστάσιο
+Line  56: PARKING
+Line  57: Χώρος
+Line  58: PARKING
+Line  59: Χώρος
+Line  60: FF TANK
+Line  61: Δεξαμενή
+Line  62: FF TANK
+Line  63: Δεξαμενή
+Line  64: POTABLE WATER TANKS
+Line  65: Δεξαμενές
+Line  66: WATER SUPPLY
+Line  67: TANKS
+Line  68: Αντλιοστάσιο
+Line  69: IRRIGATION TANKS
+Line  70: Δεξαμενή
+Line  71: PARKING
+Line  72: Χώρος
+Line  73: AMENITIES
+Line  74: Μηχανοστάσιο
+Line  75: PARKING
+Line  76: Χώρος
+Line  77: FF LOBBY
+Line  78: Ανελκυστήρα
+Line  79: LOBBY
+Line  80: LOBBY
+Line  81: Κλιμακοστάσιο
+Line  82: LOBBY C
+Line  83: Κλιμακοστάσιο C
+Line  84: LOBBY
+Line  85: Κλιμακοστάσιο
+Line  86: FF LOBBY
+Line  87: Ανελκυστήρα
+Line  88: LOBBY
+Line  89: Κλιμακοστάσιο
+Line  90: FF LOBBY
+Line  91: Ανελκυστήρα
+Line  92: RELOCATION
+Line  93: PENDING COORDINATION
+Line  94: HEM
+Line  95: CEILING TYPES LEGEND
+Line  96: BASEMENT AREAS
+Line  97: TYPE
+Line  98: DESCRIPTION
+Line  99: EXPOSED SOFFIT FINISH ECOLOGICAL MINERAL PAINT
+Line 100: LIGHTING FIXTURE LEGEND
+Line 101: 1155
+Line 102: 1200
+Line 103: Ceiling LED
+Line 104: Ceiling
+Line 105: Ceiling
+Line 106: Wall
+Line 107: TYPE
+Line 108: CF 02
+Line 109: DESCRIPTION
+Line 110: WOODEN LAMELLAS
+Line 111: CORES LOBBIES
+Line 112: TYPE
+Line 113: CF 04
+Line 114: DESCRIPTION
+Line 115: WHITE PAINT
+Line 116: AMENITIES CHANGING ROOMS WC
+Line 117: TYPE
+Line 118: CF 07
+Line 119: DESCRIPTION
+Line 120: ANODIZED ALUMINIUM TUBES
+Line 121: AMENITIES POOL AREA
+Line 122: Final
+Line 123: 40
+Line 124: ΓΕΝΙΚΕΣ ΣΗΜΕΙΩΣΕΙΣ GENERAL NOTES
+Line 125: ΕΓΓΡΑΦΑ ΑΝΑΦΟΡΑΣ DOCUMENT REFERENCE
+Line 126: ΤΙΤΛΟΣ ΣΧΕΔΙΟΥ DRAWING TITLE
+Line 127: ΚΩΔΙΚΟΣ ΕΓΓΡΑΦΟΥ ΣΧΕΔΙΟΥ DOCUMENT DRAWING CODIFICATION
+Line 128: Project
+Line 129: Originator
+Line 130: Type
+Line 131: Discipline
+Line 132: Stage
+Line 133: Serial Number
+Line 134: Revision
+Line 135: ΚΛΙΜΑΚΑ SCALE
+Line 136: ΔΙΑΤΑΞΗ LAYOUT
+Line 137: REV.
+Line 138: DATE
+Line 139: ISSUE
+Line 140: DESCRIPTION UPDATE VERSION
+Line 141: ORIGINATED
+Line 142: CHECKED
+Line 143: VERIFIED
+Line 144: LEAD DESIGNER
+Line 145: APPROVED
+Line 146: PMC
+Line 147: STATUS
+Line 148: ΣΥΜΒΟΥΛΟΣ ΔΙΑΧΕΙΡΙΣΗΣ ΕΡΓΟΥ
+Line 149: PROJECT MANAGEMENT CONSULTANT
+Line 150: ΣΤΟΙΧΕΙΑ ΣΥΜΒΟΥΛΟΥ ΔΙΑΧΕΙΡΙΣΗΣ ΕΡΓΟΥ
+Line 151: PROJECT MANAGEMENT CONSULTANT DETAILS
+Line 152: ΚΥΡΙΟΣ ΜΕΛΕΤΗΤΗΣ LEAD DESIGNER
+Line 153: ΣΤΟΙΧΕΙΑ ΜΕΛΕΤΗΤΗ LOCAL ARCHITECT
+Line 154: SUBCONSULTANT STRUCTURE
+Line 155: ΕΡΓΟΔΟΤΗΣ EMPLOYER
+Line 156: ΣΤΟΙΧΕΙΑ ΕΡΓΟΔΟΤΗ EMPLOYER DETAILS
+Line 157: ΑΝΑΠΤΥΞΗ ΤΟΥ ΜΗΤΡΟΠΟΛΙΤΙΚΟΥ ΠΟΛΟΥ ΕΛΛΗΝΙΚΟΥ ΑΓIOY ΚΟΣΜΑ
+Line 158: DEVELOPMENT METROPOLITAN POLE HELLINIKON AG. KOSMAS
+Line 159: ΕΡΓΟ PROJECT
+Line 160: ΕΛΛΗΝΙΚΟ HELLINIKON
+Line 161: Kifisias Avenue Golden Hall
+Line 162: 15123 Marousi
+Line 163: Σημείωση Πνευματικών Δικαιωμάτων. 2121 1993
+Line 164: ΕΛΛΗΝΙΚΟ
+Line 165: Ρήτρα Περιορισμού Ευθύνης.
+Line 166: ΕΛΛΗΝΙΚΟ
+Line 167: ΝΑ ΜΗΝ ΑΛΛΑΧΘΕΙ ΚΛΙΜΑΚΑ ΤΟΥ ΣΧΕΔΙΟΥ.
+Line 168: Copyright Notice. 2121 1993
+Line 169: HELLINIKON
+Line 170: Disclaimer. HELLINIKON
+Line 171: CHANGE SCALE DRAWING.
+Line 172: BIG.
+Line 173: BIG
+Line 174: Preliminary Design
+Line 175: SUBCONSULTANT MEP
+Line 176: SUBCONSULTANT LANDSCAPE
+Line 177: SUBCONSULTANT TRAFFIC
+Line 178: SUBCONSULTANT LIGHTING
+Line 179: SUBCONSULTANT ACOUSTICS
+Line 180: SUBCONSULTANT SUSTAINABILITY
+Line 181: SUBCONSULTANT SIGNAGE
+Line 182: Όλες
+Line 183: BIG.
+Line 184: BIG
+Line 185: Όλες
+Line 186: Preliminary Design
+Line 187: URBAN ZONE
+Line 188: ARCHITECTURAL DESIGN Permit Design
+Line 189: ΑΡΧΙΤΕΚΤΟΝΙΚΟΣ ΣΧΕΔΙΑΣΜΟΣ Οριστική Μελέτη
+Line 190: MODEL MDD 234 DD 0001
+Line 191: BJARKE INGELS GROUP BIG
+Line 192: AVINGUDA DA LES DRASSANES
+Line 193: 08001 BARCELON, SPAIN
+Line 194: HELLINIKON
+Line 195: C
+Line 196: High Rise Residential Development
+Line 197: BASEMENT DESIGN REFLECTED CEILING PLAN LEVEL
+Line 198: RES
+Line 199: VAP
+Line 200: DWG
+Line 201: 234
+Line 202: DD
+Line 203: 05000
+Line 204: 4005
+Line 205: High Rise Residential Development
+Line 206: ΑΝΟΨΗ ΣΧΕΔΙΟ LEV 02
+Line 207: ΦΥΛΛΟ SHEET 05000
+Line 208: 06 2023
+Line 209: First Approval
+Line 210: VAP
+Line 211: VAP
+Line 212: BIG
+Line 213: 04 08 2023
+Line 214: Second Approval
+Line 215: VAP
+Line 216: VAP
+Line 217: BIG
+Line 218: C
+Line 219: 09 2023
+Line 220: Third Approval
+Line 221: VAP
+Line 222: VAP
+Line 223: BIG
+
+=== END OF FILTERED TEXT ===
+Total lines: 224

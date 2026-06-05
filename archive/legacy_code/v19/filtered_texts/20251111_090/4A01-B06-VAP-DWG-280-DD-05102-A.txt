@@ -1,0 +1,100 @@
+=== FILTERED TEXT FOR: 4A01-B06-VAP-DWG-280-DD-05102-A.pdf ===
+
+Line   0: ΦΥΤΕΥΣΗ
+Line   1: ΦΥΤΕΥΣΗ
+Line   2: ΦΥΤΕΥΣΗ
+Line   3: ΦΥΤΕΥΣΗ
+Line   4: ΦΥΤΕΥΣΗ
+Line   5: ΦΥΤΕΥΣΗ
+Line   6: ΦΥΤΕΥΣΗ
+Line   7: ΦΥΤΕΥΣΗ
+Line   8: ΦΥΤΕΥΣΗ
+Line   9: ΦΥΤΕΥΣΗ
+Line  10: ΠΦ
+Line  11: ΠΣ A
+Line  12: ΠΦ ΠΣ
+Line  13: ΠΦ
+Line  14: ΠΣ A
+Line  15: ΠΦ
+Line  16: ΠΦ
+Line  17: ΠΣ A
+Line  18: ΠΦ
+Line  19: ΠΦ
+Line  20: ΠΦ
+Line  21: ΠΦ
+Line  22: ΠΣ A
+Line  23: ΠΦ
+Line  24: ΠΦ
+Line  25: ΠΦ ΠΣ
+Line  26: 74
+Line  27: AUTO
+Line  28: Λήκος
+Line  29: Σημείωση Πνευματικών Δικαιωμάτων. 2121 1993
+Line  30: ΕΛΛΗΝΙΚΟ
+Line  31: Ρήτρα Περιορισμού Ευθύνης. ΚΑΣ. ΕΛΛΗΝΙΚΟ
+Line  32: ΝΑ ΜΗΝ ΑΛΛΑΧΘΕΙ ΚΛΙΜΑΚΑ ΤΟΥ ΣΧΕΔΙΟΥ.
+Line  33: Copyright Notice. 2121 1993
+Line  34: HELLINIKON
+Line  35: Disclaimer. CENTRAL ARCHAELOGICAL COUNCIL. HELLINIKON
+Line  36: CHANGE SCALE DRAWING.
+Line  37: 03
+Line  38: PROJECT MANAGEMENT CONSULTANT
+Line  39: Project
+Line  40: Originator
+Line  41: Type
+Line  42: Discipline
+Line  43: Stage
+Line  44: Serial Number
+Line  45: Revision
+Line  46: REV.
+Line  47: DATE
+Line  48: ISSUE
+Line  49: DESCRIPTION UPDATE VERSION
+Line  50: ORIGINATED
+Line  51: CHECKED
+Line  52: VERIFIED
+Line  53: LEAD DESIGNER
+Line  54: APPROVED
+Line  55: PMC
+Line  56: STATUS
+Line  57: ΑΝΑΠΤΥΞΗ ΤΟΥ ΜΗΤΡΟΠΟΛΙΤΙΚΟΥ ΠΟΛΟΥ ΕΛΛΗΝΙΚΟΥ ΑΓIOY ΚΟΣΜΑ
+Line  58: DEVELOPMENT METROPOLITAN POLE HELLINIKON AG. KOSMAS
+Line  59: 03
+Line  60: ΕΛΛΗΝΙΚΟ HELLINIKON
+Line  61: Kifisias Avenue Golden Hall
+Line  62: 15123 Marousi
+Line  63: PROJECT MANAGEMENT CONSULTANT DETAILS
+Line  64: SUBCONSULTANT DISCIPLINE
+Line  65: SUBCONSULTANT DISCIPLINE
+Line  66: SUBCONSULTANT DISCIPLINE
+Line  67: SUBCONSULTANT DISCIPLINE
+Line  68: MODEL
+Line  69: HELLINIKON
+Line  70: ΕΣΩΤΕΡΙΚΕΣ ΔΙΑΡΡΥΘΜΙΣΕΙΣ, ΔΙΑΜΟΡΦΩΣΗ ΟΨΕΩΝ ΚΑΙ ΑΛΛΑΓΗ ΧΡΗΣΗΣ
+Line  71: ΔΙΑΤΗΡΟΥΜΕΝΟΥ ΚΤΗΡΙΟΥ ΤΗΣ ΚΤΗΡΙΑΚΗΣ ΕΝΟΤΗΤΑΣ
+Line  72: ΤΟΥ ΜΗΤΡΟΠΟΛΙΤΙΚΟΥ ΠΑΡΚΟΥ ΠΡΑΣΙΝΟΥ ΚΑΙ ΑΝΑΨΥΧΗΣ
+Line  73: ΤΟΥ ΜΗΤΡΟΠΟΛΙΤΙΚΟΥ ΠΟΛΟΥ ΕΛΛΗΝΙΚΟΥ ΑΓ. ΚΟΣΜΑ
+Line  74: ΠΡΩΗΝ ΚΤΗΡΙΟΥ ΚΑΝΟΕ ΚΑΓΙΑΚ
+Line  75: ΠΑΘΗΤΙΚΗ ΠΥΡΟΠΡΟΣΤΑΣΙΑ
+Line  76: 4A01
+Line  77: B06
+Line  78: VAP
+Line  79: 280
+Line  80: DD
+Line  81: DWG
+Line  82: EXT
+Line  83: A
+Line  84: 05102
+Line  85: A
+Line  86: First Issuance Approval
+Line  87: VAP
+Line  88: A
+Line  89: VAP
+Line  90: VAP
+Line  91: ΚΑΤΟΨΗ ΙΣΟΓΕΙΟΥ
+Line  92: EXIT
+Line  93: AUTO
+Line  94: A
+
+=== END OF FILTERED TEXT ===
+Total lines: 95

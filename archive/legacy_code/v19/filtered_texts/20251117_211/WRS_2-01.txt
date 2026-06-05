@@ -1,0 +1,218 @@
+=== FILTERED TEXT FOR: WRS_2-01.pdf ===
+
+Line   0: Main Entrance
+Line   1: Reception Desk
+Line   2: Ground Floor Area 763
+Line   3: Total Area 1505
+Line   4: CMC CMC
+Line   5: Contracts Claims
+Line   6: Manager
+Line   7: Contracts
+Line   8: Commercial
+Line   9: Engineer
+Line  10: CMC CMC
+Line  11: Contracts Director
+Line  12: Contracts
+Line  13: Commercial
+Line  14: Engineer
+Line  15: CONFERENCE
+Line  16: EM EM
+Line  17: Engineering
+Line  18: Manager Utilities
+Line  19: Manager
+Line  20: CS CS
+Line  21: Construction
+Line  22: Director Associate
+Line  23: Engineer
+Line  24: Construction
+Line  25: PMC PMC
+Line  26: Leader
+Line  27: MEP MNGMT
+Line  28: WP
+Line  29: Manager WP
+Line  30: Manager
+Line  31: MEP Utilities
+Line  32: Manager Site
+Line  33: Engineer
+Line  34: PM AD PMC
+Line  35: COORD. Deputy
+Line  36: PMC Director
+Line  37: Administration
+Line  38: Assistant PMC
+Line  39: Coordinator
+Line  40: PCS PCS
+Line  41: PCS Project
+Line  42: Controls Risk
+Line  43: Manager Project
+Line  44: Controls Engineer
+Line  45: Scheduler
+Line  46: PCS Manager
+Line  47: COPY
+Line  48: CP CP Senior
+Line  49: Cost Manager
+Line  50: Cost Engineer
+Line  51: EM EM QC
+Line  52: QC Structural
+Line  53: Manager Roads
+Line  54: Pavements
+Line  55: Manager QA QC
+Line  56: Manager QA QC
+Line  57: Engineer
+Line  58: CDE CDE
+Line  59: CDE CDE
+Line  60: Platform
+Line  61: Document Control
+Line  62: Manager CDE
+Line  63: Platform Specialist
+Line  64: LUNCH
+Line  65: LS LS
+Line  66: Landscape
+Line  67: Manager
+Line  68: Landscape
+Line  69: Architects
+Line  70: Supervisors
+Line  71: HSE HSE
+Line  72: HSE HSE HSE
+Line  73: Manager HSE
+Line  74: Inspector HSE
+Line  75: Inspector HSE
+Line  76: Inspector
+Line  77: SUR
+Line  78: SUR Site
+Line  79: Engineer Site
+Line  80: Engineer Site
+Line  81: Engineer
+Line  82: Construction
+Line  83: Surveyor
+Line  84: Construction
+Line  85: Surveyor
+Line  86: EM EM EM
+Line  87: Marine Works
+Line  88: Manager
+Line  89: Engineer Associate
+Line  90: SECURITY
+Line  91: LTA LTA
+Line  92: LTA LTA
+Line  93: SERVER
+Line  94: IE IE IE
+Line  95: IE IE Staff
+Line  96: IE IE IE
+Line  97: IE IE Staff
+Line  98: IE IE IE Staff
+Line  99: IE IE IE
+Line 100: IE IE Staff
+Line 101: IE IE Staff
+Line 102: WC A1
+Line 103: WC AMEA
+Line 104: WC
+Line 105: WC
+Line 106: ΑΝΑΒΑΤΟΡΙΟ ΑΜΕΑ
+Line 107: WC
+Line 108: Ταχυθερμαντήρας
+Line 109: Ταχυθερμαντήρας
+Line 110: ΥΔΡΟΜΕΤΡΗΤΗΣ ΕΝΤΟΣ
+Line 111: ΣΥΝΔΕΣΗ ΜΕ ΔΙΚΤΥΟ
+Line 112: ΥΔΡΕΥΣΗΣ
+Line 113: ΑΝΑΜΟΝΗ ΣΥΝΔΕΣΗΣ
+Line 114: ΔΙΚΤΥΟΥ ΠΥΡΟΣΒΕΣΗΣ
+Line 115: ΑΝΑΜΟΝΗ ΣΥΝΔΕΣΗΣ
+Line 116: ΔΙΚΤΥΟΥ ΠΥΡΟΣΒΕΣΗΣ
+Line 117: ΑΝΑΜΟΝΗ ΣΥΝΔΕΣΗΣ
+Line 118: ΔΙΚΤΥΟΥ ΠΥΡΟΣΒΕΣΗΣ
+Line 119: ΑΝΑΜΟΝΗ ΣΥΝΔΕΣΗΣ
+Line 120: ΔΙΚΤΥΟΥ ΠΥΡΟΣΒΕΣΗΣ
+Line 121: Ταχυθερμαντήρας
+Line 122: Φρεάτιο
+Line 123: Βανών
+Line 124: Ύδρευσης
+Line 125: ΟΔΕΥΣΗ ΣΤΗΝ ΟΡΟΦΗ
+Line 126: ΟΔΕΥΣΗ ΣΤΗΝ ΟΡΟΦΗ
+Line 127: ΚΛΙΜΑΚΑ
+Line 128: SCALE
+Line 129: ΣΧΕΔΙΟ
+Line 130: ΗΜΕΡΟΜΗΝΙΑ ΕΚΔΟΣΗΣ
+Line 131: FIRST ISSUE DATE
+Line 132: ΣΦΡΑΓΙΔΑ
+Line 133: ΠΕΡΙΟΧΗ
+Line 134: ZONE
+Line 135: ISSUED
+Line 136: CONSTRUCTION
+Line 137: APPROVAL
+Line 138: TENDER
+Line 139: STATUS
+Line 140: DRAFT
+Line 141: FINAL
+Line 142: ΚΑΤ. ΜΕΛΕΤΗΣ
+Line 143: DISCIPLINE
+Line 144: ΑΝΑΘ.
+Line 145: REV.
+Line 146: DRAWING
+Line 147: LAYOYT LEGEND
+Line 148: ΥΠΟΜΝΗΜΑ ΠΙΝΑΚΙΔΟΠΟΙΗΣΗΣ
+Line 149: ΑΝΑΠΤΥΞΗ ΜΗΤΡΟΠΟΛΙΤΙΚΟΥ ΠΟΛΟΥ
+Line 150: ΕΛΛΗΝΙΚΟΥ ΚΟΣΜΑ
+Line 151: HELLINIKON DEVELOPMENT PROJECT
+Line 152: ΕΡΓΟ
+Line 153: PROJECT
+Line 154: ΕΡΓΟΤΑΞΙΑΚΑ ΓΡΑΦΕΙΑ ΕΛΛΗΝΙΚΟ
+Line 155: ELLINIKON SITE OFFICES
+Line 156: ΕΡΓΟΔΟΤΗΣ
+Line 157: CLIENT
+Line 158: PROJECT CONSULTANT
+Line 159: ΣΥΜΒΟΥΛΟΣ ΕΡΓΟΥ
+Line 160: ΜΕΛΕΤΗ
+Line 161: DESIGN
+Line 162: STAMP
+Line 163: ΕΛΛΗΝΙΚΟ
+Line 164: ELLINIKON
+Line 165: 00
+Line 166: ΚΑΤΟΨΗ
+Line 167: 04
+Line 168: WRS
+Line 169: 01
+Line 170: ΓΡΑΦΕΙΑ ΔΙΟΙΚΗΣΗΣ
+Line 171: ΕΠΙΒΛΕΨΗΣ
+Line 172: GROUND FLOOR
+Line 173: ADMINISTRATION
+Line 174: SUPERVISION
+Line 175: OFFICES
+Line 176: ΥΔΡΕΥΣΗΣ
+Line 177: WATER SUPPLY
+Line 178: SO
+Line 179: ΑΝΑΘΕΩΡΗΣΕΙΣ
+Line 180: ΠΕΡΙΓΡΑΦΗ DESCRIPTION
+Line 181: ΗΜ ΝΙΑ DATE
+Line 182: 00
+Line 183: Site Offices
+Line 184: 04 2023
+Line 185: PP 75
+Line 186: PP
+Line 187: PP
+Line 188: PP
+Line 189: PP
+Line 190: PP 40
+Line 191: DN
+Line 192: 40
+Line 193: Αντιστοιχία
+Line 194: Ύδρευσης
+Line 195: PP
+Line 196: PP
+Line 197: PP
+Line 198: ΚΡΟΥΝΟΣ ΣΥΝΔΕΣΗ ΛΕΚΑΝΗΣ
+Line 199: ΑΝΑΜΙΚΤΗΡΑΣ ΜΠΑΤΑΡΙΑ ΕΙΔΟΥΣ ΥΓΙΕΙΝΗΣ
+Line 200: BALL VALVE ΣΤΡΟΦΗΣ
+Line 201: ΔΙΚΤΥΟ ΖΕΣΤΟΥ ΝΕΡΟΥ ΧΡΗΣΗΣ
+Line 202: ΔΙΚΤΥΟ ΚΡΥΟΥ ΝΕΡΟΥ ΧΡΗΣΗΣ
+Line 203: ΟΙ ΚΕΝΤΡΙΚΕΣ ΣΩΛΗΝΩΣΕΙΣ ΘΑ ΕΙΝΑΙ PP
+Line 204: Ύδρευση
+Line 205: ΥΠΟΜΝΗΜΑ ΣΥΜΒΟΛΩΝ
+Line 206: ΥΠΟΜΝΗΜΑ ΓΡΑΜΜΩΝ
+Line 207: ΣΗΜΕΙΩΣΕΙΣ
+Line 208: ΒΑΝΑ ΑΝΤΕΠΙΣΤΡΟΦΗΣ
+Line 209: ΥΔΡΟΜΕΤΡΗΤΗΣ
+Line 210: ΣΗΜΕΙΟ ΥΔΡΟΛΗΨΙΑΣ
+Line 211: ΟΙ ΣΩΛΗΝΩΣΕΙΣ ΕΝΤΟΣ ΕΔΑΦΟΥΣ ΘΑ ΕΙΝΑΙ PP
+Line 212: ΤΑΧΥΘΕΡΜΑΝΤΗΡΑΣ
+
+=== END OF FILTERED TEXT ===
+Total lines: 213

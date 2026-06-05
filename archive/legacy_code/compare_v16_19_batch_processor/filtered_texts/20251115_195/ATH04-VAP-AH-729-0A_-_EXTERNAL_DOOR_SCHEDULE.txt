@@ -1,0 +1,955 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-729-0A_-_EXTERNAL_DOOR_SCHEDULE.pdf ===
+
+Line   0: KEY ABBREVIATIONS
+Line   1: Door Type
+Line   2: Single
+Line   3: Double
+Line   4: Half Leaf
+Line   5: Roller Shutter
+Line   6: Fire Rating
+Line   7: NFR Fire Rated
+Line   8: Access System
+Line   9: ACS Access Control
+Line  10: MON Monitored
+Line  11: Access Contol
+Line  12: CIRI Biometric Iris Reader
+Line  13: CRI Card Reader
+Line  14: CRO Card Reader
+Line  15: RXO Request Exit
+Line  16: EEO Emergency Exit Only
+Line  17: Others Security
+Line  18: Hinges
+Line  19: SSS Satin Stainless Steel
+Line  20: FBE Fusion Bonded Epoxy Power Coating
+Line  21: NOTE
+Line  22: SECONDARY SUPPORT DOORS
+Line  23: PROVIDED REQUIRED. NEED DESIGN
+Line  24: SUCH SUPPORT DETERMINED CONTRACTOR
+Line  25: BASED DOOR WEIGHT, SIZE, INSTALLATION
+Line  26: REQUIREMENTS. SUPPORT STRUCTURES COMPLY
+Line  27: APPLICABLE BUILDING STANDARDS REGULATIONS.
+Line  28: DOOR SCHEDULE READ CONJUNCTION FIRE
+Line  29: STRATEGY, SECURITY, ACOUSTIC INFORMATION DRAWINGS
+Line  30: ADDITION CSA SPECIFICATION IRONMONGERY
+Line  31: SCHEDULE. DISCREPANCIES RAISED
+Line  32: MATTER URGENCY.
+Line  33: SECURITY PARAMETERS ACCESS CONTROL, CONTROL TYPE,
+Line  34: DEVICE TYPE DETERMINED READ
+Line  35: CONJUNCTION SECURITY PLANS
+Line  36: FIRE PARAMETERS FIRE RATING MINUTES SMOKE
+Line  37: SEAL DETERMINED FIRE COMPARTMENTATION READ
+Line  38: CONJUNCTION FIRE STRATEGY PLANS
+Line  39: ACOUSTIC RATING DB READ CONJUNCTION
+Line  40: ACOUSTIC PLANS
+Line  41: NOTE DOORS REVIEW
+Line  42: ADMIN
+Line  43: COLO
+Line  44: COLO 2
+Line  45: 2
+Line  46: 4
+Line  47: 2
+Line  48: 4
+Line  49: TRUE NORTH
+Line  50: Sheet Title Number
+Line  51: Scale
+Line  52: Plan
+Line  53: Design Consultants
+Line  54: Microsoft
+Line  55: DATA CENTER
+Line  56: SPATA GREECE
+Line  57: Contractor Joint Venture
+Line  58: Name
+Line  59: Contractor Project
+Line  60: Contractor Contract
+Line  61: Contractor PM
+Line  62: Contractor BIM Mngr
+Line  63: Contractor Information
+Line  64: Renco Terna
+Line  65: Client
+Line  66: General Notes
+Line  67: Client Project
+Line  68: Client Contract
+Line  69: Client PM
+Line  70: Client BIM Mngr
+Line  71: Primary Client Information
+Line  72: Layout
+Line  73: Revision
+Line  74: Tombazi Chalandri
+Line  75: 15232
+Line  76: Athens Greece
+Line  77: 0800 3262
+Line  78: Agion Theodoron Square Athens
+Line  79: 10561
+Line  80: Athens Greece
+Line  81: Kimithois Agios Dimitrios
+Line  82: 17236
+Line  83: Athens Greece
+Line  84: Purpose Issue
+Line  85: Issue
+Line  86: Name
+Line  87: EXTERNAL DOOR SCHEDULE
+Line  88: VAP AH 729
+Line  89: Exterior Door Schedule Revised
+Line  90: Mark
+Line  91: Type
+Line  92: Mark Room Name
+Line  93: Door Type
+Line  94: Clear Opening
+Line  95: Structural
+Line  96: Opening
+Line  97: Door
+Line  98: Frame Material
+Line  99: Door
+Line 100: Panel
+Line 101: Material
+Line 102: Door Frame Thickness
+Line 103: Door Leaf Thickness
+Line 104: Ironmongery Sets
+Line 105: Review
+Line 106: Secondary Steel Support
+Line 107: Performance
+Line 108: Detail
+Line 109: RC Rating
+Line 110: Security Details
+Line 111: Corrosion Resistance
+Line 112: Accessibilty Requirement
+Line 113: Threshold Strip
+Line 114: Vision Panel Type
+Line 115: Basic Hardware Items
+Line 116: Specs
+Line 117: Comment
+Line 118: Width
+Line 119: Height
+Line 120: Rough
+Line 121: Width
+Line 122: Rough
+Line 123: Height
+Line 124: Fire
+Line 125: Rating
+Line 126: Acoustic
+Line 127: Rating
+Line 128: System
+Line 129: Access Control
+Line 130: Control Type
+Line 131: Door Contact
+Line 132: Lock Type
+Line 133: Emergency Door Release
+Line 134: Accessibilty
+Line 135: Requirement
+Line 136: CS AHJ
+Line 137: Accessibility
+Line 138: Opening
+Line 139: Force
+Line 140: Accessibility
+Line 141: Power Assist
+Line 142: Function
+Line 143: Lever Handle
+Line 144: Pull Handle
+Line 145: Push
+Line 146: Kick Plate
+Line 147: Astragal
+Line 148: Seal
+Line 149: Dropdown Seal
+Line 150: Hinges
+Line 151: Gril
+Line 152: Closer
+Line 153: Power Door Closer
+Line 154: Power Door Opener
+Line 155: WC Indicator
+Line 156: CSI Number
+Line 157: CSI Short Title
+Line 158: AD 001 ENTRANCE LOBBY
+Line 159: 2150
+Line 160: 2375
+Line 161: 2180
+Line 162: 2450
+Line 163: ALUMINIUM
+Line 164: GLASS
+Line 165: 45
+Line 166: SET 01 XX AC
+Line 167: CDP
+Line 168: NFR
+Line 169: ELECTRIC LOCK
+Line 170: SET ACTIVE LEAF
+Line 171: TAMPER PROOF
+Line 172: SWING OPERATOR
+Line 173: SWING OPERATOR
+Line 174: GLAZED DOORS
+Line 175: AD 002 FACILITY OFFICE
+Line 176: 1070
+Line 177: 2400
+Line 178: 1100
+Line 179: 2375
+Line 180: ALUMINIUM
+Line 181: GLASS
+Line 182: 45
+Line 183: SET XX XX
+Line 184: CDP
+Line 185: NFR
+Line 186: MON
+Line 187: MEC
+Line 188: STOREROOM, EEO
+Line 189: TAMPER PROOF
+Line 190: GLAZED DOORS
+Line 191: AD 003 BREAK ROOM
+Line 192: 1070
+Line 193: 2400
+Line 194: 1100
+Line 195: 2375
+Line 196: ALUMINIUM
+Line 197: GLASS
+Line 198: 45
+Line 199: SET 01 XX AC
+Line 200: CDP
+Line 201: NFR
+Line 202: ACS
+Line 203: CRI CRO
+Line 204: INSTITUTIONAL
+Line 205: TAMPER PROOF
+Line 206: GLAZED DOORS
+Line 207: Fail Safe, Glass Break
+Line 208: Unit
+Line 209: AD 004 FIRE ESCAPE CORRIDOR
+Line 210: 1000
+Line 211: 2400
+Line 212: 1230
+Line 213: 2465
+Line 214: 49
+Line 215: SET XX FE
+Line 216: CDP
+Line 217: NFR
+Line 218: MON
+Line 219: MEC
+Line 220: STOREROOM EEO
+Line 221: TAMPER PROOF
+Line 222: METAL DOORS
+Line 223: AD 005 LOADING DOCK
+Line 224: 2460
+Line 225: 3025
+Line 226: 2550
+Line 227: 3710
+Line 228: CDP
+Line 229: NFR
+Line 230: ACS
+Line 231: CRO
+Line 232: HASP STAPLE
+Line 233: PADLOCKS
+Line 234: MOTOR MANUAL
+Line 235: MOTOR MANUAL
+Line 236: MOTOR MANUAL
+Line 237: ROLLER SHUTTER SECTIONAL
+Line 238: OVERHEAD DOORS
+Line 239: LED Status Indicator, Manual Control Override
+Line 240: Chains Secured Hasp Staple
+Line 241: Padlocks
+Line 242: AD 006 LOADING DOCK
+Line 243: 1000
+Line 244: 2400
+Line 245: 1230
+Line 246: 2465
+Line 247: 49
+Line 248: SET XX AC
+Line 249: CDP
+Line 250: NFR
+Line 251: ACS
+Line 252: CRI CRO
+Line 253: INSTITUTIONAL
+Line 254: TAMPER PROOF
+Line 255: METAL DOORS
+Line 256: EPED, Secondary Fail Safe, Peep
+Line 257: Hole
+Line 258: AD 009 ADMIN SPRINKLER RISER
+Line 259: 1000
+Line 260: 2400
+Line 261: 1230
+Line 262: 2465
+Line 263: 49
+Line 264: SET XX XX
+Line 265: CDP
+Line 266: NFR
+Line 267: ACS
+Line 268: CRI RXO
+Line 269: CLASSROOM
+Line 270: TAMPER PROOF
+Line 271: METAL DOORS
+Line 272: AD 010 LOADING DOCK
+Line 273: 2820
+Line 274: 4225
+Line 275: 2820
+Line 276: 4225
+Line 277: CDP
+Line 278: NFR
+Line 279: ACS
+Line 280: CRO
+Line 281: AUTOMATED
+Line 282: MOTOR MANUAL
+Line 283: MOTOR MANUAL
+Line 284: MOTOR MANUAL
+Line 285: ROLLER SHUTTER SECTIONAL
+Line 286: OVERHEAD DOORS
+Line 287: LED Indicator, Hasp Staple
+Line 288: Padlocks
+Line 289: AD 011 LOADING DOCK
+Line 290: 2820
+Line 291: 4225
+Line 292: 2820
+Line 293: 4225
+Line 294: CDP
+Line 295: NFR
+Line 296: ACS
+Line 297: CRO
+Line 298: AUTOMATED
+Line 299: MOTOR MANUAL
+Line 300: MOTOR MANUAL
+Line 301: MOTOR MANUAL
+Line 302: ROLLER SHUTTER SECTIONAL
+Line 303: OVERHEAD DOORS
+Line 304: LED Indicator, Hasp Staple
+Line 305: Padlocks
+Line 306: AD 019 INCOMING WATER RISER
+Line 307: 1000
+Line 308: 2400
+Line 309: 1230
+Line 310: 2465
+Line 311: 49
+Line 312: CDP
+Line 313: NFR
+Line 314: MON
+Line 315: MEA
+Line 316: STOREROOM
+Line 317: TAMPER PROOF
+Line 318: METAL DOORS
+Line 319: AD 040 FIRE ESCAPE CORRIDOR
+Line 320: 1000
+Line 321: 2400
+Line 322: 1230
+Line 323: 2465
+Line 324: 49
+Line 325: SET XX FE
+Line 326: CDP
+Line 327: MON
+Line 328: MEC
+Line 329: STOREROOM, EEO
+Line 330: FR
+Line 331: TAMPER PROOF
+Line 332: METAL DOORS
+Line 333: DC 001 COLO GALLERY LOBBY
+Line 334: 2000
+Line 335: 3000
+Line 336: 2230
+Line 337: 3065
+Line 338: 49
+Line 339: SET XX AC
+Line 340: CDP
+Line 341: NFR
+Line 342: ACS
+Line 343: CRI CRO
+Line 344: INSTITUTIONAL
+Line 345: ACTIVE LEAF
+Line 346: TAMPER PROOF
+Line 347: METAL DOORS FRAMES
+Line 348: DC 002 COLO GALLERY LOBBY
+Line 349: 2000
+Line 350: 3000
+Line 351: 2230
+Line 352: 3065
+Line 353: 49
+Line 354: SET XX AC
+Line 355: CDP
+Line 356: NFR
+Line 357: ACS
+Line 358: CRI CRO
+Line 359: INSTITUTIONAL
+Line 360: ACTIVE LEAF
+Line 361: TAMPER PROOF
+Line 362: METAL DOORS FRAMES
+Line 363: DC 003 COLO 2 MECHANICAL GALLERY
+Line 364: 1000
+Line 365: 2100
+Line 366: 1230
+Line 367: 2165
+Line 368: 49
+Line 369: SET XX FE
+Line 370: CDP
+Line 371: NFR
+Line 372: MON
+Line 373: MEC
+Line 374: STOREROOM, EEO
+Line 375: TAMPER PROOF
+Line 376: METAL DOORS FRAMES
+Line 377: DC 004 COLO 2 CELL
+Line 378: 1000
+Line 379: 2100
+Line 380: 1230
+Line 381: 2165
+Line 382: 49
+Line 383: SET XX FE
+Line 384: CDP
+Line 385: NFR
+Line 386: MON
+Line 387: MEC
+Line 388: STOREROOM, EEO
+Line 389: TAMPER PROOF
+Line 390: METAL DOORS FRAMES
+Line 391: DC 005 COLO 2 MECHANICAL GALLERY 4
+Line 392: 1000
+Line 393: 2100
+Line 394: 1230
+Line 395: 2165
+Line 396: 49
+Line 397: SET XX FE
+Line 398: CDP
+Line 399: NFR
+Line 400: MON
+Line 401: MEC
+Line 402: STOREROOM, EEO
+Line 403: TAMPER PROOF
+Line 404: METAL DOORS FRAMES
+Line 405: DC 006 COLO GALLERY LOBBY
+Line 406: 2000
+Line 407: 3000
+Line 408: 2230
+Line 409: 3065
+Line 410: 49
+Line 411: SET XX XX
+Line 412: CDP
+Line 413: NFR
+Line 414: ACS
+Line 415: CRI CRO
+Line 416: INSTITUTIONAL
+Line 417: ACTIVE LEAF
+Line 418: TAMPER PROOF
+Line 419: METAL DOORS FRAMES
+Line 420: DC 007 COLO SPRINKLER VALVE ROOM
+Line 421: 1000
+Line 422: 2100
+Line 423: 1230
+Line 424: 2165
+Line 425: 49
+Line 426: SET FR AC
+Line 427: CDP
+Line 428: NFR
+Line 429: ACS
+Line 430: CRI RXO
+Line 431: CLASSROOM
+Line 432: TAMPER PROOF
+Line 433: METAL DOORS FRAMES
+Line 434: DC 008 COLO GALLERY LOBBY
+Line 435: 2000
+Line 436: 3000
+Line 437: 2230
+Line 438: 3065
+Line 439: 49
+Line 440: SET 01 XX AC
+Line 441: CDP
+Line 442: NFR
+Line 443: ACS
+Line 444: CRI CRO
+Line 445: INSTITUTIONAL
+Line 446: ACTIVE LEAF
+Line 447: TAMPER PROOF
+Line 448: METAL DOORS FRAMES
+Line 449: DC 009 STAIRCASE 2
+Line 450: 2100
+Line 451: 1130
+Line 452: 2165
+Line 453: 49
+Line 454: SET 06 XX XX
+Line 455: CDP
+Line 456: NFR
+Line 457: ACS
+Line 458: CRI RXO
+Line 459: CLASSROOM
+Line 460: TAMPER PROOF
+Line 461: METAL DOORS FRAMES
+Line 462: DC 010 COLO COLD WATER VALVE ROOM
+Line 463: 1000
+Line 464: 2100
+Line 465: 1230
+Line 466: 2165
+Line 467: 49
+Line 468: SET FR AC
+Line 469: CDP
+Line 470: NFR
+Line 471: ACS
+Line 472: CRI RXO
+Line 473: CLASSROOM
+Line 474: TAMPER PROOF
+Line 475: METAL DOORS FRAMES
+Line 476: DC 011 COLO 2 GALLERY LOBBY
+Line 477: 2000
+Line 478: 3000
+Line 479: 2230
+Line 480: 3065
+Line 481: 49
+Line 482: SET XX AC
+Line 483: CDP
+Line 484: NFR
+Line 485: ACS
+Line 486: CRI CRO
+Line 487: INSTITUTIONAL
+Line 488: ACTIVE LEAF
+Line 489: TAMPER PROOF
+Line 490: METAL DOORS FRAMES
+Line 491: DC 012 COLO 2 GALLERY LOBBY
+Line 492: 2000
+Line 493: 3000
+Line 494: 2230
+Line 495: 3065
+Line 496: 49
+Line 497: SET XX AC
+Line 498: CDP
+Line 499: NFR
+Line 500: ACS
+Line 501: CRI CRO
+Line 502: INSTITUTIONAL
+Line 503: ACTIVE LEAF
+Line 504: TAMPER PROOF
+Line 505: METAL DOORS FRAMES
+Line 506: DC 013 COLO 2 GALLERY LOBBY
+Line 507: 2000
+Line 508: 3000
+Line 509: 2230
+Line 510: 3065
+Line 511: 49
+Line 512: SET XX AC
+Line 513: CDP
+Line 514: NFR
+Line 515: ACS
+Line 516: CRI CRO
+Line 517: INSTITUTIONAL
+Line 518: ACTIVE LEAF
+Line 519: TAMPER PROOF
+Line 520: METAL DOORS FRAMES
+Line 521: DC 014 COLO 2 GALLERY LOBBY
+Line 522: 2000
+Line 523: 3000
+Line 524: 2230
+Line 525: 3065
+Line 526: 49
+Line 527: SET XX AC
+Line 528: CDP
+Line 529: NFR
+Line 530: ACS
+Line 531: CRI CRO
+Line 532: INSTITUTIONAL
+Line 533: ACTIVE LEAF
+Line 534: TAMPER PROOF
+Line 535: METAL DOORS FRAMES
+Line 536: DC 015 COLO 2 COLD WATER VALVE ROOM
+Line 537: 1000
+Line 538: 2100
+Line 539: 1230
+Line 540: 2165
+Line 541: 49
+Line 542: SET FR AC
+Line 543: CDP
+Line 544: NFR
+Line 545: ACS
+Line 546: CRI RXO
+Line 547: CLASSROOM
+Line 548: TAMPER PROOF
+Line 549: METAL DOORS FRAMES
+Line 550: DC 016 COLO 2 SPRINKLER VALVE ROOM
+Line 551: 1000
+Line 552: 2100
+Line 553: 1230
+Line 554: 2165
+Line 555: 49
+Line 556: SET FR AC
+Line 557: CDP
+Line 558: NFR
+Line 559: ACS
+Line 560: CRI RXO
+Line 561: CLASSROOM
+Line 562: TAMPER PROOF
+Line 563: METAL DOORS FRAMES
+Line 564: DC 017
+Line 565: STAIRCASE
+Line 566: 1190
+Line 567: 2000
+Line 568: 1220
+Line 569: 2100
+Line 570: 49
+Line 571: CDP
+Line 572: NFR
+Line 573: MORTICE LOCK
+Line 574: BUTT HINGES, SSS
+Line 575: METAL DOORS FRAMES
+Line 576: DC 018 COLO MECH GALLERY GANTRY
+Line 577: 1900
+Line 578: 1900
+Line 579: 40
+Line 580: 40
+Line 581: SET XX XX
+Line 582: CDP
+Line 583: NFR
+Line 584: MORTICE LOCK
+Line 585: TAMPER PROOF
+Line 586: ACCESS HATCHES DOORS
+Line 587: DC 019 COLO MECH GALLERY 2 GANTRY
+Line 588: 1900
+Line 589: 1900
+Line 590: 40
+Line 591: 40
+Line 592: SET XX XX
+Line 593: CDP
+Line 594: NFR
+Line 595: MORTICE LOCK
+Line 596: TAMPER PROOF
+Line 597: METAL DOORS FRAMES
+Line 598: DC 020 COLO 2 MECH GALLERY 2 GANTRY
+Line 599: 1900
+Line 600: 1900
+Line 601: 40
+Line 602: 40
+Line 603: SET XX XX
+Line 604: CDP
+Line 605: NFR
+Line 606: MORTICE LOCK
+Line 607: TAMPER PROOF
+Line 608: ACCESS HATCHES DOORS
+Line 609: DC 021 COLO 2 MECH GALLERY GANTRY
+Line 610: 1900
+Line 611: 1900
+Line 612: 40
+Line 613: 40
+Line 614: SET XX XX
+Line 615: CDP
+Line 616: NFR
+Line 617: MORTICE LOCK
+Line 618: TAMPER PROOF
+Line 619: ACCESS HATCHES DOORS
+Line 620: DC 022 STAIRCASE
+Line 621: 2100
+Line 622: 1130
+Line 623: 2165
+Line 624: 49
+Line 625: SET 06 XX XX
+Line 626: CDP
+Line 627: NFR
+Line 628: ACS
+Line 629: CRI RXO
+Line 630: CLASSROOM
+Line 631: TAMPER PROOF
+Line 632: METAL DOORS FRAMES
+Line 633: DC 023 RETURN AIR BALCONY NORTH
+Line 634: 2100
+Line 635: 1130
+Line 636: 2165
+Line 637: 49
+Line 638: SET 06 XX XX
+Line 639: CDP
+Line 640: NFR
+Line 641: STOREROOM, EEO
+Line 642: TAMPER PROOF
+Line 643: METAL DOORS FRAMES
+Line 644: DC 024 RETURN AIR BALCONY NORTH
+Line 645: 2100
+Line 646: 1130
+Line 647: 2165
+Line 648: 49
+Line 649: SET 06 XX XX
+Line 650: CDP
+Line 651: NFR
+Line 652: STOREROOM, EEO
+Line 653: TAMPER PROOF
+Line 654: METAL DOORS FRAMES
+Line 655: DC 025
+Line 656: STAIRCASE 2
+Line 657: 1190
+Line 658: 2000
+Line 659: 1220
+Line 660: 2100
+Line 661: 49
+Line 662: CDP
+Line 663: NFR
+Line 664: MORTICE LOCK
+Line 665: BUTT HINGES, SSS
+Line 666: METAL DOORS FRAMES
+Line 667: DC 026 RETURN AIR BALCONY SOUTH
+Line 668: 2100
+Line 669: 1130
+Line 670: 2165
+Line 671: 49
+Line 672: SET 06 XX XX
+Line 673: CDP
+Line 674: NFR
+Line 675: STOREROOM, EEO
+Line 676: TAMPER PROOF
+Line 677: METAL DOORS FRAMES
+Line 678: DC 027 COLO MECH GALLERY 4 GANTRY
+Line 679: 1900
+Line 680: 1900
+Line 681: 40
+Line 682: 40
+Line 683: SET XX XX
+Line 684: CDP
+Line 685: NFR
+Line 686: MORTICE LOCK
+Line 687: TAMPER PROOF
+Line 688: METAL DOORS FRAMES
+Line 689: DC 028 COLO MECH GALLERY GANTRY
+Line 690: 1900
+Line 691: 1900
+Line 692: 40
+Line 693: 40
+Line 694: SET XX XX
+Line 695: CDP
+Line 696: NFR
+Line 697: MORTICE LOCK
+Line 698: TAMPER PROOF
+Line 699: ACCESS HATCHES DOORS
+Line 700: DC 029 COLO 2 MECH GALLERY GANTRY
+Line 701: 1900
+Line 702: 1900
+Line 703: 40
+Line 704: 40
+Line 705: SET XX XX
+Line 706: CDP
+Line 707: NFR
+Line 708: MORTICE LOCK
+Line 709: TAMPER PROOF
+Line 710: ACCESS HATCHES DOORS
+Line 711: DC 030 COLO 2 MECH GALLERY GANTRY
+Line 712: 1900
+Line 713: 1900
+Line 714: 40
+Line 715: 40
+Line 716: SET XX XX
+Line 717: CDP
+Line 718: NFR
+Line 719: MORTICE LOCK
+Line 720: TAMPER PROOF
+Line 721: ACCESS HATCHES DOORS
+Line 722: Grand 41
+Line 723: DOOR SCHEDULE PUMP HOUSE
+Line 724: Mark
+Line 725: Type
+Line 726: Mark
+Line 727: Room Name
+Line 728: Room Name
+Line 729: Door Type
+Line 730: Clear Opening
+Line 731: Structural
+Line 732: Opening
+Line 733: Door
+Line 734: Frame
+Line 735: Finish
+Line 736: Door
+Line 737: Panel
+Line 738: Finish
+Line 739: Door Frame Thickness
+Line 740: Door Leaf Thickness
+Line 741: Ironmongery Sets
+Line 742: Review
+Line 743: Secondary Steel Support
+Line 744: Performance
+Line 745: Detail
+Line 746: RC Rating
+Line 747: Security Details
+Line 748: Corrosion Resistance
+Line 749: Accessibilty Requirement
+Line 750: Threshold Strip
+Line 751: Vision Panel Type
+Line 752: Basic Hardware Items
+Line 753: Specs
+Line 754: Comment
+Line 755: Width
+Line 756: Height
+Line 757: Rough
+Line 758: Width
+Line 759: Rough
+Line 760: Height
+Line 761: Fire
+Line 762: Rating
+Line 763: Acoustic
+Line 764: Rating
+Line 765: System
+Line 766: Access Control
+Line 767: Control Type
+Line 768: Door Contact
+Line 769: Lock Type
+Line 770: Emergency Door Release
+Line 771: Accessibilty
+Line 772: Requirement
+Line 773: CS AHJ
+Line 774: Accessibility
+Line 775: Opening
+Line 776: Force
+Line 777: Accessibility
+Line 778: Power Assist
+Line 779: Function
+Line 780: Lever Handle
+Line 781: Pull Handle
+Line 782: Push
+Line 783: Kick Plate
+Line 784: Astragal
+Line 785: Seal
+Line 786: Dropdown Seal
+Line 787: Hinges
+Line 788: Gril
+Line 789: Closer
+Line 790: Power Door Closer
+Line 791: Power Door Opener
+Line 792: WC Indicator
+Line 793: CSI Number
+Line 794: CSI Short Title
+Line 795: Door Schedule Water Treatment Plant Revised
+Line 796: Mark
+Line 797: Type
+Line 798: Mark
+Line 799: Room Name
+Line 800: Room Name
+Line 801: Door Type
+Line 802: Clear Opening
+Line 803: Structural
+Line 804: Opening
+Line 805: Door
+Line 806: Frame
+Line 807: Finish
+Line 808: Door
+Line 809: Panel
+Line 810: Finish
+Line 811: Door Frame Thickness
+Line 812: Door Leaf Thickness
+Line 813: Ironmongery Sets
+Line 814: Review
+Line 815: Secondary Steel Support
+Line 816: Performance
+Line 817: Detail
+Line 818: RC Rating
+Line 819: Security Details
+Line 820: Corrosion Resistance
+Line 821: Accessibilty Requirement
+Line 822: Threshold Strip
+Line 823: Vision Panel Type
+Line 824: Basic Hardware Items
+Line 825: Specs
+Line 826: Comment
+Line 827: Width
+Line 828: Height
+Line 829: Rough
+Line 830: Width
+Line 831: Rough
+Line 832: Height
+Line 833: Fire
+Line 834: Rating
+Line 835: Acoustic
+Line 836: Rating
+Line 837: System
+Line 838: Access Control
+Line 839: Control Type
+Line 840: Door Contact
+Line 841: Lock Type
+Line 842: Emergency Door Release
+Line 843: Accessibilty
+Line 844: Requirement
+Line 845: CS AHJ
+Line 846: Accessibility
+Line 847: Opening
+Line 848: Force
+Line 849: Accessibility
+Line 850: Power Assist
+Line 851: Function
+Line 852: Lever Handle
+Line 853: Pull Handle
+Line 854: Push
+Line 855: Kick Plate
+Line 856: Astragal
+Line 857: Seal
+Line 858: Dropdown Seal
+Line 859: Hinges
+Line 860: Gril
+Line 861: Closer
+Line 862: Power Door Closer
+Line 863: Power Door Opener
+Line 864: WC Indicator
+Line 865: CSI Number
+Line 866: CSI Short Title
+Line 867: DOOR SCHEDULE GUARD HOUSE
+Line 868: Mark
+Line 869: Type
+Line 870: Mark
+Line 871: Room Name
+Line 872: Room Name
+Line 873: Door Type
+Line 874: Clear Opening
+Line 875: Structural
+Line 876: Opening
+Line 877: Door
+Line 878: Frame Finish
+Line 879: Door
+Line 880: Panel
+Line 881: Finish
+Line 882: Door Frame Thickness
+Line 883: Door Leaf Thickness
+Line 884: Ironmongery Sets
+Line 885: Review
+Line 886: Secondary Steel Support
+Line 887: Performance
+Line 888: Detail
+Line 889: RC Rating
+Line 890: Security Details
+Line 891: Corrosion Resistance
+Line 892: Accessibilty Requirement
+Line 893: Threshold Strip
+Line 894: Vision Panel Type
+Line 895: Basic Hardware Items
+Line 896: Specs
+Line 897: Comment
+Line 898: Width
+Line 899: Height
+Line 900: Rough
+Line 901: Width
+Line 902: Rough
+Line 903: Height
+Line 904: Fire
+Line 905: Rating
+Line 906: Acoustic
+Line 907: Rating
+Line 908: System
+Line 909: Access Control
+Line 910: Control Type
+Line 911: Door Contact
+Line 912: Lock Type
+Line 913: Emergency Door Release
+Line 914: Accessibilty
+Line 915: Requirement
+Line 916: CS AHJ
+Line 917: Accessibility
+Line 918: Opening
+Line 919: Force
+Line 920: Accessibility
+Line 921: Power Assist
+Line 922: Function
+Line 923: Lever Handle
+Line 924: Pull Handle
+Line 925: Push
+Line 926: Kick Plate
+Line 927: Astragal
+Line 928: Seal
+Line 929: Dropdown Seal
+Line 930: Hinges
+Line 931: Gril
+Line 932: Closer
+Line 933: Power Door Closer
+Line 934: Power Door Opener
+Line 935: WC Indicator
+Line 936: CSI Number
+Line 937: CSI Short Title
+Line 938: REVIEW ASSA ABLOY
+Line 939: REVIEW
+Line 940: ASSA ABLOY
+Line 941: REVIEW
+Line 942: ASSA ABLOY
+Line 943: REVIEW
+Line 944: ASSA ABLOY
+Line 945: Date
+Line 946: Description
+Line 947: 09 05
+Line 948: Issued Approval
+Line 949: VAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 950

@@ -1,0 +1,173 @@
+=== FILTERED TEXT FOR: GR-ATH1-VAP-AR-GF-103-0.pdf ===
+
+Line   0: DRAWING SYMBOLS LEGEND
+Line   1: Name
+Line   2: ROOM CODE
+Line   3: ROOM NAME
+Line   4: ROOM AREA
+Line   5: XF XX
+Line   6: DOOR CODE
+Line   7: DOOR SILL
+Line   8: DOOR HEAD
+Line   9: DOOR WIDTH
+Line  10: FFL
+Line  11: FINAL FLOOR LEVEL
+Line  12: AR
+Line  13: DRAWING NUMBER
+Line  14: SHEET NUMBER
+Line  15: AR
+Line  16: DRAWING NUMBER
+Line  17: SHEET NUMBER
+Line  18: BUILDING GRID LINES
+Line  19: RELATIVE HEIGHT ABSOLUTE HEIGHT
+Line  20: SHAFT
+Line  21: SSL
+Line  22: STRUCTURAL SLAB LEVEL
+Line  23: PLANTING
+Line  24: AR
+Line  25: AR
+Line  26: GF 053
+Line  27: GF
+Line  28: SPRINKLER
+Line  29: FIRE HOSE REEL
+Line  30: PUMP ROOM
+Line  31: WATER MIST
+Line  32: HIGH PRESSURE
+Line  33: WATER TANK
+Line  34: SPRINKLER
+Line  35: FIRE HOSE REEL
+Line  36: FIRE
+Line  37: HYDRANTS
+Line  38: WATER TANK
+Line  39: GF
+Line  40: GF
+Line  41: GF
+Line  42: TRANSFORMER
+Line  43: TRANSFORMER
+Line  44: TRANSFORMER
+Line  45: TRANSFORMER
+Line  46: TRANSFORMER
+Line  47: TRANSFORMER
+Line  48: BATTERY ROOM
+Line  49: BATTERY ROOM
+Line  50: BATTERY ROOM
+Line  51: BATTERY ROOM
+Line  52: BATTERY ROOM
+Line  53: BATTERY ROOM
+Line  54: POWER ROOM
+Line  55: 48
+Line  56: POWER ROOM
+Line  57: 48
+Line  58: POWER ROOM
+Line  59: 48
+Line  60: POWER ROOM
+Line  61: 48
+Line  62: POWER ROOM
+Line  63: 48
+Line  64: POWER ROOM
+Line  65: 48
+Line  66: GENERATOR
+Line  67: GENERATOR
+Line  68: GENERATOR
+Line  69: ADIABATIC
+Line  70: PUMP ROOM
+Line  71: GF
+Line  72: GF 072
+Line  73: GF 073
+Line  74: GF 074
+Line  75: GF 075
+Line  76: GF 075
+Line  77: GF 076
+Line  78: GF
+Line  79: GF
+Line  80: GF
+Line  81: GF
+Line  82: GF
+Line  83: GF
+Line  84: GF
+Line  85: GF
+Line  86: GF
+Line  87: GF
+Line  88: GF
+Line  89: GF
+Line  90: GF
+Line  91: GF
+Line  92: GF
+Line  93: GF
+Line  94: GF
+Line  95: GF
+Line  96: GF
+Line  97: GF
+Line  98: GF
+Line  99: GF
+Line 100: GF
+Line 101: GF
+Line 102: FFL
+Line 103: FFL
+Line 104: FFL
+Line 105: FFL
+Line 106: FFL
+Line 107: FFL
+Line 108: FFL
+Line 109: FFL
+Line 110: FFL
+Line 111: FFL SSL
+Line 112: FFL SSL
+Line 113: FFL SSL
+Line 114: FFL SSL
+Line 115: FFL SSL
+Line 116: FFL SSL
+Line 117: PROJECT NO.
+Line 118: DRAWN
+Line 119: CHECKED
+Line 120: SHEET SIZE
+Line 121: SCALE
+Line 122: SHEET TITLE NUMBER
+Line 123: SEAL
+Line 124: DATA CENTER MEP CONSULTANT
+Line 125: Syska Hennessy Group,
+Line 126: Dubai Internet City, Building Office Dubai, UAE
+Line 127: 3810
+Line 128: GENERAL NOTES
+Line 129: CONSULTANT
+Line 130: Ravine Street, Athina Greece
+Line 131: ARCHITECT
+Line 132: Tompazi Chalandri
+Line 133: VAP Architects
+Line 134: STRUCTURAL ENGINEER
+Line 135: NAMA Consulting Engineers Planners SA
+Line 136: Address Perrikou GR 11524 Athens, Greece
+Line 137: KEY PLAN
+Line 138: SCALE DRAWINGS.
+Line 139: DOUBT, REQUEST MORE FURTHER
+Line 140: INFORMATION.
+Line 141: DRAWING READ
+Line 142: CONJUNCTION CONTRACT
+Line 143: CONDITIONS, SPECIFICATIONS,
+Line 144: EQUIPMENT SCHEDULES
+Line 145: ARCHITECTURAL DRAWINGS.
+Line 146: DIMENSIONS MILLIMETER
+Line 147: ELEVATIONS METERS UNNLESS
+Line 148: OTHERWISE SPECIFIED.
+Line 149: COMMUNICATION
+Line 150: SPECIALIZED DISCIPLINES SHOWN
+Line 151: DRAWINGS
+Line 152: CONTRACTOR.
+Line 153: Κοινότητα Σπάτων Λούτσας
+Line 154: Municipal Community Spata Loutsa, Athens, Greece
+Line 155: ATH Data Center
+Line 156: 2025 02 43
+Line 157: Autodesk Docs Damac Greece DC Design Greece VAP ARC DC
+Line 158: GR ATH1 VAP AR GF
+Line 159: VAP
+Line 160: General Arrangement Plan GF Modules
+Line 161: VAP
+Line 162: REV
+Line 163: DATE
+Line 164: DESCRIPTION
+Line 165: 0
+Line 166: 02 2025
+Line 167: First Issuance Approval
+
+=== END OF FILTERED TEXT ===
+Total lines: 168

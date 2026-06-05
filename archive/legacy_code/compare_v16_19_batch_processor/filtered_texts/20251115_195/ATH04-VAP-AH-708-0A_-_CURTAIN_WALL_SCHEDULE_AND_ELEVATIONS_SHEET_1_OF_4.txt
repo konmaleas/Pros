@@ -1,0 +1,234 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-708-0A_-_CURTAIN_WALL_SCHEDULE_AND_ELEVATIONS_SHEET_1_OF_4.pdf ===
+
+Line   0: 708
+Line   1: 2
+Line   2: 708
+Line   3: CW NORTH WALL 2
+Line   4: CW NORTH WALL
+Line   5: ENTRANCE
+Line   6: LOBBY
+Line   7: 00 001
+Line   8: FOC
+Line   9: 00 003
+Line  10: YA
+Line  11: YB
+Line  12: YC
+Line  13: YD
+Line  14: YE
+Line  15: ASSET
+Line  16: MANAGEMENT
+Line  17: 00 047
+Line  18: OFFICE
+Line  19: 00 004
+Line  20: GL
+Line  21: 1200
+Line  22: 1200
+Line  23: 1200
+Line  24: EQ
+Line  25: 2216
+Line  26: EQ
+Line  27: DOUBLED GLAZED, THERMALLY
+Line  28: BROKEN, ALUMINIUM STICK
+Line  29: CURTAIN WALL SYSTEM
+Line  30: POLYESTER POWDER
+Line  31: COATED PAINT FINISH
+Line  32: SELECTED RAL. REFER SPEC
+Line  33: CURTAIN WALL MULLION
+Line  34: MANUFACTURERS DETAILS
+Line  35: SPECIFICATIONS
+Line  36: ED AD 001
+Line  37: CURTAIN WALL MULLION
+Line  38: MANUFACTURERS DETAILS
+Line  39: SPECIFICATIONS.
+Line  40: 1500
+Line  41: 1500
+Line  42: 1500
+Line  43: 1500
+Line  44: 1500
+Line  45: 1500
+Line  46: Structural Opening
+Line  47: 12000
+Line  48: 2375
+Line  49: 2180
+Line  50: WALL
+Line  51: 4500
+Line  52: 10100
+Line  53: 1125
+Line  54: 1725
+Line  55: YC
+Line  56: YD
+Line  57: YE
+Line  58: Structural Opening
+Line  59: 3600
+Line  60: 1425
+Line  61: 1450
+Line  62: 1450
+Line  63: 1450
+Line  64: 1450
+Line  65: 1450
+Line  66: 1450
+Line  67: 1425
+Line  68: 1200
+Line  69: 1200
+Line  70: 1200
+Line  71: 3865
+Line  72: 1500
+Line  73: 1500
+Line  74: 1775
+Line  75: 1400
+Line  76: DOUBLED GLAZED,
+Line  77: THERMALLY BROKEN,
+Line  78: ALUMINIUM STICK CURTAIN
+Line  79: WALL SYSTEM
+Line  80: POLYESTER POWDER
+Line  81: COATED PAINT FINISH
+Line  82: EXTERNAL ALUMINUM
+Line  83: FIXED WINDOW
+Line  84: EXTERNAL PRIVACY FILM
+Line  85: Structural Opening
+Line  86: 3877
+Line  87: EQ
+Line  88: 2216
+Line  89: EQ
+Line  90: EQ
+Line  91: EQ
+Line  92: EQ
+Line  93: EQ
+Line  94: EQ
+Line  95: EQ
+Line  96: EQ
+Line  97: EQ
+Line  98: 1423
+Line  99: 1425
+Line 100: 1450
+Line 101: 1450
+Line 102: 1450
+Line 103: 1450
+Line 104: 1450
+Line 105: 1450
+Line 106: 1425
+Line 107: 12000
+Line 108: FOC
+Line 109: 00 003
+Line 110: 756
+Line 111: 2166
+Line 112: 756
+Line 113: YB
+Line 114: YC
+Line 115: YD
+Line 116: OFFICE
+Line 117: 00 004
+Line 118: ED AD 001
+Line 119: GL
+Line 120: 1125
+Line 121: 1200
+Line 122: 1125
+Line 123: 1200
+Line 124: 1200
+Line 125: 1200
+Line 126: Structural Opening
+Line 127: 3600
+Line 128: WALL
+Line 129: EQ
+Line 130: EQ
+Line 131: EQ
+Line 132: GL
+Line 133: 1125
+Line 134: 1150
+Line 135: 1125
+Line 136: EQ
+Line 137: EQ
+Line 138: EQ
+Line 139: STRUCTURAL OPENING
+Line 140: 3600
+Line 141: WALL
+Line 142: 1200
+Line 143: 1200
+Line 144: 1200
+Line 145: REFER DRAWING
+Line 146: DETAILS
+Line 147: GLAZING FINISH
+Line 148: GUARDIAN SUNGUARD SOLAR SILVER 43
+Line 149: ACCORDANCE ENERGY REQUIREMENTS
+Line 150: LICHT TRANSMISSION 43
+Line 151: SOLAR FACTOR
+Line 152: DOUBLE GLAZED ALUMINIUM CURTAIN FINISH. REFER SPEC
+Line 153: MULLIONS RAL 7016 ANTHRACITE GREY
+Line 154: CAPPING OUTSIDE 7016 ANTHRACITE GREY
+Line 155: ADMIN
+Line 156: COLO
+Line 157: COLO 2
+Line 158: 2
+Line 159: 4
+Line 160: 2
+Line 161: 4
+Line 162: TRUE NORTH
+Line 163: Sheet Title Number
+Line 164: Scale
+Line 165: Plan
+Line 166: Design Consultants
+Line 167: Microsoft
+Line 168: DATA CENTER
+Line 169: SPATA GREECE
+Line 170: Contractor Joint Venture
+Line 171: Name
+Line 172: Contractor Project
+Line 173: Contractor Contract
+Line 174: Contractor PM
+Line 175: Contractor BIM Mngr
+Line 176: Contractor Information
+Line 177: Renco Terna
+Line 178: Client
+Line 179: General Notes
+Line 180: Client Project
+Line 181: Client Contract
+Line 182: Client PM
+Line 183: Client BIM Mngr
+Line 184: Primary Client Information
+Line 185: Layout
+Line 186: Revision
+Line 187: Tombazi Chalandri
+Line 188: 15232
+Line 189: Athens Greece
+Line 190: 0800 3262
+Line 191: Agion Theodoron Square Athens
+Line 192: 10561
+Line 193: Athens Greece
+Line 194: Kimithois Agios Dimitrios
+Line 195: 17236
+Line 196: Athens Greece
+Line 197: Purpose Issue
+Line 198: Issue
+Line 199: Name
+Line 200: CURTAIN WALL SCHEDULE
+Line 201: ELEVATIONS SHEET 4
+Line 202: VAP AH 708
+Line 203: SCALE
+Line 204: CURTAIN WALL LOCATION PLAN
+Line 205: SCALE
+Line 206: EXTERNAL CURTAIN WALL ELEVATION NORTH WALL PART
+Line 207: 4
+Line 208: SCALE
+Line 209: EXTERNAL CURTAIN WALL PLAN NORTH WALL PART
+Line 210: SCALE
+Line 211: SECTION NORTH WALL PART
+Line 212: SCALE
+Line 213: SECTION 2 NORTH WALL PART
+Line 214: 2500
+Line 215: 5000
+Line 216: SCALE
+Line 217: 1250
+Line 218: SCALE
+Line 219: SECONDARY STEEL
+Line 220: WINDOW HEAD
+Line 221: CDP SECONDARY STEEL
+Line 222: CDP SECONDARY
+Line 223: STEEL
+Line 224: Date
+Line 225: Description
+Line 226: 05
+Line 227: Issued Approval
+Line 228: VAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 229

@@ -1,0 +1,137 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-774-0A_-_WATER_TREATMENT_BUILDING_FIRE_STRATEGY_PLAN.pdf ===
+
+Line   0: AP
+Line   1: WP
+Line   2: NOTES
+Line   3: LOAD BEARING INTEGRITY, INSULATION
+Line   4: FIRE SEPARATIONS COMPLIANCE LOCAL REGULATIONS.
+Line   5: NOTES
+Line   6: FIRE SEPARATIONS COMPLIANCE LOCAL REGULATIONS.
+Line   7: FIRE LEGEND
+Line   8: FIRE RESISTING DOORSET HAVE EI RATING
+Line   9: MIN FIRE RATING
+Line  10: MIN FIRE RESISTING WALL
+Line  11: FIRE RESISTING WALL
+Line  12: MIN FIRE RESISTING WALL
+Line  13: MIN FIRE RESISTING WALL
+Line  14: FIRE RESISTING DOORSET HAVE EI RATING
+Line  15: MIN FIRE RATING
+Line  16: FIRE RESISTING DOORSET HAVE EI 45 RATING 45
+Line  17: MIN FIRE RATING
+Line  18: FINAL EXIT
+Line  19: FIRE RESISTANCE TRIMOTERM CEILING MATCH WALL ROOM
+Line  20: RATING. PENETRATIONS SUITABLE MAINTAIN FIRE
+Line  21: RESISTANCE SOFFIT.
+Line  22: FIRE RESISTING DOORSET HAVE EI RATING
+Line  23: MIN FIRE RATING
+Line  24: Travel Distance Path
+Line  25: FIRE RESISTING DOORSET HAVE EI RATING
+Line  26: MIN FIRE RATING
+Line  27: A
+Line  28: 5250
+Line  29: 5250
+Line  30: 30150
+Line  31: 11250
+Line  32: 10500
+Line  33: RFS
+Line  34: GRAVEL PERIMETR CIVILS SPECIFICATION DETAILS
+Line  35: AM 471
+Line  36: A
+Line  37: 21900
+Line  38: 3800
+Line  39: 3800
+Line  40: ATH04 00
+Line  41: SPRINKLER
+Line  42: VALVE ROOM
+Line  43: ATH04 00
+Line  44: PUMP ROOM
+Line  45: ATH04 00
+Line  46: SWITCH ROOM
+Line  47: ATH04 00
+Line  48: COMMS ROOM
+Line  49: ATH04 00
+Line  50: SWITCH ROOM
+Line  51: A
+Line  52: ATH04 00
+Line  53: STORE
+Line  54: 5250
+Line  55: 5250
+Line  56: 30150
+Line  57: 3134
+Line  58: 1130
+Line  59: 2439
+Line  60: 1130
+Line  61: 748
+Line  62: 1130
+Line  63: 1164
+Line  64: 3800
+Line  65: 10175
+Line  66: 11250
+Line  67: 1485
+Line  68: 2180
+Line  69: 3591
+Line  70: 1130
+Line  71: 1130
+Line  72: 2180
+Line  73: 2354
+Line  74: 2180
+Line  75: GRAVEL PERIMETER CIVILS SPECIFICATION DETAILS
+Line  76: Sheet Title Number
+Line  77: Scale
+Line  78: Plan
+Line  79: Design Consultants
+Line  80: Microsoft
+Line  81: DATA CENTER ATH04
+Line  82: SPATA GREECE
+Line  83: Contractor Joint Venture
+Line  84: Name
+Line  85: Contractor Project
+Line  86: Contractor Contract
+Line  87: Contractor PM
+Line  88: Contractor BIM Mngr
+Line  89: Contractor Information
+Line  90: Renco Terna
+Line  91: Client
+Line  92: General Notes
+Line  93: Client Project
+Line  94: Client Contract
+Line  95: Client PM
+Line  96: Client BIM Mngr
+Line  97: Primary Client Information
+Line  98: Layout
+Line  99: Revision
+Line 100: Tombazi Chalandri
+Line 101: 15232
+Line 102: Athens Greece
+Line 103: 0800 3262
+Line 104: Agion Theodoron Square Athens
+Line 105: 10561
+Line 106: Athens Greece
+Line 107: Kimithois Agios Dimitrios
+Line 108: 17236
+Line 109: Athens Greece
+Line 110: Purpose Issue
+Line 111: Issue
+Line 112: Name
+Line 113: WATER TREATMENT BUILDING
+Line 114: FIRE STRATEGY PLAN
+Line 115: ATH04 VAP AH 774
+Line 116: SCALE
+Line 117: WATER TREATMENT BUILDING FIRE STRATEGY ROOF PLAN
+Line 118: SCALE
+Line 119: WATER TREATMENT BUILDING FIRE STRATEGY PLAN
+Line 120: 1250
+Line 121: 2500
+Line 122: SCALE
+Line 123: ADMIN
+Line 124: COLO
+Line 125: COLO
+Line 126: TRUE NORTH
+Line 127: Date
+Line 128: Description
+Line 129: 06
+Line 130: Issued Approval
+Line 131: VAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 132

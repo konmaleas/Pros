@@ -1,0 +1,191 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-710-0A_-_CURTAIN_WALL_SCHEDULE_AND_ELEVATIONS_SHEET_3_OF_4.pdf ===
+
+Line   0: 4
+Line   1: 710
+Line   2: ZA
+Line   3: YA
+Line   4: YB
+Line   5: YC
+Line   6: CW EAST WALL
+Line   7: XA
+Line   8: OFFICE
+Line   9: 00 015
+Line  10: YA
+Line  11: FACILITY
+Line  12: OFFICE
+Line  13: 00 005
+Line  14: BREAK
+Line  15: ROOM
+Line  16: 00 017
+Line  17: STORAGE
+Line  18: 00 018
+Line  19: FIRE ESCAPE
+Line  20: CORRIDOR
+Line  21: 00 019
+Line  22: ED AD 003
+Line  23: 1568
+Line  24: 1568
+Line  25: 1568
+Line  26: 1568
+Line  27: 1569
+Line  28: 1775
+Line  29: 1775
+Line  30: 1700
+Line  31: 1700
+Line  32: 1700
+Line  33: 1150
+Line  34: 18472
+Line  35: 437
+Line  36: GL
+Line  37: DOUBLED GLAZED, THERMALLY BROKEN,
+Line  38: METAL STICK CURTAIN WALL SYSTEM
+Line  39: POLYESTER POWDER COATED PAINT
+Line  40: FINISH SELECTED RAL.
+Line  41: CURTAIN WALL MULLION MANUFACTURERS
+Line  42: DETAILS SPECIFICATIONS.
+Line  43: CURTAIN WALL CORNER MULLION
+Line  44: MANUFACTURERS DETAILS SPECIFICATIONS.
+Line  45: WALL
+Line  46: EQ
+Line  47: EQ
+Line  48: 1125
+Line  49: 1568
+Line  50: 1568
+Line  51: 1568
+Line  52: 1568
+Line  53: 1569
+Line  54: 1775
+Line  55: 1775
+Line  56: 1700
+Line  57: 1700
+Line  58: 1700
+Line  59: 1150
+Line  60: STRUCTURAL OPENING
+Line  61: 3600
+Line  62: 1200
+Line  63: 1200
+Line  64: 1200
+Line  65: 1100
+Line  66: 1650
+Line  67: 1650
+Line  68: 1650
+Line  69: 1725
+Line  70: 1725
+Line  71: 1519
+Line  72: 1518
+Line  73: 1518
+Line  74: 1518
+Line  75: 1518
+Line  76: SIZE CORNER POST GLAZING
+Line  77: MANUFACTURES DETAILS
+Line  78: RAMP
+Line  79: DOOR
+Line  80: ED AD 003
+Line  81: 1125
+Line  82: 1150
+Line  83: 1125
+Line  84: 1700
+Line  85: 1379
+Line  86: 1175
+Line  87: 437
+Line  88: 2375
+Line  89: 1100
+Line  90: GL
+Line  91: XA
+Line  92: DOUBLED GLAZED, THERMALLY BROKEN,
+Line  93: METAL STICK CURTAIN WALL SYSTEM
+Line  94: POLYESTER POWDER COATED PAINT
+Line  95: FINISH SELECTED RAL.
+Line  96: CURTAIN WALL MULLION
+Line  97: MANUFACTURERS DETAILS
+Line  98: SPECIFICATIONS.
+Line  99: WALL
+Line 100: ZA
+Line 101: YA
+Line 102: 1125
+Line 103: 1150
+Line 104: 1125
+Line 105: 1200
+Line 106: 1200
+Line 107: 1200
+Line 108: Structural Opening
+Line 109: 3600
+Line 110: REFER DRAWING
+Line 111: DETAILS
+Line 112: GLAZING FINISH
+Line 113: GUARDIAN SUNGUARD SOLAR SILVER 43
+Line 114: ACCORDANCE ENERGY REQUIREMENTS
+Line 115: LICHT TRANSMISSION 43
+Line 116: SOLAR FACTOR
+Line 117: DOUBLE GLAZED ALUMINIUM CURTAIN FINISH. REFER SPEC
+Line 118: MULLIONS RAL 7016 ANTHRACITE GREY
+Line 119: CAPPING OUTSIDE 7016 ANTHRACITE GREY
+Line 120: ADMIN
+Line 121: COLO
+Line 122: COLO 2
+Line 123: 2
+Line 124: 4
+Line 125: 2
+Line 126: 4
+Line 127: TRUE NORTH
+Line 128: Sheet Title Number
+Line 129: Scale
+Line 130: Plan
+Line 131: Design Consultants
+Line 132: Microsoft
+Line 133: DATA CENTER
+Line 134: SPATA GREECE
+Line 135: Contractor Joint Venture
+Line 136: Name
+Line 137: Contractor Project
+Line 138: Contractor Contract
+Line 139: Contractor PM
+Line 140: Contractor BIM Mngr
+Line 141: Contractor Information
+Line 142: Renco Terna
+Line 143: Client
+Line 144: General Notes
+Line 145: Client Project
+Line 146: Client Contract
+Line 147: Client PM
+Line 148: Client BIM Mngr
+Line 149: Primary Client Information
+Line 150: Layout
+Line 151: Revision
+Line 152: Tombazi Chalandri
+Line 153: 15232
+Line 154: Athens Greece
+Line 155: 0800 3262
+Line 156: Agion Theodoron Square Athens
+Line 157: 10561
+Line 158: Athens Greece
+Line 159: Kimithois Agios Dimitrios
+Line 160: 17236
+Line 161: Athens Greece
+Line 162: Purpose Issue
+Line 163: Issue
+Line 164: Name
+Line 165: CURTAIN WALL SCHEDULE
+Line 166: ELEVATIONS SHEET 4
+Line 167: VAP AH 710
+Line 168: SCALE
+Line 169: CURTAIN WALL LOCATION PLAN
+Line 170: SCALE
+Line 171: EXTERNAL CURTAIN WALL PLAN WEST WALL PART
+Line 172: SCALE
+Line 173: EXTERNAL CURTAIN WALL ELEVATION WEST WALL PART
+Line 174: SCALE
+Line 175: SECTION EAST WALL
+Line 176: 2500
+Line 177: 5000
+Line 178: SCALE
+Line 179: 1250
+Line 180: SCALE
+Line 181: Date
+Line 182: Description
+Line 183: 09 05
+Line 184: Issued Approval
+Line 185: VAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 186

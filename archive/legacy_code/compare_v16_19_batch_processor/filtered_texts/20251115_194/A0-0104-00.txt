@@ -1,0 +1,85 @@
+=== FILTERED TEXT FOR: A0-0104-00.pdf ===
+
+Line   0: STORAGE AREA
+Line   1: BAR BOH
+Line   2: FLOATING DECK
+Line   3: STATIO
+Line   4: PIZZA
+Line   5: AREA 2
+Line   6: SEATING
+Line   7: AREA
+Line   8: SEATING
+Line   9: LEVEL
+Line  10: SUNSET BAR
+Line  11: STAIR
+Line  12: CORRIDOR
+Line  13: LEVEL
+Line  14: SUNSET BAR
+Line  15: LEVEL
+Line  16: SUNSET BAR
+Line  17: LEVEL
+Line  18: SUNSET BAR
+Line  19: STAIR
+Line  20: STAIR
+Line  21: LEVEL
+Line  22: LEVEL
+Line  23: 2
+Line  24: 4
+Line  25: 40
+Line  26: 2
+Line  27: 4
+Line  28: 2
+Line  29: 4
+Line  30: 2
+Line  31: 2
+Line  32: 2
+Line  33: 2
+Line  34: 2
+Line  35: 2
+Line  36: 2
+Line  37: 2
+Line  38: 2
+Line  39: 2
+Line  40: 2
+Line  41: 4
+Line  42: 2
+Line  43: 2
+Line  44: 2
+Line  45: 2
+Line  46: DATE
+Line  47: 2 2 2
+Line  48: 2 2 2
+Line  49: 4
+Line  50: 2
+Line  51: ARCHITECTURAL DESIGN
+Line  52: CLIENT
+Line  53: PROJECT
+Line  54: KAPLANKAYA
+Line  55: BEACH PARK
+Line  56: IMPLEMENTATION STUDY
+Line  57: DESIGN STAGE
+Line  58: DATE
+Line  59: SCALE
+Line  60: FILE NAME
+Line  61: DRAWING TITLE
+Line  62: DRAWING
+Line  63: Epirou Street
+Line  64: Athens, GR Greece
+Line  65: 3262
+Line  66: 3269
+Line  67: IMPLEMENTATION STUDY CONSULTANT
+Line  68: LIGHTING DESIGN
+Line  69: CONSULTANTS
+Line  70: KEY PLAN
+Line  71: REVISIONS
+Line  72: NO.
+Line  73: DESCRIPTION
+Line  74: 2016 03
+Line  75: 1601 0100 04 00
+Line  76: LANDSCAPE
+Line  77: PLAN ZONE 4
+Line  78: LAYOUT GROUND FLOOR LEVELS
+Line  79: 0104 00
+
+=== END OF FILTERED TEXT ===
+Total lines: 80

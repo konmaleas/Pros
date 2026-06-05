@@ -1,0 +1,224 @@
+=== FILTERED TEXT FOR: AEP-ANM-002-0920-DRW-AR-PDGA0601.pdf ===
+
+Line   0: UL
+Line   1: 6000
+Line   2: 6000
+Line   3: 6000
+Line   4: 6000
+Line   5: 6000
+Line   6: 6000
+Line   7: 6000
+Line   8: 6000
+Line   9: 3000
+Line  10: 3000
+Line  11: 3000
+Line  12: 3000
+Line  13: 6000
+Line  14: 6000
+Line  15: 6000
+Line  16: 6000
+Line  17: 6000
+Line  18: 6000
+Line  19: 6000
+Line  20: 6000
+Line  21: 6000
+Line  22: 6000
+Line  23: 6000
+Line  24: 6000
+Line  25: 6000
+Line  26: 6000
+Line  27: 6000
+Line  28: 6000
+Line  29: 6000
+Line  30: 6000
+Line  31: 6000
+Line  32: 12000
+Line  33: 6000
+Line  34: 6000
+Line  35: 6000
+Line  36: 6000
+Line  37: 6000
+Line  38: 6000
+Line  39: 410
+Line  40: Departures
+Line  41: General
+Line  42: Retail
+Line  43: 49
+Line  44: Retail
+Line  45: Retail
+Line  46: Retail
+Line  47: Departures
+Line  48: Departures
+Line  49: Security
+Line  50: Arrivals
+Line  51: Plant MEP
+Line  52: 40
+Line  53: Plant MEP
+Line  54: Plant MEP
+Line  55: Plant MEP
+Line  56: Plant MEP
+Line  57: Circulation
+Line  58: Circulation
+Line  59: Circulation
+Line  60: Plant MEP
+Line  61: Plant MEP
+Line  62: Plant MEP
+Line  63: Plant MEP
+Line  64: Vertical Connections
+Line  65: General
+Line  66: General
+Line  67: Circulation
+Line  68: Plant MEP
+Line  69: Plant MEP
+Line  70: Plant MEP
+Line  71: Plant MEP
+Line  72: General
+Line  73: 40
+Line  74: General
+Line  75: General
+Line  76: Plant MEP
+Line  77: Plant MEP
+Line  78: General
+Line  79: General
+Line  80: General
+Line  81: General
+Line  82: General
+Line  83: General
+Line  84: General
+Line  85: 75
+Line  86: General
+Line  87: 47
+Line  88: General
+Line  89: Plant MEP
+Line  90: Plant MEP
+Line  91: Circulation
+Line  92: Circulation
+Line  93: 71
+Line  94: Circulation
+Line  95: Circulation
+Line  96: Circulation
+Line  97: Circulation
+Line  98: Plant MEP
+Line  99: Plant MEP
+Line 100: Plant MEP
+Line 101: Plant MEP
+Line 102: Vertical Connections
+Line 103: Vertical Connections
+Line 104: Circulation
+Line 105: Circulation
+Line 106: Circulation
+Line 107: General
+Line 108: Plant MEP
+Line 109: Plant MEP
+Line 110: Sanitary Facilities
+Line 111: Sanitary Facilities
+Line 112: Sanitary Facilities
+Line 113: Circulation
+Line 114: Circulation
+Line 115: General
+Line 116: Sanitary Facilities
+Line 117: Sanitary Facilities
+Line 118: Vertical Connections
+Line 119: Circulation
+Line 120: Vertical Connections
+Line 121: Circulation
+Line 122: Circulation
+Line 123: Circulation
+Line 124: Circulation
+Line 125: Circulation
+Line 126: Circulation
+Line 127: Plant MEP
+Line 128: General
+Line 129: General
+Line 130: General
+Line 131: Plant MEP
+Line 132: Plant MEP
+Line 133: Plant MEP
+Line 134: Plant MEP
+Line 135: Arrivals
+Line 136: Retail
+Line 137: 17175
+Line 138: 19050
+Line 139: Circulation
+Line 140: Plant MEP
+Line 141: Plant MEP
+Line 142: Circulation
+Line 143: DRAWING NO.
+Line 144: DRW
+Line 145: CH
+Line 146: APPR
+Line 147: DRW DATE
+Line 148: REV
+Line 149: DRAWING TITLE
+Line 150: SCALE
+Line 151: STATUS
+Line 152: KEY PLAN
+Line 153: NORTH
+Line 154: REV
+Line 155: BY
+Line 156: DATE
+Line 157: DESCRIPTION
+Line 158: PROJECT NAME
+Line 159: PROJECT CODE
+Line 160: CONSORTIUM
+Line 161: DRAWING NOTICES
+Line 162: Anemos
+Line 163: Anemos
+Line 164: Drawings
+Line 165: INTELLECTUAL PROPERTY
+Line 166: Copyright Anemos.
+Line 167: Anemos
+Line 168: Anemos.
+Line 169: Anemos
+Line 170: Anemos
+Line 171: DESIGN TEAM
+Line 172: GRIMSHAW INTERNATIONAL LTD
+Line 173: 44 7291 4277
+Line 174: Clerkenwell Road,
+Line 175: London, UK
+Line 176: ARUP INTERNATIONAL PROJECTS LTD
+Line 177: HAPTIC ARCHITECTS LTD
+Line 178: 44 7099 2933
+Line 179: Unit Royle Studios,
+Line 180: 41 Wenlock
+Line 181: London UK
+Line 182: 44 7636 1531
+Line 183: Fitzroy
+Line 184: London UK
+Line 185: LESLIE JONES ARCHITECTS LTD
+Line 186: STUDIO
+Line 187: TRIAGONAL INFODESIGN
+Line 188: 45 44
+Line 189: Raffinaderivej 07
+Line 190: DK 2300 Copenhagen
+Line 191: DENMARK
+Line 192: 7522
+Line 193: Isavron Lycabettus
+Line 194: 71, Athens,
+Line 195: GREECE
+Line 196: 44 7255 1150
+Line 197: Suite Grand Union
+Line 198: Studios, Ladbroke
+Line 199: London UK
+Line 200: CLIENT
+Line 201: Anemos
+Line 202: Administration Building
+Line 203: 19019, Spata Attikis, Greece
+Line 204: DESIGN PHASE
+Line 205: 2024
+Line 206: AEP ANM 002 0920 DRW AR
+Line 207: NK
+Line 208: MS
+Line 209: DK
+Line 210: STB Level Basement Tile
+Line 211: Athens International Airport Expansion
+Line 212: AEP
+Line 213: Athens International
+Line 214: Airport
+Line 215: Preliminary Design
+Line 216: ANM
+Line 217: 2024
+Line 218: Preliminary Design
+
+=== END OF FILTERED TEXT ===
+Total lines: 219

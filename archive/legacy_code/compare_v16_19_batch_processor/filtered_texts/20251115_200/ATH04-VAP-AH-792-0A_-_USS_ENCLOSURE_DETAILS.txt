@@ -1,0 +1,447 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-792-0A_-_USS_ENCLOSURE_DETAILS.pdf ===
+
+Line   0: Ground Floor Level
+Line   1: Basement
+Line   2: Finish Floor Level
+Line   3: USS 01 BASEMENT
+Line   4: 44
+Line   5: Cable
+Line   6: Structural
+Line   7: Engineers
+Line   8: 75
+Line   9: Concrete Structural
+Line  10: Engineers
+Line  11: Composite Panel Steel Faced Cladding
+Line  12: System
+Line  13: 1300
+Line  14: Insulated
+Line  15: Cill
+Line  16: RIW Structureseal
+Line  17: Manufacturer
+Line  18: 1000
+Line  19: Concrete
+Line  20: USS 01
+Line  21: 00
+Line  22: 44
+Line  23: 75
+Line  24: GRP Trim
+Line  25: Concrete Structural
+Line  26: Engineers
+Line  27: Concrete Structural
+Line  28: Engineers
+Line  29: Mechanically
+Line  30: Gutter Level
+Line  31: Composite Panel Steel Faced Cladding
+Line  32: System Flat Surface. TRIMOTERM
+Line  33: 1200 PERFORM COMPOSITE.
+Line  34: Panels
+Line  35: Panels
+Line  36: Colorcoat Ultra Tata
+Line  37: Imper Italia Paraflex NT
+Line  38: SBS
+Line  39: Rockwool Hardrock
+Line  40: Thermal Stone Wool Roofing Insulation
+Line  41: Value
+Line  42: Ground Floor Level
+Line  43: Basement
+Line  44: Finish Floor Level
+Line  45: USS 01
+Line  46: 00
+Line  47: 44
+Line  48: USS 01 BASEMENT
+Line  49: 44
+Line  50: USS 01
+Line  51: 00
+Line  52: 44
+Line  53: 415
+Line  54: 1300
+Line  55: Cable
+Line  56: Structural
+Line  57: Engineers
+Line  58: Concrete Structural
+Line  59: Engineers
+Line  60: Composite Panel Steel Faced
+Line  61: Cladding System
+Line  62: Insulated
+Line  63: Cill
+Line  64: RIW Structureseal
+Line  65: Manufacturer
+Line  66: Side Jamb
+Line  67: Ducts
+Line  68: PVC
+Line  69: MV
+Line  70: Position
+Line  71: 1000
+Line  72: Concrete
+Line  73: Composite Panel Steel Faced Cladding
+Line  74: System Flat Surface. TRIMOTERM
+Line  75: 1200 PERFORM COMPOSITE.
+Line  76: Panels
+Line  77: Panels
+Line  78: Colorcoat Ultra Tata
+Line  79: Concrete Structural
+Line  80: Engineers
+Line  81: Concrete Structural
+Line  82: Engineers
+Line  83: 75
+Line  84: Traditional
+Line  85: Mechanically
+Line  86: Gutter
+Line  87: Wall
+Line  88: Channel
+Line  89: Gutter Level
+Line  90: Imper Italia Paraflex NT
+Line  91: SBS
+Line  92: Rockwool Hardrock
+Line  93: Thermal Stone Wool Roofing Insulation
+Line  94: Value
+Line  95: Concrete
+Line  96: USS 01
+Line  97: 00
+Line  98: 44
+Line  99: 75
+Line 100: Steel Insulated
+Line 101: Head Flashing
+Line 102: Steel
+Line 103: GRP Trim
+Line 104: Mechanically
+Line 105: Steel
+Line 106: Door
+Line 107: Gutter Level
+Line 108: Flashing
+Line 109: Insulated
+Line 110: Packed
+Line 111: Packed
+Line 112: Cladding
+Line 113: Cladding
+Line 114: Composite Panel Steel Faced Cladding
+Line 115: System Flat Surface. TRIMOTERM
+Line 116: 1200 PERFORM COMPOSITE.
+Line 117: Panels
+Line 118: Panels
+Line 119: Colorcoat Ultra
+Line 120: Tata
+Line 121: Imper Italia Paraflex NT
+Line 122: SBS
+Line 123: Rockwool Hardrock
+Line 124: Thermal Stone Wool Roofing Insulation
+Line 125: Value
+Line 126: Ground Floor Level
+Line 127: Basement
+Line 128: Finish Floor Level
+Line 129: USS 01 BASEMENT
+Line 130: 44
+Line 131: USS 01
+Line 132: 00
+Line 133: 44
+Line 134: Composite
+Line 135: Steel Door. Insulated.
+Line 136: 1300
+Line 137: Cable
+Line 138: Structural
+Line 139: Engineers
+Line 140: RIW Structureseal
+Line 141: Manufacturer
+Line 142: Ducts
+Line 143: PVC
+Line 144: MV
+Line 145: Position
+Line 146: 1000
+Line 147: Ramped
+Line 148: FFL Civil Engineers
+Line 149: 75
+Line 150: 75
+Line 151: Concrete
+Line 152: Structural Engineers
+Line 153: Corner
+Line 154: Manufacturer Details
+Line 155: Indicative Secondary Steel
+Line 156: Cladding Support. Designed
+Line 157: Coordinated Contractor
+Line 158: Tight Membrane
+Line 159: Composite Panel Steel Faced
+Line 160: Cladding System Flat Surface.
+Line 161: TRIMOTERM 1200 PERFORM
+Line 162: COMPOSITE. Panels
+Line 163: Panels
+Line 164: Colorcoat Ultra Tata
+Line 165: Composite Cladding
+Line 166: Mineral
+Line 167: Concrete Structural
+Line 168: Engineers
+Line 169: Steel Door. Insulated.
+Line 170: Insulated
+Line 171: 75
+Line 172: Sheet Title Number
+Line 173: Scale
+Line 174: Plan
+Line 175: Design Consultants
+Line 176: Microsoft
+Line 177: DATA CENTER
+Line 178: SPATA GREECE
+Line 179: Contractor Joint Venture
+Line 180: Name
+Line 181: Contractor Project
+Line 182: Contractor Contract
+Line 183: Contractor PM
+Line 184: Contractor BIM Mngr
+Line 185: Contractor Information
+Line 186: Renco Terna
+Line 187: Client
+Line 188: General Notes
+Line 189: Client Project
+Line 190: Client Contract
+Line 191: Client PM
+Line 192: Client BIM Mngr
+Line 193: Primary Client Information
+Line 194: Layout
+Line 195: Revision
+Line 196: Tombazi Chalandri
+Line 197: 15232
+Line 198: Athens Greece
+Line 199: 0800 3262
+Line 200: Agion Theodoron Square Athens
+Line 201: 10561
+Line 202: Athens Greece
+Line 203: Kimithois Agios Dimitrios
+Line 204: 17236
+Line 205: Athens Greece
+Line 206: Purpose Issue
+Line 207: Issue
+Line 208: Name
+Line 209: USS ENCLOSURE DETAILS
+Line 210: VAP AH 792
+Line 211: SCALE
+Line 212: Cladding Details Callout 2
+Line 213: SCALE
+Line 214: Cladding Details Callout
+Line 215: SCALE
+Line 216: Cladding Details Callout 4
+Line 217: SCALE
+Line 218: Cladding Details Callout
+Line 219: SCALE
+Line 220: Cladding Details Callout
+Line 221: SCALE
+Line 222: Cladding Details Callout
+Line 223: SCALE
+Line 224: Cladding Details Plan Callout
+Line 225: SCALE
+Line 226: Cladding Details Plan Callout 2
+Line 227: SCALE
+Line 228: Door Schedule Revised
+Line 229: Mark
+Line 230: Type
+Line 231: Mark
+Line 232: Room
+Line 233: Name
+Line 234: Room
+Line 235: Name
+Line 236: Clear
+Line 237: Opening
+Line 238: Structural
+Line 239: Opening
+Line 240: Door
+Line 241: Frame
+Line 242: Finish
+Line 243: Door
+Line 244: Panel
+Line 245: Finish
+Line 246: Door Frame Thickness
+Line 247: Door Leaf Thickness
+Line 248: Country Door Leaf Module
+Line 249: Secondary Steel Support
+Line 250: Ironmongary
+Line 251: Protection
+Line 252: Zone
+Line 253: RC Rating
+Line 254: Performa
+Line 255: Detail
+Line 256: Security
+Line 257: Access
+Line 258: Control
+Line 259: Door
+Line 260: Contact
+Line 261: Lock
+Line 262: Type
+Line 263: Control
+Line 264: Type
+Line 265: Door
+Line 266: Release
+Line 267: Corrosio
+Line 268: Resistanc
+Line 269: CS AHJ
+Line 270: Opening
+Line 271: Power
+Line 272: Assist
+Line 273: Threshol
+Line 274: Strip
+Line 275: Vision
+Line 276: Panel
+Line 277: Type
+Line 278: Lever Handle
+Line 279: Pull Handle
+Line 280: Push
+Line 281: Kick Plate
+Line 282: Astragal
+Line 283: Closer
+Line 284: Power Door Closer
+Line 285: Power Door Opener
+Line 286: Seal
+Line 287: Dropdown Seal
+Line 288: Hinges
+Line 289: Gril
+Line 290: Thumb
+Line 291: WC Indicator
+Line 292: CSI
+Line 293: Numb
+Line 294: CSI Short Title
+Line 295: Comment
+Line 296: Width Height
+Line 297: Rough
+Line 298: Width
+Line 299: Rough
+Line 300: Height
+Line 301: Fire Rating
+Line 302: Acoustic Rating
+Line 303: ED SR 001
+Line 304: WT
+Line 305: USS 01
+Line 306: 1820
+Line 307: 3435
+Line 308: 2000
+Line 309: 3500
+Line 310: STEEL
+Line 311: STEEL
+Line 312: 49
+Line 313: CDP
+Line 314: TBD
+Line 315: NA
+Line 316: NA
+Line 317: ACS
+Line 318: CRI RXO
+Line 319: YES
+Line 320: CLASSROOM
+Line 321: ACTIVE LEAF
+Line 322: YES
+Line 323: TAMPER PROOF
+Line 324: METAL DOORS FRAMES
+Line 325: ED SR 002
+Line 326: WT
+Line 327: USS 02
+Line 328: 1820
+Line 329: 3435
+Line 330: 2000
+Line 331: 3500
+Line 332: STEEL
+Line 333: STEEL
+Line 334: 49
+Line 335: CDP
+Line 336: TBD
+Line 337: NA
+Line 338: NA
+Line 339: ACS
+Line 340: CRI RXO
+Line 341: YES
+Line 342: CLASSROOM
+Line 343: ACTIVE LEAF
+Line 344: YES
+Line 345: TAMPER PROOF
+Line 346: METAL DOORS FRAMES
+Line 347: ED SR 003
+Line 348: ED
+Line 349: USS 02
+Line 350: 2335
+Line 351: 1000
+Line 352: 2400
+Line 353: STEEL
+Line 354: STEEL
+Line 355: 49
+Line 356: CDP
+Line 357: TBD
+Line 358: NA
+Line 359: NA
+Line 360: MON
+Line 361: YES
+Line 362: STOREROOM
+Line 363: MEC
+Line 364: ACTIVE LEAF
+Line 365: YES
+Line 366: TAMPER PROOF
+Line 367: METAL DOORS FRAMES
+Line 368: ED SR 004
+Line 369: ED
+Line 370: USS 01
+Line 371: 2335
+Line 372: 1000
+Line 373: 2400
+Line 374: STEEL
+Line 375: STEEL
+Line 376: 49
+Line 377: CDP
+Line 378: TBD
+Line 379: NA
+Line 380: NA
+Line 381: MON
+Line 382: YES
+Line 383: STOREROOM
+Line 384: MEC
+Line 385: ACTIVE LEAF
+Line 386: YES
+Line 387: TAMPER PROOF
+Line 388: METAL DOORS FRAMES
+Line 389: NOTE DOORS REVIEW
+Line 390: NOTE
+Line 391: SECONDARY STEEL SUPPORT DOORS PROVIDED REQUIRED.
+Line 392: NEED DESIGN SUCH SUPPORT DETERMINED
+Line 393: CONTRACTOR BASED DOOR WEIGHT, SIZE, INSTALLATION REQUIREMENTS.
+Line 394: SUPPORT STRUCTURES COMPLY APPLICABLE BUILDING STANDARDS
+Line 395: REGULATIONS.
+Line 396: DOOR SCHEDULE READ CONJUNCTION FIRE STRATEGY, SECURITY,
+Line 397: ACOUSTIC INFORMATION DRAWINGS ADDITION
+Line 398: CSA SPECIFICATION IRONMONGERY SCHEDULE. DISCREPANCIES
+Line 399: RAISED MATTER URGENCY.
+Line 400: Abbreviations
+Line 401: Door Type
+Line 402: Single
+Line 403: Double
+Line 404: Half Leaf
+Line 405: Roller Shutter
+Line 406: Fire Rating
+Line 407: NFR Fire Rated
+Line 408: Access System
+Line 409: ACS Access Control
+Line 410: MON Monitored
+Line 411: Access Contol
+Line 412: CIRI Biometric Iris Reader
+Line 413: CRI Card Reader
+Line 414: CRO Card Reader
+Line 415: RXO Request Exit
+Line 416: EEO Emergency Exit Only
+Line 417: Others Security
+Line 418: Hinges
+Line 419: SSS Satin Stainless Steel
+Line 420: FBE Fusion Bonded Epoxy Power Coating
+Line 421: SECURITY PARAMETERS ACCESS CONTROL, CONTROL TYPE,
+Line 422: DEVICE TYPE DETERMINED READ CONJUNCTION SECURITY
+Line 423: PLANS
+Line 424: FIRE PARAMETERS FIRE RATING MINUTES SMOKE SEAL DETERMINED
+Line 425: FIRE COMPARTMENTATION READ
+Line 426: CONJUNCTION FIRE STRATEGY PLANS
+Line 427: ACOUSTIC RATING DB READ CONJUNCTION
+Line 428: ACOUSTIC PLANS
+Line 429: ADMIN
+Line 430: COLO
+Line 431: COLO 2
+Line 432: 2
+Line 433: 4
+Line 434: 2
+Line 435: 4
+Line 436: TRUE NORTH
+Line 437: Date
+Line 438: Description
+Line 439: 06
+Line 440: Issued Approval
+Line 441: VAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 442

@@ -1,0 +1,220 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-745-0A_-_INTERNAL_GLAZING_KEY_PLAN.pdf ===
+
+Line   0: YF
+Line   1: YE
+Line   2: YD
+Line   3: YC
+Line   4: YB
+Line   5: YA
+Line   6: 746
+Line   7: 747
+Line   8: 746
+Line   9: 747
+Line  10: 746
+Line  11: 746
+Line  12: 747
+Line  13: 747
+Line  14: 747
+Line  15: 747
+Line  16: 747
+Line  17: 747
+Line  18: BREAK
+Line  19: ROOM
+Line  20: ATH04 00 017
+Line  21: FACILITY
+Line  22: OFFICE
+Line  23: ATH04 00 005
+Line  24: FOC
+Line  25: ATH04 00 003
+Line  26: OFFICE
+Line  27: ATH04 00 015
+Line  28: RECEIVING
+Line  29: STAGING
+Line  30: AREA
+Line  31: ATH04 00 040
+Line  32: SOC
+Line  33: ATH04 00 006
+Line  34: FCR
+Line  35: ATH04 00 022
+Line  36: SER
+Line  37: ATH04 00 023
+Line  38: OFFICE
+Line  39: ATH04 00 014
+Line  40: ELEC ROOM
+Line  41: ATH04 00 024
+Line  42: CE
+Line  43: WORKSHOP
+Line  44: ATH04 00 043
+Line  45: LOADING
+Line  46: DOCK
+Line  47: ATH04 00 048
+Line  48: HIGH VALUE
+Line  49: STORAGE
+Line  50: ATH04 00 046
+Line  51: SECURE
+Line  52: STORAGE
+Line  53: ATH04 00 044
+Line  54: ASSET
+Line  55: MANAGEMENT
+Line  56: ATH04 00 047
+Line  57: GENERAL
+Line  58: STORAGE
+Line  59: ATH04 00 042
+Line  60: SHRED
+Line  61: ROOM
+Line  62: ATH04 00 045
+Line  63: CABLE
+Line  64: STORAGE
+Line  65: ATH04 00 041
+Line  66: CONFERENCE
+Line  67: ROOM
+Line  68: ATH04 00 032
+Line  69: MMR
+Line  70: ATH04 00 053
+Line  71: UNISEX WC
+Line  72: ATH04 00 039
+Line  73: CHECK
+Line  74: POINT
+Line  75: ATH04 00 036
+Line  76: LOBBY WC
+Line  77: ATH04 00 033
+Line  78: ENTRANCE
+Line  79: LOBBY
+Line  80: ATH04 00 001
+Line  81: INNER
+Line  82: LOBBY
+Line  83: ATH04 00 002
+Line  84: MMR
+Line  85: ATH04 00 020
+Line  86: JANITOR
+Line  87: ROOM
+Line  88: ATH04 00 037
+Line  89: WELLNESS
+Line  90: ATH04 00 013
+Line  91: SHWR
+Line  92: CHANGE
+Line  93: ATH04 00 028
+Line  94: CONFERENCE
+Line  95: ROOM
+Line  96: ATH04 00 009
+Line  97: OFFICE A
+Line  98: ATH04 00 004
+Line  99: PHONE
+Line 100: BOOTH
+Line 101: ATH04 00 011
+Line 102: MEETING
+Line 103: ROOM
+Line 104: ATH04 00 010
+Line 105: SOC
+Line 106: STORAGE
+Line 107: ATH04 00 008
+Line 108: SOC OFFICE
+Line 109: ATH04 00 007
+Line 110: WC
+Line 111: ATH04 00 051
+Line 112: ADMIN
+Line 113: SPRINKLER
+Line 114: RISER
+Line 115: ATH04 00 049
+Line 116: DIS
+Line 117: WC SHWR
+Line 118: ATH04 00 034
+Line 119: WC
+Line 120: ATH04 00 031
+Line 121: WC
+Line 122: ATH04 00 026
+Line 123: LOBBY
+Line 124: ATH04 00 029
+Line 125: FIRE
+Line 126: ESCAPE
+Line 127: CORRIDOR
+Line 128: ATH04 00 052
+Line 129: FIRE
+Line 130: ESCAPE
+Line 131: CORRIDOR
+Line 132: ATH04 00 019
+Line 133: CORRIDOR
+Line 134: ATH04 00 016
+Line 135: CORRIDOR
+Line 136: ATH04 00 021
+Line 137: STORAGE
+Line 138: ATH04 00 018
+Line 139: PRINT ROOM
+Line 140: ATH04 00 012
+Line 141: WC
+Line 142: ATH04 00 030
+Line 143: LOBBY
+Line 144: ATH04 00 027
+Line 145: LOBBY
+Line 146: ATH04 00 025
+Line 147: INCOMING
+Line 148: WATER
+Line 149: RISER
+Line 150: ATH04 00 055
+Line 151: COLO
+Line 152: STORE
+Line 153: ATH04 00 056
+Line 154: LOBBY
+Line 155: ATH04 00 059
+Line 156: AIRLOCK
+Line 157: ATH04 00 038
+Line 158: 720
+Line 159: 747
+Line 160: 03
+Line 161: 03
+Line 162: ADMIN
+Line 163: COLO
+Line 164: COLO
+Line 165: TRUE NORTH
+Line 166: Sheet Title Number
+Line 167: Scale
+Line 168: Plan
+Line 169: Design Consultants
+Line 170: Microsoft
+Line 171: DATA CENTER ATH04
+Line 172: SPATA GREECE
+Line 173: Contractor Joint Venture
+Line 174: Name
+Line 175: Contractor Project
+Line 176: Contractor Contract
+Line 177: Contractor PM
+Line 178: Contractor BIM Mngr
+Line 179: Contractor Information
+Line 180: Renco Terna
+Line 181: Client
+Line 182: General Notes
+Line 183: Client Project
+Line 184: Client Contract
+Line 185: Client PM
+Line 186: Client BIM Mngr
+Line 187: Primary Client Information
+Line 188: Layout
+Line 189: Revision
+Line 190: Tombazi Chalandri
+Line 191: 15232
+Line 192: Athens Greece
+Line 193: 0800 3262
+Line 194: Agion Theodoron Square Athens
+Line 195: 10561
+Line 196: Athens Greece
+Line 197: Kimithois Agios Dimitrios
+Line 198: 17236
+Line 199: Athens Greece
+Line 200: Purpose Issue
+Line 201: Issue
+Line 202: Name
+Line 203: INTERNAL GLAZING KEY PLAN
+Line 204: ATH04 VAP AH 745
+Line 205: SCALE
+Line 206: ADMIN INTERNAL GLAZING KEY PLAN
+Line 207: 2500
+Line 208: 5000
+Line 209: SCALE
+Line 210: Date
+Line 211: Description
+Line 212: 05
+Line 213: Issued Approval
+Line 214: VAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 215

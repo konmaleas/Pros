@@ -1,0 +1,68 @@
+=== FILTERED TEXT FOR: Λ202-00.pdf ===
+
+Line   0: ΤΟΥΒΛΟ
+Line   1: ΙΝΟΓΥΨΟΣΑΝΙΔΑ
+Line   2: VIDIWALL
+Line   3: KENO
+Line   4: ΣΟΒΑΣ
+Line   5: 41
+Line   6: ΜΟΝΩΣΗ
+Line   7: ARITHERM
+Line   8: GREEN GLUE
+Line   9: COMPOUND
+Line  10: 75
+Line  11: ΙΝΟΓΥΨΟΣΑΝΙΔΑ
+Line  12: VIDIWALL
+Line  13: ΣΚΕΛΕΤΟΣ ΑΛΟΥΜΙΝΙΟΥ
+Line  14: ΣΚΕΛΕΤΟΣ ΑΛΟΥΜΙΝΙΟΥ
+Line  15: GREEN GLUE COMPOUND
+Line  16: ΜΕΜΒΡΑΝΗ ΤΕCSOUND
+Line  17: ΜΟΝΩΣΗ
+Line  18: ARITHERM
+Line  19: ΤΟΥΒΛΟ
+Line  20: KENO
+Line  21: ΣΟΒΑΣ
+Line  22: ΜΟΝΩΣΗ
+Line  23: ARITHERM
+Line  24: ΣΥΝΘΕΤΟ
+Line  25: ΗΧΟΜΟΝΩΤΙΚΟ
+Line  26: ΤΕCSOUND
+Line  27: ΜΑΪΟΣ 2017
+Line  28: ΗΜ ΝΙΑ ΣΧΕΔΙΟΥ
+Line  29: ΣΧΕΔΙΟ
+Line  30: Όλες
+Line  31: ΗΜΕΡΟΜΗΝΙΑ ΜΕΛΕΤΗΣ
+Line  32: ΑΡΙΘΜΟΣ ΣΧΕΔΙΟΥ
+Line  33: ΕΡΓΟ
+Line  34: ΚΥΡΙΟΣ ΕΡΓΟΥ
+Line  35: ΚΑΤΗΓΟΡΙΑ
+Line  36: ΚΛΙΜΑΚΑ
+Line  37: ΜΕΛΕΤΗ ΕΦΑΡΜΟΓΗΣ
+Line  38: ΛΕΠΤΟΜΕΡΕΙΕΣ
+Line  39: ΛΕΜΟΣ
+Line  40: ΑΝΕΓΕΡΣΗ ΙΣΟΓΕΙΑΣ ΚΑΤΟΙΚΙΑΣ
+Line  41: ΜΕ ΥΠΟΓΕΙΟ ΚΑΙ ΥΠΟΣΚΑΦΟ ΚΤΙΣΜΑ
+Line  42: ΜΕ ΤΟΙΧΟΠΟΙΙΑ ΑΠΟ ΛΙΘΟΔΟΜΗ,
+Line  43: ΚΑΙ ΠΙΣΙΝΑ
+Line  44: ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΜΕΛΕΤΗ
+Line  45: ΣΤΑΔΙΟ ΜΕΛΕΤΗΣ
+Line  46: ΚΕΚΕ Καλή Σκάλα Κοστα
+Line  47: Διαμερίσματος Πορτοχελίου, Κρανιδίου
+Line  48: Νομός Αργολίδος
+Line  49: 05
+Line  50: 04
+Line  51: 03
+Line  52: 02
+Line  53: 01
+Line  54: ΗΜ ΝΙΑ
+Line  55: ΠΕΡΙΓΡΑΦΗ
+Line  56: ΑΝΑΘΕΩΡΗΣΕΙΣ
+Line  57: ΜΕΛΕΤΗ ΕΦΑΡΜΟΓΗΣ
+Line  58: Ηπείρου Αθήνα 10439
+Line  59: ΤΟΙΧΟΠΟΙΪΑ ME
+Line  60: ΙΝΟΓΥΨΟΣΑΝΙΔΑ
+Line  61: 00
+Line  62: 09 2017
+
+=== END OF FILTERED TEXT ===
+Total lines: 63

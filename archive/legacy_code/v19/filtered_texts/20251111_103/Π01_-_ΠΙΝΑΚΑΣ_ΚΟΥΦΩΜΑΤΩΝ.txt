@@ -1,0 +1,165 @@
+=== FILTERED TEXT FOR: Π01_-_ΠΙΝΑΚΑΣ_ΚΟΥΦΩΜΑΤΩΝ.pdf ===
+
+Line   0: ΚΛΙΜΑΚΑ
+Line   1: ΕΡΓΟ
+Line   2: ΑΡΙΘΜΟΣ
+Line   3: ΗΜΕΡΟΜΗΝΙΑ ΜΕΛΕΤΗΣ
+Line   4: ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΜΕΛΕΤΗ
+Line   5: ΜΕΛΕΤΗΣ
+Line   6: ΣΤΑΤΙΚΗ ΜΕΛEΤΗ
+Line   7: ΗΜ ΝΙΑ
+Line   8: ΚΑΤΗΓΟΡΙΑ
+Line   9: ΜΕΛΕΤΗ ΕΓΚΑΤΑΣΤΑΣΕΩΝ
+Line  10: Φιλολάου Ηλιούπολη 16342 Ελλάδα
+Line  11: ΚΗΜ
+Line  12: ΟΜΙΛΟΣ
+Line  13: ΧΡΗΜΑΤΙΣΤΗΡΙΟΥ ΑΘΗΝΩΝ
+Line  14: Φιλήμονος Αθήνα 11521 Ελλάδα
+Line  15: Ηπείρου Αθήνα, Ελλάδα
+Line  16: 3262 3269
+Line  17: ΑΡΧΙΤΕΚΤΟΝΙΚH ΜΕΛEΤΗ
+Line  18: ΠΙΝΑΚΑΣ
+Line  19: ΚΟΥΦΩΜΑΤΩΝ
+Line  20: ΜΑΡΤΙΟΥ
+Line  21: 2017
+Line  22: ΜΕΛΕΤΗ
+Line  23: Λεωφ. Αθηνών Αθήνα 42
+Line  24: 03
+Line  25: ΝΕΑ ΧΩΡΩΝ
+Line  26: ΤΟΥ ΤΟΥ ΟΜΙΛΟΥ
+Line  27: ΧΡΗΜΑΤIΣΤHΡΙΟΥ ΑΘΗΝΩΝ
+Line  28: ΘΥΡΕΣ
+Line  29: ΤΥΠΟΣ
+Line  30: ΠΛΑΤΟΣ
+Line  31: ΥΨΟΣ
+Line  32: ΠΥΡΑΝΤΟ
+Line  33: ΧΗ
+Line  34: ΜΠΑΡΑ
+Line  35: ΠΑΝΙΚΟΥ
+Line  36: ΤΕΜΑ
+Line  37: ΧΙΑ
+Line  38: 2200
+Line  39: 2200
+Line  40: 2200
+Line  41: 2200
+Line  42: 2200
+Line  43: 2200
+Line  44: 1000
+Line  45: 2200
+Line  46: 2200
+Line  47: 2200
+Line  48: 1100
+Line  49: 2200
+Line  50: 2200
+Line  51: 2200
+Line  52: 1800
+Line  53: 2200
+Line  54: 1800
+Line  55: 2200
+Line  56: 1800
+Line  57: 2400
+Line  58: 1600
+Line  59: 2300
+Line  60: ΣΥΝΟΛΟ
+Line  61: CURTAIN WALL SCHEDULE
+Line  62: Type
+Line  63: Length
+Line  64: Height
+Line  65: Level FFL
+Line  66: KINHTO ΧΩΡΙΣΜΑ ΤΥΠΟΥ
+Line  67: 3432
+Line  68: 3200
+Line  69: KINHTO ΧΩΡΙΣΜΑ ΤΥΠΟΥ
+Line  70: 3975
+Line  71: 3200
+Line  72: Level FFL
+Line  73: KINHTO ΧΩΡΙΣΜΑ ΤΥΠΟΥ
+Line  74: 1698
+Line  75: 2700
+Line  76: KINHTO ΧΩΡΙΣΜΑ ΤΥΠΟΥ
+Line  77: 1698
+Line  78: 2700
+Line  79: KINHTO ΧΩΡΙΣΜΑ ΤΥΠΟΥ
+Line  80: 1698
+Line  81: 2700
+Line  82: KINHTO ΧΩΡΙΣΜΑ ΤΥΠΟΥ
+Line  83: 1698
+Line  84: 2700
+Line  85: KINHTO ΧΩΡΙΣΜΑ ΤΥΠΟΥ
+Line  86: 1737
+Line  87: 2700
+Line  88: KINHTO ΧΩΡΙΣΜΑ ΤΥΠΟΥ
+Line  89: 1737
+Line  90: 2700
+Line  91: KINHTO ΧΩΡΙΣΜΑ ΤΥΠΟΥ
+Line  92: 1815
+Line  93: 2700
+Line  94: KINHTO ΧΩΡΙΣΜΑ ΤΥΠΟΥ
+Line  95: 1816
+Line  96: 2700
+Line  97: KINHTO ΧΩΡΙΣΜΑ ΤΥΠΟΥ
+Line  98: 1826
+Line  99: 2700
+Line 100: KINHTO ΧΩΡΙΣΜΑ ΤΥΠΟΥ
+Line 101: 1826
+Line 102: 2700
+Line 103: KINHTO ΧΩΡΙΣΜΑ ΤΥΠΟΥ
+Line 104: 1826
+Line 105: 2700
+Line 106: KINHTO ΧΩΡΙΣΜΑ ΤΥΠΟΥ
+Line 107: 1827
+Line 108: 2700
+Line 109: KINHTO ΧΩΡΙΣΜΑ ΤΥΠΟΥ
+Line 110: 1827
+Line 111: 2700
+Line 112: KINHTO ΧΩΡΙΣΜΑ ΤΥΠΟΥ
+Line 113: 1827
+Line 114: 2700
+Line 115: KINHTO ΧΩΡΙΣΜΑ ΤΥΠΟΥ
+Line 116: 5100
+Line 117: 2700
+Line 118: ΠΥΡΑΝΤΟΧΟ ΚΟΥΦΩΜΑ ΤΥΠΟΥ ΠΚ
+Line 119: 5552
+Line 120: 1700
+Line 121: ΠΥΡΑΝΤΟΧΟ ΚΟΥΦΩΜΑ ΤΥΠΟΥ ΠΚ
+Line 122: 5552
+Line 123: 1700
+Line 124: ΠΥΡΑΝΤΟΧΟ ΚΟΥΦΩΜΑ ΤΥΠΟΥ ΠΚ
+Line 125: 5938
+Line 126: 1700
+Line 127: KINHTO ΧΩΡΙΣΜΑ ΤΥΠΟΥ
+Line 128: 6000
+Line 129: 2700
+Line 130: ΘΥΡΕΣ ΚΙΝΗΤΩΝ ΧΩΡΙΣΜΑΤΩΝ
+Line 131: ΤΥΠΟΣ
+Line 132: ΠΛΑΤΟΣ
+Line 133: ΥΨΟΣ
+Line 134: ΤΕΜΑΧΙΑ
+Line 135: Level FFL
+Line 136: ΘΧ
+Line 137: 3170
+Line 138: ΘΧ
+Line 139: 3170
+Line 140: Level FFL
+Line 141: ΘΧ
+Line 142: 2602
+Line 143: ΘΧ
+Line 144: 2602
+Line 145: ΘΧ
+Line 146: 750
+Line 147: 2602
+Line 148: ΘΧ
+Line 149: 750
+Line 150: 2602
+Line 151: ΘΧ
+Line 152: 750
+Line 153: 2602
+Line 154: ΘΧ
+Line 155: 750
+Line 156: 2602
+Line 157: ΘΧ
+Line 158: 2602
+Line 159: ΣΥΝΟΛΟ
+
+=== END OF FILTERED TEXT ===
+Total lines: 160

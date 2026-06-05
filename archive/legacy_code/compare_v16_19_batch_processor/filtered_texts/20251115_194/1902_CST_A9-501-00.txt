@@ -1,0 +1,131 @@
+=== FILTERED TEXT FOR: 1902_CST_A9-501-00.pdf ===
+
+Line   0: ΡΑΦΙ
+Line   1: ΡΑΦΙ
+Line   2: ΡΑΦΙ
+Line   3: ΡΑΦΙ
+Line   4: ΡΑΦΙ
+Line   5: ΡΑΦΙ
+Line   6: ΡΑΦΙ
+Line   7: 2620
+Line   8: ΡΑΦΙ
+Line   9: 495
+Line  10: 495
+Line  11: 495
+Line  12: 494
+Line  13: 1286
+Line  14: ΚΑΘΑΡΟ ΥΨΟΣ ΜΕΛΕΤΗΣ
+Line  15: ΡΑΦΙ
+Line  16: ΡΑΦΙ
+Line  17: ΡΑΦΙ
+Line  18: ΡΑΦΙ
+Line  19: ΡΑΦΙ
+Line  20: ΡΑΦΙ
+Line  21: ΚΑΘΑΡΟ ΥΨΟΣ ΜΕΛΕΤΗΣ
+Line  22: ΡΑΦΙ
+Line  23: ΡΑΦΙ
+Line  24: 2130
+Line  25: 493
+Line  26: ΡΑΦΙ
+Line  27: ΡΑΦΙ
+Line  28: 2100
+Line  29: ΛΕΠΤ.
+Line  30: 00
+Line  31: ΦΥΛΛΑ ΝΤΟΥΛΑΠΑΣ ΑΠΟ ΛΕΥΚΗ ΛΑΚΑ SATINE RAL 9010
+Line  32: 2. ΡΑΦΙΑ ΝΤΟΥΛΑΠΑΣ KAI KOYTIA ΝΤΟΥΛΑΠΑΣ ΑΠΟ ΛΕΥΚΗ
+Line  33: ΜΕΛΑΜΙΝΗ AGT SOFT TOUCH WHITE
+Line  34: TEΛΙΚΟ ΔΑΠΕΔΟ ΧΩΡΟΥ
+Line  35: 4. ΧΟΥΦΤΑ ΚΡΥΦΟ ΠΟΜΟΛΟ ΚΑΘ ΟΛΟ ΤΟ ΥΨΟΣ ΤΩΝ ΦΥΛΛΩΝ
+Line  36: ΛΕΠΤΟΜΕΡΕΙΑ ΕΙΝΑΙ ΕΝΔΕΙΚΤΙΚΗ, EΠΙΘΥΜΗΤΗ ΕΙΝΑΙ
+Line  37: ΑΠΟΣΤΑΣΗ ΤΩΝ
+Line  38: ΡΑΓΑ ΚΡΕΜΑΝΣΗΣ ΡΟΥΧΩΝ ΥΛΙΚΟ ΠΡΟΣ ΕΠΙΒΕΒΑΙΩΣΗ
+Line  39: ΚΡΥΦΗ ΜΠΑΖΑ ΜΑΧ. ΥΨΟΣ
+Line  40: ΜΕΤΑΛΛΙΚΗ ΣΧΑΡΑ ΚΛΙΜΑΤΙΣΜΟΥ ΧΡΩΜΑ ΜΕ ΤΑ
+Line  41: ΦΥΛΛΑ
+Line  42: ΧΩΡΟΣ ΚΛΙΜΑΤΙΣΤΙΚΟΥ
+Line  43: TOIXOΣ ΑΠΟ ΟΠΤΟΠΛΙΝΘΟΥΣ
+Line  44: ΛΑΓΩΝΙΚΗ ΑΛΜΥΡΑ ΝΟΤΙΑ
+Line  45: ΑΝΤΙΠΑΡΟΣ LAGONIKI ALMYRA
+Line  46: SOUTH ANTIPAROS
+Line  47: RESIDENCES ANTIPAROS
+Line  48: CSTO LIMITED
+Line  49: ΠΕΡΙΓΡΑΦΗ
+Line  50: DESCRIPTION
+Line  51: ΗΜ ΝΙΑ
+Line  52: REVISION DATE
+Line  53: Νaxou Kifisia, Greece
+Line  54: 4217 6976
+Line  55: ERISMA
+Line  56: Kontou 2 Athens, Greece
+Line  57: 6781 6785
+Line  58: TEKEM CONSULTING ENGINEERS
+Line  59: Epirou Athens, Greece
+Line  60: 3262 3269
+Line  61: Ploutarchou Athens, 75 Greece
+Line  62: 722 4170 722 6355
+Line  63: Skoufa Athens, 72 Greece
+Line  64: 8642
+Line  65: HELLI PANGALOU
+Line  66: ΚΛΙΜΑΚΑ
+Line  67: SCALE
+Line  68: ΣΧΕΔΙΟ
+Line  69: ΕΡΓΟ
+Line  70: ΕΡΓΟΔΟΤΗΣ
+Line  71: ΗΜΕΡΟΜΗΝΙΑ ΕΚΔΟΣΗΣ
+Line  72: FIRST ISSUE DATE
+Line  73: DETAILED DESIGN
+Line  74: KAT. ΣΧΕΔΙΟΥ
+Line  75: BLD. CATEGORY
+Line  76: ISSUED
+Line  77: ΘΕΣΗ ΕΡΓΟΥ
+Line  78: CONSTR.
+Line  79: APPROVAL
+Line  80: TENDER
+Line  81: STATUS
+Line  82: DRAFT
+Line  83: FINAL
+Line  84: ΑΝΑΘ.
+Line  85: REV.
+Line  86: PROJECT
+Line  87: LOCATION
+Line  88: CLIENT
+Line  89: DRAWING
+Line  90: ΚΗΠΟΤΕΧΝΙΚΗ ΜΕΛΕΤΗ
+Line  91: LANDSCAPE DESIGN
+Line  92: ΜΗΧΑΝΟΛΟΓΙΚΗ ΜΕΛΕΤΗ
+Line  93: MEP ENGINEER
+Line  94: ΣΤΑΤΙΚΗ ΜΕΛΕΤΗ
+Line  95: STRUCTURAL ENGINEER
+Line  96: ΑΡΧΙΤΕΚΤΟΝΑΣ ΕΡΓΟΥ
+Line  97: ARCHITECTURAL DESIGN
+Line  98: ΕΚΤΕΛΕΣΗ ΑΡΧΙΤΕΚΤΟΝΙΚΗΣ
+Line  99: ΜΕΛΕΤΗΣ ΕΠΙΒΛΕΨΗ
+Line 100: EXECUTIVE ARCHITECT
+Line 101: SITE SUPERVISOR
+Line 102: DISCIPLINE
+Line 103: ARC
+Line 104: VAP
+Line 105: ΛΕΠΤΟΜΕΡΕΙΑ
+Line 106: KΛΙΜ. 2
+Line 107: ΟΨΗ
+Line 108: ΔΙΑΜΗΚΗΣ ΤΟΜΗ
+Line 109: EΓΚΑΡΣΙΑ ΤΟΜΗ ΤΟΜΗ
+Line 110: ΚΛΙΜ.
+Line 111: ΚΛΙΜ.
+Line 112: ΚΛΙΜ.
+Line 113: KATOΨH
+Line 114: ΚΛΙΜ.
+Line 115: 4
+Line 116: 2
+Line 117: 2
+Line 118: 2
+Line 119: 4
+Line 120: WOODWORK
+Line 121: 2
+Line 122: 01 2020
+Line 123: BEDROOM
+Line 124: CLOSET
+Line 125: STAFF ROOM
+
+=== END OF FILTERED TEXT ===
+Total lines: 126

@@ -1,0 +1,206 @@
+=== FILTERED TEXT FOR: AEP-ANM-002-1920-DRW-AR-PDGA0603.pdf ===
+
+Line   0: 2
+Line   1: 2
+Line   2: 2
+Line   3: 2
+Line   4: 2
+Line   5: 2
+Line   6: 4
+Line   7: 2
+Line   8: UL
+Line   9: 3000
+Line  10: 3000
+Line  11: 3000
+Line  12: 3000
+Line  13: 6000
+Line  14: 6000
+Line  15: 6000
+Line  16: 6000
+Line  17: 6000
+Line  18: 6000
+Line  19: 6000
+Line  20: 6000
+Line  21: 6000
+Line  22: 6000
+Line  23: 6000
+Line  24: 6000
+Line  25: 6000
+Line  26: 6000
+Line  27: 6000
+Line  28: 6000
+Line  29: 6000
+Line  30: 6000
+Line  31: 6000
+Line  32: 6000
+Line  33: 6000
+Line  34: 6000
+Line  35: 6000
+Line  36: 6000
+Line  37: 6000
+Line  38: 6000
+Line  39: 6000
+Line  40: 6000
+Line  41: 6000
+Line  42: 6000
+Line  43: 6000
+Line  44: 6000
+Line  45: 6000
+Line  46: 6000
+Line  47: 6000
+Line  48: 465
+Line  49: CIP VIP
+Line  50: Sanitary Facilities
+Line  51: 713
+Line  52: Arrivals
+Line  53: Sanitary Facilities
+Line  54: Circulation
+Line  55: Plant MEP
+Line  56: Circulation
+Line  57: 49
+Line  58: Plant MEP
+Line  59: Plant MEP
+Line  60: Circulation
+Line  61: 46
+Line  62: General
+Line  63: Gate Lounges
+Line  64: Gate Lounges
+Line  65: Retail
+Line  66: Retail
+Line  67: 468
+Line  68: Departures
+Line  69: Gate Lounges
+Line  70: Gate Lounges
+Line  71: Circulation
+Line  72: Plant MEP
+Line  73: Plant MEP
+Line  74: General
+Line  75: Sanitary Facilities
+Line  76: Sanitary Facilities
+Line  77: General
+Line  78: General
+Line  79: General
+Line  80: General
+Line  81: Plant MEP
+Line  82: Circulation
+Line  83: Plant MEP
+Line  84: Plant MEP
+Line  85: General
+Line  86: General
+Line  87: Circulation
+Line  88: Circulation
+Line  89: Plant MEP
+Line  90: Circulation
+Line  91: Departures
+Line  92: Departures
+Line  93: Departures
+Line  94: Departures
+Line  95: General
+Line  96: General
+Line  97: General
+Line  98: Plant MEP
+Line  99: Plant MEP
+Line 100: General
+Line 101: General
+Line 102: General
+Line 103: General
+Line 104: General
+Line 105: Plant MEP
+Line 106: Plant MEP
+Line 107: Circulation
+Line 108: Vertical Connections
+Line 109: Sanitary Facilities
+Line 110: Gate Lounges
+Line 111: Gate Lounges
+Line 112: Circulation
+Line 113: Circulation
+Line 114: Vertical Connections
+Line 115: Vertical Connections
+Line 116: Vertical Connections
+Line 117: Vertical Connections
+Line 118: 17175
+Line 119: 19050
+Line 120: Departures
+Line 121: Circulation
+Line 122: Vertical Connections
+Line 123: Sanitary Facilities
+Line 124: Sanitary Facilities
+Line 125: DRAWING NO.
+Line 126: DRW
+Line 127: CH
+Line 128: APPR
+Line 129: DRW DATE
+Line 130: REV
+Line 131: DRAWING TITLE
+Line 132: SCALE
+Line 133: STATUS
+Line 134: KEY PLAN
+Line 135: NORTH
+Line 136: REV
+Line 137: BY
+Line 138: DATE
+Line 139: DESCRIPTION
+Line 140: PROJECT NAME
+Line 141: PROJECT CODE
+Line 142: CONSORTIUM
+Line 143: DRAWING NOTICES
+Line 144: Anemos
+Line 145: Anemos
+Line 146: Drawings
+Line 147: INTELLECTUAL PROPERTY
+Line 148: Copyright Anemos.
+Line 149: Anemos
+Line 150: Anemos.
+Line 151: Anemos
+Line 152: Anemos
+Line 153: DESIGN TEAM
+Line 154: GRIMSHAW INTERNATIONAL LTD
+Line 155: 44 7291 4277
+Line 156: Clerkenwell Road,
+Line 157: London, UK
+Line 158: ARUP INTERNATIONAL PROJECTS LTD
+Line 159: HAPTIC ARCHITECTS LTD
+Line 160: 44 7099 2933
+Line 161: Unit 2, Royle Studios,
+Line 162: 41 Wenlock
+Line 163: London UK
+Line 164: 44 7636 1531
+Line 165: Fitzroy
+Line 166: London UK
+Line 167: LESLIE JONES ARCHITECTS LTD
+Line 168: STUDIO
+Line 169: TRIAGONAL INFODESIGN
+Line 170: 45 44
+Line 171: Raffinaderivej 07
+Line 172: DK 2300 Copenhagen
+Line 173: DENMARK
+Line 174: 7522
+Line 175: Isavron Lycabettus
+Line 176: 71, Athens,
+Line 177: GREECE
+Line 178: 44 7255 1150
+Line 179: Suite Grand Union
+Line 180: Studios, Ladbroke
+Line 181: London UK
+Line 182: CLIENT
+Line 183: Anemos
+Line 184: Administration Building
+Line 185: 19019, Spata Attikis, Greece
+Line 186: DESIGN PHASE
+Line 187: 2024
+Line 188: AEP ANM 002 1920 DRW AR
+Line 189: NK
+Line 190: MS
+Line 191: DK
+Line 192: STB Level Arrivals Tile
+Line 193: Athens International Airport Expansion
+Line 194: AEP
+Line 195: Athens International
+Line 196: Airport
+Line 197: Preliminary Design
+Line 198: ANM
+Line 199: 2024
+Line 200: Preliminary Design
+
+=== END OF FILTERED TEXT ===
+Total lines: 201

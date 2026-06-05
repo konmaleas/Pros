@@ -1,0 +1,94 @@
+=== FILTERED TEXT FOR: GR-ATH1-VAP-AR-RF-110-0.pdf ===
+
+Line   0: CR
+Line   1: DRAWING SYMBOLS LEGEND
+Line   2: Name
+Line   3: ROOM CODE
+Line   4: ROOM NAME
+Line   5: ROOM AREA
+Line   6: XF XX
+Line   7: DOOR CODE
+Line   8: DOOR SILL
+Line   9: DOOR HEAD
+Line  10: DOOR WIDTH
+Line  11: FFL
+Line  12: FINAL FLOOR LEVEL
+Line  13: AR
+Line  14: DRAWING NUMBER
+Line  15: SHEET NUMBER
+Line  16: AR
+Line  17: DRAWING NUMBER
+Line  18: SHEET NUMBER
+Line  19: BUILDING GRID LINES
+Line  20: RELATIVE HEIGHT ABSOLUTE HEIGHT
+Line  21: SHAFT
+Line  22: SSL
+Line  23: STRUCTURAL SLAB LEVEL
+Line  24: PLANTING
+Line  25: 2
+Line  26: 4
+Line  27: AR
+Line  28: AR
+Line  29: AR
+Line  30: AR
+Line  31: STAIR
+Line  32: TERRACE
+Line  33: FFL
+Line  34: SSL
+Line  35: FF
+Line  36: FFL SSL
+Line  37: PROJECT NO.
+Line  38: DRAWN
+Line  39: CHECKED
+Line  40: SHEET SIZE
+Line  41: SCALE
+Line  42: SHEET TITLE NUMBER
+Line  43: SEAL
+Line  44: DATA CENTER MEP CONSULTANT
+Line  45: Syska Hennessy Group,
+Line  46: Dubai Internet City, Building Office Dubai, UAE
+Line  47: 4 3810
+Line  48: GENERAL NOTES
+Line  49: CONSULTANT
+Line  50: Ravine Street, Athina Greece
+Line  51: 4
+Line  52: ARCHITECT
+Line  53: Tompazi Chalandri
+Line  54: VAP Architects
+Line  55: STRUCTURAL ENGINEER
+Line  56: NAMA Consulting Engineers Planners SA
+Line  57: Address Perrikou GR 11524 Athens, Greece
+Line  58: KEY PLAN
+Line  59: SCALE DRAWINGS.
+Line  60: DOUBT, REQUEST MORE FURTHER
+Line  61: INFORMATION.
+Line  62: 2. DRAWING READ
+Line  63: CONJUNCTION CONTRACT
+Line  64: CONDITIONS, SPECIFICATIONS,
+Line  65: EQUIPMENT SCHEDULES
+Line  66: ARCHITECTURAL DRAWINGS.
+Line  67: DIMENSIONS MILLIMETER
+Line  68: ELEVATIONS METERS UNNLESS
+Line  69: OTHERWISE SPECIFIED.
+Line  70: 4. COMMUNICATION
+Line  71: SPECIALIZED DISCIPLINES SHOWN
+Line  72: DRAWINGS
+Line  73: CONTRACTOR.
+Line  74: Κοινότητα Σπάτων Λούτσας
+Line  75: Municipal Community Spata Loutsa, Athens, Greece
+Line  76: ATH Data Center
+Line  77: 2 2025 03 01
+Line  78: Autodesk Docs Damac Greece DC Design Greece VAP ARC DC
+Line  79: GR ATH1 VAP AR RF
+Line  80: VAP
+Line  81: General Arrangement Plan RF Back
+Line  82: House
+Line  83: VAP
+Line  84: REV
+Line  85: DATE
+Line  86: DESCRIPTION
+Line  87: 02 2025
+Line  88: First Issuance Approval
+
+=== END OF FILTERED TEXT ===
+Total lines: 89

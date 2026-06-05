@@ -1,0 +1,60 @@
+=== FILTERED TEXT FOR: GR-ATH3-Z-ZZ-MYT-DD-A-45000.pdf ===
+
+Line   0: COATS PLASTER, THICK
+Line   1: 2 LAYERS PLASTIC WATER PAINT ECO VITEX APPLIED
+Line   2: PLASTER WHITE COLOR RAL 9003
+Line   3: GRINDING CEILING SURFACE ECOLOGICAL
+Line   4: SILICONE ACRYLIC WATER BASED PRIMER
+Line   5: ACRYLAN UNCO ECO VITEX
+Line   6: ACRYLIC PUTTY USE
+Line   7: SPATULA TWO LAYERS CROSSWISE
+Line   8: 2 LAYERS PLASTIC WATER PAINT ECO VITEX
+Line   9: APPLIED PLASTER COLOR RAL 7039
+Line  10: ELASTOMERIC ADHESIVE
+Line  11: SEALANT ISOMAT
+Line  12: FLEX MS 45
+Line  13: Client
+Line  14: Project Title
+Line  15: Scale
+Line  16: PHASE
+Line  17: DRAWING
+Line  18: REV
+Line  19: Issue
+Line  20: Date
+Line  21: Artemidos
+Line  22: 15125 Maroussi, Athens
+Line  23: Email
+Line  24: Drawing Title
+Line  25: First Issue Date
+Line  26: Role
+Line  27: Status
+Line  28: Stage
+Line  29: METKA STATUS
+Line  30: SHOP DRAWING
+Line  31: BUILT
+Line  32: CONSTRUCTION
+Line  33: ISSUED
+Line  34: INFORMATION
+Line  35: APPROVAL
+Line  36: REVIEW
+Line  37: CONSTRUCTION
+Line  38: INFORMATION
+Line  39: CANCELED
+Line  40: REFERENCE DRAWING
+Line  41: Contractor
+Line  42: Architectural
+Line  43: 2
+Line  44: 2023
+Line  45: Internal Finishes Assemblies
+Line  46: Wall Joint Ceiling
+Line  47: GR ZZ MYT DD 45000
+Line  48: 2
+Line  49: Plastered Wall 2 Layers Spatula Ceiling
+Line  50: First Submission
+Line  51: Second Submission
+Line  52: Third Submission
+Line  53: Fourth Submission
+Line  54: Fifth Submission BUILT
+
+=== END OF FILTERED TEXT ===
+Total lines: 55

@@ -1,0 +1,107 @@
+=== FILTERED TEXT FOR: 1906_AVL5_VAP_ARC_A9-132_3.pdf ===
+
+Line   0: ΚΛΙΣΗ
+Line   1: 3
+Line   2: ΚΑΠΑΚΙ ΠΕΤΡΑΣ
+Line   3: ΓΡΑΦΙΤΟΥΧΑ ΔΙΟΓΚΩΜΕΝΗ
+Line   4: ΠΟΛΥΣΤΕΡΙΝΗ
+Line   5: 3.
+Line   6: ΜΙΑ ΣΤΡΩΣΗ ΣΟΒΑ
+Line   7: ΑΠΑΛΕΙΦΩΜΕΝΟ ΥΓΡΟΜΟΝΩΤΙΚΟ
+Line   8: ΤΣΙΜΕΝΤΟΕΙΔΕΣ, ΜΙΑΣ ΣΤΡΩΣΗΣ
+Line   9: ΚΟΝΙΑΜΑ ΣΥΓΚΟΛΛΗΣΗΣ
+Line  10: ΕΠΕΝΔΥΣΗ ΕΜΦΑΝΟΥΣ ΠΕΤΡΑΣ
+Line  11: ΣΕΝΑΖ ΣΤΗΡΙΞΗΣ ΕΠΕΝΔΥΣΗΣ ΑΠΟ ΛΕΥΚΟ
+Line  12: ΣΚΥΡΟΔΕΜΑ ΣΤΑ ΠΡΕΚΙΑ ΤΩΝ
+Line  13: ΚΟΥΦΩΜΑΤΩΝ, ΣΕ ΦΑΣΗ
+Line  14: KHΠΕΥΤΙΚΟ ΧΩΜΑ
+Line  15: ΧΑΛΙΚΙ
+Line  16: ΓΕΩΥΦΑΣΜΑ
+Line  17: AΠΟΣΤΡΑΓΓΙΣΤΙΚΗ ΜΕΜΒΡΑΝΗ
+Line  18: ΦΥΛΛΟ ΠΡΟΣΤΑΣΙΑΣ ΚΑΙ ΣΥΓΚΡΑΤΗΣΗΣ
+Line  19: ΥΓΡΑΣΙΑΣ
+Line  20: FPO ΜΕΜΒΡΑΝΗ ΥΓΡΟΜΟΝΩΣΗΣ ΤΥΠΟΥ
+Line  21: SARNAFIL TΗΣ SIKA
+Line  22: ΔΙΟΓΚΩΜΕΝΗ ΠΟΛΥΣΤΕΡΙΝΗ EPS ΜΕ
+Line  23: ΔΙΑΜΟΡΦΩΜΕΝΕΣ ΡΥΣΕΙΣ
+Line  24: ΑΣΦΑΛΤΙΚΗ ΕΠΑΛΕΙΨΗ
+Line  25: ΛΑΜΑ ΑΛΟΥΜΙΝΙΟΥ ΓΙΑ ΤΗΝ
+Line  26: ΟΡΙΟΘΕΤΗΣΗ ΤΟΥ ΣΟΒΑ
+Line  27: ΤΥΠΙΚΗ ΛΕΠΤΟΜΕΡΕΙΑ ΞΥΛΙΝΟΥ
+Line  28: ΑΝΟΙΓΟΜΕΝΟΥ ΚΟΥΦΩΜΑΤΟΣ
+Line  29: ΛΕΠΤΟΜΕΡΕΙΑ
+Line  30: ΨΕΥΤΟΚΑΣΑΣ
+Line  31: ΕΚΚΡΕΜΕΙ
+Line  32: ΥΠΕΡΓΟΛΑΒΟΣ
+Line  33: ΑΥΛΑΚΙΑ ΑΝΤΙΠΑΡΟΣ
+Line  34: AYLAKIA ANTIPAROS
+Line  35: AVL
+Line  36: RESIDENCE ANTIPAROS
+Line  37: PATSILERO LTD
+Line  38: ΠΕΡΙΓΡΑΦΗ
+Line  39: DESCRIPTION
+Line  40: ΗΜ ΝΙΑ
+Line  41: REVISION DATE
+Line  42: Νaxou Kifisia, Greece
+Line  43: 4217 6976
+Line  44: ERISMA
+Line  45: Tompazi Chalandri, Greece
+Line  46: 3262 3269
+Line  47: 79 Suga Shinjuku Tokyo 0018 Japan
+Line  48: 3 3226 5336 3 3226 5366
+Line  49: ATELIER BOW WOW
+Line  50: Apollonos Athens, 10557 Greece
+Line  51: 6770
+Line  52: DOXIADIS
+Line  53: ΚΛΙΜΑΚΑ
+Line  54: SCALE
+Line  55: ΣΧΕΔΙΟ
+Line  56: ΕΡΓΟ
+Line  57: ΕΡΓΟΔΟΤΗΣ
+Line  58: ΗΜΕΡΟΜΗΝΙΑ ΕΚΔΟΣΗΣ
+Line  59: FIRST ISSUE DATE
+Line  60: DETAILED DESIGN
+Line  61: KAT. ΣΧΕΔΙΟΥ
+Line  62: BLD. CATEGORY
+Line  63: ISSUED
+Line  64: ΘΕΣΗ ΕΡΓΟΥ
+Line  65: CONSTR.
+Line  66: APPROVAL
+Line  67: TENDER
+Line  68: STATUS
+Line  69: DRAFT
+Line  70: FINAL
+Line  71: ΑΝΑΘ.
+Line  72: REV.
+Line  73: PROJECT
+Line  74: LOCATION
+Line  75: CLIENT
+Line  76: DRAWING
+Line  77: ΚΗΠΟΤΕΧΝΙΚΗ ΜΕΛΕΤΗ
+Line  78: LANDSCAPE DESIGN
+Line  79: ΜΗΧΑΝΟΛΟΓΙΚΗ ΜΕΛΕΤΗ
+Line  80: MEP ENGINEER
+Line  81: ΣΤΑΤΙΚΗ ΜΕΛΕΤΗ
+Line  82: STRUCTURAL ENGINEER
+Line  83: ΑΡΧΙΤΕΚΤΟΝΑΣ ΕΡΓΟΥ
+Line  84: ARCHITECTURAL DESIGN
+Line  85: ΕΚΤΕΛΕΣΗ ΑΡΧΙΤΕΚΤΟΝΙΚΗΣ
+Line  86: ΜΕΛΕΤΗΣ ΕΠΙΒΛΕΨΗ
+Line  87: EXECUTIVE ARCHITECT
+Line  88: SITE SUPERVISOR
+Line  89: DISCIPLINE
+Line  90: ARC
+Line  91: VAP
+Line  92: TETRAS AEM
+Line  93: Patision Greece
+Line  94: BUILDING
+Line  95: SHELL
+Line  96: ROOF
+Line  97: 07 08 2020
+Line  98: A9 132 03
+Line  99: 01
+Line 100: 02
+Line 101: 03 MINOR AMENDMENTS 04
+
+=== END OF FILTERED TEXT ===
+Total lines: 102

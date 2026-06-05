@@ -1,0 +1,369 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-413-0A_-_HIGH_LEVEL_-_COLO_1.pdf ===
+
+Line   0: 2
+Line   1: 4
+Line   2: 7300
+Line   3: 7300
+Line   4: 7300
+Line   5: 7300
+Line   6: 7300
+Line   7: 7300
+Line   8: 7300
+Line   9: 7300
+Line  10: 7300
+Line  11: 7300
+Line  12: 7300
+Line  13: 7500
+Line  14: 7500
+Line  15: 7500
+Line  16: 6670
+Line  17: 499
+Line  18: 2900
+Line  19: 2900
+Line  20: 1000
+Line  21: 2900
+Line  22: 2900
+Line  23: 1000
+Line  24: 2900
+Line  25: 2900
+Line  26: 1000
+Line  27: 2900
+Line  28: 2900
+Line  29: 1000
+Line  30: 2900
+Line  31: 3399
+Line  32: 1200
+Line  33: 2200
+Line  34: 2900
+Line  35: 1000
+Line  36: 6800
+Line  37: 21900
+Line  38: 2900
+Line  39: 2900
+Line  40: 1000
+Line  41: 2900
+Line  42: 2900
+Line  43: 1000
+Line  44: 21399
+Line  45: 36500
+Line  46: 2000
+Line  47: 1230
+Line  48: 2384
+Line  49: 2370
+Line  50: 2000
+Line  51: 1230
+Line  52: 3700
+Line  53: 3686
+Line  54: 2000
+Line  55: 1230
+Line  56: 2384
+Line  57: 2370
+Line  58: 2000
+Line  59: 1230
+Line  60: 3700
+Line  61: ID DC 045
+Line  62: ID DC 046
+Line  63: ID DC 052
+Line  64: ID DC 051
+Line  65: 18700
+Line  66: 18700
+Line  67: 7300
+Line  68: 7070
+Line  69: ID DC 048
+Line  70: ID DC 047
+Line  71: ID DC 050
+Line  72: ID DC 049
+Line  73: 3686
+Line  74: 2000
+Line  75: 1230
+Line  76: 2384
+Line  77: 2370
+Line  78: 2000
+Line  79: 1230
+Line  80: 3700
+Line  81: MONOWILL
+Line  82: TUBULAR STEEL
+Line  83: HANDRAIL
+Line  84: KICKPLATE
+Line  85: MONOWILL
+Line  86: TUBULAR STEEL
+Line  87: HANDRAIL
+Line  88: KICKPLATE
+Line  89: XF
+Line  90: XA
+Line  91: ELEC. ROOM
+Line  92: GANTRY
+Line  93: 01 06
+Line  94: ELEC. ROOM
+Line  95: GANTRY
+Line  96: 01 05
+Line  97: ELEC. ROOM
+Line  98: 2 GANTRY
+Line  99: 01 04
+Line 100: ELEC. ROOM
+Line 101: 4 GANTRY
+Line 102: 01 03
+Line 103: MECH
+Line 104: GALLERY
+Line 105: GANTRY
+Line 106: 01
+Line 107: MECH
+Line 108: GALLERY 4
+Line 109: GANTRY
+Line 110: 01 09
+Line 111: LOBBY
+Line 112: GANTRY
+Line 113: 01 07
+Line 114: LOBBY
+Line 115: GANTRY
+Line 116: 01 08
+Line 117: LOBBY
+Line 118: GANTRY
+Line 119: 01 02
+Line 120: LOBBY
+Line 121: GANTRY
+Line 122: 01 01
+Line 123: METAL
+Line 124: WALKWAY
+Line 125: 420
+Line 126: 1975
+Line 127: 18775
+Line 128: 425
+Line 129: 3650
+Line 130: 425
+Line 131: 18775
+Line 132: 1975
+Line 133: 420
+Line 134: MESH WALL
+Line 135: 2000
+Line 136: 1230
+Line 137: 2384
+Line 138: 2370
+Line 139: 2000
+Line 140: 1230
+Line 141: 3700
+Line 142: ED DC 018
+Line 143: ED DC 028
+Line 144: ED DC 026
+Line 145: ED DC 019
+Line 146: ED DC 027
+Line 147: 1301
+Line 148: 13863
+Line 149: 1477
+Line 150: 2400
+Line 151: 1678
+Line 152: 3717
+Line 153: MONOWILL TUBULAR
+Line 154: STEEL HANDRAIL
+Line 155: FIXED STRUCTURAL
+Line 156: STEEL SUPPORT
+Line 157: 1125
+Line 158: 2452
+Line 159: 1200
+Line 160: 1678
+Line 161: 3717
+Line 162: MECH
+Line 163: GALLERY 2
+Line 164: GANTRY
+Line 165: 01
+Line 166: MECH
+Line 167: GALLERY
+Line 168: GANTRY
+Line 169: 01
+Line 170: 2400
+Line 171: 4385
+Line 172: 1125
+Line 173: 4480
+Line 174: 4480
+Line 175: MONOWILL TUBULAR
+Line 176: STEEL HANDRAIL
+Line 177: FIXED STRUCTURAL
+Line 178: STEEL SUPPORT
+Line 179: METAL
+Line 180: WALKWAY
+Line 181: MESH WALL
+Line 182: 7500
+Line 183: 7500
+Line 184: 7500
+Line 185: 6850
+Line 186: 7500
+Line 187: 7500
+Line 188: 7500
+Line 189: 6670
+Line 190: MESH WALL
+Line 191: MESH WALL
+Line 192: 7500
+Line 193: 7500
+Line 194: 7500
+Line 195: 6850
+Line 196: 7300
+Line 197: 7070
+Line 198: MONOWILL
+Line 199: TUBULAR STEEL
+Line 200: HANDRAIL
+Line 201: KICKPLATE
+Line 202: MONOWILL
+Line 203: TUBULAR STEEL
+Line 204: HANDRAIL
+Line 205: KICKPLATE
+Line 206: 1301
+Line 207: 4480
+Line 208: 4480
+Line 209: 2400
+Line 210: 2400
+Line 211: MONOWILL TUBULAR
+Line 212: STEEL HANDRAIL
+Line 213: FIXED STRUCTURAL
+Line 214: STEEL SUPPORT
+Line 215: 1125
+Line 216: 1125
+Line 217: MONOWILL TUBULAR
+Line 218: STEEL HANDRAIL
+Line 219: FIXED STRUCTURAL
+Line 220: STEEL SUPPORT
+Line 221: 1677
+Line 222: 3717
+Line 223: 3717
+Line 224: 2900
+Line 225: 1350
+Line 226: 2000
+Line 227: 2115
+Line 228: 1130
+Line 229: DOORS PROVIDE
+Line 230: MAINTENANCE ACCESS
+Line 231: DOORS PROVIDE
+Line 232: MAINTENANCE ACCESS
+Line 233: ED DC 022
+Line 234: 1320
+Line 235: 1130
+Line 236: ED DC 017
+Line 237: CAT LADDER GRD
+Line 238: LEVEL RAB LEVEL
+Line 239: CAT LADDER GRD
+Line 240: LEVEL RAB LEVEL
+Line 241: STAIRCASE
+Line 242: 00
+Line 243: 4385
+Line 244: 1200
+Line 245: CAT LADDER
+Line 246: RAB ROOF ACCESS
+Line 247: CAT LADDER
+Line 248: RAB ROOF ACCESS
+Line 249: 1200
+Line 250: 1301
+Line 251: ED DC 091
+Line 252: ED DC 092
+Line 253: ED DC 093
+Line 254: ED DC 094
+Line 255: ED DC 095
+Line 256: ED DC 096
+Line 257: ED DC 097
+Line 258: ED DC 098
+Line 259: ED DC 099
+Line 260: ED DC
+Line 261: ED DC
+Line 262: ED DC
+Line 263: ED DC
+Line 264: ED DC
+Line 265: ED DC
+Line 266: ED DC
+Line 267: ED DC
+Line 268: ED DC
+Line 269: ED DC
+Line 270: ED DC
+Line 271: ED DC
+Line 272: ED DC
+Line 273: ED DC
+Line 274: ED DC
+Line 275: ED DC
+Line 276: ED DC
+Line 277: ED DC
+Line 278: ED DC
+Line 279: ED DC
+Line 280: ED DC
+Line 281: ED DC
+Line 282: ED DC
+Line 283: ED DC
+Line 284: ED DC
+Line 285: ED DC
+Line 286: ED DC
+Line 287: ED DC
+Line 288: ED DC
+Line 289: ED DC
+Line 290: ED DC
+Line 291: ED DC
+Line 292: ED DC
+Line 293: ED DC
+Line 294: ED DC
+Line 295: ED DC
+Line 296: ED DC
+Line 297: 1130
+Line 298: 4115
+Line 299: ED DC 024
+Line 300: DRAIN
+Line 301: DRAIN
+Line 302: DRAIN
+Line 303: DRAIN
+Line 304: 4385
+Line 305: 4310
+Line 306: 4302
+Line 307: ADMIN
+Line 308: 2
+Line 309: 2
+Line 310: 4
+Line 311: 2
+Line 312: 4
+Line 313: TRUE NORTH
+Line 314: Sheet Title Number
+Line 315: Scale
+Line 316: Plan
+Line 317: Design Consultants
+Line 318: Microsoft
+Line 319: DATA CENTER
+Line 320: SPATA GREECE
+Line 321: Contractor Joint Venture
+Line 322: Name
+Line 323: Contractor Project
+Line 324: Contractor Contract
+Line 325: Contractor PM
+Line 326: Contractor BIM Mngr
+Line 327: Contractor Information
+Line 328: Renco Terna
+Line 329: Client
+Line 330: General Notes
+Line 331: Client Project
+Line 332: Client Contract
+Line 333: Client PM
+Line 334: Client BIM Mngr
+Line 335: Primary Client Information
+Line 336: Layout
+Line 337: Revision
+Line 338: Tombazi Chalandri
+Line 339: 15232
+Line 340: Athens Greece
+Line 341: 0800 3262
+Line 342: Agion Theodoron Square Athens
+Line 343: 10561
+Line 344: Athens Greece
+Line 345: Kimithois Agios Dimitrios
+Line 346: 17236
+Line 347: Athens Greece
+Line 348: Purpose Issue
+Line 349: Issue
+Line 350: Name
+Line 351: HIGH LEVEL
+Line 352: VAP AH 413
+Line 353: SCALE
+Line 354: HIGH LEVEL CELLS 2 FFL 4150
+Line 355: 2500
+Line 356: 5000
+Line 357: SCALE
+Line 358: CONTINUATION REFER DRAWING 414 2
+Line 359: Date
+Line 360: Description
+Line 361: 04
+Line 362: Issued Approval
+Line 363: VAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 364

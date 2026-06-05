@@ -1,0 +1,153 @@
+=== FILTERED TEXT FOR: Α1-640-01.pdf ===
+
+Line   0: 4
+Line   1: BAR
+Line   2: 703
+Line   3: 703
+Line   4: 4
+Line   5: BAR
+Line   6: 410
+Line   7: EQ
+Line   8: EQ
+Line   9: 1340
+Line  10: 3000
+Line  11: EQ
+Line  12: EQ
+Line  13: EQ
+Line  14: EQ
+Line  15: 419
+Line  16: 1450
+Line  17: 1650
+Line  18: 2040
+Line  19: 2050
+Line  20: 1570
+Line  21: 1970
+Line  22: 1120
+Line  23: 400
+Line  24: 400
+Line  25: 400
+Line  26: 400
+Line  27: Level
+Line  28: ΣΗΜΕΙΑ ΧΑΡΑΞΗΣ ΕΛΛΕΙΨΗΣ
+Line  29: EQ
+Line  30: EQ
+Line  31: ΣΤΟΜΙΟ
+Line  32: ΚΛΙΜΑΤΙΣΜΟΥ
+Line  33: 703
+Line  34: Level
+Line  35: ΣΗΜΕΙΑ ΧΑΡΑΞΗΣ ΕΛΛΕΙΨΗΣ
+Line  36: EQ
+Line  37: EQ
+Line  38: ΣΤΟΜΙΟ
+Line  39: ΚΛΙΜΑΤΙΣΜΟΥ
+Line  40: 703
+Line  41: Level
+Line  42: BAR
+Line  43: EQ
+Line  44: EQ
+Line  45: ΣΤΟΜΙΟ
+Line  46: ΚΛΙΜΑΤΙΣΜΟΥ
+Line  47: 703
+Line  48: 2
+Line  49: Level
+Line  50: BAR
+Line  51: ΣΗΜΕΙΑ ΧΑΡΑΞΗΣ ΕΛΛΕΙΨΗΣ
+Line  52: EQ
+Line  53: EQ
+Line  54: ΣΤΟΜΙΟ
+Line  55: ΚΛΙΜΑΤΙΣΜΟΥ
+Line  56: 703
+Line  57: Level
+Line  58: ΣΗΜΕΙΑ ΧΑΡΑΞΗΣ ΕΛΛΕΙΨΗΣ
+Line  59: EQ
+Line  60: EQ
+Line  61: BAR
+Line  62: ΣΤΟΜΙΟ
+Line  63: ΚΛΙΜΑΤΙΣΜΟΥ
+Line  64: 703
+Line  65: 2
+Line  66: Level
+Line  67: EQ
+Line  68: EQ
+Line  69: BAR
+Line  70: ΣΤΟΜΙΟ
+Line  71: ΚΛΙΜΑΤΙΣΜΟΥ
+Line  72: 703
+Line  73: 2 2 2
+Line  74: 2 2 2
+Line  75: 4
+Line  76: 2
+Line  77: ΚΛΙΜΑΚΑ
+Line  78: ΚΑΤΗΓΟΡΙΑ
+Line  79: ΚΥΡΙΟΣ ΕΡΓΟΥ
+Line  80: ΕΡΓΟ
+Line  81: ΑΡΙΘΜΟΣ ΣΧΕΔΙΟΥ
+Line  82: ΗΜΕΡΟΜΗΝΙΑ ΜΕΛΕΤΗΣ
+Line  83: VAP ARCHITECTS
+Line  84: Ηπείρου Αθήνα Ελλάδα
+Line  85: 3262 3269
+Line  86: ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΜΕΛΕΤΗ
+Line  87: ΣΤΑΔΙΟ ΜΕΛΕΤΗΣ
+Line  88: Όλες
+Line  89: ΣΥΝΕΡΓΑΤΕΣ ΜΕΛΕΤΗΣ ΕΦΑΡΜΟΓΗΣ
+Line  90: ΚΛΕΙΔΑ
+Line  91: ΣΧΕΔΙΟ
+Line  92: HΜ ΝΙΑ ΣΧΕΔΙΟΥ
+Line  93: ΑΚΟΥΣΤΙΚΗ ΜΕΛΕΤΗ
+Line  94: ΜΕΛΕΤΗ ΦΩΤΙΣΜΟΥ
+Line  95: ΣΤΑΤΙΚΗ ΜΕΛΕΤΗ
+Line  96: ΜΗΧΑΝΟΛΟΓΙΚΗ ΜΕΛΕΤΗ
+Line  97: Ροστάν 44, 41, Αθήνα
+Line  98: 771, 2023
+Line  99: Σύμβουλοι Μηχανικοί
+Line 100: ΠΑΡΑΤΗΡΗΣΕΙΣ
+Line 101: ΕΡΕΙΣΜΑ
+Line 102: ΤΕΧΝΙΚΗ ΕΤΑΙΡΕΙΑ
+Line 103: Νάξου Κηφισιά
+Line 104: Παρασκευής Χαλάνδρι
+Line 105: 42 094,
+Line 106: IFI
+Line 107: INTRA ΞΕΝΟΔΟΧΕΙΑΚΗ
+Line 108: 2017 41
+Line 109: ΚΑΤΑΣΚΕΥΑΣΤΙΚΑ
+Line 110: ΑΝΑΚΑΤΑΣΚΕΥΗ ΞΕΝΟΔΟΧΕΙΟΥ
+Line 111: ΣΤΗΝ ΜΥΚΟΝΟ
+Line 112: ΟΚΤΩΒΡΙΟΣ 2016
+Line 113: ΜΕΛΕΤΗ ΕΦΑΡΜΟΓΗΣ
+Line 114: Πλατύς Γιαλός Μύκονος
+Line 115: BAR
+Line 116: 2016
+Line 117: ΑΝΑΠΤΥΓΜΑΤΑ
+Line 118: 01
+Line 119: 2
+Line 120: ΚΑΤΟΨΗ WC ΕΣΤΙΑΤΟΡΙΟΥ
+Line 121: ΑΝΟΨΗ WC ΕΣΤΙΑΤΟΡΙΟΥ
+Line 122: ΟΨΗ BAR
+Line 123: ΟΨΗ BAR 2
+Line 124: ΕΣΩΤΕΡΙΚΗ ΟΨΗ BAR
+Line 125: 4
+Line 126: ΕΣΩΤΕΡΙΚΗ ΟΨΗ BAR 2
+Line 127: ΕΣΩΤΕΡΙΚΗ ΟΨΗ BAR
+Line 128: ΕΣΩΤΕΡΙΚΗ ΟΨΗ BAR 4
+Line 129: ΑΝΑΘΕΩΡΗΣΕΙΣ
+Line 130: ΠΕΡΙΓΡΑΦΗ
+Line 131: ΗΜ ΝΙΑ
+Line 132: 00
+Line 133: ΠΡΩΤΗ ΕΚΔΟΣΗ
+Line 134: 2016
+Line 135: 01
+Line 136: ΤΡΟΠΟΠΟΙΗΣΕΙΣ
+Line 137: 01 2017
+Line 138: 01 2017
+Line 139: 01
+Line 140: 01 2017
+Line 141: 01
+Line 142: 01 2017
+Line 143: 01
+Line 144: 01 2017
+Line 145: 01
+Line 146: 01 2017
+Line 147: 01
+
+=== END OF FILTERED TEXT ===
+Total lines: 148

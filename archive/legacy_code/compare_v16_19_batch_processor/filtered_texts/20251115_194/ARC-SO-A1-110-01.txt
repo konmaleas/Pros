@@ -1,0 +1,200 @@
+=== FILTERED TEXT FOR: ARC-SO-A1-110-01.pdf ===
+
+Line   0: 4
+Line   1: 2
+Line   2: 4
+Line   3: 2
+Line   4: 4
+Line   5: 2
+Line   6: 4
+Line   7: 2
+Line   8: Schema Legend
+Line   9: CDE CDE 2 CDE 2
+Line  10: CMC CMC 2
+Line  11: CMC CMC 4
+Line  12: Conference Room
+Line  13: Copy Room
+Line  14: CP CP 2
+Line  15: CS CS
+Line  16: EM EM 4
+Line  17: EM 2 EM QC QC
+Line  18: EM EM EM
+Line  19: HSE HSE 2 HSE HSE 4
+Line  20: IE
+Line  21: IE 2 IE
+Line  22: IE 4 IE IE IE
+Line  23: IE IE IE IE
+Line  24: IE IE IE IE
+Line  25: LS LS
+Line  26: LTA LTA 2 LTA
+Line  27: Lunch Room
+Line  28: PCS PCS 2 PCS
+Line  29: PM
+Line  30: PM 2 AD
+Line  31: Security Room
+Line  32: Server Room
+Line  33: WC
+Line  34: WC
+Line  35: WC
+Line  36: WC AMEA
+Line  37: MEP
+Line  38: 2 4 SUR SUR 2
+Line  39: CMC CMC 4
+Line  40: Contracts Claims
+Line  41: Manager
+Line  42: Contracts
+Line  43: Commercial
+Line  44: Engineer 2
+Line  45: CMC CMC 2
+Line  46: Contracts Director
+Line  47: Contracts
+Line  48: Commercial
+Line  49: Engineer
+Line  50: CONFERENCE
+Line  51: EM EM 4
+Line  52: Engineering
+Line  53: Manager Utilities
+Line  54: Manager
+Line  55: CS CS
+Line  56: Construction
+Line  57: Director Associate
+Line  58: Engineer
+Line  59: Construction
+Line  60: PMC PMC
+Line  61: Leader
+Line  62: MEP MNGMT
+Line  63: WP
+Line  64: Manager WP
+Line  65: Manager
+Line  66: MEP Utilities
+Line  67: Manager Site
+Line  68: Engineer
+Line  69: PM 2 AD PMC
+Line  70: COORD. Deputy
+Line  71: PMC Director
+Line  72: Administration
+Line  73: Assistant PMC
+Line  74: Coordinator
+Line  75: PCS PCS 2
+Line  76: PCS Project
+Line  77: Controls Risk
+Line  78: Manager Project
+Line  79: Controls Engineer
+Line  80: Scheduler
+Line  81: PCS Manager
+Line  82: COPY
+Line  83: CP CP 2 Senior
+Line  84: Cost Manager
+Line  85: Cost Engineer
+Line  86: EM 2 EM QC
+Line  87: QC Structural
+Line  88: Manager Roads
+Line  89: Pavements
+Line  90: Manager QA QC
+Line  91: Manager QA QC
+Line  92: Engineer
+Line  93: CDE CDE 2
+Line  94: CDE 2 CDE
+Line  95: Platform
+Line  96: Document Control
+Line  97: Manager CDE
+Line  98: Platform Specialist
+Line  99: LUNCH
+Line 100: LS LS
+Line 101: Landscape
+Line 102: Manager
+Line 103: Landscape
+Line 104: Architects
+Line 105: Supervisors
+Line 106: HSE HSE 2
+Line 107: HSE HSE 4 HSE
+Line 108: Manager HSE
+Line 109: Inspector HSE
+Line 110: Inspector 2 HSE
+Line 111: Inspector
+Line 112: 2
+Line 113: 4 SUR
+Line 114: SUR 2 Site
+Line 115: Engineer Site
+Line 116: Engineer 2 Site
+Line 117: Engineer
+Line 118: Construction
+Line 119: Surveyor
+Line 120: Construction
+Line 121: Surveyor 2
+Line 122: EM EM EM
+Line 123: Marine Works
+Line 124: Manager
+Line 125: Engineer Associate
+Line 126: SECURITY
+Line 127: LTA LTA 2
+Line 128: LTA LTA
+Line 129: SERVER
+Line 130: IE 4 IE IE
+Line 131: IE IE Staff
+Line 132: IE IE IE
+Line 133: IE IE Staff
+Line 134: IE 2 IE IE Staff
+Line 135: IE IE IE
+Line 136: IE IE Staff
+Line 137: IE IE Staff
+Line 138: WC
+Line 139: WC AMEA
+Line 140: WC
+Line 141: WC
+Line 142: ΑΝΑΒΑΤΟΡΙΟ ΑΜΕΑ
+Line 143: ΚΛΙΜΑΚΑ
+Line 144: SCALE
+Line 145: ΕΡΓΟ
+Line 146: ΗΜΕΡΟΜΗΝΙΑ
+Line 147: FIRST ISSUE DATE
+Line 148: ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΜΕΛΕΤΗ
+Line 149: ΠΕΡΙΟΧΗ
+Line 150: ZONE
+Line 151: ISSUED
+Line 152: CONSTRUCTION
+Line 153: APPROVAL
+Line 154: TENDER
+Line 155: STATUS
+Line 156: DRAFT
+Line 157: FINAL
+Line 158: STAMP
+Line 159: DISCIPLINE
+Line 160: SO
+Line 161: ΑΝΑΘ.
+Line 162: REV.
+Line 163: ARC
+Line 164: PROJECT
+Line 165: DRAWING
+Line 166: ΜΕΛΕΤΗ
+Line 167: DESIGN
+Line 168: CLIENT
+Line 169: ΣΥΜΒΟΥΛΟΣ ΕΡΓΟΥ
+Line 170: PROJECT CONSULTANT
+Line 171: 3262
+Line 172: ΥΠΟΜΝΗΜΑ
+Line 173: LAYOUT LEGEND
+Line 174: ΑΝΑΠΤΥΞΗ ΜΗΤΡΟΠΟΛΙΤΙΚΟΥ ΠΟΛΟΥ
+Line 175: ΕΛΛΗΝΙΚΟΥ ΑΓΙΟΥ ΚΟΣΜΑ
+Line 176: HELLINIKON DEVELOPMENT PROJECT
+Line 177: ΕΡΓΟΤΑΞΙΑΚΑ ΓΡΑΦΕΙΑ ΕΛΛΗΝΙΚΟ
+Line 178: ELLINIKON SITE OFFICES
+Line 179: ΕΛΛΗΝΙΚΟ
+Line 180: ELLINIKON
+Line 181: 01
+Line 182: ΚΑΤΟΨΗ
+Line 183: 04
+Line 184: ΓΡΑΦΕΙΩΝ
+Line 185: ΒΑΣΕΙ ΠΡΟΓΡΑΜΜΑΤΟΣ
+Line 186: GROUND FLOOR PLAN
+Line 187: OFFICES
+Line 188: ASSIGNMENT
+Line 189: ΑΝΑΘΕΩΡΗΣΕΙΣ
+Line 190: ΠΕΡΙΓΡΑΦΗ DESCRIPTION
+Line 191: ΗΜ ΝΙΑ DATE
+Line 192: 01
+Line 193: Revision
+Line 194: 04 2023
+
+=== END OF FILTERED TEXT ===
+Total lines: 195

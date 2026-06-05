@@ -1,0 +1,26 @@
+=== FILTERED TEXT FOR: Α610-00.pdf ===
+
+Line   0: 4
+Line   1: 2
+Line   2: Ȁǹȃǹȁǿ
+Line   3: 2691
+Line   4: 05
+Line   5: 04
+Line   6: 03
+Line   7: 02
+Line   8: 01
+Line   9: 2017
+Line  10: 2 2 2
+Line  11: 2 2 2
+Line  12: 2
+Line  13: 4
+Line  14: 0601 700 1457 2691
+Line  15: 21752
+Line  16: 10439
+Line  17: 01
+Line  18: 01
+Line  19: 02
+Line  20: 2
+
+=== END OF FILTERED TEXT ===
+Total lines: 21

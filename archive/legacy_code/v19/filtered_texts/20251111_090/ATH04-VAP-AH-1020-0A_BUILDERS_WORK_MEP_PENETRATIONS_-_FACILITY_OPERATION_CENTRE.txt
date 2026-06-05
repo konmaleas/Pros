@@ -1,0 +1,103 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-1020-0A_BUILDERS_WORK_MEP_PENETRATIONS_-_FACILITY_OPERATION_CENTRE.pdf ===
+
+Line   0: GL
+Line   1: CEILING LEVEL
+Line   2: YC
+Line   3: FOC
+Line   4: ATH04 00 003
+Line   5: GL
+Line   6: CEILING LEVEL
+Line   7: YC
+Line   8: FOC
+Line   9: ATH04 00 003
+Line  10: MP AD 006 01
+Line  11: MP AD 003 06
+Line  12: MP AD 003 05
+Line  13: MP AD 003 04
+Line  14: MP AD 003 03
+Line  15: MP AD 003 02
+Line  16: MP AD 003 01
+Line  17: 770
+Line  18: 450
+Line  19: 1310
+Line  20: 1130
+Line  21: 1665
+Line  22: 1565
+Line  23: 3730
+Line  24: 3820
+Line  25: 3755
+Line  26: 4385
+Line  27: 3725
+Line  28: 3740
+Line  29: 1020
+Line  30: 1020
+Line  31: FOC
+Line  32: ATH04 00 003
+Line  33: MEP PENETRATIONS CODE
+Line  34: MP AD XXX XX
+Line  35: MP
+Line  36: MEP PENETRATIONS
+Line  37: AD
+Line  38: BUILDING CODE
+Line  39: XXX
+Line  40: ROOM NUMBER
+Line  41: XX
+Line  42: PENETRATION NUMBER
+Line  43: ADMIN
+Line  44: COLO
+Line  45: COLO
+Line  46: TRUE NORTH
+Line  47: Sheet Title Number
+Line  48: Scale
+Line  49: Plan
+Line  50: Design Consultants
+Line  51: Microsoft
+Line  52: DATA CENTER ATH04
+Line  53: SPATA GREECE
+Line  54: Contractor Joint Venture
+Line  55: Name
+Line  56: Contractor Project
+Line  57: Contractor Contract
+Line  58: Contractor PM
+Line  59: Contractor BIM Mngr
+Line  60: Contractor Information
+Line  61: Renco Terna
+Line  62: Client
+Line  63: General Notes
+Line  64: Client Project
+Line  65: Client Contract
+Line  66: Client PM
+Line  67: Client BIM Mngr
+Line  68: Primary Client Information
+Line  69: Layout
+Line  70: Revision
+Line  71: Tombazi Chalandri
+Line  72: 15232
+Line  73: Athens Greece
+Line  74: 0800 3262
+Line  75: Agion Theodoron Square Athens
+Line  76: 10561
+Line  77: Athens Greece
+Line  78: Kimithois Agios Dimitrios
+Line  79: 17236
+Line  80: Athens Greece
+Line  81: Purpose Issue
+Line  82: Issue
+Line  83: Name
+Line  84: BUILDERS WORK MEP PENETRATIONS
+Line  85: FACILITY OPERATION CENTRE
+Line  86: ATH04 VAP AH 1020
+Line  87: SCALE
+Line  88: 003 FOC ELEVATION A MEP PENETRATIONS
+Line  89: SCALE
+Line  90: 003 FOC ELEVATION MEP PENETRATIONS
+Line  91: 1000
+Line  92: SCALE
+Line  93: Date
+Line  94: Description
+Line  95: 07
+Line  96: Issued Approval
+Line  97: VAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 98

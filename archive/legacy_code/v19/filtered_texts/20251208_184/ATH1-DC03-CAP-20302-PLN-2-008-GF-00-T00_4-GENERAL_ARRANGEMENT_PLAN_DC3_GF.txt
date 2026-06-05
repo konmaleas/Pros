@@ -1,0 +1,112 @@
+=== FILTERED TEXT FOR: ATH1-DC03-CAP-20302-PLN-2-008-GF-00-T00_4-GENERAL_ARRANGEMENT_PLAN_DC3_GF.pdf ===
+
+Line   0: 2
+Line   1: 2
+Line   2: 2
+Line   3: SERVICE
+Line   4: LIFT
+Line   5: SERVICE
+Line   6: LIFT 2
+Line   7: FW COR
+Line   8: FW COR
+Line   9: DHA
+Line  10: DHA 2
+Line  11: FW COR
+Line  12: ROOMS
+Line  13: STA
+Line  14: FW COR 2
+Line  15: WC
+Line  16: LOADING AREA
+Line  17: LOBBY DC LD
+Line  18: STA
+Line  19: WS
+Line  20: SOC
+Line  21: STORAGE
+Line  22: MEETING
+Line  23: ROOM
+Line  24: NON REGISTERED
+Line  25: MEETING
+Line  26: ROOM
+Line  27: RECEIVING
+Line  28: AREA
+Line  29: LOBBY
+Line  30: SECURITY
+Line  31: OFFICE
+Line  32: OPEN OFFICE
+Line  33: AREA
+Line  34: WC
+Line  35: WC
+Line  36: WC
+Line  37: DISSABLED
+Line  38: WC
+Line  39: ADM
+Line  40: CORRIDOR
+Line  41: STA
+Line  42: 2
+Line  43: Version
+Line  44: Date
+Line  45: Review
+Line  46: Designer
+Line  47: Auditor
+Line  48: Approver
+Line  49: Paper Size
+Line  50: SCALE
+Line  51: ATH1 DC03 CAP 20302 PLN 2 008 GF 00 GENERAL ARRANGEMENT PLAN GF
+Line  52: 20302
+Line  53: PP Model Name
+Line  54: ORGANDI
+Line  55: Esplanade Miriam Makeba
+Line  56: Gerda Taro
+Line  57: 69100 VILLEURBANNE France
+Line  58: 40 00 70
+Line  59: Internet
+Line  60: GENERAL ARRANGEMENT PLAN GF
+Line  61: ATH1
+Line  62: PROJECT
+Line  63: RIBA
+Line  64: TRADE
+Line  65: AUTHOR
+Line  66: LEVEL
+Line  67: CAP TRADE
+Line  68: TYPE
+Line  69: DOC.
+Line  70: VERSION
+Line  71: DC03
+Line  72: 2
+Line  73: 20302
+Line  74: VAP
+Line  75: GF
+Line  76: PLN
+Line  77: 008
+Line  78: 00
+Line  79: SITE
+Line  80: ATH
+Line  81: Kifissias Avenue
+Line  82: GR 15125, MAROUSSI Greece
+Line  83: 4463 1552
+Line  84: Anagirountos
+Line  85: Vari 16672, Greece
+Line  86: Telephone 9654
+Line  87: Email
+Line  88: PAIANIA
+Line  89: GREECE
+Line  90: MODEL NAME
+Line  91: REFERENCE
+Line  92: FILE NAME
+Line  93: TRADE
+Line  94: ARCHITECTURE
+Line  95: Tombazi
+Line  96: Chalandri, 15232
+Line  97: Athens, Greece
+Line  98: 0800 3262
+Line  99: Thivaidos Street
+Line 100: GR Kifissia,
+Line 101: CAP TRADE General
+Line 102: 03 2025
+Line 103: First Submission
+Line 104: VAP
+Line 105: VAP
+Line 106: CAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 107

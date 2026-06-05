@@ -1,0 +1,10 @@
+18:08:02.481419 | /home/konstantinos/PycharmProjects/Pros/claude/v19/main_title_search.py:23 in debug_file()
+                  ict(): None
+                  args: ({'3081': {'is_alpha': False, 'is_digit': True, 'is_mixed': False, 'length': 4},
+                          'ARC': {'is_alpha': True, 'is_digit': False, 'is_mixed': False, 'length': 3},
+                          'DD': {'is_alpha': True, 'is_digit': False, 'is_mixed': False, 'length': 2},
+                          'DR': {'is_alpha': True, 'is_digit': False, 'is_mixed': False, 'length': 2},
+                          'NCM': {'is_alpha': True, 'is_digit': False, 'is_mixed': False, 'length': 3},
+                          'P1': {'is_alpha': False, 'is_digit': False, 'is_mixed': True, 'length': 2},
+                          'ZZ': {'is_alpha': True, 'is_digit': False, 'is_mixed': False, 'length': 2}},)
+                  'w': 'w'

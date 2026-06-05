@@ -1,0 +1,296 @@
+=== FILTERED TEXT FOR: ATH04-056-SH-021-00.pdf ===
+
+Line   0: Full
+Line   1: Dimension
+Line   2: Dimension 2
+Line   3: Column
+Line   4: Legend
+Line   5: SLAB DIRECTIONS
+Line   6: 2
+Line   7: XF
+Line   8: XF
+Line   9: Column
+Line  10: Column
+Line  11: Column
+Line  12: Column
+Line  13: Column
+Line  14: Column
+Line  15: Pocket Hole 056 SH 016
+Line  16: Column
+Line  17: Pocket Hole 056 SH 017
+Line  18: Column
+Line  19: Pocket Hole 056 SH 017
+Line  20: Column
+Line  21: Column
+Line  22: Column
+Line  23: Column
+Line  24: Column
+Line  25: Column
+Line  26: Column
+Line  27: Pocket Hole 056 SH 017
+Line  28: Pocket Hole 056 SH 017
+Line  29: Column
+Line  30: Pocket Hole 056 SH 017
+Line  31: Pocket Hole 056 SH 017
+Line  32: Column
+Line  33: Pocket Hole 056 SH 017
+Line  34: Column
+Line  35: Pocket Hole 056 SH 017
+Line  36: Column
+Line  37: Pocket Hole 056 SH 017
+Line  38: Column
+Line  39: Column
+Line  40: Column
+Line  41: Column
+Line  42: Column
+Line  43: Column
+Line  44: Column
+Line  45: Column
+Line  46: Column
+Line  47: THICKNESS
+Line  48: THICKNESS
+Line  49: THICKNESS
+Line  50: THICKNESS
+Line  51: THICKNESS
+Line  52: THICKNESS
+Line  53: THICKNESS
+Line  54: THICKNESS
+Line  55: THICKNESS
+Line  56: THICKNESS
+Line  57: THICKNESS
+Line  58: THICKNESS
+Line  59: Pile Projection
+Line  60: Pile Projection
+Line  61: Pile Projection
+Line  62: Pile Projection
+Line  63: Pile Projection
+Line  64: Pile Projection
+Line  65: THICKNESS
+Line  66: THICKNESS
+Line  67: RC GROUND SLAB
+Line  68: THICKNESS
+Line  69: Pile Projection
+Line  70: Pile Projection
+Line  71: Pile Projection
+Line  72: Pile Projection
+Line  73: Pile Projection
+Line  74: Pile Projection
+Line  75: THICKNESS
+Line  76: Pile Projection
+Line  77: Pile Projection
+Line  78: Pile Projection
+Line  79: Pile Projection
+Line  80: THICKNESS
+Line  81: RC GROUND SLAB
+Line  82: THICKNESS
+Line  83: THICKNESS
+Line  84: THICKNESS
+Line  85: THICKNESS
+Line  86: THICKNESS
+Line  87: THICKNESS
+Line  88: Pile Projection
+Line  89: Pile Projection
+Line  90: Pile Projection
+Line  91: Pile Projection
+Line  92: Column
+Line  93: DIA FLOOR
+Line  94: GULLY DRAIN
+Line  95: DIA FLOOR
+Line  96: GULLY DRAIN
+Line  97: DIA FLOOR
+Line  98: GULLY DRAIN
+Line  99: DIA FLOOR
+Line 100: GULLY DRAIN
+Line 101: DIA INCOMING
+Line 102: FIRE MAIN
+Line 103: DIA FLOOR
+Line 104: GULLY DRAIN
+Line 105: INCOMING
+Line 106: NPCW
+Line 107: GULLEY OUTLETS
+Line 108: GULLEY OUTLETS
+Line 109: GULLEY OUTLETS
+Line 110: GULLEY OUTLETS
+Line 111: Column
+Line 112: 056 SH 000
+Line 113: SD
+Line 114: SC
+Line 115: Column
+Line 116: Column
+Line 117: Column
+Line 118: Column
+Line 119: Column
+Line 120: Column
+Line 121: DIA
+Line 122: Slab Levels
+Line 123: Slab Level
+Line 124: Note Ground Slab
+Line 125: ATH 04 425
+Line 126: ATH 04
+Line 127: ATH 04
+Line 128: ADMIN
+Line 129: COLO
+Line 130: COLO 2
+Line 131: 2
+Line 132: 4
+Line 133: 2
+Line 134: 4
+Line 135: TRUE NORTH
+Line 136: Microsoft
+Line 137: ENGINEERING CONSULTANT
+Line 138: ΣΥΜΒΟΥΛΟΣ ΜΕΛΕΤΗΤΗΣ
+Line 139: CERTIFIED ENGINEER
+Line 140: ΑΔΕΙΟΥΧΟΣ ΜΗΧΑΝΙΚΟΣ
+Line 141: SUPPLIER DOCUMENT NUMBER
+Line 142: ΚΩΔΙΚΟΣ ΣΧΕΔΙΟΥ ΠΡΟΜΗΘΕΥΤΗ
+Line 143: REVISION
+Line 144: ΑΝΑΘΕΩΡΗΣΗ
+Line 145: 00
+Line 146: Karra
+Line 147: Xenopoulos
+Line 148: ΣΥΝΤΑΚΤΗΣ
+Line 149: ΕΛΕΓΧΘΗΚΕ
+Line 150: ΕΓΚΡΙΘΗΚΕ
+Line 151: ΗΜΕΡΟΜΗΝΙΑ
+Line 152: ΑΝΑΘ.
+Line 153: ΣΗΜΕΙΩΣΕΙΣ ΠΕΡΙΓΡΑΦΗ
+Line 154: PREPAR
+Line 155: VERIFY
+Line 156: APROVAL
+Line 157: DATE
+Line 158: REV.
+Line 159: REMARK DESCRIPTION
+Line 160: PROJECT TITLE
+Line 161: TAG NUMBERS
+Line 162: ΕΤΙΚΕΤΑΣ
+Line 163: DATA CENTER
+Line 164: DRAWING TITLE
+Line 165: DRAWING
+Line 166: ΑΡΙΘΜΟΣ ΣΧΕΔΙΟΥ
+Line 167: SCALE
+Line 168: ΚΛΙΜΑΚΑ
+Line 169: FORMAT
+Line 170: ΜΟΡΦΗ
+Line 171: FACILITY CODE
+Line 172: ΚΩΔ. ΕΓΚΑΤΑΣ.
+Line 173: SYSTEM
+Line 174: ΣΥΣΤΗΜΑΤΟΣ
+Line 175: SHEET
+Line 176: ΦΥΛΛΟ
+Line 177: RD CODE
+Line 178: ΚΩΔΙΚΟΣ RD
+Line 179: REVISION
+Line 180: ΑΝΑΘΕΩΡ.
+Line 181: ATH 04
+Line 182: JVRT
+Line 183: Koukouselis
+Line 184: Civil Engineer
+Line 185: Structural Engineer
+Line 186: Απόστολος Κουκουσέλης
+Line 187: Πολιτικός Μηχανικός
+Line 188: Πολιτικός Μηχανικός
+Line 189: PILE FOUNDATION ADMINISTRATION
+Line 190: BALLARD BUILDING
+Line 191: ΤΙΤΛΟΣ ΕΡΓΟΥ
+Line 192: ΤΙΤΛΟΣ ΣΧΕΔΙΟΥ
+Line 193: GENERAL NOTES CONSTRUCTION
+Line 194: STATIKI SA Structural Project Specification Architectural,
+Line 195: Civil, Mechanical Electrical General Notes 000
+Line 196: Refer
+Line 197: STATIKI SA
+Line 198: Work
+Line 199: Statutory Authorities.
+Line 200: CAST SITU CONCRETE
+Line 201: Cast Project Specification Greek Hellenic Code
+Line 202: Concrete Technology 2016 KTS 2016 ΤΠ 1501 01 01 01 00. Concrete
+Line 203: Summary Project Specification
+Line 204: Pile
+Line 205: Exposure EN
+Line 206: Concrete 45
+Line 207: Blinding
+Line 208: Concrete
+Line 209: Blinding
+Line 210: Ground
+Line 211: Exposure EN
+Line 212: Concrete 45
+Line 213: External
+Line 214: Exposure EN
+Line 215: Concrete
+Line 216: Refer Civil Specification
+Line 217: Cover Reinforcement Design Drawings.
+Line 218: Internal
+Line 219: Reinforcement
+Line 220: High EN 10080 Greek
+Line 221: KTX 2008
+Line 222: Lengths EN 1992
+Line 223: Spacers
+Line 224: Sufficient
+Line 225: Cover
+Line 226: Chairs,
+Line 227: Spacers
+Line 228: Spacers
+Line 229: Concrete Finishes EN 13670
+Line 230: Basic, Ordinary, Plain Special. Finishes
+Line 231: Concealed Ordinary Finish
+Line 232: Concealed Ordinary Finish
+Line 233: Exposed Plain Finish
+Line 234: Exposed Plain Finish
+Line 235: Internal, External,
+Line 236: Floors Floor Class Technical
+Line 237: Report Concrete Industrial Ground Floors Guide Design Construction Concrete Society.
+Line 238: Concrete Hellenic Code Concrete Technology 2016 KTS 2016 ΤΠ 1501 01 01 01 00.
+Line 239: Exposed
+Line 240: Architect Floor Finishes Drawing Project Specification
+Line 241: Concrete Hellenic Code Concrete Technology 2016 KTS 2016 TΠ
+Line 242: 1501 01 01 02 00.
+Line 243: Steelwork
+Line 244: Contractor Concrete Contractor.
+Line 245: Concrete EN 12350
+Line 246: EN EN 12390. 4
+Line 247: 2
+Line 248: Samples Density
+Line 249: LOT EN ISO IEC 17025
+Line 250: Engineer
+Line 251: Engineer Contractor
+Line 252: EN 12350 2, EN
+Line 253: 12350 EN 12350
+Line 254: 4. MOVEMENT CONSTRUCTION JOINTS
+Line 255: Movement Ground Floor
+Line 256: Peikko TERAJOINT Movement
+Line 257: Ground Floor
+Line 258: Isolation
+Line 259: Contractor
+Line 260: 2. EARTHWORKS FOUNDATIONS
+Line 261: Earthworks Project Specifications
+Line 262: Civil Geotechnical
+Line 263: Granular
+Line 264: 03
+Line 265: 04
+Line 266: Refer Project Specification
+Line 267: Ground Floor Ground Floor
+Line 268: Property
+Line 269: Property
+Line 270: Floor
+Line 271: Typical Floor
+Line 272: Property
+Line 273: Retail
+Line 274: Reach
+Line 275: Reach
+Line 276: 021
+Line 277: Building Ground Floor Plan Part 4 4
+Line 278: 056 SH 021
+Line 279: 056 SH 021 00
+Line 280: Ξυλότυπος Μέρος 4
+Line 281: 4
+Line 282: 00
+Line 283: 00
+Line 284: Ground Part 4 4
+Line 285: Ground Floor Part 4
+Line 286: CONTINUATION SEE DRAWING 056 SH 019
+Line 287: CONTINUATION SEE DRAWING 056 SH 020
+Line 288: 02 2025
+Line 289: Papaioannou
+Line 290: IFA ISSUED APPROVAL
+
+=== END OF FILTERED TEXT ===
+Total lines: 291

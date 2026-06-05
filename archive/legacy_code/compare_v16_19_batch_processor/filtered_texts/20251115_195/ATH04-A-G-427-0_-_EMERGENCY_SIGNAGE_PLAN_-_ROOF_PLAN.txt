@@ -1,0 +1,169 @@
+=== FILTERED TEXT FOR: ATH04-A-G-427-0_-_EMERGENCY_SIGNAGE_PLAN_-_ROOF_PLAN.pdf ===
+
+Line   0: DN
+Line   1: DN
+Line   2: ZF
+Line   3: ZA
+Line   4: YF
+Line   5: YE
+Line   6: YD
+Line   7: YC
+Line   8: YB
+Line   9: YA
+Line  10: 2
+Line  11: 4
+Line  12: 3000
+Line  13: 9200
+Line  14: 6350
+Line  15: 14270
+Line  16: 7300
+Line  17: 7300
+Line  18: 7300
+Line  19: 14600
+Line  20: 7300
+Line  21: 7300
+Line  22: 7300
+Line  23: 7300
+Line  24: 7300
+Line  25: 7300
+Line  26: 7300
+Line  27: 7300
+Line  28: 7300
+Line  29: 7300
+Line  30: 7300
+Line  31: 7300
+Line  32: 7300
+Line  33: 7650
+Line  34: 2370
+Line  35: 12745
+Line  36: 13600
+Line  37: 4500
+Line  38: 18650
+Line  39: 7695
+Line  40: 2370
+Line  41: 61930
+Line  42: 8376
+Line  43: GUTTER LINE
+Line  44: RIDGE LINE
+Line  45: GUTTER LINE
+Line  46: GUTTER LINE
+Line  47: RIDGE LINE
+Line  48: GUTTER LINE
+Line  49: EXTERNAL
+Line  50: MOUNTED
+Line  51: GUTTER
+Line  52: DP
+Line  53: DP
+Line  54: DP
+Line  55: DP
+Line  56: DP
+Line  57: CANOPY ADMIN WINDOWS
+Line  58: LOADING DOCK
+Line  59: CANOPY
+Line  60: 7108
+Line  61: 7109
+Line  62: RWP
+Line  63: RWP
+Line  64: 4
+Line  65: 712
+Line  66: 21700
+Line  67: 74354
+Line  68: EXIT SIGNAGE
+Line  69: EXIT SIGNAGE
+Line  70: EXIT SIGNAGE
+Line  71: EMERGENCY SIGNAGE
+Line  72: EMERGENCY EXIT SIGNAGE
+Line  73: EMERGENCY EXIT SIGNAGE
+Line  74: EMERGENCY EXIT SIGNAGE
+Line  75: EXIT SIGNAGE
+Line  76: EXIT SIGNAGE
+Line  77: EXIT SIGNAGE
+Line  78: EMERGENCY
+Line  79: EXIT SIGNAGE
+Line  80: EMERGENCY
+Line  81: EXIT SIGNAGE
+Line  82: EMERGENCY
+Line  83: EXIT SIGNAGE
+Line  84: DIRECTION ARROW
+Line  85: DIRECTION ARROW
+Line  86: DIRECTION ARROW
+Line  87: FIRE EXTINGUISHER
+Line  88: FIRE EXTINGUISHER
+Line  89: FIRE HYDRANT
+Line  90: FIRE HYDRANT
+Line  91: FIRE ALARM BUTTON
+Line  92: FIRE ALARM BUTTON
+Line  93: EVACUATION BUILDING PLAN
+Line  94: USE
+Line  95: DOOR CASE
+Line  96: EMERGENCY
+Line  97: USE
+Line  98: DOOR CASE
+Line  99: EMERGENCY
+Line 100: USE
+Line 101: DOOR CASE
+Line 102: EMERGENCY
+Line 103: FIRE EXTINGUISHER
+Line 104: FIRE HYDRANT
+Line 105: FIRE ALARM BUTTON
+Line 106: NOTES
+Line 107: DRAWING REPRESENTING MAIN POSITION EMERGENCY FIRE SYSTEMS. SIGNAGE COMPLY GREEK REGULATIONS REVISED.
+Line 108: DANGER HIGH VOLTAGE
+Line 109: ADMIN
+Line 110: COLO
+Line 111: COLO 2
+Line 112: 2
+Line 113: 4
+Line 114: 2
+Line 115: 4
+Line 116: TRUE NORTH
+Line 117: Sheet Title Number
+Line 118: Scale
+Line 119: Plan
+Line 120: Design Consultants
+Line 121: Microsoft
+Line 122: DATA CENTER
+Line 123: SPATA GREECE
+Line 124: Contractor Joint Venture
+Line 125: Name
+Line 126: Contractor Project
+Line 127: Contractor Contract
+Line 128: Contractor PM
+Line 129: Contractor BIM Mngr
+Line 130: Contractor Information
+Line 131: Renco Terna
+Line 132: Client
+Line 133: General Notes
+Line 134: Client Project
+Line 135: Client Contract
+Line 136: Client PM
+Line 137: Client BIM Mngr
+Line 138: Primary Client Information
+Line 139: Layout
+Line 140: Revision
+Line 141: Tombazi Chalandri
+Line 142: 15232
+Line 143: Athens Greece
+Line 144: 0800 3262
+Line 145: Agion Theodoron Square Athens
+Line 146: 10561
+Line 147: Athens Greece
+Line 148: Kimithois Agios Dimitrios
+Line 149: 17236
+Line 150: Athens Greece
+Line 151: Purpose Issue
+Line 152: Issue
+Line 153: Name
+Line 154: EMERGENCY SIGNAGE PLAN
+Line 155: ROOF PLAN
+Line 156: 427
+Line 157: SCALE
+Line 158: SIGNAGE PLAN OVERALL ROOF PLAN
+Line 159: Date
+Line 160: Description
+Line 161: 04
+Line 162: Issued Approval
+Line 163: HVE JV
+
+=== END OF FILTERED TEXT ===
+Total lines: 164

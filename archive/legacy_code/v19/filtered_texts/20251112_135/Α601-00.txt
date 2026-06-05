@@ -1,0 +1,20 @@
+=== FILTERED TEXT FOR: Α601-00.pdf ===
+
+Line   0: SIM
+Line   1: SIM
+Line   2: 01
+Line   3: 01
+Line   4: 02
+Line   5: 2691
+Line   6: 05
+Line   7: 04
+Line   8: 03
+Line   9: 02
+Line  10: 01
+Line  11: 2017
+Line  12: 0601 700 1457 2691
+Line  13: 21752
+Line  14: 10439
+
+=== END OF FILTERED TEXT ===
+Total lines: 15

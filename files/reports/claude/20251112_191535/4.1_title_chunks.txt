@@ -1,0 +1,14 @@
+19:15:35.223923 | /home/konstantinos/PycharmProjects/Pros/claude/v16_workable/main_title_search.py:27 in debug_file()
+                  ict(): None
+                  args: (['ATH1',
+                          'DC03',
+                          'CAP',
+                          '20302',
+                          'PLN',
+                          '2',
+                          '011',
+                          'AL',
+                          '00',
+                          'T00_4',
+                          'SECTIONS_DC3'],)
+                  'w': 'w'

@@ -1,0 +1,277 @@
+=== FILTERED TEXT FOR: NCM-DD-B1-DR-ARC-4411-P0.pdf ===
+
+Line   0: ΗΛΕΚΤΡΟΛΟΓΙΚΟ
+Line   1: ΑΝΟΙΓΜΑ ΑΕΡΙΣΜΟΥ
+Line   2: ΣΤΟ ΑΝΩ ΤΟΙΧΩΜΑ ΤΗΣ ΡΑΜΠΑΣ
+Line   3: ΠΡΟΒΟΛΗ ΠΛΑΙΝΟΥ ΤΟΙΧΩΜΑΤΟΣ ΡΑΜΠΑΣ
+Line   4: ΠΡΟΒΟΛΗ ΠΛΑΙΝΟΥ ΤΟΙΧΩΜΑΤΟΣ ΡΑΜΠΑΣ
+Line   5: ΚΑΘΑΡΟ ΕΜΒΑΔΟΝ
+Line   6: ΑΚΟΥΣΤΙΚΗ ΠΕΡΣΙΔΑ
+Line   7: FREE AREA
+Line   8: ΔΙΑΣΤΑΣΕΙΣ ΚΟΥΦΩΜΑΤΟΣ
+Line   9: GEN SET
+Line  10: GEN SET
+Line  11: CCU B1.
+Line  12: CCU B1.
+Line  13: CCU B1.
+Line  14: CCU B1.
+Line  15: OU
+Line  16: OU
+Line  17: OU
+Line  18: OU
+Line  19: OU
+Line  20: OU
+Line  21: ΨΥΚΤΗΣ CH
+Line  22: ΨΥΚΤΗΣ CH
+Line  23: ΨΥΚΤΗΣ CH
+Line  24: ΨΥΚΤΗΣ ΑΝΤΛΙΑ
+Line  25: ΘΕΡΜΟΤΗΤΑΣ CH
+Line  26: ΨΥΚΤΗΣ ΑΝΤΛΙΑ
+Line  27: ΘΕΡΜΟΤΗΤΑΣ CH
+Line  28: ΨΥΚΤΗΣ ΑΝΤΛΙΑ
+Line  29: ΘΕΡΜΟΤΗΤΑΣ CH
+Line  30: ΤΟΙΧΙ ΑΠΟ ΜΠΕΤΟΝ ΜΕ ΧΡΙ ΠΛΑΚΑ ΒΛ. ΠΤΥΓΜ ΑΤΑ ΑΙΘΡ ΙΟΥ
+Line  31: ΚΕΝΤΡΙΚΟΣ ΠΙΝΑΚΑΣ
+Line  32: SB CH
+Line  33: ΚΕΝΤΡΙΚΟΣ ΠΙΝΑΚΑΣ
+Line  34: SB CH
+Line  35: ΗΛΕΚΤΡΟΛΟΓΙΚΟ
+Line  36: ΕΛΑΧΙΣΤΕΣ ΔΙΑΣΤΑΣΕΙΣ
+Line  37: ATS
+Line  38: ΚΛΙΣΗ
+Line  39: 08
+Line  40: 08
+Line  41: WC
+Line  42: WC ΓΥΝΑΙΚΩΝ
+Line  43: 07
+Line  44: 1600
+Line  45: 2400
+Line  46: 1588
+Line  47: 2392
+Line  48: 400
+Line  49: 1200
+Line  50: 1012
+Line  51: 2392
+Line  52: 1588
+Line  53: ΚΑΘΡΕΠΤΗΣ ΜΕ ΚΡΥΦΟ ΦΩΤΙΣΜΟ
+Line  54: ΠΑΓΚΟΣ ΑΠΟ CORIAN
+Line  55: ΝΤΟΥΛΑΠΙ ΣΥΛΛΕΚΤΗΣ
+Line  56: ΕΝΤΟΙΧΙΣΜΕΝΗ ΛΕΚΑΝΗ
+Line  57: ΤΟΙΧΟΥ ΜΕ ΤΣΙΜΕΝΤΟΠΛΑΚΕΣ
+Line  58: ΜΩΣΑΪΚΟΥ ΠΑΧΟΥΣ
+Line  59: ΑΠΟ ΤΣΙΜΕΝΤΟΠΛΑΚΕΣ ΜΩΣΑΪΚΟΥ
+Line  60: ΠΑΧΟΥΣ ΣΥΓΚΟΛΛΗΜΕΝΕΣ ΜΕ ΚΟΛΛΑ
+Line  61: ΠΑΧΟΣ
+Line  62: ΒΡΥΣΗ
+Line  63: ΣΑΠΟΥΝ
+Line  64: ΝΙΠΤΗΡΑ
+Line  65: WC ΤΥΠΟΥ THRISLINGTON FLOW
+Line  66: WC ΤΥΠΟΥ THRISLINGTON FLOW
+Line  67: 2400
+Line  68: 2400
+Line  69: 08
+Line  70: 08
+Line  71: WC ΓΥΝΑΙΚΩΝ
+Line  72: WC
+Line  73: 07
+Line  74: ΚΑΘΡΕΠΤΗΣ ΜΕ ΚΡΥΦΟ ΦΩΤΙΣΜΟ
+Line  75: ΑΠΟ ΤΣΙΜΕΝΤΟΠΛΑΚΕΣ ΜΩΣΑΪΚΟΥ
+Line  76: ΠΑΧΟΥΣ ΣΥΓΚΟΛΛΗΜΕΝΕΣ ΜΕ ΚΟΛΛΑ
+Line  77: ΠΑΧΟΣ
+Line  78: ΠΑΓΚΟΣ ΑΠΟ CORIAN
+Line  79: ΕΝΤΟΙΧΙΣΜΕΝΗ ΧΑΡΤΟΠΕΤΣΕΤΟΘΗΚΗ ΜΕ
+Line  80: ΤΥΠΟΥ AXEURO
+Line  81: ΤΟΙΧΟΥ ΜΕ
+Line  82: ΤΣΙΜΕΝΤΟΠΛΑΚΕΣ
+Line  83: ΒΡΥΣ
+Line  84: ΣΑΠΟΥΝ
+Line  85: ΝΙΠΤΗΡΑ
+Line  86: ΕΝΤΟΙΧΙΣΜΕΝΗ ΧΑΡΤΟΠΕΤΣΕΤΟΘΗΚΗ ΜΕ
+Line  87: ΤΥΠΟΥ AXEURO
+Line  88: ΠΑΓΚΟΣ ΑΠΟ CORIAN
+Line  89: ΑΠΟ ΤΣΙΜΕΝΤΟΠΛΑΚΕΣ ΜΩΣΑΪΚΟΥ
+Line  90: ΠΑΧΟΥΣ ΣΥΓΚΟΛΛΗΜΕΝΕΣ ΜΕ ΚΟΛΛΑ
+Line  91: ΠΑΧΟΣ
+Line  92: WC ΤΥΠΟΥ THRISLINGTON FLOW
+Line  93: ΤΟΙΧΟΥ ΜΕ ΤΣΙΜΕΝΤΟΠΛΑΚΕΣ
+Line  94: ΜΩΣΑΪΚΟΥ ΠΑΧΟΥΣ
+Line  95: ΒΡΥΣΗ
+Line  96: ΣΑΠΟΥΝ
+Line  97: ΝΙΠΤΗΡΑ
+Line  98: ΧΑΡΤΟΘΗΚΗ
+Line  99: ΕΝΤΟΙΧΙΣΜΕΝΗ ΛΕΚΑΝΗ
+Line 100: ΚΑΛΑΘΟΣ ΑΧΡΗΣΤΩΝ ΠΛΑΣΤΙΚΟΣ
+Line 101: 2704
+Line 102: 770
+Line 103: 2600
+Line 104: 2392
+Line 105: 2400
+Line 106: 2400
+Line 107: WC ΓΥΝΑΙΚΩΝ
+Line 108: 3337
+Line 109: 2392
+Line 110: ΤΟΙΧΟΥ ΜΕ
+Line 111: ΤΣΙΜΕΝΤΟΠΛΑΚΕΣ
+Line 112: ΑΠΟ ΤΣΙΜΕΝΤΟΠΛΑΚΕΣ ΜΩΣΑΪΚΟΥ
+Line 113: ΠΑΧΟΥΣ ΣΥΓΚΟΛΛΗΜΕΝΕΣ ΜΕ ΚΟΛΛΑ
+Line 114: ΠΑΧΟΣ
+Line 115: WC ΤΥΠΟΥ THRISLINGTON FLOW
+Line 116: ΑΝΘΥΓΡΗ
+Line 117: 2400
+Line 118: 1600
+Line 119: 2400
+Line 120: 400
+Line 121: WC ΓΥΝΑΙΚΩΝ
+Line 122: ΚΑΘΡΕΠΤΗΣ ΜΕ ΚΡΥΦΟ ΦΩΤΙΣΜΟ
+Line 123: ΠΑΓΚΟΣ ΑΠΟ CORIAN
+Line 124: ΑΠΟ ΤΣΙΜΕΝΤΟΠΛΑΚΕΣ ΜΩΣΑΪΚΟΥ
+Line 125: ΠΑΧΟΥΣ ΣΥΓΚΟΛΛΗΜΕΝΕΣ ΜΕ ΚΟΛΛΑ
+Line 126: ΠΑΧΟΣ
+Line 127: ΤΟΙΧΟΥ ΜΕ
+Line 128: ΤΣΙΜΕΝΤΟΠΛΑΚΕΣ
+Line 129: ΒΡΥΣ
+Line 130: ΣΑΠΟΥΝ
+Line 131: ΝΙΠΤΗΡΑ
+Line 132: 2400
+Line 133: ΑΝΘΥΓΡΗ
+Line 134: WC
+Line 135: WC ΤΥΠΟΥ THRISLINGTON FLOW
+Line 136: ΑΠΟ ΤΣΙΜΕΝΤΟΠΛΑΚΕΣ ΜΩΣΑΪΚΟΥ
+Line 137: ΠΑΧΟΥΣ ΣΥΓΚΟΛΛΗΜΕΝΕΣ ΜΕ ΚΟΛΛΑ
+Line 138: ΠΑΧΟΣ
+Line 139: 2392
+Line 140: 2400
+Line 141: 1600
+Line 142: 2400
+Line 143: ΑΝΘΥΓΡΗ
+Line 144: ΚΑΘΡΕΠΤΗΣ ΜΕ ΚΡΥΦΟ ΦΩΤΙΣΜΟ
+Line 145: ΠΑΓΚΟΣ ΑΠΟ CORIAN
+Line 146: ΑΠΟ ΤΣΙΜΕΝΤΟΠΛΑΚΕΣ ΜΩΣΑΪΚΟΥ
+Line 147: ΠΑΧΟΥΣ ΣΥΓΚΟΛΛΗΜΕΝΕΣ ΜΕ ΚΟΛΛΑ
+Line 148: ΠΑΧΟΣ
+Line 149: ΤΟΙΧΟΥ ΜΕ ΤΣΙΜΕΝΤΟΠΛΑΚΕΣ
+Line 150: ΜΩΣΑΪΚΟΥ ΠΑΧΟΥΣ
+Line 151: ΒΡΥΣΗ
+Line 152: ΣΑΠΟΥΝ
+Line 153: ΝΙΠΤΗΡΑ
+Line 154: WC
+Line 155: 1018
+Line 156: 70
+Line 157: 400
+Line 158: ΝΤΟΥΛΑΠΙ ΣΥΛΛΕΚΤΗΣ
+Line 159: ΣΤΕΓΝΩΜΑ ΧΕΡΙΩΝ
+Line 160: 2400
+Line 161: 4000
+Line 162: ΥΠΕΥΘΥΝΟΥ
+Line 163: ΗΜΕΡΟΜΗΝΙΑ
+Line 164: ONOMA
+Line 165: ΛΕΥΚΩΣΙΑ ΚΥΠΡΟΣ
+Line 166: ΝΕΟ ΚΥΠΡΙΑΚΟ ΜΟΥΣΕΙΟ
+Line 167: ΗΜΕΡΟΜΗΝΙΑ
+Line 168: ΕΓΚΡΙΘΗΚΕ
+Line 169: ΤΜΗΜ
+Line 170: ΗΜΕΡΟΜΗΝΙΑ
+Line 171: ΕΛΕΓΧΘΗΚΕ
+Line 172: ΤΜΗΜ
+Line 173: ΥΠΟΒΟΛΗ
+Line 174: ΑΡ.
+Line 175: ΥΠΟΥΡΓΕΙΟ ΜΕΤΑΦΟΡΩΝ, ΕΠΙΚΟΙΝΩΝΙΩΝ ΚΑΙ ΕΡΓΩΝ
+Line 176: ΤΜΗΜΑ ΕΡΓΩΝ
+Line 177: ΗΜΕΡΟΜΗΝΙΑ
+Line 178: ΠΕΡΙΕΧΟΜΕΝΟ
+Line 179: ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΜΕΛΕΤΗ
+Line 180: THEONI XANTHI XZA ARCHITECTS
+Line 181: ΥΠΕΥΘΥΝΟΣ ΕΡΓΟΥ
+Line 182: ΑΡΧΙΤΕΚΤΩΝ ΘΕΩΝΗ ΞΑΝΘΗ
+Line 183: ΣΥΝΕΡΓΑΤΕΣ ΑΡΧΙΤΕΚΤΟΝΕΣ
+Line 184: ΜΑΡΓΑΡΙΤΑ ΖΑΚΥΝΘΙΝΟΥ
+Line 185: ΣΥΝΤΟΝΙΣΤΗΣ ΑΡΧIT ΚΗΣ ΜΕΛΕΤΗΣ
+Line 186: ΚΟΣΜΑΣ ΒΑΡΚΑΡΟΛΗΣ
+Line 187: ΚΛΙΜΑΚ
+Line 188: DR ARC
+Line 189: NCM DD
+Line 190: ΜΕΛΕΤΗ ΕΦΑΡΜΟΓΗΣ DD
+Line 191: ΤΙΤΛΟΣ
+Line 192: ΕΡΓΑΣΙΑΣ
+Line 193: ΜΕΛΕΤΗΣ
+Line 194: ΑΡΧΙΤΕΚΤΟΝΙΚΗ
+Line 195: ΣΥΜΒΟΥΛΟΙ ΜΕΛΕΤΗΤΕΣ
+Line 196: ΚΑΤΑΛΛΗΛΟΤΗΤΑΣ
+Line 197: KEY
+Line 198: ΑΡΧΙΤΕΚΤΟΝΙΚΑ
+Line 199: YAP ARCHITECTS
+Line 200: ΣTATIK
+Line 201: RHOMBUS STRUCTURAL ENGINEERS LLC ΣΤ.
+Line 202: PENELIS CONSULTING ENGINEERS SA ΠΕΝΕΛΗΣ
+Line 203: GEORGHIOU ZEMBYLAS
+Line 204: ΜΗΧΑΝΟΛΟΓΙΚ
+Line 205: ΗΛΕΚΤΡΟΛΟΓΙΚ
+Line 206: ΜΟΥΣΕΙΟΛΟΓΙΚ
+Line 207: THETA ACOUSTICS LTD ΝΙΑΟΥΝΑΚΗΣ
+Line 208: ΑΚΟΥΣΤΙΚ
+Line 209: RODITIS PARTNERS
+Line 210: ΕΠΙΜΕΤΡΗΣΗ
+Line 211: ΠΟΣΟΤΗΤΩΝ
+Line 212: FLOROS PANTELI ASSOCIATES ΠΑΝΤΕΛΗ
+Line 213: ΥΓΕΙΑ
+Line 214: ΜΟΥΣΕΙΟΓΡΑΦΙΚ
+Line 215: ΘΩΜΑΣ
+Line 216: ΦΩΤΙΣΜΟΣ
+Line 217: DECO ASSOCIATES ΕΛ. ΝΤΕΚΩ
+Line 218: ΠΥΡΟΠΡΟΣΤΑΣΙ
+Line 219: INT FIRE CYPRUS LTD ΣΠ. ΣΠΥΡΟΥ
+Line 220: ΚΥΚΛΟΦΟΡΙΑΚ
+Line 221: DROMOS CONSULTING LTD ΖΕΚΚΟΣ
+Line 222: ΣΗΜΑΝΣΗ
+Line 223: POST SPECTACULAR OFFICE ΓΑΛΙΚΑΣ
+Line 224: ΚΤΗΡΙΟΥ
+Line 225: ARION PLUS
+Line 226: FEREOS ARCHITECTS LLC ΦΕΡΑΙΟΣ
+Line 227: Αναπλ. Υπεύθυνος Οµάδας Έργου
+Line 228: DROMOS CONSULTING LTD ΖΕΚΚΟΣ
+Line 229: ΓΕΩΤΕΧΝΙΚΑ
+Line 230: ΜΟΥΣΕΙΑΚΟΣ
+Line 231: XZA
+Line 232: ΒΑΣΙΛΕΙΟΥ
+Line 233: ΕΡΓΑΣΤΗΡΙ
+Line 234: VAP ARCHITECTS
+Line 235: Σύµβουλος Μελέτης Εφαρµογής
+Line 236: GEORGHIOU ZEMBYLAS
+Line 237: ANDREAS EVRIPIDOU CIVIL ENGINEERS
+Line 238: ΣΤΕΡΓΙΟΣ ΓΑΛΙΚΑΣ
+Line 239: ΘΩΜΑΣ
+Line 240: ΣΤΕΡΓΙΟΣ ΓΑΛΙΚΑΣ
+Line 241: Συνεργάτης ΤΣΑΜΠΙΚΟΣ ΠΕΤΡΑΣ
+Line 242: POST SPECTACULAR OFFICE ΓΑΛΙΚΑΣ
+Line 243: ΠΡΟΜΕΛΕΤΗ ΣΑΚΕΛΛΑΡΙΟΥ
+Line 244: ΦΥΣΙΚΟΣ
+Line 245: ΦΩΤΙΣΜΟΣ
+Line 246: ΤΣΑΓΚΡΑΣΟΥΛΗΣ
+Line 247: ΕΞΟΠΛΙΣΜΟΣ
+Line 248: ΚΟΥΖΙΝΑΣ
+Line 249: XENEX
+Line 250: ΕΝΕΡΓΕΙΑΚΑ
+Line 251: ΚΕΛΥΦΟΥΣ
+Line 252: METABUIL
+Line 253: ΓΡΑΦΙΣΤΙΚ
+Line 254: ΦΥΤΟΤΕΧΝΙΚ
+Line 255: LANDCO EΠΕ ΚΑΝΤΑΡΤΖΗΣ
+Line 256: ΦΕΒΡΟΥΑΡΙΟΣ 2021
+Line 257: P0
+Line 258: 2021 09 PM
+Line 259: 4411
+Line 260: B1
+Line 261: ΑΝΑΠΤΥΓΜΑΤΑ ΧΩΡΩΝ ΥΓΙΕΙΝΗΣ B1
+Line 262: 4411
+Line 263: ΧΩΡΟΙ ΥΓΙΕΙΝΗΣ ΟΨΗ
+Line 264: ΧΩΡΟΙ ΥΓΙΕΙΝΗΣ ΟΨΗ
+Line 265: ΧΩΡΟΣ ΥΓΙΕΙΝΗΣ ΟΨΗ
+Line 266: ΧΩΡΟΣ ΥΓΙΕΙΝΗΣ ΟΨΗ
+Line 267: ΧΩΡΟΣ ΥΓΙΕΙΝΗΣ ΟΨΗ
+Line 268: ΧΩΡΟΣ ΥΓΙΕΙΝΗΣ ΟΨΗ
+Line 269: P0
+Line 270: ΦΕΒΡΟΥΑΡΙΟΣ 2021
+Line 271: Υποβολή
+
+=== END OF FILTERED TEXT ===
+Total lines: 272

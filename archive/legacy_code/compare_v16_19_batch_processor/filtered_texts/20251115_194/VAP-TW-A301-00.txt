@@ -1,0 +1,125 @@
+=== FILTERED TEXT FOR: VAP-TW-A301-00.pdf ===
+
+Line   0: Level
+Line   1: Level
+Line   2: Level
+Line   3: Level 2
+Line   4: Level
+Line   5: 4
+Line   6: 2
+Line   7: 4
+Line   8: 2
+Line   9: Level
+Line  10: Basement
+Line  11: Level
+Line  12: Ground Floor
+Line  13: Level
+Line  14: First Floor
+Line  15: 2
+Line  16: 4
+Line  17: NGL
+Line  18: Level 2
+Line  19: Level
+Line  20: Staircase
+Line  21: Roof
+Line  22: KITCHENETTE
+Line  23: WC
+Line  24: WC
+Line  25: OFFICE
+Line  26: MAIN LOBBY
+Line  27: LIFT 2
+Line  28: LIFT
+Line  29: PARKING
+Line  30: BASEMENT LOBBY
+Line  31: PARKING
+Line  32: WC
+Line  33: KITCHENETTE
+Line  34: WC
+Line  35: OFFICE
+Line  36: OFFICE
+Line  37: LOBBY CORRIDOR
+Line  38: CIRCULATION LOBBY
+Line  39: LIFT
+Line  40: STAIRCASE
+Line  41: STAIRCASE
+Line  42: STORAGE
+Line  43: CIRCULATION LOBBY
+Line  44: LOBBY CORRIDOR
+Line  45: LIFT 2
+Line  46: STAIRCASE
+Line  47: LIFT
+Line  48: LIFT
+Line  49: PARKING
+Line  50: 03
+Line  51: Level
+Line  52: Basement
+Line  53: Level
+Line  54: Ground Floor
+Line  55: Level
+Line  56: First Floor
+Line  57: 2
+Line  58: 4
+Line  59: NGL
+Line  60: Level 2
+Line  61: Level 2
+Line  62: Foundation
+Line  63: Staircase
+Line  64: Basement
+Line  65: OFFICE
+Line  66: LOBBY CORRIDOR
+Line  67: CIRCULATION LOBBY
+Line  68: OFFICE
+Line  69: PARKING
+Line  70: SECURITY ROOM
+Line  71: ROOM
+Line  72: BASEMENT LOBBY
+Line  73: PARKING
+Line  74: PARKING
+Line  75: OFFICE
+Line  76: MAIN LOBBY
+Line  77: WC
+Line  78: KITCHENETTE
+Line  79: WC
+Line  80: WC
+Line  81: KITCHENETTE
+Line  82: WC
+Line  83: 2
+Line  84: 4
+Line  85: REVISIONS
+Line  86: CLIENT
+Line  87: PROJECT
+Line  88: DESIGN STAGE
+Line  89: DATE
+Line  90: SCALE
+Line  91: FILE NAME
+Line  92: DRAWING TITLE
+Line  93: DRAWING
+Line  94: TAHLIA WALK
+Line  95: VAPARCHITECTS
+Line  96: Epirou Street
+Line  97: Athens, GR Greece
+Line  98: 3262
+Line  99: 3269
+Line 100: DESIGN ARCHITECTS
+Line 101: CONSULTANTS
+Line 102: STUDIO
+Line 103: Isavron
+Line 104: Lycabettus
+Line 105: Athens, GR 11471 Greece
+Line 106: ZAD DEVELOPMENT
+Line 107: STRUCTURAL ENGINEER
+Line 108: MEP ENGINEER
+Line 109: 01 48 PM
+Line 110: Section
+Line 111: Section
+Line 112: Detail Design
+Line 113: Section
+Line 114: 1602 TW 00
+Line 115: Section
+Line 116: Description
+Line 117: Date
+Line 118: First
+Line 119: 07
+
+=== END OF FILTERED TEXT ===
+Total lines: 120

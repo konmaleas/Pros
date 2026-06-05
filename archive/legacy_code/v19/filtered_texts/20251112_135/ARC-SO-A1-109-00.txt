@@ -1,0 +1,60 @@
+=== FILTERED TEXT FOR: ARC-SO-A1-109-00.pdf ===
+
+Line   0: SECTION
+Line   1: PLAN Level
+Line   2: COURSES ASPHALT DEEP
+Line   3: COURSES SUB BASE
+Line   4: COMPACTED SANDGRAVEL
+Line   5: SECTION
+Line   6: PLAN Level
+Line   7: REINFORCED CONCRETE BRIDGE
+Line   8: STEEL RAILING POSTS
+Line   9: ΑΝΑΘΕΩΡΗΣΕΙΣ REVISIONS
+Line  10: SCALE
+Line  11: FIRST ISSUE DATE
+Line  12: ZONE
+Line  13: ISSUED
+Line  14: CONSTRUCTION
+Line  15: APPROVAL
+Line  16: TENDER
+Line  17: STATUS
+Line  18: DRAFT
+Line  19: FINAL
+Line  20: DISCIPLINE
+Line  21: REV.
+Line  22: DRAWING
+Line  23: LAYOYT LEGEND
+Line  24: A1 101
+Line  25: A1
+Line  26: A1
+Line  27: ΑΝΑΠΤΥΞΗ ΜΗΤΡΟΠΟΛΙΤΙΚΟΥ ΠΟΛΟΥ
+Line  28: ΕΛΛΗΝΙΚΟΥ ΑΓΙΟΥ ΚΟΣΜΑ
+Line  29: HELLINIKON DEVELOPMENT PROJECT
+Line  30: PROJECT
+Line  31: CLIENT
+Line  32: PROJETCT CONSULTANT
+Line  33: DESIGN
+Line  34: 3262
+Line  35: STAMP
+Line  36: ΕΡΓΟΤΑΞΙΑΚΑ ΓΡΑΦΕΙΑ ΕΛΛΗΝΙΚΟ
+Line  37: ELLINIKON SITE OFFICES
+Line  38: ΕΛΛΗΝΙΚΟ
+Line  39: ELLINIKON
+Line  40: ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΜΕΛΕΤΗ
+Line  41: ΚΑΤΑΣΚΕΥΗ
+Line  42: ΓΕΦΥΡΩΣΗΣ
+Line  43: ΥΦΙΣΤΑΜΕΝΟΥ
+Line  44: ΚΑΝΑΛΙΟΥ ΟΜΒΡΙΩΝ
+Line  45: BRIDGING
+Line  46: CONSTRUCTION
+Line  47: EXISTING
+Line  48: RAIN CHANNEL
+Line  49: ΚΑΤΟΨΗ ΤΟΜΕΣ
+Line  50: PLAN SECTIONS
+Line  51: 04 2023
+Line  52: A1 00
+Line  53: SO
+Line  54: ARC
+
+=== END OF FILTERED TEXT ===
+Total lines: 55

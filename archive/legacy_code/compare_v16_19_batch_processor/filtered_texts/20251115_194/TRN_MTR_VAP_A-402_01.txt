@@ -1,0 +1,109 @@
+=== FILTERED TEXT FOR: TRN_MTR_VAP_A-402_01.pdf ===
+
+Line   0: ΟΡΟΦΟΣ
+Line   1: 6730
+Line   2: ΟΡΟΦΟΣ
+Line   3: 9910
+Line   4: ΟΡΟΦΟΣ
+Line   5: 13010
+Line   6: ΟΡΟΦΟΣ
+Line   7: 16000
+Line   8: ΟΡΟΦΟΣ
+Line   9: 19360
+Line  10: ΙΣΟΓΕΙΟ 2
+Line  11: 3760
+Line  12: 2060
+Line  13: ΙΣΟΓΕΙΟ
+Line  14: 2
+Line  15: 2
+Line  16: 2
+Line  17: 2
+Line  18: 2
+Line  19: 2
+Line  20: ΓΡΑΜΜΗ ΦΥΣΙΚΟ
+Line  21: ΓΡΑΜΜΗ ΦΥΣΙΚΟ
+Line  22: 2
+Line  23: ΥΠΕΡΔΩΜΑ
+Line  24: 25390
+Line  25: ΣΤΑΘΜΗ
+Line  26: 20780
+Line  27: 2800
+Line  28: Εµφανές Σκυρόδεµα
+Line  29: ΥΠΟΜΝΗΜΑ
+Line  30: Επίχρισµα
+Line  31: 2
+Line  32: Ενεργειακά Κουφώµατα
+Line  33: Μεταλλική Πέργκολα
+Line  34: 4
+Line  35: Λορίδες Αλουµινίου
+Line  36: Μεταλλική Πλέγµα
+Line  37: ΚΛΙΜΑΚΑ
+Line  38: SCALE
+Line  39: ΕΡΓΟ
+Line  40: ΗΜΕΡΟΜΗΝΙΑ
+Line  41: FIRST ISSUE DATE
+Line  42: ΠΕΡΙΟΧΗ
+Line  43: ZONE
+Line  44: ISSUED
+Line  45: CONSTRUCTION
+Line  46: APPROVAL
+Line  47: TENDER
+Line  48: STATUS
+Line  49: DRAFT
+Line  50: FINAL
+Line  51: DISCIPLINE
+Line  52: ARC
+Line  53: ΑΝΑΘ.
+Line  54: REV.
+Line  55: VAP
+Line  56: PROJECT
+Line  57: DRAWING
+Line  58: CLIENT
+Line  59: Τοµπάζη Χαλάνδρι, 15332
+Line  60: 3262 3269
+Line  61: KEY PLAN
+Line  62: ΠΡΟΕΓΚΡΙΣΗ ΓΙΑ ΕΣΩΤΕΡΙΚΕΣ ΣΕ
+Line  63: ΥΦΙΣΤΑΜΕΝO ΚΤΙΡΙΟ ΓΡΑΦΕΙΩΝ ΧΩΡΙΣ
+Line  64: ΜΕΤΑΒΟΛΗ ΦΟΡΤΙΩΝ, ΠΡΟΣΘΗΚΗ
+Line  65: ΑΝΕΛΚΥΣΤΗΡΑ ΑΜΕΑ, ΕΠΕΜΒΑΣΕΙΣ ΣΤΙΣ ΟΨΕΙΣ
+Line  66: ΜΕ ΧΡΗΣΗ ΙΚΡΙΩΜΑΤΩΝ, ΕΓΚΑΤΑΣΤΑΣΗ
+Line  67: ΦΩΤΟΒΟΛΤΑΪΚΩΝ ΣΥΣΤΗΜΑΤΩΝ, ΠΡΟΣΘΗΚΗ
+Line  68: ΣΤΕΓΑΣΤΡΟΥ ΣΤΟ
+Line  69: ΑΚΑΛΥΠΤΟΥ ΧΩΡΟΥ ΚΑΙ ΟΠΗ ΠΛΑΚΑΣ ΓΙΑ ΤΗ
+Line  70: ΣΤΑΣΗΣ ΚΛΙΜΑΚΟΣΤΑΣΙΟΥ
+Line  71: ΘΕΣΗ
+Line  72: LOCATION
+Line  73: ΜΕΣΟΓΕΙΩΝ ΚΑΙ ΤΡΙΚΑΛΩΝ
+Line  74: ΑΜΠΕΛΟΚΗΠΟΙ ΑΘΗΝΑΙΩΝ 80077
+Line  75: ΑΡΧΙΤΕΚΤΟΝIKH ΜΕΛΕΤΗ
+Line  76: ARCHITECTURAL DESIGN
+Line  77: ΣΤΑΤΙΚΗ ΜΕΛΕΤΗ
+Line  78: STRUCTURAL DESIGN
+Line  79: ΜΗΧΑΝΟΛΟΓΙΚΗ ΜΕΛΕΤΗ
+Line  80: MEP DESIGN
+Line  81: Λεωφ. Αναγυρούντος 16672, Βάρη
+Line  82: 4395 4637
+Line  83: NSZ
+Line  84: Φιλολάου Ηλιούπουλη
+Line  85: ΜΕΛΕΤΗ
+Line  86: STUDY
+Line  87: STAGE
+Line  88: ΜΕΛΕΤΗΤΗ
+Line  89: DESIGNER STAMP
+Line  90: ΕΤΑΙΡΕΙΑΣ
+Line  91: COMPANY STAMP
+Line  92: ΚΗΜ ΕΜΜΑΝΟΥΗΛ ΤΣΕΚΟΥΡΑΣ
+Line  93: ΛΙΘΟΣ ΣΥΜΒΟΥΛΟΙ ΜΗΧΑΝΙΚΟΙ
+Line  94: VASSILIS ALEXANDROS POUTETSIS
+Line  95: ARCHITECTS ASSOCIATES IKE
+Line  96: ΟΨΗ ΤΡΙΚΑΛΩΝ
+Line  97: 08 06
+Line  98: 402
+Line  99: ΑΝΑΘΕΩΡΗΣΕΙΣ
+Line 100: ΠΕΡΙΓΡΑΦΗ DESCRIPTION
+Line 101: ΗΜ ΝΙΑ DATE
+Line 102: ΠΡΩΤΗ ΥΠΟΒΟΛΗ
+Line 103: 08 06 2021
+
+=== END OF FILTERED TEXT ===
+Total lines: 104

@@ -1,0 +1,215 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-308-A_-_COLO_1_EMERGENCY_SIGNAGE_PLAN.pdf ===
+
+Line   0: ZF
+Line   1: ZA
+Line   2: YF
+Line   3: YE
+Line   4: YD
+Line   5: YC
+Line   6: YB
+Line   7: YA
+Line   8: XF
+Line   9: A
+Line  10: XA
+Line  11: COLO
+Line  12: CELL
+Line  13: ATH04 00
+Line  14: COLO
+Line  15: CELL
+Line  16: ATH04 00
+Line  17: COLO
+Line  18: MECHANICAL
+Line  19: GALLERY
+Line  20: ATH04 00
+Line  21: COLO
+Line  22: COLD
+Line  23: WATER
+Line  24: VALVE
+Line  25: ROOM
+Line  26: ATH04 00
+Line  27: COLO
+Line  28: SPRINKLER
+Line  29: VALVE
+Line  30: ROOM
+Line  31: ATH04 00
+Line  32: COLO
+Line  33: ELEC
+Line  34: ATH04 00
+Line  35: COLO
+Line  36: ELEC
+Line  37: ATH04 00
+Line  38: COLO
+Line  39: ATH04 00
+Line  40: COLO
+Line  41: ATH04 00
+Line  42: COLO
+Line  43: ATH04 00
+Line  44: COLO
+Line  45: ATH04 00
+Line  46: COLO
+Line  47: ELEC
+Line  48: ATH04 00
+Line  49: COLO
+Line  50: LOBBY
+Line  51: ATH04 00
+Line  52: COLO
+Line  53: LOBBY
+Line  54: ATH04 00
+Line  55: COLO
+Line  56: LOBBY
+Line  57: ATH04 00
+Line  58: COLO
+Line  59: LOBBY
+Line  60: ATH04 00
+Line  61: COLO
+Line  62: LOBBY
+Line  63: ATH04 00
+Line  64: COLO
+Line  65: LOBBY
+Line  66: ATH04 00
+Line  67: COLO
+Line  68: ELEC
+Line  69: ATH04 00
+Line  70: COLO
+Line  71: MECHANICAL
+Line  72: GALLERY
+Line  73: ATH04 00
+Line  74: COLO
+Line  75: MECHANICAL
+Line  76: GALLERY
+Line  77: ATH04 00
+Line  78: COLO
+Line  79: CELL
+Line  80: ATH04 00
+Line  81: FIRE
+Line  82: ESCAPE
+Line  83: CORRIDOR
+Line  84: ATH04 00 019
+Line  85: FIRE
+Line  86: ESCAPE
+Line  87: CORRIDOR
+Line  88: ATH04 00 052
+Line  89: COLO
+Line  90: CELL
+Line  91: ATH04 00
+Line  92: COLO
+Line  93: MECHANICAL
+Line  94: GALLERY
+Line  95: ATH04 00
+Line  96: COLO
+Line  97: GALLERY
+Line  98: LOBBY
+Line  99: ATH04 00
+Line 100: COLO
+Line 101: GALLERY
+Line 102: LOBBY
+Line 103: ATH04 00
+Line 104: COLO
+Line 105: GALLERY
+Line 106: LOBBY
+Line 107: ATH04 00
+Line 108: COLO
+Line 109: GALLERY
+Line 110: LOBBY
+Line 111: ATH04 00
+Line 112: AIRLOCK
+Line 113: ATH04 00 038
+Line 114: EXIT SIGNAGE
+Line 115: EXIT SIGNAGE
+Line 116: EXIT SIGNAGE
+Line 117: EMERGENCY SIGNAGE
+Line 118: EMERGENCY EXIT SIGNAGE
+Line 119: EMERGENCY EXIT SIGNAGE
+Line 120: EMERGENCY EXIT SIGNAGE
+Line 121: EXIT SIGNAGE
+Line 122: EXIT SIGNAGE
+Line 123: EXIT SIGNAGE
+Line 124: EMERGENCY
+Line 125: EXIT SIGNAGE
+Line 126: EMERGENCY
+Line 127: EXIT SIGNAGE
+Line 128: EMERGENCY
+Line 129: EXIT SIGNAGE
+Line 130: DIRECTION ARROW
+Line 131: DIRECTION ARROW
+Line 132: DIRECTION ARROW
+Line 133: FIRE EXTINGUISHER
+Line 134: FIRE EXTINGUISHER
+Line 135: FIRE HYDRANT
+Line 136: FIRE HYDRANT
+Line 137: FIRE ALARM BUTTON
+Line 138: FIRE ALARM BUTTON
+Line 139: EVACUATION BUILDING PLAN
+Line 140: USE
+Line 141: DOOR CASE
+Line 142: EMERGENCY
+Line 143: USE
+Line 144: DOOR CASE
+Line 145: EMERGENCY
+Line 146: USE
+Line 147: DOOR CASE
+Line 148: EMERGENCY
+Line 149: FIRE EXTINGUISHER
+Line 150: FIRE HYDRANT
+Line 151: FIRE ALARM BUTTON
+Line 152: NOTES
+Line 153: DRAWING REPRESENTING MAIN POSITION EMERGENCY FIRE SYSTEMS. SIGNAGE COMPLY GREEK REGULATIONS REVISED.
+Line 154: ADMIN
+Line 155: COLO
+Line 156: COLO
+Line 157: TRUE NORTH
+Line 158: Sheet Title Number
+Line 159: Scale
+Line 160: Plan
+Line 161: Design Consultants
+Line 162: Microsoft
+Line 163: DATA CENTER ATH04
+Line 164: SPATA GREECE
+Line 165: Contractor Joint Venture
+Line 166: Name
+Line 167: Contractor Project
+Line 168: Contractor Contract
+Line 169: Contractor PM
+Line 170: Contractor BIM Mngr
+Line 171: Contractor Information
+Line 172: Renco Terna
+Line 173: Client
+Line 174: General Notes
+Line 175: Client Project
+Line 176: Client Contract
+Line 177: Client PM
+Line 178: Client BIM Mngr
+Line 179: Primary Client Information
+Line 180: Layout
+Line 181: Revision
+Line 182: Tombazi Chalandri
+Line 183: 15232
+Line 184: Athens Greece
+Line 185: 0800 3262
+Line 186: Agion Theodoron Square Athens
+Line 187: 10561
+Line 188: Athens Greece
+Line 189: Kimithois Agios Dimitrios
+Line 190: 17236
+Line 191: Athens Greece
+Line 192: Purpose Issue
+Line 193: Issue
+Line 194: Name
+Line 195: A
+Line 196: COLO EMERGENCY SIGNAGE
+Line 197: PLAN
+Line 198: ATH04 VAP AH A
+Line 199: SCALE
+Line 200: 2500
+Line 201: 5000
+Line 202: SCALE
+Line 203: COLO SIGNAGE PLAN
+Line 204: Date
+Line 205: Description
+Line 206: A
+Line 207: 04
+Line 208: Issued Approval
+Line 209: VAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 210

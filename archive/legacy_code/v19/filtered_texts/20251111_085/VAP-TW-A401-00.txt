@@ -1,0 +1,70 @@
+=== FILTERED TEXT FOR: VAP-TW-A401-00.pdf ===
+
+Line   0: Level
+Line   1: Level
+Line   2: Level
+Line   3: Level
+Line   4: Level
+Line   5: Level
+Line   6: Ground Floor
+Line   7: Level
+Line   8: First Floor
+Line   9: NGL
+Line  10: Level
+Line  11: Level
+Line  12: Staircase
+Line  13: Roof
+Line  14: Marble
+Line  15: Plaster
+Line  16: Aluminium
+Line  17: Fins
+Line  18: Glass
+Line  19: Double Glass
+Line  20: Double Glass
+Line  21: Marble
+Line  22: Level
+Line  23: Ground Floor
+Line  24: Level
+Line  25: First Floor
+Line  26: NGL
+Line  27: Level
+Line  28: Level
+Line  29: Staircase
+Line  30: Roof
+Line  31: REVISIONS
+Line  32: CLIENT
+Line  33: PROJECT
+Line  34: DESIGN STAGE
+Line  35: DATE
+Line  36: SCALE
+Line  37: FILE NAME
+Line  38: DRAWING TITLE
+Line  39: DRAWING
+Line  40: TAHLIA WALK
+Line  41: VAPARCHITECTS
+Line  42: Epirou Street
+Line  43: Athens, GR Greece
+Line  44: 3262
+Line  45: 3269
+Line  46: DESIGN ARCHITECTS
+Line  47: CONSULTANTS
+Line  48: STUDIO
+Line  49: Isavron
+Line  50: Lycabettus
+Line  51: Athens, GR 11471 Greece
+Line  52: ZAD DEVELOPMENT
+Line  53: STRUCTURAL ENGINEER
+Line  54: MEP ENGINEER
+Line  55: 01 07 PM
+Line  56: Elevations
+Line  57: Detail Design
+Line  58: North West Elevation
+Line  59: 1602 TW 00
+Line  60: South East Elevation
+Line  61: Description
+Line  62: Date
+Line  63: First
+Line  64: 07
+
+=== END OF FILTERED TEXT ===
+Total lines: 65

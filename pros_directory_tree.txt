@@ -1,0 +1,602 @@
+/home/konstantinos/PycharmProjects/Pros/.venv/bin/python /home/konstantinos/PycharmProjects/Pros/claude/tree_print.py 
+/n/home/konstantinos/PycharmProjects/Pros
+├── .idea
+├── .venv
+├── claude
+│   ├── __pycache__
+│   │   ├── enhancedNoiseCancellation.cpython-311.pyc
+│   │   ├── heavy_text_processor_v2.cpython-311.pyc
+│   │   ├── pdf_to_text.cpython-311.pyc
+│   │   └── title_search.cpython-311.pyc
+│   ├── chat
+│   │   ├── Batch debug processor code review.txt
+│   │   ├── Batch over-counting issue resolution.txt
+│   │   ├── chat_summary_for_continuation.txt
+│   │   ├── chat_summary_for_continuation_1.txt
+│   │   ├── chat_summary_for_continuation_2.txt
+│   │   ├── chat_summary_for_continuation_3.txt
+│   │   ├── chat_summary_for_continuation_4.txt
+│   │   ├── chat_summary_for_continuation_6.txt
+│   │   ├── chat_summary_for_continuation_7.txt
+│   │   ├── correct_chunk_values.txt
+│   │   ├── debug_print.txt
+│   │   ├── debug_v17.txt
+│   │   ├── greedy_assignment.txt
+│   │   ├── last_summary.txt
+│   │   ├── next_step.txt
+│   │   ├── project_custom_instructions.txt
+│   │   ├── successful_file.txt
+│   │   └── summaries_combined_document
+│   ├── compare_v16_19_batch_processor
+│   │   ├── __pycache__
+│   │   │   ├── adaptive_filter.cpython-311.pyc
+│   │   │   ├── frequency_analyzer.cpython-311.pyc
+│   │   │   ├── pattern_analyzer.cpython-311.pyc
+│   │   │   ├── text_extractor.cpython-311.pyc
+│   │   │   ├── text_processor.cpython-311.pyc
+│   │   │   └── utils.cpython-311.pyc
+│   │   ├── batch_debug
+│   │   │   └── TEST_2502_DATA4
+│   │   ├── filtered_texts
+│   │   │   ├── 20251115_190
+│   │   │   ├── 20251115_194
+│   │   │   ├── 20251115_195
+│   │   │   └── 20251115_200
+│   │   ├── adaptive_filter.py
+│   │   ├── batch_processor.py
+│   │   ├── check_results.py
+│   │   ├── filename_parsing_utility.py
+│   │   ├── fpu_usage.py
+│   │   ├── frequency_analyzer.py
+│   │   ├── main_title_search.py
+│   │   ├── pattern_analyzer.py
+│   │   ├── reorganize_files.py
+│   │   ├── start_time.txt
+│   │   ├── test.py
+│   │   ├── text_extractor.py
+│   │   ├── text_processor.py
+│   │   └── utils.py
+│   ├── files
+│   │   ├── non_acceptable
+│   │   │   └── projects.txt
+│   │   ├── pkl
+│   │   │   ├── copied_files.pkl
+│   │   │   ├── project_dirs.txt
+│   │   │   ├── projects_files.pkl
+│   │   │   ├── projects_in_interest.pkl
+│   │   │   ├── submissions_directories.pkl
+│   │   │   └── submissions_stem.pkl
+│   │   └── separated
+│   │       ├── 2206
+│   │       └── 2211
+│   ├── redesigned
+│   │   └── fully.py
+│   ├── v0
+│   │   ├── 8x.py
+│   │   ├── chunk_classifier.py
+│   │   ├── enhancedNoiseCancellation.py
+│   │   ├── enhanced_title_template.py
+│   │   ├── heavy_text_processor.py
+│   │   ├── heavy_text_processor_v1.py
+│   │   ├── heavy_text_processor_v2.py
+│   │   ├── heavy_text_processor_v3.py
+│   │   ├── main_title_search.py
+│   │   ├── pdf_to_text.py
+│   │   ├── raw_files
+│   │   ├── restore_pdf_renamed_files.py
+│   │   ├── title_search.py
+│   │   └── title_template.py
+│   ├── v1
+│   │   ├── heavy_text_processor_v2.py
+│   │   ├── main_title_search.py
+│   │   └── title_search.py
+│   ├── v10
+│   │   ├── filtered_texts
+│   │   │   ├── 20250919_13
+│   │   │   └── 20251002_10
+│   │   ├── adaptive_filter.py
+│   │   ├── frequency_analyzer.py
+│   │   ├── main_title_search.py
+│   │   ├── pattern_analyzer.py
+│   │   ├── reorganize_files.py
+│   │   ├── start_time.txt
+│   │   ├── text_extractor.py
+│   │   └── text_processor.py
+│   ├── v11_workable
+│   │   ├── adaptive_filter.py
+│   │   ├── frequency_analyzer.py
+│   │   ├── main_title_search.py
+│   │   ├── pattern_analyzer.py
+│   │   ├── reorganize_files.py
+│   │   ├── start_time.txt
+│   │   ├── test_v11.py
+│   │   ├── text_extractor.py
+│   │   └── text_processor.py
+│   ├── v12
+│   │   ├── filtered_texts
+│   │   │   ├── 20250919_13
+│   │   │   ├── 20250923_10
+│   │   │   ├── 20250923_11
+│   │   │   ├── 20250924_12
+│   │   │   ├── 20250924_14
+│   │   │   └── 20250924_15
+│   │   ├── adaptive_filter.py
+│   │   ├── frequency_analyzer.py
+│   │   ├── main_title_search.py
+│   │   ├── pattern_analyzer.py
+│   │   ├── reorganize_files.py
+│   │   ├── start_time.txt
+│   │   ├── test_v12.py
+│   │   ├── text_extractor.py
+│   │   └── text_processor.py
+│   ├── v13
+│   │   ├── adaptive_filter.py
+│   │   ├── frequency_analyzer.py
+│   │   ├── main_title_search.py
+│   │   ├── pattern_analyzer.py
+│   │   ├── reorganize_files.py
+│   │   ├── start_time.txt
+│   │   ├── test_v12.py
+│   │   ├── text_extractor.py
+│   │   └── text_processor.py
+│   ├── v14
+│   │   ├── adaptive_filter.py
+│   │   ├── frequency_analyzer.py
+│   │   ├── main_title_search.py
+│   │   ├── pattern_analyzer.py
+│   │   ├── reorganize_files.py
+│   │   ├── start_time.txt
+│   │   ├── test_v12.py
+│   │   ├── text_extractor.py
+│   │   └── text_processor.py
+│   ├── v15
+│   │   ├── filtered_texts
+│   │   │   └── 20251008_083
+│   │   ├── adaptive_filter.py
+│   │   ├── frequency_analyzer.py
+│   │   ├── main_title_search.py
+│   │   ├── pattern_analyzer.py
+│   │   ├── reorganize_files.py
+│   │   ├── start_time.txt
+│   │   ├── test_v12.py
+│   │   ├── text_extractor.py
+│   │   └── text_processor.py
+│   ├── v16_workable
+│   │   ├── __pycache__
+│   │   │   ├── adaptive_filter.cpython-311.pyc
+│   │   │   ├── frequency_analyzer.cpython-311.pyc
+│   │   │   ├── pattern_analyzer.cpython-311.pyc
+│   │   │   ├── reorganize_files.cpython-311.pyc
+│   │   │   ├── text_extractor.cpython-311.pyc
+│   │   │   └── text_processor.cpython-311.pyc
+│   │   ├── filtered_texts
+│   │   │   ├── 20251008_083
+│   │   │   ├── 20251008_113
+│   │   │   ├── 20251008_114
+│   │   │   ├── 20251008_120
+│   │   │   ├── 20251008_122
+│   │   │   ├── 20251008_124
+│   │   │   ├── 20251008_141
+│   │   │   ├── 20251008_151
+│   │   │   ├── 20251111_205
+│   │   │   ├── 20251111_212
+│   │   │   ├── 20251112_183
+│   │   │   └── 20251112_191
+│   │   ├── adaptive_filter.py
+│   │   ├── batch_processor.py
+│   │   ├── frequency_analyzer.py
+│   │   ├── main_title_search.py
+│   │   ├── pattern_analyzer.py
+│   │   ├── reorganize_files.py
+│   │   ├── start_time.txt
+│   │   ├── test_v12.py
+│   │   ├── text_extractor.py
+│   │   └── text_processor.py
+│   ├── v17
+│   │   ├── __pycache__
+│   │   │   ├── adaptive_filter.cpython-311.pyc
+│   │   │   ├── frequency_analyzer.cpython-311.pyc
+│   │   │   ├── pattern_analyzer.cpython-311.pyc
+│   │   │   ├── text_extractor.cpython-311.pyc
+│   │   │   └── text_processor.cpython-311.pyc
+│   │   ├── batch_results
+│   │   │   ├── .~lock.summary_20251017_123810_2.csv#
+│   │   │   ├── results_20251017_123810.json
+│   │   │   ├── results_20251018_164806.json
+│   │   │   ├── results_20251018_171616.json
+│   │   │   ├── results_20251018_172431.json
+│   │   │   ├── results_20251018_173658.json
+│   │   │   ├── results_20251019_165519.json
+│   │   │   ├── summary_20251017_123810.csv
+│   │   │   ├── summary_20251017_123810.ods
+│   │   │   ├── summary_20251017_123810_2.csv
+│   │   │   ├── summary_20251018_164806.csv
+│   │   │   ├── summary_20251018_172431.csv
+│   │   │   ├── summary_20251018_173658.csv
+│   │   │   └── summary_20251019_165519.csv
+│   │   ├── filtered_texts
+│   │   │   ├── 20251008_083
+│   │   │   ├── 20251008_113
+│   │   │   ├── 20251008_114
+│   │   │   ├── 20251008_120
+│   │   │   ├── 20251008_122
+│   │   │   ├── 20251008_124
+│   │   │   ├── 20251008_141
+│   │   │   ├── 20251009_084
+│   │   │   └── 20251009_090
+│   │   ├── adaptive_filter.py
+│   │   ├── batch_processor.py
+│   │   ├── check_results.py
+│   │   ├── frequency_analyzer.py
+│   │   ├── main_title_search.py
+│   │   ├── pattern_analyzer.py
+│   │   ├── reorganize_files.py
+│   │   ├── start_time.txt
+│   │   ├── test_v17.py
+│   │   ├── text_extractor.py
+│   │   └── text_processor.py
+│   ├── v18
+│   │   ├── __pycache__
+│   │   │   ├── adaptive_filter.cpython-311.pyc
+│   │   │   ├── frequency_analyzer.cpython-311.pyc
+│   │   │   ├── pattern_analyzer.cpython-311.pyc
+│   │   │   ├── text_extractor.cpython-311.pyc
+│   │   │   ├── text_processor.cpython-311.pyc
+│   │   │   └── utils.cpython-311.pyc
+│   │   ├── batch_results
+│   │   │   ├── results_20251019_163935.json
+│   │   │   └── summary_20251019_163935.csv
+│   │   ├── files
+│   │   ├── adaptive_filter.py
+│   │   ├── batch_processor.py
+│   │   ├── check_results.py
+│   │   ├── frequency_analyzer.py
+│   │   ├── main_title_search.py
+│   │   ├── pattern_analyzer.py
+│   │   ├── reorganize_files.py
+│   │   ├── start_time.txt
+│   │   ├── test_v17.py
+│   │   ├── test_v18.py
+│   │   ├── text_extractor.py
+│   │   ├── text_processor.py
+│   │   └── utils.py
+│   ├── v19
+│   │   ├── __pycache__
+│   │   │   ├── adaptive_filter.cpython-311.pyc
+│   │   │   ├── frequency_analyzer.cpython-311.pyc
+│   │   │   ├── pattern_analyzer.cpython-311.pyc
+│   │   │   ├── text_extractor.cpython-311.pyc
+│   │   │   ├── text_processor.cpython-311.pyc
+│   │   │   └── utils.cpython-311.pyc
+│   │   ├── batch_debug
+│   │   │   ├── 20251112_134926
+│   │   │   ├── 20251112_183826
+│   │   │   ├── 20251117_101804
+│   │   │   ├── 20251117_210126
+│   │   │   ├── 20251117_210213
+│   │   │   ├── 20251208_181151
+│   │   │   └── 20251208_181209
+│   │   ├── files
+│   │   │   ├── CHANGES_SUMMARY.txt
+│   │   │   ├── CHAT_SUMMARY.md
+│   │   │   ├── COMPLETE_CHANGES_GUIDE.md
+│   │   │   └── QUICK_START.txt
+│   │   ├── filtered_texts
+│   │   │   ├── 20251111_085
+│   │   │   ├── 20251111_090
+│   │   │   ├── 20251111_092
+│   │   │   ├── 20251111_093
+│   │   │   ├── 20251111_094
+│   │   │   ├── 20251111_102
+│   │   │   ├── 20251111_103
+│   │   │   ├── 20251111_104
+│   │   │   ├── 20251112_134
+│   │   │   ├── 20251112_135
+│   │   │   ├── 20251112_140
+│   │   │   ├── 20251112_183
+│   │   │   ├── 20251112_184
+│   │   │   ├── 20251112_185
+│   │   │   ├── 20251112_191
+│   │   │   ├── 20251112_193
+│   │   │   ├── 20251117_101
+│   │   │   ├── 20251117_102
+│   │   │   ├── 20251117_103
+│   │   │   ├── 20251117_204
+│   │   │   ├── 20251117_210
+│   │   │   ├── 20251117_211
+│   │   │   ├── 20251117_212
+│   │   │   ├── 20251208_180
+│   │   │   ├── 20251208_181
+│   │   │   ├── 20251208_183
+│   │   │   └── 20251208_184
+│   │   ├── adaptive_filter.py
+│   │   ├── batch_processor.py
+│   │   ├── batch_processor_changes.py
+│   │   ├── check_results.py
+│   │   ├── filename_parsing_utility.py
+│   │   ├── files.zip
+│   │   ├── fpu_usage.py
+│   │   ├── frequency_analyzer.py
+│   │   ├── main_title_search.py
+│   │   ├── pattern_analyzer.py
+│   │   ├── pattern_analyzer_changes.py
+│   │   ├── reorganize_files.py
+│   │   ├── start_time.txt
+│   │   ├── test.py
+│   │   ├── text_extractor.py
+│   │   ├── text_processor.py
+│   │   └── utils.py
+│   ├── v2
+│   │   ├── heavy_text_processor_v2.py
+│   │   ├── main_title_search.py
+│   │   └── title_search.py
+│   ├── v3
+│   │   ├── adaptive_filter.py
+│   │   ├── frequency_analyzer.py
+│   │   ├── main_title_search.py
+│   │   ├── pattern_analyzer.py
+│   │   ├── text_extractor.py
+│   │   └── text_processor.py
+│   ├── v4
+│   │   ├── __pycache__
+│   │   │   ├── adaptive_filter.cpython-311.pyc
+│   │   │   ├── frequency_analyzer.cpython-311.pyc
+│   │   │   ├── pattern_analyzer.cpython-311.pyc
+│   │   │   ├── reorganize_files.cpython-311.pyc
+│   │   │   ├── text_extractor.cpython-311.pyc
+│   │   │   └── text_processor.cpython-311.pyc
+│   │   ├── adaptive_filter.py
+│   │   ├── frequency_analyzer.py
+│   │   ├── main_title_search.py
+│   │   ├── pattern_analyzer.py
+│   │   ├── reorganize_files.py
+│   │   ├── start_time.txt
+│   │   ├── text_extractor.py
+│   │   └── text_processor.py
+│   ├── v5
+│   │   ├── adaptive_filter.py
+│   │   ├── frequency_analyzer.py
+│   │   ├── main_title_search.py
+│   │   ├── pattern_analyzer.py
+│   │   ├── reorganize_files.py
+│   │   ├── start_time.txt
+│   │   ├── text_extractor.py
+│   │   └── text_processor.py
+│   ├── v6
+│   │   ├── adaptive_filter.py
+│   │   ├── frequency_analyzer.py
+│   │   ├── main_title_search.py
+│   │   ├── pattern_analyzer.py
+│   │   ├── reorganize_files.py
+│   │   ├── start_time.txt
+│   │   ├── text_extractor.py
+│   │   └── text_processor.py
+│   ├── v7
+│   │   ├── adaptive_filter.py
+│   │   ├── frequency_analyzer.py
+│   │   ├── main_title_search.py
+│   │   ├── pattern_analyzer.py
+│   │   ├── reorganize_files.py
+│   │   ├── start_time.txt
+│   │   ├── text_extractor.py
+│   │   └── text_processor.py
+│   ├── v8
+│   │   ├── filtered_texts
+│   │   │   ├── filtered_4005-RES-VAP-DWG-233-IC-07020-0.txt
+│   │   │   ├── filtered_4005-RES-VAP-DWG-233-IC-07130-0.txt
+│   │   │   ├── filtered_4005-RES-VAP-DWG-233-IC-07201-0.txt
+│   │   │   ├── filtered_4005-RES-VAP-DWG-233-IC-07202-0.txt
+│   │   │   ├── filtered_4005-RES-VAP-DWG-233-IC-07203-0.txt
+│   │   │   ├── filtered_4005-RES-VAP-DWG-233-IC-07204-0.txt
+│   │   │   ├── filtered_4005-RES-VAP-DWG-233-IC-07205-0.txt
+│   │   │   ├── filtered_4005-RES-VAP-DWG-233-IC-07206-0.txt
+│   │   │   ├── filtered_4005-RES-VAP-DWG-233-IC-07207-0.txt
+│   │   │   ├── filtered_4005-RES-VAP-DWG-233-IC-07208-0.txt
+│   │   │   ├── filtered_4005-RES-VAP-DWG-233-IC-07209-0.txt
+│   │   │   ├── filtered_4005-RES-VAP-DWG-233-IC-07210-0.txt
+│   │   │   ├── filtered_4005-RES-VAP-DWG-233-IC-07211-0.txt
+│   │   │   ├── filtered_4005-RES-VAP-DWG-233-IC-07212-0.txt
+│   │   │   ├── filtered_4005-RES-VAP-DWG-233-IC-07213-0.txt
+│   │   │   ├── filtered_4005-RES-VAP-DWG-233-IC-07214-0.txt
+│   │   │   ├── filtered_4005-RES-VAP-DWG-233-IC-07215-0.txt
+│   │   │   └── filtered_4005-RES-VAP-DWG-233-IC-07217-0.txt
+│   │   ├── adaptive_filter.py
+│   │   ├── frequency_analyzer.py
+│   │   ├── main_title_search.py
+│   │   ├── pattern_analyzer.py
+│   │   ├── reorganize_files.py
+│   │   ├── start_time.txt
+│   │   ├── text_extractor.py
+│   │   └── text_processor.py
+│   ├── v9_workable
+│   │   ├── 20251008_181443
+│   │   ├── 20251008_182152
+│   │   │   ├── 1a_raw_text.txt
+│   │   │   ├── 1b_processed_lines.txt
+│   │   │   ├── 2_frequency_data.txt
+│   │   │   ├── 4.0_adaptive_filter.txt
+│   │   │   ├── 4.1_filtered_lines.txt
+│   │   │   ├── 4.2_pattern_analyzer.txt
+│   │   │   └── 4.3_pattern_result.txt
+│   │   ├── 20251008_182347
+│   │   │   ├── 1a_raw_text.txt
+│   │   │   ├── 1b_processed_lines.txt
+│   │   │   ├── 2_frequency_data.txt
+│   │   │   ├── 4.0_adaptive_filter.txt
+│   │   │   ├── 4.1_filtered_lines.txt
+│   │   │   ├── 4.2_pattern_analyzer.txt
+│   │   │   └── 4.3_pattern_result.txt
+│   │   ├── 20251008_182416
+│   │   │   ├── 1a_raw_text.txt
+│   │   │   ├── 1b_processed_lines.txt
+│   │   │   ├── 2_frequency_data.txt
+│   │   │   ├── 4.0_adaptive_filter.txt
+│   │   │   ├── 4.1_filtered_lines.txt
+│   │   │   ├── 4.2_pattern_analyzer.txt
+│   │   │   └── 4.3_pattern_result.txt
+│   │   ├── filtered_texts
+│   │   │   ├── 4005-RES-VAP-DWG-233-IC-07020-0.txt
+│   │   │   ├── 4005-RES-VAP-DWG-233-IC-07130-0.txt
+│   │   │   ├── 4005-RES-VAP-DWG-233-IC-07201-0.txt
+│   │   │   ├── 4005-RES-VAP-DWG-233-IC-07202-0.txt
+│   │   │   ├── 4005-RES-VAP-DWG-233-IC-07203-0.txt
+│   │   │   ├── 4005-RES-VAP-DWG-233-IC-07204-0.txt
+│   │   │   ├── 4005-RES-VAP-DWG-233-IC-07205-0.txt
+│   │   │   ├── 4005-RES-VAP-DWG-233-IC-07206-0.txt
+│   │   │   ├── 4005-RES-VAP-DWG-233-IC-07207-0.txt
+│   │   │   ├── 4005-RES-VAP-DWG-233-IC-07208-0.txt
+│   │   │   ├── 4005-RES-VAP-DWG-233-IC-07209-0.txt
+│   │   │   ├── 4005-RES-VAP-DWG-233-IC-07210-0.txt
+│   │   │   ├── 4005-RES-VAP-DWG-233-IC-07211-0.txt
+│   │   │   ├── 4005-RES-VAP-DWG-233-IC-07212-0.txt
+│   │   │   ├── 4005-RES-VAP-DWG-233-IC-07213-0.txt
+│   │   │   ├── 4005-RES-VAP-DWG-233-IC-07214-0.txt
+│   │   │   ├── 4005-RES-VAP-DWG-233-IC-07215-0.txt
+│   │   │   ├── 4005-RES-VAP-DWG-233-IC-07217-0.txt
+│   │   │   ├── NCM-DD-B1-DR-ARC-4410-P0.txt
+│   │   │   ├── NCM-DD-B1-DR-ARC-4411-P0.txt
+│   │   │   ├── NCM-DD-B1-DR-ARC-4412-P0.txt
+│   │   │   ├── NCM-DD-B1-DR-ARC-4413-P0.txt
+│   │   │   ├── NCM-DD-B1-DR-ARC-4414-P0.txt
+│   │   │   ├── NCM-DD-B1-DR-ARC-4415-P0.txt
+│   │   │   ├── NCM-DD-B1-DR-ARC-4420-P0.txt
+│   │   │   ├── NCM-DD-B1-DR-ARC-4421-P0.txt
+│   │   │   ├── NCM-DD-B1-DR-ARC-4422-P0.txt
+│   │   │   ├── NCM-DD-B1-DR-ARC-4423-P0.txt
+│   │   │   ├── NCM-DD-B1-DR-ARC-4424-P0.txt
+│   │   │   ├── NCM-DD-B1-DR-ARC-4425-P0.txt
+│   │   │   ├── NCM-DD-B1-DR-ARC-4426-P0.txt
+│   │   │   ├── NCM-DD-B1-DR-ARC-4427-P0.txt
+│   │   │   ├── NCM-DD-B1-DR-ARC-4430-P0.txt
+│   │   │   ├── NCM-DD-B1-DR-ARC-4431-P0.txt
+│   │   │   ├── NCM-DD-B1-DR-ARC-4440-P0.txt
+│   │   │   ├── NCM-DD-B1-DR-ARC-4441-P0.txt
+│   │   │   ├── NCM-DD-B1-DR-ARC-4442-P0.txt
+│   │   │   ├── NCM-DD-B1-DR-ARC-4443-P0.txt
+│   │   │   ├── NCM-DD-B1-DR-ARC-4450-P0.txt
+│   │   │   ├── NCM-DD-B1-DR-ARC-4451-P0.txt
+│   │   │   ├── NCM-DD-B1-DR-ARC-4452-P0.txt
+│   │   │   ├── NCM-DD-B1-DR-ARC-4455-P0.txt
+│   │   │   ├── NCM-DD-B1-DR-ARC-4456-P0.txt
+│   │   │   ├── NCM-DD-B1-DR-ARC-4460-P0.txt
+│   │   │   ├── NCM-DD-B1-DR-ARC-4461-P0.txt
+│   │   │   ├── NCM-DD-L0-DR-ARC-4470-P0.txt
+│   │   │   ├── NCM-DD-L0-DR-ARC-4471-P0.txt
+│   │   │   ├── NCM-DD-L0-DR-ARC-4472-P0.txt
+│   │   │   ├── NCM-DD-L1-DR-ARC-4480-P0.txt
+│   │   │   ├── NCM-DD-L1-DR-ARC-4482-P0.txt
+│   │   │   ├── NCM-DD-L1-DR-ARC-4483-P0.txt
+│   │   │   ├── NCM-DD-L2-DR-ARC-4490-P0.txt
+│   │   │   ├── NCM-DD-L2-DR-ARC-4491-P0.txt
+│   │   │   ├── NCM-DD-L2-DR-ARC-4492-P0.txt
+│   │   │   ├── NCM-DD-Β2-DR-ARC-4401-P0.txt
+│   │   │   ├── NCM-DD-Β2-DR-ARC-4402-P0.txt
+│   │   │   ├── NCM-DD-Β2-DR-ARC-4403-P0.txt
+│   │   │   ├── NCM-DD-Β2-DR-ARC-4404-P0.txt
+│   │   │   ├── NCM-DD-Β2-DR-ARC-4405-P0.txt
+│   │   │   ├── NCM-DD-Β2-DR-ARC-4406-P0.txt
+│   │   │   └── W__PROJECTS_2211 HELLINIKON-AU1.5_02.txt
+│   │   ├── adaptive_filter.py
+│   │   ├── frequency_analyzer.py
+│   │   ├── main_title_search.py
+│   │   ├── pattern_analyzer.py
+│   │   ├── reorganize_files.py
+│   │   ├── start_time.txt
+│   │   ├── text_extractor.py
+│   │   └── text_processor.py
+│   ├── collect.py
+│   ├── important.txt
+│   ├── start_time.txt
+│   ├── test.py
+│   └── tree_print.py
+├── files
+│   └── reports
+│       ├── batch_debug
+│       │   └── v19
+│       └── claude
+│           ├── 20251111_204752
+│           ├── 20251111_205409
+│           ├── 20251111_205611
+│           ├── 20251111_212538
+│           ├── 20251112_183310
+│           ├── 20251112_183449
+│           ├── 20251112_183649
+│           ├── 20251112_191501
+│           ├── 20251112_191535
+│           ├── 20251112_193026
+│           ├── 20251112_193234
+│           ├── 20251117_204417
+│           ├── 20251117_204533
+│           ├── 20251117_204702
+│           ├── 20251208_180721
+│           ├── 20251208_181416
+│           ├── 20251208_181427
+│           ├── 20251208_183727
+│           ├── 20251208_183744
+│           └── 20251208_184027
+├── modules
+│   ├── __pycache__
+│   │   ├── Log.cpython-311.pyc
+│   │   ├── XL_.cpython-310.pyc
+│   │   ├── change_monitor.cpython-38.pyc
+│   │   ├── change_monitor.cpython-39.pyc
+│   │   ├── dates.cpython-310.pyc
+│   │   ├── dates.cpython-311.pyc
+│   │   ├── dates.cpython-39.pyc
+│   │   ├── dict_opers.cpython-310.pyc
+│   │   ├── dict_opers.cpython-311.pyc
+│   │   ├── dict_opers.cpython-39.pyc
+│   │   ├── email_reader.cpython-310.pyc
+│   │   ├── email_reader.cpython-39.pyc
+│   │   ├── email_reader_.cpython-39.pyc
+│   │   ├── file_opers.cpython-310.pyc
+│   │   ├── file_opers.cpython-311.pyc
+│   │   ├── file_opers.cpython-39.pyc
+│   │   ├── letter_conversion.cpython-310.pyc
+│   │   ├── letter_conversion.cpython-311.pyc
+│   │   ├── letter_conversion.cpython-38.pyc
+│   │   ├── letter_conversion.cpython-39.pyc
+│   │   ├── letter_conversion.pypy37.pyc
+│   │   ├── letter_conversion.pypy39.pyc
+│   │   ├── list_opers.cpython-311.pyc
+│   │   ├── list_opers.cpython-39.pyc
+│   │   ├── match_case.cpython-311.pyc
+│   │   ├── path_manipulation.cpython-310.pyc
+│   │   ├── path_manipulation.cpython-311.pyc
+│   │   ├── path_manipulation.cpython-38.pyc
+│   │   ├── path_manipulation.cpython-39.pyc
+│   │   ├── path_manipulation.pypy37.pyc
+│   │   ├── path_manipulation.pypy39.pyc
+│   │   ├── paths.cpython-311.pyc
+│   │   ├── string_manipulation.cpython-311.pyc
+│   │   ├── submission_process.cpython-39.pyc
+│   │   └── time_oper.cpython-311.pyc
+│   ├── Log.py
+│   ├── caching.py
+│   ├── change_monitor.py
+│   ├── dates.py
+│   ├── dict_opers.py
+│   ├── email_reader.py
+│   ├── email_reader_.py
+│   ├── extract.py
+│   ├── file_opers.py
+│   ├── letter_conversion.py
+│   ├── list_oper.py
+│   ├── list_opers.py
+│   ├── list_opers_com.py
+│   ├── match_case.py
+│   ├── monitoring.py
+│   ├── path_cache.py
+│   ├── path_manipulation.py
+│   ├── paths.py
+│   ├── pdf.py
+│   ├── string_manipulation.py
+│   ├── submission_process.py
+│   └── time_oper.py
+├── files.tar.gz
+├── requirements.txt
+├── test.py
+└── v18.tar.gz
+
+Process finished with exit code 0
+

@@ -1,0 +1,111 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-1031-0A_BUILDERS_WORK_MEP_PENETRATIONS_-_MEETING_ROOM_1.pdf ===
+
+Line   0: 1031
+Line   1: 1031
+Line   2: MEETING
+Line   3: ROOM
+Line   4: ATH04 00 010
+Line   5: GL
+Line   6: CEILING LEVEL
+Line   7: YB
+Line   8: MP AD 010 01
+Line   9: MEETING
+Line  10: ROOM
+Line  11: ATH04 00 010
+Line  12: 5130
+Line  13: 405
+Line  14: GL
+Line  15: CEILING LEVEL
+Line  16: YB
+Line  17: MEETING
+Line  18: ROOM
+Line  19: ATH04 00 010
+Line  20: MEP PENETRATIONS CODE
+Line  21: MP AD XXX XX
+Line  22: MP
+Line  23: MEP PENETRATIONS
+Line  24: AD
+Line  25: BUILDING CODE
+Line  26: XXX
+Line  27: ROOM NUMBER
+Line  28: XX
+Line  29: PENETRATION NUMBER
+Line  30: CEILING LEVEL
+Line  31: PHONE
+Line  32: BOOTH
+Line  33: ATH04 00 011
+Line  34: CEILING LEVEL
+Line  35: PHONE
+Line  36: BOOTH
+Line  37: ATH04 00 011
+Line  38: 1031
+Line  39: 1031
+Line  40: PHONE
+Line  41: BOOTH
+Line  42: ATH04 00 011
+Line  43: ADMIN
+Line  44: COLO
+Line  45: COLO
+Line  46: TRUE NORTH
+Line  47: Sheet Title Number
+Line  48: Scale
+Line  49: Plan
+Line  50: Design Consultants
+Line  51: Microsoft
+Line  52: DATA CENTER ATH04
+Line  53: SPATA GREECE
+Line  54: Contractor Joint Venture
+Line  55: Name
+Line  56: Contractor Project
+Line  57: Contractor Contract
+Line  58: Contractor PM
+Line  59: Contractor BIM Mngr
+Line  60: Contractor Information
+Line  61: Renco Terna
+Line  62: Client
+Line  63: General Notes
+Line  64: Client Project
+Line  65: Client Contract
+Line  66: Client PM
+Line  67: Client BIM Mngr
+Line  68: Primary Client Information
+Line  69: Layout
+Line  70: Revision
+Line  71: Tombazi Chalandri
+Line  72: 15232
+Line  73: Athens Greece
+Line  74: 0800 3262
+Line  75: Agion Theodoron Square Athens
+Line  76: 10561
+Line  77: Athens Greece
+Line  78: Kimithois Agios Dimitrios
+Line  79: 17236
+Line  80: Athens Greece
+Line  81: Purpose Issue
+Line  82: Issue
+Line  83: Name
+Line  84: BUILDERS WORK MEP PENETRATIONS
+Line  85: MEETING ROOM
+Line  86: ATH04 VAP AH 1031
+Line  87: SCALE
+Line  88: OFFICE FLOOR PLAN MEP PENETRATIONS KEYPLAN
+Line  89: SCALE
+Line  90: 010 MEETING ROOM ELEVATION MEP PENETRATIONS
+Line  91: SCALE
+Line  92: 010 MEETING ROOM ELEVATION MEP PENETRATIONS
+Line  93: 1000
+Line  94: SCALE
+Line  95: Date
+Line  96: Description
+Line  97: 07
+Line  98: Issued Approval
+Line  99: VAP
+Line 100: SCALE
+Line 101: FLOOR PLAN MEP PENETRATIONS KEYPLAN
+Line 102: SCALE
+Line 103: 011 ELEVATION MEP PENETRATIONS
+Line 104: SCALE
+Line 105: 011 ELEVATION MEP PENETRATIONS
+
+=== END OF FILTERED TEXT ===
+Total lines: 106

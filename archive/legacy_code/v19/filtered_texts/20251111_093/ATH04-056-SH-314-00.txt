@@ -1,0 +1,221 @@
+=== FILTERED TEXT FOR: ATH04-056-SH-314-00.pdf ===
+
+Line   0: Bottom Direction
+Line   1: COLOR CODE
+Line   2: FOUNDATION SLAB REINFORCEMENT
+Line   3: Bottom Direction
+Line   4: Directions
+Line   5: Direction
+Line   6: Direction
+Line   7: Additional
+Line   8: Directions
+Line   9: LEGEND
+Line  10: TOP REBAR, DIRECTION
+Line  11: TOP REBAR, DIRECTION
+Line  12: BOTTOM REBAR, DIRECTION
+Line  13: BOTTOM REBAR, DIRECTION
+Line  14: TOP REBAR, DIRECTION
+Line  15: TOP REBAR, DIRECTION
+Line  16: BOTTOM REBAR, DIRECTION
+Line  17: BOTTOM REBAR, DIRECTION
+Line  18: TOP SIDE BAR, DIRECTION
+Line  19: TOP SIDE BAR, DIRECTION
+Line  20: BOTTOM SIDE BAR, DIRECTION
+Line  21: BOTTOM SIDE BAR, DIRECTION
+Line  22: REBAR DIRECTIONS
+Line  23: Full
+Line  24: XF
+Line  25: ZF
+Line  26: YF
+Line  27: YE
+Line  28: THICKNESS
+Line  29: THICKNESS
+Line  30: THICKNESS
+Line  31: THICKNESS
+Line  32: THICKNESS
+Line  33: THICKNESS
+Line  34: THICKNESS
+Line  35: THICKNESS
+Line  36: THICKNESS
+Line  37: THICKNESS
+Line  38: THICKNESS
+Line  39: THICKNESS
+Line  40: THICKNESS
+Line  41: THICKNESS
+Line  42: THICKNESS
+Line  43: THICKNESS
+Line  44: THICKNESS
+Line  45: THICKNESS
+Line  46: THICKNESS
+Line  47: THICKNESS
+Line  48: THICKNESS
+Line  49: THICKNESS
+Line  50: THICKNESS
+Line  51: RC GROUND SLAB
+Line  52: THICKNESS
+Line  53: TOC
+Line  54: Bottom
+Line  55: Bottom
+Line  56: Bottom
+Line  57: Bottom
+Line  58: ADMIN
+Line  59: COLO
+Line  60: COLO
+Line  61: TRUE NORTH
+Line  62: Microsoft
+Line  63: ENGINEERING CONSULTANT
+Line  64: ΣΥΜΒΟΥΛΟΣ ΜΕΛΕΤΗΤΗΣ
+Line  65: CERTIFIED ENGINEER
+Line  66: ΑΔΕΙΟΥΧΟΣ ΜΗΧΑΝΙΚΟΣ
+Line  67: SUPPLIER DOCUMENT NUMBER
+Line  68: ΚΩΔΙΚΟΣ ΣΧΕΔΙΟΥ ΠΡΟΜΗΘΕΥΤΗ
+Line  69: REVISION
+Line  70: ΑΝΑΘΕΩΡΗΣΗ
+Line  71: 00
+Line  72: A. Karra
+Line  73: Xenopoulos
+Line  74: ΣΥΝΤΑΚΤΗΣ
+Line  75: ΕΛΕΓΧΘΗΚΕ
+Line  76: ΕΓΚΡΙΘΗΚΕ
+Line  77: ΗΜΕΡΟΜΗΝΙΑ
+Line  78: ΑΝΑΘ.
+Line  79: ΣΗΜΕΙΩΣΕΙΣ ΠΕΡΙΓΡΑΦΗ
+Line  80: PREPAR
+Line  81: VERIFY
+Line  82: APROVAL
+Line  83: DATE
+Line  84: REV.
+Line  85: REMARK DESCRIPTION
+Line  86: PROJECT TITLE
+Line  87: TAG NUMBERS
+Line  88: ΕΤΙΚΕΤΑΣ
+Line  89: ATH04 DATA CENTER
+Line  90: DRAWING TITLE
+Line  91: DRAWING
+Line  92: ΑΡΙΘΜΟΣ ΣΧΕΔΙΟΥ
+Line  93: SCALE
+Line  94: ΚΛΙΜΑΚΑ
+Line  95: FORMAT
+Line  96: ΜΟΡΦΗ
+Line  97: FACILITY CODE
+Line  98: ΚΩΔ. ΕΓΚΑΤΑΣ.
+Line  99: SYSTEM
+Line 100: ΣΥΣΤΗΜΑΤΟΣ
+Line 101: SHEET
+Line 102: ΦΥΛΛΟ
+Line 103: RD CODE
+Line 104: ΚΩΔΙΚΟΣ RD
+Line 105: REVISION
+Line 106: ΑΝΑΘΕΩΡ.
+Line 107: ATH 04
+Line 108: JVRT
+Line 109: A. Koukouselis
+Line 110: Civil Engineer
+Line 111: Structural Engineer
+Line 112: Απόστολος Κουκουσέλης
+Line 113: Πολιτικός Μηχανικός
+Line 114: Πολιτικός Μηχανικός
+Line 115: PILE FOUNDATION ADMINISTRATION
+Line 116: BALLARD BUILDING
+Line 117: ΤΙΤΛΟΣ ΕΡΓΟΥ
+Line 118: ΤΙΤΛΟΣ ΣΧΕΔΙΟΥ
+Line 119: GENERAL NOTES CONSTRUCTION
+Line 120: STATIKI SA Structural Project Specification Architectural,
+Line 121: Civil, Mechanical Electrical General Notes ATH04 A 000
+Line 122: Refer
+Line 123: STATIKI SA
+Line 124: Work
+Line 125: Statutory Authorities.
+Line 126: CAST SITU CONCRETE
+Line 127: Cast Project Specification Greek Hellenic Code
+Line 128: Concrete Technology 2016 KTS 2016 ΤΠ 1501 01 01 01 00. Concrete
+Line 129: Summary Project Specification
+Line 130: Pile
+Line 131: Exposure EN
+Line 132: Concrete 45
+Line 133: Blinding
+Line 134: Concrete
+Line 135: Blinding
+Line 136: Ground
+Line 137: Exposure EN
+Line 138: Concrete 45
+Line 139: External
+Line 140: Exposure EN
+Line 141: Concrete
+Line 142: Refer Civil Specification
+Line 143: Cover Reinforcement Design Drawings.
+Line 144: Internal
+Line 145: Reinforcement
+Line 146: High EN 10080 Greek
+Line 147: KTX 2008
+Line 148: Lengths EN 1992
+Line 149: Spacers
+Line 150: Sufficient
+Line 151: Cover
+Line 152: Chairs,
+Line 153: Spacers
+Line 154: Spacers
+Line 155: Concrete Finishes EN 13670
+Line 156: Basic, Ordinary, Plain Special. Finishes
+Line 157: Concealed Ordinary Finish
+Line 158: Concealed Ordinary Finish
+Line 159: Exposed Plain Finish
+Line 160: Exposed Plain Finish
+Line 161: Internal, External,
+Line 162: Floors Floor Class Technical
+Line 163: Report Concrete Industrial Ground Floors A Guide Design Construction Concrete Society.
+Line 164: Concrete Hellenic Code Concrete Technology 2016 KTS 2016 ΤΠ 1501 01 01 01 00.
+Line 165: Exposed
+Line 166: Architect Floor Finishes Drawing Project Specification
+Line 167: Concrete Hellenic Code Concrete Technology 2016 KTS 2016 TΠ
+Line 168: 1501 01 01 02 00.
+Line 169: Steelwork
+Line 170: Contractor Concrete Contractor.
+Line 171: Concrete EN 12350
+Line 172: EN EN 12390.
+Line 173: Samples Density
+Line 174: LOT EN ISO IEC 17025
+Line 175: Engineer
+Line 176: Engineer Contractor
+Line 177: EN 12350 EN
+Line 178: 12350 EN 12350
+Line 179: MOVEMENT CONSTRUCTION JOINTS
+Line 180: Movement Ground Floor
+Line 181: Peikko TERAJOINT Movement
+Line 182: Ground Floor
+Line 183: Isolation
+Line 184: Contractor
+Line 185: EARTHWORKS FOUNDATIONS
+Line 186: Earthworks Project Specifications
+Line 187: Civil Geotechnical
+Line 188: Granular
+Line 189: ATH04 03
+Line 190: ATH04 04
+Line 191: Refer Project Specification
+Line 192: Ground Floor Ground Floor
+Line 193: Property
+Line 194: Property
+Line 195: Floor
+Line 196: Typical Floor
+Line 197: Property
+Line 198: Retail
+Line 199: Reach
+Line 200: Reach
+Line 201: Building Ground Floor Slab Bottom
+Line 202: Additional Reinforcement Part
+Line 203: ATH04 056 SH
+Line 204: ATH04 056 SH 00
+Line 205: Κτίριο COLO Ανάπτυγματα
+Line 206: Πρόσθετοι Μέρος
+Line 207: 00
+Line 208: 00
+Line 209: IFA ISSUED APPROVAL
+Line 210: Markellos
+Line 211: 02 2025
+Line 212: Building Additional Reinforcement Foundation Bottom Part
+Line 213: CONTINUATION SEE DRAWING ATH04 056 SH
+Line 214: CONTINUATION SEE DRAWING ATH04 056 SH
+Line 215: CONTINUATION SEE DRAWING ATH04 056 SH ATH04 056 SH
+
+=== END OF FILTERED TEXT ===
+Total lines: 216

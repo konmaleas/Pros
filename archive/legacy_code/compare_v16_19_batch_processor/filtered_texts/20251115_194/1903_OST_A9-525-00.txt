@@ -1,0 +1,119 @@
+=== FILTERED TEXT FOR: 1903_OST_A9-525-00.pdf ===
+
+Line   0: 450
+Line   1: 450
+Line   2: 700
+Line   3: 450
+Line   4: 450
+Line   5: ΝΕΡΟΧΥΤΗΣ
+Line   6: 2150
+Line   7: ΕΣΤΙΑ
+Line   8: ΨΥΓΕΙΟ ΕΣΩΤΕΡΙΚΑ
+Line   9: ΝΤΟΥΛΑΠΙΟΥ
+Line  10: 2920
+Line  11: 2500
+Line  12: 450
+Line  13: 450
+Line  14: 750
+Line  15: 445
+Line  16: ΛΑΓΩΝΙΚΗ ΑΛΜΥΡΑ ΝΟΤΙΑ
+Line  17: ΑΝΤΙΠΑΡΟΣ LAGONIKI ALMYRA
+Line  18: SOUTH ANTIPAROS
+Line  19: RESIDENCES ANTIPAROS
+Line  20: OST LIMITED
+Line  21: ΠΕΡΙΓΡΑΦΗ
+Line  22: DESCRIPTION
+Line  23: ΗΜ ΝΙΑ
+Line  24: REVISION DATE
+Line  25: Νaxou Kifisia, Greece
+Line  26: 4217 6976
+Line  27: ERISMA
+Line  28: Kontou 2 Athens, Greece
+Line  29: 6781 6785
+Line  30: TEKEM CONSULTING ENGINEERS
+Line  31: Epirou Athens, Greece
+Line  32: 3262 3269
+Line  33: Ploutarchou Athens, 75 Greece
+Line  34: 722 4170 722 6355
+Line  35: VALSAMAKIS
+Line  36: Skoufa Athens, 72 Greece
+Line  37: 8642
+Line  38: HELLI PANGALOU
+Line  39: ΚΛΙΜΑΚΑ
+Line  40: SCALE
+Line  41: ΣΧΕΔΙΟ
+Line  42: ΕΡΓΟ
+Line  43: ΕΡΓΟΔΟΤΗΣ
+Line  44: ΗΜΕΡΟΜΗΝΙΑ ΕΚΔΟΣΗΣ
+Line  45: FIRST ISSUE DATE
+Line  46: DETAILED DESIGN
+Line  47: KAT. ΣΧΕΔΙΟΥ
+Line  48: BLD. CATEGORY
+Line  49: ISSUED
+Line  50: ΘΕΣΗ ΕΡΓΟΥ
+Line  51: CONSTR.
+Line  52: APPROVAL
+Line  53: TENDER
+Line  54: STATUS
+Line  55: DRAFT
+Line  56: FINAL
+Line  57: ΑΝΑΘ.
+Line  58: REV.
+Line  59: PROJECT
+Line  60: LOCATION
+Line  61: CLIENT
+Line  62: DRAWING
+Line  63: ΚΗΠΟΤΕΧΝΙΚΗ ΜΕΛΕΤΗ
+Line  64: LANDSCAPE DESIGN
+Line  65: ΜΗΧΑΝΟΛΟΓΙΚΗ ΜΕΛΕΤΗ
+Line  66: MEP ENGINEER
+Line  67: ΣΤΑΤΙΚΗ ΜΕΛΕΤΗ
+Line  68: STRUCTURAL ENGINEER
+Line  69: ΑΡΧΙΤΕΚΤΟΝΑΣ ΕΡΓΟΥ
+Line  70: ARCHITECTURAL DESIGN
+Line  71: ΕΚΤΕΛΕΣΗ ΑΡΧΙΤΕΚΤΟΝΙΚΗΣ
+Line  72: ΜΕΛΕΤΗΣ ΕΠΙΒΛΕΨΗ
+Line  73: EXECUTIVE ARCHITECT
+Line  74: SITE SUPERVISOR
+Line  75: DISCIPLINE
+Line  76: ARC
+Line  77: VAP
+Line  78: ΚΑΤΟΨΗ
+Line  79: ΚΛΙΜΑΚΑ
+Line  80: ΟΨΗ
+Line  81: 2
+Line  82: ΚΛΙΜΑΚΑ
+Line  83: ΠΡΙΖΑ ΨΥΓΕΙΟΥ
+Line  84: 00
+Line  85: WOODWORK
+Line  86: 2020
+Line  87: COUNTERTOP
+Line  88: CABINET
+Line  89: LEAVING ROOM
+Line  90: ΛΕΠΤΟΜΕΡΕΙΑ
+Line  91: 4
+Line  92: ΚΛΙΜΑΚΑ 2
+Line  93: ΤΟΜΗ
+Line  94: ΚΛΙΜΑΚΑ
+Line  95: 2
+Line  96: ΛΕΠΤΟΜΕΡΕΙΑ 2
+Line  97: ΚΛΙΜΑΚΑ 2
+Line  98: ΠΑΓΚΟΣ ΑΠΟ ΛΕΥΚΗ ΦΟΡΜΑΪΚΑ ΕΝΔΕΙΚΤΙΚΑ
+Line  99: 2. ΑΝΟΞΕΙΔΩΤΟΣ ΚΟΙΛΟΔΟΚΟΣ ΣΤΗΡΙΞΗΣ ΠΑΓΚΟΥ
+Line 100: ΕΣΩΤΕΡΙΚΑ ΝΤΟΥΛΑΠΙΩΝ ΕΡΜΑΡΙΟΥ ΑΠΟ ΛΕΥΚΗ ΜΕΛΑΜΙΝΗ AGT SOFT TOUCH
+Line 101: WHITE
+Line 102: 4. ΦΥΛΛΑ EΡΜΑΡΙOY ΑΠΟ ΛΕΥΚΗ ΜΕΛΑΜΙΝΗ
+Line 103: XOYΦΤΑ ΓΙΑ ΝΑ ΑΝΟΙΓΟΥΝ ΤΑ ΦΥΛΛΑ
+Line 104: ΤΑΙΝΙΑ LED ΕΣΩΤΕΡΙΚΑ ΝΤΟΥΛΑΠΙΟΥ
+Line 105: ΣΤOΜΙΟ ΚΛΙΜΑΤΙΣΜΟΥ
+Line 106: ΧΩΡΟΣ ΕΓΚΑΤΑΣΤΑΣΗΣ ΚΛΙΜΑΤΙΣΜΟΥ
+Line 107: ΠΡΟΦΙΛ ΑΛΟΥΜΙΝΙΟΥ
+Line 108: ΛΑΣΤΙΧΟ ΓΙΑ ΑΠΟΦΥΓΗ ΕΠΑΦΗΣ ΠΡΟΣΚΡΟΥΣΗΣ ΜΕ ΦΥΛΛΟ ΕΡΜΑΡΙΟΥ
+Line 109: 2
+Line 110: 4
+Line 111: 4
+Line 112: 4
+Line 113: 4
+
+=== END OF FILTERED TEXT ===
+Total lines: 114

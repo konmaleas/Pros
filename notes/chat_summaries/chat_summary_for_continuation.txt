@@ -1,0 +1,33 @@
+Chat Summary for Continuation
+Project Context
+You're developing a text processing pipeline for PDF documents (architectural/engineering) to identify structural patterns and enable auto-completion functionality. The goal is to distinguish between structural document elements (title chunks like '4005', 'RES', 'VAP', 'DWG') and content noise (measurements, dimensions).
+Key Components Developed
+1. Title Analysis System
+
+Title format: "4005-RES-VAP-DWG-233-IC-07020-0"
+TitleAnalysis class extracts alpha chunks (['RES', 'VAP', 'DWG', 'IC']) and digit chunks (['4005', '233', '07020', '0'])
+
+2. Text Filtering Pipeline Evolution
+
+Problem: Initial heavy filtering was too slow (6+ minutes) and either over-filtered (removing structural elements) or under-filtered (keeping measurement noise)
+Solution: Final tuned filtering system that processes in ~1 second with smart noise removal
+Key filtering logic: Preserve title chunks + essential structural terms, remove extreme high-frequency words (threshold: 76), intelligently filter obvious measurements while keeping structural codes
+
+3. Your Frequency Analysis Function
+Returns line positions for each title chunk: {'233': [65, 66, 145, 164, 1292, 1293...], '4005': [65, 66, 167, 1292...]}
+
+Used to set dynamic noise thresholds based on actual title chunk frequencies
+Shows consistent positioning patterns across documents
+
+Current State
+Successfully filtering text with good balance: structural elements preserved, obvious noise removed, fast processing (~1 second).
+Next Phase: Pattern Priority (Where We Left Off)
+Objective: Identify structural patterns by analyzing consistent distances between chunks and anchor points across document batches.
+Agreed Approach:
+
+Anchor Strategy: Use constant line positions (5 options, closest proximity preferred) - your function provides this
+Distance Measurement: chunk_line - anchor_line across all filtered lines
+Pattern Recognition: Require 100% consistency across all files in batch
+Auto-completion: Predict structural elements based on distance patterns from anchors
+
+Immediate Next Steps: You're providing anchor function/results, then build pattern recognition system for 100% consistent structural patterns.

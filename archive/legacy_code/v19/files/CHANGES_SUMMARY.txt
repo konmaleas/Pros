@@ -1,0 +1,47 @@
+CHANGES MADE TO FIX BATCH PROCESSING
+=====================================
+
+Files Modified:
+1. pattern_analyzer.py
+2. batch_processor.py
+
+KEY CHANGES:
+
+1. pattern_analyzer.py - Line 292-295
+   Changed anchor scoring from requiring ALL files to requiring AT LEAST ONE file:
+   
+   OLD:
+   if viable_files < len(all_file_data):
+       return 0
+   
+   NEW:
+   if viable_files == 0:
+       return 0
+   
+   This allows multi-anchor scenarios where different anchors cover different files.
+
+2. pattern_analyzer.py - Line 117
+   Changed analyze_all_files() return type to include all_file_data:
+   - Returns: Tuple[Dict[str, FileAnalysisResult], Dict]
+   - Enables multi-anchor fallback in batch processor
+
+3. pattern_analyzer.py - Line 142
+   Added 'processed_lines' to all_file_data dict (needed by find_multiple_anchors)
+
+4. pattern_analyzer.py - New method at end
+   Added convert_validation_to_file_results() to convert multi-anchor validation results to FileAnalysisResult format
+
+5. batch_processor.py - CaseResult dataclass
+   Added found_titles field to store reconstructed titles
+
+6. batch_processor.py - process_case() function  
+   Added multi-anchor fallback logic:
+   - Try single-anchor first
+   - If fails (all chunks = 0), try multi-anchor
+   - Get reconstructed titles from validation results
+   
+7. batch_processor.py - generate_report()
+   Added RECONSTRUCTED TITLES section to show found titles
+
+CRITICAL FIX: Line 292 in _score_anchor_candidate() 
+This was preventing ANY anchors from being viable in batch processing.

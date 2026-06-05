@@ -1,0 +1,533 @@
+=== FILTERED TEXT FOR: JVIT-LHL-00-1-0004-03_D2_REV02.pdf ===
+
+Line   0: PATH
+Line   1: PATH
+Line   2: 40
+Line   3: 70
+Line   4: 00
+Line   5: II
+Line   6: 40
+Line   7: 40
+Line   8: 70
+Line   9: 00
+Line  10: 40
+Line  11: II
+Line  12: 40
+Line  13: 70
+Line  14: 40
+Line  15: 70
+Line  16: 00
+Line  17: 40
+Line  18: 00
+Line  19: 40
+Line  20: TRAM LINE
+Line  21: ΟΡΙΟ ΚΤΗΜΑΤΟΛΟΓΙΟΥ
+Line  22: ΛΕΩΦ. ΠΟΣΕΙΔΩΝΟΣ
+Line  23: ΥΠΟΓΕΙΑ ΔΙΑΒΑΣΗ ΠΕΖΩΝ
+Line  24: ΥΠΟΓΕΙΑ ΔΙΑΒΑΣΗ
+Line  25: ΠΕΙΡΑΙΑΣ
+Line  26: ΛΕΩΦΟΡΟΣ ΣΥΓΓΡΟΥ
+Line  27: ΟΔΟΣ ΝΑΥΑΡΧΟΥ ΒΟΤΣΗ
+Line  28: ΟΔΟΣ ΝΑΥΑΡΙΝΟΥ
+Line  29: ΟΔΟΣ ΣΑΧΤΟΥΡΗ
+Line  30: ΟΔΟΣ ΠΕΙΣΙΣΤΡΑΤΟΥ
+Line  31: ΟΔΟΣ ΝΑΥΑΡΧΟΥ ΒΟΤΣΗ
+Line  32: ΟΔΟΣ ΦΙΛΙΠΠΟΥ
+Line  33: ΟΔΟΣ ΕΥΡΙΠΙΔΟΥ
+Line  34: ΟΔΟΣ
+Line  35: ΟΔΟΣ ΕΥΡΙΠΙΔΟΥ
+Line  36: ΟΔΟΣ ΗΡΑΚΛΕΟΥΣ
+Line  37: ΟΔΟΣ
+Line  38: ΟΔΟ
+Line  39: ΟΔΟΣ ΠΕΙΣΙΣΤΡΑΤΟΥ
+Line  40: ΟΔΟΣ ΙΣΜΗΝΗΣ
+Line  41: ΟΔΟΣ ΝΑΥΑΡΧΟΥ ΒΟΤΣΗ
+Line  42: ΟΔΟΣ ΝΑΥΑΡΙΝΟΥ
+Line  43: ΟΔΟΣ ΕΠΑΜΕΙΝΩΝΔΑ
+Line  44: ΟΔΟΣ ΠΕΙΣΙΣΤΡΑΤΟΥ
+Line  45: ΟΔΟΣ ΝΑΥΑΡΙΝΟΥ
+Line  46: ΟΔΟΣ ΠΕΙΣΙΣΤΡΑΤΟΥ
+Line  47: ΛΕΩΦΟΡΟΣ ΠΟΣΕΙΔΩΝΟΣ ΠΑΛΑΙΑ
+Line  48: TRAM
+Line  49: BS
+Line  50: BW
+Line  51: BS
+Line  52: TS
+Line  53: BW
+Line  54: BS
+Line  55: BS
+Line  56: BS
+Line  57: BS
+Line  58: BS
+Line  59: BW
+Line  60: BS
+Line  61: TS
+Line  62: TS
+Line  63: TS
+Line  64: BS
+Line  65: TS
+Line  66: TS
+Line  67: TS
+Line  68: TS
+Line  69: TS
+Line  70: TS
+Line  71: TS
+Line  72: TS TW
+Line  73: TS
+Line  74: TS
+Line  75: BS
+Line  76: BS
+Line  77: BS
+Line  78: BS
+Line  79: BW
+Line  80: BW
+Line  81: TS
+Line  82: TS
+Line  83: ASL
+Line  84: ASL
+Line  85: TR
+Line  86: TS
+Line  87: BS
+Line  88: BS
+Line  89: TS
+Line  90: TS
+Line  91: TS
+Line  92: TS
+Line  93: TS
+Line  94: TS
+Line  95: BS
+Line  96: TS
+Line  97: BS
+Line  98: TS
+Line  99: TS
+Line 100: BR
+Line 101: BS
+Line 102: BS
+Line 103: BS
+Line 104: BS
+Line 105: BS
+Line 106: BS
+Line 107: BS
+Line 108: TS
+Line 109: TS
+Line 110: TW
+Line 111: TS
+Line 112: TS
+Line 113: TS
+Line 114: BS
+Line 115: BS
+Line 116: BS
+Line 117: BS
+Line 118: BS
+Line 119: BS
+Line 120: BS
+Line 121: BS
+Line 122: BS
+Line 123: BS
+Line 124: BS
+Line 125: TW
+Line 126: TW
+Line 127: BW
+Line 128: TW
+Line 129: BW
+Line 130: BW
+Line 131: BS
+Line 132: BS
+Line 133: TS
+Line 134: TS
+Line 135: TS
+Line 136: BS
+Line 137: TS
+Line 138: BW
+Line 139: TW
+Line 140: BW
+Line 141: BW
+Line 142: BW
+Line 143: BW
+Line 144: BW
+Line 145: BW
+Line 146: BW
+Line 147: BW
+Line 148: BW
+Line 149: BW
+Line 150: BW
+Line 151: TW
+Line 152: TW
+Line 153: TW
+Line 154: TW
+Line 155: TW
+Line 156: BS
+Line 157: BS
+Line 158: BS
+Line 159: BS
+Line 160: BS
+Line 161: BS
+Line 162: BS
+Line 163: BS
+Line 164: BS
+Line 165: BS
+Line 166: BS
+Line 167: TS
+Line 168: TS
+Line 169: TS
+Line 170: TS
+Line 171: TS
+Line 172: TS
+Line 173: TS
+Line 174: TS
+Line 175: TS
+Line 176: TS
+Line 177: TS
+Line 178: TS
+Line 179: TS
+Line 180: TS
+Line 181: TS
+Line 182: TS
+Line 183: TS
+Line 184: TS
+Line 185: TS
+Line 186: TS
+Line 187: TS
+Line 188: BS
+Line 189: BS
+Line 190: BW
+Line 191: TS
+Line 192: TW
+Line 193: ΣΤΑΘΜΗ ΔΑΠΕΔΟΥ
+Line 194: TW
+Line 195: TW
+Line 196: TW
+Line 197: BW
+Line 198: BW
+Line 199: TW
+Line 200: BW
+Line 201: TW
+Line 202: BW
+Line 203: TW
+Line 204: BW
+Line 205: BW
+Line 206: TW
+Line 207: TS
+Line 208: BS
+Line 209: BS
+Line 210: TW
+Line 211: TW
+Line 212: TW
+Line 213: TW
+Line 214: ΕΥΔΑΠ
+Line 215: ΡΟΛΟΙ
+Line 216: 40
+Line 217: 70
+Line 218: 00
+Line 219: II
+Line 220: 40
+Line 221: 40
+Line 222: 70
+Line 223: 00
+Line 224: 40
+Line 225: II
+Line 226: SEISMIC
+Line 227: JOINT
+Line 228: VEHICLE GATE
+Line 229: BOLLARDS
+Line 230: ΚΟΛΩΝΑΚΙΑ
+Line 231: GUARDHOUSE
+Line 232: BULLET PROOF
+Line 233: ΦΥΛΑΚΕΙΟ
+Line 234: Thermal
+Line 235: TRAFFIC LIGHT
+Line 236: TECHNICAL CENTER
+Line 237: PANEL
+Line 238: HEIGHT
+Line 239: TECHNICAL CENTER
+Line 240: PANEL
+Line 241: HEIGHT
+Line 242: TRAFFIC LIGHT
+Line 243: TECHNICAL CENTER
+Line 244: PANEL
+Line 245: HEIGHT
+Line 246: TRAFFIC LIGHT
+Line 247: TECHNICAL CENTER
+Line 248: PANEL
+Line 249: HEIGHT
+Line 250: TRAFFIC
+Line 251: LIGHT
+Line 252: TECHNICAL CENTER
+Line 253: HEIGHT
+Line 254: PAINTED GRAY RAL 7035
+Line 255: TECHNICAL CENTER
+Line 256: PANEL
+Line 257: HEIGHT
+Line 258: PAINTED GRAY RAL 7035
+Line 259: GUARDHOUSE
+Line 260: CAMERA POLE
+Line 261: ΣΤΗΛΟΣ ΚΑΜΕΡΑΣ
+Line 262: CAMERA POLE
+Line 263: ΣΤΗΛΟΣ ΚΑΜΕΡΑΣ
+Line 264: GUARDHOUSE
+Line 265: BULLET PROOF
+Line 266: ΦΥΛΑΚΕΙΟ
+Line 267: GUARDHOUSE
+Line 268: BULLET PROOF
+Line 269: ΦΥΛΑΚΕΙΟ
+Line 270: EC
+Line 271: SA
+Line 272: SC
+Line 273: EC
+Line 274: SA
+Line 275: EC
+Line 276: SC
+Line 277: SA
+Line 278: EC
+Line 279: EC
+Line 280: Intercom
+Line 281: Intercom
+Line 282: Card Reader
+Line 283: Intercom
+Line 284: Card Reader
+Line 285: Intercom
+Line 286: Card Reader
+Line 287: Intercom
+Line 288: Card Reader
+Line 289: Removable
+Line 290: Bollards
+Line 291: Items
+Line 292: TECHNICAL CENTER
+Line 293: PANEL
+Line 294: HEIGHT
+Line 295: TRAFFIC LIGHT
+Line 296: EXISTING CONCRETE
+Line 297: UPSTAND
+Line 298: NEW FAIR FACED
+Line 299: CONCRETE UPSTAND
+Line 300: IR
+Line 301: DRINKING FOUNTAIN
+Line 302: SIZE
+Line 303: ΨΥΚΤΗΣ ΔΙΑΣΤΑΣΗΣ
+Line 304: ΠΛΑΤΟΣ ΒΑΘΟΣ
+Line 305: DRINKING FOUNTAIN
+Line 306: SIZE
+Line 307: ΨΥΚΤΗΣ ΔΙΑΣΤΑΣΗΣ
+Line 308: ΠΛΑΤΟΣ ΒΑΘΟΣ
+Line 309: DRINKING FOUNTAIN
+Line 310: SIZE
+Line 311: ΨΥΚΤΗΣ ΔΙΑΣΤΑΣΗΣ
+Line 312: ΠΛΑΤΟΣ ΒΑΘΟΣ
+Line 313: STOP
+Line 314: ΠΕΡΙΟΧΗ ΦΥΤΕΥΣΗΣ
+Line 315: ΒΟΥΡΤΣΙΣΤΟ ΣΚΥΡΟΔΕΜΑ
+Line 316: NW STRETCH,
+Line 317: ARMS, SHOULDERS
+Line 318: Foundation
+Line 319: NW
+Line 320: ARMS TRICEPS
+Line 321: Foundation
+Line 322: NW
+Line 323: ABDOMINALS
+Line 324: Foundation
+Line 325: NW
+Line 326: ARMS, ABDOMINALS
+Line 327: Foundation
+Line 328: NW
+Line 329: LEGS
+Line 330: Foundation
+Line 331: Foundation
+Line 332: Copyright 2015
+Line 333: Richter Spielgeräte
+Line 334: 83112 Frasdorf, 49 0 8052 4180
+Line 335: Loft
+Line 336: Antenna
+Line 337: Solar
+Line 338: PISISTRATOU
+Line 339: NAVARHOU VOTSI
+Line 340: ISMINIS
+Line 341: EYDAP
+Line 342: EYDAP
+Line 343: EXISTING SURVEY
+Line 344: FENCE WALL
+Line 345: Line
+Line 346: ΟΡΙΟ ΥΠΟΓΕΙΟΥ
+Line 347: ALIGNED
+Line 348: ALIGNED
+Line 349: ALIGNED
+Line 350: ALIGNED
+Line 351: ALIGNED
+Line 352: ALIGNED
+Line 353: FFL
+Line 354: FFL
+Line 355: GAS
+Line 356: GAS
+Line 357: GAS
+Line 358: ΠΑΡΤΕΡΙ
+Line 359: ΑΠΟ
+Line 360: ΕΦΑΠΤΟΜΕΝΗ
+Line 361: ΚΟΡΜΟΥ
+Line 362: Archaelogical
+Line 363: ΕΝΔΕΙΞΗ ΣΚΑΜΜΑΤΟΣ ΑΠΑΙΤΗΣΗΣ
+Line 364: AΡΧΑΙΟΛΟΓΙΚΗΣ ΥΠΗΡΕΣΙΑΣ
+Line 365: RPBW
+Line 366: RENZO PIANO BUILDING WORKSHOP
+Line 367: FACADE CONSULTANT
+Line 368: ΣΥΜΒΟΥΛΟΣ ΠΡΟΣΟΨΕΩΝ
+Line 369: FRONT
+Line 370: ACOUSTIC DESIGN
+Line 371: ΑΚΟΥΣΤΙΚΗ ΜΕΛΕΤΗ
+Line 372: ARUP Acoustics
+Line 373: THEATRE DESIGN CONSULTANT
+Line 374: ΣΥΜΒΟΥΛΟΣ ΘΕΑΤΡΙΚΟΥ ΣΧΕΔΙΑΣΜΟΥ
+Line 375: THEATRE PROJECTS CONSULTANTS
+Line 376: LIBRARY CONSULTANT
+Line 377: ΣΥΜΒΟΥΛΟΣ ΣΧΕΔΙΑΣΜΟΥ ΒΙΒΛΙΟΘΗΚΗΣ
+Line 378: LANDSCAPE DESIGN
+Line 379: ΜΕΛΕΤΗ ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΧΩΡΟΥ
+Line 380: DEBORAH NEVINS
+Line 381: Associates,
+Line 382: COLLABORATION
+Line 383: ΜΕΛΕΤΗΤΗΣ
+Line 384: HELLI PANGALOU
+Line 385: MEP ENGINEER
+Line 386: ΜΕΛΕΤΗ ΕΓΚΑΤΑΣΤΑΣΕΩΝ
+Line 387: ARUP
+Line 388: COLLABORATION
+Line 389: ΜΕΛΕΤΗΤΗΣ
+Line 390: LDK
+Line 391: STRUCTURAL ENGINEER
+Line 392: ΣΤΑΤΙΚΗ ΜΕΛΕΤΗ
+Line 393: EXPEDITION
+Line 394: COLLABORATION
+Line 395: ΜΕΛΕΤΗΤΗΣ
+Line 396: OMETE
+Line 397: EXECUTIVE ARCHITECT
+Line 398: ΑΡΧΙΤΕΚΤΟΝΑΣ
+Line 399: BETAPLAN
+Line 400: DESIGN ARCHITECT
+Line 401: ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΜΕΛΕΤΗ ΑΡΧΙΤΕΚΤΟΝΑΣ ΕΡΓΟΥ
+Line 402: TRAFFIC CONSULTANT
+Line 403: ΚΥΚΛΟΦΟΡΙΑΚΗ ΜΕΛΕΤΗ
+Line 404: DENCO
+Line 405: PROJECT MANAGER COST CONSULTANT
+Line 406: ΣΥΝΤΟΝΙΣΜΟΣ ΜΕΛΕΤΗΣ ΣΥΜΒΟΥΛΟΣ ΠΡΟΥΠΟΛΟΓΙΣΜΟΥ
+Line 407: FAITHFUL GOULD
+Line 408: Archives
+Line 409: 75004 Paris France
+Line 410: 44 4900
+Line 411: 42 78 0198
+Line 412: Aristodimou Street
+Line 413: Athens, GR 76 Greece
+Line 414: 72
+Line 415: 72
+Line 416: Regent Street, Morley House
+Line 417: London, UK
+Line 418: 44 0 1000
+Line 419: 44 0 1001
+Line 420: Asklipiou Street
+Line 421: Athens, GR 72 Greece
+Line 422: 30026
+Line 423: 44631
+Line 424: Fitzroy Street
+Line 425: London, UK
+Line 426: 44 0 755 2191
+Line 427: 44 0 755 3743
+Line 428: Thivaidos Street
+Line 429: Athens, GR Greece
+Line 430: 96700
+Line 431: 96709
+Line 432: Lafayette Street, Suite
+Line 433: York, NY 10012 USA
+Line 434: 1125
+Line 435: Skoufa Street
+Line 436: Athens, GR 72 Greece
+Line 437: 6219
+Line 438: 9225
+Line 439: Linton House
+Line 440: Highgate Road
+Line 441: London, UK
+Line 442: 44 7284 5888
+Line 443: Alexi
+Line 444: Elizabeth Street
+Line 445: South Norwalk, CT 06854 3025 USA
+Line 446: 0830
+Line 447: 0835
+Line 448: Americas
+Line 449: York, NY 10013 USA
+Line 450: 2669
+Line 451: 1056
+Line 452: Varick Street
+Line 453: York, NY 10014 USA
+Line 454: 2220
+Line 455: 2253
+Line 456: Kifisias
+Line 457: Athens, GR Greece
+Line 458: 54801
+Line 459: 54800
+Line 460: Paradisou Street
+Line 461: Athens, GR Greece
+Line 462: 15245
+Line 463: 11951
+Line 464: AMA Alexi Marmot Associates
+Line 465: IRRIGATION DESIGN
+Line 466: ΜΕΛΕΤΗ ΑΡΔΕΥΣΗΣ
+Line 467: SOTIRIOS MAVRAGANIS
+Line 468: 42 Vasileos Georgiou Street
+Line 469: Athens, GR Greece
+Line 470: REV.
+Line 471: STAVROS NIARCHOS FOUNDATION CULTURAL CENTER
+Line 472: PROJECT
+Line 473: KEY PLAN
+Line 474: ΕΡΓΟ
+Line 475: Vasilissis Sofias Avenue, Athens, Greece
+Line 476: 72 41311, 72 41312
+Line 477: ΚΛΕΙΔΑ ΣΧΕΔΙΟΥ
+Line 478: DRWG TITLE
+Line 479: ΤΙΤΛΟΣ ΣΧΕΔΙΟΥ
+Line 480: CONSULTANT STAMP
+Line 481: ΣΦΡΑΓΙΔΑ ΣΥΜΒΟΥΛΟΥ
+Line 482: SCALE
+Line 483: ΚΛΙΜΑΚΑ
+Line 484: REFERENCED DRAWING NUMBER
+Line 485: AUTHOR
+Line 486: ΣΥΝΤΑΚΤΗΣ
+Line 487: DISCIPLINE
+Line 488: ΚΑΤ. ΜΕΛΕΤΗΣ
+Line 489: ZONE
+Line 490: ΠΕΡΙΟΧΗ
+Line 491: DRWG TYPE
+Line 492: ΕΙΔΟΣ ΣΧΕΔΙΟΥ
+Line 493: REV.
+Line 494: ΑΝΑΘ.
+Line 495: QR CODE
+Line 496: FIRST ISSUE DATE
+Line 497: ΗΜΕΡ. ΕΚΔ.
+Line 498: DRAWN
+Line 499: CHECKED
+Line 500: APPROVED
+Line 501: DATE
+Line 502: DESCRIPTION
+Line 503: 00
+Line 504: PROJECT
+Line 505: ΕΡΓΟ
+Line 506: CONSULTANT SIGNATURE
+Line 507: ΥΠΟΓΡΑΦΗ ΣΥΜΒΟΥΛΟΥ
+Line 508: APPROVALS
+Line 509: ΘΕΩΡΗΣΕΙΣ
+Line 510: ΑΝΑΘΕΩΡΗΣΗ ΤΗΣ ΥΠ ΑΡΙΘΜ. 72 2017 ΑΔΕΙΑΣ ΔΟΜΗΣΗΣ ΜΕΤΑ ΤΗΣ 2017
+Line 511: ΑΝΑΘΕΩΡΗΣΗΣ ΑΥΤΗΣ ΛΟΓΩ ΚΑΤΑΣΚΕΥΗΣ ΑΝΟΙΧΤΟΥ ΓΗΠΕΔΟΥ ΠΟΛΛΑΠΛΩΝ
+Line 512: ΑΘΛΗΜΑΤΩΝ ΣΤΟ ΠΑΡΚΟ ΚΑΙ ΜΙΚΡΟΤΡΟΠΟΠΟΙΗΣΕΩΝ ΣΤΗ ΔΙΑΡΡΥΘΜΙΣΗ ΤΟΥ
+Line 513: ΚΥΛΙΚΕΙΟΥ ΤΟΥ ΠΑΡΚΟΥ.
+Line 514: JVIT
+Line 515: LHL
+Line 516: 02
+Line 517: 1000
+Line 518: Landscape Plan
+Line 519: SITE
+Line 520: 2018
+Line 521: 00
+Line 522: 0004
+Line 523: 002
+Line 524: PROPERTY LINE
+Line 525: LEGEND
+Line 526: ΟΡΙΟ ΙΔΙΟΚΤΗΣΙΑΣ
+Line 527: ΥΠΟΜΝΗΜΑ
+
+=== END OF FILTERED TEXT ===
+Total lines: 528

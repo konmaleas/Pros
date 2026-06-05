@@ -1,0 +1,244 @@
+=== FILTERED TEXT FOR: ATH1-PWR01-CAP-10720-PLN-4-108-AL-0-T20.pdf ===
+
+Line   0: ΔΙΕΛΕΥΣΗ CROSSING
+Line   1: Kifissias Avenue
+Line   2: GR 15125, MAROUSSI Greece
+Line   3: 4463 1552
+Line   4: Kifisias 2 Paradisou,
+Line   5: Marousi 15125, Greece
+Line   6: Telephone
+Line   7: Email
+Line   8: TRADE
+Line   9: EPC Contractor Εργολάβος
+Line  10: Issued Μελέτη
+Line  11: Design Phase Φάση Μελέτης
+Line  12: Kifisias 2 Paradisou,
+Line  13: Marousi 15125, Greece
+Line  14: Telephone
+Line  15: Email
+Line  16: DETAILED DESIGN
+Line  17: ΜΕΛΕΤΗ ΕΦΑΡΜΟΓΗΣ
+Line  18: 10720 HV Substation
+Line  19: HERMES
+Line  20: Substation Υποσταθμός Data Center IV
+Line  21: CAP TRADE HV Substation
+Line  22: ORGANDI
+Line  23: Esplanade Miriam Makeba
+Line  24: Gerda Taro
+Line  25: 69100 VILLEURBANNE France
+Line  26: 4 40 00 70
+Line  27: Internet
+Line  28: LOCATION AGIOS LOUKAS MUNICIPALITY PAIANIA,
+Line  29: REGIONAL UNIT EAST ATTICA
+Line  30: ΠΕΡΙΟΧΗ ΑΓΙΟΥ ΛΟΥΚΑ, ΔΗΜΟΣ ΠΑΙΑΝΙΑΣ, ΠΕ ΑΝΑΤΟΛΙΚΗΣ ΑΤΤΙΚΗΣ,
+Line  31: ΠΕΡΙΦΕΡΕΙΑ ΑΤΤΙΚΗΣ
+Line  32: Version
+Line  33: Date
+Line  34: Review
+Line  35: Designer
+Line  36: Auditor
+Line  37: Approver
+Line  38: SCALE
+Line  39: PROJECT
+Line  40: RIBA
+Line  41: TRADE
+Line  42: AUTHOR
+Line  43: LEVEL
+Line  44: CAP TRADE
+Line  45: TYPE
+Line  46: DOC.
+Line  47: VERSION
+Line  48: SITE
+Line  49: MODEL NAME
+Line  50: REFERENCE
+Line  51: FILE NAME
+Line  52: ATH1 CAP 20302 MOD 4 AL ARC BIM GIS
+Line  53: IPTO
+Line  54: Paper Size
+Line  55: ATH1 CAP 10720 PLN 4 AL ΚΤΙΡΙΟ ΥΠΟΣΤΑΘΜΟΥ ΑΔΜΗΕ ΠΙΝΑΚΑΣ
+Line  56: ΚΟΥΦΩΜΑΤΩΝ ΑΠΟ 2 CONTROL BUILDING INDEX OPENINGS 2
+Line  57: ΚΤΙΡΙΟ ΥΠΟΣΤΑΘΜΟΥ ΑΔΜΗΕ ΠΙΝΑΚΑΣ
+Line  58: ΚΟΥΦΩΜΑΤΩΝ ΑΠΟ 2 CONTROL BUILDING INDEX
+Line  59: OPENINGS 2
+Line  60: 4
+Line  61: 10720
+Line  62: CAP
+Line  63: AL
+Line  64: PLN
+Line  65: ATH1
+Line  66: 07 2025
+Line  67: Υποβολή
+Line  68: IC
+Line  69: NM
+Line  70: NM
+Line  71: SINGLE LEAF, FIRE RESISTANT INTERIOR DOOR METALIC FIRE RESISTING CASING PANIC BAR, COLOR RAL 7022 ΜΑΤΤΕ
+Line  72: ΜΟΝΟΦΥΛΛΗ ΠΥΡΑΝΤΟΧΗ ΕΣΩΤΕΡΙΚΗ ΘΥΡΑ ΜΕ ΜΕΤΑΛΛΙΚΗ ΚΑΣΑ ΠΥΡΑΝΤΟΧΗΣ ΜΠΑΡΑ ΠΑΝΙΚΟΥ RAL 7022 MAT
+Line  73: ΚΩΔΙΚΟΣ CODE
+Line  74: ΠΛΑΤΟΣ WIDTH
+Line  75: ΥΨΟΣ HEIGHT
+Line  76: ΠΟΔΙΑ SILL
+Line  77: HEIGHT
+Line  78: ΠΡΕΚΙ HEAD
+Line  79: HEIGHT
+Line  80: ΕΠΙΠΕΔΟ LEVEL
+Line  81: ΚΤΙΡΙΟ BUILDING
+Line  82: Basement 2
+Line  83: GIS GIS
+Line  84: GIS GIS
+Line  85: Basement
+Line  86: ΠΑΡΑΓΩΓΟΥ
+Line  87: PROD.
+Line  88: ΠΑΡΑΓΩΓΟΥ PROD.
+Line  89: Basement
+Line  90: ΠΑΡΑΓΩΓΟΥ
+Line  91: PROD.
+Line  92: ΠΑΡΑΓΩΓΟΥ PROD.
+Line  93: ΓΕΝΙΚΟ ΣΥΝΟΛO GRAND TOTAL
+Line  94: SINGLE LEAF, FIRE RESISTANT INTERIOR DOOR METALIC FIRE RESISTING CASING PANIC BAR, COLOR RAL 7022 ΜΑΤΤΕ
+Line  95: ΜΟΝΟΦΥΛΛΗ ΠΥΡΑΝΤΟΧΗ ΕΣΩΤΕΡΙΚΗ ΘΥΡΑ ΜΕ ΜΕΤΑΛΛΙΚΗ ΚΑΣΣΑ ΠΥΡΑΝΤΟΧΗΣ ΜΠΑΡΑ ΠΑΝΙΚΟΥ RAL 7022 MAT
+Line  96: ΚΩΔΙΚΟΣ CODE
+Line  97: ΠΛΑΤΟΣ WIDTH
+Line  98: ΥΨΟΣ HEIGHT
+Line  99: ΠΟΔΙΑ SILL
+Line 100: HEIGHT
+Line 101: ΠΡΕΚΙ HEAD
+Line 102: HEIGHT
+Line 103: ΕΠΙΠΕΔΟ LEVEL
+Line 104: ΚΤΙΡΙΟ BUILDING
+Line 105: Basement
+Line 106: GIS GIS
+Line 107: Ground Floor
+Line 108: GIS GIS
+Line 109: Ground Floor
+Line 110: GIS GIS
+Line 111: GIS GIS
+Line 112: Ground Floor
+Line 113: ΑΔΜΗΕ IPTO
+Line 114: Ground Floor
+Line 115: ΑΔΜΗΕ IPTO
+Line 116: ΑΔΜΗΕ IPTO 2
+Line 117: Ground Floor
+Line 118: ΠΑΡΑΓΩΓΟΥ
+Line 119: PROD.
+Line 120: Ground Floor
+Line 121: ΠΑΡΑΓΩΓΟΥ
+Line 122: PROD.
+Line 123: ΠΑΡΑΓΩΓΟΥ PROD. 2
+Line 124: Ground Floor
+Line 125: GIS GIS
+Line 126: GIS GIS
+Line 127: Ground Floor
+Line 128: ΠΑΡΑΓΩΓΟΥ
+Line 129: PROD.
+Line 130: Ground Floor
+Line 131: ΠΑΡΑΓΩΓΟΥ
+Line 132: PROD.
+Line 133: ΠΑΡΑΓΩΓΟΥ PROD. 2
+Line 134: ΓΕΝΙΚΟ ΣΥΝΟΛO GRAND TOTAL
+Line 135: SINGLE LEAF, FIRE RESISTANT INTERIOR DOOR METALIC FIRE RESISTING CASING PANIC BAR, COLOR RAL 7022 ΜΑΤΤΕ
+Line 136: ΜΟΝΟΦΥΛΛΗ ΠΥΡΑΝΤΟΧΗ ΕΣΩΤΕΡΙΚΗ ΘΥΡΑ ΜΕ ΜΕΤΑΛΛΙΚΗ ΚΑΣΣΑ ΠΥΡΑΝΤΟΧΗΣ ΜΠΑΡΑ ΠΑΝΙΚΟΥ RAL 7022 MAT
+Line 137: ΚΩΔΙΚΟΣ CODE
+Line 138: ΠΛΑΤΟΣ WIDTH
+Line 139: ΥΨΟΣ HEIGHT
+Line 140: ΠΟΔΙΑ SILL
+Line 141: HEIGHT
+Line 142: ΠΡΕΚΙ HEAD
+Line 143: HEIGHT
+Line 144: ΕΠΙΠΕΔΟ LEVEL
+Line 145: ΚΤΙΡΙΟ BUILDING
+Line 146: Basement
+Line 147: GIS GIS
+Line 148: GIS GIS
+Line 149: ΓΕΝΙΚΟ ΣΥΝΟΛO GRAND TOTAL
+Line 150: DOUBLE LEAF, MONOBLOCK IRON EXTERIOR DOOR, INDUSTRIAL TYPE PROPER DYE, AUTOMATIC DOOR CLOSER PANIC BAR, COLOR RAL 7022 ΜΑΤΤΕ
+Line 151: ΔΙΦΥΛΛΗ ΟΛΟΣΩΜΗ ΣΙΔΗΡΑ ΕΞΩΣΤΟΘΥΡΑ, ΒΙΟΜHX ΜΕNΟΥ ΤΥΠΟΥ ΚΑΤΑΛΛΗΛΗΣ ΒΑΦΗΣ ΜΕ ΑΥΤΟΜΑΤΟΥΣ ΑΝΤΩΘΗΤΗΡΕΣ ΜΠΑΡΑ ΠΑΝΙΚΟΥ RAL 7022 MAT
+Line 152: ΚΩΔΙΚΟΣ CODE
+Line 153: ΠΛΑΤΟΣ WIDTH
+Line 154: ΥΨΟΣ HEIGHT
+Line 155: ΠΟΔΙΑ SILL
+Line 156: HEIGHT
+Line 157: ΠΡΕΚΙ HEAD
+Line 158: HEIGHT
+Line 159: ΕΠΙΠΕΔΟ LEVEL
+Line 160: ΚΤΙΡΙΟ BUILDING
+Line 161: Ground Floor
+Line 162: ΠΑΡΑΓΩΓΟΥ
+Line 163: PROD.
+Line 164: Ground Floor
+Line 165: ΠΑΡΑΓΩΓΟΥ
+Line 166: PROD.
+Line 167: Ground Floor
+Line 168: ΠΑΡΑΓΩΓΟΥ
+Line 169: PROD.
+Line 170: Ground Floor
+Line 171: ΠΑΡΑΓΩΓΟΥ
+Line 172: PROD.
+Line 173: ΠΑΡΑΓΩΓΟΥ PROD. 4
+Line 174: ΓΕΝΙΚΟ ΣΥΝΟΛO GRAND TOTAL 4
+Line 175: DOUBLE LEAF, FIRE RESISTANT INTERIOR DOOR METALIC FIRE RESISTING CASING PANIC BAR, COLOR RAL 7022 ΜΑΤΤΕ
+Line 176: ΔΙΦΥΛΛΗ ΠΥΡΑΝΤΟΧΗ ΕΣΩΤΕΡΙΚΗ ΘΥΡΑ ΜΕ ΜΕΤΑΛΛΙΚΗ ΚΑΣΣΑ ΠΥΡΑΝΤΟΧΗΣ ΜΠΑΡΑ ΠΑΝΙΚΟΥ RAL 7022 MAT
+Line 177: ΚΩΔΙΚΟΣ CODE
+Line 178: ΠΛΑΤΟΣ WIDTH
+Line 179: ΥΨΟΣ HEIGHT
+Line 180: ΠΟΔΙΑ SILL
+Line 181: HEIGHT
+Line 182: ΠΡΕΚΙ HEAD
+Line 183: HEIGHT
+Line 184: ΕΠΙΠΕΔΟ LEVEL
+Line 185: ΚΤΙΡΙΟ BUILDING
+Line 186: 2
+Line 187: Ground Floor
+Line 188: ΠΑΡΑΓΩΓΟΥ
+Line 189: PROD.
+Line 190: 2
+Line 191: Ground Floor
+Line 192: ΠΑΡΑΓΩΓΟΥ
+Line 193: PROD.
+Line 194: 2
+Line 195: Ground Floor
+Line 196: ΠΑΡΑΓΩΓΟΥ
+Line 197: PROD.
+Line 198: ΠΑΡΑΓΩΓΟΥ PROD.
+Line 199: ΓΕΝΙΚΟ ΣΥΝΟΛO GRAND TOTAL
+Line 200: DOUBLE LEAF, METALLIC EXTERIOR DOOR PROPER DYE, AUTOMATIC DOOR CLOSER PANIC BAR, COLOR RAL 7022 ΜΑΤΤΕ
+Line 201: ΔΙΦΥΛΛΗ ΟΛΟΣΩΜΗ ΣΙΔΗΡΑ ΕΞΩΣΤΟΘΥΡΑ, ΚΑΤΑΛΛΗΛΗΣ ΒΑΦΗΣ ΜΕ ΑΥΤΟΜΑΤΟΥΣ ΑΝΤΩΘΗΤΗΡΕΣ ΜΠΑΡΑ ΠΑΝΙΚΟΥ RAL 7022 MAT
+Line 202: ΚΩΔΙΚΟΣ CODE
+Line 203: ΠΛΑΤΟΣ WIDTH
+Line 204: ΥΨΟΣ HEIGHT
+Line 205: ΠΟΔΙΑ SILL
+Line 206: HEIGHT
+Line 207: ΠΡΕΚΙ HEAD
+Line 208: HEIGHT
+Line 209: ΕΠΙΠΕΔΟ LEVEL
+Line 210: ΚΤΙΡΙΟ BUILDING
+Line 211: 2
+Line 212: Ground Floor
+Line 213: 2
+Line 214: Ground Floor
+Line 215: ΑΔΜΗΕ IPTO
+Line 216: ΑΔΜΗΕ IPTO
+Line 217: 2
+Line 218: Ground Floor
+Line 219: ΠΑΡΑΓΩΓΟΥ
+Line 220: PROD.
+Line 221: 2
+Line 222: Ground Floor
+Line 223: ΠΑΡΑΓΩΓΟΥ
+Line 224: PROD.
+Line 225: 2
+Line 226: Ground Floor
+Line 227: ΠΑΡΑΓΩΓΟΥ
+Line 228: PROD.
+Line 229: 2
+Line 230: Ground Floor
+Line 231: ΠΑΡΑΓΩΓΟΥ
+Line 232: PROD.
+Line 233: 2
+Line 234: Ground Floor
+Line 235: ΠΑΡΑΓΩΓΟΥ
+Line 236: PROD.
+Line 237: ΠΑΡΑΓΩΓΟΥ PROD.
+Line 238: ΓΕΝΙΚΟ ΣΥΝΟΛO GRAND TOTAL
+
+=== END OF FILTERED TEXT ===
+Total lines: 239

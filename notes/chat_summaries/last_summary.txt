@@ -1,0 +1,102 @@
+# Continuation Summary - Batch Processor Debugging
+
+## Current Objective
+Debug batch_processor.py to match behavior of main_title_search (v16_workable and v19) by testing on the same project.
+
+## Test Setup
+**Project:** 2502 DATA4-DC02+DC03  
+**Location:** `/media/konstantinos/DATA/PyTests/Submission/Process/2502 DATA4-DC02+DC03/PDF`  
+**Files:** 11 PDFs  
+**Test File (v19):** `ATH1-DC03-CAP-20302-PLN-2-011-AL-00-T00_4-SECTIONS_DC3.pdf`
+
+## Critical Bug Found - KeyError 'processed_lines'
+
+### The Problem
+**Location:** `pattern_analyzer.py` line 205, in `_find_stable_anchor_lines()`
+
+```python
+# Line 136-137 in analyze_all_files() - STORES:
+all_file_data[str(file_path)] = {
+    'filtered_lines': filtered_lines,        # ← Key name is 'filtered_lines'
+    'chunk_positions': filtered_frequency_data['chunk_line_positions']
+}
+
+# Line 205 & 216 in _find_stable_anchor_lines() - ACCESSES:
+for line in first_file['processed_lines']:  # ← Expects 'processed_lines'
+```
+
+**Root Cause:** Dictionary key mismatch - storing `'filtered_lines'` but accessing `'processed_lines'`
+
+### The Fix Needed
+Add `processed_lines` to the dictionary in `analyze_all_files()`:
+
+```python
+all_file_data[str(file_path)] = {
+    'processed_lines': processed_lines,    # ← ADD THIS LINE
+    'filtered_lines': filtered_lines,
+    'chunk_positions': filtered_frequency_data['chunk_line_positions']
+}
+```
+
+This is line 136-137 in `/mnt/project/pattern_analyzer.py`
+
+## What We've Done So Far
+
+### ✅ Completed
+1. **Simplified template extraction** - Files are pre-renamed, just use filename stem
+2. **Hardcoded test template** - Now uses exact same file as v19:
+   - Title: `ATH1-DC03-CAP-20302-PLN-2-011-AL-00-T00_4-SECTIONS_DC3`
+   - File: `ATH1-DC03-CAP-20302-PLN-2-011-AL-00-T00_4-SECTIONS_DC3.pdf`
+3. **Updated batch_processor.py** - Template title & file now in JSON/TXT reports
+
+### ❌ Not Yet Fixed
+1. **KeyError 'processed_lines'** - Blocking all processing
+2. **Test mode setup** - Need to verify forced template is working
+
+## Comparative Analysis Results
+
+### v16_workable
+- **File:** ATH1-DC03-...SECTIONS_DC3.pdf
+- **Chunks:** 11 (combined T00_4, SECTIONS_DC3)
+- **Progress:** Pattern learning ✓, Anchor search ✓, 0 anchors found
+- **Failure:** KeyError 'total_files' in print_validation_report()
+
+### v19
+- **File:** ATH1-DC03-...SECTIONS_DC3.pdf (same as v16)
+- **Chunks:** 13 (better splitting: T00, 4, SECTIONS, DC3)
+- **Progress:** Pattern learning ✓, Anchor search ✓, 0 anchors found
+- **Failure:** KeyError 'total_files' in print_validation_report() (same line as v16)
+
+### batch_processor (current)
+- **File:** ATH1-DC02-...GENERAL_MASTERPLAN.pdf (WRONG - hardcoded fix not tested yet)
+- **Progress:** NONE - fails immediately
+- **Failure:** KeyError 'processed_lines' in _find_stable_anchor_lines()
+
+## Key Insights
+
+1. **v16 vs v19:** Only difference is title splitting (v19 better), same failure point
+2. **main_title_search works further** than batch_processor despite using same pattern_analyzer.py
+3. **The bug exists in pattern_analyzer.py** - not in batch_processor.py itself
+4. **main_title_search must handle this differently** - need to check how it calls analyze_all_files()
+
+## Next Steps (In Order)
+
+1. **Fix the KeyError** - Add 'processed_lines' to all_file_data dict in pattern_analyzer.py
+2. **Test batch_processor** - Verify it now matches v19 behavior
+3. **Address validation reporting** - Fix the 'total_files' KeyError that v16/v19 hit
+4. **Understand why 0 anchors found** - This project genuinely has issues with anchor detection
+
+## Critical Lessons Learned
+
+1. **One issue at a time** - Don't try to fix multiple things simultaneously
+2. **Check project files first** - They're available and current (I was wrong about version mismatch)
+3. **Simple solutions work** - Hardcoding test values is faster than complex logic
+4. **Follow the process** - Discuss → Analyze → Confirm → Code (in that order)
+5. **Quality over quantity** - Having tokens doesn't mean using them ineffectively
+
+## Files Modified
+- `/mnt/project/batch_processor.py` - Template extraction simplified and hardcoded for test
+- Output: `/mnt/user-data/outputs/batch_processor.py`
+
+## Files Needing Changes
+- `/mnt/project/pattern_analyzer.py` - Line 136-137, add 'processed_lines' key

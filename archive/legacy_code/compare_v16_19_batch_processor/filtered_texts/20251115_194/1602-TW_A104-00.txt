@@ -1,0 +1,44 @@
+=== FILTERED TEXT FOR: 1602-TW_A104-00.pdf ===
+
+Line   0: 2
+Line   1: 4
+Line   2: 00
+Line   3: 2
+Line   4: 00
+Line   5: LIFT
+Line   6: STAIRCASE
+Line   7: REVISIONS
+Line   8: DESCRIPTION
+Line   9: DATE
+Line  10: CLIENT
+Line  11: PROJECT
+Line  12: DESIGN STAGE
+Line  13: DATE
+Line  14: SCALE
+Line  15: FILE NAME
+Line  16: DRAWING TITLE
+Line  17: DRAWING
+Line  18: TAHLIA WALK
+Line  19: VAPARCHITECTS
+Line  20: Epirou Street
+Line  21: Athens, GR Greece
+Line  22: 3262
+Line  23: 3269
+Line  24: DESIGN ARCHITECTS
+Line  25: STRUCTURAL ENGINEER
+Line  26: CONSULTANTS
+Line  27: MEP ENGINEER
+Line  28: STUDIO
+Line  29: Isavron
+Line  30: Lycabettus
+Line  31: Athens, GR 11471 Greece
+Line  32: ZAD DEVELOPMENT
+Line  33: 06 05 2016
+Line  34: 00
+Line  35: Level 2 Roof
+Line  36: Project Status
+Line  37: Level 2 Roof
+Line  38: 1602 TW 00
+
+=== END OF FILTERED TEXT ===
+Total lines: 39

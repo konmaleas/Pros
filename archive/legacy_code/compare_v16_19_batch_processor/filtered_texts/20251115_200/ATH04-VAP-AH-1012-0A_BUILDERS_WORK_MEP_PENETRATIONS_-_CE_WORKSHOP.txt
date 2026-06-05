@@ -1,0 +1,115 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-1012-0A_BUILDERS_WORK_MEP_PENETRATIONS_-_CE_WORKSHOP.pdf ===
+
+Line   0: 1012
+Line   1: 1012
+Line   2: 2
+Line   3: 1012
+Line   4: WALL REFER VAP AH 1026
+Line   5: CE
+Line   6: WORKSHOP
+Line   7: 00 043
+Line   8: GL
+Line   9: CEILING LEVEL
+Line  10: MP AD 043 01
+Line  11: MP AD 043 02
+Line  12: MP AD 043 03
+Line  13: MP AD 043 04
+Line  14: 3865
+Line  15: 4910
+Line  16: 4365
+Line  17: 425
+Line  18: 3195
+Line  19: CE
+Line  20: WORKSHOP
+Line  21: 00 043
+Line  22: CEILING LEVEL
+Line  23: CE
+Line  24: WORKSHOP
+Line  25: 00 043
+Line  26: GL
+Line  27: CEILING LEVEL
+Line  28: CE
+Line  29: WORKSHOP
+Line  30: 00 043
+Line  31: MP AD 053 03
+Line  32: MP AD 053 02
+Line  33: 1700
+Line  34: 4100
+Line  35: 3565
+Line  36: 5700
+Line  37: MP AD 048
+Line  38: MEP PENETRATIONS CODE
+Line  39: MP AD XXX XX
+Line  40: MP
+Line  41: MEP PENETRATIONS
+Line  42: AD
+Line  43: BUILDING CODE
+Line  44: XXX
+Line  45: ROOM NUMBER
+Line  46: XX
+Line  47: PENETRATION NUMBER
+Line  48: ADMIN
+Line  49: COLO
+Line  50: COLO 2
+Line  51: 2
+Line  52: 4
+Line  53: 2
+Line  54: 4
+Line  55: TRUE NORTH
+Line  56: Sheet Title Number
+Line  57: Scale
+Line  58: Plan
+Line  59: Design Consultants
+Line  60: Microsoft
+Line  61: DATA CENTER
+Line  62: SPATA GREECE
+Line  63: Contractor Joint Venture
+Line  64: Name
+Line  65: Contractor Project
+Line  66: Contractor Contract
+Line  67: Contractor PM
+Line  68: Contractor BIM Mngr
+Line  69: Contractor Information
+Line  70: Renco Terna
+Line  71: Client
+Line  72: General Notes
+Line  73: Client Project
+Line  74: Client Contract
+Line  75: Client PM
+Line  76: Client BIM Mngr
+Line  77: Primary Client Information
+Line  78: Layout
+Line  79: Revision
+Line  80: Tombazi Chalandri
+Line  81: 15232
+Line  82: Athens Greece
+Line  83: 0800 3262
+Line  84: Agion Theodoron Square Athens
+Line  85: 10561
+Line  86: Athens Greece
+Line  87: Kimithois Agios Dimitrios
+Line  88: 17236
+Line  89: Athens Greece
+Line  90: Purpose Issue
+Line  91: Issue
+Line  92: Name
+Line  93: BUILDERS WORK MEP PENETRATIONS
+Line  94: CE WORKSHOP
+Line  95: VAP AH 1012
+Line  96: 1000
+Line  97: SCALE
+Line  98: SCALE
+Line  99: 043 WORKSHOP ELEVATION EAST MEP PENETRATIONS
+Line 100: SCALE
+Line 101: 043 WORKSHOP ELEVATION SOUTH MEP PENETRATIONS
+Line 102: 2
+Line 103: SCALE
+Line 104: 043 WORKSHOP ELEVATION WEST MEP PENETRATIONS
+Line 105: Date
+Line 106: Description
+Line 107: 07
+Line 108: Issued Approval
+Line 109: VAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 110

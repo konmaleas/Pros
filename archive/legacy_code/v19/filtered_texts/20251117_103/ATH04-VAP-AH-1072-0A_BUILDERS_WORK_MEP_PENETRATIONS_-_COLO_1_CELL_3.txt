@@ -1,0 +1,561 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-1072-0A_BUILDERS_WORK_MEP_PENETRATIONS_-_COLO_1_CELL_3.pdf ===
+
+Line   0: ND
+Line   1: ND
+Line   2: ND
+Line   3: ND
+Line   4: ND
+Line   5: ND
+Line   6: ND
+Line   7: ND
+Line   8: BM
+Line   9: BM
+Line  10: BM
+Line  11: ND
+Line  12: EN TIL IO CO
+Line  13: ND
+Line  14: ND
+Line  15: ND
+Line  16: ND
+Line  17: ND
+Line  18: ND
+Line  19: ND
+Line  20: EN TIL IO CO
+Line  21: BM
+Line  22: BM
+Line  23: BM
+Line  24: ND
+Line  25: EN TIL IO CO
+Line  26: ND
+Line  27: ND
+Line  28: ND
+Line  29: ND
+Line  30: ND
+Line  31: ND
+Line  32: ND
+Line  33: EN TIL IO CO
+Line  34: BM
+Line  35: BM
+Line  36: BM
+Line  37: ND
+Line  38: EN TIL IO CO
+Line  39: ND
+Line  40: ND
+Line  41: ND
+Line  42: ND
+Line  43: ND
+Line  44: ND
+Line  45: ND
+Line  46: EN TIL IO CO
+Line  47: BM
+Line  48: BM
+Line  49: BM
+Line  50: A
+Line  51: A
+Line  52: BM
+Line  53: AN
+Line  54: NT IL
+Line  55: AN
+Line  56: AN
+Line  57: A
+Line  58: A
+Line  59: A
+Line  60: A
+Line  61: AN
+Line  62: NT
+Line  63: IO
+Line  64: AN
+Line  65: A
+Line  66: A
+Line  67: NT
+Line  68: IO
+Line  69: NT
+Line  70: IO
+Line  71: A
+Line  72: A
+Line  73: BM
+Line  74: AN
+Line  75: A
+Line  76: A
+Line  77: A
+Line  78: A
+Line  79: A
+Line  80: A
+Line  81: AN
+Line  82: AN
+Line  83: AN
+Line  84: AN
+Line  85: A
+Line  86: A
+Line  87: NT
+Line  88: IO
+Line  89: AN
+Line  90: A
+Line  91: A NG
+Line  92: AN
+Line  93: AN
+Line  94: NT IL
+Line  95: NT IL
+Line  96: AN
+Line  97: AN
+Line  98: A
+Line  99: A
+Line 100: BM
+Line 101: AN
+Line 102: NT IL
+Line 103: AN
+Line 104: AN
+Line 105: A
+Line 106: A
+Line 107: A
+Line 108: A
+Line 109: AN
+Line 110: NT
+Line 111: IO
+Line 112: AN
+Line 113: A
+Line 114: A
+Line 115: NT
+Line 116: IO
+Line 117: NT
+Line 118: IO
+Line 119: A
+Line 120: A
+Line 121: BM
+Line 122: AN
+Line 123: A
+Line 124: A
+Line 125: A
+Line 126: A
+Line 127: A
+Line 128: A
+Line 129: AN
+Line 130: AN
+Line 131: AN
+Line 132: AN
+Line 133: A
+Line 134: A
+Line 135: NT
+Line 136: IO
+Line 137: AN
+Line 138: A
+Line 139: A NG
+Line 140: AN
+Line 141: AN
+Line 142: NT IL
+Line 143: NT IL
+Line 144: AN
+Line 145: AN
+Line 146: AN
+Line 147: AN
+Line 148: A
+Line 149: A NG
+Line 150: AN
+Line 151: NT
+Line 152: IO
+Line 153: NT
+Line 154: IO
+Line 155: A
+Line 156: A
+Line 157: A
+Line 158: A
+Line 159: NT
+Line 160: IO
+Line 161: AN
+Line 162: A
+Line 163: A
+Line 164: A
+Line 165: A
+Line 166: AN
+Line 167: NT
+Line 168: IO
+Line 169: BM
+Line 170: AN
+Line 171: AN
+Line 172: AN
+Line 173: AN
+Line 174: AN
+Line 175: AN
+Line 176: AN
+Line 177: AN
+Line 178: NT
+Line 179: IO
+Line 180: CO
+Line 181: NT
+Line 182: IO
+Line 183: CO
+Line 184: A
+Line 185: A
+Line 186: AN
+Line 187: NT
+Line 188: IO
+Line 189: A
+Line 190: A
+Line 191: BM
+Line 192: AN
+Line 193: A
+Line 194: A
+Line 195: A
+Line 196: A
+Line 197: A
+Line 198: A
+Line 199: NT
+Line 200: IO
+Line 201: AN
+Line 202: AN
+Line 203: A
+Line 204: A NG
+Line 205: AN
+Line 206: NT
+Line 207: IO
+Line 208: NT
+Line 209: IO
+Line 210: A
+Line 211: A
+Line 212: A
+Line 213: A
+Line 214: NT
+Line 215: IO
+Line 216: AN
+Line 217: A
+Line 218: A
+Line 219: A
+Line 220: A
+Line 221: AN
+Line 222: NT
+Line 223: IO
+Line 224: BM
+Line 225: AN
+Line 226: AN
+Line 227: AN
+Line 228: AN
+Line 229: AN
+Line 230: AN
+Line 231: AN
+Line 232: AN
+Line 233: NT
+Line 234: IO
+Line 235: CO
+Line 236: NT
+Line 237: IO
+Line 238: CO
+Line 239: A
+Line 240: A
+Line 241: AN
+Line 242: NT
+Line 243: IO
+Line 244: A
+Line 245: A
+Line 246: BM
+Line 247: AN
+Line 248: A
+Line 249: A
+Line 250: A
+Line 251: A
+Line 252: A
+Line 253: A
+Line 254: NT
+Line 255: IO
+Line 256: ENTIL ATIO CO
+Line 257: LANG
+Line 258: BM
+Line 259: LANG
+Line 260: ENTIL ATIO CO
+Line 261: LANG
+Line 262: BM
+Line 263: LANG
+Line 264: ENTIL ATIO CO
+Line 265: LANG
+Line 266: BM
+Line 267: LANG
+Line 268: ENTIL ATIO CO
+Line 269: LANG
+Line 270: BM
+Line 271: LANG
+Line 272: BM
+Line 273: BM
+Line 274: BM
+Line 275: BM
+Line 276: BM
+Line 277: BM
+Line 278: BM
+Line 279: BM
+Line 280: BM
+Line 281: BM
+Line 282: BM
+Line 283: BM
+Line 284: BM
+Line 285: BM
+Line 286: BM
+Line 287: BM
+Line 288: BM
+Line 289: BM
+Line 290: BM
+Line 291: BM
+Line 292: BM
+Line 293: BM
+Line 294: BM
+Line 295: BM
+Line 296: INK
+Line 297: BM
+Line 298: BA
+Line 299: NK
+Line 300: ND
+Line 301: ND
+Line 302: ND
+Line 303: ND
+Line 304: BM
+Line 305: BM
+Line 306: BM
+Line 307: BM
+Line 308: INK
+Line 309: BM
+Line 310: BA
+Line 311: NK
+Line 312: ND
+Line 313: ND
+Line 314: ND
+Line 315: ND
+Line 316: ND
+Line 317: BM
+Line 318: BM
+Line 319: BM
+Line 320: BM
+Line 321: INK
+Line 322: BM
+Line 323: BA
+Line 324: NK
+Line 325: ND
+Line 326: ND
+Line 327: ND
+Line 328: ND
+Line 329: BM
+Line 330: ND
+Line 331: BM
+Line 332: BM
+Line 333: BM
+Line 334: INK
+Line 335: BM
+Line 336: BA
+Line 337: NK
+Line 338: ND
+Line 339: ND
+Line 340: ND
+Line 341: ND
+Line 342: BM
+Line 343: ND
+Line 344: ND
+Line 345: BM
+Line 346: BM
+Line 347: BM
+Line 348: BM
+Line 349: BM
+Line 350: BM
+Line 351: BM
+Line 352: WP
+Line 353: WP
+Line 354: WP
+Line 355: WP
+Line 356: WP
+Line 357: WP
+Line 358: WP
+Line 359: WP
+Line 360: WP
+Line 361: WP
+Line 362: WP
+Line 363: WP
+Line 364: WP
+Line 365: WP
+Line 366: WP
+Line 367: GLAND
+Line 368: PLATE
+Line 369: BMS GLA ND
+Line 370: PLA
+Line 371: VENT ILA TIO OW
+Line 372: GLAND
+Line 373: PLATE
+Line 374: GLAND
+Line 375: PLATE
+Line 376: GLAND
+Line 377: PLATE
+Line 378: GLAND
+Line 379: PLATE
+Line 380: GLAND
+Line 381: PLATE
+Line 382: GLAND
+Line 383: PLATE
+Line 384: GLAND
+Line 385: PLATE
+Line 386: VENT ILA TIO OW
+Line 387: AN
+Line 388: A
+Line 389: AN
+Line 390: AN
+Line 391: AN
+Line 392: A
+Line 393: AN
+Line 394: AN
+Line 395: AN
+Line 396: A
+Line 397: AN
+Line 398: AN
+Line 399: A
+Line 400: A
+Line 401: A
+Line 402: A
+Line 403: A
+Line 404: A
+Line 405: GLAND
+Line 406: PLATE
+Line 407: GLAND
+Line 408: PLATE
+Line 409: GLAND
+Line 410: PLATE
+Line 411: GLAND
+Line 412: PLATE
+Line 413: A
+Line 414: SLAB
+Line 415: DATA HALL RIDGE LEVEL
+Line 416: ADMIN ROOF EAVES LEVEL
+Line 417: DATA HALL CEILING
+Line 418: RACK
+Line 419: COLO CELL
+Line 420: ATH04 00
+Line 421: MP DC 00
+Line 422: MP DC 00
+Line 423: MP DC 00
+Line 424: 1790
+Line 425: 1330
+Line 426: 3050
+Line 427: 3275
+Line 428: 3570
+Line 429: 450
+Line 430: MP DC 00
+Line 431: SLAB
+Line 432: DATA HALL RIDGE LEVEL
+Line 433: ADMIN ROOF EAVES LEVEL
+Line 434: DATA HALL CEILING
+Line 435: RACK
+Line 436: 1073
+Line 437: MP DC 00 09
+Line 438: 1460
+Line 439: 3050
+Line 440: COLO CELL
+Line 441: ATH04 00
+Line 442: MP DC 00
+Line 443: MP DC 00 07
+Line 444: MP DC 00 06
+Line 445: MP DC 00 08
+Line 446: SLAB
+Line 447: DATA HALL RIDGE LEVEL
+Line 448: YC
+Line 449: YB
+Line 450: ADMIN ROOF EAVES LEVEL
+Line 451: DATA HALL CEILING
+Line 452: RACK
+Line 453: MP DC 00 04
+Line 454: MP DC 00 03
+Line 455: COLO CELL
+Line 456: ATH04 00
+Line 457: MP DC 00 04
+Line 458: MP DC 00 05
+Line 459: 4000
+Line 460: 3245
+Line 461: 11710
+Line 462: 3050
+Line 463: 450
+Line 464: DATA HALL RIDGE LEVEL
+Line 465: ADMIN ROOF EAVES LEVEL
+Line 466: DATA HALL CEILING
+Line 467: SLAB.
+Line 468: RACK
+Line 469: MP DC 00 01
+Line 470: 3870
+Line 471: MP DC 00 02
+Line 472: 6265
+Line 473: COLO CELL
+Line 474: ATH04 00
+Line 475: YD
+Line 476: YC
+Line 477: YB
+Line 478: 1072
+Line 479: 1072
+Line 480: 1072
+Line 481: 1072
+Line 482: COLO CELL
+Line 483: ATH04 00
+Line 484: MEP PENETRATIONS CODE
+Line 485: MP DC XX XXX XX
+Line 486: MP
+Line 487: MEP PENETRATIONS
+Line 488: DC
+Line 489: BUILDING CODE
+Line 490: XXX
+Line 491: ROOM NUMBER
+Line 492: XX
+Line 493: PENETRATION NUMBER
+Line 494: XX
+Line 495: LEVEL
+Line 496: ADMIN
+Line 497: COLO
+Line 498: COLO
+Line 499: TRUE NORTH
+Line 500: Sheet Title Number
+Line 501: Scale
+Line 502: Plan
+Line 503: Design Consultants
+Line 504: Microsoft
+Line 505: DATA CENTER ATH04
+Line 506: SPATA GREECE
+Line 507: Contractor Joint Venture
+Line 508: Name
+Line 509: Contractor Project
+Line 510: Contractor Contract
+Line 511: Contractor PM
+Line 512: Contractor BIM Mngr
+Line 513: Contractor Information
+Line 514: Renco Terna
+Line 515: Client
+Line 516: General Notes
+Line 517: Client Project
+Line 518: Client Contract
+Line 519: Client PM
+Line 520: Client BIM Mngr
+Line 521: Primary Client Information
+Line 522: Layout
+Line 523: Revision
+Line 524: Tombazi Chalandri
+Line 525: 15232
+Line 526: Athens Greece
+Line 527: 0800 3262
+Line 528: Agion Theodoron Square Athens
+Line 529: 10561
+Line 530: Athens Greece
+Line 531: Kimithois Agios Dimitrios
+Line 532: 17236
+Line 533: Athens Greece
+Line 534: Purpose Issue
+Line 535: Issue
+Line 536: Name
+Line 537: BUILDERS WORK MEP
+Line 538: PENETRATIONS COLO CELL
+Line 539: ATH04 VAP AH 1072
+Line 540: SCALE
+Line 541: COLO CELL ELEVATION WEST MEP PENETRATIONS
+Line 542: SCALE
+Line 543: COLO CELL ELEVATION NORTH MEP PENETRATIONS
+Line 544: SCALE
+Line 545: COLO CELL ELEVATION EAST MEP PENETRATIONS
+Line 546: SCALE
+Line 547: COLO CELL ELEVATION SOUTH MEP PENETRATIONS
+Line 548: 2500
+Line 549: 5000
+Line 550: SCALE
+Line 551: Date
+Line 552: Description
+Line 553: 07
+Line 554: Issued Approval
+Line 555: VAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 556

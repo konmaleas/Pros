@@ -1,0 +1,140 @@
+=== FILTERED TEXT FOR: Α3-101-01.pdf ===
+
+Line   0: ΑΥΛΗ
+Line   1: 03
+Line   2: ΠΡΟΘΑΛΑΜΟΣ
+Line   3: ΧΩΡΟΙ ΥΓΙΕΙΝΗΣ
+Line   4: ΑΥΛΗ 03
+Line   5: A1
+Line   6: Door
+Line   7: 03
+Line   8: WC
+Line   9: NTOYZ
+Line  10: 480
+Line  11: 1200
+Line  12: EQ
+Line  13: EQ
+Line  14: EQ
+Line  15: EQ
+Line  16: ΕΚΚΡΕΜΕΙ ΠΛΗΡΟΦΟΡΙΑ
+Line  17: ΑΠΟ ΠΡΟΜΗΘΕΥΤΗ
+Line  18: ΕΚΚΡΕΜΕΙ ΠΛΗΡΟΦΟΡΙΑ
+Line  19: ΑΠΟ ΠΡΟΜΗΘΕΥΤΗ
+Line  20: 1800
+Line  21: 3690
+Line  22: 1500
+Line  23: 2000
+Line  24: 3550
+Line  25: 3180
+Line  26: 2150
+Line  27: 1350
+Line  28: 1100
+Line  29: 1350
+Line  30: 1280
+Line  31: 3800
+Line  32: 1970
+Line  33: 1280
+Line  34: 700
+Line  35: 2000
+Line  36: 75
+Line  37: 75
+Line  38: 490
+Line  39: 1680
+Line  40: 1120
+Line  41: 2000
+Line  42: 2120
+Line  43: 430
+Line  44: 02 2016
+Line  45: 01
+Line  46: ΑΥΛΗ
+Line  47: 03
+Line  48: ΠΡΟΘΑΛΑΜΟΣ
+Line  49: ΧΩΡΟΙ ΥΓΙΕΙΝΗΣ
+Line  50: 03
+Line  51: ΑΥΛΗ 03
+Line  52: 400
+Line  53: 400
+Line  54: 400
+Line  55: 400
+Line  56: 400
+Line  57: 400
+Line  58: 400
+Line  59: 400
+Line  60: 400
+Line  61: EQ
+Line  62: EQ
+Line  63: EQ
+Line  64: EQ
+Line  65: EQ
+Line  66: EQ
+Line  67: EQ
+Line  68: EQ
+Line  69: EQ
+Line  70: EQ
+Line  71: EQEQ
+Line  72: 400
+Line  73: 400
+Line  74: 443
+Line  75: 1954
+Line  76: NTOYZ
+Line  77: WC
+Line  78: EQEQ
+Line  79: ΚΛΙΜΑΚΑ
+Line  80: ΚΑΤΗΓΟΡΙΑ
+Line  81: ΚΥΡΙΟΣ ΕΡΓΟΥ
+Line  82: ΕΡΓΟ
+Line  83: ΑΡΙΘΜΟΣ ΣΧΕΔΙΟΥ
+Line  84: ΗΜΕΡΟΜΗΝΙΑ ΜΕΛΕΤΗΣ
+Line  85: VAP ARCHITECTS
+Line  86: Ηπείρου Αθήνα Ελλάδα
+Line  87: 3262 3269
+Line  88: ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΜΕΛΕΤΗ
+Line  89: ΣΤΑΔΙΟ ΜΕΛΕΤΗΣ
+Line  90: Όλες
+Line  91: ΣΥΝΕΡΓΑΤΕΣ ΜΕΛΕΤΗΣ ΕΦΑΡΜΟΓΗΣ
+Line  92: ΚΛΕΙΔΑ
+Line  93: ΣΧΕΔΙΟ
+Line  94: HΜ ΝΙΑ ΣΧΕΔΙΟΥ
+Line  95: ΑΚΟΥΣΤΙΚΗ ΜΕΛΕΤΗ
+Line  96: ΜΕΛΕΤΗ ΦΩΤΙΣΜΟΥ
+Line  97: ΣΤΑΤΙΚΗ ΜΕΛΕΤΗ
+Line  98: ΜΗΧΑΝΟΛΟΓΙΚΗ ΜΕΛΕΤΗ
+Line  99: Ροστάν 44, 41, Αθήνα
+Line 100: 771, 2023
+Line 101: Σύμβουλοι Μηχανικοί
+Line 102: ΠΑΡΑΤΗΡΗΣΕΙΣ
+Line 103: ΕΡΕΙΣΜΑ
+Line 104: ΤΕΧΝΙΚΗ ΕΤΑΙΡΕΙΑ
+Line 105: Νάξου Κηφισιά
+Line 106: Παρασκευής Χαλάνδρι
+Line 107: 42 094,
+Line 108: IFI
+Line 109: Gottfried Schubert
+Line 110: Acoustical Consultant
+Line 111: INTRA ΞΕΝΟΔΟΧΕΙΑΚΗ
+Line 112: 2016 44
+Line 113: ΠΙΛΟΤΙΚΟ ΔΩΜΑΤΙΟ
+Line 114: ΑΝΑΚΑΤΑΣΚΕΥΗ ΞΕΝΟΔΟΧΕΙΟΥ
+Line 115: ΣΤΗΝ ΜΥΚΟΝΟ
+Line 116: ΟΚΤΩΒΡΙΟΣ 2016
+Line 117: ΜΕΛΕΤΗ ΕΦΑΡΜΟΓΗΣ
+Line 118: Πλατύς Γιαλός Μύκονος
+Line 119: ΚΑΤΟΨΗ ΑΝΟΨΗ
+Line 120: 2016
+Line 121: 01
+Line 122: ΚΑΤΟΨΗ
+Line 123: ΑΝΟΨΗ
+Line 124: ΑΝΑΘΕΩΡΗΣΕΙΣ
+Line 125: ΠΕΡΙΓΡΑΦΗ
+Line 126: ΗΜ ΝΙΑ
+Line 127: 00
+Line 128: ΠΡΩΤΗ ΕΚΔΟΣΗ
+Line 129: 2016
+Line 130: 01
+Line 131: ΤΡΟΠΟΠΟΙΗΣΕΙΣ
+Line 132: 02 2016
+Line 133: 02 2016
+Line 134: 01
+
+=== END OF FILTERED TEXT ===
+Total lines: 135

@@ -1,0 +1,130 @@
+=== FILTERED TEXT FOR: 1902_CST_A2-401-01.pdf ===
+
+Line   0: ΕΠΙΠΕΔΟ 02
+Line   1: ΔΩΜΑ
+Line   2: ΠΡΟΒΟΛΗ ΕΔΑΦΟΥΣ ΕΚΣΚΑΦΩΝ
+Line   3: ΠΡΙΖΑ
+Line   4: ΕΠΙΠΕΔΟ 02
+Line   5: ΔΩΜΑ
+Line   6: ΠΡΟΒΟΛΗ ΓΡΑΜΜΗΣ
+Line   7: ΕΔΑΦΟΥΣ ΕΚΣΚΑΦΗΣ
+Line   8: ΕΚΚΡΕΜΕΙ ΜΕΛΕΤΗ
+Line   9: ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΧΩΡΟΥ
+Line  10: ΠΡΙΖΑ
+Line  11: ΕΚΚΡΕΜΕΙ ΜΕΛΕΤΗ
+Line  12: ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΧΩΡΟΥ
+Line  13: ΚΩΔΙΚΟΣ ΧΩΡΟΥ ROOM NUMBER
+Line  14: ΕΠΙΦΑΝΕΙΑ ΧΩΡΟΥ ROOM AREA
+Line  15: ΟΠΤΟΠΛΙΝΘΟΔΟΜΗ BRICKWORK
+Line  16: ΦΕΡΩΝ ΟΡΓΑΝΙΣΜΟΣ BEARING STRUCTURE
+Line  17: ΣΤΑΘΜΗ ΤΕΛΙΚΟΥ ΔΑΠΕΔΟΥ FINISH FLOOR
+Line  18: ELEVATION
+Line  19: ΤΥΠΟΣ ΔΑΠΕΔΟΥ FLOOR TYPE
+Line  20: ΣΤΑΘΜΗ ΠΛΑΚΑΣ ΜΠΕΤΟΥ STRUCTURAL SLAB
+Line  21: ELEVATION
+Line  22: ΓΕΝΙΚΟΙ ΣΥΜΒΟΛΙΣΜΟΙ GENERAL ANNOTATION
+Line  23: ΘΕΡΜΟΜΟΝΩΣΗ THERMAL INSULATION
+Line  24: ΤΥΠΟΣ ΠΑΡΑΘΥΡΟΥ WINDOW TYPE
+Line  25: ΑΝΟΙΓΜΑ ΠΑΡΑΘΥΡΟΥ WINDOW WIDTH
+Line  26: ΠΟΔΙΑ ΠΑΡΑΘΥΡΟΥ WINDOW SILL
+Line  27: ΠΡΕΚΙ ΠΑΡΑΘΥΡΟΥ WINDOW HEAD
+Line  28: Room
+Line  29: ΔΩΜΑΤΙΟ GR
+Line  30: ΚΩΔΙΚΟΣ ΠΑΡΑΘΥΡΟΥ WINDOW NUMBER
+Line  31: ΣΥΜΒΟΛΑ ΛΕΠΤΟΜΕΡΕΙΩΝ ΣΧΕΔΙΟΥ DETAIL
+Line  32: INDICATION
+Line  33: ΤΥΠΟΣ ΘΥΡΑΣ DOOR TYPE
+Line  34: ΑΝΟΙΓΜΑ ΘΥΡΑΣ DOOR OPENING
+Line  35: ΠΟΔΙΑ ΘΥΡΑΣ DOOR SILL
+Line  36: ΠΡΕΚΙ ΘΥΡΑΣ DOOR HEAD
+Line  37: ΚΩΔΙΚΟΣ ΘΥΡΑΣ DOOR NUMBER
+Line  38: ΣΥΜΒΟΛΟ ΤΟΜΗΣ ΣΧΕΔΙΟΥ SECTION
+Line  39: INDICATION
+Line  40: 9312
+Line  41: ΚΑΘΑΡΟ ΥΨΟΣ ΧΩΡΟΥ CEILING HEIGHT
+Line  42: ΤΕΛΕΙΩΜΑ ΟΡΟΦΗΣ CEILING FINISH
+Line  43: ΤΕΛΕΙΩΜΑ ΤΟΙΧΟΥ WALL FINISH
+Line  44: ΟΝΟΜΑ ΧΩΡΟΥ
+Line  45: ΣΟΒΑΣ
+Line  46: ΜΕΤΑΛΛΙΚΗ ΠΕΡΓΚΟΛΑ
+Line  47: ΞΥΛΙΝΑ ΚΟΥΦΩΜΑΤΑ
+Line  48: ΔΙΠΛΟΙ ΥΑΛΟΠΙΝΑΚΕΣ
+Line  49: ΥΠΟΜΝΗΜΑ ΥΛΙΚΩΝ ΟΨΕΩΝ
+Line  50: ΚΛΙΜΑΚΑ
+Line  51: SCALE
+Line  52: ΣΧΕΔΙΟ
+Line  53: ΕΡΓΟ
+Line  54: ΕΡΓΟΔΟΤΗΣ
+Line  55: ΗΜΕΡΟΜΗΝΙΑ ΕΚΔΟΣΗΣ
+Line  56: FIRST ISSUE DATE
+Line  57: ΣΦΡΑΓΙΔΑ
+Line  58: ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΜΕΛΕΤΗ ΕΦΑΡΜΟΓΗΣ
+Line  59: DETAILED DESIGN
+Line  60: ΠΕΡΙΟΧΗ
+Line  61: ZONE
+Line  62: LANDSCAPE DESIGN
+Line  63: Kontou Athens, Greece
+Line  64: 6781 6785
+Line  65: MEP DESIGN
+Line  66: TEKEM CONSULTING ENGINEERS
+Line  67: STRUCTURAL DESIGN
+Line  68: Epirou Αthens, Greece
+Line  69: 3262 3269
+Line  70: EXECUTIVE ARCHITECT
+Line  71: SITE SUPERVISOR
+Line  72: Ploutarchou Athens, 75 Greece
+Line  73: 722 4170 722 6355
+Line  74: ARCHITECTURAL DESIGN
+Line  75: ISSUED
+Line  76: ΘΕΣΗ ΕΡΓΟΥ
+Line  77: CONSTRUCTION
+Line  78: APPROVAL
+Line  79: TENDER
+Line  80: STATUS
+Line  81: DRAFT
+Line  82: FINAL
+Line  83: STAMP
+Line  84: DISCIPLINE
+Line  85: ARC
+Line  86: ΑΝΑΘ.
+Line  87: REV.
+Line  88: VALSAMAKIS
+Line  89: ERISMA
+Line  90: Naxou Kifisia, Greece
+Line  91: 4217 6976
+Line  92: Skoufa Athens, 72 Greece
+Line  93: 8642
+Line  94: HELLI PANGALOU
+Line  95: ΚΗΠΟΤΕΧΝΙΚΗ ΜΕΛΕΤΗ
+Line  96: ΜΗΧΑΝΟΛΟΓΙΚΗ ΜΕΛΕΤΗ
+Line  97: ΕΚΤΕΛΕΣΗ ΑΡΧΙΤΕΚΤΟΝΙΚΗΣ ΜΕΛΕΤΗΣ ΕΠΙΒΛΕΨΗ
+Line  98: ΣΤΑΤΙΚΗ ΜΕΛΕΤΗ
+Line  99: ΑΡΧΙΤΕΚΤΟΝΑΣ ΕΡΓΟΥ
+Line 100: VAP
+Line 101: PROJECT
+Line 102: LOCATION
+Line 103: CLIENT
+Line 104: DRAWING
+Line 105: ΟΨΕΙΣ
+Line 106: ΛΑΓΩΝΙΚΗ ΑΛΜΥΡΑ ΝΟΤΙΑ ΑΝΤΙΠΑΡΟΣ
+Line 107: LAGONIKI ALMYRA SOUTH ANTIPAROS
+Line 108: 09
+Line 109: ΑΝΑΤΟΛΙΚΗ ΔΥΤΙΚΗ
+Line 110: ΚΑΤΟΙΚΙΕΣ ΣΤΗΝ ΑΝΤΙΠΑΡΟ
+Line 111: RESIDENCES ANTIPAROS
+Line 112: CSTO LIMITED
+Line 113: 401
+Line 114: ΚΤΙΡΙΑ
+Line 115: ELEVATIONS
+Line 116: EAST WEST
+Line 117: BUILDINGS
+Line 118: ΔΥΤΙΚΗ
+Line 119: ΒΟΡΕΙΑ
+Line 120: ΑΝΑΘΕΩΡΗΣΕΙΣ
+Line 121: ΠΕΡΙΓΡΑΦΗ DESCRIPTION
+Line 122: ΗΜ ΝΙΑ DATE
+Line 123: Stone
+Line 124: 09 2019
+
+=== END OF FILTERED TEXT ===
+Total lines: 125

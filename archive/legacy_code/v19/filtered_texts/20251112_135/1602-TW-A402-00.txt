@@ -1,0 +1,48 @@
+=== FILTERED TEXT FOR: 1602-TW-A402-00.pdf ===
+
+Line   0: Level Ground Floor
+Line   1: Level First Floor
+Line   2: NGL
+Line   3: Level
+Line   4: Level
+Line   5: Level Ground Floor
+Line   6: Level First Floor
+Line   7: NGL
+Line   8: Level
+Line   9: Level
+Line  10: REVISIONS
+Line  11: DESCRIPTION
+Line  12: DATE
+Line  13: CLIENT
+Line  14: PROJECT
+Line  15: DESIGN STAGE
+Line  16: DATE
+Line  17: SCALE
+Line  18: FILE NAME
+Line  19: DRAWING TITLE
+Line  20: DRAWING
+Line  21: TAHLIA WALK
+Line  22: VAPARCHITECTS
+Line  23: Epirou Street
+Line  24: Athens, GR Greece
+Line  25: 3262
+Line  26: 3269
+Line  27: DESIGN ARCHITECTS
+Line  28: STRUCTURAL ENGINEER
+Line  29: CONSULTANTS
+Line  30: MEP ENGINEER
+Line  31: STUDIO
+Line  32: Isavron
+Line  33: Lycabettus
+Line  34: Athens, GR 11471 Greece
+Line  35: ZAD DEVELOPMENT
+Line  36: 04 2016
+Line  37: 00
+Line  38: Elevations
+Line  39: Project Status
+Line  40: South East
+Line  41: North East
+Line  42: 1602 TW 00
+
+=== END OF FILTERED TEXT ===
+Total lines: 43

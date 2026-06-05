@@ -1,0 +1,55 @@
+=== FILTERED TEXT FOR: PEN_IV-A102.pdf ===
+
+Line   0: COUR ANGLAISE
+Line   1: COUR ANGLAISE
+Line   2: ΒΟΗΘ. ΧΩΡΟΣ
+Line   3: ΠΡΟΣΩΠΙΚΟΥ
+Line   4: ΛΟΥΤΡΟ
+Line   5: ΑΠΟΘΗΚΗ
+Line   6: ΑΠΟΘΗΚΗ
+Line   7: ΑΠΟΘΗΚΗ
+Line   8: ΧΩΡΟΣ
+Line   9: ΠΛΥΝΤΗΡΙΩΝ
+Line  10: ΜΗΧΑΝΟΛΟΓΙΚΟΣ
+Line  11: ΧΩΡΟΣ ΚΟΛΥΜΒΗΤΙΚΗΣ
+Line  12: ΔΕΞΑΜΕΝΗΣ
+Line  13: ΚΟΛΥMBΗΤΙΚΗ
+Line  14: ΔΕΞΑΜΕΝΗ
+Line  15: ΑΠΟΘΗΚΗ
+Line  16: ΤΡΟΦΙΜΩΝ
+Line  17: .49
+Line  18: ΑΠΟΘΗΚΗ
+Line  19: ΔΕΞΑΜΕΝΗ ΝΕΡΟΥ
+Line  20: ΧΩΡΟΣ
+Line  21: ΔΕΞΑΜΕΝΗ ΝΕΡΟΥ
+Line  22: ΔΕΞΑΜΕΝΗ ΝΕΡΟΥ
+Line  23: ΚΟΛΥΜΒΗΤΙΚΗΣ
+Line  24: ΔΕΞΑΜΕΝΗΣ
+Line  25: ΒΟΡΕΙΟΔΥΤΙΚΗ ΟΨΗ
+Line  26: ΒΟΡΕΙΟΔΥΤΙΚΗ ΟΨΗ
+Line  27: TOMH
+Line  28: TOMH
+Line  29: ΝΟΤΙΑ ΟΨΗ
+Line  30: ΝΟΤΙΑ ΟΨΗ
+Line  31: ΦΕΒΠΟΥΑΠΗΟΣ 2020
+Line  32: ΕΠΓΟ
+Line  33: ΑΠΥΗΤΕΙΤΟΝΗΙΗ ΜΕΛΕΤΗ
+Line  34: ΣΦΠΑΓΗΔΑ ΥΟΟΓΠΑΦΗ
+Line  35: ANDREAS FUHRIMANN GABRIELLE HACHLER
+Line  36: ARCHITEKTEN ETH BSA ZURICH CH
+Line  37: ΕΙΤΕΛΕΣΗ ΑΠΥΗΤΕΙΤΟΝΗΙΗΣ ΜΕΛΕΤΗΣ
+Line  38: ΓΕΣΗ ΕΠΓΟΥ
+Line  39: ΟΗΓΑΔΑΙΗΑ ΙΑΥΙΑΠΕΣ ΤΗΣ ΙΟΗΝΟΤΗΤΑΣ
+Line  40: ΑΝΤΗΟΑΠΟΥ, ΝΟΜΟΥ
+Line  41: ΙΥΠΗΟΣ ΤΟΥ ΕΠΓΟΥ
+Line  42: PASTOR LTD
+Line  43: ΣΤΑΔΗΟ ΜΕΛΕΤΗΣ
+Line  44: ΟΠΗΣΤΗΙΗ ΜΕΛΕΤΗ
+Line  45: ΣΥΕΔΗΟ
+Line  46: ΑΠΗΓΜΟΣ
+Line  47: ΗΜΕΠΟΜΗΝΗΑ
+Line  48: ΙΛΗΜΑΙΑ
+Line  49: 467 2010
+
+=== END OF FILTERED TEXT ===
+Total lines: 50

@@ -1,0 +1,76 @@
+=== FILTERED TEXT FOR: 4005-RES-BIG-234-CO-00103-3.pdf ===
+
+Line   0: KEYPLAN KEYSECTION
+Line   1: ΓΕΝΙΚΕΣ ΣΗΜΕΙΩΣΕΙΣ GENERAL NOTES
+Line   2: ΕΓΓΡΑΦΑ ΑΝΑΦΟΡΑΣ DOCUMENT REFERENCE
+Line   3: ΘΕΣΗ ΓΡΑΦΙΚΗΣ ΚΛΙΜΑΚΑΣ GRAPHIC SCALE LOCATION
+Line   4: URBAN ZONE
+Line   5: ΦΥΛΛΟ SHEET
+Line   6: ARCHITECTURAL DESIGN HELLINIKON HIGH RISE RESIDENTIAL
+Line   7: STAMPED
+Line   8: BIG
+Line   9: BIG
+Line  10: STAMPED
+Line  11: STAMPED
+Line  12: BIG
+Line  13: Issued Information Review
+Line  14: HELLINIKON
+Line  15: Σημείωση Πνευματικών Δικαιωμάτων. 2121 1993
+Line  16: ΕΛΛΗΝΙΚΟ
+Line  17: Ρήτρα Περιορισμού Ευθύνης. ΕΛΛΗΝΙΚΟ
+Line  18: ΝΑ ΜΗΝ ΑΛΛΑΧΘΕΙ ΚΛΙΜΑΚΑ ΤΟΥ ΣΧΕΔΙΟΥ.
+Line  19: Copyright Notice. 2121 1993
+Line  20: HELLINIKON
+Line  21: Disclaimer. HELLINIKON
+Line  22: CHANGE SCALE DRAWING.
+Line  23: MODEL
+Line  24: ΣΤΟΙΧΕΙΑ ΚΥΡΙΟΥ ΜΕΛΕΤΗΤΗ LEAD DESIGNER DETAILS
+Line  25: ΣΤΟΙΧΕΙΑ ΣΥΜΒΟΥΛΟΥ ΔΙΑΧΕΙΡΙΣΗΣ ΕΡΓΟΥ
+Line  26: PROJECT MANAGEMENT CONSULTANT DETAILS
+Line  27: Kifisias Avenue Golden Hall
+Line  28: 15123 Marousi
+Line  29: ΕΛΛΗΝΙΚΟ HELLINIKON
+Line  30: ΣΤΟΙΧΕΙΑ ΕΡΓΟΔΟΤΗ EMPLOYER DETAILS
+Line  31: DEVELOPMENT METROPOLITAN POLE HELLINIKON AG. KOSMAS
+Line  32: ΑΝΑΠΤΥΞΗ ΤΟΥ ΜΗΤΡΟΠΟΛΙΤΙΚΟΥ ΠΟΛΟΥ ΕΛΛΗΝΙΚΟΥ ΑΓIOY ΚΟΣΜΑ
+Line  33: ΕΡΓΟ PROJECT
+Line  34: STATUS
+Line  35: APPROVED
+Line  36: PMC
+Line  37: VERIFIED
+Line  38: LEAD DESIGNER
+Line  39: CHECKED
+Line  40: ORIGINATED
+Line  41: DESCRIPTION UPDATE VERSION
+Line  42: DATE
+Line  43: ISSUE
+Line  44: REV.
+Line  45: Revision
+Line  46: Serial Number
+Line  47: Stage
+Line  48: Discipline
+Line  49: Type
+Line  50: Originator
+Line  51: Project
+Line  52: ΔΙΑΤΑΞΗ LAYOUT
+Line  53: ΚΩΔΙΚΟΣ ΕΓΓΡΑΦΟΥ ΣΧΕΔΙΟΥ DOCUMENT DRAWING CODIFICATION
+Line  54: ΚΛΙΜΑΚΑ SCALE
+Line  55: ΤΙΤΛΟΣ ΣΧΕΔΙΟΥ DRAWING TITLE
+Line  56: ΚΥΡΙΟΣ ΜΕΛΕΤΗΤΗΣ LEAD DESIGNER
+Line  57: ΣΥΜΒΟΥΛΟΣ ΔΙΑΧΕΙΡΙΣΗΣ ΕΡΓΟΥ
+Line  58: PROJECT MANAGEMENT CONSULTANT
+Line  59: ΕΡΓΟΔΟΤΗΣ EMPLOYER
+Line  60: ENGINEERING CONSULTANT
+Line  61: EXECUTIVE ARCHITECT
+Line  62: STUCTURAL CONSULTANT
+Line  63: MEP ENGINEERING CONSULTANT
+Line  64: 4005
+Line  65: BIG
+Line  66: RES
+Line  67: DWG
+Line  68: CO
+Line  69: SITE COVERAGE DIAGRAM
+Line  70: 00103
+
+=== END OF FILTERED TEXT ===
+Total lines: 71

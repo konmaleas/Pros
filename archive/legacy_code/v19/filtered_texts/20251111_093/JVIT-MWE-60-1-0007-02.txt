@@ -1,0 +1,47 @@
+=== FILTERED TEXT FOR: JVIT-MWE-60-1-0007-02.pdf ===
+
+Line   0: Potable Canal Building
+Line   1: IL
+Line   2: IMP 1
+Line   3: Potable
+Line   4: Canal Building
+Line   5: Potable Drinking Fountain
+Line   6: Potable Drinking Fountain
+Line   7: JVIT MWS 70 0001
+Line   8: JVIT MWS 70 0001
+Line   9: IMP
+Line  10: Inspection Manhole Hose
+Line  11: IMP
+Line  12: Inspection Manhole Hose
+Line  13: ISOLATION VALVE
+Line  14: Valve
+Line  15: Valve
+Line  16: ISOLATION VALVE
+Line  17: ISOLATION VALVE
+Line  18: Valve
+Line  19: ISOLATION VALVE
+Line  20: IMP
+Line  21: IMP
+Line  22: IMP
+Line  23: ISOLATION VALVE
+Line  24: JVIT MWE 60 1 0004
+Line  25: JVIT MWE 60 1 0006
+Line  26: 1
+Line  27: 02
+Line  28: MWE
+Line  29: 60
+Line  30: 2015
+Line  31: 1
+Line  32: CIVIL SERVICES
+Line  33: POTABLE WATER
+Line  34: LAYOUT PLAN AGORA
+Line  35: LEVEL SHEET
+Line  36: Genaral Notes
+Line  37: 1.
+Line  38: JVIT COS 00 0001
+Line  39: Details JVIT CES 60 0001 JVIT CES 60 0002,
+Line  40: JVIT MWE 60 0010
+Line  41: JVIT CES 60 0002, JVIT MWE 60 0010
+
+=== END OF FILTERED TEXT ===
+Total lines: 42

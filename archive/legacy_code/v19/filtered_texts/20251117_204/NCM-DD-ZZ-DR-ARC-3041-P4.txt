@@ -1,0 +1,175 @@
+=== FILTERED TEXT FOR: NCM-DD-ZZ-DR-ARC-3041-P4.pdf ===
+
+Line   0: ΙΣΟΓΕΙΟ
+Line   1: ΠΡΩΤΟ
+Line   2: ΔΕΥΤΕΡΟ
+Line   3: ΠΡΩΤΟ ΥΠΟΓΕΙΟ
+Line   4: ΔΕΥΤΕΡΟ ΥΠΟΓΕΙΟ
+Line   5: ΔΩΜΑΤΩΝ ΚΑΙ
+Line   6: ΔΩΜΑΤΩΝ
+Line   7: ΚΤΗΡΙΟ
+Line   8: ΥΔΡΟΦΟΡΟΣ ΟΡΙΖΟΝΤΑΣ
+Line   9: ΜΑΡΓΑ
+Line  10: ΗΜΙΥΠΑΙΘΡΙΟΣ ΧΩΡΟΣ
+Line  11: SECURITY
+Line  12: 01 ARC Level
+Line  13: ΕΚΘΕΣΕΙΣ
+Line  14: ΦΥΛΑΚΕΙΟ ΑΙΘΡΙΟΥ
+Line  15: ΑΙΘΟΥΣΑ
+Line  16: ΠΡΟΓΡΑΜΜΑΤΩΝ
+Line  17: ΧΩΡΟΣ
+Line  18: ΣΤΑΘΜΕΥΣΗΣ
+Line  19: ΘΕΣΕΙΣ
+Line  20: ΠΡΟΘΑΛΑΜΟΣ
+Line  21: ΚΛΙΜΑΚΟΣΤΑΣΙΟΥ
+Line  22: ΑΠΟΘΗΚΗ ΣΩΣΤΙΚΩΝ
+Line  23: ΑΝΑΣΚΑΦΩΝ
+Line  24: ΕΚΘΕΣΕΙΣ
+Line  25: ΑΠ ΚΗ ΠΩΛΗΤΗΡΙΟΥ
+Line  26: ΑΠΟΘΗΚΩΝ
+Line  27: ΑΠΟΘΗΚΩΝ
+Line  28: ΕΚΘΕΣΕΙΣ
+Line  29: ΠΡΟΘΑΛΑΜΟΣ
+Line  30: ΚΛΙΜΑΚΟΣΤΑΣΙΟΥ
+Line  31: ΜΟΝΙΜΗ ΕΚΘΕΣΗ II
+Line  32: SEA
+Line  33: ΑΝΕΛΚΥΣΤΗΡΑΣ
+Line  34: ΔΕΥΤΕΡΟ
+Line  35: ΙΣΟΓΕΙΟΥ
+Line  36: ΠΡΩΤΟ
+Line  37: ΑΠΟΘΗΚΗ
+Line  38: ΚΑΘΑΡΙΣΜΟΥ
+Line  39: ΜΟΝΙΜΗ ΕΚΘΕΣΗ II
+Line  40: SEA
+Line  41: ΜΟΝΙΜΗ ΕΚΘΕΣΗ II
+Line  42: SEA
+Line  43: ΧΩΡΟΣ ΕΠΙΣΚΕΠΤΩΝ
+Line  44: ΒΕΣΤΙΑΡΙΟ
+Line  45: ΑΙΘΡΙΟ ΜΟΥΣΕΙΟΥ
+Line  46: ΜΟΝΙΜΗ ΕΚΘΕΣΗ
+Line  47: ΓΕΦΥΡΑ
+Line  48: ΦΩΤΟΒΟΛΤΑΪΚΑ ΠΑΝΕΛ
+Line  49: ΜΕΤΑΛΛΙΚΗ ΣΧΑΡΑ ΣΤΗΡΙΞΗΣ
+Line  50: ΜΕΤΑΛΛΙΚΗ ΚΑΤΑΣΚΕΥΗ ΣΤΗΡΙΞΗΣ PANELS
+Line  51: ΟΓΚΟΣ SEA
+Line  52: ΣΤΕΓΑΣΗ FOYER
+Line  53: ΟΓΚΟΣ TOPOS
+Line  54: ΣΤΕΓΑΣΗ ΕΚΘΕΣΙΑΚΟΥ ΧΩΡΟΥ
+Line  55: ΠΑΤΑΡΙ ΕΚΘΕΣΙΑΚΟΙ ΧΩΡΟΙ
+Line  56: ΟΡΟΦΟΣ ΕΚΘΕΣΙΑΚΟΙ ΧΩΡΟΙ
+Line  57: ΜΕΤΑΛΛΙΚΗ ΚΑΤΑΣΚΕΥΗ ΣΤΗΡΙΞΗΣ PANELS
+Line  58: 8137
+Line  59: 8162
+Line  60: 8109
+Line  61: 8108
+Line  62: 8304
+Line  63: 8310
+Line  64: 8307
+Line  65: 8357
+Line  66: ΥΠΕΥΘΥΝΟΥ ΕΡΓΟΥ
+Line  67: ΗΜΕΡΟΜΗΝΙΑ
+Line  68: ONOMA ΑΡΧΕΙΟΥ
+Line  69: ΛΕΥΚΩΣΙΑ ΚΥΠΡΟΣ
+Line  70: ΜΕΛΕΤΗ ΕΦΑΡΜΟΓΗΣ DD
+Line  71: ΝΕΟ ΚΥΠΡΙΑΚΟ ΜΟΥΣΕΙΟ
+Line  72: ΗΜΕΡΟΜΗΝΙΑ
+Line  73: ΕΓΚΡΙΘΗΚΕ
+Line  74: ΤΜΗΜΑ
+Line  75: ΗΜΕΡΟΜΗΝΙΑ
+Line  76: ΕΛΕΓΧΘΗΚΕ
+Line  77: ΤΜΗΜΑ
+Line  78: ΤΙΤΛΟΣ
+Line  79: ΥΠΟΒΟΛΗ
+Line  80: ΑΡ.
+Line  81: ΥΠΟΥΡΓΕΙΟ ΜΕΤΑΦΟΡΩΝ, ΕΠΙΚΟΙΝΩΝΙΩΝ ΚΑΙ ΕΡΓΩΝ
+Line  82: ΤΜΗΜΑ ΕΡΓΩΝ
+Line  83: KEY PLAN
+Line  84: ΗΜΕΡΟΜΗΝΙΑ
+Line  85: ΠΕΡΙΕΧΟΜΕΝΟ
+Line  86: ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΜΕΛΕΤΗ
+Line  87: THEONI XANTHI XZA LLC
+Line  88: ΥΠΕΥΘΥΝΟΣ ΕΡΓΟΥ
+Line  89: ΑΡΧΙΤΕΚΤΩΝ ΘΕΩΝΗ ΞΑΝΘΗ
+Line  90: ΑΡΧΙΤΕΚΤΟΝΕΣ
+Line  91: ΜΑΡΓΑΡΙΤΑ ΖΑΚΥΝΘΙΝΟΥ
+Line  92: ΣΥΝΤΟΝΙΣΤΗΣ ΑΡΧIT ΚΗΣ ΜΕΛΕΤΗΣ
+Line  93: ΚΟΣΜΑΣ ΒΑΡΚΑΡΟΛΗΣ
+Line  94: ΑΡΧΙΤΕΚΤΟΝΙΚΑ
+Line  95: YAP
+Line  96: ΣTATIKΑ
+Line  97: RHOMBUS STRUCTURAL ENGINEERS LLC ΣΤ.
+Line  98: PENELIS CONSULTING ENGINEERS SA ΠΕΝΕΛΗΣ
+Line  99: GEORGHIOU ZEMBYLAS PARTNERS
+Line 100: ΜΗΧΑΝΟΛΟΓΙΚA
+Line 101: ΗΛΕΚΤΡΟΛΟΓΙΚA
+Line 102: ΜΟΥΣΕΙΟΛΟΓΙΚA
+Line 103: THETA ACOUSTICS LTD ΝΙΑΟΥΝΑΚΗΣ
+Line 104: ΑΚΟΥΣΤΙΚA
+Line 105: RODITIS PARTNERS
+Line 106: ΕΠΙΜΕΤΡΗΣΗ ΠΟΣΟΤΗΤΩΝ
+Line 107: FLOROS PANTELI ASSOCIATES ΠΑΝΤΕΛΗ
+Line 108: ΥΓΕΙΑ
+Line 109: ΜΟΥΣΕΙΟΓΡΑΦΙΚA
+Line 110: ΘΩΜΑΣ ΤΣΟΥΚΑΛΑΣ
+Line 111: ΦΩΤΙΣΜΟΣ
+Line 112: DECO ASSOCIATES ΕΛ. ΝΤΕΚΩ
+Line 113: ΠΥΡΟΠΡΟΣΤΑΣΙΑ
+Line 114: INT FIRE CYPRUS LTD ΣΠ. ΣΠΥΡΟΥ
+Line 115: ΚΥΚΛΟΦΟΡΙΑΚΑ
+Line 116: DROMOS CONSULTING LTD ΖΕΚΚΟΣ
+Line 117: ΣΗΜΑΝΣΗ
+Line 118: POST SPECTACULAR OFFICE ΓΑΛΙΚΑΣ
+Line 119: ΚΤΗΡΙΟΥ
+Line 120: ARION PLUS
+Line 121: ΕΡΓΑΣΙΑΣ
+Line 122: ΜΕΛΕΤΗΣ
+Line 123: FEREOS LLC ΦΕΡΑΙΟΣ Αναπλ. Υπεύθυνος Οµάδας Έργου
+Line 124: DROMOS CONSULTING LTD ΖΕΚΚΟΣ
+Line 125: ΣΥΜΒΟΥΛΟΙ ΜΕΛΕΤΗΤΕΣ
+Line 126: ΓΕΩΤΕΧΝΙΚΑ
+Line 127: ΜΟΥΣΕΙΑΚΟΣ
+Line 128: XZA
+Line 129: ΒΑΣΙΛΕΙΟΥ
+Line 130: ΕΡΓΑΣΤΗΡΙΑ
+Line 131: ΩΡ
+Line 132: ΑΡΧΙΤΕΚΤΟΝΙΚΗ
+Line 133: ΚΛΙΜΑΚΑ
+Line 134: VAP Σύµβουλος Μελέτης Εφαρµογής
+Line 135: DR ARC
+Line 136: ΚΑΤΑΛΛΗΛΟΤΗΤΑΣ
+Line 137: NCM DD
+Line 138: Engineer Record
+Line 139: GEORGHIOU ZEMBYLAS PARTNERS
+Line 140: ANDREAS EVRIPIDOU CIVIL ENGINEERS
+Line 141: ΣΤΕΡΓΙΟΣ ΓΑΛΙΚΑΣ
+Line 142: ΘΩΜΑΣ ΤΣΟΥΚΑΛΑΣ
+Line 143: ΣΤΕΡΓΙΟΣ ΓΑΛΙΚΑΣ
+Line 144: Συνεργάτης ΤΣΑΜΠΙΚΟΣ ΠΕΤΡΑΣ
+Line 145: POST SPECTACULAR OFFICE ΓΑΛΙΚΑΣ
+Line 146: ΠΡΟΜΕΛΕΤΗ ΣΑΚΕΛΛΑΡΙΟΥ
+Line 147: ΦΥΣΙΚΟΣ ΦΩΤΙΣΜΟΣ
+Line 148: ΤΣΑΓΚΡΑΣΟΥΛΗΣ
+Line 149: ΕΞΟΠΛΙΣΜΟΣ ΚΟΥΖΙΝΑΣ
+Line 150: XENEX
+Line 151: ΕΝΕΡΓΕΙΑΚΑ ΚΕΛΥΦΟΥΣ
+Line 152: METABUILD
+Line 153: ΓΡΑΦΙΣΤΙΚΑ
+Line 154: ΦΥΤΟΤΕΧΝΙΚΑ
+Line 155: LANDCO EΠΕ ΚΑΝΤΑΡΤΖΗΣ
+Line 156: ΦΕΒΡΟΥΑΡΙΟΣ 2021
+Line 157: 02 2021
+Line 158: ΤΟΜΕΣ ΖΩΝΗ
+Line 159: 3041
+Line 160: ZZ
+Line 161: ΤΟΜΗ ΖΩΝΗ
+Line 162: ΖΩΝΗ
+Line 163: ΤΟΜΗ
+Line 164: ΤΟΜΗ
+Line 165: P1
+Line 166: 07 2021
+Line 167: Υποβολή
+Line 168: 02 2021
+Line 169: Υποβολή
+
+=== END OF FILTERED TEXT ===
+Total lines: 170

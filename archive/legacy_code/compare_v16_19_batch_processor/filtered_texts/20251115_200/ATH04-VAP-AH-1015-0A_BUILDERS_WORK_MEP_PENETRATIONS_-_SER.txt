@@ -1,0 +1,105 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-1015-0A_BUILDERS_WORK_MEP_PENETRATIONS_-_SER.pdf ===
+
+Line   0: GL
+Line   1: CEILING LEVEL
+Line   2: MP AD 023 01
+Line   3: MP AD 023 02
+Line   4: MP AD 023 03
+Line   5: 3735
+Line   6: 3630
+Line   7: 1020
+Line   8: MP AD 023 04
+Line   9: SER
+Line  10: 00 023
+Line  11: CEILING LEVEL
+Line  12: SER
+Line  13: 00 023
+Line  14: GL
+Line  15: CEILING LEVEL
+Line  16: MP AD 023 05
+Line  17: 740
+Line  18: 3050
+Line  19: SER
+Line  20: 00 023
+Line  21: 1015
+Line  22: 2
+Line  23: 1015
+Line  24: 1015
+Line  25: WALL REFER VAP AH 1014
+Line  26: SER
+Line  27: 00 023
+Line  28: MEP PENETRATIONS CODE
+Line  29: MP AD XXX XX
+Line  30: MP
+Line  31: MEP PENETRATIONS
+Line  32: AD
+Line  33: BUILDING CODE
+Line  34: XXX
+Line  35: ROOM NUMBER
+Line  36: XX
+Line  37: PENETRATION NUMBER
+Line  38: ADMIN
+Line  39: COLO
+Line  40: COLO 2
+Line  41: 2
+Line  42: 4
+Line  43: 2
+Line  44: 4
+Line  45: TRUE NORTH
+Line  46: Sheet Title Number
+Line  47: Scale
+Line  48: Plan
+Line  49: Design Consultants
+Line  50: Microsoft
+Line  51: DATA CENTER
+Line  52: SPATA GREECE
+Line  53: Contractor Joint Venture
+Line  54: Name
+Line  55: Contractor Project
+Line  56: Contractor Contract
+Line  57: Contractor PM
+Line  58: Contractor BIM Mngr
+Line  59: Contractor Information
+Line  60: Renco Terna
+Line  61: Client
+Line  62: General Notes
+Line  63: Client Project
+Line  64: Client Contract
+Line  65: Client PM
+Line  66: Client BIM Mngr
+Line  67: Primary Client Information
+Line  68: Layout
+Line  69: Revision
+Line  70: Tombazi Chalandri
+Line  71: 15232
+Line  72: Athens Greece
+Line  73: 0800 3262
+Line  74: Agion Theodoron Square Athens
+Line  75: 10561
+Line  76: Athens Greece
+Line  77: Kimithois Agios Dimitrios
+Line  78: 17236
+Line  79: Athens Greece
+Line  80: Purpose Issue
+Line  81: Issue
+Line  82: Name
+Line  83: BUILDERS WORK MEP PENETRATIONS
+Line  84: SER
+Line  85: VAP AH 1015
+Line  86: SCALE
+Line  87: 023 SER ELEVATION NORTH MEP PENETRATIONS
+Line  88: SCALE
+Line  89: 023 SER ELEVATION SOUTH MEP PENETRATIONS
+Line  90: SCALE
+Line  91: 023 SER ELEVATION WEST MEP PENETRATIONS
+Line  92: 2
+Line  93: 1000
+Line  94: SCALE
+Line  95: Date
+Line  96: Description
+Line  97: 07
+Line  98: Issued Approval
+Line  99: VAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 100

@@ -1,0 +1,98 @@
+=== FILTERED TEXT FOR: TRN_MTR_VAP_A-401_01.pdf ===
+
+Line   0: ΟΡΟΦΟΣ
+Line   1: 6730
+Line   2: ΟΡΟΦΟΣ
+Line   3: 9910
+Line   4: ΟΡΟΦΟΣ
+Line   5: 13010
+Line   6: ΟΡΟΦΟΣ
+Line   7: 16000
+Line   8: ΟΡΟΦΟΣ
+Line   9: 19360
+Line  10: ΙΣΟΓΕΙΟ
+Line  11: 3760
+Line  12: 2060
+Line  13: ΙΣΟΓΕΙΟ
+Line  14: ΓΡΑΜΜΗ ΦΥΣΙΚΟ
+Line  15: ΓΡΑΜΜΗ ΦΥΣΙΚΟ
+Line  16: ΥΠΕΡΔΩΜΑ
+Line  17: 25390
+Line  18: ΣΤΑΘΜΗ
+Line  19: Εµφανές Σκυρόδεµα
+Line  20: ΥΠΟΜΝΗΜΑ
+Line  21: Επίχρισµα
+Line  22: Ενεργειακά Κουφώµατα
+Line  23: Μεταλλική Πέργκολα
+Line  24: Λορίδες Αλουµινίου
+Line  25: Μεταλλική Πλέγµα
+Line  26: ΚΛΙΜΑΚΑ
+Line  27: SCALE
+Line  28: ΕΡΓΟ
+Line  29: ΗΜΕΡΟΜΗΝΙΑ
+Line  30: FIRST ISSUE DATE
+Line  31: ΠΕΡΙΟΧΗ
+Line  32: ZONE
+Line  33: ISSUED
+Line  34: CONSTRUCTION
+Line  35: APPROVAL
+Line  36: TENDER
+Line  37: STATUS
+Line  38: DRAFT
+Line  39: FINAL
+Line  40: DISCIPLINE
+Line  41: ARC
+Line  42: ΑΝΑΘ.
+Line  43: REV.
+Line  44: VAP
+Line  45: PROJECT
+Line  46: DRAWING
+Line  47: CLIENT
+Line  48: Τοµπάζη Χαλάνδρι, 15332
+Line  49: 3262 3269
+Line  50: KEY PLAN
+Line  51: ΠΡΟΕΓΚΡΙΣΗ ΓΙΑ ΕΣΩΤΕΡΙΚΕΣ ΣΕ
+Line  52: ΥΦΙΣΤΑΜΕΝO ΚΤΙΡΙΟ ΓΡΑΦΕΙΩΝ ΧΩΡΙΣ
+Line  53: ΜΕΤΑΒΟΛΗ ΦΟΡΤΙΩΝ, ΠΡΟΣΘΗΚΗ
+Line  54: ΑΝΕΛΚΥΣΤΗΡΑ ΑΜΕΑ, ΕΠΕΜΒΑΣΕΙΣ ΣΤΙΣ ΟΨΕΙΣ
+Line  55: ΜΕ ΧΡΗΣΗ ΙΚΡΙΩΜΑΤΩΝ, ΕΓΚΑΤΑΣΤΑΣΗ
+Line  56: ΦΩΤΟΒΟΛΤΑΪΚΩΝ ΣΥΣΤΗΜΑΤΩΝ, ΠΡΟΣΘΗΚΗ
+Line  57: ΣΤΕΓΑΣΤΡΟΥ ΣΤΟ
+Line  58: ΑΚΑΛΥΠΤΟΥ ΧΩΡΟΥ ΚΑΙ ΟΠΗ ΠΛΑΚΑΣ ΓΙΑ ΤΗ
+Line  59: ΣΤΑΣΗΣ ΚΛΙΜΑΚΟΣΤΑΣΙΟΥ
+Line  60: ΘΕΣΗ
+Line  61: LOCATION
+Line  62: ΜΕΣΟΓΕΙΩΝ ΚΑΙ ΤΡΙΚΑΛΩΝ
+Line  63: ΑΜΠΕΛΟΚΗΠΟΙ ΑΘΗΝΑΙΩΝ 80077
+Line  64: ΑΡΧΙΤΕΚΤΟΝIKH ΜΕΛΕΤΗ
+Line  65: ARCHITECTURAL DESIGN
+Line  66: ΣΤΑΤΙΚΗ ΜΕΛΕΤΗ
+Line  67: STRUCTURAL DESIGN
+Line  68: ΜΗΧΑΝΟΛΟΓΙΚΗ ΜΕΛΕΤΗ
+Line  69: MEP DESIGN
+Line  70: Λεωφ. Αναγυρούντος 16672, Βάρη
+Line  71: 4395 4637
+Line  72: NSZ
+Line  73: Φιλολάου Ηλιούπουλη
+Line  74: ΜΕΛΕΤΗ
+Line  75: STUDY
+Line  76: STAGE
+Line  77: ΜΕΛΕΤΗΤΗ
+Line  78: DESIGNER STAMP
+Line  79: ΕΤΑΙΡΕΙΑΣ
+Line  80: COMPANY STAMP
+Line  81: ΚΗΜ ΕΜΜΑΝΟΥΗΛ ΤΣΕΚΟΥΡΑΣ
+Line  82: ΛΙΘΟΣ ΣΥΜΒΟΥΛΟΙ ΜΗΧΑΝΙΚΟΙ
+Line  83: VASSILIS ALEXANDROS POUTETSIS
+Line  84: ARCHITECTS ASSOCIATES IKE
+Line  85: ΟΨΗ ΜΕΣΟΓΕΙΩΝ
+Line  86: 08 06
+Line  87: A 401
+Line  88: ΑΝΑΘΕΩΡΗΣΕΙΣ
+Line  89: ΠΕΡΙΓΡΑΦΗ DESCRIPTION
+Line  90: ΗΜ ΝΙΑ DATE
+Line  91: ΠΡΩΤΗ ΥΠΟΒΟΛΗ
+Line  92: 08 06 2021
+
+=== END OF FILTERED TEXT ===
+Total lines: 93

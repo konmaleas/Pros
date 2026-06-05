@@ -1,0 +1,227 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-745-0A_-_INTERNAL_GLAZING_KEY_PLAN.pdf ===
+
+Line   0: YF
+Line   1: YE
+Line   2: YD
+Line   3: YC
+Line   4: YB
+Line   5: YA
+Line   6: 746
+Line   7: 747
+Line   8: 2
+Line   9: 746
+Line  10: 747
+Line  11: 4
+Line  12: 746
+Line  13: 746
+Line  14: 747
+Line  15: 747
+Line  16: 747
+Line  17: 747
+Line  18: 747
+Line  19: 747
+Line  20: BREAK
+Line  21: ROOM
+Line  22: 00 017
+Line  23: FACILITY
+Line  24: OFFICE
+Line  25: 00 005
+Line  26: FOC
+Line  27: 00 003
+Line  28: OFFICE
+Line  29: 00 015
+Line  30: RECEIVING
+Line  31: STAGING
+Line  32: AREA
+Line  33: 00 040
+Line  34: SOC
+Line  35: 00 006
+Line  36: FCR
+Line  37: 00 022
+Line  38: SER
+Line  39: 00 023
+Line  40: OFFICE
+Line  41: 00 014
+Line  42: ELEC ROOM
+Line  43: 00 024
+Line  44: CE
+Line  45: WORKSHOP
+Line  46: 00 043
+Line  47: LOADING
+Line  48: DOCK
+Line  49: 00 048
+Line  50: HIGH VALUE
+Line  51: STORAGE
+Line  52: 00 046
+Line  53: SECURE
+Line  54: STORAGE
+Line  55: 00 044
+Line  56: ASSET
+Line  57: MANAGEMENT
+Line  58: 00 047
+Line  59: GENERAL
+Line  60: STORAGE
+Line  61: 00 042
+Line  62: SHRED
+Line  63: ROOM
+Line  64: 00 045
+Line  65: CABLE
+Line  66: STORAGE
+Line  67: 00 041
+Line  68: CONFERENCE
+Line  69: ROOM 2
+Line  70: 00 032
+Line  71: MMR 2
+Line  72: 00 053
+Line  73: UNISEX WC
+Line  74: 00 039
+Line  75: CHECK
+Line  76: POINT
+Line  77: 00 036
+Line  78: LOBBY WC
+Line  79: 00 033
+Line  80: ENTRANCE
+Line  81: LOBBY
+Line  82: 00 001
+Line  83: INNER
+Line  84: LOBBY
+Line  85: 00 002
+Line  86: MMR
+Line  87: 00 020
+Line  88: JANITOR
+Line  89: ROOM
+Line  90: 00 037
+Line  91: WELLNESS
+Line  92: 00 013
+Line  93: SHWR
+Line  94: CHANGE
+Line  95: 00 028
+Line  96: CONFERENCE
+Line  97: ROOM
+Line  98: 00 009
+Line  99: OFFICE
+Line 100: 00 004
+Line 101: PHONE
+Line 102: BOOTH
+Line 103: 00 011
+Line 104: MEETING
+Line 105: ROOM
+Line 106: 00 010
+Line 107: SOC
+Line 108: STORAGE
+Line 109: 00 008
+Line 110: SOC OFFICE
+Line 111: 00 007
+Line 112: WC
+Line 113: 00 051
+Line 114: ADMIN
+Line 115: SPRINKLER
+Line 116: RISER
+Line 117: 00 049
+Line 118: DIS
+Line 119: WC SHWR
+Line 120: 00 034
+Line 121: WC
+Line 122: 00 031
+Line 123: WC
+Line 124: 00 026
+Line 125: LOBBY
+Line 126: 00 029
+Line 127: FIRE
+Line 128: ESCAPE
+Line 129: CORRIDOR
+Line 130: 00 052
+Line 131: FIRE
+Line 132: ESCAPE
+Line 133: CORRIDOR
+Line 134: 00 019
+Line 135: CORRIDOR
+Line 136: 00 016
+Line 137: CORRIDOR
+Line 138: 00 021
+Line 139: STORAGE
+Line 140: 00 018
+Line 141: PRINT ROOM
+Line 142: 00 012
+Line 143: WC
+Line 144: 00 030
+Line 145: LOBBY
+Line 146: 00 027
+Line 147: LOBBY
+Line 148: 00 025
+Line 149: INCOMING
+Line 150: WATER
+Line 151: RISER
+Line 152: 00 055
+Line 153: COLO
+Line 154: STORE
+Line 155: 00 056
+Line 156: LOBBY
+Line 157: 00 059
+Line 158: AIRLOCK
+Line 159: 00 038
+Line 160: 720
+Line 161: 747
+Line 162: 4
+Line 163: 03
+Line 164: 03
+Line 165: ADMIN
+Line 166: COLO
+Line 167: COLO 2
+Line 168: 2
+Line 169: 4
+Line 170: 2
+Line 171: 4
+Line 172: TRUE NORTH
+Line 173: Sheet Title Number
+Line 174: Scale
+Line 175: Plan
+Line 176: Design Consultants
+Line 177: Microsoft
+Line 178: DATA CENTER
+Line 179: SPATA GREECE
+Line 180: Contractor Joint Venture
+Line 181: Name
+Line 182: Contractor Project
+Line 183: Contractor Contract
+Line 184: Contractor PM
+Line 185: Contractor BIM Mngr
+Line 186: Contractor Information
+Line 187: Renco Terna
+Line 188: Client
+Line 189: General Notes
+Line 190: Client Project
+Line 191: Client Contract
+Line 192: Client PM
+Line 193: Client BIM Mngr
+Line 194: Primary Client Information
+Line 195: Layout
+Line 196: Revision
+Line 197: Tombazi Chalandri
+Line 198: 15232
+Line 199: Athens Greece
+Line 200: 0800 3262
+Line 201: Agion Theodoron Square Athens
+Line 202: 10561
+Line 203: Athens Greece
+Line 204: Kimithois Agios Dimitrios
+Line 205: 17236
+Line 206: Athens Greece
+Line 207: Purpose Issue
+Line 208: Issue
+Line 209: Name
+Line 210: INTERNAL GLAZING KEY PLAN
+Line 211: VAP AH 745
+Line 212: SCALE
+Line 213: ADMIN INTERNAL GLAZING KEY PLAN
+Line 214: 2500
+Line 215: 5000
+Line 216: SCALE
+Line 217: Date
+Line 218: Description
+Line 219: 05
+Line 220: Issued Approval
+Line 221: VAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 222

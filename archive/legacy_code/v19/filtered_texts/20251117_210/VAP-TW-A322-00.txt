@@ -1,0 +1,115 @@
+=== FILTERED TEXT FOR: VAP-TW-A322-00.pdf ===
+
+Line   0: Level
+Line   1: Level
+Line   2: Level
+Line   3: Level
+Line   4: Level
+Line   5: Level
+Line   6: Ground Floor
+Line   7: Level
+Line   8: First Floor
+Line   9: Level
+Line  10: Level
+Line  11: Staircase
+Line  12: Roof
+Line  13: Bituminous
+Line  14: Cement
+Line  15: Rigid
+Line  16: Louvre Partition MEP
+Line  17: Plaster
+Line  18: Reinforced Concrete
+Line  19: Lift
+Line  20: Shaft
+Line  21: Cement
+Line  22: Bituminous
+Line  23: Cement
+Line  24: Rigid
+Line  25: Lighting
+Line  26: Wooden
+Line  27: Panel
+Line  28: Cement
+Line  29: Lighting
+Line  30: Lift
+Line  31: Marble
+Line  32: Skirting
+Line  33: Wooden
+Line  34: Panel
+Line  35: Cement
+Line  36: Marble
+Line  37: Skirting
+Line  38: Concrete
+Line  39: Plaster
+Line  40: Insulated
+Line  41: Blocks
+Line  42: Plaster
+Line  43: Metal
+Line  44: Double Glass
+Line  45: Metal
+Line  46: Reinforced Concrete
+Line  47: Plaster
+Line  48: Plaster
+Line  49: Gypsum
+Line  50: Plaster
+Line  51: Skirting
+Line  52: Gypsum Wall Board
+Line  53: Light
+Line  54: Glass
+Line  55: Wooden
+Line  56: Panel
+Line  57: Level
+Line  58: Ground Floor
+Line  59: NGL
+Line  60: Marble
+Line  61: Reinforced Concrete
+Line  62: Aluminium
+Line  63: Fins
+Line  64: Marble
+Line  65: Marble
+Line  66: Shadow
+Line  67: Level
+Line  68: Ground Floor
+Line  69: NGL
+Line  70: Pebble
+Line  71: Soil
+Line  72: Drainage
+Line  73: Bituminous
+Line  74: Cement
+Line  75: Washed Gravel
+Line  76: REVISIONS
+Line  77: CLIENT
+Line  78: PROJECT
+Line  79: DESIGN STAGE
+Line  80: DATE
+Line  81: SCALE
+Line  82: FILE NAME
+Line  83: DRAWING TITLE
+Line  84: DRAWING
+Line  85: TAHLIA WALK
+Line  86: VAPARCHITECTS
+Line  87: Epirou Street
+Line  88: Athens, GR Greece
+Line  89: 3262
+Line  90: 3269
+Line  91: DESIGN ARCHITECTS
+Line  92: CONSULTANTS
+Line  93: STUDIO
+Line  94: Isavron
+Line  95: Lycabettus
+Line  96: Athens, GR 11471 Greece
+Line  97: ZAD DEVELOPMENT
+Line  98: STRUCTURAL ENGINEER
+Line  99: MEP ENGINEER
+Line 100: 01 PM
+Line 101: Enlarged Sections
+Line 102: Detail Design
+Line 103: Section
+Line 104: Section
+Line 105: Section
+Line 106: Description
+Line 107: Date
+Line 108: First
+Line 109: 07
+
+=== END OF FILTERED TEXT ===
+Total lines: 110

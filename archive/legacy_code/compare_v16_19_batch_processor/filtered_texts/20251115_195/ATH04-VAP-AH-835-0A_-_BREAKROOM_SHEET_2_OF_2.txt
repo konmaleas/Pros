@@ -1,0 +1,187 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-835-0A_-_BREAKROOM_SHEET_2_OF_2.pdf ===
+
+Line   0: GL
+Line   1: CEILING LEVEL
+Line   2: YA
+Line   3: ID AD 027
+Line   4: MIXTURE CURTAIN WALLING
+Line   5: PAINTED GYPSUM BOARD
+Line   6: WALLS, PRIMER 2 COATS
+Line   7: DIAMOND MATT LATEX FINISH
+Line   8: RAL 9010
+Line   9: VINYL FLOOR FORBO
+Line  10: SURESTEP STAIR SMOKE
+Line  11: VINYL COVED UPSTAND
+Line  12: CEILING TYPE 04 ARMSTRONG
+Line  13: PRIMA DUNE
+Line  14: ASSOCIATED GRID SUPPORT
+Line  15: WT
+Line  16: ROCKWOOL COMPOSITE
+Line  17: ARCHITECTURAL FACADE
+Line  18: SYSTEM, HORIZONTALLY LAID
+Line  19: SELECTED RAL COLOUR.
+Line  20: REFER
+Line  21: SPECIFICATIONS DETAILS
+Line  22: CURTAIN WALL SYSTEM
+Line  23: BREAK
+Line  24: ROOM
+Line  25: 00 017
+Line  26: 3500
+Line  27: CW
+Line  28: WT
+Line  29: LT
+Line  30: 5595
+Line  31: 3600
+Line  32: LT
+Line  33: 3000
+Line  34: 3500
+Line  35: REFER DRAWING
+Line  36: DETAILS
+Line  37: GL
+Line  38: CEILING LEVEL
+Line  39: BREAK
+Line  40: ROOM
+Line  41: 00 017
+Line  42: MIXTURE CURTAIN WALLING
+Line  43: PAINTED GYPSUM BOARD
+Line  44: WALLS, PRIMER 2 COATS
+Line  45: DIAMOND MATT LATEX FINISH
+Line  46: RAL 9010
+Line  47: VINYL COVED UPSTAND
+Line  48: VINYL FLOOR FORBO
+Line  49: SURESTEP STAIR SMOKE
+Line  50: CEILING TYPE 04 ARMSTRONG
+Line  51: PRIMA DUNE
+Line  52: ASSOCIATED GRID SUPPORT
+Line  53: 1910
+Line  54: 2500
+Line  55: 700
+Line  56: LT
+Line  57: WT
+Line  58: 3000
+Line  59: 3500
+Line  60: 3500
+Line  61: WT
+Line  62: WS
+Line  63: ID AD 026
+Line  64: 2200
+Line  65: 3000
+Line  66: 1038
+Line  67: WT
+Line  68: GL
+Line  69: CEILING LEVEL
+Line  70: BREAK
+Line  71: ROOM
+Line  72: 00 017
+Line  73: CEILING TYPE 04 ARMSTRONG
+Line  74: PRIMA DUNE
+Line  75: ASSOCIATED GRID SUPPORT
+Line  76: LT
+Line  77: 3500
+Line  78: 3500
+Line  79: CW
+Line  80: WT
+Line  81: CW
+Line  82: LT
+Line  83: WT
+Line  84: GL
+Line  85: CEILING LEVEL
+Line  86: BREAK
+Line  87: ROOM
+Line  88: 00 017
+Line  89: YA
+Line  90: CEILING TYPE 04 ARMSTRONG
+Line  91: PRIMA DUNE
+Line  92: ASSOCIATED GRID SUPPORT
+Line  93: MIXTURE CURTAIN WALLING
+Line  94: PAINTED GYPSUM BOARD
+Line  95: WALLS, PRIMER 2 COATS
+Line  96: DIAMOND MATT LATEX FINISH
+Line  97: RAL 9010
+Line  98: VINYL FLOOR FORBO
+Line  99: SURESTEP STAIR SMOKE
+Line 100: VINYL COVED UPSTAND
+Line 101: WT
+Line 102: ROCKWOOL COMPOSITE
+Line 103: ARCHITECTURAL FACADE
+Line 104: SYSTEM, HORIZONTALLY LAID
+Line 105: SELECTED RAL COLOUR.
+Line 106: REFER
+Line 107: SPECIFICATIONS DETAILS
+Line 108: CURTAIN WALL SYSTEM
+Line 109: 5595
+Line 110: 3500
+Line 111: CW
+Line 112: 3500
+Line 113: WT
+Line 114: REFER DRAWING
+Line 115: DETAILS
+Line 116: NOTE
+Line 117: WALL TYPE LEGEND REFER DRAWING
+Line 118: ADMIN
+Line 119: COLO
+Line 120: COLO 2
+Line 121: 2
+Line 122: 4
+Line 123: 2
+Line 124: 4
+Line 125: TRUE NORTH
+Line 126: Sheet Title Number
+Line 127: Scale
+Line 128: Plan
+Line 129: Design Consultants
+Line 130: Microsoft
+Line 131: DATA CENTER
+Line 132: SPATA GREECE
+Line 133: Contractor Joint Venture
+Line 134: Name
+Line 135: Contractor Project
+Line 136: Contractor Contract
+Line 137: Contractor PM
+Line 138: Contractor BIM Mngr
+Line 139: Contractor Information
+Line 140: Renco Terna
+Line 141: Client
+Line 142: General Notes
+Line 143: Client Project
+Line 144: Client Contract
+Line 145: Client PM
+Line 146: Client BIM Mngr
+Line 147: Primary Client Information
+Line 148: Layout
+Line 149: Revision
+Line 150: Tombazi Chalandri
+Line 151: 15232
+Line 152: Athens Greece
+Line 153: 0800 3262
+Line 154: Agion Theodoron Square Athens
+Line 155: 10561
+Line 156: Athens Greece
+Line 157: Kimithois Agios Dimitrios
+Line 158: 17236
+Line 159: Athens Greece
+Line 160: Purpose Issue
+Line 161: Issue
+Line 162: Name
+Line 163: BREAKROOM SHEET 2 2
+Line 164: VAP AH
+Line 165: SCALE
+Line 166: BREAKROOM ELEVATION SOUTH
+Line 167: 2
+Line 168: SCALE
+Line 169: BREAKROOM ELEVATION EAST
+Line 170: SCALE
+Line 171: BREAKROOM ELEVATION WEST
+Line 172: 4
+Line 173: 1000
+Line 174: SCALE
+Line 175: SCALE
+Line 176: BREAKROOM ELEVATION NORTH
+Line 177: Date
+Line 178: Description
+Line 179: 05
+Line 180: Issued Approval
+Line 181: HVE JV
+
+=== END OF FILTERED TEXT ===
+Total lines: 182

@@ -1,0 +1,99 @@
+=== FILTERED TEXT FOR: VAP-TW-D321-00.pdf ===
+
+Line   0: Level
+Line   1: Level
+Line   2: Level
+Line   3: Level 2
+Line   4: Level
+Line   5: 4
+Line   6: 2
+Line   7: 4
+Line   8: 2
+Line   9: Detail
+Line  10: Scale 2
+Line  11: Plaster Stop Bead
+Line  12: Galvanized Steel Perimeter Profiles
+Line  13: Plaster Concrete Masonry Wall
+Line  14: Plaster Stop Bead
+Line  15: Galvanized Steel Perimeter Profiles
+Line  16: Plaster Concrete Masonry Wall
+Line  17: Ceiling Recessed Light Tube Fixture
+Line  18: Wood Panel Plywood
+Line  19: Suspension Fitting
+Line  20: Plaster Concrete Masonry Wall
+Line  21: Plaster Concrete Masonry Wall
+Line  22: Plaster Stop Bead
+Line  23: Galvanized Steel Perimeter Profiles
+Line  24: Ceramic Tiles Type 2
+Line  25: Plaster Concrete Masonry Wall
+Line  26: Ventilation Opening
+Line  27: Metal Framing
+Line  28: Gypsumboard
+Line  29: Plaster Stop Bead
+Line  30: Wooden Piece
+Line  31: Plaster Stop Bead
+Line  32: Galvanized Steel Perimeter Profiles
+Line  33: Plaster Concrete Masonry Wall
+Line  34: Ceiling Recessed Light Tube Fixture
+Line  35: Wood Panel Plywood
+Line  36: Suspension Fitting
+Line  37: Plaster Concrete Masonry Wall
+Line  38: Wooden Piece
+Line  39: Ventilation Opening
+Line  40: Metal Framing
+Line  41: Gypsumboard
+Line  42: Plaster Stop Bead
+Line  43: HIGHT 450
+Line  44: Joint Sealant
+Line  45: Light Fixture
+Line  46: Detail
+Line  47: Scale 2
+Line  48: 2
+Line  49: Detail
+Line  50: Scale 2
+Line  51: Detail
+Line  52: Scale 2
+Line  53: 4
+Line  54: Detail
+Line  55: Scale 2
+Line  56: Detail
+Line  57: Scale 2
+Line  58: Detail
+Line  59: Scale 2
+Line  60: Detail
+Line  61: Scale 2
+Line  62: Detail
+Line  63: Scale 2
+Line  64: REVISIONS
+Line  65: CLIENT
+Line  66: PROJECT
+Line  67: DESIGN STAGE
+Line  68: DATE
+Line  69: SCALE
+Line  70: FILE NAME
+Line  71: DRAWING TITLE
+Line  72: DRAWING
+Line  73: TAHLIA WALK
+Line  74: VAPARCHITECTS
+Line  75: Epirou Street
+Line  76: Athens, GR Greece
+Line  77: 3262
+Line  78: 3269
+Line  79: DESIGN ARCHITECTS
+Line  80: CONSULTANTS
+Line  81: STUDIO
+Line  82: Isavron
+Line  83: Lycabettus
+Line  84: Athens, GR 11471 Greece
+Line  85: ZAD DEVELOPMENT
+Line  86: STRUCTURAL ENGINEER
+Line  87: MEP ENGINEER
+Line  88: 01 46 PM
+Line  89: Assemblies
+Line  90: Wall Ceiling
+Line  91: Detail Design
+Line  92: Description
+Line  93: Date
+
+=== END OF FILTERED TEXT ===
+Total lines: 94

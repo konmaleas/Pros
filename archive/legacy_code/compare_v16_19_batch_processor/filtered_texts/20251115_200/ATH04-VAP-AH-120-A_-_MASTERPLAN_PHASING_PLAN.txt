@@ -1,0 +1,95 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-120-A_-_MASTERPLAN_PHASING_PLAN.pdf ===
+
+Line   0: 15000
+Line   1: FUTURE RUBIK SUBSTATION PERMANENT
+Line   2: FUTURE IPTO SUBSTATION
+Line   3: HEDNO MV SWITCHROOMS TEMPORARY
+Line   4: PHASE
+Line   5: PHASE 2
+Line   6: PHASE 2
+Line   7: PHASE 2
+Line   8: PUMP
+Line   9: HOUSE
+Line  10: COMBINED REVERSE
+Line  11: OSMOSIS WATER
+Line  12: TREATMENT
+Line  13: PLANTROOM
+Line  14: FIRE
+Line  15: HYDRANT
+Line  16: TANK
+Line  17: SPRINKLER
+Line  18: TANK
+Line  19: GUARD
+Line  20: HOUSE
+Line  21: BALLARD
+Line  22: BUILDING
+Line  23: ADMIN
+Line  24: BUILDING
+Line  25: UPS
+Line  26: PRIMARY
+Line  27: ENTRANCE
+Line  28: EMERGENCY
+Line  29: VEHICULAR ENTRANCE
+Line  30: PHASING LEGEND
+Line  31: PHASE
+Line  32: PHASE 2
+Line  33: Sheet Title Number
+Line  34: Scale
+Line  35: Plan
+Line  36: Design Consultants
+Line  37: Microsoft
+Line  38: DATA CENTER
+Line  39: SPATA GREECE
+Line  40: Contractor Joint Venture
+Line  41: Name
+Line  42: Contractor Project
+Line  43: Contractor Contract
+Line  44: Contractor PM
+Line  45: Contractor BIM Mngr
+Line  46: Contractor Information
+Line  47: Renco Terna
+Line  48: Client
+Line  49: General Notes
+Line  50: Client Project
+Line  51: Client Contract
+Line  52: Client PM
+Line  53: Client BIM Mngr
+Line  54: Primary Client Information
+Line  55: Layout
+Line  56: Revision
+Line  57: Tombazi Chalandri
+Line  58: 15232
+Line  59: Athens Greece
+Line  60: 0800 3262
+Line  61: Agion Theodoron Square Athens
+Line  62: 10561
+Line  63: Athens Greece
+Line  64: Kimithois Agios Dimitrios
+Line  65: 17236
+Line  66: Athens Greece
+Line  67: Purpose Issue
+Line  68: Issue
+Line  69: Name
+Line  70: MASTERPLAN PHASING PLAN
+Line  71: VAP AH
+Line  72: SCALE
+Line  73: MASTERPLAN PHASING
+Line  74: 12500
+Line  75: 25000
+Line  76: SCALE
+Line  77: ADMIN
+Line  78: COLO
+Line  79: COLO 2
+Line  80: 2
+Line  81: 4
+Line  82: 2
+Line  83: 4
+Line  84: TRUE NORTH
+Line  85: Date
+Line  86: Description
+Line  87: 04
+Line  88: Issued Approval
+Line  89: VAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 90

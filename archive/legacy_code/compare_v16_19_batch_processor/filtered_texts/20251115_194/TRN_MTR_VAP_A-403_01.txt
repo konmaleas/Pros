@@ -1,0 +1,115 @@
+=== FILTERED TEXT FOR: TRN_MTR_VAP_A-403_01.pdf ===
+
+Line   0: ΟΡΟΦΟΣ
+Line   1: 6730
+Line   2: ΟΡΟΦΟΣ
+Line   3: 9910
+Line   4: ΟΡΟΦΟΣ
+Line   5: 13010
+Line   6: ΟΡΟΦΟΣ
+Line   7: 16000
+Line   8: ΟΡΟΦΟΣ
+Line   9: 19360
+Line  10: ΙΣΟΓΕΙΟ 2
+Line  11: 3760
+Line  12: 2060
+Line  13: ΙΣΟΓΕΙΟ
+Line  14: ΕΠΙΠΕΔΟ
+Line  15: 3090
+Line  16: ΕΠΙΠΕΔΟ 2
+Line  17: 5390
+Line  18: 2
+Line  19: 2
+Line  20: 2
+Line  21: ΥΠΕΡΔΩΜΑ
+Line  22: 25390
+Line  23: 2
+Line  24: 2
+Line  25: ΓΡΑΜΜΗ ΦΥΣΙΚΟ
+Line  26: ΣΤΑΘΜΗ
+Line  27: ΣΤΑΘΜΗ
+Line  28: 3050
+Line  29: 3050
+Line  30: 3050
+Line  31: 2625
+Line  32: 6640
+Line  33: 1010
+Line  34: Εµφανές Σκυρόδεµα
+Line  35: ΥΠΟΜΝΗΜΑ
+Line  36: Επίχρισµα
+Line  37: 2
+Line  38: Ενεργειακά Κουφώµατα
+Line  39: Μεταλλική Πέργκολα
+Line  40: 4
+Line  41: Λορίδες Αλουµινίου
+Line  42: Μεταλλική Πλέγµα
+Line  43: ΚΛΙΜΑΚΑ
+Line  44: SCALE
+Line  45: ΕΡΓΟ
+Line  46: ΗΜΕΡΟΜΗΝΙΑ
+Line  47: FIRST ISSUE DATE
+Line  48: ΠΕΡΙΟΧΗ
+Line  49: ZONE
+Line  50: ISSUED
+Line  51: CONSTRUCTION
+Line  52: APPROVAL
+Line  53: TENDER
+Line  54: STATUS
+Line  55: DRAFT
+Line  56: FINAL
+Line  57: DISCIPLINE
+Line  58: ARC
+Line  59: ΑΝΑΘ.
+Line  60: REV.
+Line  61: VAP
+Line  62: PROJECT
+Line  63: DRAWING
+Line  64: CLIENT
+Line  65: Τοµπάζη Χαλάνδρι, 15332
+Line  66: 3262 3269
+Line  67: KEY PLAN
+Line  68: ΠΡΟΕΓΚΡΙΣΗ ΓΙΑ ΕΣΩΤΕΡΙΚΕΣ ΣΕ
+Line  69: ΥΦΙΣΤΑΜΕΝO ΚΤΙΡΙΟ ΓΡΑΦΕΙΩΝ ΧΩΡΙΣ
+Line  70: ΜΕΤΑΒΟΛΗ ΦΟΡΤΙΩΝ, ΠΡΟΣΘΗΚΗ
+Line  71: ΑΝΕΛΚΥΣΤΗΡΑ ΑΜΕΑ, ΕΠΕΜΒΑΣΕΙΣ ΣΤΙΣ ΟΨΕΙΣ
+Line  72: ΜΕ ΧΡΗΣΗ ΙΚΡΙΩΜΑΤΩΝ, ΕΓΚΑΤΑΣΤΑΣΗ
+Line  73: ΦΩΤΟΒΟΛΤΑΪΚΩΝ ΣΥΣΤΗΜΑΤΩΝ, ΠΡΟΣΘΗΚΗ
+Line  74: ΣΤΕΓΑΣΤΡΟΥ ΣΤΟ
+Line  75: ΑΚΑΛΥΠΤΟΥ ΧΩΡΟΥ ΚΑΙ ΟΠΗ ΠΛΑΚΑΣ ΓΙΑ ΤΗ
+Line  76: ΣΤΑΣΗΣ ΚΛΙΜΑΚΟΣΤΑΣΙΟΥ
+Line  77: ΘΕΣΗ
+Line  78: LOCATION
+Line  79: ΜΕΣΟΓΕΙΩΝ ΚΑΙ ΤΡΙΚΑΛΩΝ
+Line  80: ΑΜΠΕΛΟΚΗΠΟΙ ΑΘΗΝΑΙΩΝ 80077
+Line  81: ΑΡΧΙΤΕΚΤΟΝIKH ΜΕΛΕΤΗ
+Line  82: ARCHITECTURAL DESIGN
+Line  83: ΣΤΑΤΙΚΗ ΜΕΛΕΤΗ
+Line  84: STRUCTURAL DESIGN
+Line  85: ΜΗΧΑΝΟΛΟΓΙΚΗ ΜΕΛΕΤΗ
+Line  86: MEP DESIGN
+Line  87: Λεωφ. Αναγυρούντος 16672, Βάρη
+Line  88: 4395 4637
+Line  89: NSZ
+Line  90: Φιλολάου Ηλιούπουλη
+Line  91: ΜΕΛΕΤΗ
+Line  92: STUDY
+Line  93: STAGE
+Line  94: ΜΕΛΕΤΗΤΗ
+Line  95: DESIGNER STAMP
+Line  96: ΕΤΑΙΡΕΙΑΣ
+Line  97: COMPANY STAMP
+Line  98: ΚΗΜ ΕΜΜΑΝΟΥΗΛ ΤΣΕΚΟΥΡΑΣ
+Line  99: ΛΙΘΟΣ ΣΥΜΒΟΥΛΟΙ ΜΗΧΑΝΙΚΟΙ
+Line 100: VASSILIS ALEXANDROS POUTETSIS
+Line 101: ARCHITECTS ASSOCIATES IKE
+Line 102: ΟΨΗ ΑΚΑΛΥΠΤΟΥ
+Line 103: 08 06
+Line 104: 403
+Line 105: ΑΝΑΘΕΩΡΗΣΕΙΣ
+Line 106: ΠΕΡΙΓΡΑΦΗ DESCRIPTION
+Line 107: ΗΜ ΝΙΑ DATE
+Line 108: ΠΡΩΤΗ ΥΠΟΒΟΛΗ
+Line 109: 08 06 2021
+
+=== END OF FILTERED TEXT ===
+Total lines: 110

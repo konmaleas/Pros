@@ -1,0 +1,119 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-810-0A_-_HIGH_VALUE_STORAGE_SHEET_1_OF_2.pdf ===
+
+Line   0: HIGH VALUE
+Line   1: STORAGE
+Line   2: 00 046
+Line   3: SECURITY CAGE WALL SYSTEM
+Line   4: POWER FLOATED
+Line   5: CONCRETE SEALED
+Line   6: ASHFORD FORMULA SEALER
+Line   7: 3595
+Line   8: 9195
+Line   9: 1281
+Line  10: 1281
+Line  11: 1281
+Line  12: 1281
+Line  13: 1281
+Line  14: 1281
+Line  15: 1310
+Line  16: 3820
+Line  17: INTERIOR STEEL FRAME
+Line  18: FIXED WINDOW ACHIEVE
+Line  19: ACOUSTIC FIRE REI
+Line  20: RATING
+Line  21: 1050
+Line  22: 1050
+Line  23: 1050
+Line  24: ID AD 051
+Line  25: NOTE
+Line  26: WALL TYPE LEGEND DRAWING
+Line  27: ADMIN
+Line  28: COLO
+Line  29: COLO 2
+Line  30: 2
+Line  31: 4
+Line  32: 2
+Line  33: 4
+Line  34: TRUE NORTH
+Line  35: Sheet Title Number
+Line  36: Scale
+Line  37: Plan
+Line  38: Design Consultants
+Line  39: Microsoft
+Line  40: DATA CENTER
+Line  41: SPATA GREECE
+Line  42: Contractor Joint Venture
+Line  43: Name
+Line  44: Contractor Project
+Line  45: Contractor Contract
+Line  46: Contractor PM
+Line  47: Contractor BIM Mngr
+Line  48: Contractor Information
+Line  49: Renco Terna
+Line  50: Client
+Line  51: General Notes
+Line  52: Client Project
+Line  53: Client Contract
+Line  54: Client PM
+Line  55: Client BIM Mngr
+Line  56: Primary Client Information
+Line  57: Layout
+Line  58: Revision
+Line  59: Tombazi Chalandri
+Line  60: 15232
+Line  61: Athens Greece
+Line  62: 0800 3262
+Line  63: Agion Theodoron Square Athens
+Line  64: 10561
+Line  65: Athens Greece
+Line  66: Kimithois Agios Dimitrios
+Line  67: 17236
+Line  68: Athens Greece
+Line  69: Purpose Issue
+Line  70: Issue
+Line  71: Name
+Line  72: HIGH VALUE STORAGE SHEET
+Line  73: 2
+Line  74: VAP AH
+Line  75: SCALE
+Line  76: 08 HIGH VALUE STORAGE FLOOR PLAN
+Line  77: SCALE
+Line  78: 08 HIGH VALUE STORAGE VIEW
+Line  79: 1000
+Line  80: SCALE
+Line  81: EQUIPMENT SCHEDULE HIGH VALUE STORAGE
+Line  82: Count
+Line  83: CODE
+Line  84: Description
+Line  85: Room Name
+Line  86: Room Number
+Line  87: TASK CHAIR LUMBAR SUPPORT
+Line  88: ARMS
+Line  89: HIGH VALUE
+Line  90: STORAGE
+Line  91: 00 046
+Line  92: CPU HOLDER
+Line  93: HIGH VALUE
+Line  94: STORAGE
+Line  95: 00 046
+Line  96: 1600 HEIGHT ADJUSTABLE
+Line  97: RECTANGULAR DESK
+Line  98: HIGH VALUE
+Line  99: STORAGE
+Line 100: 00 046
+Line 101: 1800 BULK RACK
+Line 102: HIGH VALUE
+Line 103: STORAGE
+Line 104: 00 046
+Line 105: BULK RACK 400
+Line 106: HIGH VALUE
+Line 107: STORAGE
+Line 108: 00 046
+Line 109: Date
+Line 110: Description
+Line 111: 04
+Line 112: Issued Approval
+Line 113: VAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 114

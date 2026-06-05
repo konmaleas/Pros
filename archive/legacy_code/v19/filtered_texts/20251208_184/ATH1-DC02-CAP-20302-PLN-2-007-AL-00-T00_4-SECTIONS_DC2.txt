@@ -1,0 +1,97 @@
+=== FILTERED TEXT FOR: ATH1-DC02-CAP-20302-PLN-2-007-AL-00-T00_4-SECTIONS_DC2.pdf ===
+
+Line   0: GROUND FLOOR
+Line   1: FIRST FLOOR
+Line   2: ROOF TOP
+Line   3: WS
+Line   4: CENTRAL
+Line   5: CORRIDOR
+Line   6: FW
+Line   7: CORRIDOR 2
+Line   8: SECTION
+Line   9: WS
+Line  10: CENTRAL
+Line  11: CORRIDOR
+Line  12: FW
+Line  13: CORRIDOR 2
+Line  14: 2
+Line  15: GROUND FLOOR
+Line  16: FIRST FLOOR
+Line  17: ROOF TOP
+Line  18: CENTRAL
+Line  19: CORRIDOR
+Line  20: STR
+Line  21: SOC
+Line  22: 2
+Line  23: SECTION
+Line  24: CENTRAL
+Line  25: CORRIDOR
+Line  26: GROUND FLOOR
+Line  27: FIRST FLOOR
+Line  28: ROOF TOP
+Line  29: Version
+Line  30: Date
+Line  31: Review
+Line  32: Designer
+Line  33: Auditor
+Line  34: Approver
+Line  35: Paper Size
+Line  36: SCALE
+Line  37: ATH1 CAP 20302 PLN 2 007 AL 00 SECTIONS
+Line  38: 20302
+Line  39: PP Model Name
+Line  40: ORGANDI
+Line  41: Esplanade Miriam Makeba
+Line  42: Gerda Taro
+Line  43: 69100 VILLEURBANNE France
+Line  44: 40 00 70
+Line  45: Internet
+Line  46: SECTIONS
+Line  47: ATH1
+Line  48: PROJECT
+Line  49: RIBA
+Line  50: TRADE
+Line  51: AUTHOR
+Line  52: LEVEL
+Line  53: CAP TRADE
+Line  54: TYPE
+Line  55: DOC.
+Line  56: VERSION
+Line  57: 2
+Line  58: 20302
+Line  59: CAP
+Line  60: AL
+Line  61: PLN
+Line  62: 007
+Line  63: 00
+Line  64: SITE
+Line  65: ATH
+Line  66: Kifissias Avenue
+Line  67: GR 15125, MAROUSSI Greece
+Line  68: 4463 1552
+Line  69: Anagirountos
+Line  70: Vari 16672, Greece
+Line  71: Telephone 9654
+Line  72: Email
+Line  73: PAIANIA
+Line  74: GREECE
+Line  75: MODEL NAME
+Line  76: REFERENCE
+Line  77: FILE NAME
+Line  78: TRADE
+Line  79: ARCHITECTURE
+Line  80: Tombazi
+Line  81: Chalandri, 15232
+Line  82: Athens, Greece
+Line  83: 0800 3262
+Line  84: Thivaidos Street
+Line  85: GR Kifissia,
+Line  86: CAP TRADE General
+Line  87: 03 2025
+Line  88: First Submission
+Line  89: VAP
+Line  90: VAP
+Line  91: CAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 92

@@ -1,0 +1,16 @@
+=== FILTERED TEXT FOR: Λ421-00.pdf ===
+
+Line   0: 70
+Line   1: 70
+Line   2: 40
+Line   3: 2017
+Line   4: 05
+Line   5: 04
+Line   6: 03
+Line   7: 02
+Line   8: 01
+Line   9: 10439
+Line  10: 2017
+
+=== END OF FILTERED TEXT ===
+Total lines: 11

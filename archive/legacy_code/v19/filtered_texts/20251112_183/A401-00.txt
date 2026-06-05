@@ -1,0 +1,45 @@
+=== FILTERED TEXT FOR: A401-00.pdf ===
+
+Line   0: Ceiling Ground
+Line   1: Floor
+Line   2: Level First Floor
+Line   3: NGL
+Line   4: Level
+Line   5: Level
+Line   6: REVISIONS
+Line   7: CLIENT
+Line   8: PROJECT
+Line   9: DESIGN STAGE
+Line  10: DATE
+Line  11: SCALE
+Line  12: FILE NAME
+Line  13: DRAWING TITLE
+Line  14: DRAWING
+Line  15: TAHLIA WALK
+Line  16: VAPARCHITECTS
+Line  17: Epirou Street
+Line  18: Athens, GR Greece
+Line  19: 3262
+Line  20: 3269
+Line  21: DESIGN ARCHITECTS
+Line  22: STRUCTURAL ENGINEER
+Line  23: CONSULTANTS
+Line  24: MEP ENGINEER
+Line  25: STUDIO
+Line  26: Isavron
+Line  27: Lycabettus
+Line  28: Athens, GR 11471 Greece
+Line  29: ZAD DEVELOPMENT
+Line  30: PM
+Line  31: Elevations
+Line  32: Project Status
+Line  33: North West Elevation
+Line  34: 1602 TW 00
+Line  35: South East Elevation
+Line  36: Description
+Line  37: Date
+Line  38: First
+Line  39: 06
+
+=== END OF FILTERED TEXT ===
+Total lines: 40

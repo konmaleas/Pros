@@ -1,0 +1,182 @@
+from text_processor import TextProcessor
+from text_extractor import TextExtractor
+from dataclasses import dataclass, field
+from pathlib import Path
+from typing import List, Dict, Tuple
+from collections import Counter
+import fitz  # PyMuPDF
+
+
+@dataclass
+class FrequencyAnalyzer:
+    """
+    Stage 2: Frequency analysis on processed text lines.
+
+    Consolidates frequency counting from both TitleSearch and FrequencyBasedFilter.
+    """
+
+    # Core frequency data - initialized as empty
+    word_frequencies: Dict[str, int] = field(default_factory=dict)
+    chunk_line_positions: Dict[str, List[int]] = field(default_factory=dict)
+
+    # Analysis metadata
+    total_lines: int = 0
+    total_unique_words: int = 0
+
+    def analyze_text_frequencies(self, text_lines: List[List[str]]) -> Dict:
+        """
+        Analyze frequency patterns in processed text lines.
+
+        Args:
+            text_lines: Output from TextProcessor.process_text_to_lines()
+
+        Returns:
+            Dict containing all frequency analysis results
+        """
+        # Reset state for new analysis
+        self.word_frequencies.clear()
+        self.chunk_line_positions.clear()
+        self.total_lines = len(text_lines)
+
+        # Process each line and collect frequency data
+        for line_num, words in enumerate(text_lines):
+            for word in words:
+                # Count word frequencies
+                if word in self.word_frequencies:
+                    self.word_frequencies[word] += 1
+                else:
+                    self.word_frequencies[word] = 1
+
+                # Track line positions for each word
+                if word in self.chunk_line_positions:
+                    self.chunk_line_positions[word].append(line_num)
+                else:
+                    self.chunk_line_positions[word] = [line_num]
+
+        self.total_unique_words = len(self.word_frequencies)
+
+        return self.get_frequency_analysis()
+
+    def get_frequency_analysis(self) -> Dict:
+        """Get complete frequency analysis results."""
+        return {'word_frequencies': self.word_frequencies,
+                'chunk_line_positions': self.chunk_line_positions,
+                'total_lines': self.total_lines,
+                'total_unique_words': self.total_unique_words,
+                'sorted_by_frequency': self.get_sorted_by_frequency(),
+                'high_frequency_words': self.get_high_frequency_words(), }
+
+    def get_sorted_by_frequency(self, reverse: bool = True) -> List[Tuple[str, int]]:
+        """Get words sorted by frequency."""
+        return sorted(self.word_frequencies.items(), key=lambda x: x[1], reverse=reverse)
+
+    def get_high_frequency_words(self, threshold: int = 10) -> Dict[str, int]:
+        """Get words above frequency threshold."""
+        return {word: freq for word, freq in self.word_frequencies.items() if freq >= threshold}
+
+    def get_title_chunk_frequencies(self, title_chunks: List[str]) -> Dict[str, int]:
+        """Get frequencies specifically for title chunks."""
+        return {chunk: self.word_frequencies.get(chunk, 0) for chunk in title_chunks}
+
+    def get_title_chunk_positions(self, title_chunks: List[str]) -> Dict[str, List[int]]:
+        """Get line positions specifically for title chunks."""
+        return {chunk: self.chunk_line_positions.get(chunk, []) for chunk in title_chunks}
+
+    def calculate_noise_threshold(self, title_chunks: List[str], buffer: int = 2) -> int:
+        """
+        Calculate noise threshold based on title chunk frequencies.
+
+        This replaces the threshold calculation in FrequencyBasedFilter.
+        """
+        title_frequencies = [self.word_frequencies.get(chunk, 0) for chunk in title_chunks]
+        max_title_freq = max(title_frequencies) if title_frequencies else 0
+        return max_title_freq + buffer
+
+    def meets_operation_criteria(self, word: str, target_count: int, operation: str) -> bool:
+        """
+        Check if word frequency meets operation criteria.
+
+        Replaces the operation logic from TitleSearch.chunks_analysis method.
+        """
+        freq = self.word_frequencies.get(word, 0)
+
+        operations_map = {'>=': freq >= target_count,
+                          '>': freq > target_count,
+                          '==': freq == target_count,
+                          '<=': freq <= target_count,
+                          '<': freq < target_count}
+
+        if operation not in operations_map:
+            raise ValueError(f"Unsupported operation: {operation}")
+
+        return operations_map[operation]
+
+
+# # Utility functions for pipeline composition
+# def extract_and_process(file_path: Path) -> Tuple[str, List[List[str]]]:
+#     """
+#     Run Stages 1A and 1B together.
+#
+#     Returns:
+#         Tuple of (raw_text, processed_lines)
+#     """
+#     # Stage 1A: Extract raw text
+#     raw_text = TextExtractor.extract_raw_text(file_path)
+#
+#     # Stage 1B: Process to clean lines
+#     processed_lines = TextProcessor.process_text_to_lines(raw_text)
+#
+#     return raw_text, processed_lines
+#
+#
+# def full_text_analysis(file_path: Path) -> Tuple[List[List[str]], Dict]:
+#     """
+#     Run Stages 1A, 1B, and 2 together.
+#
+#     Returns:
+#         Tuple of (processed_lines, frequency_analysis)
+#     """
+#     # Stages 1A & 1B
+#     raw_text, processed_lines = extract_and_process(file_path)
+#
+#     # Stage 2: Frequency analysis
+#     analyzer = FrequencyAnalyzer()
+#     frequency_data = analyzer.analyze_text_frequencies(processed_lines)
+#
+#     return processed_lines, frequency_data
+#
+#
+# def get_filtering_data(file_path: Path, title: str) -> Dict:
+#     """
+#     Get all data needed for Stage 3 (AdaptiveFilter).
+#
+#     This breaks the circular dependency by providing complete frequency analysis
+#     BEFORE any content filtering is applied.
+#
+#     Args:
+#         file_path: Path to PDF file
+#         title: Document title (e.g., "4005-RES-VAP-DWG-233-IC-07020-0")
+#
+#     Returns:
+#         Dict with all data needed for intelligent filtering
+#     """
+#     # Run complete analysis (Stages 1A, 1B, 2)
+#     processed_lines, frequency_data = full_text_analysis(file_path)
+#
+#     # Extract title chunks for title-specific analysis
+#     title_chunks = title.split('-')  # Could use TitleAnalysis for more sophisticated parsing
+#
+#     # Create analyzer instance to access title-specific methods
+#     analyzer = FrequencyAnalyzer()
+#     analyzer.word_frequencies = frequency_data['word_frequencies']
+#     analyzer.chunk_line_positions = frequency_data['chunk_line_positions']
+#
+#     # Return comprehensive filtering data
+#     return {'processed_lines': processed_lines, 'title_chunks': title_chunks,
+#             'title_chunk_frequencies': analyzer.get_title_chunk_frequencies(title_chunks),
+#             'title_chunk_positions': analyzer.get_title_chunk_positions(title_chunks),
+#             'noise_threshold': analyzer.calculate_noise_threshold(title_chunks),
+#             'all_word_frequencies': frequency_data['word_frequencies'],
+#             'high_frequency_words': frequency_data['high_frequency_words'],
+#             'total_lines': frequency_data['total_lines'],
+#             'total_unique_words': frequency_data['total_unique_words']}

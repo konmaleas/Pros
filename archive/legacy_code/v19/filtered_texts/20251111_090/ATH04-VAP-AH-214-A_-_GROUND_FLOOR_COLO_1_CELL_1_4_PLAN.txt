@@ -1,0 +1,417 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-214-A_-_GROUND_FLOOR_COLO_1_CELL_1_4_PLAN.pdf ===
+
+Line   0: GLAND
+Line   1: PLATE
+Line   2: BMS GLAND
+Line   3: PLATE
+Line   4: VENTILATION COWL
+Line   5: GLAND
+Line   6: PLATE
+Line   7: GLAND
+Line   8: PLATE
+Line   9: GLAND
+Line  10: PLATE
+Line  11: GLAND
+Line  12: PLATE
+Line  13: GLAND
+Line  14: PLATE
+Line  15: GLAND
+Line  16: PLATE
+Line  17: GLAND
+Line  18: PLATE
+Line  19: VENTILATION COWL
+Line  20: GLA ND
+Line  21: LA TE
+Line  22: MS
+Line  23: LA TE
+Line  24: GLA ND
+Line  25: LA TE
+Line  26: GLA ND
+Line  27: LA TE
+Line  28: GLA ND
+Line  29: LA TE
+Line  30: MS
+Line  31: LA TE
+Line  32: GLA ND
+Line  33: LA TE
+Line  34: GLA ND
+Line  35: LA TE
+Line  36: GLA ND
+Line  37: LA TE
+Line  38: MS
+Line  39: LA TE
+Line  40: GLA ND
+Line  41: LA TE
+Line  42: GLA ND
+Line  43: LA TE
+Line  44: GLAND
+Line  45: PLATE
+Line  46: BMS GLAND
+Line  47: PLATE
+Line  48: VENTILATION COWL
+Line  49: GLAND
+Line  50: PLATE
+Line  51: GLAND
+Line  52: PLATE
+Line  53: GLAND
+Line  54: PLATE
+Line  55: GLAND
+Line  56: PLATE
+Line  57: GLAND
+Line  58: PLATE
+Line  59: GLAND
+Line  60: PLATE
+Line  61: GLAND
+Line  62: PLATE
+Line  63: VENTILATION COWL
+Line  64: GLAND
+Line  65: PLATE
+Line  66: BMS
+Line  67: PLATE
+Line  68: GLAND
+Line  69: PLATE
+Line  70: GLAND
+Line  71: PLATE
+Line  72: GLAND
+Line  73: PLATE
+Line  74: BMS
+Line  75: PLATE
+Line  76: GLAND
+Line  77: PLATE
+Line  78: GLAND
+Line  79: PLATE
+Line  80: GLAND
+Line  81: PLATE
+Line  82: BMS
+Line  83: PLATE
+Line  84: GLAND
+Line  85: PLATE
+Line  86: GLAND
+Line  87: PLATE
+Line  88: GLAND
+Line  89: PLATE
+Line  90: BMS GLAND
+Line  91: PLATE
+Line  92: VENTILATION COWL
+Line  93: GLAND
+Line  94: PLATE
+Line  95: GLAND
+Line  96: PLATE
+Line  97: GLAND
+Line  98: PLATE
+Line  99: GLAND
+Line 100: PLATE
+Line 101: GLAND
+Line 102: PLATE
+Line 103: GLAND
+Line 104: PLATE
+Line 105: GLAND
+Line 106: PLATE
+Line 107: VENTILATION COWL
+Line 108: GLA ND
+Line 109: LA TE
+Line 110: MS
+Line 111: LA TE
+Line 112: GLA ND
+Line 113: LA TE
+Line 114: GLA ND
+Line 115: LA TE
+Line 116: GLA ND
+Line 117: LA TE
+Line 118: MS
+Line 119: LA TE
+Line 120: GLA ND
+Line 121: LA TE
+Line 122: GLA ND
+Line 123: LA TE
+Line 124: GLA ND
+Line 125: LA TE
+Line 126: MS
+Line 127: LA TE
+Line 128: GLA ND
+Line 129: LA TE
+Line 130: GLA ND
+Line 131: LA TE
+Line 132: GLAND
+Line 133: PLATE
+Line 134: BMS GLAND
+Line 135: PLATE
+Line 136: VENTILATION COWL
+Line 137: GLAND
+Line 138: PLATE
+Line 139: GLAND
+Line 140: PLATE
+Line 141: GLAND
+Line 142: PLATE
+Line 143: GLAND
+Line 144: PLATE
+Line 145: GLAND
+Line 146: PLATE
+Line 147: GLAND
+Line 148: PLATE
+Line 149: GLAND
+Line 150: PLATE
+Line 151: VENTILATION COWL
+Line 152: GLAND
+Line 153: PLATE
+Line 154: BMS
+Line 155: PLATE
+Line 156: GLAND
+Line 157: PLATE
+Line 158: GLAND
+Line 159: PLATE
+Line 160: GLAND
+Line 161: PLATE
+Line 162: BMS
+Line 163: PLATE
+Line 164: GLAND
+Line 165: PLATE
+Line 166: GLAND
+Line 167: PLATE
+Line 168: GLAND
+Line 169: PLATE
+Line 170: BMS
+Line 171: PLATE
+Line 172: GLAND
+Line 173: PLATE
+Line 174: GLAND
+Line 175: PLATE
+Line 176: MS
+Line 177: LA TE
+Line 178: GLA ND
+Line 179: LA TE
+Line 180: BMS
+Line 181: PLATE
+Line 182: GLAND
+Line 183: PLATE
+Line 184: WP
+Line 185: WP
+Line 186: WP
+Line 187: WP
+Line 188: WP
+Line 189: WP
+Line 190: WP
+Line 191: WP
+Line 192: WP
+Line 193: WP
+Line 194: WP
+Line 195: WP
+Line 196: WP
+Line 197: WP
+Line 198: WP
+Line 199: WP
+Line 200: WP
+Line 201: ZF
+Line 202: ZA
+Line 203: YF
+Line 204: YE
+Line 205: YD
+Line 206: YC
+Line 207: YB
+Line 208: YA
+Line 209: XF
+Line 210: A
+Line 211: XA
+Line 212: COLO
+Line 213: CELL
+Line 214: ATH04 00
+Line 215: COLO
+Line 216: CELL
+Line 217: ATH04 00
+Line 218: COLO
+Line 219: MECHANICAL
+Line 220: GALLERY
+Line 221: ATH04 00
+Line 222: COLO
+Line 223: COLD
+Line 224: WATER
+Line 225: VALVE
+Line 226: ROOM
+Line 227: ATH04 00
+Line 228: COLO
+Line 229: SPRINKLER
+Line 230: VALVE
+Line 231: ROOM
+Line 232: ATH04 00
+Line 233: OVERHEAD
+Line 234: WALKWAY
+Line 235: EXTENT
+Line 236: OVERHEAD WALKWAY EXTENT
+Line 237: COLO
+Line 238: ELEC
+Line 239: ATH04 00
+Line 240: COLO
+Line 241: ELEC
+Line 242: ATH04 00
+Line 243: COLO
+Line 244: ATH04 00
+Line 245: COLO
+Line 246: ATH04 00
+Line 247: COLO
+Line 248: ATH04 00
+Line 249: COLO
+Line 250: ATH04 00
+Line 251: COLO
+Line 252: ELEC
+Line 253: ATH04 00
+Line 254: COLO
+Line 255: LOBBY
+Line 256: ATH04 00
+Line 257: COLO
+Line 258: LOBBY
+Line 259: ATH04 00
+Line 260: COLO
+Line 261: LOBBY
+Line 262: ATH04 00
+Line 263: COLO
+Line 264: LOBBY
+Line 265: ATH04 00
+Line 266: COLO
+Line 267: LOBBY
+Line 268: ATH04 00
+Line 269: COLO
+Line 270: LOBBY
+Line 271: ATH04 00
+Line 272: COLO
+Line 273: ELEC
+Line 274: ATH04 00
+Line 275: RWP
+Line 276: Indicated
+Line 277: COLO
+Line 278: MECHANICAL
+Line 279: GALLERY
+Line 280: ATH04 00
+Line 281: COLO
+Line 282: MECHANICAL
+Line 283: GALLERY
+Line 284: ATH04 00
+Line 285: 29350
+Line 286: COLO
+Line 287: CELL
+Line 288: ATH04 00
+Line 289: 2202
+Line 290: FIRE
+Line 291: ESCAPE
+Line 292: CORRIDOR
+Line 293: ATH04 00 019
+Line 294: BREAK
+Line 295: ROOM
+Line 296: ATH04 00 017
+Line 297: STORAGE
+Line 298: ATH04 00 018
+Line 299: MMR
+Line 300: ATH04 00 020
+Line 301: FCR
+Line 302: ATH04 00 022
+Line 303: SER
+Line 304: ATH04 00 023
+Line 305: ELEC ROOM
+Line 306: ATH04 00 024
+Line 307: CABLE
+Line 308: STORAGE
+Line 309: ATH04 00 041
+Line 310: GENERAL
+Line 311: STORAGE
+Line 312: ATH04 00 042
+Line 313: CE
+Line 314: WORKSHOP
+Line 315: ATH04 00 043
+Line 316: MMR
+Line 317: ATH04 00 053
+Line 318: FIRE
+Line 319: ESCAPE
+Line 320: CORRIDOR
+Line 321: ATH04 00 052
+Line 322: COLO
+Line 323: CELL
+Line 324: ATH04 00
+Line 325: COLO
+Line 326: MECHANICAL
+Line 327: GALLERY
+Line 328: ATH04 00
+Line 329: COLO
+Line 330: STORE
+Line 331: ATH04 00 056
+Line 332: UNISEX WC
+Line 333: ATH04 00 039
+Line 334: 5610
+Line 335: 2280
+Line 336: 2070
+Line 337: 5360
+Line 338: 29420
+Line 339: COLO
+Line 340: GALLERY
+Line 341: LOBBY
+Line 342: ATH04 00
+Line 343: COLO
+Line 344: GALLERY
+Line 345: LOBBY
+Line 346: ATH04 00
+Line 347: CAT LADDER
+Line 348: CAT LADDER
+Line 349: GRD LEVEL
+Line 350: RAB LEVEL
+Line 351: CAT LADDER
+Line 352: GRD LEVEL RAB
+Line 353: LEVEL
+Line 354: MJ
+Line 355: MJ
+Line 356: ADMIN
+Line 357: COLO
+Line 358: COLO
+Line 359: TRUE NORTH
+Line 360: Sheet Title Number
+Line 361: Scale
+Line 362: Plan
+Line 363: Design Consultants
+Line 364: Microsoft
+Line 365: DATA CENTER ATH04
+Line 366: SPATA GREECE
+Line 367: Contractor Joint Venture
+Line 368: Name
+Line 369: Contractor Project
+Line 370: Contractor Contract
+Line 371: Contractor PM
+Line 372: Contractor BIM Mngr
+Line 373: Contractor Information
+Line 374: Renco Terna
+Line 375: Client
+Line 376: General Notes
+Line 377: Client Project
+Line 378: Client Contract
+Line 379: Client PM
+Line 380: Client BIM Mngr
+Line 381: Primary Client Information
+Line 382: Layout
+Line 383: Revision
+Line 384: Tombazi Chalandri
+Line 385: 15232
+Line 386: Athens Greece
+Line 387: 0800 3262
+Line 388: Agion Theodoron Square Athens
+Line 389: 10561
+Line 390: Athens Greece
+Line 391: Kimithois Agios Dimitrios
+Line 392: 17236
+Line 393: Athens Greece
+Line 394: Purpose Issue
+Line 395: Issue
+Line 396: Name
+Line 397: A
+Line 398: GROUND FLOOR COLO CELL
+Line 399: PLAN
+Line 400: ATH04 VAP AH A
+Line 401: SCALE
+Line 402: 2500
+Line 403: 5000
+Line 404: SCALE
+Line 405: GROUND FLOOR COLO CELLS PLAN
+Line 406: Date
+Line 407: Description
+Line 408: A
+Line 409: 04
+Line 410: Issued Approval
+Line 411: VAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 412

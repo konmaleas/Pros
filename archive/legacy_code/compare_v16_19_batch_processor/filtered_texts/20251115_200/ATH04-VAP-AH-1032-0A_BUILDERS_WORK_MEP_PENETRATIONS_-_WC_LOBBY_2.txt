@@ -1,0 +1,199 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-1032-0A_BUILDERS_WORK_MEP_PENETRATIONS_-_WC_LOBBY_2.pdf ===
+
+Line   0: 2
+Line   1: 1010
+Line   2: 4
+Line   3: 1010
+Line   4: 1032
+Line   5: 2
+Line   6: 1032
+Line   7: 1032
+Line   8: 1032
+Line   9: 1032
+Line  10: 1032
+Line  11: 1032
+Line  12: SHWR
+Line  13: CHANGE
+Line  14: 00 028
+Line  15: LOBBY
+Line  16: 00 027
+Line  17: 1032
+Line  18: 4
+Line  19: LOBBY
+Line  20: 00 025
+Line  21: WC
+Line  22: 00 026
+Line  23: LOBBY
+Line  24: 00 029
+Line  25: WC
+Line  26: 00 030
+Line  27: WC
+Line  28: 00 031
+Line  29: 1010
+Line  30: 1032
+Line  31: 1010
+Line  32: CEILING LEVEL
+Line  33: MP AD 028 01
+Line  34: 700
+Line  35: GL
+Line  36: CEILING LEVEL
+Line  37: SHWR
+Line  38: CHANGE
+Line  39: 00 028
+Line  40: CEILING LEVEL
+Line  41: SHWR
+Line  42: CHANGE
+Line  43: 00 028
+Line  44: LOBBY
+Line  45: 00 027
+Line  46: MP AD 026 01
+Line  47: 3670
+Line  48: MEP PENETRATIONS CODE
+Line  49: MP AD XXX XX
+Line  50: MP
+Line  51: MEP PENETRATIONS
+Line  52: AD
+Line  53: BUILDING CODE
+Line  54: XXX
+Line  55: ROOM NUMBER
+Line  56: XX
+Line  57: PENETRATION NUMBER
+Line  58: GL
+Line  59: CEILING LEVEL
+Line  60: MP AD 027 01
+Line  61: MP AD 026 08
+Line  62: MP AD 029 04
+Line  63: MP AD 026 09
+Line  64: MP AD 029 06
+Line  65: MP AD 029 03
+Line  66: LOBBY
+Line  67: 00 027
+Line  68: LOBBY
+Line  69: 00 029
+Line  70: MP AD 026 06
+Line  71: MP AD 026 05
+Line  72: MP AD 026 04
+Line  73: MP AD 026 07
+Line  74: MP AD 029 02
+Line  75: MP AD 029 01
+Line  76: LOBBY
+Line  77: 00 025
+Line  78: MP AD 029 05
+Line  79: 3675
+Line  80: 1255
+Line  81: 445
+Line  82: 4005
+Line  83: 1015
+Line  84: 3955
+Line  85: 3735
+Line  86: 1355
+Line  87: 1190
+Line  88: 1105
+Line  89: 1100
+Line  90: 435
+Line  91: 1000
+Line  92: GL
+Line  93: CEILING LEVEL
+Line  94: WC
+Line  95: 00 030
+Line  96: WC
+Line  97: 00 031
+Line  98: GL
+Line  99: CEILING LEVEL
+Line 100: WC
+Line 101: 00 031
+Line 102: GL
+Line 103: CEILING LEVEL
+Line 104: WC
+Line 105: 00 031
+Line 106: GL
+Line 107: CEILING LEVEL
+Line 108: MP AD 006
+Line 109: MP AD 006
+Line 110: MP AD 006
+Line 111: 3605
+Line 112: 2205
+Line 113: GL
+Line 114: CEILING LEVEL
+Line 115: MP AD 031 02
+Line 116: MP AD 031 01
+Line 117: MP AD 031 03
+Line 118: MP AD 031 04
+Line 119: ADMIN
+Line 120: COLO
+Line 121: COLO 2
+Line 122: 2
+Line 123: 4
+Line 124: 2
+Line 125: 4
+Line 126: TRUE NORTH
+Line 127: Sheet Title Number
+Line 128: Scale
+Line 129: Plan
+Line 130: Design Consultants
+Line 131: Microsoft
+Line 132: DATA CENTER
+Line 133: SPATA GREECE
+Line 134: Contractor Joint Venture
+Line 135: Name
+Line 136: Contractor Project
+Line 137: Contractor Contract
+Line 138: Contractor PM
+Line 139: Contractor BIM Mngr
+Line 140: Contractor Information
+Line 141: Renco Terna
+Line 142: Client
+Line 143: General Notes
+Line 144: Client Project
+Line 145: Client Contract
+Line 146: Client PM
+Line 147: Client BIM Mngr
+Line 148: Primary Client Information
+Line 149: Layout
+Line 150: Revision
+Line 151: Tombazi Chalandri
+Line 152: 15232
+Line 153: Athens Greece
+Line 154: 0800 3262
+Line 155: Agion Theodoron Square Athens
+Line 156: 10561
+Line 157: Athens Greece
+Line 158: Kimithois Agios Dimitrios
+Line 159: 17236
+Line 160: Athens Greece
+Line 161: Purpose Issue
+Line 162: Issue
+Line 163: Name
+Line 164: BUILDERS WORK MEP PENETRATIONS
+Line 165: WC LOBBY 2
+Line 166: VAP AH 1032
+Line 167: SCALE
+Line 168: 028 SHWR CHANGE ELEVATION MEP PENETRATIONS
+Line 169: SCALE
+Line 170: 028 SHWR CHANGE ELEVATION 2 MEP PENETRATIONS
+Line 171: 2
+Line 172: SCALE
+Line 173: 028 SHWR CHANGE ELEVATION MEP PENETRATIONS
+Line 174: 1000
+Line 175: SCALE
+Line 176: Date
+Line 177: Description
+Line 178: 07
+Line 179: Issued Approval
+Line 180: VAP
+Line 181: SCALE
+Line 182: 027 LOBBY ELEVATION 4 MEP PENETRATIONS
+Line 183: 4
+Line 184: SCALE
+Line 185: 031 WC ELEVATION MEP PENETRATIONS
+Line 186: SCALE
+Line 187: 031 WC ELEVATION MEP PENETRATIONS
+Line 188: SCALE
+Line 189: 031 WC ELEVATION MEP PENETRATIONS
+Line 190: SCALE
+Line 191: 031 WC ELEVATION MEP PENETRATIONS
+Line 192: SCALE
+Line 193: 031 WC ELEVATION MEP PENETRATIONS
+
+=== END OF FILTERED TEXT ===
+Total lines: 194

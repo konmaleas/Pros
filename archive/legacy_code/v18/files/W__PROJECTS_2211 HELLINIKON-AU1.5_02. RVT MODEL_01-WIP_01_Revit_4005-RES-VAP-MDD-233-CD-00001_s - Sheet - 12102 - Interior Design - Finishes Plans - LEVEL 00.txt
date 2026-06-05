@@ -1,0 +1,406 @@
+=== FILTERED TEXT FOR: W__PROJECTS_2211 HELLINIKON-AU1.5_02. RVT MODEL_01-WIP_01_Revit_4005-RES-VAP-MDD-233-CD-00001_s - Sheet - 12102 - Interior Design - Finishes Plans - LEVEL 00.pdf ===
+
+Line   0: AB
+Line   1: 02
+Line   2: 04
+Line   3: 05
+Line   4: 06
+Line   5: 07
+Line   6: 08
+Line   7: 09
+Line   8: AC
+Line   9: AD
+Line  10: AE
+Line  11: AF
+Line  12: AG
+Line  13: AH
+Line  14: AJ
+Line  15: AK
+Line  16: AL
+Line  17: BB
+Line  18: BC
+Line  19: BD
+Line  20: BE
+Line  21: BF
+Line  22: BG
+Line  23: BH
+Line  24: BI
+Line  25: BJ
+Line  26: BK
+Line  27: BL
+Line  28: AI
+Line  29: LIVING DINING
+Line  30: Καθιστικό
+Line  31: Υπνοδωµάτιο
+Line  32: MB
+Line  33: Λουτρό
+Line  34: MB
+Line  35: CIRC
+Line  36: MB
+Line  37: Υπνοδωµάτιο
+Line  38: CIRC
+Line  39: Λουτρό
+Line  40: LIVING DINING
+Line  41: Καθιστικό
+Line  42: LIVING DINING
+Line  43: Καθιστικό
+Line  44: MB
+Line  45: Λουτρό
+Line  46: LIVING DINING
+Line  47: Καθιστικό
+Line  48: TECH
+Line  49: Χώρος
+Line  50: LAUNDRY
+Line  51: Χώρος
+Line  52: LIVING DINING
+Line  53: Καθιστικό
+Line  54: Υπνοδωµάτιο
+Line  55: MB
+Line  56: Λουτρό
+Line  57: CIRC
+Line  58: Υπνοδωµάτιο
+Line  59: Λουτρό
+Line  60: LIVING DINING
+Line  61: Καθιστικό
+Line  62: Λουτρό
+Line  63: Υπνοδωµάτιο
+Line  64: MB
+Line  65: MB
+Line  66: Υπνοδωµάτιο
+Line  67: LIVING DINING
+Line  68: Καθιστικό
+Line  69: CIRC
+Line  70: Λουτρό
+Line  71: Λουτρό
+Line  72: MB
+Line  73: CIRC
+Line  74: LIVING DINING
+Line  75: Καθιστικό
+Line  76: Υπνοδωµάτιο
+Line  77: TECH LAUNDRY
+Line  78: Χώρος
+Line  79: CIRC
+Line  80: LIVING DINING
+Line  81: Καθιστικό
+Line  82: MB
+Line  83: Υπνοδωµάτιο
+Line  84: Υπνοδωµάτιο
+Line  85: MB
+Line  86: CIRC
+Line  87: TECH LAUNDRY
+Line  88: Χώρος
+Line  89: Λουτρό
+Line  90: LIVING DINING
+Line  91: Καθιστικό
+Line  92: CIRC
+Line  93: CIRC
+Line  94: LIVING DINING
+Line  95: Καθιστικό
+Line  96: CIRC
+Line  97: Υπνοδωµάτιο
+Line  98: CIRC
+Line  99: STUDIO
+Line 100: LIVING DINING
+Line 101: Καθιστικό
+Line 102: 06
+Line 103: 02
+Line 104: 02
+Line 105: 02
+Line 106: 02
+Line 107: 02
+Line 108: LOBBY
+Line 109: LOBBY A
+Line 110: A
+Line 111: LOBBY
+Line 112: LOBBY
+Line 113: LOBBY
+Line 114: LOBBY
+Line 115: LOBBY
+Line 116: LOBBY
+Line 117: WC
+Line 118: LOBBY
+Line 119: LOBBY
+Line 120: 02
+Line 121: 02
+Line 122: STAIRS CORE A
+Line 123: Κλιµακοστάσιο A
+Line 124: STAIRS CORE
+Line 125: Κλιµακοστάσιο
+Line 126: STAIRS CORE
+Line 127: Κλιµακοστάσιο
+Line 128: STAIRS CORE
+Line 129: Κλιµακοστάσιο
+Line 130: EGRESS
+Line 131: EGRESS
+Line 132: STAIRS CORE
+Line 133: Κλιµακοστάσιο
+Line 134: EGRESS STAIRS
+Line 135: LOBBY
+Line 136: EGRESS STAIRS
+Line 137: EGRESS STAIRS
+Line 138: BOH ROOM
+Line 139: Βοηθητικοί
+Line 140: EGRESS STAIRS
+Line 141: SECURITY ROOM
+Line 142: Χώρος
+Line 143: BOH ROOM
+Line 144: Βοηθητικοί
+Line 145: EGRESS STAIRS A
+Line 146: A
+Line 147: LOBBY A
+Line 148: LOBBY
+Line 149: GYM AMENITIES
+Line 150: Κοινόχρηστος
+Line 151: ACCESS
+Line 152: Χώρος
+Line 153: Ανελ
+Line 154: Ανελ
+Line 155: SHAFT
+Line 156: Φρεάτιο
+Line 157: SHAFT
+Line 158: Φρεάτιο
+Line 159: Ανελ
+Line 160: Ανελ
+Line 161: SHAFT
+Line 162: Φρεάτιο
+Line 163: SHAFT
+Line 164: Φρεάτιο
+Line 165: SHAFT
+Line 166: Φρεάτιο
+Line 167: Ανελ
+Line 168: Ανελ
+Line 169: SHAFT
+Line 170: Φρεάτιο
+Line 171: SHAFT
+Line 172: Φρεάτιο
+Line 173: Ανελ
+Line 174: Ανελ
+Line 175: SHAFT
+Line 176: Φρεάτιο
+Line 177: SHAFT
+Line 178: Φρεάτιο
+Line 179: Ανελ
+Line 180: Ανελ
+Line 181: SHAFT
+Line 182: Φρεάτιο
+Line 183: SHAFT
+Line 184: Φρεάτιο
+Line 185: SHAFT
+Line 186: Φρεάτιο
+Line 187: RCB
+Line 188: RCB
+Line 189: RCB
+Line 190: RCB
+Line 191: RCB
+Line 192: RCB
+Line 193: RCB
+Line 194: RCB
+Line 195: RCB
+Line 196: RCB
+Line 197: RCB
+Line 198: RCB
+Line 199: RCB
+Line 200: TERRACE
+Line 201: Ιδιόκτητη
+Line 202: TERRACE
+Line 203: Ιδιόκτητη
+Line 204: TERRACE
+Line 205: Ιδιόκτητη
+Line 206: TERRACE
+Line 207: Ιδιόκτητη
+Line 208: TERRACE
+Line 209: Ιδιόκτητη
+Line 210: TERRACE
+Line 211: Ιδιόκτητη
+Line 212: TERRACE
+Line 213: Ιδιόκτητη
+Line 214: TERRACE
+Line 215: Ιδιόκτητη
+Line 216: TERRACE
+Line 217: Ιδιόκτητη
+Line 218: TERRACE
+Line 219: Ιδιόκτητη
+Line 220: 07
+Line 221: SHAFT
+Line 222: Name
+Line 223: UNIT TYPOLOGY
+Line 224: UNIT AREA
+Line 225: ROOM NAME
+Line 226: ROOM CODE
+Line 227: ROOM AREA
+Line 228: GREEK ROOM NAME
+Line 229: UNIT CODE
+Line 230: FLOOR FINISH TYPE
+Line 231: FLOOR FINISH
+Line 232: MATERIAL CODE
+Line 233: DRAWING PLANS SYMBOLS LEGEND
+Line 234: 16600 FFL
+Line 235: FINAL FLOOR LEVEL
+Line 236: 16350 SSL
+Line 237: STRUCTURAL SLAB LEVEL
+Line 238: DRAWING NUMBER
+Line 239: SHEET NUMBER
+Line 240: 06000
+Line 241: WALL FINISHES LEGEND
+Line 242: REGAL SELECT WATERBORNE
+Line 243: INTERIOR PAINT. OFF WHITE
+Line 244: COLLECTION, SEASHELL OC
+Line 245: BENJAMIN MOORE
+Line 246: WOODEN SKIRTING BOARD
+Line 247: RECTIFIED PORCELAIN SLABS
+Line 248: 3200 1600
+Line 249: GEO CREMA INALCO
+Line 250: RECTIFIED PORCELAIN TILES
+Line 251: 1200 TOUCH STONE GREY
+Line 252: VEIN NATURALE COEM
+Line 253: RECTIFIED PORCELAIN TILES
+Line 254: ALLURE LIGHT
+Line 255: GREY LIVING
+Line 256: FLOOR FINISHES LEGEND
+Line 257: THREE LAYER ENGINEERED
+Line 258: TIMBER PARQUET NATURAL
+Line 259: OAK WOOD, PREPOLISHED
+Line 260: IDEALLY SUITED
+Line 261: UNDERFLOOR HEATING SYSTEMS
+Line 262: PLANK STRIP 4000 OAK
+Line 263: INVISIBLE MARKANT BRUSHED
+Line 264: NATURADUR
+Line 265: 2200 HARO
+Line 266: RECTIFIED PORCELAIN SLABS
+Line 267: 3200 1600
+Line 268: GEO CREMA INALCO
+Line 269: RECTIFIED PORCELAIN TILES
+Line 270: 1200 TOUCH STONE
+Line 271: GREY VEIN NATURALE COEM
+Line 272: RECTIFIED PORCELAIN TILES
+Line 273: ALLURE LIGHT GREY LIVING
+Line 274: WALL FINISH TYPE
+Line 275: WALL FINISH MATERIAL CODE
+Line 276: 02
+Line 277: MILLED MDF PANEL WAVE
+Line 278: RECONSTITUTED WOOD
+Line 279: VENEER OAK FINISH
+Line 280: 3000 1200
+Line 281: FINISH THICKNESS,
+Line 282: MDF PANEL
+Line 283: MDF PANEL RECONSTITUTED
+Line 284: WOOD VENEER OAK FINISH
+Line 285: 3000 1200
+Line 286: FINISH THICKNESS
+Line 287: MDF PANEL
+Line 288: NATURAL STONE ABADIA ROSAL
+Line 289: 1000
+Line 290: POLISHED CONCRETE
+Line 291: TRANSPARENT SEALANT
+Line 292: SIKAFLOOR 419 SIKA
+Line 293: ENTRANCE MATT
+Line 294: PANELS
+Line 295: RENDERED CEMENT BOARD
+Line 296: RCB
+Line 297: NATURAL STONE BUSH HAMMERED
+Line 298: SINAI PEARL,
+Line 299: LACOMAR
+Line 300: MEP
+Line 301: GRAVEL
+Line 302: 06
+Line 303: LAMINATE RAISED FLOOR
+Line 304: NATURAL STONE ABADIA ROSAL
+Line 305: 1000
+Line 306: NATURAL STONE SANDBLUSTED
+Line 307: SINAI PEARL,
+Line 308: LACOMAR
+Line 309: WATERPROOFING NATURAL
+Line 310: STONE ABADIA ROSAL
+Line 311: SANDBLASTED VINTAGE FINISH
+Line 312: 07
+Line 313: ΓΕΝΙΚΕΣ ΣΗΜΕΙΩΣΕΙΣ GENERAL NOTES
+Line 314: ΕΓΓΡΑΦΑ ΑΝΑΦΟΡΑΣ DOCUMENT REFERENCE
+Line 315: ΤΙΤΛΟΣ ΣΧΕΔΙΟΥ DRAWING TITLE
+Line 316: ΚΩΔΙΚΟΣ ΕΓΓΡΑΦΟΥ ΣΧΕΔΙΟΥ DOCUMENT DRAWING CODIFICATION
+Line 317: Project
+Line 318: Originator
+Line 319: Type
+Line 320: Discipline
+Line 321: Stage
+Line 322: Serial Number
+Line 323: Revision
+Line 324: ΚΛΙΜΑΚΑ SCALE
+Line 325: ΔΙΑΤΑΞΗ LAYOUT
+Line 326: REV.
+Line 327: DATE
+Line 328: ISSUE
+Line 329: DESCRIPTION UPDATE VERSION
+Line 330: ORIGINATED
+Line 331: CHECKED
+Line 332: VERIFIED
+Line 333: LEAD DESIGNER
+Line 334: APPROVED
+Line 335: PMC
+Line 336: STATUS
+Line 337: ΣΥΜΒΟΥΛΟΣ ΔΙΑΧΕΙΡΙΣΗΣ ΕΡΓΟΥ
+Line 338: PROJECT MANAGEMENT CONSULTANT
+Line 339: ΣΤΟΙΧΕΙΑ ΣΥΜΒΟΥΛΟΥ ΔΙΑΧΕΙΡΙΣΗΣ ΕΡΓΟΥ
+Line 340: PROJECT MANAGEMENT CONSULTANT DETAILS
+Line 341: ΚΥΡΙΟΣ ΜΕΛΕΤΗΤΗΣ LEAD DESIGNER
+Line 342: ΣΤΟΙΧΕΙΑ ΜΕΛΕΤΗΤΗ LOCAL ARCHITECT
+Line 343: SUBCONSULTANT STRUCTURE
+Line 344: ΕΡΓΟΔΟΤΗΣ EMPLOYER
+Line 345: ΣΤΟΙΧΕΙΑ ΕΡΓΟΔΟΤΗ EMPLOYER DETAILS
+Line 346: ΑΝΑΠΤΥΞΗ ΤΟΥ ΜΗΤΡΟΠΟΛΙΤΙΚΟΥ ΠΟΛΟΥ ΕΛΛΗΝΙΚΟΥ ΑΓIOY ΚΟΣΜΑ
+Line 347: DEVELOPMENT METROPOLITAN POLE HELLINIKON AG. KOSMAS
+Line 348: ΕΡΓΟ PROJECT
+Line 349: ΕΛΛΗΝΙΚΟ HELLINIKON
+Line 350: Kifisias Avenue Golden Hall
+Line 351: 15123 Marousi
+Line 352: Σημείωση Πνευματικών Δικαιωμάτων. 2121 1993
+Line 353: ΕΛΛΗΝΙΚΟ
+Line 354: Ρήτρα Περιορισμού Ευθύνης.
+Line 355: ΕΛΛΗΝΙΚΟ
+Line 356: ΝΑ ΜΗΝ ΑΛΛΑΧΘΕΙ ΚΛΙΜΑΚΑ ΤΟΥ ΣΧΕΔΙΟΥ.
+Line 357: Copyright Notice. 2121 1993
+Line 358: HELLINIKON
+Line 359: Disclaimer. HELLINIKON
+Line 360: CHANGE SCALE DRAWING.
+Line 361: SUBCONSULTANT MEP
+Line 362: SUBCONSULTANT LANDSCAPE
+Line 363: SUBCONSULTANT TRAFFIC
+Line 364: SUBCONSULTANT LIGHTING
+Line 365: SUBCONSULTANT ACOUSTICS
+Line 366: SUBCONSULTANT SUSTAINABILITY
+Line 367: SUBCONSULTANT SIGNAGE
+Line 368: URBAN ZONE
+Line 369: ARCHITECTURAL DESIGN Construction Design
+Line 370: ΑΡΧΙΤΕΚΤΟΝΙΚΟΣ Μελέτη Εφαρμογής
+Line 371: MODEL MDD DD 0001
+Line 372: BJARKE INGELS GROUP BIG
+Line 373: AVINGUDA DA LES DRASSANES
+Line 374: 08001 BARCELON, SPAIN
+Line 375: HELLINIKON
+Line 376: SCALE
+Line 377: HILL INTERNATIONAL
+Line 378: Kifisias Avenue Golden Hall
+Line 379: 15123 Marousi
+Line 380: Samaras Associates Consulting Engineers
+Line 381: 43 Oktovriou 45627, Limani Center, Thessaloniki
+Line 382: A
+Line 383: High Rise Residential Development
+Line 384: Interior Design Finishes Plans LEVEL 00
+Line 385: RES
+Line 386: VAP
+Line 387: DWG
+Line 388: 233
+Line 389: CD
+Line 390: 12102
+Line 391: 4005
+Line 392: High Rise Residential Development
+Line 393: Κάτοψη Τελειωμάτων Τοίχων Δαπέδων ΕΠΙΠΕΔΟ 00
+Line 394: ΦΥΛΛΟ SHEET 12102
+Line 395: A
+Line 396: 04 2024
+Line 397: First Issuance Approval
+Line 398: VAP
+Line 399: VAP
+Line 400: BIG
+
+=== END OF FILTERED TEXT ===
+Total lines: 401

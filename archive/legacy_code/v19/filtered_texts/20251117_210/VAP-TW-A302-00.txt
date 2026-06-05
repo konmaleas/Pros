@@ -1,0 +1,110 @@
+=== FILTERED TEXT FOR: VAP-TW-A302-00.pdf ===
+
+Line   0: Level
+Line   1: Level
+Line   2: Level
+Line   3: Level
+Line   4: Level
+Line   5: Level
+Line   6: Basement
+Line   7: Level
+Line   8: Ground Floor
+Line   9: Level
+Line  10: First Floor
+Line  11: NGL
+Line  12: Level
+Line  13: Level
+Line  14: Staircase
+Line  15: Roof
+Line  16: EQ
+Line  17: EQ
+Line  18: PARKING
+Line  19: PARKING
+Line  20: PARKING
+Line  21: OFFICE
+Line  22: OFFICE
+Line  23: MAIN LOBBY
+Line  24: MAIN LOBBY
+Line  25: OFFICE
+Line  26: OFFICE
+Line  27: Level
+Line  28: Basement
+Line  29: Level
+Line  30: Ground Floor
+Line  31: Level
+Line  32: First Floor
+Line  33: NGL
+Line  34: Level
+Line  35: Level
+Line  36: Staircase
+Line  37: Roof
+Line  38: Level
+Line  39: Foundation
+Line  40: Staircase
+Line  41: Basement
+Line  42: KITCHENETTE
+Line  43: WC
+Line  44: WC
+Line  45: OFFICE
+Line  46: LOBBY CORRIDOR
+Line  47: STAIRCASE
+Line  48: LOBBY CORRIDOR
+Line  49: OFFICE
+Line  50: WC
+Line  51: WC
+Line  52: KITCHENETTE
+Line  53: KITCHENETTE
+Line  54: WC
+Line  55: WC
+Line  56: OFFICE
+Line  57: CIRCULATION LOBBY
+Line  58: STAIRCASE
+Line  59: CIRCULATION LOBBY
+Line  60: OFFICE
+Line  61: WC
+Line  62: WC
+Line  63: KITCHENETTE
+Line  64: PARKING
+Line  65: STAIRCASE
+Line  66: ROOM
+Line  67: PARKING
+Line  68: PARKING
+Line  69: STAIRCASE
+Line  70: REVISIONS
+Line  71: CLIENT
+Line  72: PROJECT
+Line  73: DESIGN STAGE
+Line  74: DATE
+Line  75: SCALE
+Line  76: FILE NAME
+Line  77: DRAWING TITLE
+Line  78: DRAWING
+Line  79: TAHLIA WALK
+Line  80: VAPARCHITECTS
+Line  81: Epirou Street
+Line  82: Athens, GR Greece
+Line  83: 3262
+Line  84: 3269
+Line  85: DESIGN ARCHITECTS
+Line  86: CONSULTANTS
+Line  87: STUDIO
+Line  88: Isavron
+Line  89: Lycabettus
+Line  90: Athens, GR 11471 Greece
+Line  91: ZAD DEVELOPMENT
+Line  92: STRUCTURAL ENGINEER
+Line  93: MEP ENGINEER
+Line  94: 01 02 PM
+Line  95: Section
+Line  96: Section
+Line  97: Detail Design
+Line  98: Section
+Line  99: Section
+Line 100: 1602 TW 00
+Line 101: Description
+Line 102: Date
+Line 103: First
+Line 104: 07
+
+=== END OF FILTERED TEXT ===
+Total lines: 105

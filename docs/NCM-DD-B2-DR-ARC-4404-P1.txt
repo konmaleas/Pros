@@ -1,0 +1,184 @@
+=== FILTERED TEXT FOR: NCM-DD-B2-DR-ARC-4404-P1.pdf ===
+
+Line   0: ΑΝΤΛΙΟΣΤΑΣΙΟ
+Line   1: ΑΠΟΔΥΤΗΡΙΑ
+Line   2: AMEA
+Line   3: ΑΠΟΔΥΤΗΡΙΑ
+Line   4: 749
+Line   5: 2450
+Line   6: 1375
+Line   7: 3200
+Line   8: 2550
+Line   9: 2550
+Line  10: ΑΝΘΥΓΡΗ ΓΥΨΟΣΑΝΙΔΑ
+Line  11: ΕΡΜΑΡΙ ΑΠΟΔΥΤΗΡΙΩΝ
+Line  12: ΕΡΜΑΡΙ ΑΠΟΔΥΤΗΡΙΩΝ
+Line  13: 2200
+Line  14: 2130
+Line  15: 70
+Line  16: 450
+Line  17: 750
+Line  18: 4600
+Line  19: ΑΝΘΥΓΡΗ ΓΥΨΟΣΑΝΙΔΑ
+Line  20: 2350
+Line  21: 3180
+Line  22: 3180
+Line  23: ΚΑΘΡΕΠΤΗΣ ΚΡΥΦΟ ΦΩΤΙΣΜΟ ΠΑΝΩ
+Line  24: ΚΑΤΩ
+Line  25: ΧΑΡΤΟΠΕΤΣΕΤΟΘΗΚΗ
+Line  26: ΕΡΜΑΡΙ ΑΠΟΔΥΤΗΡΙΩΝ
+Line  27: ΚΑΛΑΘΟΣ ΑΧΡΗΣΤΩΝ ΠΛΑΣΤΙΚΟΣ
+Line  28: ΠΑΓΚΟΣ ΑΠΟΜΙΜΗΣΗ ΞΥΛΟΥ
+Line  29: ΚΑΛΑΘΟΣ ΑΧΡΗΣΤΩΝ ΠΛΑΣΤΙΚΟΣ
+Line  30: ΧΑΡΤΟΠΕΤΣΕΤΟΘΗΚΗ
+Line  31: ΚΑΘΡΕΠΤΗΣ ΚΡΥΦΟ ΦΩΤΙΣΜΟ ΠΑΝΩ
+Line  32: ΚΑΤΩ
+Line  33: ΕΠΙΤΟΙΧΗ ΒΡΥΣΗ ΑΠΛΟΥ ΤΥΠΟΥ
+Line  34: ΕΠΙΚΑΘΗΜΕΝΟΣ
+Line  35: ΠΟΡΣΕΛΆΝΗ, ΔΙΜΑΕΤΡΟΥ
+Line  36: ΠΑΓΚΟΣ ΑΠΟΜΙΜΗΣΗ ΞΥΛΟΥ
+Line  37: ΕΠΙΤΟΙΧΗ ΒΡΥΣΗ ΑΠΛΟΥ ΤΥΠΟΥ
+Line  38: ΕΠΙΚΑΘΗΜΕΝΟΣ
+Line  39: ΠΟΡΣΕΛΆΝΗ, ΔΙΜΑΕΤΡΟΥ
+Line  40: LED STRIP ΚΡΥΦΟ
+Line  41: ΣΤΗΝ ΟΡΟΦΗ ΤΟΥ ΦΑΤΝΩΜΑΤΟΣ SLABWASH
+Line  42: LED STRIP ΚΡΥΦΟ
+Line  43: ΣΤΗΝ ΟΡΟΦΗ ΤΟΥ ΦΑΤΝΩΜΑΤΟΣ SLABWASH
+Line  44: ΑΠΟΔΥΤΗΡΙΑ
+Line  45: ΑΠΟΔΥΤΗΡΙΑ
+Line  46: ΕΠΕΝΔΥΣΗ ΤΟΙΧΟΥ
+Line  47: ΕΠΕΝΔΥΣΗ ΤΟΙΧΟΥ
+Line  48: ΑΝΘΥΓΡΗ ΓΥΨΟΣΑΝΙΔΑ
+Line  49: ΕΝΤΟΙΧΙΣΜΕΝΗ ΛΕΚΑΝΗ
+Line  50: ΝΤΟΥΖ
+Line  51: ΝΤΟΥΖ
+Line  52: 4600
+Line  53: 400
+Line  54: 700
+Line  55: 1100
+Line  56: 400
+Line  57: 700
+Line  58: 1100
+Line  59: ΔΙΑΧΩΡΙΣΤΙΚΟ ΣΕ ΠΡΑΣΙΝΗ
+Line  60: ΑΠΟΧΡΩΣΗ
+Line  61: ΧΑΡΤΟΘΗΚΗ
+Line  62: ΕΝΤΟΙΧΙΣΜΕΝΗ ΛΕΚΑΝΗ
+Line  63: ΣΤΗΛΗ ΝΤΟΥΖ
+Line  64: 1560
+Line  65: 1270
+Line  66: 1560
+Line  67: 4390
+Line  68: ΑΝΘΥΓΡΗ ΓΥΨΟΣΑΝΙΔΑ
+Line  69: ΣΤΗΛΗ ΝΤΟΥΖ
+Line  70: ΔΙΑΧΩΡΙΣΤΙΚΟ ΣΕ ΠΡΑΣΙΝΗ ΑΠΟΧΡΩΣΗ, ΤΥΠΟΥ PIVOT
+Line  71: ΔΙΑΧΩΡΙΣΤΙΚΟ ΣΕ ΠΡΑΣΙΝΗ ΑΠΟΧΡΩΣΗ, ΤΥΠΟΥ PIVOT
+Line  72: ΣΦΡΑΓΙΔΑ ΥΠΕΥΘΥΝΟΥ ΕΡΓΟΥ
+Line  73: ΗΜΕΡΟΜΗΝΙΑ
+Line  74: ONOMA ΑΡΧΕΙΟΥ
+Line  75: ΛΕΥΚΩΣΙΑ ΚΥΠΡΟΣ
+Line  76: ΝΕΟ ΚΥΠΡΙΑΚΟ ΜΟΥΣΕΙΟ
+Line  77: ΗΜΕΡΟΜΗΝΙΑ
+Line  78: ΕΓΚΡΙΘΗΚΕ
+Line  79: ΤΜΗΜΑ
+Line  80: ΗΜΕΡΟΜΗΝΙΑ
+Line  81: ΕΛΕΓΧΘΗΚΕ
+Line  82: ΤΜΗΜΑ
+Line  83: ΥΠΟΒΟΛΗ
+Line  84: ΑΡ. ΣΧΕΔΙΟΥ
+Line  85: ΥΠΟΥΡΓΕΙΟ ΜΕΤΑΦΟΡΩΝ, ΕΠΙΚΟΙΝΩΝΙΩΝ ΚΑΙ ΕΡΓΩΝ
+Line  86: ΤΜΗΜΑ ΔΗΜΟΣΙΩΝ ΕΡΓΩΝ
+Line  87: ΗΜΕΡΟΜΗΝΙΑ
+Line  88: ΠΕΡΙΕΧΟΜΕΝΟ
+Line  89: ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΜΕΛΕΤΗ
+Line  90: THEONI XANTHI XZA LLC
+Line  91: ΥΠΕΥΘΥΝΟΣ ΟΜΑΔΑΣ ΕΡΓΟΥ
+Line  92: ΑΡΧΙΤΕΚΤΩΝ ΘΕΩΝΗ ΞΑΝΘΗ
+Line  93: ΣΥΝΕΡΓΑΤΕΣ ΑΡΧΙΤΕΚΤΟΝΕΣ
+Line  94: ΘΟΔΩΡΗΣ ΑΝΔΡΟΥΛΑΚΗΣ
+Line  95: ΜΑΡΓΑΡΙΤΑ ΖΑΚΥΝΘΙΝΟΥ
+Line  96: ΣΥΝΤΟΝΙΣΤΗΣ ΑΡΧIT ΚΗΣ ΜΕΛΕΤΗΣ
+Line  97: ΚΟΣΜΑΣ ΒΑΡΚΑΡΟΛΗΣ
+Line  98: ΚΛΙΜΑΚΑ
+Line  99: DR ARC
+Line 100: NCM DD
+Line 101: ΜΕΛΕΤΗ ΕΦΑΡΜΟΓΗΣ DD
+Line 102: ΤΙΤΛΟΣ ΣΧΕΔΙΟΥ
+Line 103: ΣΤΑΔΙΟ ΕΡΓΑΣΙΑΣ
+Line 104: ΕΙΔΟΣ ΜΕΛΕΤΗΣ
+Line 105: ΑΡΧΙΤΕΚΤΟΝΙΚΗ
+Line 106: ΣΥΜΒΟΥΛΟΙ ΜΕΛΕΤΗΤΕΣ
+Line 107: ΣΤΑΔΙΟ ΚΑΤΑΛΛΗΛΟΤΗΤΑΣ
+Line 108: KEY PLAN
+Line 109: ΑΡΧΙΤΕΚΤΟΝΙΚΑ
+Line 110: YAP
+Line 111: ΣTATIKΑ
+Line 112: RHOMBUS STRUCTURAL ENGINEERS LLC ΣΤ. ΕΥΣΤΡΑΤΙΑΔΗΣ
+Line 113: PENELIS CONSULTING ENGINEERS SA ΠΕΝΕΛΗΣ
+Line 114: GEORGHIOU ZEMBYLAS PARTNERS
+Line 115: ΜΗΧΑΝΟΛΟΓΙΚA
+Line 116: ΗΛΕΚΤΡΟΛΟΓΙΚA
+Line 117: ΜΟΥΣΕΙΟΛΟΓΙΚA
+Line 118: THETA ACOUSTICS LTD ΝΙΑΟΥΝΑΚΗΣ
+Line 119: ΑΚΟΥΣΤΙΚA
+Line 120: RODITIS PARTNERS ΡΟΔΙΤΗΣ
+Line 121: ΕΠΙΜΕΤΡΗΣΗ ΠΟΣΟΤΗΤΩΝ
+Line 122: FLOROS PANTELI ASSOCIATES ΠΑΝΤΕΛΗ
+Line 123: ΥΓΕΙΑ
+Line 124: ΜΟΥΣΕΙΟΓΡΑΦΙΚA
+Line 125: ΘΩΜΑΣ ΤΣΟΥΚΑΛΑΣ
+Line 126: ΕΙΔΙΚΟΣ ΦΩΤΙΣΜΟΣ
+Line 127: DECO ASSOCIATES ΕΛ. ΝΤΕΚΩ
+Line 128: ΠΥΡΟΠΡΟΣΤΑΣΙΑ
+Line 129: INT FIRE CYPRUS LTD ΣΠ. ΣΠΥΡΟΥ
+Line 130: ΚΥΚΛΟΦΟΡΙΑΚΑ
+Line 131: ΥΔΡΑΥΛΙΚA
+Line 132: DROMOS CONSULTING LTD ΖΕΚΚΟΣ
+Line 133: ΣΗΜΑΝΣΗ
+Line 134: POST SPECTACULAR OFFICE ΓΑΛΙΚΑΣ
+Line 135: ΚΤΗΡΙΟΥ
+Line 136: ARION PLUS
+Line 137: FEREOS LLC ΦΕΡΑΙΟΣ
+Line 138: Αναπλ. Υπεύθυνος Ομάδας
+Line 139: DROMOS CONSULTING LTD ΖΕΚΚΟΣ
+Line 140: ΕΙΔΙΚΑ ΓΕΩΤΕΧΝΙΚΑ
+Line 141: ΚΑΒΒΑΔΑΣ
+Line 142: ΜΟΥΣΕΙΑΚΟΣ ΣΧΕΔΙΑΣΜΟΣ
+Line 143: XZA
+Line 144: ΒΑΣΙΛΕΙΟΥ
+Line 145: ΕΡΓΑΣΤΗΡΙΑ
+Line 146: VAP
+Line 147: Σύμβουλος Μελέτης Εφαρμογής
+Line 148: GEORGHIOU ZEMBYLAS PARTNERS
+Line 149: ANDREAS EVRIPIDOU CIVIL ENGINEERS ΕΥΡΙΠΙΔΟΥ
+Line 150: ΣΤΕΡΓΙΟΣ ΓΑΛΙΚΑΣ
+Line 151: ΘΩΜΑΣ ΤΣΟΥΚΑΛΑΣ
+Line 152: ΣΤΕΡΓΙΟΣ ΓΑΛΙΚΑΣ
+Line 153: Συνεργάτης ΤΣΑΜΠΙΚΟΣ ΠΕΤΡΑΣ
+Line 154: POST SPECTACULAR OFFICE ΓΑΛΙΚΑΣ
+Line 155: ΠΡΟΜΕΛΕΤΗ ΣΑΚΕΛΛΑΡΙΟΥ
+Line 156: ΦΥΣΙΚΟΣ ΦΩΤΙΣΜΟΣ
+Line 157: ΤΣΑΓΚΡΑΣΟΥΛΗΣ
+Line 158: ΕΞΟΠΛΙΣΜΟΣ ΚΟΥΖΙΝΑΣ
+Line 159: XENEX ΚΑΛΟΓΕΡΙΑΣ
+Line 160: ΕΝΕΡΓΕΙΑΚΑ ΚΕΛΥΦΟΥΣ
+Line 161: METABUILD
+Line 162: ΓΡΑΦΙΣΤΙΚΑ
+Line 163: ΦΥΤΟΤΕΧΝΙΚΑ
+Line 164: LANDCO EΠΕ ΚΑΝΤΑΡΤΖΗΣ
+Line 165: ΑΥΓΟΥΣΤΟΣ 2021
+Line 166: P1
+Line 167: 2021 07
+Line 168: 4404
+Line 169: ΑΝΑΠΤΥΓΜΑΤΑ ΧΩΡΩΝ
+Line 170: 4404
+Line 171: ΧΩΡΟΙ ΟΨΗ
+Line 172: ΧΩΡΟΙ ΟΨΗ
+Line 173: ΕΠΙΠΕΔΟ
+Line 174: ΦΕΒΡΟΥΑΡΙΟΣ 2021
+Line 175: Υποβολή
+Line 176: P1
+Line 177: ΑΥΓΟΥΣΤΟΣ 2021
+Line 178: Βάσει
+
+=== END OF FILTERED TEXT ===
+Total lines: 179

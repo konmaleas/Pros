@@ -1,0 +1,86 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-754-0A_-_PUMP_HOUSE_FLOOR_AND_CEILING_FINISH.pdf ===
+
+Line   0: AP
+Line   1: A
+Line   2: PUMP ROOM
+Line   3: ATH04 00
+Line   4: ELECTRICAL
+Line   5: SWITCH ROOM
+Line   6: ATH04 00
+Line   7: 5200
+Line   8: 5200
+Line   9: 5200
+Line  10: 3500
+Line  11: 4500
+Line  12: COMMS ROOM
+Line  13: ATH04 00
+Line  14: ELECTRICAL
+Line  15: SWITCH ROOM
+Line  16: ATH04 00
+Line  17: GRAVEL PERIMETER
+Line  18: FLOOR FINISHES LEGEND
+Line  19: POWER FLOATED CONCRETE SEALED ASHFORD FORMULA SEALER.
+Line  20: A
+Line  21: A
+Line  22: 5200
+Line  23: 5200
+Line  24: 5200
+Line  25: 3500
+Line  26: 4500
+Line  27: CEILING
+Line  28: Sheet Title Number
+Line  29: Scale
+Line  30: Plan
+Line  31: Design Consultants
+Line  32: Microsoft
+Line  33: DATA CENTER ATH04
+Line  34: SPATA GREECE
+Line  35: Contractor Joint Venture
+Line  36: Name
+Line  37: Contractor Project
+Line  38: Contractor Contract
+Line  39: Contractor PM
+Line  40: Contractor BIM Mngr
+Line  41: Contractor Information
+Line  42: Renco Terna
+Line  43: Client
+Line  44: General Notes
+Line  45: Client Project
+Line  46: Client Contract
+Line  47: Client PM
+Line  48: Client BIM Mngr
+Line  49: Primary Client Information
+Line  50: Layout
+Line  51: Revision
+Line  52: Tombazi Chalandri
+Line  53: 15232
+Line  54: Athens Greece
+Line  55: 0800 3262
+Line  56: Agion Theodoron Square Athens
+Line  57: 10561
+Line  58: Athens Greece
+Line  59: Kimithois Agios Dimitrios
+Line  60: 17236
+Line  61: Athens Greece
+Line  62: Purpose Issue
+Line  63: Issue
+Line  64: Name
+Line  65: PUMP HOUSE FLOOR
+Line  66: CEILING FINISH
+Line  67: ATH04 VAP AH 754
+Line  68: SCALE
+Line  69: FLOOR FINISH PLAN
+Line  70: SCALE
+Line  71: REFLECTED CEILING PLAN
+Line  72: ADMIN
+Line  73: COLO
+Line  74: COLO
+Line  75: TRUE NORTH
+Line  76: Date
+Line  77: Description
+Line  78: 06
+Line  79: Issued Approval
+Line  80: VAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 81

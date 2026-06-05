@@ -1,0 +1,240 @@
+=== FILTERED TEXT FOR: NCM-DD-B1-DR-ARC-4440-P0.pdf ===
+
+Line   0: ΗΛΕΚ ΤΡΟΛ ΟΓΙ ΚΟ ΩΜΑ ΤΙΟ
+Line   1: ΟΙ ΙΣ
+Line   2: 00
+Line   3: ΣΤ ΟΙ ΗΣ
+Line   4: ΡΑ
+Line   5: ΟΒ ΟΛ ΙΧ ΟΣ ΠΑ
+Line   6: ΟΒ ΟΛ ΙΧ ΟΣ ΠΑ
+Line   7: ΘΑ
+Line   8: ΟΥ ΤΙ ΣΙ
+Line   9: EE
+Line  10: ΙΑ ΣΤ ΙΣ ΥΦ ΤΟ
+Line  11: GEN SET
+Line  12: GEN SET
+Line  13: CCU B1
+Line  14: CCU B1
+Line  15: CCU B1
+Line  16: CCU B1
+Line  17: OU
+Line  18: OU
+Line  19: OU
+Line  20: OU
+Line  21: OU
+Line  22: OU
+Line  23: ΨΥΚΤΗΣ CH
+Line  24: ΨΥΚΤΗΣ CH
+Line  25: ΨΥΚΤΗΣ CH
+Line  26: ΨΥΚΤΗΣ ΑΝ ΤΛΙΑ
+Line  27: ΘΕΡΜΟΤ ΗΤΑΣ CH
+Line  28: ΨΥΚΤΗΣ ΑΝ ΤΛΙΑ
+Line  29: ΘΕΡΜΟΤ ΗΤΑΣ CH
+Line  30: ΨΥΚΤΗΣ ΑΝ ΤΛΙΑ
+Line  31: ΘΕΡΜΟΤ ΗΤΑΣ CH
+Line  32: EM .SH.
+Line  33: ΤΟΙ ΑΠΟ ΜΠΕΤΟΝ ΜΕΧ ΠΛΑΚ ΒΛ. ΑΝΑΠΤΥ ΓΜΑΤΑ ΑΙ ΘΡ ΟΥ
+Line  34: ΚΕΝΤΡΙΚ ΟΣ ΠΙΝ ΑΚΑΣ ΑΝΟΜΗΣ
+Line  35: SB CH
+Line  36: ΚΕΝΤΡΙΚ ΟΣ ΠΙΝ ΑΚΑΣ ΑΝΟΜΗΣ
+Line  37: SB CH
+Line  38: ΗΛΕΚ ΤΡΟΛ ΟΓΙ ΚΟ ΩΜΑ ΤΙΟ
+Line  39: ΕΛΑΧΙΣΤΕΣ ΔΙΑΣΤΑΣΕΙΣ
+Line  40: ATS
+Line  41: ΚΛΙΣΗ
+Line  42: 07
+Line  43: WC ΓΥΝΑΙΚΩΝ
+Line  44: 4441
+Line  45: 1015
+Line  46: 2685
+Line  47: 1735
+Line  48: 1450
+Line  49: 4441
+Line  50: EQ
+Line  51: EQ
+Line  52: EQ
+Line  53: EQ
+Line  54: EQ
+Line  55: EQ
+Line  56: 1008
+Line  57: 795
+Line  58: 795
+Line  59: 795
+Line  60: 408
+Line  61: 453
+Line  62: 448
+Line  63: 2456
+Line  64: ΜΕ ΚΕΡΑΜΙΚΕΣ ΠΛΑΚΕΣ
+Line  65: ΚΑΘΡΕΠΤΗΣ ΜΕ ΚΡΥΦΟ ΦΩΤΙΣΜΟ
+Line  66: ΚΑΛΑΘΟΣ ΑΧΡΗΣΤΩΝ ΠΛΑΣΤΙΚΟΣ
+Line  67: ΧΑΡΤΟΘΗΚΗ
+Line  68: ΕΝΤΟΙΧΙΣΜΕΝΗ ΛΕΚΑΝΗ
+Line  69: ΚΑΛΑΘΟΣ ΑΧΡΗΣΤΩΝ ΜΕΤΑΛΛΙΚΟ
+Line  70: ΠΑΓΚΟΣ ΑΠΟ HPL ΜΕ ΑΠΟΜΙΜΗΣΗ ΞΥΛΟΥ
+Line  71: WC ΤΥΠΟΥ ASSET SOEMA
+Line  72: GLASS ΣΕ ΜΑΥΡΟ ΧΡΩΜΑ
+Line  73: ΤΟΙΧΟΥ ΜΕ ΚΕΡΑΜΙΚΕΣ ΠΛΑΚΕΣ
+Line  74: ΨΞΑ
+Line  75: 2400
+Line  76: 2500
+Line  77: 2550
+Line  78: EQ
+Line  79: EQ
+Line  80: EQ
+Line  81: EQ
+Line  82: EQ
+Line  83: EQ
+Line  84: EQ
+Line  85: EQ
+Line  86: EQ
+Line  87: EQ
+Line  88: 427
+Line  89: 467
+Line  90: 427
+Line  91: 467
+Line  92: 448
+Line  93: 1592
+Line  94: 2500
+Line  95: ΑΝΘΥΓΡΗ
+Line  96: ΥΠΟΜΝΗΜΑ ΜΗΧΑΝΟΛΟΓΙΚΟΥ
+Line  97: Ανιχνευτής
+Line  98: Ανιχνευτής
+Line  99: Αρχή Χάραξης
+Line 100: Καταιονητήρας
+Line 101: Καταιονητήρας
+Line 102: Καταιονητήρας
+Line 103: Γρίλια
+Line 104: Γρίλια
+Line 105: Σηµείωση
+Line 106: Γραµµικός LED
+Line 107: Γραµµικός LED
+Line 108: Φωτιστικό
+Line 109: Εξαερισµός
+Line 110: Επιτοίχιο
+Line 111: Ανιχνευτής
+Line 112: LED STATUS
+Line 113: Ανιχνευτής PROBE
+Line 114: LED STATUS
+Line 115: Ανιχνευτής
+Line 116: Ανιχνευτής PROBE
+Line 117: Ανιχνευτής
+Line 118: Ανιχνευτής
+Line 119: Κρυφός LED
+Line 120: Ηχείο
+Line 121: Περσίδες
+Line 122: ΥΠΟΜΝΗΜΑ ΥΛΙΚΩΝ
+Line 123: Άνθυγρη
+Line 124: Ξυλο
+Line 125: 2400
+Line 126: Κωδικός Ψευδοροφής
+Line 127: Ύψος
+Line 128: Φωτιστικό
+Line 129: ΥΠΕΥΘΥΝΟΥ
+Line 130: ΗΜΕΡΟΜΗΝΙΑ
+Line 131: ONOMA
+Line 132: ΛΕΥΚΩΣΙΑ ΚΥΠΡΟΣ
+Line 133: ΝΕΟ ΚΥΠΡΙΑΚΟ ΜΟΥΣΕΙΟ
+Line 134: ΗΜΕΡΟΜΗΝΙΑ
+Line 135: ΕΓΚΡΙΘΗΚΕ
+Line 136: ΤΜΗΜ
+Line 137: ΗΜΕΡΟΜΗΝΙΑ
+Line 138: ΕΛΕΓΧΘΗΚΕ
+Line 139: ΤΜΗΜ
+Line 140: ΥΠΟΒΟΛΗ
+Line 141: ΑΡ.
+Line 142: ΥΠΟΥΡΓΕΙΟ ΜΕΤΑΦΟΡΩΝ, ΕΠΙΚΟΙΝΩΝΙΩΝ ΚΑΙ ΕΡΓΩΝ
+Line 143: ΤΜΗΜΑ ΕΡΓΩΝ
+Line 144: ΗΜΕΡΟΜΗΝΙΑ
+Line 145: ΠΕΡΙΕΧΟΜΕΝΟ
+Line 146: ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΜΕΛΕΤΗ
+Line 147: THEONI XANTHI XZA ARCHITECTS
+Line 148: ΥΠΕΥΘΥΝΟΣ ΕΡΓΟΥ
+Line 149: ΑΡΧΙΤΕΚΤΩΝ ΘΕΩΝΗ ΞΑΝΘΗ
+Line 150: ΣΥΝΕΡΓΑΤΕΣ ΑΡΧΙΤΕΚΤΟΝΕΣ
+Line 151: ΜΑΡΓΑΡΙΤΑ ΖΑΚΥΝΘΙΝΟΥ
+Line 152: ΣΥΝΤΟΝΙΣΤΗΣ ΑΡΧIT ΚΗΣ ΜΕΛΕΤΗΣ
+Line 153: ΚΟΣΜΑΣ ΒΑΡΚΑΡΟΛΗΣ
+Line 154: ΚΛΙΜΑΚ
+Line 155: DR ARC
+Line 156: NCM DD
+Line 157: ΜΕΛΕΤΗ ΕΦΑΡΜΟΓΗΣ DD
+Line 158: ΤΙΤΛΟΣ
+Line 159: ΕΡΓΑΣΙΑΣ
+Line 160: ΜΕΛΕΤΗΣ
+Line 161: ΑΡΧΙΤΕΚΤΟΝΙΚΗ
+Line 162: ΣΥΜΒΟΥΛΟΙ ΜΕΛΕΤΗΤΕΣ
+Line 163: ΚΑΤΑΛΛΗΛΟΤΗΤΑΣ
+Line 164: KEY
+Line 165: ΑΡΧΙΤΕΚΤΟΝΙΚΑ
+Line 166: YAP ARCHITECTS
+Line 167: ΣTATIK
+Line 168: RHOMBUS STRUCTURAL ENGINEERS LLC ΣΤ.
+Line 169: PENELIS CONSULTING ENGINEERS SA ΠΕΝΕΛΗΣ
+Line 170: GEORGHIOU ZEMBYLAS
+Line 171: ΜΗΧΑΝΟΛΟΓΙΚ
+Line 172: ΗΛΕΚΤΡΟΛΟΓΙΚ
+Line 173: ΜΟΥΣΕΙΟΛΟΓΙΚ
+Line 174: THETA ACOUSTICS LTD ΝΙΑΟΥΝΑΚΗΣ
+Line 175: ΑΚΟΥΣΤΙΚ
+Line 176: RODITIS PARTNERS
+Line 177: ΕΠΙΜΕΤΡΗΣΗ
+Line 178: ΠΟΣΟΤΗΤΩΝ
+Line 179: FLOROS PANTELI ASSOCIATES ΠΑΝΤΕΛΗ
+Line 180: ΥΓΕΙΑ
+Line 181: ΜΟΥΣΕΙΟΓΡΑΦΙΚ
+Line 182: ΘΩΜΑΣ
+Line 183: ΦΩΤΙΣΜΟΣ
+Line 184: DECO ASSOCIATES ΕΛ. ΝΤΕΚΩ
+Line 185: ΠΥΡΟΠΡΟΣΤΑΣΙ
+Line 186: INT FIRE CYPRUS LTD ΣΠ. ΣΠΥΡΟΥ
+Line 187: ΚΥΚΛΟΦΟΡΙΑΚ
+Line 188: DROMOS CONSULTING LTD ΖΕΚΚΟΣ
+Line 189: ΣΗΜΑΝΣΗ
+Line 190: POST SPECTACULAR OFFICE ΓΑΛΙΚΑΣ
+Line 191: ΚΤΗΡΙΟΥ
+Line 192: ARION PLUS
+Line 193: FEREOS ARCHITECTS LLC ΦΕΡΑΙΟΣ
+Line 194: Αναπλ. Υπεύθυνος Οµάδας Έργου
+Line 195: DROMOS CONSULTING LTD ΖΕΚΚΟΣ
+Line 196: ΓΕΩΤΕΧΝΙΚΑ
+Line 197: ΜΟΥΣΕΙΑΚΟΣ
+Line 198: XZA
+Line 199: ΒΑΣΙΛΕΙΟΥ
+Line 200: ΕΡΓΑΣΤΗΡΙ
+Line 201: VAP ARCHITECTS
+Line 202: Σύµβουλος Μελέτης Εφαρµογής
+Line 203: GEORGHIOU ZEMBYLAS
+Line 204: ANDREAS EVRIPIDOU CIVIL ENGINEERS
+Line 205: ΣΤΕΡΓΙΟΣ ΓΑΛΙΚΑΣ
+Line 206: ΘΩΜΑΣ
+Line 207: ΣΤΕΡΓΙΟΣ ΓΑΛΙΚΑΣ
+Line 208: Συνεργάτης ΤΣΑΜΠΙΚΟΣ ΠΕΤΡΑΣ
+Line 209: POST SPECTACULAR OFFICE ΓΑΛΙΚΑΣ
+Line 210: ΠΡΟΜΕΛΕΤΗ ΣΑΚΕΛΛΑΡΙΟΥ
+Line 211: ΦΥΣΙΚΟΣ
+Line 212: ΦΩΤΙΣΜΟΣ
+Line 213: ΤΣΑΓΚΡΑΣΟΥΛΗΣ
+Line 214: ΕΞΟΠΛΙΣΜΟΣ
+Line 215: ΚΟΥΖΙΝΑΣ
+Line 216: XENEX
+Line 217: ΕΝΕΡΓΕΙΑΚΑ
+Line 218: ΚΕΛΥΦΟΥΣ
+Line 219: METABUIL
+Line 220: ΓΡΑΦΙΣΤΙΚ
+Line 221: ΦΥΤΟΤΕΧΝΙΚ
+Line 222: LANDCO EΠΕ ΚΑΝΤΑΡΤΖΗΣ
+Line 223: ΦΕΒΡΟΥΑΡΙΟΣ 2021
+Line 224: P0
+Line 225: 2021 PM
+Line 226: 4440
+Line 227: ΚΑΤΟΨΗ ΑΝΟΨΗ ΧΩΡΟΥ ΥΓΙΕΙΝΗΣ
+Line 228: 4440
+Line 229: ΚΑΤΟΨΗ ΧΩΡΟΥ ΥΓΙΕΙΝΗΣ
+Line 230: ΑΝΟΨΗ ΧΩΡΟΥ ΥΓΙΕΙΝΗΣ
+Line 231: ΑΞΟΝΟΜΕΤΡΙΚΗ ΑΠΕΙΚΟΝΙΣΗ ΧΩΡΩΝ ΥΓΙΕΙΝΗΣ
+Line 232: P0
+Line 233: ΦΕΒΡΟΥΑΡΙΟΣ 2021
+Line 234: Υποβολή
+
+=== END OF FILTERED TEXT ===
+Total lines: 235

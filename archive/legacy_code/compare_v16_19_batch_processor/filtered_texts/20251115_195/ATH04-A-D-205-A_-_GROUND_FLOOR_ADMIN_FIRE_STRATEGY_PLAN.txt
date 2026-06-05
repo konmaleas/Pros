@@ -1,0 +1,308 @@
+=== FILTERED TEXT FOR: ATH04-A-D-205-A_-_GROUND_FLOOR_ADMIN_FIRE_STRATEGY_PLAN.pdf ===
+
+Line   0: ZF
+Line   1: ZA
+Line   2: YF
+Line   3: YE
+Line   4: YD
+Line   5: YC
+Line   6: YB
+Line   7: YA
+Line   8: 2370
+Line   9: 12745
+Line  10: 13600
+Line  11: 4500
+Line  12: 18650
+Line  13: 7695
+Line  14: 2370
+Line  15: 61930
+Line  16: 3000
+Line  17: 9200
+Line  18: 6350
+Line  19: 6150
+Line  20: 24700
+Line  21: SECURE
+Line  22: STORAGE
+Line  23: 00 044
+Line  24: HIGH VALUE
+Line  25: STORAGE
+Line  26: 00 046
+Line  27: LOADING
+Line  28: DOCK
+Line  29: 00 048
+Line  30: ASSET
+Line  31: MANAGEMENT
+Line  32: 00 047
+Line  33: ADMIN
+Line  34: SPRINKLER
+Line  35: RISER
+Line  36: 00 049
+Line  37: MMR 2
+Line  38: 00 053
+Line  39: WC
+Line  40: 00 051
+Line  41: CE
+Line  42: WORKSHOP
+Line  43: 00 043
+Line  44: GENERAL
+Line  45: STORAGE
+Line  46: 00 042
+Line  47: CABLE
+Line  48: STORAGE
+Line  49: 00 041
+Line  50: COLO
+Line  51: STORE
+Line  52: 00 056
+Line  53: JANITOR
+Line  54: ROOM
+Line  55: 00 037
+Line  56: UNISEX WC
+Line  57: 00 039
+Line  58: CHECK
+Line  59: POINT
+Line  60: 00 036
+Line  61: RECEIVING
+Line  62: STAGING
+Line  63: AREA
+Line  64: 00 040
+Line  65: ELEC ROOM
+Line  66: 00 024
+Line  67: SHRED
+Line  68: ROOM
+Line  69: 00 045
+Line  70: DIS
+Line  71: WC SHWR
+Line  72: 00 034
+Line  73: LOBBY WC
+Line  74: 00 033
+Line  75: CONFERENCE
+Line  76: ROOM 2
+Line  77: 00 032
+Line  78: INNER
+Line  79: LOBBY
+Line  80: 00 002
+Line  81: ENTRANCE
+Line  82: LOBBY
+Line  83: 00 001
+Line  84: SOC
+Line  85: 00 006
+Line  86: SOC
+Line  87: STORAGE
+Line  88: 00 008
+Line  89: SOC OFFICE
+Line  90: 00 007
+Line  91: CONFERENCE
+Line  92: ROOM
+Line  93: 00 009
+Line  94: FOC
+Line  95: 00 003
+Line  96: OFFICE
+Line  97: 00 004
+Line  98: FACILITY
+Line  99: OFFICE
+Line 100: 00 005
+Line 101: OFFICE
+Line 102: 00 014
+Line 103: OFFICE
+Line 104: 00 015
+Line 105: WELLNESS
+Line 106: 00 013
+Line 107: PRINT ROOM
+Line 108: 00 012
+Line 109: PHONE
+Line 110: BOOTH
+Line 111: 00 011
+Line 112: BREAK
+Line 113: ROOM
+Line 114: 00 017
+Line 115: MMR
+Line 116: 00 020
+Line 117: FCR
+Line 118: 00 022
+Line 119: CORRIDOR
+Line 120: 00 016
+Line 121: SER
+Line 122: 00 023
+Line 123: CORRIDOR
+Line 124: 00 021
+Line 125: STORAGE
+Line 126: 00 018
+Line 127: FIRE
+Line 128: ESCAPE
+Line 129: CORRIDOR
+Line 130: 00 019
+Line 131: INCOMING
+Line 132: WATER
+Line 133: RISER
+Line 134: 00 055
+Line 135: FIRE
+Line 136: ESCAPE
+Line 137: CORRIDOR
+Line 138: 00 052
+Line 139: LOBBY
+Line 140: 00 059
+Line 141: LOBBY
+Line 142: 00 029
+Line 143: WC
+Line 144: 00 031
+Line 145: WC
+Line 146: 00 030
+Line 147: LOBBY
+Line 148: 00 027
+Line 149: SHWR
+Line 150: CHANGE
+Line 151: 00 028
+Line 152: WC
+Line 153: 00 026
+Line 154: LOBBY
+Line 155: 00 025
+Line 156: MEETING
+Line 157: ROOM
+Line 158: 00 010
+Line 159: 1038
+Line 160: 1412
+Line 161: FIRE LEGEND
+Line 162: FIRE RESISTING DOORSET HAVE EI RATING
+Line 163: MIN FIRE RATING
+Line 164: MIN FIRE RESISTING WALL
+Line 165: FIRE RESISTING WALL
+Line 166: NOTES
+Line 167: LOAD BEARING INTEGRITY, INSULATION
+Line 168: FIRE SEPARATIONS COMPLIANCE LOCAL REGULATIONS.
+Line 169: MIN FIRE RESISTING WALL
+Line 170: MIN FIRE RESISTING WALL
+Line 171: FIRE RESISTING DOORSET HAVE EI RATING
+Line 172: MIN FIRE RATING
+Line 173: FIRE RESISTING DOORSET HAVE EI 45 RATING 45
+Line 174: MIN FIRE RATING
+Line 175: FINAL EXIT
+Line 176: NOTES
+Line 177: FIRE SEPARATIONS COMPLIANCE LOCAL REGULATIONS
+Line 178: OPERATIONAL PHASE CONSTRUCTION, FIRE SAFETY RELATED
+Line 179: SYSTEMS OPERATIONAL AREAS DATA CENTRE FIRE
+Line 180: DETECTION ALARM SYSTEM, AUTOMATIC SPRINKLER SYSTEM, SMOKE
+Line 181: VENTILATION SYSTEMS NEED FULLY FUNCTIONAL.
+Line 182: FIRE RESISTANCE FIREMASTER CEILING MATCH WALL ROOM
+Line 183: RATING. PENETRATIONS SUITABLE MAINTAIN FIRE
+Line 184: RESISTANCE SOFFIT.
+Line 185: FIRE RESISTING DOORSET HAVE EI RATING
+Line 186: MIN FIRE RATING
+Line 187: ΥΠΟΜΝΗΜΑ ΜΕΛΕΤΗΣ ΠΥΡΟΠΡΟΣΤΑΣΙΑΣ
+Line 188: ΠΥΡΑΝΤΟΧΗ ΠΟΡΤΑ ΜΕ ΔΕΙΚΤΗ ΠΥΡΑΝΤΙΣΤΑΣΗΣ ΕΙ
+Line 189: ΧΡΟΝΟΣ ΠΥΡΑΝΤΙΣΤΑΣΗΣ ΣΥΜΦΩΝΑ ΜΕ ΤΑ ΕΝ
+Line 190: ΠΡΟΤΥΠΑ.
+Line 191: ΠΥΡΑΝΤΟΧΗ ΠΟΡΤΑ ΜΕ ΔΕΙΚΤΗ ΠΥΡΑΝΤΙΣΤΑΣΗΣ ΕΙ
+Line 192: ΧΡΟΝΟΣ ΠΥΡΑΝΤΙΣΤΑΣΗΣ ΣΥΜΦΩΝΑ ΜΕ ΤΑ ΕΝ
+Line 193: ΠΡΟΤΥΠΑ.
+Line 194: ΠΥΡΑΝΤΟΧΗ ΟΡΟΦΗ ΜΕ ΔΕΙΚΤΗ ΠΥΡΑΝΤΙΣΤΑΣΗΣ ΑΝΑΛΟΓΟ ΤΟΥ
+Line 195: ΤΟΙΧΟΥ ΧΩΡΟΥ. ΤΑ ΑΝΟΙΓΜΑΤΑ ΔΙΕΛΕΥΣΗΣ ΣΤΟΙΧΕΙΩΝ ΝΑ
+Line 196: ΠΡΟΣΤΑΤΕΥΟΝΤΑΙ ΜΕ ΠΥΡΟΦΡΑΓΜΟΥΣ ΑΝΑΛΟΓΟΥ ΔΕΙΚΤΗ
+Line 197: ΠΥΡΑΝΤΙΣΤΑΣΗΣ.
+Line 198: ΠΥΡΑΝΤΟΧΗ ΠΟΡΤΑ ΜΕ ΔΕΙΚΤΗ ΠΥΡΑΝΤΙΣΤΑΣΗΣ ΕΙ 45
+Line 199: ΧΡΟΝΟΣ ΠΥΡΑΝΤΙΣΤΑΣΗΣ 45 ΣΥΜΦΩΝΑ ΜΕ ΤΑ ΕΝ
+Line 200: ΠΡΟΤΥΠΑ.
+Line 201: ΠΥΡΑΝΤΟΧΗ ΠΟΡΤΑ ΜΕ ΔΕΙΚΤΗ ΠΥΡΑΝΤΙΣΤΑΣΗΣ ΕΙ
+Line 202: ΧΡΟΝΟΣ ΠΥΡΑΝΤΙΣΤΑΣΗΣ ΣΥΜΦΩΝΑ ΜΕ ΤΑ ΕΝ
+Line 203: ΠΡΟΤΥΠΑ.
+Line 204: ΠΥΡΑΝΤΟΧΟΣ ΤΟΙΧΟΣ ΣΥΜΦΩΝΑ ΜΕ ΤΑ ΕΝ
+Line 205: ΠΡΟΤΥΠΑ
+Line 206: ΠΥΡΑΝΤΟΧΟΣ ΤΟΙΧΟΣ ΣΥΜΦΩΝΑ ΜΕ ΤΑ ΕΝ
+Line 207: ΠΡΟΤΥΠΑ
+Line 208: ΠΥΡΑΝΤΟΧΟΣ ΤΟΙΧΟΣ ΣΥΜΦΩΝΑ ΜΕ ΤΑ ΕΝ
+Line 209: ΠΡΟΤΥΠΑ
+Line 210: ΠΥΡΑΝΤΟΧΟΣ ΤΟΙΧΟΣ ΣΥΜΦΩΝΑ ΜΕ ΤΑ ΕΝ
+Line 211: ΠΡΟΤΥΠΑ
+Line 212: ΟΛΑ ΤΑ ΠΥΡΑΝΤΟΧΑ ΧΩΡΙΣΜΑΤΑ ΝΑ ΣΥΜΦΩΝΟΥΝ ΜΕ ΤΙΣ ΤΟΠΙΚΕΣ ΔΙΑΤΑΞΕΙΣ ΚΑΙ ΝΟΜΟΘΕΣΙΑ
+Line 213: ΠΟΡΕΙΑ ΣΕ ΟΔΕΥΣΗ ΔΙΑΦΥΓΗΣ
+Line 214: ΤΕΛΙΚΗ ΕΞΟΔΟΣ
+Line 215: Travel Distance Path
+Line 216: FIRE RESISTING DOORSET HAVE EI RATING
+Line 217: MIN FIRE RATING
+Line 218: ΠΥΡΑΝΤΟΧΗ ΠΟΡΤΑ ΜΕ ΔΕΙΚΤΗ ΠΥΡΑΝΤΙΣΤΑΣΗΣ ΕΙ
+Line 219: ΧΡΟΝΟΣ ΠΥΡΑΝΤΙΣΤΑΣΗΣ ΣΥΜΦΩΝΑ ΜΕ ΤΑ ΕΝ
+Line 220: ΠΡΟΤΥΠΑ.
+Line 221: FIRE LEGEND
+Line 222: DUCTWORK, PIPEWORK ETC. PENETRATING FIRE RATED WALLS PARTITIONS CEILINGS FLOORS
+Line 223: FITTED INTUMESCENT SEALS COLLARS FIRE FIRE SMOKE DAMPERS MATCH FIRE
+Line 224: PROTECTION PENETRATED ELEMENT.
+Line 225: CEILING, FLOORS, WALL CAVITIES VOIDS, SHAFTS RISERS HAVE APPROPRIATE FIRE
+Line 226: SMOKE STOPPING DETECTORS REQUIRED INCORPORATED REQUIRED DISTANCES
+Line 227: DESCRIBED CURRENT REGULATIONS. FURTHER DETAILED ELECTRICAL
+Line 228: ENGINEERING DRAWINGS. FIRE SMOKE STOPPING SYSTEMS INSTALLED RECOMMENDED
+Line 229: MANUFACTURER.
+Line 230: AUTOMATIC FIRE SMOKE HEAT DETECTION ALARM SYSTEM INSTALLED ACCORDANCE
+Line 231: CURRENT REGULATION. REFER ELECTRICAL ENGINEERING DESIGN FURTHER DETAILS.
+Line 232: LOCATIONS FIREMANS OVERRIDE PANEL, REFER ELECTRICAL ENGINEERING DRAWINGS.
+Line 233: EMERGENCY LIGHTING COMPLY CURRENT REGULATIONS. REFER ELECTRICAL
+Line 234: ENGINEERING DESIGN.
+Line 235: INTERNAL WALL CEILING LININGS ACCORDANCE STANDARD EN 13501.
+Line 236: DETAILS FIRE DETECTORS, SOUNDERS, WARNING ALARM FLASHING LIGHTS EMERGENCY
+Line 237: LIGHTING INTERNAL EXTERNAL PLANT AREAS, REFER MECHANICAL ELECTRICAL ENGINEERS
+Line 238: DRAWINGS SPECIFICATIONS.
+Line 239: FIRE RATING ELEMENTS STRUCTURE, REFER STRUCTURAL ENGINEERING DRAWINGS
+Line 240: LIFE SAFETY FIRE STRATEGY REPORT.
+Line 241: DRY RISERS DETAILS SPECIFICATION, REFER MECHANICAL ELECTRICAL
+Line 242: ENGINEERING DRAWINGS.
+Line 243: ADMIN BALLARD PROVIDED AUTOMATIC SPRINKLER SYSTEM. REFER
+Line 244: MECHANICAL ENGINEERING DRAWINGS FULL SPRINKLER DESIGN.
+Line 245: DETAILS BREAK GLASS, FIRE ALARM, SMOKE HEAT DETECTORS, SOUNDERS VISUAL
+Line 246: WARNING LIGHTS, REFER ELECTRICAL ENGINEEERING DRAWINGS.
+Line 247: ADMIN
+Line 248: COLO
+Line 249: COLO 2
+Line 250: 2
+Line 251: 4
+Line 252: 2
+Line 253: 4
+Line 254: TRUE NORTH
+Line 255: Sheet Title Number
+Line 256: Scale
+Line 257: Plan
+Line 258: Design Consultants
+Line 259: Microsoft
+Line 260: DATA CENTER
+Line 261: SPATA GREECE
+Line 262: Contractor Joint Venture
+Line 263: Name
+Line 264: Contractor Project
+Line 265: Contractor Contract
+Line 266: Contractor PM
+Line 267: Contractor BIM Mngr
+Line 268: Contractor Information
+Line 269: Renco Terna
+Line 270: Client
+Line 271: General Notes
+Line 272: Client Project
+Line 273: Client Contract
+Line 274: Client PM
+Line 275: Client BIM Mngr
+Line 276: Primary Client Information
+Line 277: Layout
+Line 278: Revision
+Line 279: Tombazi Chalandri
+Line 280: 15232
+Line 281: Athens Greece
+Line 282: 0800 3262
+Line 283: Agion Theodoron Square Athens
+Line 284: 10561
+Line 285: Athens Greece
+Line 286: Kimithois Agios Dimitrios
+Line 287: 17236
+Line 288: Athens Greece
+Line 289: Purpose Issue
+Line 290: Issue
+Line 291: Name
+Line 292: GROUND FLOOR ADMIN FIRE
+Line 293: STRATEGY PLAN
+Line 294: 2500
+Line 295: 5000
+Line 296: SCALE
+Line 297: 2.
+Line 298: Date
+Line 299: Description
+Line 300: 04
+Line 301: Issued Approval
+Line 302: HVE JV
+
+=== END OF FILTERED TEXT ===
+Total lines: 303

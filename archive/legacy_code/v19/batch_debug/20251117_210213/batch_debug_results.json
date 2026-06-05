@@ -1,0 +1,962 @@
+[
+  {
+    "project_name": "2203 KLM-9",
+    "project_path": "/media/konstantinos/DATA/PyTests/Submission/Process/2203 KLM-9",
+    "total_pdfs": 7,
+    "successful_cases": 1,
+    "failed_cases": 0,
+    "cases": [
+      {
+        "case_path": "/media/konstantinos/DATA/PyTests/Submission/Process/2203 KLM-9/Α-200_ΑΝΟΨΕΙΣ",
+        "pdf_count": 7,
+        "success": true,
+        "error_message": "",
+        "inferred_title": "KLM-ARC-A201",
+        "template_file": "",
+        "total_files_analyzed": 7,
+        "files_with_patterns": 0,
+        "processing_time": 4.148783,
+        "found_titles": {}
+      }
+    ]
+  },
+  {
+    "project_name": "1301 SNFCC",
+    "project_path": "/media/konstantinos/DATA/PyTests/Submission/Process/1301 SNFCC",
+    "total_pdfs": 9,
+    "successful_cases": 1,
+    "failed_cases": 0,
+    "cases": [
+      {
+        "case_path": "/media/konstantinos/DATA/PyTests/Submission/Process/1301 SNFCC/SUBMIT 21-10-2013",
+        "pdf_count": 9,
+        "success": true,
+        "error_message": "",
+        "inferred_title": "JVIT-COS-10-1-0023-00",
+        "template_file": "",
+        "total_files_analyzed": 9,
+        "files_with_patterns": 0,
+        "processing_time": 8.171471,
+        "found_titles": {}
+      }
+    ]
+  },
+  {
+    "project_name": "1601 KAPLANKAYA",
+    "project_path": "/media/konstantinos/DATA/PyTests/Submission/Process/1601 KAPLANKAYA",
+    "total_pdfs": 22,
+    "successful_cases": 1,
+    "failed_cases": 0,
+    "cases": [
+      {
+        "case_path": "/media/konstantinos/DATA/PyTests/Submission/Process/1601 KAPLANKAYA/PDF_SUBMISSION 31_03",
+        "pdf_count": 22,
+        "success": true,
+        "error_message": "",
+        "inferred_title": "A0-0000-00",
+        "template_file": "",
+        "total_files_analyzed": 22,
+        "files_with_patterns": 0,
+        "processing_time": 18.688316,
+        "found_titles": {}
+      }
+    ]
+  },
+  {
+    "project_name": "1602 TAHLIA WALK",
+    "project_path": "/media/konstantinos/DATA/PyTests/Submission/Process/1602 TAHLIA WALK",
+    "total_pdfs": 72,
+    "successful_cases": 2,
+    "failed_cases": 0,
+    "cases": [
+      {
+        "case_path": "/media/konstantinos/DATA/PyTests/Submission/Process/1602 TAHLIA WALK/A3",
+        "pdf_count": 18,
+        "success": true,
+        "error_message": "",
+        "inferred_title": "A101-00",
+        "template_file": "",
+        "total_files_analyzed": 18,
+        "files_with_patterns": 0,
+        "processing_time": 13.816593,
+        "found_titles": {}
+      },
+      {
+        "case_path": "/media/konstantinos/DATA/PyTests/Submission/Process/1602 TAHLIA WALK/PDF",
+        "pdf_count": 54,
+        "success": true,
+        "error_message": "",
+        "inferred_title": "VAP-TW-A001-00",
+        "template_file": "",
+        "total_files_analyzed": 54,
+        "files_with_patterns": 0,
+        "processing_time": 36.677097,
+        "found_titles": {}
+      }
+    ]
+  },
+  {
+    "project_name": "1603 SNFCC-DAY_2",
+    "project_path": "/media/konstantinos/DATA/PyTests/Submission/Process/1603 SNFCC-DAY_2",
+    "total_pdfs": 5,
+    "successful_cases": 1,
+    "failed_cases": 0,
+    "cases": [
+      {
+        "case_path": "/media/konstantinos/DATA/PyTests/Submission/Process/1603 SNFCC-DAY_2/PDF",
+        "pdf_count": 5,
+        "success": true,
+        "error_message": "",
+        "inferred_title": "JVIT-ARC-10-1-3301-D2",
+        "template_file": "",
+        "total_files_analyzed": 5,
+        "files_with_patterns": 0,
+        "processing_time": 8.937556,
+        "found_titles": {}
+      }
+    ]
+  },
+  {
+    "project_name": "1605 INTRAKAT HOTEL MYKONOS",
+    "project_path": "/media/konstantinos/DATA/PyTests/Submission/Process/1605 INTRAKAT HOTEL MYKONOS",
+    "total_pdfs": 75,
+    "successful_cases": 1,
+    "failed_cases": 0,
+    "cases": [
+      {
+        "case_path": "/media/konstantinos/DATA/PyTests/Submission/Process/1605 INTRAKAT HOTEL MYKONOS/PDF",
+        "pdf_count": 75,
+        "success": true,
+        "error_message": "",
+        "inferred_title": "1-303-00",
+        "template_file": "",
+        "total_files_analyzed": 75,
+        "files_with_patterns": 0,
+        "processing_time": 48.555955,
+        "found_titles": {}
+      }
+    ]
+  },
+  {
+    "project_name": "1701 PORTOHELI",
+    "project_path": "/media/konstantinos/DATA/PyTests/Submission/Process/1701 PORTOHELI",
+    "total_pdfs": 201,
+    "successful_cases": 1,
+    "failed_cases": 0,
+    "cases": [
+      {
+        "case_path": "/media/konstantinos/DATA/PyTests/Submission/Process/1701 PORTOHELI/PDF",
+        "pdf_count": 201,
+        "success": true,
+        "error_message": "",
+        "inferred_title": "A001-00",
+        "template_file": "",
+        "total_files_analyzed": 201,
+        "files_with_patterns": 0,
+        "processing_time": 202.264289,
+        "found_titles": {}
+      }
+    ]
+  },
+  {
+    "project_name": "1702 XRHMATISTHRIO",
+    "project_path": "/media/konstantinos/DATA/PyTests/Submission/Process/1702 XRHMATISTHRIO",
+    "total_pdfs": 13,
+    "successful_cases": 1,
+    "failed_cases": 0,
+    "cases": [
+      {
+        "case_path": "/media/konstantinos/DATA/PyTests/Submission/Process/1702 XRHMATISTHRIO/PDF",
+        "pdf_count": 13,
+        "success": true,
+        "error_message": "",
+        "inferred_title": "YF01",
+        "template_file": "",
+        "total_files_analyzed": 13,
+        "files_with_patterns": 0,
+        "processing_time": 9.499737,
+        "found_titles": {}
+      }
+    ]
+  },
+  {
+    "project_name": "1707 ΔΗΜΑΡΧΕΙΟ ΧΑΛΑΝΔΡΙΟΥ",
+    "project_path": "/media/konstantinos/DATA/PyTests/Submission/Process/1707 ΔΗΜΑΡΧΕΙΟ ΧΑΛΑΝΔΡΙΟΥ",
+    "total_pdfs": 19,
+    "successful_cases": 1,
+    "failed_cases": 0,
+    "cases": [
+      {
+        "case_path": "/media/konstantinos/DATA/PyTests/Submission/Process/1707 ΔΗΜΑΡΧΕΙΟ ΧΑΛΑΝΔΡΙΟΥ/PDF",
+        "pdf_count": 19,
+        "success": true,
+        "error_message": "",
+        "inferred_title": "1707-A701-00",
+        "template_file": "",
+        "total_files_analyzed": 19,
+        "files_with_patterns": 0,
+        "processing_time": 16.244247,
+        "found_titles": {}
+      }
+    ]
+  },
+  {
+    "project_name": "1708 PORTOHELI-II",
+    "project_path": "/media/konstantinos/DATA/PyTests/Submission/Process/1708 PORTOHELI-II",
+    "total_pdfs": 16,
+    "successful_cases": 1,
+    "failed_cases": 0,
+    "cases": [
+      {
+        "case_path": "/media/konstantinos/DATA/PyTests/Submission/Process/1708 PORTOHELI-II/1708_PORTOHELI_II_PDF_OM",
+        "pdf_count": 16,
+        "success": true,
+        "error_message": "",
+        "inferred_title": "101",
+        "template_file": "",
+        "total_files_analyzed": 16,
+        "files_with_patterns": 0,
+        "processing_time": 12.78672,
+        "found_titles": {}
+      }
+    ]
+  },
+  {
+    "project_name": "1802 SNFCC-BP_93-2017_REV",
+    "project_path": "/media/konstantinos/DATA/PyTests/Submission/Process/1802 SNFCC-BP_93-2017_REV",
+    "total_pdfs": 10,
+    "successful_cases": 1,
+    "failed_cases": 0,
+    "cases": [
+      {
+        "case_path": "/media/konstantinos/DATA/PyTests/Submission/Process/1802 SNFCC-BP_93-2017_REV/ΑΝΑΘΕΩΡΗΣΗ ΑΔΕΙΑΣ ΔΟΜΗΣΗΣ",
+        "pdf_count": 10,
+        "success": true,
+        "error_message": "",
+        "inferred_title": "JVIT-ARC-00-0-0011-02-REV02",
+        "template_file": "",
+        "total_files_analyzed": 10,
+        "files_with_patterns": 0,
+        "processing_time": 22.151711,
+        "found_titles": {}
+      }
+    ]
+  },
+  {
+    "project_name": "1902 CST",
+    "project_path": "/media/konstantinos/DATA/PyTests/Submission/Process/1902 CST",
+    "total_pdfs": 32,
+    "successful_cases": 1,
+    "failed_cases": 0,
+    "cases": [
+      {
+        "case_path": "/media/konstantinos/DATA/PyTests/Submission/Process/1902 CST/PDF",
+        "pdf_count": 32,
+        "success": true,
+        "error_message": "",
+        "inferred_title": "1902-CST-A9-501-00",
+        "template_file": "",
+        "total_files_analyzed": 32,
+        "files_with_patterns": 0,
+        "processing_time": 21.233076,
+        "found_titles": {}
+      }
+    ]
+  },
+  {
+    "project_name": "1903 OST",
+    "project_path": "/media/konstantinos/DATA/PyTests/Submission/Process/1903 OST",
+    "total_pdfs": 7,
+    "successful_cases": 1,
+    "failed_cases": 0,
+    "cases": [
+      {
+        "case_path": "/media/konstantinos/DATA/PyTests/Submission/Process/1903 OST/PDF",
+        "pdf_count": 7,
+        "success": true,
+        "error_message": "",
+        "inferred_title": "1903-OST-A9-524-00",
+        "template_file": "",
+        "total_files_analyzed": 7,
+        "files_with_patterns": 0,
+        "processing_time": 5.077119,
+        "found_titles": {}
+      }
+    ]
+  },
+  {
+    "project_name": "1904 AGMT",
+    "project_path": "/media/konstantinos/DATA/PyTests/Submission/Process/1904 AGMT",
+    "total_pdfs": 7,
+    "successful_cases": 1,
+    "failed_cases": 0,
+    "cases": [
+      {
+        "case_path": "/media/konstantinos/DATA/PyTests/Submission/Process/1904 AGMT/PDF",
+        "pdf_count": 7,
+        "success": true,
+        "error_message": "",
+        "inferred_title": "1904-AGMT-A9-426-00",
+        "template_file": "",
+        "total_files_analyzed": 7,
+        "files_with_patterns": 0,
+        "processing_time": 4.531592,
+        "found_titles": {}
+      }
+    ]
+  },
+  {
+    "project_name": "1906 AVL5",
+    "project_path": "/media/konstantinos/DATA/PyTests/Submission/Process/1906 AVL5",
+    "total_pdfs": 13,
+    "successful_cases": 1,
+    "failed_cases": 0,
+    "cases": [
+      {
+        "case_path": "/media/konstantinos/DATA/PyTests/Submission/Process/1906 AVL5/PDF",
+        "pdf_count": 13,
+        "success": true,
+        "error_message": "",
+        "inferred_title": "1906-AVL5-VAP-ARC-A9-132-3",
+        "template_file": "",
+        "total_files_analyzed": 13,
+        "files_with_patterns": 0,
+        "processing_time": 9.389725,
+        "found_titles": {}
+      }
+    ]
+  },
+  {
+    "project_name": "1907 PEN4",
+    "project_path": "/media/konstantinos/DATA/PyTests/Submission/Process/1907 PEN4",
+    "total_pdfs": 7,
+    "successful_cases": 1,
+    "failed_cases": 0,
+    "cases": [
+      {
+        "case_path": "/media/konstantinos/DATA/PyTests/Submission/Process/1907 PEN4/SIGNED",
+        "pdf_count": 7,
+        "success": true,
+        "error_message": "",
+        "inferred_title": "PEN-IV-A101",
+        "template_file": "",
+        "total_files_analyzed": 7,
+        "files_with_patterns": 0,
+        "processing_time": 4.480036,
+        "found_titles": {}
+      }
+    ]
+  },
+  {
+    "project_name": "1910 CYPRUS MUSEUM",
+    "project_path": "/media/konstantinos/DATA/PyTests/Submission/Process/1910 CYPRUS MUSEUM",
+    "total_pdfs": 16,
+    "successful_cases": 1,
+    "failed_cases": 0,
+    "cases": [
+      {
+        "case_path": "/media/konstantinos/DATA/PyTests/Submission/Process/1910 CYPRUS MUSEUM/PDF new",
+        "pdf_count": 16,
+        "success": true,
+        "error_message": "",
+        "inferred_title": "NCM-DD-ZZ-DR-ARC-3011-P4",
+        "template_file": "",
+        "total_files_analyzed": 16,
+        "files_with_patterns": 0,
+        "processing_time": 44.395177,
+        "found_titles": {}
+      }
+    ]
+  },
+  {
+    "project_name": "2001 HELLINIKON_SITE_MGMT",
+    "project_path": "/media/konstantinos/DATA/PyTests/Submission/Process/2001 HELLINIKON_SITE_MGMT",
+    "total_pdfs": 3,
+    "successful_cases": 1,
+    "failed_cases": 0,
+    "cases": [
+      {
+        "case_path": "/media/konstantinos/DATA/PyTests/Submission/Process/2001 HELLINIKON_SITE_MGMT/ΥΠΟΓΕΙΟΠΟΙΗΣΗ ΠΟΣΕΙΔΩΝΟΣ",
+        "pdf_count": 3,
+        "success": true,
+        "error_message": "",
+        "inferred_title": "02-CIV-GEN-301-L-001-02",
+        "template_file": "",
+        "total_files_analyzed": 3,
+        "files_with_patterns": 0,
+        "processing_time": 2.911469,
+        "found_titles": {}
+      }
+    ]
+  },
+  {
+    "project_name": "2101 TERNA_M-TR",
+    "project_path": "/media/konstantinos/DATA/PyTests/Submission/Process/2101 TERNA_M-TR",
+    "total_pdfs": 6,
+    "successful_cases": 1,
+    "failed_cases": 0,
+    "cases": [
+      {
+        "case_path": "/media/konstantinos/DATA/PyTests/Submission/Process/2101 TERNA_M-TR/PDF",
+        "pdf_count": 6,
+        "success": true,
+        "error_message": "",
+        "inferred_title": "TRN-MTR-VAP-A-301-01",
+        "template_file": "",
+        "total_files_analyzed": 6,
+        "files_with_patterns": 0,
+        "processing_time": 4.640671,
+        "found_titles": {}
+      }
+    ]
+  },
+  {
+    "project_name": "2103 ΧΡΥΣΑΝΘΕΜΩΝ",
+    "project_path": "/media/konstantinos/DATA/PyTests/Submission/Process/2103 ΧΡΥΣΑΝΘΕΜΩΝ",
+    "total_pdfs": 4,
+    "successful_cases": 1,
+    "failed_cases": 0,
+    "cases": [
+      {
+        "case_path": "/media/konstantinos/DATA/PyTests/Submission/Process/2103 ΧΡΥΣΑΝΘΕΜΩΝ/ΤΟΜΕΣ",
+        "pdf_count": 4,
+        "success": true,
+        "error_message": "",
+        "inferred_title": "2103-CHR-ARC-301",
+        "template_file": "",
+        "total_files_analyzed": 4,
+        "files_with_patterns": 0,
+        "processing_time": 3.682095,
+        "found_titles": {}
+      }
+    ]
+  },
+  {
+    "project_name": "2106 SNFCC_RESTAURANT_BP-REV",
+    "project_path": "/media/konstantinos/DATA/PyTests/Submission/Process/2106 SNFCC_RESTAURANT_BP-REV",
+    "total_pdfs": 13,
+    "successful_cases": 1,
+    "failed_cases": 0,
+    "cases": [
+      {
+        "case_path": "/media/konstantinos/DATA/PyTests/Submission/Process/2106 SNFCC_RESTAURANT_BP-REV/ΥΔΡΕΥΣΗ",
+        "pdf_count": 13,
+        "success": true,
+        "error_message": "",
+        "inferred_title": "JVIT-MWE-60-1-0001-02",
+        "template_file": "",
+        "total_files_analyzed": 13,
+        "files_with_patterns": 0,
+        "processing_time": 15.605029,
+        "found_titles": {}
+      }
+    ]
+  },
+  {
+    "project_name": "2107 HEL_SEAFRONT_VL-PLOT_1.2.4",
+    "project_path": "/media/konstantinos/DATA/PyTests/Submission/Process/2107 HEL_SEAFRONT_VL-PLOT_1.2.4",
+    "total_pdfs": 12,
+    "successful_cases": 1,
+    "failed_cases": 0,
+    "cases": [
+      {
+        "case_path": "/media/konstantinos/DATA/PyTests/Submission/Process/2107 HEL_SEAFRONT_VL-PLOT_1.2.4/PDF",
+        "pdf_count": 12,
+        "success": true,
+        "error_message": "",
+        "inferred_title": "4062-124-ATA-DWG-234-DD-00801-A",
+        "template_file": "",
+        "total_files_analyzed": 12,
+        "files_with_patterns": 0,
+        "processing_time": 19.952782,
+        "found_titles": {}
+      }
+    ]
+  },
+  {
+    "project_name": "2108 ATH3-DATA_CENTER",
+    "project_path": "/media/konstantinos/DATA/PyTests/Submission/Process/2108 ATH3-DATA_CENTER",
+    "total_pdfs": 8,
+    "successful_cases": 1,
+    "failed_cases": 0,
+    "cases": [
+      {
+        "case_path": "/media/konstantinos/DATA/PyTests/Submission/Process/2108 ATH3-DATA_CENTER/PDF",
+        "pdf_count": 8,
+        "success": true,
+        "error_message": "",
+        "inferred_title": "GR-ATH3-Z-ZZ-MYT-DD-A-45000",
+        "template_file": "",
+        "total_files_analyzed": 8,
+        "files_with_patterns": 0,
+        "processing_time": 7.239501,
+        "found_titles": {}
+      }
+    ]
+  },
+  {
+    "project_name": "2110 BIG AU1.5",
+    "project_path": "/media/konstantinos/DATA/PyTests/Submission/Process/2110 BIG AU1.5",
+    "total_pdfs": 4,
+    "successful_cases": 1,
+    "failed_cases": 0,
+    "cases": [
+      {
+        "case_path": "/media/konstantinos/DATA/PyTests/Submission/Process/2110 BIG AU1.5/PDF",
+        "pdf_count": 4,
+        "success": true,
+        "error_message": "",
+        "inferred_title": "4005-RES-BIG-234-CO-00102",
+        "template_file": "",
+        "total_files_analyzed": 4,
+        "files_with_patterns": 0,
+        "processing_time": 3.779398,
+        "found_titles": {}
+      }
+    ]
+  },
+  {
+    "project_name": "2202 AMANZOE_V23",
+    "project_path": "/media/konstantinos/DATA/PyTests/Submission/Process/2202 AMANZOE_V23",
+    "total_pdfs": 6,
+    "successful_cases": 1,
+    "failed_cases": 0,
+    "cases": [
+      {
+        "case_path": "/media/konstantinos/DATA/PyTests/Submission/Process/2202 AMANZOE_V23/PDFs",
+        "pdf_count": 6,
+        "success": true,
+        "error_message": "",
+        "inferred_title": "HELMOOB-23-PW-001-A",
+        "template_file": "",
+        "total_files_analyzed": 6,
+        "files_with_patterns": 0,
+        "processing_time": 5.531452,
+        "found_titles": {}
+      }
+    ]
+  },
+  {
+    "project_name": "2206 BLP TEMES",
+    "project_path": "/media/konstantinos/DATA/PyTests/Submission/Process/2206 BLP TEMES",
+    "total_pdfs": 59,
+    "successful_cases": 3,
+    "failed_cases": 0,
+    "cases": [
+      {
+        "case_path": "/media/konstantinos/DATA/PyTests/Submission/Process/2206 BLP TEMES/B05",
+        "pdf_count": 4,
+        "success": true,
+        "error_message": "",
+        "inferred_title": "BLP-VAP-ARC-TD-A-B05-1-0011",
+        "template_file": "",
+        "total_files_analyzed": 4,
+        "files_with_patterns": 0,
+        "processing_time": 5.393505,
+        "found_titles": {}
+      },
+      {
+        "case_path": "/media/konstantinos/DATA/PyTests/Submission/Process/2206 BLP TEMES/DETAILS",
+        "pdf_count": 6,
+        "success": true,
+        "error_message": "",
+        "inferred_title": "271-BD01-Lighting-Details-REV01",
+        "template_file": "",
+        "total_files_analyzed": 6,
+        "files_with_patterns": 0,
+        "processing_time": 3.310367,
+        "found_titles": {}
+      },
+      {
+        "case_path": "/media/konstantinos/DATA/PyTests/Submission/Process/2206 BLP TEMES/DRAWINGS",
+        "pdf_count": 49,
+        "success": true,
+        "error_message": "",
+        "inferred_title": "381-KST-CD-A-B-9A-101-00",
+        "template_file": "",
+        "total_files_analyzed": 49,
+        "files_with_patterns": 0,
+        "processing_time": 39.894277,
+        "found_titles": {}
+      }
+    ]
+  },
+  {
+    "project_name": "2208 AVAX-SITE_OFFICES",
+    "project_path": "/media/konstantinos/DATA/PyTests/Submission/Process/2208 AVAX-SITE_OFFICES",
+    "total_pdfs": 31,
+    "successful_cases": 1,
+    "failed_cases": 0,
+    "cases": [
+      {
+        "case_path": "/media/konstantinos/DATA/PyTests/Submission/Process/2208 AVAX-SITE_OFFICES/PDF",
+        "pdf_count": 31,
+        "success": true,
+        "error_message": "",
+        "inferred_title": "ARC-SO-A1-101-00",
+        "template_file": "",
+        "total_files_analyzed": 31,
+        "files_with_patterns": 0,
+        "processing_time": 49.283844,
+        "found_titles": {}
+      }
+    ]
+  },
+  {
+    "project_name": "2211 HELLINIKON-AU1.5",
+    "project_path": "/media/konstantinos/DATA/PyTests/Submission/Process/2211 HELLINIKON-AU1.5",
+    "total_pdfs": 15,
+    "successful_cases": 1,
+    "failed_cases": 0,
+    "cases": [
+      {
+        "case_path": "/media/konstantinos/DATA/PyTests/Submission/Process/2211 HELLINIKON-AU1.5/ZIP PERMIT",
+        "pdf_count": 15,
+        "success": true,
+        "error_message": "",
+        "inferred_title": "4005-RES-VAP-DWG-234-DD-02301-D",
+        "template_file": "",
+        "total_files_analyzed": 15,
+        "files_with_patterns": 0,
+        "processing_time": 13.390015,
+        "found_titles": {}
+      }
+    ]
+  },
+  {
+    "project_name": "2213 AMANZOE_V24",
+    "project_path": "/media/konstantinos/DATA/PyTests/Submission/Process/2213 AMANZOE_V24",
+    "total_pdfs": 9,
+    "successful_cases": 1,
+    "failed_cases": 0,
+    "cases": [
+      {
+        "case_path": "/media/konstantinos/DATA/PyTests/Submission/Process/2213 AMANZOE_V24/S",
+        "pdf_count": 9,
+        "success": true,
+        "error_message": "",
+        "inferred_title": "HELMOOB-24-DD-VAP-ARC-A9-800-HARDSCAPE-STAIRS-DETAILS-A9-804",
+        "template_file": "",
+        "total_files_analyzed": 9,
+        "files_with_patterns": 0,
+        "processing_time": 4.039038,
+        "found_titles": {}
+      }
+    ]
+  },
+  {
+    "project_name": "2302 ATH4-DATA_CENTER",
+    "project_path": "/media/konstantinos/DATA/PyTests/Submission/Process/2302 ATH4-DATA_CENTER",
+    "total_pdfs": 2,
+    "successful_cases": 1,
+    "failed_cases": 0,
+    "cases": [
+      {
+        "case_path": "/media/konstantinos/DATA/PyTests/Submission/Process/2302 ATH4-DATA_CENTER/20230804_ FLOOR PLANS 43000",
+        "pdf_count": 2,
+        "success": true,
+        "error_message": "",
+        "inferred_title": "GR-ATH4-Z-L1-MYT-DR-A-43000",
+        "template_file": "",
+        "total_files_analyzed": 2,
+        "files_with_patterns": 0,
+        "processing_time": 1.143407,
+        "found_titles": {}
+      }
+    ]
+  },
+  {
+    "project_name": "2303 ELLINIKON_B6-PARK_ADMIN",
+    "project_path": "/media/konstantinos/DATA/PyTests/Submission/Process/2303 ELLINIKON_B6-PARK_ADMIN",
+    "total_pdfs": 7,
+    "successful_cases": 1,
+    "failed_cases": 0,
+    "cases": [
+      {
+        "case_path": "/media/konstantinos/DATA/PyTests/Submission/Process/2303 ELLINIKON_B6-PARK_ADMIN/PDF",
+        "pdf_count": 7,
+        "success": true,
+        "error_message": "",
+        "inferred_title": "4A01-B06-VAP-DWG-280-DD-05101-A",
+        "template_file": "",
+        "total_files_analyzed": 7,
+        "files_with_patterns": 0,
+        "processing_time": 8.811227,
+        "found_titles": {}
+      }
+    ]
+  },
+  {
+    "project_name": "2305 AMANZOE_V23-R",
+    "project_path": "/media/konstantinos/DATA/PyTests/Submission/Process/2305 AMANZOE_V23-R",
+    "total_pdfs": 13,
+    "successful_cases": 1,
+    "failed_cases": 0,
+    "cases": [
+      {
+        "case_path": "/media/konstantinos/DATA/PyTests/Submission/Process/2305 AMANZOE_V23-R/02 Μελέτη Ενεργειακής Απόδοσης Κτιρίου",
+        "pdf_count": 13,
+        "success": true,
+        "error_message": "",
+        "inferred_title": "HELMOOB-23-KNK-001-A",
+        "template_file": "",
+        "total_files_analyzed": 13,
+        "files_with_patterns": 0,
+        "processing_time": 8.21292,
+        "found_titles": {}
+      }
+    ]
+  },
+  {
+    "project_name": "2306 AMANZOE_V07",
+    "project_path": "/media/konstantinos/DATA/PyTests/Submission/Process/2306 AMANZOE_V07",
+    "total_pdfs": 6,
+    "successful_cases": 1,
+    "failed_cases": 0,
+    "cases": [
+      {
+        "case_path": "/media/konstantinos/DATA/PyTests/Submission/Process/2306 AMANZOE_V07/V07_PDF",
+        "pdf_count": 6,
+        "success": true,
+        "error_message": "",
+        "inferred_title": "HELMOOB-TK07-DD-VAP-A1-302-SEC-G01-G02",
+        "template_file": "",
+        "total_files_analyzed": 6,
+        "files_with_patterns": 0,
+        "processing_time": 5.114358,
+        "found_titles": {}
+      }
+    ]
+  },
+  {
+    "project_name": "2307 ERIGON-KAPREZA",
+    "project_path": "/media/konstantinos/DATA/PyTests/Submission/Process/2307 ERIGON-KAPREZA",
+    "total_pdfs": 7,
+    "successful_cases": 1,
+    "failed_cases": 0,
+    "cases": [
+      {
+        "case_path": "/media/konstantinos/DATA/PyTests/Submission/Process/2307 ERIGON-KAPREZA/DRAWINGS",
+        "pdf_count": 7,
+        "success": true,
+        "error_message": "",
+        "inferred_title": "2307-ERIGON-VAP-ARCH-101-COVERAGE-DIAGRAM",
+        "template_file": "",
+        "total_files_analyzed": 7,
+        "files_with_patterns": 0,
+        "processing_time": 5.832379,
+        "found_titles": {}
+      }
+    ]
+  },
+  {
+    "project_name": "2401 PHAEA-SOUTH_CRETE",
+    "project_path": "/media/konstantinos/DATA/PyTests/Submission/Process/2401 PHAEA-SOUTH_CRETE",
+    "total_pdfs": 6,
+    "successful_cases": 1,
+    "failed_cases": 0,
+    "cases": [
+      {
+        "case_path": "/media/konstantinos/DATA/PyTests/Submission/Process/2401 PHAEA-SOUTH_CRETE/PDF",
+        "pdf_count": 6,
+        "success": true,
+        "error_message": "",
+        "inferred_title": "425-KST-CD-DWG-A10-101-00",
+        "template_file": "",
+        "total_files_analyzed": 6,
+        "files_with_patterns": 0,
+        "processing_time": 4.592915,
+        "found_titles": {}
+      }
+    ]
+  },
+  {
+    "project_name": "2403 PORTOHELI_VEENA _109DEGREES",
+    "project_path": "/media/konstantinos/DATA/PyTests/Submission/Process/2403 PORTOHELI_VEENA _109DEGREES",
+    "total_pdfs": 10,
+    "successful_cases": 1,
+    "failed_cases": 0,
+    "cases": [
+      {
+        "case_path": "/media/konstantinos/DATA/PyTests/Submission/Process/2403 PORTOHELI_VEENA _109DEGREES/02PDF",
+        "pdf_count": 10,
+        "success": true,
+        "error_message": "",
+        "inferred_title": "PR1325-TOR-DRW-FRW-04-01-1-1",
+        "template_file": "",
+        "total_files_analyzed": 10,
+        "files_with_patterns": 0,
+        "processing_time": 8.748326,
+        "found_titles": {}
+      }
+    ]
+  },
+  {
+    "project_name": "2404 -DATA4-ATH01-DC01",
+    "project_path": "/media/konstantinos/DATA/PyTests/Submission/Process/2404 -DATA4-ATH01-DC01",
+    "total_pdfs": 8,
+    "successful_cases": 1,
+    "failed_cases": 0,
+    "cases": [
+      {
+        "case_path": "/media/konstantinos/DATA/PyTests/Submission/Process/2404 -DATA4-ATH01-DC01/PDF",
+        "pdf_count": 8,
+        "success": true,
+        "error_message": "",
+        "inferred_title": "ATH1-PWR01-CAP-10720-PLN-4-103-TT-0-T20",
+        "template_file": "",
+        "total_files_analyzed": 8,
+        "files_with_patterns": 0,
+        "processing_time": 5.70315,
+        "found_titles": {}
+      }
+    ]
+  },
+  {
+    "project_name": "2405 DIONYSIOY AREOPAGHTOY",
+    "project_path": "/media/konstantinos/DATA/PyTests/Submission/Process/2405 DIONYSIOY AREOPAGHTOY",
+    "total_pdfs": 5,
+    "successful_cases": 1,
+    "failed_cases": 0,
+    "cases": [
+      {
+        "case_path": "/media/konstantinos/DATA/PyTests/Submission/Process/2405 DIONYSIOY AREOPAGHTOY/PDF",
+        "pdf_count": 5,
+        "success": true,
+        "error_message": "",
+        "inferred_title": "Areopagitou-01",
+        "template_file": "",
+        "total_files_analyzed": 5,
+        "files_with_patterns": 0,
+        "processing_time": 3.290956,
+        "found_titles": {}
+      }
+    ]
+  },
+  {
+    "project_name": "2406 DAMAC-ATH1",
+    "project_path": "/media/konstantinos/DATA/PyTests/Submission/Process/2406 DAMAC-ATH1",
+    "total_pdfs": 13,
+    "successful_cases": 1,
+    "failed_cases": 0,
+    "cases": [
+      {
+        "case_path": "/media/konstantinos/DATA/PyTests/Submission/Process/2406 DAMAC-ATH1/01",
+        "pdf_count": 13,
+        "success": true,
+        "error_message": "",
+        "inferred_title": "GR-ATH1-VAP-AR-001-0",
+        "template_file": "",
+        "total_files_analyzed": 13,
+        "files_with_patterns": 0,
+        "processing_time": 9.942635,
+        "found_titles": {}
+      }
+    ]
+  },
+  {
+    "project_name": "2407 ΤΣΕΠΕΛΟΒΟ-ΧΑΓΙΑΤΙ",
+    "project_path": "/media/konstantinos/DATA/PyTests/Submission/Process/2407 ΤΣΕΠΕΛΟΒΟ-ΧΑΓΙΑΤΙ",
+    "total_pdfs": 5,
+    "successful_cases": 1,
+    "failed_cases": 0,
+    "cases": [
+      {
+        "case_path": "/media/konstantinos/DATA/PyTests/Submission/Process/2407 ΤΣΕΠΕΛΟΒΟ-ΧΑΓΙΑΤΙ/20241218_ORISTIKH-MK",
+        "pdf_count": 5,
+        "success": true,
+        "error_message": "",
+        "inferred_title": "HYT-VAP-ARC-PD-DP-A100-B-YPOGEIO",
+        "template_file": "",
+        "total_files_analyzed": 5,
+        "files_with_patterns": 0,
+        "processing_time": 3.032795,
+        "found_titles": {}
+      }
+    ]
+  },
+  {
+    "project_name": "2409 AIA-EXTENSION",
+    "project_path": "/media/konstantinos/DATA/PyTests/Submission/Process/2409 AIA-EXTENSION",
+    "total_pdfs": 9,
+    "successful_cases": 1,
+    "failed_cases": 0,
+    "cases": [
+      {
+        "case_path": "/media/konstantinos/DATA/PyTests/Submission/Process/2409 AIA-EXTENSION/20241213_SUBMISSION",
+        "pdf_count": 9,
+        "success": true,
+        "error_message": "",
+        "inferred_title": "AEP-ANM-002-0910-DRW-AR-PDGA0501",
+        "template_file": "",
+        "total_files_analyzed": 9,
+        "files_with_patterns": 0,
+        "processing_time": 7.192373,
+        "found_titles": {}
+      }
+    ]
+  },
+  {
+    "project_name": "2410 MICROSOFT-DC_ATH04",
+    "project_path": "/media/konstantinos/DATA/PyTests/Submission/Process/2410 MICROSOFT-DC_ATH04",
+    "total_pdfs": 415,
+    "successful_cases": 1,
+    "failed_cases": 0,
+    "cases": [
+      {
+        "case_path": "/media/konstantinos/DATA/PyTests/Submission/Process/2410 MICROSOFT-DC_ATH04/PDF",
+        "pdf_count": 415,
+        "success": true,
+        "error_message": "",
+        "inferred_title": "ATH04-VAP-AH-301-A-ADMIN-REFLECTED-CEILING-PLAN",
+        "template_file": "",
+        "total_files_analyzed": 415,
+        "files_with_patterns": 0,
+        "processing_time": 409.820743,
+        "found_titles": {}
+      }
+    ]
+  },
+  {
+    "project_name": "2501 AG.NIKOLAOS-DC",
+    "project_path": "/media/konstantinos/DATA/PyTests/Submission/Process/2501 AG.NIKOLAOS-DC",
+    "total_pdfs": 7,
+    "successful_cases": 1,
+    "failed_cases": 0,
+    "cases": [
+      {
+        "case_path": "/media/konstantinos/DATA/PyTests/Submission/Process/2501 AG.NIKOLAOS-DC/PDF",
+        "pdf_count": 7,
+        "success": true,
+        "error_message": "",
+        "inferred_title": "S2805-AGN-VAP-ARC-PD-100",
+        "template_file": "",
+        "total_files_analyzed": 7,
+        "files_with_patterns": 0,
+        "processing_time": 6.594762,
+        "found_titles": {}
+      }
+    ]
+  },
+  {
+    "project_name": "2502 DATA4-DC02+DC03",
+    "project_path": "/media/konstantinos/DATA/PyTests/Submission/Process/2502 DATA4-DC02+DC03",
+    "total_pdfs": 11,
+    "successful_cases": 1,
+    "failed_cases": 0,
+    "cases": [
+      {
+        "case_path": "/media/konstantinos/DATA/PyTests/Submission/Process/2502 DATA4-DC02+DC03/PDF",
+        "pdf_count": 11,
+        "success": true,
+        "error_message": "",
+        "inferred_title": "ATH1-DC02-CAP-20302-PLN-2-001-AL-00-T00-4-GENERAL-MASTERPLAN",
+        "template_file": "",
+        "total_files_analyzed": 11,
+        "files_with_patterns": 0,
+        "processing_time": 6.901111,
+        "found_titles": {}
+      }
+    ]
+  }
+]

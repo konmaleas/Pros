@@ -1,0 +1,246 @@
+=== FILTERED TEXT FOR: GR-ATH1-VAP-AR-GF-100-0.pdf ===
+
+Line   0: DRAWING SYMBOLS LEGEND
+Line   1: Name
+Line   2: ROOM CODE
+Line   3: ROOM NAME
+Line   4: ROOM AREA
+Line   5: XF XX
+Line   6: DOOR CODE
+Line   7: DOOR SILL
+Line   8: DOOR HEAD
+Line   9: DOOR WIDTH
+Line  10: FFL
+Line  11: FINAL FLOOR LEVEL
+Line  12: AR
+Line  13: DRAWING NUMBER
+Line  14: SHEET NUMBER
+Line  15: AR
+Line  16: DRAWING NUMBER
+Line  17: SHEET NUMBER
+Line  18: BUILDING GRID LINES
+Line  19: RELATIVE HEIGHT ABSOLUTE HEIGHT
+Line  20: SHAFT
+Line  21: SSL
+Line  22: STRUCTURAL SLAB LEVEL
+Line  23: PLANTING
+Line  24: 2
+Line  25: 4
+Line  26: FIRST AID ROOM
+Line  27: STAIR
+Line  28: CARRIER
+Line  29: OPEN SPACE
+Line  30: OFFICE
+Line  31: 47
+Line  32: MMR
+Line  33: CIRCULATION
+Line  34: 41
+Line  35: MEN WC
+Line  36: ACCESSIBLE WC
+Line  37: 4
+Line  38: MAN TRAP
+Line  39: MEDIUM
+Line  40: CONFERENCE
+Line  41: ROOM
+Line  42: MEETING ROOM
+Line  43: NON REGISTERED
+Line  44: SECURITY
+Line  45: OPERATION
+Line  46: CENTER SOC
+Line  47: BREAK ROOM
+Line  48: CIRCULATION
+Line  49: WAR ROOM
+Line  50: NETWORK
+Line  51: OPERATION
+Line  52: CENTER NOC
+Line  53: 45
+Line  54: ARCHIVE
+Line  55: LOW VOLTAGE
+Line  56: ROOM
+Line  57: SMALL
+Line  58: CONFERENCE
+Line  59: ROOM
+Line  60: INNER LOBBY
+Line  61: CHECK POINT
+Line  62: 4
+Line  63: PASSENGER LIFT
+Line  64: SECURITY
+Line  65: STORAGE
+Line  66: STAIR
+Line  67: WAITING ROOM
+Line  68: WC
+Line  69: 4
+Line  70: WC
+Line  71: 4
+Line  72: GF 009
+Line  73: GF 012
+Line  74: GF 015
+Line  75: GF 026
+Line  76: GF 027
+Line  77: GF 031
+Line  78: GF 032
+Line  79: GF 034
+Line  80: GF 036
+Line  81: GF 035
+Line  82: GF 040
+Line  83: GF 038
+Line  84: GF 037
+Line  85: GF 042
+Line  86: GF 041
+Line  87: GF 046
+Line  88: GF 047
+Line  89: 2
+Line  90: 4
+Line  91: GUEST WC
+Line  92: 4
+Line  93: WOMEN WC
+Line  94: LOCKER ROOM
+Line  95: 4
+Line  96: JANITORIAL
+Line  97: ELECTRICAL
+Line  98: ROOM
+Line  99: ICT SEC ROOM
+Line 100: PUMP ROOM
+Line 101: GF 014
+Line 102: GF 028
+Line 103: GF 029
+Line 104: GF 030
+Line 105: GF 019
+Line 106: GF 017
+Line 107: GF 020
+Line 108: GF 023
+Line 109: GF 024
+Line 110: GF 045
+Line 111: GF 048
+Line 112: GF 050
+Line 113: GF 049
+Line 114: GF 053
+Line 115: GF 016
+Line 116: GF 018
+Line 117: GF 021
+Line 118: GF 022
+Line 119: GF 033
+Line 120: AR
+Line 121: AR
+Line 122: AR
+Line 123: MEN WC
+Line 124: MEN WC
+Line 125: 2
+Line 126: MEN WC
+Line 127: 2
+Line 128: 4
+Line 129: GF 008
+Line 130: GF 007
+Line 131: GF 011
+Line 132: GF 010
+Line 133: GF 013
+Line 134: GF 044
+Line 135: GF 043
+Line 136: FFL
+Line 137: SSL
+Line 138: SETBACK
+Line 139: SETBACK
+Line 140: GF 025
+Line 141: FFL SSL
+Line 142: CONTROL
+Line 143: ROOM
+Line 144: CONTROL
+Line 145: ROOM
+Line 146: ACCESSIBLE WC
+Line 147: WC
+Line 148: 2
+Line 149: CIRCULATION
+Line 150: CIRCULATION
+Line 151: CIRCULATION
+Line 152: WOMEN
+Line 153: WC
+Line 154: WOMEN
+Line 155: WC 2
+Line 156: CIRCULATION
+Line 157: GF 004
+Line 158: GF 005
+Line 159: GF 006
+Line 160: GF 003
+Line 161: GF 001
+Line 162: GF 002
+Line 163: GF 039
+Line 164: HEDNO ROOM
+Line 165: HEDNO ROOM
+Line 166: 2
+Line 167: GF 051
+Line 168: GF 052
+Line 169: MV ROOM
+Line 170: MV ROOM
+Line 171: 4
+Line 172: 2
+Line 173: 4
+Line 174: AR
+Line 175: FFL SSL
+Line 176: GF
+Line 177: GF
+Line 178: GF
+Line 179: GF
+Line 180: FFL SSL
+Line 181: FFL
+Line 182: SSL
+Line 183: FFL
+Line 184: SSL
+Line 185: FFL SSL
+Line 186: FFL
+Line 187: SSL
+Line 188: FFL SSL
+Line 189: PROJECT NO.
+Line 190: DRAWN
+Line 191: CHECKED
+Line 192: SHEET SIZE
+Line 193: SCALE
+Line 194: SHEET TITLE NUMBER
+Line 195: SEAL
+Line 196: DATA CENTER MEP CONSULTANT
+Line 197: Syska Hennessy Group,
+Line 198: Dubai Internet City, Building Office Dubai, UAE
+Line 199: 4 3810
+Line 200: GENERAL NOTES
+Line 201: CONSULTANT
+Line 202: Ravine Street, Athina Greece
+Line 203: 4
+Line 204: ARCHITECT
+Line 205: Tompazi Chalandri
+Line 206: VAP Architects
+Line 207: STRUCTURAL ENGINEER
+Line 208: NAMA Consulting Engineers Planners SA
+Line 209: Address Perrikou GR 11524 Athens, Greece
+Line 210: KEY PLAN
+Line 211: SCALE DRAWINGS.
+Line 212: DOUBT, REQUEST MORE FURTHER
+Line 213: INFORMATION.
+Line 214: 2. DRAWING READ
+Line 215: CONJUNCTION CONTRACT
+Line 216: CONDITIONS, SPECIFICATIONS,
+Line 217: EQUIPMENT SCHEDULES
+Line 218: ARCHITECTURAL DRAWINGS.
+Line 219: DIMENSIONS MILLIMETER
+Line 220: ELEVATIONS METERS UNNLESS
+Line 221: OTHERWISE SPECIFIED.
+Line 222: 4. COMMUNICATION
+Line 223: SPECIALIZED DISCIPLINES SHOWN
+Line 224: DRAWINGS
+Line 225: CONTRACTOR.
+Line 226: Κοινότητα Σπάτων Λούτσας
+Line 227: Municipal Community Spata Loutsa, Athens, Greece
+Line 228: ATH Data Center
+Line 229: 2 2025 02
+Line 230: Autodesk Docs Damac Greece DC Design Greece VAP ARC DC
+Line 231: GR ATH1 VAP AR GF
+Line 232: VAP
+Line 233: General Arrangement Plan GF Front
+Line 234: House
+Line 235: VAP
+Line 236: REV
+Line 237: DATE
+Line 238: DESCRIPTION
+Line 239: 02 2025
+Line 240: First Issuance Approval
+
+=== END OF FILTERED TEXT ===
+Total lines: 241

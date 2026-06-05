@@ -1,0 +1,243 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-554-0B_BUILDING_SECTIONS_SHEET_1_OF_2.pdf ===
+
+Line   0: SLAB
+Line   1: EAVES LEVEL
+Line   2: RAB PARAPET
+Line   3: DATA HALL RIDGE LEVEL
+Line   4: ZF
+Line   5: ZA
+Line   6: ADMIN ROOF EAVES LEVEL
+Line   7: DATA HALL CEILING
+Line   8: XF
+Line   9: XA
+Line  10: TOP ROOF ACCESS STAIR
+Line  11: RACK
+Line  12: PROPRIETRY
+Line  13: SUSPENDED CEILING
+Line  14: SYSTEM
+Line  15: ARMSTRONG ULTIMA
+Line  16: BOARD
+Line  17: CLEANROOM
+Line  18: EUROBOND
+Line  19: CLADDING PANEL
+Line  20: SELECTED RAL
+Line  21: COLOUR. REFER
+Line  22: SPECIFICATION
+Line  23: DETAILS
+Line  24: EUROBOND
+Line  25: CLADDING PANEL
+Line  26: SELECTED RAL
+Line  27: CLOUR. REFER
+Line  28: SPECIFICATION
+Line  29: DETAILS
+Line  30: ALUMINIUM STANDING
+Line  31: SEAM ROOF
+Line  32: INTEGRATED SOLAR
+Line  33: PANELS ROOFING SYSTEM
+Line  34: 8260
+Line  35: 4470
+Line  36: 4203
+Line  37: 2465
+Line  38: 5500
+Line  39: 20750
+Line  40: 4500
+Line  41: 20750
+Line  42: 5500
+Line  43: 2465
+Line  44: MECH
+Line  45: GALLERY 4
+Line  46: GANTRY
+Line  47: 01 09
+Line  48: MECHANICAL
+Line  49: GALLERY 4
+Line  50: 00
+Line  51: CELL
+Line  52: 00
+Line  53: CELL 4
+Line  54: 00
+Line  55: MECHANICAL
+Line  56: GALLERY
+Line  57: 00
+Line  58: MECH
+Line  59: GALLERY
+Line  60: GANTRY
+Line  61: 01
+Line  62: HIGH
+Line  63: GUARDING RAIL
+Line  64: SYSTEM
+Line  65: SLAB
+Line  66: EAVES LEVEL
+Line  67: RAB PARAPET
+Line  68: DATA HALL RIDGE LEVEL
+Line  69: 2
+Line  70: 4
+Line  71: ADMIN ROOF EAVES LEVEL
+Line  72: DATA HALL CEILING
+Line  73: TOP ROOF ACCESS STAIR
+Line  74: RACK
+Line  75: 7300
+Line  76: 7300
+Line  77: 7300
+Line  78: 7300
+Line  79: 7300
+Line  80: 7300
+Line  81: 7300
+Line  82: 7300
+Line  83: 7300
+Line  84: 6150
+Line  85: 6350
+Line  86: 9200
+Line  87: 3000
+Line  88: CELL 2
+Line  89: 00
+Line  90: ELEC 4
+Line  91: 00
+Line  92: 4
+Line  93: 00
+Line  94: 2
+Line  95: 00
+Line  96: ELEC 2
+Line  97: 00
+Line  98: CELL 4
+Line  99: 00
+Line 100: 430
+Line 101: GENERAL
+Line 102: STORAGE
+Line 103: 00 042
+Line 104: RECEIVING
+Line 105: STAGING
+Line 106: AREA
+Line 107: 00 040
+Line 108: SHRED
+Line 109: ROOM
+Line 110: 00 045
+Line 111: CONFERENCE
+Line 112: ROOM 2
+Line 113: 00 032
+Line 114: ELEC. ROOM
+Line 115: 4 GANTRY
+Line 116: 01 03
+Line 117: ELEC. ROOM
+Line 118: 2 GANTRY
+Line 119: 01 04
+Line 120: EUROBOND
+Line 121: FIREMASTER
+Line 122: CEILING
+Line 123: PROPRIETRY SUSPENDED
+Line 124: CEILING SYSTEM
+Line 125: ARMSTRONG ULTIMA
+Line 126: BOARD
+Line 127: CLEANROOM
+Line 128: ADMIN
+Line 129: ADMIN
+Line 130: 2
+Line 131: 2
+Line 132: 4
+Line 133: 4
+Line 134: 2
+Line 135: SLAB
+Line 136: EAVES LEVEL
+Line 137: RAB PARAPET
+Line 138: DATA HALL RIDGE LEVEL
+Line 139: ADMIN ROOF EAVES LEVEL
+Line 140: DATA HALL CEILING
+Line 141: TOP ROOF ACCESS STAIR
+Line 142: RACK
+Line 143: 7650
+Line 144: 7300
+Line 145: 7300
+Line 146: 7300
+Line 147: 7300
+Line 148: 7300
+Line 149: 7300
+Line 150: 7300
+Line 151: 7300
+Line 152: 7300
+Line 153: 7300
+Line 154: 7300
+Line 155: CELL 4
+Line 156: 00
+Line 157: PROPRIETRY
+Line 158: SUSPENDED CEILING
+Line 159: SYSTEM
+Line 160: ARMSTRONG ULTIMA
+Line 161: BOARD
+Line 162: CLEANROOM
+Line 163: EUROBOND
+Line 164: FIREMASTER CEILING
+Line 165: 2
+Line 166: ADMIN
+Line 167: ADMIN
+Line 168: 2
+Line 169: 2
+Line 170: 4
+Line 171: 2
+Line 172: 4
+Line 173: TRUE NORTH
+Line 174: Sheet Title Number
+Line 175: Scale
+Line 176: Plan
+Line 177: Design Consultants
+Line 178: Microsoft
+Line 179: DATA CENTER
+Line 180: SPATA GREECE
+Line 181: Contractor Joint Venture
+Line 182: Name
+Line 183: Contractor Project
+Line 184: Contractor Contract
+Line 185: Contractor PM
+Line 186: Contractor BIM Mngr
+Line 187: Contractor Information
+Line 188: Renco Terna
+Line 189: Client
+Line 190: General Notes
+Line 191: Client Project
+Line 192: Client Contract
+Line 193: Client PM
+Line 194: Client BIM Mngr
+Line 195: Primary Client Information
+Line 196: Layout
+Line 197: Revision
+Line 198: Tombazi Chalandri
+Line 199: 15232
+Line 200: Athens Greece
+Line 201: 0800 3262
+Line 202: Agion Theodoron Square Athens
+Line 203: 10561
+Line 204: Athens Greece
+Line 205: Kimithois Agios Dimitrios
+Line 206: 17236
+Line 207: Athens Greece
+Line 208: Purpose Issue
+Line 209: Issue
+Line 210: Name
+Line 211: BUILDING SECTIONS
+Line 212: SHEET 2
+Line 213: VAP AH
+Line 214: SCALE
+Line 215: BUILDING CROSS SECTION 2
+Line 216: 2
+Line 217: SCALE
+Line 218: BUILDING LONG SECTION 2 2
+Line 219: 4
+Line 220: SCALE
+Line 221: BUILDING LONG SECTION 2
+Line 222: 01
+Line 223: 5000
+Line 224: 10000
+Line 225: SCALE
+Line 226: SCALE 4000
+Line 227: MASTERPLAN KEY PLAN
+Line 228: Date
+Line 229: Description
+Line 230: 04
+Line 231: Issued Approval
+Line 232: VAP
+Line 233: 08
+Line 234: Issued Approval
+Line 235: VAP
+Line 236: Pending Secondary Steel
+Line 237: Structure.
+
+=== END OF FILTERED TEXT ===
+Total lines: 238

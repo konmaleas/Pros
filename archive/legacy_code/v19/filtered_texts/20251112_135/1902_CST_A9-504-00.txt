@@ -1,0 +1,71 @@
+=== FILTERED TEXT FOR: 1902_CST_A9-504-00.pdf ===
+
+Line   0: 700
+Line   1: ΛΕΠΤ.
+Line   2: ΛΕΠΤ.
+Line   3: A9 00
+Line   4: ΦΥΛΛΑ ΝΤΟΥΛΑΠΑΣ ΑΠΟ ΛΕΥΚΗ ΛΑΚΑ SATINE RAL 9010
+Line   5: ΡΑΦΙΑ ΝΤΟΥΛΑΠΑΣ KAI KOYTIA ΝΤΟΥΛΑΠΑΣ ΑΠΟ ΛΕΥΚΗ ΜΕΛΑΜΙΝΗ
+Line   6: ΧΟΥΦΤΑ ΚΡΥΦΟ ΠΟΜΟΛΟ ΚΑΘ ΟΛΟ ΤΟ ΥΨΟΣ ΤΩΝ ΦΥΛΛΩΝ
+Line   7: ΛΕΠΤΟΜΕΡΕΙΑ ΕΙΝΑΙ ΕΝΔΕΙΚΤΙΚΗ, EΠΙΘΥΜΗΤΗ ΕΙΝΑΙ ΑΠΟΣΤΑΣΗ ΤΩΝ
+Line   8: TOIXOΣ ΑΠΟ ΟΠΤΟΠΛΙΝΘΟΥΣ
+Line   9: HΛΕΚΤΡΙΚΟΣ ΠΙΝΑΚΑΣ ΔΙΑΣΤΑΣΕΩΝ
+Line  10: ΚΟΛΛΕΚΤΕΡ ΥΔΡΕΥΣΗΣ ΔΙΑΣΤΑΣΕΩΝ
+Line  11: SOUTH ANTIPAROS
+Line  12: RESIDENCES ANTIPAROS
+Line  13: CSTO LIMITED
+Line  14: ΑΝΑΘΕΩΡΗΣΕΙΣ REVISIONS
+Line  15: DESCRIPTION
+Line  16: REVISION DATE
+Line  17: ƯD UHHFH
+Line  18: ERISMA
+Line  19: Kontou Athens, Greece
+Line  20: TEKEM CONSULTING ENGINEERS
+Line  21: Epirou Athens, Greece
+Line  22: 3262 3269
+Line  23: UHHFH
+Line  24: VALSAMAKIS
+Line  25: Skoufa Athens, 72 Greece
+Line  26: HELLI PANGALOU
+Line  27: SCALE
+Line  28: FIRST ISSUE DATE
+Line  29: ΑΡΧΙΤΕΚΤΟΝΙΚΗ
+Line  30: ΜΕΛΕΤΗ ΕΦΑΡΜΟΓΗΣ
+Line  31: DETAILED DESIGN
+Line  32: BLD. CATEGORY
+Line  33: ISSUED
+Line  34: CONSTR.
+Line  35: APPROVAL
+Line  36: TENDER
+Line  37: STATUS
+Line  38: DRAFT
+Line  39: FINAL
+Line  40: REV.
+Line  41: PROJECT
+Line  42: LOCATION
+Line  43: CLIENT
+Line  44: DRAWING
+Line  45: LANDSCAPE DESIGN
+Line  46: MEP ENGINEER
+Line  47: STRUCTURAL ENGINEER
+Line  48: ARCHITECTURAL DESIGN
+Line  49: EXECUTIVE ARCHITECT
+Line  50: SITE SUPERVISOR
+Line  51: DISCIPLINE
+Line  52: ARC
+Line  53: VAP
+Line  54: ΚΑΤΟΨΗ ΕΡΜΑΡΙΩΝ
+Line  55: ΚΛΙΜ.
+Line  56: ΞΥΛΟΥΡΓΙΚΕΣ
+Line  57: ΚΑΤΑΣΚΕΥΕΣ
+Line  58: WOODWORK
+Line  59: KATOΨΗ BΕΣΤΙΑΡΙΟΥ
+Line  60: ΥΠΝΟΔΩΜΑΤΙΟΥ
+Line  61: 01 2020
+Line  62: WARDROBE
+Line  63: CLOSETS PLAN
+Line  64: ΛΕΠΤΟΜΕΡΕΙΑ
+Line  65: ΚΛΙΜ.
+
+=== END OF FILTERED TEXT ===
+Total lines: 66

@@ -1,0 +1,46 @@
+=== FILTERED TEXT FOR: JVIT-MWE-60-1-0006-02.pdf ===
+
+Line   0: Park Potable
+Line   1: IL
+Line   2: Cooling Tower
+Line   3: IL
+Line   4: Principle Potable Park
+Line   5: IL
+Line   6: Park Potable
+Line   7: IL
+Line   8: Main Supply Potable Water EYDAP
+Line   9: IL
+Line  10: Potable Drinking Fountain
+Line  11: JVIT MWS 0006
+Line  12: JVIT MWS 0006
+Line  13: JVIT MWS 0002
+Line  14: JVIT MWS 0002
+Line  15: IMP
+Line  16: Inspection Manhole Hose
+Line  17: IMP
+Line  18: Inspection Manhole Hose
+Line  19: IMP
+Line  20: Inspection Manhole Hose
+Line  21: IL
+Line  22: IMP
+Line  23: JVIT MWE 60 1 0007
+Line  24: JVIT MWE 60 1 0003
+Line  25: 1
+Line  26: 02
+Line  27: MWE
+Line  28: 60
+Line  29: 2015
+Line  30: 1
+Line  31: CIVIL SERVICES
+Line  32: POTABLE WATER
+Line  33: LAYOUT PLAN AGORA
+Line  34: LEVEL SHEET
+Line  35: Genaral Notes
+Line  36: 1.
+Line  37: JVIT COS 00 0001
+Line  38: Details JVIT CES 60 0001 JVIT CES 60 0002,
+Line  39: JVIT MWE 60 0010
+Line  40: JVIT CES 60 0002, JVIT MWE 60 0010
+
+=== END OF FILTERED TEXT ===
+Total lines: 41

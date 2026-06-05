@@ -1,0 +1,719 @@
+=== FILTERED TEXT FOR: GR-ATH3-Z-ZZ-MYT-SH-A-30000.pdf ===
+
+Line   0: Client
+Line   1: Project Title
+Line   2: Scale
+Line   3: PHASE
+Line   4: DRAWING
+Line   5: REV
+Line   6: Issue
+Line   7: Date
+Line   8: Artemidos
+Line   9: 15125 Maroussi, Athens
+Line  10: Email
+Line  11: Drawing Title
+Line  12: First Issue Date
+Line  13: Role
+Line  14: Status
+Line  15: Stage
+Line  16: METKA STATUS
+Line  17: SHOP DRAWING
+Line  18: BUILT
+Line  19: CONSTRUCTION
+Line  20: ISSUED
+Line  21: INFORMATION
+Line  22: APPROVAL
+Line  23: REVIEW
+Line  24: CONSTRUCTION
+Line  25: INFORMATION
+Line  26: CANCELED
+Line  27: REFERENCE DRAWING
+Line  28: Contractor
+Line  29: Architectural
+Line  30: 2023 42 04 AM
+Line  31: Doors Schedule
+Line  32: Internal External
+Line  33: GR ZZ MYT SH 30000
+Line  34: Total Doors Schedule
+Line  35: Room Number
+Line  36: Room Name
+Line  37: Door Prefix
+Line  38: Door Type
+Line  39: Material
+Line  40: Fire
+Line  41: Rating
+Line  42: Function
+Line  43: Access
+Line  44: Control
+Line  45: Door Reset
+Line  46: Mechanism
+Line  47: Panic
+Line  48: Push
+Line  49: Thickness
+Line  50: Door Passage
+Line  51: Clear
+Line  52: Masonry Concr
+Line  53: Wall
+Line  54: Opening
+Line  55: Door Height
+Line  56: Passage
+Line  57: Clear
+Line  58: Masonry Concr
+Line  59: Wall
+Line  60: Opening Height
+Line  61: Sill
+Line  62: Height
+Line  63: Head
+Line  64: Height
+Line  65: Opening
+Line  66: Swing
+Line  67: Color
+Line  68: ELECTRICAL PLANTROOMS
+Line  69: GU 2
+Line  70: Exterior
+Line  71: NEOKEM SAHARA NOMAD
+Line  72: TRANSFORMER ROOM 2
+Line  73: GU 2
+Line  74: Exterior
+Line  75: NEOKEM SAHARA NOMAD
+Line  76: TRANSFORMER ROOM
+Line  77: GU 2
+Line  78: Exterior
+Line  79: NEOKEM SAHARA NOMAD
+Line  80: SUPER BYPASS ROOM
+Line  81: RP
+Line  82: Exterior
+Line  83: NEOKEM SAHARA NOMAD
+Line  84: TRANSFORMER ROOM 4
+Line  85: GU 2
+Line  86: Exterior
+Line  87: NEOKEM SAHARA NOMAD
+Line  88: BOTTLE STORAGE
+Line  89: GU 2
+Line  90: Exterior
+Line  91: NEOKEM SAHARA NOMAD
+Line  92: ETX
+Line  93: RP
+Line  94: Exterior
+Line  95: NEOKEM SAHARA NOMAD
+Line  96: ETX
+Line  97: RP
+Line  98: Exterior
+Line  99: NEOKEM SAHARA NOMAD
+Line 100: CORRIDOR
+Line 101: GU 2
+Line 102: Exterior
+Line 103: NEOKEM SAHARA NOMAD
+Line 104: GOODS LIFT
+Line 105: Elevator Door
+Line 106: Stainless
+Line 107: Sliding
+Line 108: RISER
+Line 109: TSN
+Line 110: GOODS CORRIDOR
+Line 111: Elevator Door
+Line 112: Stainless
+Line 113: Sliding
+Line 114: ENTRANCE LOBBY
+Line 115: THERMO ERGOMATIC
+Line 116: Galvanized Sheet
+Line 117: Exterior
+Line 118: Rolling
+Line 119: NEOKEM SAHARA NOMAD
+Line 120: CORRIDOR
+Line 121: TSN
+Line 122: CORRIDOR
+Line 123: TSN
+Line 124: TX 02
+Line 125: TX 01
+Line 126: LOBBY
+Line 127: Elevator Door
+Line 128: Stainless
+Line 129: Sliding
+Line 130: RP
+Line 131: Exterior
+Line 132: NEOKEM SAHARA NOMAD
+Line 133: CORRIDOR
+Line 134: ALUMIL SMARTIA
+Line 135: Aluminium
+Line 136: Exterior
+Line 137: NEOKEM SAHARA NOMAD
+Line 138: AR
+Line 139: CUSTOMER ROOM
+Line 140: 2
+Line 141: CORRIDOR
+Line 142: 2
+Line 143: RISER
+Line 144: CUSTOMER ROOM
+Line 145: 2
+Line 146: RISER
+Line 147: RISER
+Line 148: 2
+Line 149: RISER
+Line 150: 2
+Line 151: RISER
+Line 152: CUSTOMER ROOM
+Line 153: 2
+Line 154: RISER
+Line 155: RISER
+Line 156: 2
+Line 157: RISER
+Line 158: 2
+Line 159: RISER
+Line 160: CUSTOMER ROOM
+Line 161: 2
+Line 162: RISER
+Line 163: RISER
+Line 164: 2
+Line 165: RISER
+Line 166: 2
+Line 167: CUSTOMER ROOM
+Line 168: 2
+Line 169: CORRIDOR
+Line 170: RISER
+Line 171: 2
+Line 172: CORRIDOR
+Line 173: 2
+Line 174: CUSTOMER ROOM
+Line 175: 2
+Line 176: CUSTOMER ROOM
+Line 177: 2
+Line 178: RISER
+Line 179: 2
+Line 180: RISER
+Line 181: 2
+Line 182: GOODS LIFT
+Line 183: Elevator Door
+Line 184: Stainless
+Line 185: Sliding
+Line 186: RISER
+Line 187: 2
+Line 188: CUSTOMER ROOM
+Line 189: 2
+Line 190: CUSTOMER ROOM
+Line 191: 2
+Line 192: RISER
+Line 193: 2
+Line 194: RISER
+Line 195: 2
+Line 196: RISER
+Line 197: 2
+Line 198: FIREFIGHTING LOBBY
+Line 199: 2
+Line 200: LOBBY
+Line 201: RISER
+Line 202: 2
+Line 203: RISER
+Line 204: 2
+Line 205: LOBBY
+Line 206: Security
+Line 207: Aluminium
+Line 208: Revolving
+Line 209: GOODS LIFT
+Line 210: Elevator Door
+Line 211: Stainless
+Line 212: Sliding
+Line 213: CORRIDOR
+Line 214: 2
+Line 215: CORRIDOR
+Line 216: 2
+Line 217: CORRIDOR
+Line 218: 2
+Line 219: PASSENGER LIFT
+Line 220: Elevator Door
+Line 221: Stainless
+Line 222: Sliding
+Line 223: RISER
+Line 224: RISER
+Line 225: AR
+Line 226: FIREFIGHTING STAIR
+Line 227: CUSTOMER ROOM
+Line 228: 2
+Line 229: CORRIDOR
+Line 230: FIELD RACK ROOM
+Line 231: 2
+Line 232: RISER
+Line 233: 2
+Line 234: RISER
+Line 235: 2
+Line 236: RISER
+Line 237: CUSTOMER ROOM
+Line 238: 2
+Line 239: RISER
+Line 240: RISER
+Line 241: 2
+Line 242: RISER
+Line 243: 2
+Line 244: RISER
+Line 245: CUSTOMER ROOM
+Line 246: 2
+Line 247: RISER
+Line 248: RISER
+Line 249: 2
+Line 250: RISER
+Line 251: 2
+Line 252: RISER
+Line 253: CUSTOMER ROOM
+Line 254: 2
+Line 255: RISER
+Line 256: RISER
+Line 257: 2
+Line 258: RISER
+Line 259: 2
+Line 260: CORRIDOR
+Line 261: 2
+Line 262: CUSTOMER ROOM
+Line 263: 2
+Line 264: RISER
+Line 265: FIREFIGHTING LOBBY
+Line 266: RISER
+Line 267: 2
+Line 268: CORRIDOR
+Line 269: 2
+Line 270: CUSTOMER ROOM
+Line 271: 2
+Line 272: RISER
+Line 273: 2
+Line 274: RISER
+Line 275: 2
+Line 276: GOODS LIFT
+Line 277: Elevator Door
+Line 278: Stainless
+Line 279: Sliding
+Line 280: RISER
+Line 281: 2
+Line 282: CUSTOMER ROOM
+Line 283: 2
+Line 284: RISER
+Line 285: 2
+Line 286: RISER
+Line 287: 2
+Line 288: RISER
+Line 289: 2
+Line 290: FIREFIGHTING LOBBY
+Line 291: FIREFIGHTING LOBBY
+Line 292: CUSTOMER ROOM
+Line 293: 2
+Line 294: CORRIDOR
+Line 295: Elevator Door
+Line 296: Stainless
+Line 297: Sliding
+Line 298: CUSTOMER ROOM
+Line 299: 2
+Line 300: CORRIDOR
+Line 301: 2
+Line 302: CORRIDOR
+Line 303: 2
+Line 304: CORRIDOR
+Line 305: 2
+Line 306: PASSENGER LIFT
+Line 307: Elevator Door
+Line 308: Stainless
+Line 309: Sliding
+Line 310: RISER
+Line 311: RISER
+Line 312: AR
+Line 313: LOBBY
+Line 314: LOBBY
+Line 315: Exterior
+Line 316: NEOKEM SAHARA NOMAD
+Line 317: LOBBY
+Line 318: LOBBY
+Line 319: Exterior
+Line 320: NEOKEM SAHARA NOMAD
+Line 321: ICT FIELD EQUIPMENT ROOM
+Line 322: 2
+Line 323: Exterior
+Line 324: NEOKEM SAHARA NOMAD
+Line 325: LIFT PLANT ROOM
+Line 326: 2
+Line 327: Exterior
+Line 328: NEOKEM SAHARA NOMAD
+Line 329: GOODS LIFT
+Line 330: Elevator Door
+Line 331: Stainless
+Line 332: Exterior
+Line 333: Sliding
+Line 334: LOBBY
+Line 335: Elevator Door
+Line 336: Stainless
+Line 337: Sliding
+Line 338: GOODS LIFT
+Line 339: THERMO ERGOMATIC
+Line 340: Galvanized Sheet
+Line 341: Exterior
+Line 342: Rolling
+Line 343: NEOKEM SAHARA NOMAD
+Line 344: Grand
+Line 345: Total Doors Schedule
+Line 346: Room Number
+Line 347: Room Name
+Line 348: Door Prefix
+Line 349: Door Type
+Line 350: Material
+Line 351: Fire
+Line 352: Rating
+Line 353: Function
+Line 354: Access
+Line 355: Control
+Line 356: Door Reset
+Line 357: Mechanism
+Line 358: Panic
+Line 359: Push
+Line 360: Thickness
+Line 361: Door Passage
+Line 362: Clear
+Line 363: Masonry Concr
+Line 364: Wall
+Line 365: Opening
+Line 366: Door Height
+Line 367: Passage
+Line 368: Clear
+Line 369: Masonry Concr
+Line 370: Wall
+Line 371: Opening Height
+Line 372: Sill
+Line 373: Height
+Line 374: Head
+Line 375: Height
+Line 376: Opening
+Line 377: Swing
+Line 378: Color
+Line 379: AR
+Line 380: CORRIDOR
+Line 381: TSN
+Line 382: CORRIDOR
+Line 383: TSN
+Line 384: LIFT PLANT ROOM
+Line 385: TSN
+Line 386: STORAGE
+Line 387: TSN
+Line 388: CORRIDOR
+Line 389: TSN
+Line 390: CORRIDOR
+Line 391: 2
+Line 392: CORRIDOR
+Line 393: 2
+Line 394: CORRIDOR
+Line 395: 2
+Line 396: CORRIDOR
+Line 397: 2
+Line 398: FIRE FIGHTING EQUIPMENT
+Line 399: ROOM ATH1 2 4
+Line 400: 2
+Line 401: STAIRS FIREESCAPE
+Line 402: CAR PARK
+Line 403: CORRIDOR
+Line 404: 2
+Line 405: CORRIDOR
+Line 406: CORRIDOR
+Line 407: 2
+Line 408: CORRIDOR
+Line 409: TSN
+Line 410: CORRIDOR
+Line 411: TSN
+Line 412: OFFICE
+Line 413: TSN
+Line 414: OFFICE
+Line 415: FORM VT
+Line 416: Wooden Door
+Line 417: CODE OAK
+Line 418: WC MEN
+Line 419: FORM VT
+Line 420: Wooden Door
+Line 421: CODE OAK
+Line 422: WC MEN
+Line 423: FORM VT
+Line 424: Wooden Door
+Line 425: CODE OAK
+Line 426: WC MEN
+Line 427: FORM VT
+Line 428: Wooden Door
+Line 429: CODE OAK
+Line 430: WC MEN
+Line 431: FORM VT
+Line 432: Wooden Door
+Line 433: CODE OAK
+Line 434: WC MEN
+Line 435: FORM VT
+Line 436: Wooden Door
+Line 437: CODE OAK
+Line 438: CHANGING ROOM MEN
+Line 439: FORM VT
+Line 440: Wooden Door
+Line 441: CODE OAK
+Line 442: WC WOMEN
+Line 443: FORM VT
+Line 444: Wooden Door
+Line 445: CODE OAK
+Line 446: SHOWER ROOM WOMEN
+Line 447: FORM VT
+Line 448: Wooden Door
+Line 449: CODE OAK
+Line 450: WC WOMEN
+Line 451: FORM VT
+Line 452: Wooden Door
+Line 453: CODE OAK
+Line 454: WC WOMEN
+Line 455: FORM VT
+Line 456: Wooden Door
+Line 457: CODE OAK
+Line 458: WC WOMEN
+Line 459: FORM VT
+Line 460: Wooden Door
+Line 461: CODE OAK
+Line 462: TOILETS ENTRANCE HALL
+Line 463: FORM VT
+Line 464: Wooden Door
+Line 465: CODE OAK
+Line 466: TOILETS ENTRANCE HALL
+Line 467: FORM VT
+Line 468: Wooden Door
+Line 469: CODE OAK
+Line 470: GOODS LIFT
+Line 471: Elevator Door
+Line 472: Stainless
+Line 473: Sliding
+Line 474: GOODS LIFT
+Line 475: Elevator Door
+Line 476: Stainless
+Line 477: Sliding
+Line 478: GOODS LIFT
+Line 479: Elevator Door
+Line 480: Stainless
+Line 481: Sliding
+Line 482: STORAGE
+Line 483: TSN
+Line 484: WATER PLANTROOM
+Line 485: TSN
+Line 486: WC DISABLED MEN
+Line 487: FORM VT
+Line 488: Wooden Door
+Line 489: CODE OAK
+Line 490: PASSENGER LIFT
+Line 491: Elevator Door
+Line 492: Stainless
+Line 493: Sliding
+Line 494: CAR PARK
+Line 495: ERGOMATIC
+Line 496: Galvanized Sheet
+Line 497: Exterior
+Line 498: Rolling
+Line 499: NEOKEM SAHARA NOMAD
+Line 500: CORRIDOR
+Line 501: 2
+Line 502: AR
+Line 503: ALUMIL SMARTIA
+Line 504: Aluminium
+Line 505: Exterior
+Line 506: NEOKEM SAHARA NOMAD
+Line 507: RISER
+Line 508: TSN
+Line 509: CORRIDOR
+Line 510: TSN
+Line 511: RISER
+Line 512: TSN
+Line 513: BOON EDAM SOLO DOOR
+Line 514: Revolving
+Line 515: BOON EDAM SOLO DOOR
+Line 516: Revolving
+Line 517: RISER
+Line 518: TSN
+Line 519: LV Switchgear UPS ROOM
+Line 520: TSN
+Line 521: RISER
+Line 522: TSN
+Line 523: CORRIDOR
+Line 524: TSN
+Line 525: RISER
+Line 526: TSN
+Line 527: BATTERY ROOM 2
+Line 528: TSN
+Line 529: RISER
+Line 530: TSN
+Line 531: RISER
+Line 532: TSN
+Line 533: LV Switchgear UPS ROOM 2
+Line 534: TSN
+Line 535: RISER
+Line 536: TSN
+Line 537: RISER
+Line 538: TSN
+Line 539: LV Switchgear UPS ROOM
+Line 540: TSN
+Line 541: RISER
+Line 542: TSN
+Line 543: RISER
+Line 544: TSN
+Line 545: BATTERY ROOM 4
+Line 546: TSN
+Line 547: RISER
+Line 548: TSN
+Line 549: RISER
+Line 550: TSN
+Line 551: LV Switchgear UPS ROOM 4
+Line 552: TSN
+Line 553: RISER
+Line 554: TSN
+Line 555: RISER
+Line 556: TSN
+Line 557: MER 2
+Line 558: TSN
+Line 559: RISER
+Line 560: TSN
+Line 561: ELECTRICAL PLANTROOMS
+Line 562: TSN
+Line 563: RISER
+Line 564: TSN
+Line 565: CORRIDOR
+Line 566: TSN
+Line 567: CORRIDOR
+Line 568: TSN
+Line 569: RISER
+Line 570: TSN
+Line 571: CORRIDOR
+Line 572: GU 2
+Line 573: RISER
+Line 574: TSN
+Line 575: GOODS LIFT
+Line 576: Elevator Door
+Line 577: Stainless
+Line 578: Sliding
+Line 579: CORRIDOR
+Line 580: GU 2
+Line 581: RISER
+Line 582: TSN
+Line 583: FIREFIGHTING STAIR
+Line 584: TSN
+Line 585: LOBBY
+Line 586: TSN
+Line 587: SECURITY OFFICE
+Line 588: TSN
+Line 589: ALUMIL SMARTIA
+Line 590: Aluminium
+Line 591: Exterior
+Line 592: NEOKEM SAHARA NOMAD
+Line 593: LOBBY
+Line 594: FORM VT
+Line 595: Wooden Door
+Line 596: CODE OAK
+Line 597: LOBBY
+Line 598: FORM VT
+Line 599: Wooden Door
+Line 600: CODE OAK
+Line 601: LOBBY
+Line 602: FORM VT
+Line 603: Wooden Door
+Line 604: CODE OAK
+Line 605: WC MEN
+Line 606: FORM VT
+Line 607: Wooden Door
+Line 608: CODE OAK
+Line 609: LOBBY
+Line 610: FORM VT
+Line 611: Wooden Door
+Line 612: CODE OAK
+Line 613: WC WOMEN
+Line 614: FORM VT
+Line 615: Wooden Door
+Line 616: CODE OAK
+Line 617: CORRIDOR
+Line 618: TSN
+Line 619: RISER
+Line 620: TSN
+Line 621: RISER
+Line 622: TSN
+Line 623: STORAGE
+Line 624: TSN
+Line 625: TX
+Line 626: TSN
+Line 627: TX
+Line 628: TSN
+Line 629: MMR 2
+Line 630: TSN
+Line 631: CORRIDOR
+Line 632: TSN
+Line 633: RISER
+Line 634: TSN
+Line 635: CORRIDOR
+Line 636: TSN
+Line 637: RISER
+Line 638: TSN
+Line 639: LOBBY
+Line 640: TSN
+Line 641: ENTRANCE LOBBY
+Line 642: ETEM
+Line 643: Aluminium
+Line 644: Folding
+Line 645: BFP 2
+Line 646: MER
+Line 647: 2
+Line 648: BFP
+Line 649: 2
+Line 650: CORRIDOR
+Line 651: 2
+Line 652: ELECTRICAL PLANTROOMS
+Line 653: BATTERY ROOM
+Line 654: 2
+Line 655: BATTERY ROOM 2
+Line 656: 2
+Line 657: LV Switchgear UPS ROOM 2
+Line 658: LV Switchgear UPS ROOM
+Line 659: LOBBY
+Line 660: BATTERY ROOM
+Line 661: 2
+Line 662: BATTERY ROOM 4
+Line 663: 2
+Line 664: LOBBY
+Line 665: BOTTLE STORAGE
+Line 666: ETX
+Line 667: ELECTRICAL PLANTROOMS
+Line 668: ELECTRICAL PLANTROOMS
+Line 669: TSN
+Line 670: RISER
+Line 671: TSN
+Line 672: 2
+Line 673: ELECTRICAL PLANTROOMS
+Line 674: 2
+Line 675: FIREFIGHTING STAIR
+Line 676: GU 2
+Line 677: Exterior
+Line 678: NEOKEM SAHARA NOMAD
+Line 679: PPC 2
+Line 680: TSN
+Line 681: Exterior
+Line 682: NEOKEM SAHARA NOMAD
+Line 683: PPC
+Line 684: TSN
+Line 685: Exterior
+Line 686: NEOKEM SAHARA NOMAD
+Line 687: TX 02
+Line 688: RP
+Line 689: Exterior
+Line 690: NEOKEM SAHARA NOMAD
+Line 691: TX 01
+Line 692: RP
+Line 693: Exterior
+Line 694: NEOKEM SAHARA NOMAD
+Line 695: TRANSFORMER ROOM
+Line 696: GU 2
+Line 697: Exterior
+Line 698: NEOKEM SAHARA NOMAD
+Line 699: LOADING BAY
+Line 700: CORRIDOR
+Line 701: LOBBY
+Line 702: LOBBY
+Line 703: LOBBY
+Line 704: Aluminium
+Line 705: Aluminium
+Line 706: First Submission
+Line 707: Second Submission
+Line 708: Third Submission
+Line 709: Fourth Submission BUILT
+Line 710: CORRIDOR
+Line 711: CORRIDOR
+Line 712: RISER
+Line 713: CUSTOMER ROOM
+
+=== END OF FILTERED TEXT ===
+Total lines: 714

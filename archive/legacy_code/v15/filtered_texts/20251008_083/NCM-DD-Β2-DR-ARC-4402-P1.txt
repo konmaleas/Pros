@@ -1,0 +1,165 @@
+=== FILTERED TEXT FOR: NCM-DD-Β2-DR-ARC-4402-P1.pdf ===
+
+Line   0: ΑΝΤΛΙΟΣΤΑΣΙΟ
+Line   1: ΓΥΝΑΙΚΩΝ
+Line   2: 4600
+Line   3: ΔΟΧΕΙΟ ΥΓΡΟΥ ΣΑΠΟΥΝΙΟΥ ΕΠΙΤΟΙΧΙΟ
+Line   4: ΚΑΛΑΘΟΣ ΑΧΡΗΣΤΩΝ ΠΛΑΣΤΙΚΟΣ
+Line   5: ΚΑΙ ΒΡΥΣΗ
+Line   6: ΠΡΟΔΙΑΓΡΑΦΩΝ
+Line   7: ΧΑΡΤΟΘΗΚΗ
+Line   8: ΚΟΡΔΩΝΙΑ ΚΛΗΣΗΣ ΑΝΑΓΚΗΣ
+Line   9: ΕΛΕΥΘΕΡΟΣ ΤΥΠΟΥ
+Line  10: 1950
+Line  11: 1230
+Line  12: ΧΑΡΤΟΠΕΤΣΕΤΟΘΗΚΗ
+Line  13: 1400
+Line  14: 4600
+Line  15: ΓΥΝΑΙΚΩΝ
+Line  16: 2390
+Line  17: 2210
+Line  18: ΕΛΕΥΘΕΡΟΣ ΤΥΠΟΥ
+Line  19: 1950
+Line  20: 1230
+Line  21: 2200
+Line  22: 1000
+Line  23: 400
+Line  24: ΧΑΡΤΟΠΕΤΣΕΤΟΘΗΚΗ
+Line  25: ΓΥΝΑΙΚΩΝ
+Line  26: 4600
+Line  27: ΔΟΧΕΙΟ ΥΓΡΟΥ ΣΑΠΟΥΝΙΟΥ
+Line  28: ΕΛΕΥΘΕΡΟΣ ΤΥΠΟΥ
+Line  29: 1860
+Line  30: ΧΑΡΤΟΠΕΤΣΕΤΟΘΗΚΗ
+Line  31: 2200
+Line  32: 700
+Line  33: ΔΟΧΕΙΟ ΥΓΡΟΥ ΣΑΠΟΥΝΙΟΥ ΕΠΙΤΟΙΧΙΟ
+Line  34: ΧΑΡΤΟΘΗΚΗ
+Line  35: ΚΑΛΑΘΟΣ ΑΧΡΗΣΤΩΝ ΠΛΑΣΤΙΚΟΣ
+Line  36: ΚΑΙ ΒΡΥΣΗ ΠΡΟΔΙΑΓΡΑΦΩΝ
+Line  37: ΚΟΡΔΩΝΙΑ ΚΛΗΣΗΣ ΑΝΑΓΚΗΣ
+Line  38: ΑΝΔΡΩΝ
+Line  39: ΚΑΛΑΘΟΣ ΑΧΡΗΣΤΩΝ ΠΛΑΣΤΙΚΟΣ
+Line  40: ΧΑΡΤΟΘΗΚΗ
+Line  41: 2140
+Line  42: 1140
+Line  43: ΕΛΕΥΘΕΡΟΣ ΤΥΠΟΥ
+Line  44: 1000
+Line  45: ΧΑΡΤΟΠΕΤΣΕΤΟΘΗΚΗ
+Line  46: 08
+Line  47: ΚΑΛΑΘΟΣ ΑΧΡΗΣΤΩΝ ΠΛΑΣΤΙΚΟΣ
+Line  48: 450
+Line  49: 450
+Line  50: 1390
+Line  51: ΤΟΠΙΧΟΥ ΚΕΡΑΜΙΚΑ
+Line  52: ΠΛΑΚΙΔΙΑ
+Line  53: ΑΝΔΡΩΝ
+Line  54: ΣΦΡΑΓΙΔΑ ΥΠΕΥΘΥΝΟΥ ΕΡΓΟΥ
+Line  55: ΗΜΕΡΟΜΗΝΙΑ
+Line  56: ONOMA ΑΡΧΕΙΟΥ
+Line  57: ΛΕΥΚΩΣΙΑ ΚΥΠΡΟΣ
+Line  58: ΝΕΟ ΚΥΠΡΙΑΚΟ ΜΟΥΣΕΙΟ
+Line  59: ΗΜΕΡΟΜΗΝΙΑ
+Line  60: ΕΓΚΡΙΘΗΚΕ
+Line  61: ΤΜΗΜΑ
+Line  62: ΗΜΕΡΟΜΗΝΙΑ
+Line  63: ΕΛΕΓΧΘΗΚΕ
+Line  64: ΤΜΗΜΑ
+Line  65: ΥΠΟΒΟΛΗ
+Line  66: ΑΡ. ΣΧΕΔΙΟΥ
+Line  67: ΥΠΟΥΡΓΕΙΟ ΜΕΤΑΦΟΡΩΝ, ΕΠΙΚΟΙΝΩΝΙΩΝ ΚΑΙ ΕΡΓΩΝ
+Line  68: ΤΜΗΜΑ ΔΗΜΟΣΙΩΝ ΕΡΓΩΝ
+Line  69: ΗΜΕΡΟΜΗΝΙΑ
+Line  70: ΠΕΡΙΕΧΟΜΕΝΟ
+Line  71: ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΜΕΛΕΤΗ
+Line  72: THEONI XANTHI XZA LLC
+Line  73: ΥΠΕΥΘΥΝΟΣ ΟΜΑΔΑΣ ΕΡΓΟΥ
+Line  74: ΑΡΧΙΤΕΚΤΩΝ ΘΕΩΝΗ ΞΑΝΘΗ
+Line  75: ΣΥΝΕΡΓΑΤΕΣ ΑΡΧΙΤΕΚΤΟΝΕΣ
+Line  76: ΘΟΔΩΡΗΣ ΑΝΔΡΟΥΛΑΚΗΣ
+Line  77: ΜΑΡΓΑΡΙΤΑ ΖΑΚΥΝΘΙΝΟΥ
+Line  78: ΣΥΝΤΟΝΙΣΤΗΣ ΑΡΧIT ΚΗΣ ΜΕΛΕΤΗΣ
+Line  79: ΚΟΣΜΑΣ ΒΑΡΚΑΡΟΛΗΣ
+Line  80: ΚΛΙΜΑΚΑ
+Line  81: DR ARC
+Line  82: NCM DD
+Line  83: ΜΕΛΕΤΗ ΕΦΑΡΜΟΓΗΣ DD
+Line  84: ΤΙΤΛΟΣ ΣΧΕΔΙΟΥ
+Line  85: ΣΤΑΔΙΟ ΕΡΓΑΣΙΑΣ
+Line  86: ΕΙΔΟΣ ΜΕΛΕΤΗΣ
+Line  87: ΑΡΧΙΤΕΚΤΟΝΙΚΗ
+Line  88: ΣΥΜΒΟΥΛΟΙ ΜΕΛΕΤΗΤΕΣ
+Line  89: ΣΤΑΔΙΟ ΚΑΤΑΛΛΗΛΟΤΗΤΑΣ
+Line  90: KEY PLAN
+Line  91: ΑΡΧΙΤΕΚΤΟΝΙΚΑ
+Line  92: YAP
+Line  93: ΣTATIKΑ
+Line  94: RHOMBUS STRUCTURAL ENGINEERS LLC ΣΤ. ΕΥΣΤΡΑΤΙΑΔΗΣ
+Line  95: PENELIS CONSULTING ENGINEERS SA ΠΕΝΕΛΗΣ
+Line  96: GEORGHIOU ZEMBYLAS PARTNERS
+Line  97: ΜΗΧΑΝΟΛΟΓΙΚA
+Line  98: ΗΛΕΚΤΡΟΛΟΓΙΚA
+Line  99: ΜΟΥΣΕΙΟΛΟΓΙΚA
+Line 100: THETA ACOUSTICS LTD ΝΙΑΟΥΝΑΚΗΣ
+Line 101: ΑΚΟΥΣΤΙΚA
+Line 102: RODITIS PARTNERS ΡΟΔΙΤΗΣ
+Line 103: ΕΠΙΜΕΤΡΗΣΗ ΠΟΣΟΤΗΤΩΝ
+Line 104: FLOROS PANTELI ASSOCIATES ΠΑΝΤΕΛΗ
+Line 105: ΥΓΕΙΑ
+Line 106: ΜΟΥΣΕΙΟΓΡΑΦΙΚA
+Line 107: ΘΩΜΑΣ ΤΣΟΥΚΑΛΑΣ
+Line 108: ΕΙΔΙΚΟΣ ΦΩΤΙΣΜΟΣ
+Line 109: DECO ASSOCIATES ΕΛ. ΝΤΕΚΩ
+Line 110: ΠΥΡΟΠΡΟΣΤΑΣΙΑ
+Line 111: INT FIRE CYPRUS LTD ΣΠ. ΣΠΥΡΟΥ
+Line 112: ΚΥΚΛΟΦΟΡΙΑΚΑ
+Line 113: ΥΔΡΑΥΛΙΚA
+Line 114: DROMOS CONSULTING LTD ΖΕΚΚΟΣ
+Line 115: ΣΗΜΑΝΣΗ
+Line 116: POST SPECTACULAR OFFICE ΓΑΛΙΚΑΣ
+Line 117: ΚΤΗΡΙΟΥ
+Line 118: ARION PLUS
+Line 119: FEREOS LLC ΦΕΡΑΙΟΣ
+Line 120: Αναπλ. Υπεύθυνος Ομάδας
+Line 121: DROMOS CONSULTING LTD ΖΕΚΚΟΣ
+Line 122: ΕΙΔΙΚΑ ΓΕΩΤΕΧΝΙΚΑ
+Line 123: ΚΑΒΒΑΔΑΣ
+Line 124: ΜΟΥΣΕΙΑΚΟΣ ΣΧΕΔΙΑΣΜΟΣ
+Line 125: XZA
+Line 126: ΒΑΣΙΛΕΙΟΥ
+Line 127: ΕΡΓΑΣΤΗΡΙΑ
+Line 128: VAP
+Line 129: Σύμβουλος Μελέτης Εφαρμογής
+Line 130: GEORGHIOU ZEMBYLAS PARTNERS
+Line 131: ANDREAS EVRIPIDOU CIVIL ENGINEERS ΕΥΡΙΠΙΔΟΥ
+Line 132: ΣΤΕΡΓΙΟΣ ΓΑΛΙΚΑΣ
+Line 133: ΘΩΜΑΣ ΤΣΟΥΚΑΛΑΣ
+Line 134: ΣΤΕΡΓΙΟΣ ΓΑΛΙΚΑΣ
+Line 135: Συνεργάτης ΤΣΑΜΠΙΚΟΣ ΠΕΤΡΑΣ
+Line 136: POST SPECTACULAR OFFICE ΓΑΛΙΚΑΣ
+Line 137: ΠΡΟΜΕΛΕΤΗ ΣΑΚΕΛΛΑΡΙΟΥ
+Line 138: ΦΥΣΙΚΟΣ ΦΩΤΙΣΜΟΣ
+Line 139: ΤΣΑΓΚΡΑΣΟΥΛΗΣ
+Line 140: ΕΞΟΠΛΙΣΜΟΣ ΚΟΥΖΙΝΑΣ
+Line 141: XENEX ΚΑΛΟΓΕΡΙΑΣ
+Line 142: ΕΝΕΡΓΕΙΑΚΑ ΚΕΛΥΦΟΥΣ
+Line 143: METABUILD
+Line 144: ΓΡΑΦΙΣΤΙΚΑ
+Line 145: ΦΥΤΟΤΕΧΝΙΚΑ
+Line 146: LANDCO EΠΕ ΚΑΝΤΑΡΤΖΗΣ
+Line 147: ΑΥΓΟΥΣΤΟΣ 2021
+Line 148: P1
+Line 149: 2021 07
+Line 150: 4402
+Line 151: ΑΝΑΠΤΥΓΜΑΤΑ ΧΩΡΩΝ
+Line 152: 4402
+Line 153: ΕΠΙΠΕΔΟ
+Line 154: ΥΓΙΕΝΗΣ
+Line 155: ΦΕΒΡΟΥΑΡΙΟΣ 2021
+Line 156: Υποβολή
+Line 157: P1
+Line 158: ΑΥΓΟΥΣΤΟΣ 2021
+Line 159: Βάσει
+
+=== END OF FILTERED TEXT ===
+Total lines: 160

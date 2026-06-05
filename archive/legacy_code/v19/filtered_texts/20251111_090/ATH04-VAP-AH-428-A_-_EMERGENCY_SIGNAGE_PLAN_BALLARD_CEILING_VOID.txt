@@ -1,0 +1,169 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-428-A_-_EMERGENCY_SIGNAGE_PLAN_BALLARD_CEILING_VOID.pdf ===
+
+Line   0: EXIT SIGNAGE
+Line   1: EXIT SIGNAGE
+Line   2: EXIT SIGNAGE
+Line   3: EMERGENCY SIGNAGE
+Line   4: EMERGENCY EXIT SIGNAGE
+Line   5: EMERGENCY EXIT SIGNAGE
+Line   6: EMERGENCY EXIT SIGNAGE
+Line   7: EXIT SIGNAGE
+Line   8: EXIT SIGNAGE
+Line   9: EXIT SIGNAGE
+Line  10: EMERGENCY
+Line  11: EXIT SIGNAGE
+Line  12: EMERGENCY
+Line  13: EXIT SIGNAGE
+Line  14: EMERGENCY
+Line  15: EXIT SIGNAGE
+Line  16: DIRECTION ARROW
+Line  17: DIRECTION ARROW
+Line  18: DIRECTION ARROW
+Line  19: FIRE EXTINGUISHER
+Line  20: FIRE EXTINGUISHER
+Line  21: FIRE HYDRANT
+Line  22: FIRE HYDRANT
+Line  23: FIRE ALARM BUTTON
+Line  24: FIRE ALARM BUTTON
+Line  25: EVACUATION BUILDING PLAN
+Line  26: USE
+Line  27: DOOR CASE
+Line  28: EMERGENCY
+Line  29: USE
+Line  30: DOOR CASE
+Line  31: EMERGENCY
+Line  32: USE
+Line  33: DOOR CASE
+Line  34: EMERGENCY
+Line  35: FIRE EXTINGUISHER
+Line  36: FIRE HYDRANT
+Line  37: FIRE ALARM BUTTON
+Line  38: NOTES
+Line  39: DRAWING REPRESENTING MAIN POSITION EMERGENCY FIRE SYSTEMS. SIGNAGE COMPLY GREEK REGULATIONS REVISED.
+Line  40: XF
+Line  41: A
+Line  42: XA
+Line  43: 7300
+Line  44: 7300
+Line  45: 7300
+Line  46: 7300
+Line  47: 7300
+Line  48: 7300
+Line  49: 7300
+Line  50: 7300
+Line  51: 7300
+Line  52: 7300
+Line  53: 7300
+Line  54: 7300
+Line  55: 7300
+Line  56: 7300
+Line  57: 7300
+Line  58: 7300
+Line  59: 7300
+Line  60: 7300
+Line  61: 7300
+Line  62: 7650
+Line  63: 18700
+Line  64: ELEC. ROOM
+Line  65: GANTRY
+Line  66: ATH04 01 06
+Line  67: ELEC. ROOM
+Line  68: GANTRY
+Line  69: ATH04 01 05
+Line  70: ELEC. ROOM
+Line  71: GANTRY
+Line  72: ATH04 01 04
+Line  73: ELEC. ROOM
+Line  74: GANTRY
+Line  75: ATH04 01 03
+Line  76: MECH
+Line  77: GALLERY
+Line  78: GANTRY
+Line  79: ATH04 01
+Line  80: MECH
+Line  81: GALLERY
+Line  82: GANTRY
+Line  83: ATH04 01 09
+Line  84: LOBBY
+Line  85: GANTRY
+Line  86: ATH04 01 07
+Line  87: LOBBY
+Line  88: GANTRY
+Line  89: ATH04 01 08
+Line  90: LOBBY
+Line  91: GANTRY
+Line  92: ATH04 01 02
+Line  93: LOBBY
+Line  94: GANTRY
+Line  95: ATH04 01 01
+Line  96: 1678
+Line  97: 3717
+Line  98: MECH
+Line  99: GALLERY
+Line 100: GANTRY
+Line 101: ATH04 01
+Line 102: MECH
+Line 103: GALLERY
+Line 104: GANTRY
+Line 105: ATH04 01
+Line 106: STAIRCASE
+Line 107: ATH04 00
+Line 108: ACCESS
+Line 109: ACCESS
+Line 110: ADMIN
+Line 111: TRUE NORTH
+Line 112: Sheet Title Number
+Line 113: Scale
+Line 114: Plan
+Line 115: Design Consultants
+Line 116: Microsoft
+Line 117: DATA CENTER ATH04
+Line 118: SPATA GREECE
+Line 119: Contractor Joint Venture
+Line 120: Name
+Line 121: Contractor Project
+Line 122: Contractor Contract
+Line 123: Contractor PM
+Line 124: Contractor BIM Mngr
+Line 125: Contractor Information
+Line 126: Renco Terna
+Line 127: Client
+Line 128: General Notes
+Line 129: Client Project
+Line 130: Client Contract
+Line 131: Client PM
+Line 132: Client BIM Mngr
+Line 133: Primary Client Information
+Line 134: Layout
+Line 135: Revision
+Line 136: Tombazi Chalandri
+Line 137: 15232
+Line 138: Athens Greece
+Line 139: 0800 3262
+Line 140: Agion Theodoron Square Athens
+Line 141: 10561
+Line 142: Athens Greece
+Line 143: Kimithois Agios Dimitrios
+Line 144: 17236
+Line 145: Athens Greece
+Line 146: Purpose Issue
+Line 147: Issue
+Line 148: Name
+Line 149: A
+Line 150: EMERGENCY SIGNAGE PLAN
+Line 151: BALLARD CEILING VOID
+Line 152: ATH04 VAP AH 428 A
+Line 153: SCALE
+Line 154: HIGH LEVEL FFL 4150
+Line 155: 5000
+Line 156: 10000
+Line 157: SCALE
+Line 158: Date
+Line 159: Description
+Line 160: A
+Line 161: 04
+Line 162: Issued Approval
+Line 163: VAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 164

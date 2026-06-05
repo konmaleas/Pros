@@ -1,0 +1,109 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-1020-0A_BUILDERS_WORK_MEP_PENETRATIONS_-_FACILITY_OPERATION_CENTRE.pdf ===
+
+Line   0: GL
+Line   1: CEILING LEVEL
+Line   2: YC
+Line   3: FOC
+Line   4: 00 003
+Line   5: GL
+Line   6: CEILING LEVEL
+Line   7: YC
+Line   8: FOC
+Line   9: 00 003
+Line  10: MP AD 006 01
+Line  11: MP AD 003 06
+Line  12: MP AD 003 05
+Line  13: MP AD 003 04
+Line  14: MP AD 003 03
+Line  15: MP AD 003 02
+Line  16: MP AD 003 01
+Line  17: 770
+Line  18: 450
+Line  19: 1310
+Line  20: 1130
+Line  21: 1665
+Line  22: 1565
+Line  23: 3730
+Line  24: 3820
+Line  25: 3755
+Line  26: 4385
+Line  27: 3725
+Line  28: 3740
+Line  29: 1020
+Line  30: 1020
+Line  31: 2
+Line  32: FOC
+Line  33: 00 003
+Line  34: MEP PENETRATIONS CODE
+Line  35: MP AD XXX XX
+Line  36: MP
+Line  37: MEP PENETRATIONS
+Line  38: AD
+Line  39: BUILDING CODE
+Line  40: XXX
+Line  41: ROOM NUMBER
+Line  42: XX
+Line  43: PENETRATION NUMBER
+Line  44: ADMIN
+Line  45: COLO
+Line  46: COLO 2
+Line  47: 2
+Line  48: 4
+Line  49: 2
+Line  50: 4
+Line  51: TRUE NORTH
+Line  52: Sheet Title Number
+Line  53: Scale
+Line  54: Plan
+Line  55: Design Consultants
+Line  56: Microsoft
+Line  57: DATA CENTER
+Line  58: SPATA GREECE
+Line  59: Contractor Joint Venture
+Line  60: Name
+Line  61: Contractor Project
+Line  62: Contractor Contract
+Line  63: Contractor PM
+Line  64: Contractor BIM Mngr
+Line  65: Contractor Information
+Line  66: Renco Terna
+Line  67: Client
+Line  68: General Notes
+Line  69: Client Project
+Line  70: Client Contract
+Line  71: Client PM
+Line  72: Client BIM Mngr
+Line  73: Primary Client Information
+Line  74: Layout
+Line  75: Revision
+Line  76: Tombazi Chalandri
+Line  77: 15232
+Line  78: Athens Greece
+Line  79: 0800 3262
+Line  80: Agion Theodoron Square Athens
+Line  81: 10561
+Line  82: Athens Greece
+Line  83: Kimithois Agios Dimitrios
+Line  84: 17236
+Line  85: Athens Greece
+Line  86: Purpose Issue
+Line  87: Issue
+Line  88: Name
+Line  89: BUILDERS WORK MEP PENETRATIONS
+Line  90: FACILITY OPERATION CENTRE
+Line  91: VAP AH 1020
+Line  92: SCALE
+Line  93: 003 FOC ELEVATION MEP PENETRATIONS
+Line  94: SCALE
+Line  95: 003 FOC ELEVATION MEP PENETRATIONS
+Line  96: 2
+Line  97: 1000
+Line  98: SCALE
+Line  99: Date
+Line 100: Description
+Line 101: 07
+Line 102: Issued Approval
+Line 103: VAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 104

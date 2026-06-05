@@ -1,0 +1,74 @@
+=== FILTERED TEXT FOR: ATH04-A-B-108-0_-_MASTERPLAN_-_PHASING_PLAN.pdf ===
+
+Line   0: 15000
+Line   1: FUTURE RUBIK SUBSTATION PERMANENT
+Line   2: FUTURE IPTO SUBSTATION
+Line   3: HEDNO MV SWITCHROOMS TEMPORARY
+Line   4: PHASE
+Line   5: PHASE 2
+Line   6: PRIMARY
+Line   7: ENTRANCE
+Line   8: EMERGENCY
+Line   9: VEHICULAR ENTRANCE
+Line  10: PHASING LEGEND
+Line  11: PHASE
+Line  12: PHASE 2
+Line  13: Sheet Title Number
+Line  14: Scale
+Line  15: Plan
+Line  16: Design Consultants
+Line  17: Microsoft
+Line  18: DATA CENTER
+Line  19: SPATA GREECE
+Line  20: Contractor Joint Venture
+Line  21: Name
+Line  22: Contractor Project
+Line  23: Contractor Contract
+Line  24: Contractor PM
+Line  25: Contractor BIM Mngr
+Line  26: Contractor Information
+Line  27: Renco Terna
+Line  28: Client
+Line  29: General Notes
+Line  30: Client Project
+Line  31: Client Contract
+Line  32: Client PM
+Line  33: Client BIM Mngr
+Line  34: Primary Client Information
+Line  35: Layout
+Line  36: Revision
+Line  37: Tombazi Chalandri
+Line  38: 15232
+Line  39: Athens Greece
+Line  40: 0800 3262
+Line  41: Agion Theodoron Square Athens
+Line  42: 10561
+Line  43: Athens Greece
+Line  44: Kimithois Agios Dimitrios
+Line  45: 17236
+Line  46: Athens Greece
+Line  47: Purpose Issue
+Line  48: Issue
+Line  49: Name
+Line  50: MASTERPLAN PHASING PLAN
+Line  51: SCALE
+Line  52: MASTERPLAN PHASING
+Line  53: 12500
+Line  54: 25000
+Line  55: SCALE
+Line  56: ADMIN
+Line  57: COLO
+Line  58: COLO 2
+Line  59: 2
+Line  60: 4
+Line  61: 2
+Line  62: 4
+Line  63: TRUE NORTH
+Line  64: Date
+Line  65: Description
+Line  66: 04
+Line  67: Issued Approval
+Line  68: HVE JV
+
+=== END OF FILTERED TEXT ===
+Total lines: 69

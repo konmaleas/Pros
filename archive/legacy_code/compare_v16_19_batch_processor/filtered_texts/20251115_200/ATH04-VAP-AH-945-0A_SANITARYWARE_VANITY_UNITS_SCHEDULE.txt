@@ -1,0 +1,489 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-945-0A_SANITARYWARE_VANITY_UNITS_SCHEDULE.pdf ===
+
+Line   0: ADMIN
+Line   1: COLO
+Line   2: COLO 2
+Line   3: 2
+Line   4: 4
+Line   5: 2
+Line   6: 4
+Line   7: TRUE NORTH
+Line   8: Sheet Title Number
+Line   9: Scale
+Line  10: Plan
+Line  11: Design Consultants
+Line  12: Microsoft
+Line  13: DATA CENTER
+Line  14: SPATA GREECE
+Line  15: Contractor Joint Venture
+Line  16: Name
+Line  17: Contractor Project
+Line  18: Contractor Contract
+Line  19: Contractor PM
+Line  20: Contractor BIM Mngr
+Line  21: Contractor Information
+Line  22: Renco Terna
+Line  23: Client
+Line  24: General Notes
+Line  25: Client Project
+Line  26: Client Contract
+Line  27: Client PM
+Line  28: Client BIM Mngr
+Line  29: Primary Client Information
+Line  30: Layout
+Line  31: Revision
+Line  32: Tombazi Chalandri
+Line  33: 15232
+Line  34: Athens Greece
+Line  35: 0800 3262
+Line  36: Agion Theodoron Square Athens
+Line  37: 10561
+Line  38: Athens Greece
+Line  39: Kimithois Agios Dimitrios
+Line  40: 17236
+Line  41: Athens Greece
+Line  42: Purpose Issue
+Line  43: Issue
+Line  44: Name
+Line  45: Sanitaryware Vanity Units Schedule
+Line  46: VAP AH
+Line  47: Sanitaryware Schedule Pack 01 Disabled WC
+Line  48: Count
+Line  49: Code
+Line  50: Description
+Line  51: Manufacturer
+Line  52: Finish Colour
+Line  53: Comments
+Line  54: LEED Requirements
+Line  55: AQUAECO MONO TOUCHLESS BASIN MIXTURE CP
+Line  56: Sanipex
+Line  57: Brass Chrome Finish
+Line  58: Flow
+Line  59: LEED
+Line  60: ROCA INSPIRA WALL HUNG CHINA BASIN
+Line  61: ROCA
+Line  62: TORK BIN LTR
+Line  63: SCA Tork
+Line  64: Stainless
+Line  65: GIBERIT DUOFIEX SYSTEM CONCEALED CISTERN DUAL FLUSH
+Line  66: Sanipex
+Line  67: Flow
+Line  68: LEED 4 2
+Line  69: DISPENSER, SOAP, WALL MOUNTED
+Line  70: Bobrick Washroom Equipment,
+Line  71: Polished Stainless Steel
+Line  72: DYSON AIRBLADE HAND DRYER
+Line  73: Dyson
+Line  74: Sprayed Plastics
+Line  75: COAT HOOK
+Line  76: Ideal Standard International
+Line  77: Type Stainless Steel
+Line  78: Concealed
+Line  79: MIRROR 460
+Line  80: Bobrick Washroom Equipment,
+Line  81: Satin Finish Steel
+Line  82: 2
+Line  83: CONTOUR GRAB RAIL LONG DIAMETER
+Line  84: Ideal Standard International
+Line  85: CONTOUR HINGED SUPPORT RAIL DIAMETER
+Line  86: Ideal Standard International
+Line  87: SURFACE MOUNTED SANITARY NAPKIN
+Line  88: DISPOSAL
+Line  89: Bobrick Washroom Equipment,
+Line  90: Type Stainless Steel
+Line  91: SATIN AISI STAINLESS STEEL TOILET BRUSH HOLDER, WALL
+Line  92: MOUNTED
+Line  93: Type Stainless Steel
+Line  94: TOILET ROLL HOLDER CONTOUR HINGED ARM RAIL
+Line  95: Ideal Standard International
+Line  96: WALL MOUNTED TOILET ROLL DISPENSER 2 ROLL
+Line  97: Bobrick Washroom Equipment,
+Line  98: Type Stainless Steel
+Line  99: CONTOUR RIMLESS WALL MOUNTED WC PAN
+Line 100: Armitage Shanks
+Line 101: Vitreous China
+Line 102: Flow
+Line 103: LEED 4 2
+Line 104: Sanitaryware Schedule Pack 02 WC
+Line 105: Count
+Line 106: Code
+Line 107: Description
+Line 108: Manufacturer
+Line 109: Finish Colour
+Line 110: Comments
+Line 111: LEED Requirements
+Line 112: AQUAECO MONO TOUCHLESS BASIN MIXTURE CP
+Line 113: Sanipex
+Line 114: Flow
+Line 115: LEED
+Line 116: ROCA INSPIRA WALL HUNG CHINA BASIN
+Line 117: ROCA
+Line 118: TORK BIN LTR
+Line 119: SCA Tork
+Line 120: GIBERIT DUOFIEX SYSTEM CONCEALED CISTERN DUAL FLUSH Sanipex
+Line 121: Flow
+Line 122: LEED 4 2
+Line 123: DISPENSER, SOAP, WALL MOUNTED
+Line 124: Bobrick Washroom Equipment,
+Line 125: DYSON AIRBLADE HAND DRYER
+Line 126: Dyson
+Line 127: COAT HOOK
+Line 128: Ideal Standard International
+Line 129: 2
+Line 130: MIRROR 460
+Line 131: Bobrick Washroom Equipment,
+Line 132: 2
+Line 133: CONTOUR GRAB RAIL LONG DIAMETER
+Line 134: Ideal Standard International
+Line 135: CONTOUR HINGED SUPPORT RAIL DIAMETER
+Line 136: Ideal Standard International
+Line 137: SURFACE MOUNTED SANITARY NAPKIN
+Line 138: DISPOSAL
+Line 139: Bobrick Washroom Equipment,
+Line 140: Type Stainless Steel
+Line 141: SATIN AISI STAINLESS STEEL TOILET BRUSH HOLDER, WALL
+Line 142: MOUNTED
+Line 143: TOILET ROLL HOLDER CONTOUR HINGED ARM RAIL
+Line 144: Ideal Standard International
+Line 145: WALL MOUNTED TOILET ROLL DISPENSER 2 ROLL
+Line 146: Bobrick Washroom Equipment,
+Line 147: CONTOUR RIMLESS WALL MOUNTED WC PAN
+Line 148: Armitage Shanks
+Line 149: Flow
+Line 150: LEED 4 2
+Line 151: Sanitary Schedule Pack 03 Water Cooler
+Line 152: Count
+Line 153: Code
+Line 154: Description
+Line 155: Manufacturer
+Line 156: Finish
+Line 157: Comments
+Line 158: LEED Data
+Line 159: FLOORSTANDING WATER DISPENSER BASE
+Line 160: CABINET
+Line 161: BRITA
+Line 162: FLOORSTANDING WATER DISPENSER BASE
+Line 163: CABINET
+Line 164: BRITA
+Line 165: Mains
+Line 166: FLOORSTANDING WATER DISPENSER BASE
+Line 167: CABINET
+Line 168: BRITA
+Line 169: Mains
+Line 170: Sanitaryware Pack Schedule
+Line 171: Number
+Line 172: Name
+Line 173: CW
+Line 174: 00 005
+Line 175: FACILITY OFFICE
+Line 176: 00 017
+Line 177: BREAK ROOM
+Line 178: 00 025
+Line 179: LOBBY
+Line 180: 00 026
+Line 181: WC
+Line 182: 00 028
+Line 183: SHWR CHANGE
+Line 184: 00 029
+Line 185: LOBBY
+Line 186: 00 030
+Line 187: WC
+Line 188: 00 031
+Line 189: WC
+Line 190: 00 033
+Line 191: LOBBY WC
+Line 192: 00 034
+Line 193: DIS WC SHWR
+Line 194: 00 037
+Line 195: JANITOR ROOM
+Line 196: 00 039
+Line 197: UNISEX WC
+Line 198: 00 040
+Line 199: RECEIVING STAGING AREA
+Line 200: 00 047
+Line 201: ASSET MANAGEMENT
+Line 202: 00 051
+Line 203: WC
+Line 204: 00
+Line 205: OFFICE
+Line 206: 00
+Line 207: WC
+Line 208: Sanitaryware Schedule Pack 04 Break Room
+Line 209: Count
+Line 210: Code
+Line 211: Description
+Line 212: Manufacturer
+Line 213: Finish Colour
+Line 214: Comments
+Line 215: LEED Requirements
+Line 216: SINGLE BOWL SINK STAINLESS STEEL
+Line 217: Pyramis
+Line 218: Satin Finish Steel
+Line 219: ZIP HYDROTAP TOUCH FREE WAVE
+Line 220: ZIP
+Line 221: Brass Chrome Finish
+Line 222: Separate
+Line 223: Flow LEED
+Line 224: AQUAECO ROUND DECK MOUNTED TOUCHLESS TAP
+Line 225: Sanipex
+Line 226: Brass Chrome Finish
+Line 227: Separate
+Line 228: Flow LEED
+Line 229: Sanitaryware Schedule Pack 05 Janitor
+Line 230: Count
+Line 231: Code
+Line 232: Description
+Line 233: Manufacturer
+Line 234: Finish Colour
+Line 235: Comments
+Line 236: LEED Requirements
+Line 237: COAT HOOK
+Line 238: Ideal Standard International
+Line 239: Brass Chrome Finish
+Line 240: Concealed
+Line 241: TAP BIB, LEVER, PAIR HOT COLD
+Line 242: TAP BIB, LEVER, HOSPITAL PATTERN, PAIR HOT COLD,
+Line 243: 2
+Line 244: Ideal Standard
+Line 245: Type Stainless Steel
+Line 246: Flow
+Line 247: LEED
+Line 248: Sanitaryware Schedule Pack 06 Shower Change
+Line 249: Count
+Line 250: Code
+Line 251: Description
+Line 252: Manufacturer
+Line 253: Finish Colour
+Line 254: Comments
+Line 255: LEED Requirements
+Line 256: CHANGING BENCH
+Line 257: Salsbury Industries
+Line 258: COAT HOOK
+Line 259: Ideal Standard International
+Line 260: Type Stainless Steel
+Line 261: Concealed
+Line 262: Mixer Shower System
+Line 263: Mora Armatur
+Line 264: Chrome Chrome
+Line 265: Flow
+Line 266: LEED
+Line 267: Sanitaryware Schedule Pack 07 Disabled WC Shower
+Line 268: Count
+Line 269: Code
+Line 270: Description
+Line 271: Manufacturer
+Line 272: Finish Colour
+Line 273: Comments
+Line 274: LEED Requirements
+Line 275: AQUAECO MONO TOUCHLESS BASIN MIXTURE CP
+Line 276: Sanipex
+Line 277: Brass Chrome Finish
+Line 278: Flow
+Line 279: LEED
+Line 280: CONTOUR HANDRINSE WASHBASIN RIGHT HAND TAPHOLE
+Line 281: OVERFLOW CHAINSTAY HOLE, BOTTOM OUTLET
+Line 282: Ideal Standard International
+Line 283: Vitreous China
+Line 284: TORK BIN LTR
+Line 285: SCA Tork
+Line 286: Stainless
+Line 287: CONCEALA 2 CISTERN LITRE DUAL FLUSH VALVE DELAY FILL
+Line 288: BOTTOM SUPPLY INTERNAL OVERFLOW, ALTERNATIVE HEIGHT
+Line 289: PLASTIC FLUSHBENDS
+Line 290: Ideal Standard
+Line 291: White
+Line 292: Flow
+Line 293: LEED 4 2
+Line 294: DISPENSER, SOAP, WALL MOUNTED
+Line 295: Bobrick Washroom Equipment,
+Line 296: Stainless Steel
+Line 297: DYSON AIRBLADE HAND DRYER
+Line 298: Dyson
+Line 299: Sprayed Plastics
+Line 300: Requires
+Line 301: COAT HOOK
+Line 302: Ideal Standard International
+Line 303: 2
+Line 304: MIRROR 460
+Line 305: Bobrick Washroom Equipment,
+Line 306: Satin Finish Steel
+Line 307: CONTOUR BACK SUPPORT RAIL PROJECTION WC, 40
+Line 308: DIAMETER TUBE
+Line 309: Ideal Standard International
+Line 310: Plastic Grey
+Line 311: 4
+Line 312: CONTOUR CONTEMPORARY GRAB RAIL LONG
+Line 313: Ideal Standard International
+Line 314: Plastic Grey
+Line 315: CONTOUR HINGED CONTEMPORARTY SUPPORT RAIL DOC
+Line 316: COMPLIANT
+Line 317: Ideal Standard International
+Line 318: Plastic Grey
+Line 319: 2
+Line 320: CONTOUR HINGED SUPPORT RAIL DIAMETER
+Line 321: Ideal Standard International
+Line 322: Plastic Grey
+Line 323: 2
+Line 324: HORIZONTAL GRAB RAIL CONTOUR GRAB RAIL
+Line 325: LONG DIAMETER
+Line 326: Ideal Standard International
+Line 327: Plastic Grey
+Line 328: VERTICAL GRAB RAIL CONTOUR GRAB RAIL
+Line 329: LONG DIAMETER
+Line 330: Ideal Standard International
+Line 331: Plastic Grey
+Line 332: SURFACE MOUNTED SANITARY NAPKIN
+Line 333: DISPOSAL
+Line 334: Bobrick Washroom Equipment,
+Line 335: Type Stainless Steel
+Line 336: CONTOUR SEAT COVER, TOP FIXING HINGES RETAINING
+Line 337: BUFFERS
+Line 338: Ideal Standard International
+Line 339: Plastic Grey
+Line 340: CONTOUR SHOWER ROOM PACK EXCLUDING THERMOSTATIC
+Line 341: MIXER, HANDSET HOLDER, HANDSET HOSE, SHOWER HEAD
+Line 342: DIVERTER
+Line 343: Ideal Standard
+Line 344: Chrome Chrome
+Line 345: Items
+Line 346: SATIN AISI STAINLESS STEEL TOILET BRUSH HOLDER, WALL
+Line 347: MOUNTED
+Line 348: Type Stainless Steel.
+Line 349: Satin Finish
+Line 350: SEAL METAL BOTTLE TRAP
+Line 351: Ideal Standard International
+Line 352: Polished Stainless Steel
+Line 353: TOILET ROLL HOLDER CONTOUR HINGED ARM RAIL
+Line 354: Type Stainless Steel
+Line 355: CONTOUR RIMLESS WALL MOUNTED WC PAN PROJECTION
+Line 356: Ideal Standard International
+Line 357: Vitreous China
+Line 358: Items
+Line 359: WHB
+Line 360: Flow
+Line 361: LEED 4 2
+Line 362: Sanitaryware Schedule Pack 08 Lobby
+Line 363: Count
+Line 364: Code
+Line 365: Description
+Line 366: Manufacturer
+Line 367: Finish Colour
+Line 368: Comments
+Line 369: LEED Requirements
+Line 370: AQUAECO MONO TOUCHLESS BASIN MIXTURE CP
+Line 371: Sanipex
+Line 372: Brass Chrome Finish
+Line 373: Flow
+Line 374: LEED
+Line 375: ROCA INSPIRA WALL HUNG CHINA BASIN
+Line 376: ROCA
+Line 377: FINECERAMIC
+Line 378: 2
+Line 379: TORK BIN LTR
+Line 380: SCA Tork
+Line 381: Stainless
+Line 382: DISPENSER, SOAP, WALL MOUNTED
+Line 383: Bobrick Washroom Equipment,
+Line 384: 2
+Line 385: DYSON AIRBLADE HAND DRYER
+Line 386: Dyson
+Line 387: Sprayed Plastics
+Line 388: MIRROR 460
+Line 389: Bobrick Washroom Equipment,
+Line 390: Satin Finish Steel
+Line 391: Sanitaryware Schedule Pack 09 Guardhouse
+Line 392: Count
+Line 393: Code
+Line 394: Description
+Line 395: Manufacturer
+Line 396: Finish Colour
+Line 397: Comments
+Line 398: LEED Requirements
+Line 399: Trap
+Line 400: Ideal Standard International
+Line 401: White
+Line 402: Washbasin Contour
+Line 403: Productinfo
+Line 404: White
+Line 405: Toilet Seat Contour Toilet
+Line 406: Ideal Standard International
+Line 407: White
+Line 408: Cistern Contour
+Line 409: Ideal Standard International
+Line 410: White
+Line 411: Lever Spatula Cistern Lever,
+Line 412: Ideal Standard International
+Line 413: Chrome
+Line 414: Toughened Safety Glass
+Line 415: Outlet Harmer Aluminium Vertical Outlet, Concentric
+Line 416: Ring Grate, Stainless Steel
+Line 417: Stainless Steel
+Line 418: Trap 75
+Line 419: Ideal Standard UK
+Line 420: White
+Line 421: Dolphin Electronic Infrared
+Line 422: LPM
+Line 423: Dolphin Solutions
+Line 424: Chrome
+Line 425: LEED 2
+Line 426: Toilet Tissue Dispenser
+Line 427: Bobrick Washroom Equipment,
+Line 428: Stainless AISI Satin
+Line 429: Soap Dispenser Wall Mounted
+Line 430: Bobrick Washroom Equipment,
+Line 431: Stainless Steel
+Line 432: Waste Container Pedal Ppening. Capacity
+Line 433: Ideal Standard International
+Line 434: Stainless AISI Satin
+Line 435: Interchangeable Gallon Waste Receptacle Module
+Line 436: Bobrick Washroom Equipment,
+Line 437: Stainless AISI Satin
+Line 438: Hand Dryer
+Line 439: Excel Dryer,
+Line 440: White
+Line 441: Fixed Grab Rail Maia Collection Rail,
+Line 442: Ideal Standard International
+Line 443: Stainless Steel
+Line 444: Fixed Grab Rail Maia Collection Rail,
+Line 445: Ideal Standard International
+Line 446: Stainless Steel
+Line 447: Fixed Grab Rail Maia Collection Rail,
+Line 448: Ideal Standard International
+Line 449: Stainless Steel
+Line 450: Fixed Grab Rail Maia Collection Rail,
+Line 451: Ideal Standard International
+Line 452: Stainless Steel
+Line 453: Hinged Grab Rail Maia Collection
+Line 454: Ideal Standard International
+Line 455: Stainless Steel
+Line 456: Clothes Hook
+Line 457: Bobrick Washroom Equipment,
+Line 458: Stainless Steel
+Line 459: Clothes Hook
+Line 460: Bobrick Washroom Equipment,
+Line 461: Stainless Steel
+Line 462: Pyramis, Royal Mini Kitchen Sink
+Line 463: Pyramis
+Line 464: Stainless Steel
+Line 465: Sandringham Sink Mixer
+Line 466: Flow Rate Litres
+Line 467: Ideal Standard International
+Line 468: Chrome
+Line 469: LEED
+Line 470: Toilet Brush Holder
+Line 471: Bobrick Washroom Equipment,
+Line 472: Stainless AISI Satin
+Line 473: Toilet Roll Holder
+Line 474: Ideal Standard International
+Line 475: Stainless Steel
+Line 476: WC Contour 75
+Line 477: Ideal Standard International
+Line 478: White
+Line 479: Date
+Line 480: Description
+Line 481: 01 08
+Line 482: Issued Approval
+Line 483: VAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 484

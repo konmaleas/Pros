@@ -1,0 +1,135 @@
+=== FILTERED TEXT FOR: ATH04-A-B-118-0_-_PROPOSED_SITE_SECTIONS.pdf ===
+
+Line   0: A
+Line   1: XA
+Line   2: XF
+Line   3: DATA HALL FFL
+Line   4: DATA HALL RIDGE LEVEL
+Line   5: GH FFL
+Line   6: Security Fence
+Line   7: Plot Boundary
+Line   8: Security
+Line   9: Fence
+Line  10: Plot Boundary
+Line  11: Existing Ground Profile
+Line  12: 2465
+Line  13: 5500
+Line  14: 20750
+Line  15: 4500
+Line  16: 20750
+Line  17: 5500
+Line  18: 2465
+Line  19: BALLARD
+Line  20: Graded Bank
+Line  21: 3113
+Line  22: 2690
+Line  23: ROAD
+Line  24: BANK
+Line  25: ROAD
+Line  26: BANK
+Line  27: ROAD
+Line  28: WTB
+Line  29: SERVICE YARD
+Line  30: DATA HALL FFL
+Line  31: DATA HALL RIDGE LEVEL
+Line  32: Security Fence
+Line  33: Plot Boundary
+Line  34: Security Fence
+Line  35: Plot Boundary
+Line  36: Existing Ground Profile
+Line  37: Existing Ground
+Line  38: Profile
+Line  39: Vertical Soil Nailing,
+Line  40: Refer Civil
+Line  41: Drawings
+Line  42: Graded Bank
+Line  43: BALLARD
+Line  44: ADMIN
+Line  45: 3000
+Line  46: 9200
+Line  47: 6350
+Line  48: 6150
+Line  49: 7300
+Line  50: 7300
+Line  51: 7300
+Line  52: 7300
+Line  53: 7300
+Line  54: 7300
+Line  55: 7300
+Line  56: 7300
+Line  57: 7300
+Line  58: 7650
+Line  59: 7300
+Line  60: 7300
+Line  61: 7300
+Line  62: 7300
+Line  63: 7300
+Line  64: 7300
+Line  65: 7300
+Line  66: 7300
+Line  67: 7300
+Line  68: 7650
+Line  69: 7700
+Line  70: 3500
+Line  71: Sheet Title Number
+Line  72: Scale
+Line  73: Plan
+Line  74: Design Consultants
+Line  75: Microsoft
+Line  76: DATA CENTER ATH04
+Line  77: SPATA GREECE
+Line  78: Contractor Joint Venture
+Line  79: Name
+Line  80: Contractor Project
+Line  81: Contractor Contract
+Line  82: Contractor PM
+Line  83: Contractor BIM Mngr
+Line  84: Contractor Information
+Line  85: Renco Terna
+Line  86: Client
+Line  87: General Notes
+Line  88: Client Project
+Line  89: Client Contract
+Line  90: Client PM
+Line  91: Client BIM Mngr
+Line  92: Primary Client Information
+Line  93: Layout
+Line  94: Revision
+Line  95: Tombazi Chalandri
+Line  96: 15232
+Line  97: Athens Greece
+Line  98: 0800 3262
+Line  99: Agion Theodoron Square Athens
+Line 100: 10561
+Line 101: Athens Greece
+Line 102: Kimithois Agios Dimitrios
+Line 103: 17236
+Line 104: Athens Greece
+Line 105: Purpose Issue
+Line 106: Issue
+Line 107: Name
+Line 108: A
+Line 109: PROPOSED SITE SECTIONS
+Line 110: ATH04 A
+Line 111: SCALE
+Line 112: Site Section
+Line 113: SCALE
+Line 114: Site Section
+Line 115: 6875
+Line 116: 13750
+Line 117: SCALE
+Line 118: SCALE 2000
+Line 119: KEY PLAN
+Line 120: ADMIN
+Line 121: COLO
+Line 122: COLO
+Line 123: TRUE NORTH
+Line 124: Date
+Line 125: Description
+Line 126: A
+Line 127: 04
+Line 128: Issued Approval
+Line 129: HVE JV
+
+=== END OF FILTERED TEXT ===
+Total lines: 130

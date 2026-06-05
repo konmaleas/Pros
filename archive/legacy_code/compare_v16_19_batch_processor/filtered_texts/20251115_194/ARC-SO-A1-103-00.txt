@@ -1,0 +1,78 @@
+=== FILTERED TEXT FOR: ARC-SO-A1-103-00.pdf ===
+
+Line   0: .40
+Line   1: Visitors Parking
+Line   2: Spare
+Line   3: Gate
+Line   4: Exit
+Line   5: Parking
+Line   6: Entrance
+Line   7: Parking
+Line   8: Parking
+Line   9: Parking
+Line  10: Parking
+Line  11: Parking
+Line  12: Επίστρωση
+Line  13: Parking
+Line  14: 4
+Line  15: 2
+Line  16: 4
+Line  17: 2
+Line  18: 4
+Line  19: 2
+Line  20: 4
+Line  21: 2
+Line  22: 4
+Line  23: 2
+Line  24: 4
+Line  25: 2
+Line  26: ΑΝΑΒΑΤΟΡΙΟ ΑΜΕΑ
+Line  27: 00
+Line  28: Parking Space
+Line  29: Sheltered Parking Space
+Line  30: Parking Space EV
+Line  31: Disabled Parking Space
+Line  32: Lighting Post
+Line  33: LEGEND
+Line  34: ΑΝΑΘΕΩΡΗΣΕΙΣ
+Line  35: ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΜΕΛΕΤΗ
+Line  36: SCALE
+Line  37: FIRST ISSUE DATE
+Line  38: ZONE
+Line  39: ISSUED
+Line  40: CONSTRUCTION
+Line  41: APPROVAL
+Line  42: TENDER
+Line  43: STATUS
+Line  44: DRAFT
+Line  45: FINAL
+Line  46: DISCIPLINE
+Line  47: REV.
+Line  48: DRAWING
+Line  49: LAYOYT LEGEND
+Line  50: ΑΝΑΠΤΥΞΗ ΜΗΤΡΟΠΟΛΙΤΙΚΟΥ ΠΟΛΟΥ
+Line  51: ΕΛΛΗΝΙΚΟΥ ΚΟΣΜΑ
+Line  52: HELLINIKON DEVELOPMENT PROJECT
+Line  53: PROJECT
+Line  54: ΕΡΓΟΤΑΞΙΑΚΑ ΓΡΑΦΕΙΑ ΕΛΛΗΝΙΚΟ
+Line  55: ELLINIKON SITE OFFICES
+Line  56: CLIENT
+Line  57: PROJECT CONSULTANT
+Line  58: DESIGN
+Line  59: 3262
+Line  60: STAMP
+Line  61: ΕΛΛΗΝΙΚΟ
+Line  62: ELLINIKON
+Line  63: ΕΡΓΟΤΑΞΙΑΚΑ ΓΡΑΦΕΙΑ
+Line  64: ΕΛΛΗΝΙΚΟ
+Line  65: SITE OFFICES
+Line  66: ELLINIKON
+Line  67: ΓΕΝΙΚΗ ΔΙΑΤΑΞΗ
+Line  68: GENERAL LAYOUT
+Line  69: 04 2023
+Line  70: 00
+Line  71: SO
+Line  72: ARC
+
+=== END OF FILTERED TEXT ===
+Total lines: 73

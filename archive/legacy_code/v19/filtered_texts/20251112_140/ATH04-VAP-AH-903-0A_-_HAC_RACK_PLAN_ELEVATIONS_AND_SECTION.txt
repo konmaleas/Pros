@@ -1,0 +1,101 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-903-0A_-_HAC_RACK_PLAN_ELEVATIONS_AND_SECTION.pdf ===
+
+Line   0: HOT ISLE
+Line   1: 1380
+Line   2: 1300
+Line   3: SLAB
+Line   4: FRAMING LOW
+Line   5: RACK
+Line   6: CEILING LEVEL
+Line   7: ADMIN ROOF EAVES LEVEL
+Line   8: DATA HALL CEILING
+Line   9: REMOVABLE
+Line  10: POLYCARBONATE
+Line  11: WALLED
+Line  12: BLANK OFF PANELS
+Line  13: CEILING, SEE
+Line  14: CEILING DETAILS
+Line  15: UNISTRUT SUPPORT
+Line  16: SYSTEM
+Line  17: POLYCARBONATE PANELS
+Line  18: CABLE TRAY REFER
+Line  19: ELECTRICAL
+Line  20: TELECOMS
+Line  21: DRAWINGS
+Line  22: SLAB.
+Line  23: RACK
+Line  24: RACK
+Line  25: Level 00
+Line  26: DATA HALL FFL
+Line  27: REMOVEABLE
+Line  28: POLYCARBONATE
+Line  29: WALLED BLANK OFF
+Line  30: PANELS
+Line  31: CABLE TRAY REFER
+Line  32: ELECTRICAL
+Line  33: DRAWINGS
+Line  34: CEILING, SEE
+Line  35: CEILING DETAILS.
+Line  36: ELECTRICAL BUSWAY
+Line  37: REFER ELECTRICAL
+Line  38: DRAWINGS
+Line  39: UNISTRUT SUPPORT
+Line  40: SYSTEM
+Line  41: ADMIN
+Line  42: TRUE NORTH
+Line  43: Sheet Title Number
+Line  44: Scale
+Line  45: Plan
+Line  46: Design Consultants
+Line  47: Microsoft
+Line  48: DATA CENTER ATH04
+Line  49: SPATA GREECE
+Line  50: Contractor Joint Venture
+Line  51: Name
+Line  52: Contractor Project
+Line  53: Contractor Contract
+Line  54: Contractor PM
+Line  55: Contractor BIM Mngr
+Line  56: Contractor Information
+Line  57: Renco Terna
+Line  58: Client
+Line  59: General Notes
+Line  60: Client Project
+Line  61: Client Contract
+Line  62: Client PM
+Line  63: Client BIM Mngr
+Line  64: Primary Client Information
+Line  65: Layout
+Line  66: Revision
+Line  67: Tombazi Chalandri
+Line  68: 15232
+Line  69: Athens Greece
+Line  70: 0800 3262
+Line  71: Agion Theodoron Square Athens
+Line  72: 10561
+Line  73: Athens Greece
+Line  74: Kimithois Agios Dimitrios
+Line  75: 17236
+Line  76: Athens Greece
+Line  77: Purpose Issue
+Line  78: Issue
+Line  79: Name
+Line  80: HAC RACK PLAN, ELEVATIONS
+Line  81: SECTION
+Line  82: ATH04 VAP AH
+Line  83: SCALE
+Line  84: HAC ENLARGED PLAN
+Line  85: SCALE
+Line  86: RACKS ELEVATION
+Line  87: SCALE
+Line  88: RACKS END ELEVATION
+Line  89: SCALE
+Line  90: HAC VIEW
+Line  91: Date
+Line  92: Description
+Line  93: 04
+Line  94: Issued Approval
+Line  95: VAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 96

@@ -1,0 +1,240 @@
+=== FILTERED TEXT FOR: Α06_-_ΑΝΑΠΤΥΓΜΑ_BUSINESS_MEETING.pdf ===
+
+Line   0: 4
+Line   1: EQ
+Line   2: EQ
+Line   3: ΠΑΝΕΛΑ ΜΕ ΗΧΟΑΠΟΡΡΟΦΗΤΙΚΗ
+Line   4: ΤΕΧΑΑ
+Line   5: IDEACUSTIC
+Line   6: ΤΗΣ IDEATEC
+Line   7: HXEIO
+Line   8: ΦΩΤΙΣΤΙΚΟ ΣΩΜΑ
+Line   9: LICHTKANAL 70
+Line  10: 4
+Line  11: BUSINESS MEETING ΑΤΟΜΩΝ
+Line  12: ΠΡΟΘΑΛΑΜΟΣ
+Line  13: 4
+Line  14: ΚΡΥΦΟΣ ΦΩΤΙΣΜΟΣ
+Line  15: ΠΡΟΒΟΛΙΚΟΥ
+Line  16: ΒΟΗΘΗΤΙΚΟΣ
+Line  17: ΧΩΡΟΣ
+Line  18: 4
+Line  19: ΠΑΝΕΛΑ ΜΕ ΗΧΟΑΠΟΡΡΟΦΗΤΙΚΗ
+Line  20: ΤΕΧΑΑ
+Line  21: ΦΩΤΙΣΤΙΚΟ ΣΩΜΑ
+Line  22: LICHTKANAL 70
+Line  23: Level FFL
+Line  24: 6000
+Line  25: 4
+Line  26: ΟΡΟΦΟΣ
+Line  27: 6000
+Line  28: ΠΑΝΕΛΑ ΜΕ ΗΧΟΑΠΟΡΡΟΦΗΤΙΚΗ
+Line  29: ΤΕΧΑΑ
+Line  30: IDEACUSTIC
+Line  31: ΤΗΣ IDEATEC
+Line  32: IDEACUSTIC ΤΗΣ IDEATEC
+Line  33: ΠΑΝΕΛΑ ΜΕ ΗΧΟΑΠΟΡΡΟΦΗΤΙΚΗ
+Line  34: ΤΕΧΑΑ
+Line  35: 1600
+Line  36: 2200
+Line  37: 4
+Line  38: 2
+Line  39: 2
+Line  40: 4
+Line  41: 4
+Line  42: 4
+Line  43: 4
+Line  44: 2
+Line  45: 2
+Line  46: 2
+Line  47: 2
+Line  48: 1600
+Line  49: 2200
+Line  50: 1800
+Line  51: 2300
+Line  52: 4
+Line  53: BUSINESS MEETING ΑΤΟΜΩΝ
+Line  54: ΒΟΗΘΗΤΙΚΟΣ
+Line  55: ΧΩΡΟΣ
+Line  56: 4
+Line  57: ΠΡΟΘΑΛΑΜΟΣ
+Line  58: ΦΡΕΑΤΙΟ
+Line  59: 4
+Line  60: 2
+Line  61: 4
+Line  62: 4
+Line  63: 4
+Line  64: Level FFL
+Line  65: 6000
+Line  66: ΟΡΟΦΟΣ
+Line  67: 6000
+Line  68: 1800
+Line  69: 2300
+Line  70: ΧΩΡΟΥ
+Line  71: ΟΝΟΜΑ ΧΩΡΟΥ
+Line  72: ΤΕΤΡΑΓΩΝΙΚΑ ΧΩΡΟΥ
+Line  73: ΘΥΡΑΣ
+Line  74: ΤΥΠΟΣ ΘΥΡΑΣ
+Line  75: ΑΝΟΙΓΜΑ ΘΥΡΑΣ
+Line  76: ΠΡΕΚΙ ΘΥΡΑΣ
+Line  77: ΦΕΡΩΝ ΟΡΓΑΝΙΣΜΟΣ
+Line  78: ΣΤΑΘΜΗ ΤΕΛΙΚΟΥ
+Line  79: ΤΥΠΟΣ
+Line  80: ΣΤΑΘΜΗ ΠΛΑΚΑΣ
+Line  81: ΜΠΕΤΟΥ
+Line  82: ΣΥΜΒΟΛΙΣΜΟΙ ΚΑΤΟΨΕΩΝ
+Line  83: ΤΕΛΕΙΩΜΑ
+Line  84: ΟΛΟ ΤΟΝ ΧΩΡΟ
+Line  85: 2
+Line  86: ΤΕΛΕΙΩΜΑΤΟΣ
+Line  87: ΤΟΙΧΟΥ
+Line  88: KINHTOY
+Line  89: ΧΩΡΙΣΜΑΤΟΣ ΑΡΙΘΜΗΣΗ
+Line  90: ΓΥΨΟΠΕΤΑΣΜΑΤΑ
+Line  91: 2
+Line  92: 2
+Line  93: ΤΥΠΟΣ ΠΑΡΑΘΥΡΟΥ
+Line  94: ΑΝΟΙΓΜΑ ΠΑΡΑΘΥΡΟΥ
+Line  95: ΠΑΡΑΘΥΡΟΥ
+Line  96: ΠΡΕΚΙ ΠΑΡΑΘΥΡΟΥ
+Line  97: ΑΞΟΝΑΣ ΧΩΡΟΥ
+Line  98: ΑΞΟΝΑΣ
+Line  99: ΑΛΛΑΓΗ ΥΨΟΥΣ
+Line 100: ΦΩΤΙΣΤΙΚΑ ΣΩΜΑΤΑ ΤΟ
+Line 101: ΜΕΓΕΘΟΣ ΤΟΥΣ
+Line 102: ΚΑΘΟΡΙΖΕΤΑΙ ΑΠΟ ΤΗΝ ΜΕΛΕΤΗ
+Line 103: ΦΩΤΙΣΜΟΥ
+Line 104: ΣΥΜΒΟΛΙΣΜΟΣ ΚΡΥΦΟΥ
+Line 105: ΦΩΤΙΣΜΟΥ
+Line 106: ΣΤΟΜΙΑ ΠΑΡΟΧΗΣ
+Line 107: FAN COIL ΣΤΟΜΙΑ
+Line 108: ΑΠΑΓΩΓΗΣ
+Line 109: ΓΡΑΜΜΙΚΑ ΣΤΟΜΙΑ
+Line 110: ΕΠΙΣΚΕΨΗΣ
+Line 111: ΗΧΕΙΑ
+Line 112: ΣΤΟΜΙΑ ΠΥΡΑΝΙΧΝΕΥΣΗΣ
+Line 113: ΤΥΠΟΣ ΚΑΘΑΡΟ
+Line 114: ΥΨΟΣ ΧΩΡΟΥ
+Line 115: 000
+Line 116: ΣΥΜΒΟΛΙΣΜΟΙ
+Line 117: ΤΕΧΝΗΤΟΣ Braun, Λευκά
+Line 118: Θάσου
+Line 119: ΞΥΛΙΝΑ ΑΚΟΥΣΤΙΚΑ ΠΑΝΕΛΑ
+Line 120: Akustik
+Line 121: ΞΥΛΙΝΑ ΑΚΟΥΣΤΙΚΑ ΠΑΝΕΛΑ
+Line 122: Akustik
+Line 123: ΠΑΝΕΛΑ ΜΕ HΧΟΑΠΟΡΡΟΦΗΤΙΚΟ
+Line 124: ΥΛΙΚΟ ΤΕΧΑΑ KAI
+Line 125: ΥΦΑΣΜΑΤΟΣ
+Line 126: ΞΥΛΙΝΑ ΑΚΟΥΣΤΙΚΑ ΠΑΝΕΛΑ
+Line 127: IDEACUSTIC ΤΗΣ IDEATEC
+Line 128: ΚΕΡΑΜΙΚΑ Royal Mosa
+Line 129: ΚΟΥΖΙΝΑ
+Line 130: ΚΕΡΑΜΙΚΑ WC
+Line 131: ΒΑΜΜΕΝΟΣ ΤΟΙΧΟΣ
+Line 132: ΤΑΠΕΤΣΑΡΙΑ
+Line 133: ΞΥΛΙΝΗ
+Line 134: ΤΕΛΕΙΩΜΑΤΑ
+Line 135: ΣΟΒΑΤΕΠΙ
+Line 136: ΞΥΛΙΝΟ ΕΣΟΧΗ
+Line 137: 2.
+Line 138: ΞΥΛΙΝΟ ΒΑΜΜΕΝΟ
+Line 139: ΥΦΙΣΤΑΜΕΝΟ
+Line 140: 4.
+Line 141: ΧΩΡΙΣ ΣΟΒΑΤΕΠΙ
+Line 142: ΤΕΛΕΙΩΜΑΤΑ
+Line 143: ΒΥΝΙΛΙΚΕΣ ΠΛΑΚΕΣ ΠΑΧΟΥΣ
+Line 144: GREY
+Line 145: ΜΟΚΕΤΑ ΚΟΜΜΑΤΙΑ ΠΑΧΟΥΣ
+Line 146: FORBO
+Line 147: ΕΤΕΡΟΓΕΝΕΙΣ ΒΥΝΙΛΙΚΕΣ ΠΛΑΚΕΣ
+Line 148: ΠΑΧΟΥΣ ALLURA FLEX
+Line 149: STONE 1508 ,FORBO
+Line 150: DECK ΕΚ. ΜΕ ΣΚΕΛΕΤΟ ΕΚ.
+Line 151: Denco DM
+Line 152: Quality
+Line 153: ΕΠΕ Μαλαματίνας
+Line 154: ΚΕΡΑΜΙΚΟ Royal Mosa,
+Line 155: Quality ΕΠΕ Μαλαματίνας
+Line 156: ΚΥΒΟΛΙΘΟΙ
+Line 157: ΥΦΙΣΤΑΜΕΝΟ
+Line 158: ΤΥΠΟΙ
+Line 159: ΤΟΙΧΟΣ ΜΕ
+Line 160: ΣΚΕΛΕΤΟ
+Line 161: ΤΟΙΧΟΣ ΜΕ
+Line 162: ΣΚΕΛΕΤΟ
+Line 163: ΤΟΙΧΟΣ ΜΟΝΗΣ ΜΕ
+Line 164: ΣΚΕΛΕΤΟ
+Line 165: ΤΟΙΧΟΣ ΜΕ
+Line 166: ΣΚΕΛΕΤΟ
+Line 167: ΠΥΡΑΝΤΟΧΟΣ ΤΟΙΧΟΣ
+Line 168: ΜΕ ΣΚΕΛΕΤΟ
+Line 169: ΤΟΙΧΟΣ ΜΟΝΗΣ
+Line 170: ΜΕ ΣΚΕΛΕΤΟ
+Line 171: ΤΟΙΧΟΣ ΜΟΝΗΣ
+Line 172: ΜΕ ΣΚΕΛΕΤΟ
+Line 173: ΠΥΡΑΝΤΟΧΟΣ ΤΟΙΧΟΣ ΜΟΝΗΣ
+Line 174: ΜΕ ΣΚΕΛΕΤΟ
+Line 175: ΜΟΝΗΣ
+Line 176: ΜΕ ΣΚΕΛΕΤΟ
+Line 177: ΜΕ ΣΚΕΛΕΤΟ
+Line 178: ΠΥΡΑΝΤΟΧΗΣ
+Line 179: ΜΕ ΣΚΕΛΕΤΟ
+Line 180: ΜΟΝΗΣ
+Line 181: ΑΝΘΥΓΡΟ
+Line 182: ΣΗΜΕΙΩΣΗ ΟΛΟΙ ΟΙ ΤΟΙΧΟΙ ΚΑΙ ΟΙ
+Line 183: ΦΤΑΝΟΥΝ ΜΕΧΡΙ ΤΗΝ ΕΠΑΝΩ
+Line 184: ΠΛΑΚΑ ΕΚΤΟΣ ΤΗΝ
+Line 185: ΠΕΡΙΠΤΩΣΗ ΥΦΙΣΤΑΜΕΝΗΣ
+Line 186: ΠΟΥ
+Line 187: ΤΕΛΕΙΩΜΑΤΑ
+Line 188: ΑΝΘΥΓΡΗ
+Line 189: ΑΚΟΥΣΤΙΚΗ
+Line 190: ΑΚΟΥΣΤΙΚΗ ΠΛΑΚΕΣ
+Line 191: ΠΛΑΚΕΣ ΟΡΥΚΤΗΣ ΙΝΑΣ
+Line 192: ΞΥΛΙΝΕΣ ΟΡΟΦΕΣ TOPAKUSTIK
+Line 193: ΤΥΠΟΣ ΧΡΩΜΑ 012
+Line 194: ΞΥΛΙΝΕΣ ΟΡΟΦΕΣ TOPAKUSTIK
+Line 195: ΠΑΝΕΛΑ ΜΕ HΧΟΑΠΟΡΡΟΦΗΤΙΚΟ
+Line 196: ΥΛΙΚΟ ΤΕΧΑΑ KAI
+Line 197: ΥΦΑΣΜΑΤΟΣ
+Line 198: ΥΦΙΣΤΑΜΕΝΗ
+Line 199: ΚΛΙΜΑΚΑ
+Line 200: ΕΡΓΟ
+Line 201: ΦΟΡΕΑΣ
+Line 202: ΑΡΙΘΜΟΣ
+Line 203: ΗΜΕΡΟΜΗΝΙΑ ΜΕΛΕΤΗΣ
+Line 204: ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΜΕΛΕΤΗ
+Line 205: ΜΕΛΕΤΗΣ
+Line 206: ΣΤΑΤΙΚΗ ΜΕΛEΤΗ
+Line 207: ΗΜ ΝΙΑ
+Line 208: ΚΑΤΗΓΟΡΙΑ
+Line 209: ΜΕΛΕΤΗ ΕΓΚΑΤΑΣΤΑΣΕΩΝ
+Line 210: Φιλολάου Ηλιούπολη 16342 Ελλάδα
+Line 211: ΚΗΜ
+Line 212: ΟΜΙΛΟΣ
+Line 213: ΧΡΗΜΑΤΙΣΤΗΡΙΟΥ ΑΘΗΝΩΝ
+Line 214: Φιλήμονος Αθήνα 11521 Ελλάδα
+Line 215: Ηπείρου Αθήνα, Ελλάδα
+Line 216: 3262 3269
+Line 217: ΑΡΧΙΤΕΚΤΟΝΙΚH ΜΕΛEΤΗ
+Line 218: ΑΝΑΠΤΥΓΜΑ
+Line 219: BUSINESS MEETING
+Line 220: ΜΑΡΤΙΟΣ
+Line 221: ΟΡΙΣΤΙΚΗ ΜΕΛΕΤΗ
+Line 222: Λεωφ. Αθηνών Αθήνα 42
+Line 223: 03 2017
+Line 224: ΝΕΑ ΧΩΡΩΝ
+Line 225: ΤΟΥ ΤΟΥ ΟΜΙΛΟΥ
+Line 226: ΧΡΗΜΑΤIΣΤHΡΙΟΥ ΑΘΗΝΩΝ
+Line 227: ΛΕΠTΟΜΕΡΕΙΑ BUSINESS MEETING
+Line 228: 2
+Line 229: ΑΝΟΨΗ BUSINESS MEETING
+Line 230: TOMH BUSINESS MEETING
+Line 231: ΚΑΤΟΨΗ BUSINESS MEETING
+Line 232: ΑΞΟΝΟΜΕΤΡΙΚΟ ΒUSINESS MEETING
+Line 233: 4
+Line 234: TOMH 2 BUSINESS MEETING
+
+=== END OF FILTERED TEXT ===
+Total lines: 235

@@ -1,0 +1,82 @@
+=== FILTERED TEXT FOR: 02_CIV_GEN_301-S_002_02.pdf ===
+
+Line   0: PN
+Line   1: PN
+Line   2: PN
+Line   3: PN 2
+Line   4: PN
+Line   5: PN
+Line   6: PN 4
+Line   7: 2
+Line   8: PN
+Line   9: PN
+Line  10: PN
+Line  11: PN
+Line  12: PN
+Line  13: PN
+Line  14: PN
+Line  15: PN
+Line  16: PN
+Line  17: PN
+Line  18: PN
+Line  19: PN
+Line  20: PN
+Line  21: PN
+Line  22: PN
+Line  23: PN
+Line  24: PN
+Line  25: PN
+Line  26: PN
+Line  27: PN
+Line  28: PN
+Line  29: PN
+Line  30: PN
+Line  31: PN
+Line  32: PN
+Line  33: PN
+Line  34: PN
+Line  35: PN
+Line  36: PN
+Line  37: PN
+Line  38: PN
+Line  39: PN
+Line  40: PN
+Line  41: PN
+Line  42: PN 40
+Line  43: PN 41
+Line  44: PN 42
+Line  45: 000
+Line  46: 400
+Line  47: 700
+Line  48: 000
+Line  49: 400
+Line  50: 1000
+Line  51: 2000
+Line  52: 6000
+Line  53: 1500
+Line  54: Connection KL
+Line  55: Underground Posidonos
+Line  56: Connection KL KL
+Line  57: Tunnel Area
+Line  58: Connection
+Line  59: Posidonos
+Line  60: Projection SR
+Line  61: 1000
+Line  62: Lengths
+Line  63: 1000
+Line  64: Heigth
+Line  65: HELLINIKON GLOBAL
+Line  66: Ȉȉǹǻǿȅ
+Line  67: 2
+Line  68: Foster Partners Limited
+Line  69: SKAPE
+Line  70: Charles Anderson
+Line  71: Landscape Architecture Werk
+Line  72: ENVECO
+Line  73: HRV
+Line  74: 1000 1000
+Line  75: 2
+Line  76: 2
+
+=== END OF FILTERED TEXT ===
+Total lines: 77

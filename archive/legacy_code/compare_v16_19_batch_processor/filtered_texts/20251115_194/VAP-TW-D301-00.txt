@@ -1,0 +1,107 @@
+=== FILTERED TEXT FOR: VAP-TW-D301-00.pdf ===
+
+Line   0: Level
+Line   1: Level
+Line   2: Level
+Line   3: Level 2
+Line   4: Level
+Line   5: 4
+Line   6: 2
+Line   7: 4
+Line   8: 2
+Line   9: Detail
+Line  10: Scale
+Line  11: Detail
+Line  12: Scale
+Line  13: 2
+Line  14: Detail
+Line  15: Scale
+Line  16: Detail
+Line  17: Scale
+Line  18: 4
+Line  19: Detail
+Line  20: Scale
+Line  21: Marble Skirting
+Line  22: Stone Adhesive
+Line  23: Hardened Mastic
+Line  24: Polystyrene Tape
+Line  25: Plaster Stop Bead
+Line  26: Concrete Screed
+Line  27: Plaster
+Line  28: Marble Skirting
+Line  29: Stone Adhesive
+Line  30: Hardened Mastic
+Line  31: Polystyrene Tape
+Line  32: Plaster
+Line  33: Marble Skirting
+Line  34: Stone Adhesive
+Line  35: Hardened Mastic
+Line  36: Polystyrene Tape
+Line  37: Plaster
+Line  38: Mildew NS NT
+Line  39: Water Resistant Coat 2
+Line  40: Joint
+Line  41: Ceramic Tiles Type
+Line  42: Water Resistant Coat 2
+Line  43: Epoxy
+Line  44: Detail
+Line  45: Scale
+Line  46: Detail
+Line  47: Scale
+Line  48: Detail
+Line  49: Scale
+Line  50: Gres Tile Skirting
+Line  51: Mildew NS NT
+Line  52: Ceramic Adhesive
+Line  53: Plaster
+Line  54: Polystyrene Tape
+Line  55: Wood Panel Plywood
+Line  56: Suspension Fitting
+Line  57: Plaster Concrete Masonry Wall
+Line  58: Wooden Piece
+Line  59: Elastic
+Line  60: Cement Screed Skirting
+Line  61: Stone Adhesive
+Line  62: Hardened Mastic
+Line  63: Polystyrene Tape
+Line  64: Plaster
+Line  65: Bituminous
+Line  66: Detail
+Line  67: Scale
+Line  68: Plaster
+Line  69: Plaster
+Line  70: Hardened Mastic
+Line  71: Polystyrene Tape
+Line  72: REVISIONS
+Line  73: CLIENT
+Line  74: PROJECT
+Line  75: DESIGN STAGE
+Line  76: DATE
+Line  77: SCALE
+Line  78: FILE NAME
+Line  79: DRAWING TITLE
+Line  80: DRAWING
+Line  81: TAHLIA WALK
+Line  82: VAPARCHITECTS
+Line  83: Epirou Street
+Line  84: Athens, GR Greece
+Line  85: 3262
+Line  86: 3269
+Line  87: DESIGN ARCHITECTS
+Line  88: CONSULTANTS
+Line  89: STUDIO
+Line  90: Isavron
+Line  91: Lycabettus
+Line  92: Athens, GR 11471 Greece
+Line  93: ZAD DEVELOPMENT
+Line  94: STRUCTURAL ENGINEER
+Line  95: MEP ENGINEER
+Line  96: 01 PM
+Line  97: Assemblies
+Line  98: Wall Floor
+Line  99: Detail Design
+Line 100: Description
+Line 101: Date
+
+=== END OF FILTERED TEXT ===
+Total lines: 102

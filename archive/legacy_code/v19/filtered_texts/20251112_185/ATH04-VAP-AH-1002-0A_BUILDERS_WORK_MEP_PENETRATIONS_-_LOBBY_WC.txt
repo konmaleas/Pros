@@ -1,0 +1,110 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-1002-0A_BUILDERS_WORK_MEP_PENETRATIONS_-_LOBBY_WC.pdf ===
+
+Line   0: 1002
+Line   1: 1002
+Line   2: 1002
+Line   3: LOBBY WC
+Line   4: ATH04 00 033
+Line   5: WALL REFER ATH04 VAP AH 1001
+Line   6: 1002
+Line   7: GL
+Line   8: CEILING LEVEL
+Line   9: MP AD 033 01
+Line  10: LOBBY WC
+Line  11: ATH04 00 033
+Line  12: 1275
+Line  13: 3725
+Line  14: GL
+Line  15: CEILING LEVEL
+Line  16: LOBBY WC
+Line  17: ATH04 00 033
+Line  18: MP AD 033 06
+Line  19: 5940
+Line  20: GL
+Line  21: CEILING LEVEL
+Line  22: LOBBY WC
+Line  23: ATH04 00 033
+Line  24: MP AD 033 08
+Line  25: MP AD 033 07
+Line  26: 1305
+Line  27: 3745
+Line  28: 1925
+Line  29: MEP PENETRATIONS CODE
+Line  30: MP AD XXX XX
+Line  31: MP
+Line  32: MEP PENETRATIONS
+Line  33: AD
+Line  34: BUILDING CODE
+Line  35: XXX
+Line  36: ROOM NUMBER
+Line  37: XX
+Line  38: PENETRATION NUMBER
+Line  39: GL
+Line  40: CEILING LEVEL
+Line  41: MP AD 033 02
+Line  42: MP AD 033 04
+Line  43: MP AD 033 03
+Line  44: MP AD 033 05
+Line  45: MP AD 033 01
+Line  46: ADMIN
+Line  47: COLO
+Line  48: COLO
+Line  49: TRUE NORTH
+Line  50: Sheet Title Number
+Line  51: Scale
+Line  52: Plan
+Line  53: Design Consultants
+Line  54: Microsoft
+Line  55: DATA CENTER ATH04
+Line  56: SPATA GREECE
+Line  57: Contractor Joint Venture
+Line  58: Name
+Line  59: Contractor Project
+Line  60: Contractor Contract
+Line  61: Contractor PM
+Line  62: Contractor BIM Mngr
+Line  63: Contractor Information
+Line  64: Renco Terna
+Line  65: Client
+Line  66: General Notes
+Line  67: Client Project
+Line  68: Client Contract
+Line  69: Client PM
+Line  70: Client BIM Mngr
+Line  71: Primary Client Information
+Line  72: Layout
+Line  73: Revision
+Line  74: Tombazi Chalandri
+Line  75: 15232
+Line  76: Athens Greece
+Line  77: 0800 3262
+Line  78: Agion Theodoron Square Athens
+Line  79: 10561
+Line  80: Athens Greece
+Line  81: Kimithois Agios Dimitrios
+Line  82: 17236
+Line  83: Athens Greece
+Line  84: Purpose Issue
+Line  85: Issue
+Line  86: Name
+Line  87: BUILDERS WORK MEP PENETRATIONS
+Line  88: LOBBY WC
+Line  89: ATH04 VAP AH 1002
+Line  90: SCALE
+Line  91: 033 LOBBY WC ELEVATION SOUTH MEP PENETRATIONS
+Line  92: SCALE
+Line  93: 033 LOBBY WC ELEVATION NORTH MEP PENETRATIONS
+Line  94: SCALE
+Line  95: 033 LOBBY WC ELEVATION EAST MEP PENETRATIONS
+Line  96: 1000
+Line  97: SCALE
+Line  98: Date
+Line  99: Description
+Line 100: 07
+Line 101: Issued Approval
+Line 102: VAP
+Line 103: SCALE
+Line 104: 033 LOBBY WC ELEVATION SOUTH MEP PENETRATIONS
+
+=== END OF FILTERED TEXT ===
+Total lines: 105

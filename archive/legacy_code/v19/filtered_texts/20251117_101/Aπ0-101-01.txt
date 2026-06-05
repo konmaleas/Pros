@@ -1,0 +1,96 @@
+=== FILTERED TEXT FOR: Aπ0-101-01.pdf ===
+
+Line   0: WC
+Line   1: WC
+Line   2: WC
+Line   3: WC
+Line   4: WC
+Line   5: Reception
+Line   6: BOH Washing
+Line   7: 1
+Line   8: ΚΑΘΑΙΡΕΣΕΙΣ ΤΟΙΧΩΝ
+Line   9: ΚΤΙΣΤΩΝ ΣΤΟΙΧΕΙΩΝ
+Line  10: ΑΠΟΞΗΛΩΣΕΙΣ
+Line  11: ENTΟΙΧΙΣΜΕΝΩΝ ΕΡΜΑΡΙΩΝ
+Line  12: ΚΑΘΑΙΡΕΣΕΙΣ ΚΛΙΜΑΚΩΝ
+Line  13: ΜΠΑΖΩΜΑ
+Line  14: ΠΑΡΑΤΗΡΗΣΕΙΣ
+Line  15: 1.
+Line  16: Αποξηλώνονται
+Line  17: Στις
+Line  18: Αποξηλώνονται
+Line  19: Αυτό
+Line  20: Διατηρούνται
+Line  21: Στους
+Line  22: ΥΠΟΜΗΜΑ ΣΥΜΒΟΛΙΣΜΩΝ
+Line  23: ΑΠΟΞΗΛΩΣΕΙΣ
+Line  24: ΨΕΥΔΟΡΟΦΩΝ
+Line  25: 1
+Line  26: 1
+Line  27: 1 1 1
+Line  28: 1 1
+Line  29: ΚΛΙΜΑΚΑ
+Line  30: ΚΑΤΗΓΟΡΙΑ
+Line  31: ΚΥΡΙΟΣ ΕΡΓΟΥ
+Line  32: ΕΡΓΟ
+Line  33: ΑΡΙΘΜΟΣ ΣΧΕΔΙΟΥ
+Line  34: ΗΜΕΡΟΜΗΝΙΑ ΜΕΛΕΤΗΣ
+Line  35: VAP ARCHITECTS
+Line  36: Ηπείρου Αθήνα Ελλάδα
+Line  37: 3262 3269
+Line  38: ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΜΕΛΕΤΗ
+Line  39: ΣΤΑΔΙΟ ΜΕΛΕΤΗΣ
+Line  40: Όλες
+Line  41: ΣΥΝΕΡΓΑΤΕΣ ΜΕΛΕΤΗΣ ΕΦΑΡΜΟΓΗΣ
+Line  42: ΚΛΕΙΔΑ
+Line  43: ΣΧΕΔΙΟ
+Line  44: HΜ ΝΙΑ ΣΧΕΔΙΟΥ
+Line  45: ΑΚΟΥΣΤΙΚΗ ΜΕΛΕΤΗ
+Line  46: ΜΕΛΕΤΗ ΦΩΤΙΣΜΟΥ
+Line  47: ΣΤΑΤΙΚΗ ΜΕΛΕΤΗ
+Line  48: ΜΗΧΑΝΟΛΟΓΙΚΗ ΜΕΛΕΤΗ
+Line  49: Ροστάν 44, 41, Αθήνα
+Line  50: 771, 2023
+Line  51: Σύμβουλοι Μηχανικοί
+Line  52: ΠΑΡΑΤΗΡΗΣΕΙΣ
+Line  53: ΕΡΕΙΣΜΑ
+Line  54: ΤΕΧΝΙΚΗ ΕΤΑΙΡΕΙΑ
+Line  55: Νάξου Κηφισιά
+Line  56: Παρασκευής Χαλάνδρι
+Line  57: 42 094,
+Line  58: IFI
+Line  59: Gottfried Schubert
+Line  60: Acoustical Consultant
+Line  61: INTRA ΞΕΝΟΔΟΧΕΙΑΚΗ
+Line  62: 1
+Line  63: 2016
+Line  64: AΠΟΞΗΛΩΣΕΙΣ
+Line  65: ΑΝΑΚΑΤΑΣΚΕΥΗ ΞΕΝΟΔΟΧΕΙΟΥ
+Line  66: ΣΤΗΝ ΜΥΚΟΝΟ
+Line  67: ΟΚΤΩΒΡΙΟΣ 2016
+Line  68: ΜΕΛΕΤΗ ΕΦΑΡΜΟΓΗΣ
+Line  69: Πλατύς Γιαλός Μύκονος
+Line  70: ΚΑΤΟΨΗ
+Line  71: ΠEΡΙΒΑΛΛΟΝΤΑ ΧΩΡΟΥ
+Line  72: 2016
+Line  73: 01
+Line  74: ΑΝΑΘΕΩΡΗΣΕΙΣ
+Line  75: ΠΕΡΙΓΡΑΦΗ
+Line  76: ΗΜ ΝΙΑ
+Line  77: 00
+Line  78: ΠΡΩΤΗ ΕΚΔΟΣΗ
+Line  79: 2016
+Line  80: 01
+Line  81: ΤΡΟΠΟΠΟΙΗΣΕΙΣ
+Line  82: 2016
+Line  83: 2016
+Line  84: 01
+Line  85: 2016
+Line  86: 01
+Line  87: 2016
+Line  88: 01
+Line  89: 2016
+Line  90: 01
+
+=== END OF FILTERED TEXT ===
+Total lines: 91

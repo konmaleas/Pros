@@ -1,0 +1,116 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-915-0A_-_SET_OUT_INTERNAL_ROLLER_SHUTTERS_-_PLANS_SECTIONS_AND_DETAILS.pdf ===
+
+Line   0: YE
+Line   1: YE
+Line   2: 2000
+Line   3: IDA ID AD 046
+Line   4: SECONDARY STEELWORK
+Line   5: CONTRACTOR DESIGN.
+Line   6: FACE FIXED HIGH SPEED ROLLER SHUTTER
+Line   7: FACE FIXED FIRE SMOKE CURTAIN
+Line   8: FLOOR MOUNTED INTERNAL BOLLARD
+Line   9: FLOOR MOUNTED INTERNAL BOLLARD
+Line  10: MID LOW LEVEL PVC
+Line  11: CRASHRAILS 450
+Line  12: CTS FFL
+Line  13: COVED VINYL SKIRTING
+Line  14: 2000
+Line  15: 2000
+Line  16: IDA ID AD 050
+Line  17: SECONDARY STEELWORK CONTRACTOR DESIGN.
+Line  18: SHS ENGINEERS DETAILS REQUIRED
+Line  19: SECONDARY STEELWORK CONTRACTOR DESIGN.
+Line  20: DOUBLE LAYER
+Line  21: GYPSUM WALL BOARD
+Line  22: OPE EDGES MAINTAIN FIRE
+Line  23: RATINGS
+Line  24: INTERNAL HIGH SPEED ROLLER
+Line  25: SHUTTER DOOR NON FIRE RATED.
+Line  26: REFER ARCHITECTURAL SPEC.
+Line  27: NOTE
+Line  28: STRUCTURAL OPE LINED
+Line  29: PLASTERBOARD MAINTAIN FIRE INTEGRITY
+Line  30: INTERNAL STUD
+Line  31: PLASTERBOARD
+Line  32: SIDES, PLYWOOD
+Line  33: GROUNDS SIDE.
+Line  34: NOTE
+Line  35: STRUCTURAL OPE LINED
+Line  36: PLASTERBOARD MAINTAIN FIRE INTEGRITY
+Line  37: DOUBLE LAYER
+Line  38: GYPSUM WALL BOARD
+Line  39: OPE EDGES MAINTAIN FIRE
+Line  40: RATINGS
+Line  41: SHS ENGINEERS DETAILS REQUIRED
+Line  42: SECONDARY STEELWORK
+Line  43: CONTRACTOR DESIGN
+Line  44: TRIMOTERM FTV COMPOSITE
+Line  45: PANEL FR
+Line  46: INTER ELECTRICALLY OPERATED
+Line  47: FIRE CURTAIN, MIN FIRE RATED.
+Line  48: REFER ARCHITECTURAL SPEC.
+Line  49: ROLLER DOOR HEAD DETAIL
+Line  50: SCALE
+Line  51: FIRE SHUTTER DOOR HEAD DETAIL
+Line  52: SCALE
+Line  53: ADMIN
+Line  54: COLO
+Line  55: COLO 2
+Line  56: 2
+Line  57: 4
+Line  58: 2
+Line  59: 4
+Line  60: TRUE NORTH
+Line  61: Sheet Title Number
+Line  62: Scale
+Line  63: Plan
+Line  64: Design Consultants
+Line  65: Microsoft
+Line  66: DATA CENTER
+Line  67: SPATA GREECE
+Line  68: Contractor Joint Venture
+Line  69: Name
+Line  70: Contractor Project
+Line  71: Contractor Contract
+Line  72: Contractor PM
+Line  73: Contractor BIM Mngr
+Line  74: Contractor Information
+Line  75: Renco Terna
+Line  76: Client
+Line  77: General Notes
+Line  78: Client Project
+Line  79: Client Contract
+Line  80: Client PM
+Line  81: Client BIM Mngr
+Line  82: Primary Client Information
+Line  83: Layout
+Line  84: Revision
+Line  85: Tombazi Chalandri
+Line  86: 15232
+Line  87: Athens Greece
+Line  88: 0800 3262
+Line  89: Agion Theodoron Square Athens
+Line  90: 10561
+Line  91: Athens Greece
+Line  92: Kimithois Agios Dimitrios
+Line  93: 17236
+Line  94: Athens Greece
+Line  95: Purpose Issue
+Line  96: Issue
+Line  97: Name
+Line  98: SET OUT INTERNAL ROLLER
+Line  99: SHUTTERS PLANS, SECTIONS,
+Line 100: DETAILS
+Line 101: VAP AH
+Line 102: SCALE
+Line 103: ROLLER SHUTTER
+Line 104: SCALE
+Line 105: FIRE ROLLER SHUTTER
+Line 106: Date
+Line 107: Description
+Line 108: 05
+Line 109: Issued Approval
+Line 110: VAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 111

@@ -1,0 +1,105 @@
+=== FILTERED TEXT FOR: A103-00.pdf ===
+
+Line   0: REF.
+Line   1: REF.
+Line   2: REF.
+Line   3: REF.
+Line   4: REF.
+Line   5: REF.
+Line   6: OFFICE
+Line   7: SHAFT
+Line   8: STAIRCASE
+Line   9: WC
+Line  10: WC
+Line  11: KITCHENETTE
+Line  12: WC
+Line  13: WC
+Line  14: WC
+Line  15: WC
+Line  16: KITCHENETTE
+Line  17: WC
+Line  18: WC
+Line  19: WC
+Line  20: WC
+Line  21: WC
+Line  22: KITCHENETTE
+Line  23: WC
+Line  24: WC
+Line  25: WC
+Line  26: KITCHENETTE
+Line  27: WC
+Line  28: WC
+Line  29: KITCHENETTE
+Line  30: WC
+Line  31: WC
+Line  32: WC
+Line  33: WC
+Line  34: KITCHENETTE
+Line  35: OFFICE
+Line  36: WC
+Line  37: WC
+Line  38: WC
+Line  39: WC
+Line  40: SHAFT
+Line  41: OFFICE
+Line  42: OFFICE
+Line  43: OFFICE
+Line  44: Enclosed
+Line  45: OFFICE
+Line  46: LOBBY CORRIDOR
+Line  47: EQ
+Line  48: EQ
+Line  49: EQ
+Line  50: EQ
+Line  51: EQ
+Line  52: LIFT
+Line  53: LIFT
+Line  54: FFL
+Line  55: SSL
+Line  56: FFL
+Line  57: SSL
+Line  58: FFL
+Line  59: SSL
+Line  60: FFL
+Line  61: SSL
+Line  62: FFL
+Line  63: SSL
+Line  64: FFL
+Line  65: SSL
+Line  66: REVISIONS
+Line  67: CLIENT
+Line  68: PROJECT
+Line  69: DESIGN STAGE
+Line  70: DATE
+Line  71: SCALE
+Line  72: FILE NAME
+Line  73: DRAWING TITLE
+Line  74: DRAWING
+Line  75: TAHLIA WALK
+Line  76: VAPARCHITECTS
+Line  77: Street
+Line  78: Athens, GR
+Line  79: 00
+Line  80: DESIGN ARCHITECTS
+Line  81: STRUCTURAL ENGINEER
+Line  82: CONSULTANTS
+Line  83: MEP ENGINEER
+Line  84: STUDIO
+Line  85: Lycab
+Line  86: Athens, 47
+Line  87: 75
+Line  88: 72
+Line  89: ZAD DEVELOPMENT
+Line  90: 2016
+Line  91: Level First
+Line  92: Floor
+Line  93: Project Status
+Line  94: Level First Floor
+Line  95: 1602 TW 00
+Line  96: Description
+Line  97: Date
+Line  98: First
+Line  99: 06
+
+=== END OF FILTERED TEXT ===
+Total lines: 100

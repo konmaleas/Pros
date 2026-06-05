@@ -1,0 +1,154 @@
+=== FILTERED TEXT FOR: 1902_CST_A2-401-01.pdf ===
+
+Line   0: ΕΠΙΠΕΔΟ 02
+Line   1: ΔΩΜΑ
+Line   2: ΠΡΟΒΟΛΗ ΕΔΑΦΟΥΣ ΕΚΣΚΑΦΩΝ
+Line   3: ΠΡΙΖΑ
+Line   4: 4
+Line   5: 4
+Line   6: 4
+Line   7: 4
+Line   8: 4
+Line   9: 4
+Line  10: 4
+Line  11: 4
+Line  12: 4
+Line  13: 4
+Line  14: 4
+Line  15: 4
+Line  16: 2
+Line  17: ΕΠΙΠΕΔΟ 02
+Line  18: ΔΩΜΑ
+Line  19: ΠΡΟΒΟΛΗ ΓΡΑΜΜΗΣ
+Line  20: ΕΔΑΦΟΥΣ ΕΚΣΚΑΦΗΣ
+Line  21: ΕΚΚΡΕΜΕΙ ΜΕΛΕΤΗ
+Line  22: ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΧΩΡΟΥ
+Line  23: 4
+Line  24: 4
+Line  25: 4
+Line  26: 2
+Line  27: 2
+Line  28: 2
+Line  29: 4
+Line  30: 4
+Line  31: 4
+Line  32: ΠΡΙΖΑ
+Line  33: ΕΚΚΡΕΜΕΙ ΜΕΛΕΤΗ
+Line  34: ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΧΩΡΟΥ
+Line  35: ΚΩΔΙΚΟΣ ΧΩΡΟΥ ROOM NUMBER
+Line  36: ΕΠΙΦΑΝΕΙΑ ΧΩΡΟΥ ROOM AREA
+Line  37: ΟΠΤΟΠΛΙΝΘΟΔΟΜΗ BRICKWORK
+Line  38: ΦΕΡΩΝ ΟΡΓΑΝΙΣΜΟΣ BEARING STRUCTURE
+Line  39: ΣΤΑΘΜΗ ΤΕΛΙΚΟΥ ΔΑΠΕΔΟΥ FINISH FLOOR
+Line  40: ELEVATION
+Line  41: ΤΥΠΟΣ ΔΑΠΕΔΟΥ FLOOR TYPE
+Line  42: ΣΤΑΘΜΗ ΠΛΑΚΑΣ ΜΠΕΤΟΥ STRUCTURAL SLAB
+Line  43: ELEVATION
+Line  44: ΓΕΝΙΚΟΙ ΣΥΜΒΟΛΙΣΜΟΙ GENERAL ANNOTATION
+Line  45: ΘΕΡΜΟΜΟΝΩΣΗ THERMAL INSULATION
+Line  46: ΤΥΠΟΣ ΠΑΡΑΘΥΡΟΥ WINDOW TYPE
+Line  47: ΑΝΟΙΓΜΑ ΠΑΡΑΘΥΡΟΥ WINDOW WIDTH
+Line  48: ΠΟΔΙΑ ΠΑΡΑΘΥΡΟΥ WINDOW SILL
+Line  49: ΠΡΕΚΙ ΠΑΡΑΘΥΡΟΥ WINDOW HEAD
+Line  50: Room
+Line  51: ΔΩΜΑΤΙΟ GR
+Line  52: ΚΩΔΙΚΟΣ ΠΑΡΑΘΥΡΟΥ WINDOW NUMBER
+Line  53: ΣΥΜΒΟΛΑ ΛΕΠΤΟΜΕΡΕΙΩΝ ΣΧΕΔΙΟΥ DETAIL
+Line  54: INDICATION
+Line  55: ΤΥΠΟΣ ΘΥΡΑΣ DOOR TYPE
+Line  56: ΑΝΟΙΓΜΑ ΘΥΡΑΣ DOOR OPENING
+Line  57: ΠΟΔΙΑ ΘΥΡΑΣ DOOR SILL
+Line  58: ΠΡΕΚΙ ΘΥΡΑΣ DOOR HEAD
+Line  59: ΚΩΔΙΚΟΣ ΘΥΡΑΣ DOOR NUMBER
+Line  60: ΣΥΜΒΟΛΟ ΤΟΜΗΣ ΣΧΕΔΙΟΥ SECTION
+Line  61: INDICATION
+Line  62: 2
+Line  63: 9312
+Line  64: ΚΑΘΑΡΟ ΥΨΟΣ ΧΩΡΟΥ CEILING HEIGHT
+Line  65: ΤΕΛΕΙΩΜΑ ΟΡΟΦΗΣ CEILING FINISH
+Line  66: ΤΕΛΕΙΩΜΑ ΤΟΙΧΟΥ WALL FINISH
+Line  67: ΟΝΟΜΑ ΧΩΡΟΥ
+Line  68: ΣΟΒΑΣ
+Line  69: 2. ΜΕΤΑΛΛΙΚΗ ΠΕΡΓΚΟΛΑ
+Line  70: ΞΥΛΙΝΑ ΚΟΥΦΩΜΑΤΑ
+Line  71: 4. ΔΙΠΛΟΙ ΥΑΛΟΠΙΝΑΚΕΣ
+Line  72: ΥΠΟΜΝΗΜΑ ΥΛΙΚΩΝ ΟΨΕΩΝ
+Line  73: ΚΛΙΜΑΚΑ
+Line  74: SCALE
+Line  75: ΣΧΕΔΙΟ
+Line  76: ΕΡΓΟ
+Line  77: ΕΡΓΟΔΟΤΗΣ
+Line  78: ΗΜΕΡΟΜΗΝΙΑ ΕΚΔΟΣΗΣ
+Line  79: FIRST ISSUE DATE
+Line  80: ΣΦΡΑΓΙΔΑ
+Line  81: ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΜΕΛΕΤΗ ΕΦΑΡΜΟΓΗΣ
+Line  82: DETAILED DESIGN
+Line  83: ΠΕΡΙΟΧΗ
+Line  84: ZONE
+Line  85: LANDSCAPE DESIGN
+Line  86: Kontou 2 Athens, Greece
+Line  87: 6781 6785
+Line  88: MEP DESIGN
+Line  89: TEKEM CONSULTING ENGINEERS
+Line  90: STRUCTURAL DESIGN
+Line  91: Epirou Αthens, Greece
+Line  92: 3262 3269
+Line  93: EXECUTIVE ARCHITECT
+Line  94: SITE SUPERVISOR
+Line  95: Ploutarchou Athens, 75 Greece
+Line  96: 722 4170 722 6355
+Line  97: ARCHITECTURAL DESIGN
+Line  98: ISSUED
+Line  99: ΘΕΣΗ ΕΡΓΟΥ
+Line 100: CONSTRUCTION
+Line 101: APPROVAL
+Line 102: TENDER
+Line 103: STATUS
+Line 104: DRAFT
+Line 105: FINAL
+Line 106: STAMP
+Line 107: DISCIPLINE
+Line 108: ARC
+Line 109: ΑΝΑΘ.
+Line 110: REV.
+Line 111: VALSAMAKIS
+Line 112: ERISMA
+Line 113: Naxou Kifisia, Greece
+Line 114: 4217 6976
+Line 115: Skoufa Athens, 72 Greece
+Line 116: 8642
+Line 117: HELLI PANGALOU
+Line 118: ΚΗΠΟΤΕΧΝΙΚΗ ΜΕΛΕΤΗ
+Line 119: ΜΗΧΑΝΟΛΟΓΙΚΗ ΜΕΛΕΤΗ
+Line 120: ΕΚΤΕΛΕΣΗ ΑΡΧΙΤΕΚΤΟΝΙΚΗΣ ΜΕΛΕΤΗΣ ΕΠΙΒΛΕΨΗ
+Line 121: ΣΤΑΤΙΚΗ ΜΕΛΕΤΗ
+Line 122: ΑΡΧΙΤΕΚΤΟΝΑΣ ΕΡΓΟΥ
+Line 123: VAP
+Line 124: PROJECT
+Line 125: LOCATION
+Line 126: CLIENT
+Line 127: DRAWING
+Line 128: ΟΨΕΙΣ
+Line 129: ΛΑΓΩΝΙΚΗ ΑΛΜΥΡΑ ΝΟΤΙΑ ΑΝΤΙΠΑΡΟΣ
+Line 130: LAGONIKI ALMYRA SOUTH ANTIPAROS
+Line 131: 09
+Line 132: ΑΝΑΤΟΛΙΚΗ ΔΥΤΙΚΗ
+Line 133: ΚΑΤΟΙΚΙΕΣ ΣΤΗΝ ΑΝΤΙΠΑΡΟ
+Line 134: RESIDENCES ANTIPAROS
+Line 135: CSTO LIMITED
+Line 136: 401
+Line 137: ΚΤΙΡΙΑ 2
+Line 138: ELEVATIONS
+Line 139: EAST WEST
+Line 140: BUILDINGS 2
+Line 141: ΔΥΤΙΚΗ
+Line 142: 2
+Line 143: ΒΟΡΕΙΑ
+Line 144: ΑΝΑΘΕΩΡΗΣΕΙΣ
+Line 145: ΠΕΡΙΓΡΑΦΗ DESCRIPTION
+Line 146: ΗΜ ΝΙΑ DATE
+Line 147: Stone
+Line 148: 09 2019
+
+=== END OF FILTERED TEXT ===
+Total lines: 149

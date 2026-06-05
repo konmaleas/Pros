@@ -1,0 +1,142 @@
+=== FILTERED TEXT FOR: Α1-111-03.pdf ===
+
+Line   0: 1
+Line   1: ΠΡΟΘΑΛΑΜΟΣ
+Line   2: ΧΩΡΟΙ ΥΓΙΕΙΝΗΣ
+Line   3: ΣΟΥΙΤΑ
+Line   4: ΠΡΟΘΑΛΑΜΟΣ
+Line   5: ΧΩΡΟΙ ΥΓΙΕΙΝΗΣ
+Line   6: ΠΡΟΘΑΛΑΜΟΣ
+Line   7: ΧΩΡΟΙ ΥΓΙΕΙΝΗΣ
+Line   8: ΠΡΟΘΑΛΑΜΟΣ
+Line   9: ΧΩΡΟΙ ΥΓΙΕΙΝΗΣ
+Line  10: ΠΡΟΘΑΛΑΜΟΣ
+Line  11: ΧΩΡΟΙ ΥΓΙΕΙΝΗΣ
+Line  12: ΠΡΟΘΑΛΑΜΟΣ
+Line  13: ΧΩΡΟΙ ΥΓΙΕΙΝΗΣ
+Line  14: 09
+Line  15: ΕΞΩΤΕΡΙΚΟΣ
+Line  16: 1
+Line  17: ΧΩΡΟΣ ΑΠΟΘΗΚΕΥΣΗΣ
+Line  18: 1
+Line  19: 712
+Line  20: 1
+Line  21: 712
+Line  22: 1
+Line  23: 711
+Line  24: 1
+Line  25: 1
+Line  26: 1
+Line  27: 713
+Line  28: 712
+Line  29: 1
+Line  30: 1
+Line  31: 1
+Line  32: Όμοια
+Line  33: 1
+Line  34: 713
+Line  35: 1
+Line  36: 713
+Line  37: 712
+Line  38: 1
+Line  39: 712
+Line  40: 712
+Line  41: 713
+Line  42: 1
+Line  43: WC
+Line  44: NTOYΣ
+Line  45: WC
+Line  46: ΝΤΟΥΣ
+Line  47: WC
+Line  48: NTOYΣ
+Line  49: WC
+Line  50: WC NTOYΣ
+Line  51: NTOYΣ
+Line  52: WC
+Line  53: NTOYΣ
+Line  54: WC
+Line  55: 1
+Line  56: 1
+Line  57: 1
+Line  58: 719
+Line  59: 1
+Line  60: 1
+Line  61: 1 1 1
+Line  62: 1 1
+Line  63: ΚΛΙΜΑΚΑ
+Line  64: ΚΑΤΗΓΟΡΙΑ
+Line  65: ΚΥΡΙΟΣ ΕΡΓΟΥ
+Line  66: ΕΡΓΟ
+Line  67: ΑΡΙΘΜΟΣ ΣΧΕΔΙΟΥ
+Line  68: ΗΜΕΡΟΜΗΝΙΑ ΜΕΛΕΤΗΣ
+Line  69: VAP ARCHITECTS
+Line  70: Ηπείρου Αθήνα Ελλάδα
+Line  71: 3262 3269
+Line  72: ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΜΕΛΕΤΗ
+Line  73: ΣΤΑΔΙΟ ΜΕΛΕΤΗΣ
+Line  74: Όλες
+Line  75: ΣΥΝΕΡΓΑΤΕΣ ΜΕΛΕΤΗΣ ΕΦΑΡΜΟΓΗΣ
+Line  76: ΚΛΕΙΔΑ
+Line  77: ΣΧΕΔΙΟ
+Line  78: HΜ ΝΙΑ ΣΧΕΔΙΟΥ
+Line  79: ΑΚΟΥΣΤΙΚΗ ΜΕΛΕΤΗ
+Line  80: ΜΕΛΕΤΗ ΦΩΤΙΣΜΟΥ
+Line  81: ΣΤΑΤΙΚΗ ΜΕΛΕΤΗ
+Line  82: ΜΗΧΑΝΟΛΟΓΙΚΗ ΜΕΛΕΤΗ
+Line  83: Ροστάν 44, 41, Αθήνα
+Line  84: 771, 2023
+Line  85: Σύμβουλοι Μηχανικοί
+Line  86: ΠΑΡΑΤΗΡΗΣΕΙΣ
+Line  87: ΕΡΕΙΣΜΑ
+Line  88: ΤΕΧΝΙΚΗ ΕΤΑΙΡΕΙΑ
+Line  89: Νάξου Κηφισιά
+Line  90: Παρασκευής Χαλάνδρι
+Line  91: 42 094,
+Line  92: IFI
+Line  93: INTRA ΞΕΝΟΔΟΧΕΙΑΚΗ
+Line  94: 1
+Line  95: 1 2017
+Line  96: ΚΑΤΑΣΚΕΥΑΣΤΙΚΑ
+Line  97: ΑΝΑΚΑΤΑΣΚΕΥΗ ΞΕΝΟΔΟΧΕΙΟΥ
+Line  98: ΣΤΗΝ ΜΥΚΟΝΟ
+Line  99: ΟΚΤΩΒΡΙΟΣ 2016
+Line 100: ΜΕΛΕΤΗ ΕΦΑΡΜΟΓΗΣ
+Line 101: Πλατύς Γιαλός Μύκονος
+Line 102: ΚΑΤΟΨΗ ΟΡΟΦΟΥ
+Line 103: 2016
+Line 104: ΖΩΝΗ 1
+Line 105: 03
+Line 106: 2016
+Line 107: 01
+Line 108: 2016
+Line 109: 01
+Line 110: 2016
+Line 111: 01
+Line 112: 2016
+Line 113: 01
+Line 114: 2016
+Line 115: 01
+Line 116: 2016
+Line 117: 01
+Line 118: ΑΝΑΘΕΩΡΗΣΕΙΣ
+Line 119: ΠΕΡΙΓΡΑΦΗ
+Line 120: ΗΜ ΝΙΑ
+Line 121: 00
+Line 122: ΠΡΩΤΗ ΕΚΔΟΣΗ
+Line 123: 2016
+Line 124: 01
+Line 125: ΤΡΟΠΟΠΟΙΗΣΕΙΣ
+Line 126: 2016
+Line 127: 02
+Line 128: ΤΡΟΠΟΠΟΙΗΣΕΙΣ
+Line 129: 2016
+Line 130: 03
+Line 131: ΤΡΟΠΟΠΟΙΗΣΕΙΣ
+Line 132: 01 2017
+Line 133: 01 2017
+Line 134: 03
+Line 135: 01 2017
+Line 136: 03
+
+=== END OF FILTERED TEXT ===
+Total lines: 137

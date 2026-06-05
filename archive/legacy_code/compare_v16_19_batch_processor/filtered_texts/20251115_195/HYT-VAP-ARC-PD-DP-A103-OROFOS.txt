@@ -1,0 +1,21 @@
+=== FILTERED TEXT FOR: HYT-VAP-ARC-PD-DP-A103-OROFOS.pdf ===
+
+Line   0: Minibar
+Line   1: LIVING
+Line   2: BEDROOM
+Line   3: LIVING ROOM
+Line   4: WC
+Line   5: Minibar
+Line   6: 42
+Line   7: 2
+Line   8: 4
+Line   9: DOUCHE
+Line  10: WC
+Line  11: WC
+Line  12: DOUCHE
+Line  13: WC
+Line  14: 2
+Line  15: 4
+
+=== END OF FILTERED TEXT ===
+Total lines: 16

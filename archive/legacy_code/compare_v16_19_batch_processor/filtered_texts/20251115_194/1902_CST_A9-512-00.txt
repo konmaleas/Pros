@@ -1,0 +1,86 @@
+=== FILTERED TEXT FOR: 1902_CST_A9-512-00.pdf ===
+
+Line   0: 440
+Line   1: 440
+Line   2: 760
+Line   3: 1380
+Line   4: 1320
+Line   5: ΚΛΙΣΗ
+Line   6: 2
+Line   7: 73
+Line   8: 70
+Line   9: 45
+Line  10: 00
+Line  11: ΓΡΑΜΜΙΚΟ ΣΤΟΜΙΟ INOX ΣΕ ΧΡΩΜΑ
+Line  12: ΔΕΝ ΕΞΕΧΕΙ ΑΠΟ ΤΟ ΕΡΜΑΡΙΟ
+Line  13: 2. ΚΑΝΑΛΙ ΠΡΟΣΑΓΩΓΗΣ ΑΕΡΑ
+Line  14: VRV ΔΑΠΕΔΟΥ ΔΙΑΣΤΑΣΕΩΝ ΒΛ.
+Line  15: 4. ΠΗΧΑΚΙ ΣΤΗΡΙΞΗΣ ΟΡΙΖΟΝΤΙΟΥ ΤΜΗΜΑΤΟΣ ΔΕΝ
+Line  16: ΣΤΗΡΙΖΕΤΑΙ ΤΟ ΦΥΛΛΟ
+Line  17: ΑΝΟΙΓΟΜΕΝΟ ΦΥΛΛΟ ΕΠΙΣΚΕΨΗΣ VRV ΑΠΟ ΛΕΥΚΗ ΛΑΚΑ
+Line  18: ΣΑΤΙΝΕ RAL 9010
+Line  19: ΔΙΑΤΟΜΗ ΑΠΟ ΚΟΝΤΡΑ ΠΛΑΚΕ ΣΤΗΡΙΞΗΣ ΠΛΑΪΝΩΝ ΤΕΜΑΧΙΩΝ
+Line  20: ΕΠΙΣΤΡΟΦΗ ΑΕΡΑ
+Line  21: ΜΠΑΖΑ ΑΠΟ ΛΕΥΚΗ ΛΑΚΑ ΣΑΤΙΝΕ RAL 9010
+Line  22: ΠΟΜΠΕ ΦΙΝΙΡΙΣΜΑ ΣΕ ΟΛΑ ΤΑ ΡΑΦΙΑ ΤΗΣ ΒΙΒΛΙΟΘΗΚΗΣ
+Line  23: ΞΥΛΟΥΡΓΙΚΕΣ
+Line  24: ΚΑΤΑΣΚΕΥΕΣ
+Line  25: WOODWORK
+Line  26: 01 2020
+Line  27: ΒΙΒΛΙΟΘΗΚΗ
+Line  28: ΧΩΡΟΣ ΓΡΑΦΕΙΟΥ
+Line  29: BOOKSHELVES
+Line  30: STUDY ROOM
+Line  31: SOUTH ANTIPAROS
+Line  32: RESIDENCES ANTIPAROS
+Line  33: CSTO LIMITED
+Line  34: ΑΝΑΘΕΩΡΗΣΕΙΣ REVISIONS
+Line  35: DESCRIPTION
+Line  36: REVISION DATE
+Line  37: ƯD UHHFH
+Line  38: ERISMA
+Line  39: Kontou 2 Athens, Greece
+Line  40: TEKEM CONSULTING ENGINEERS
+Line  41: Epirou Athens, Greece
+Line  42: 3262 3269
+Line  43: UHHFH
+Line  44: VALSAMAKIS
+Line  45: Skoufa Athens, 72 Greece
+Line  46: HELLI PANGALOU
+Line  47: SCALE
+Line  48: FIRST ISSUE DATE
+Line  49: ΑΡΧΙΤΕΚΤΟΝΙΚΗ
+Line  50: ΜΕΛΕΤΗ ΕΦΑΡΜΟΓΗΣ
+Line  51: DETAILED DESIGN
+Line  52: BLD. CATEGORY
+Line  53: ISSUED
+Line  54: CONSTR.
+Line  55: APPROVAL
+Line  56: TENDER
+Line  57: STATUS
+Line  58: DRAFT
+Line  59: FINAL
+Line  60: REV.
+Line  61: PROJECT
+Line  62: LOCATION
+Line  63: CLIENT
+Line  64: DRAWING
+Line  65: LANDSCAPE DESIGN
+Line  66: MEP ENGINEER
+Line  67: STRUCTURAL ENGINEER
+Line  68: ARCHITECTURAL DESIGN
+Line  69: EXECUTIVE ARCHITECT
+Line  70: SITE SUPERVISOR
+Line  71: DISCIPLINE
+Line  72: ARC
+Line  73: VAP
+Line  74: ΛΕΠΤ. ΕΠΙΣΤΡΟΦΗΣ ΑΕΡΑ
+Line  75: ΚΛΙΜΑΚΑ SCALE
+Line  76: ΛΕΠΤ. ΠΡΟΣΑΓΩΓΗΣ ΑΕΡΑ
+Line  77: 2
+Line  78: ΚΛΙΜΑΚΑ SCALE
+Line  79: 2
+Line  80: 4
+
+=== END OF FILTERED TEXT ===
+Total lines: 81

@@ -1,0 +1,40 @@
+====================================================================================================
+BATCH DEBUG PROCESSOR - COMPREHENSIVE REPORT
+====================================================================================================
+
+SUMMARY:
+  Total Projects: 1
+  Total Cases: 1
+  Total PDFs: 11
+  Successful Cases: 0
+  Failed Cases: 1
+  Success Rate: 0.0%
+
+====================================================================================================
+
+PROJECT: 2502 DATA4-DC02+DC03
+Path: /media/konstantinos/DATA/PyTests/Submission/Process/2502 DATA4-DC02+DC03
+Total PDFs: 11
+Cases: 1 (0 successful, 1 failed)
+----------------------------------------------------------------------------------------------------
+  Case 1: PDF
+    Path: /media/konstantinos/DATA/PyTests/Submission/Process/2502 DATA4-DC02+DC03/PDF
+    PDFs: 11
+    Template Title: ATH1-DC03-CAP-20302-PLN-2-011-AL-00-T00_4-SECTIONS_DC3
+    Template File: ATH1-DC03-CAP-20302-PLN-2-011-AL-00-T00_4-SECTIONS_DC3.pdf
+    Status: âœ— FAILED
+    Error: 'processed_lines'
+
+Traceback:
+Traceback (most recent call last):
+  File "/home/konstantinos/PycharmProjects/Pros/compare_v16_19_batch_processor/batch_processor.py", line 162, in process_case
+    results = analyzer.analyze_all_files(extract_and_process)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/konstantinos/PycharmProjects/Pros/compare_v16_19_batch_processor/pattern_analyzer.py", line 139, in analyze_all_files
+    stable_anchor_lines = self._find_stable_anchor_lines(all_file_data)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/konstantinos/PycharmProjects/Pros/compare_v16_19_batch_processor/pattern_analyzer.py", line 205, in _find_stable_anchor_lines
+    for line in first_file['processed_lines']:
+                ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'processed_lines'
+

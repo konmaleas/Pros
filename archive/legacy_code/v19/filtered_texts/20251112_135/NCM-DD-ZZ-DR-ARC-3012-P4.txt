@@ -1,0 +1,160 @@
+=== FILTERED TEXT FOR: NCM-DD-ZZ-DR-ARC-3012-P4.pdf ===
+
+Line   0: ΙΣΟΓΕΙΟ
+Line   1: FFL
+Line   2: ΠΡΩΤΟ ΕΠΙΠΕΔΟ
+Line   3: FFL
+Line   4: ΔΕΥΤΕΡΟ ΕΠΙΠΕΔΟ FFL
+Line   5: ΠΡΩΤΟ ΥΠΟΓΕΙΟ
+Line   6: FFL
+Line   7: ΔΕΥΤΕΡΟ ΥΠΟΓΕΙΟ
+Line   8: FFL
+Line   9: ΕΠΙΠΕΔΟ ΔΩΜΑΤΩΝ ΚΑΙ FFL
+Line  10: ΕΠΙΠΕΔΟ ΔΩΜΑΤΩΝ FFL
+Line  11: ΚΤΙΡΙΟΥ
+Line  12: ΕΚΘΕΣΗ ΑΡΧΑΙΟΛΟΓΙΑΣ
+Line  13: ΥΠΑΙΘΡΙΑ ΖΩΝΗ ΕΚΘΕΣΕΙΣ
+Line  14: ΟΡΟΦΟΣ ΕΚΘΕΣΙΑΚΟΙ ΧΩΡΟΙ
+Line  15: ΟΡΟΦΟΣ ΕΚΘΕΣΙΑΚΟΙ ΧΩΡΟΙ
+Line  16: ΤΕΛΙΚΟ
+Line  17: ΣΤΕΓΑΣΗ FOYER
+Line  18: 04
+Line  19: 04
+Line  20: 05
+Line  21: 06
+Line  22: 07
+Line  23: 07
+Line  24: 08
+Line  25: ΥΔΡΟΦΟΡΟΣ ΟΡΙΖΟΝΤΑΣ
+Line  26: ΜΑΡΓΑ
+Line  27: ΜΕΤΑΛΛΙΚΗ ΚΑΤΑΣΚΕΥΗ ΣΤΗΡΙΞΗΣ PANELS
+Line  28: ΟΓΚΟΣ TOPOS
+Line  29: ΕΚΘΕΣΗ ΑΡΧΑΙΟΛΟΓΙΑΣ
+Line  30: ΓΡΑΜΜΗ
+Line  31: ΟΡΙΟ
+Line  32: ΟΡΙΟ ΠΡΑΝΟΥΣ
+Line  33: ΓΡΑΜΜΗ ΦΥΣΙΚΟΥ
+Line  34: ΜΟΝΙΜΗ ΕΚΘΕΣΗ TOPOS
+Line  35: ΚΟΥΖΙΝΑ ΠΑΡΑΛΑΒΗ
+Line  36: 07
+Line  37: ΔΕΥΤΕΡΟ ΕΠΙΠΕΔΟ FFL
+Line  38: ΕΣΤΙΑΤΟΡΙΟ ΚΑΦΕ
+Line  39: ΕΠΙΠΕΔΟ ΙΣΟΓΕΙΟΥ
+Line  40: FFL
+Line  41: ΠΡΩΤΟ ΕΠΙΠΕΔΟ
+Line  42: FFL
+Line  43: ΜΟΝΙΜΗ ΕΚΘΕΣΗ TOPOS
+Line  44: ΕΣΤΙΑΤΟΡΙΟ ΚΑΦΕ
+Line  45: ΑΠΟΘΗΚΗ ΣΩΣΤΙΚΩΝ ΑΝΑΣΚΑΦΩΝ
+Line  46: ΑΠΟΘΗΚΗ
+Line  47: 8161
+Line  48: 8365
+Line  49: 8366
+Line  50: 8354
+Line  51: ΥΠΕΥΘΥΝΟΥ ΕΡΓΟΥ
+Line  52: ΗΜΕΡΟΜΗΝΙΑ
+Line  53: ONOMA ΑΡΧΕΙΟΥ
+Line  54: ΛΕΥΚΩΣΙΑ ΚΥΠΡΟΣ
+Line  55: ΜΕΛΕΤΗ ΕΦΑΡΜΟΓΗΣ DD
+Line  56: ΝΕΟ ΚΥΠΡΙΑΚΟ ΜΟΥΣΕΙΟ
+Line  57: ΗΜΕΡΟΜΗΝΙΑ
+Line  58: ΕΓΚΡΙΘΗΚΕ
+Line  59: ΤΜΗΜΑ
+Line  60: ΗΜΕΡΟΜΗΝΙΑ
+Line  61: ΕΛΕΓΧΘΗΚΕ
+Line  62: ΤΜΗΜΑ
+Line  63: ΤΙΤΛΟΣ
+Line  64: ΥΠΟΒΟΛΗ
+Line  65: ΑΡ.
+Line  66: ΥΠΟΥΡΓΕΙΟ ΜΕΤΑΦΟΡΩΝ, ΕΠΙΚΟΙΝΩΝΙΩΝ ΚΑΙ ΕΡΓΩΝ
+Line  67: ΤΜΗΜΑ ΕΡΓΩΝ
+Line  68: KEY PLAN
+Line  69: ΗΜΕΡΟΜΗΝΙΑ
+Line  70: ΠΕΡΙΕΧΟΜΕΝΟ
+Line  71: ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΜΕΛΕΤΗ
+Line  72: THEONI XANTHI XZA ARCHITECTS LLC
+Line  73: ΥΠΕΥΘΥΝΟΣ ΕΡΓΟΥ
+Line  74: ΑΡΧΙΤΕΚΤΩΝ ΘΕΩΝΗ ΞΑΝΘΗ
+Line  75: ΑΡΧΙΤΕΚΤΟΝΕΣ
+Line  76: ΜΑΡΓΑΡΙΤΑ ΖΑΚΥΝΘΙΝΟΥ
+Line  77: ΣΥΝΤΟΝΙΣΤΗΣ ΑΡΧIT ΚΗΣ ΜΕΛΕΤΗΣ
+Line  78: ΚΟΣΜΑΣ ΒΑΡΚΑΡΟΛΗΣ
+Line  79: ΑΡΧΙΤΕΚΤΟΝΙΚΑ
+Line  80: YAP ARCHITECTS
+Line  81: ΣTATIKΑ
+Line  82: RHOMBUS STRUCTURAL ENGINEERS LLC ΣΤ.
+Line  83: PENELIS CONSULTING ENGINEERS SA ΠΕΝΕΛΗΣ
+Line  84: GEORGHIOU ZEMBYLAS PARTNERS
+Line  85: ΜΗΧΑΝΟΛΟΓΙΚA
+Line  86: ΗΛΕΚΤΡΟΛΟΓΙΚA
+Line  87: ΜΟΥΣΕΙΟΛΟΓΙΚA
+Line  88: THETA ACOUSTICS LTD ΝΙΑΟΥΝΑΚΗΣ
+Line  89: ΑΚΟΥΣΤΙΚA
+Line  90: RODITIS PARTNERS
+Line  91: ΕΠΙΜΕΤΡΗΣΗ ΠΟΣΟΤΗΤΩΝ
+Line  92: FLOROS PANTELI ASSOCIATES ΠΑΝΤΕΛΗ
+Line  93: ΥΓΕΙΑ
+Line  94: ΜΟΥΣΕΙΟΓΡΑΦΙΚA
+Line  95: ΘΩΜΑΣ ΤΣΟΥΚΑΛΑΣ
+Line  96: ΦΩΤΙΣΜΟΣ
+Line  97: DECO ASSOCIATES ΕΛ. ΝΤΕΚΩ
+Line  98: ΠΥΡΟΠΡΟΣΤΑΣΙΑ
+Line  99: INT FIRE CYPRUS LTD ΣΠ. ΣΠΥΡΟΥ
+Line 100: ΚΥΚΛΟΦΟΡΙΑΚΑ
+Line 101: DROMOS CONSULTING LTD ΖΕΚΚΟΣ
+Line 102: ΣΗΜΑΝΣΗ
+Line 103: POST SPECTACULAR OFFICE ΓΑΛΙΚΑΣ
+Line 104: ΚΤΗΡΙΟΥ
+Line 105: ARION PLUS
+Line 106: ΕΡΓΑΣΙΑΣ
+Line 107: ΜΕΛΕΤΗΣ
+Line 108: FEREOS ARCHITECTS LLC ΦΕΡΑΙΟΣ Αναπλ. Υπεύθυνος Οµάδας Έργου
+Line 109: DROMOS CONSULTING LTD ΖΕΚΚΟΣ
+Line 110: ΣΥΜΒΟΥΛΟΙ ΜΕΛΕΤΗΤΕΣ
+Line 111: ΓΕΩΤΕΧΝΙΚΑ
+Line 112: ΜΟΥΣΕΙΑΚΟΣ
+Line 113: XZA ARCHITECTS
+Line 114: ΒΑΣΙΛΕΙΟΥ
+Line 115: ΕΡΓΑΣΤΗΡΙΑ
+Line 116: ΩΡ
+Line 117: ΑΡΧΙΤΕΚΤΟΝΙΚΗ
+Line 118: ΚΛΙΜΑΚΑ
+Line 119: VAP ARCHITECTS Σύµβουλος Μελέτης Εφαρµογής
+Line 120: DR ARC
+Line 121: ΚΑΤΑΛΛΗΛΟΤΗΤΑΣ
+Line 122: NCM DD
+Line 123: Engineer Record
+Line 124: GEORGHIOU ZEMBYLAS PARTNERS
+Line 125: ANDREAS EVRIPIDOU CIVIL ENGINEERS
+Line 126: ΣΤΕΡΓΙΟΣ ΓΑΛΙΚΑΣ
+Line 127: ΘΩΜΑΣ ΤΣΟΥΚΑΛΑΣ
+Line 128: ΣΤΕΡΓΙΟΣ ΓΑΛΙΚΑΣ
+Line 129: Συνεργάτης ΤΣΑΜΠΙΚΟΣ ΠΕΤΡΑΣ
+Line 130: POST SPECTACULAR OFFICE ΓΑΛΙΚΑΣ
+Line 131: ΠΡΟΜΕΛΕΤΗ ΣΑΚΕΛΛΑΡΙΟΥ
+Line 132: ΦΥΣΙΚΟΣ ΦΩΤΙΣΜΟΣ
+Line 133: ΤΣΑΓΚΡΑΣΟΥΛΗΣ
+Line 134: ΕΞΟΠΛΙΣΜΟΣ ΚΟΥΖΙΝΑΣ
+Line 135: XENEX
+Line 136: ΕΝΕΡΓΕΙΑΚΑ ΚΕΛΥΦΟΥΣ
+Line 137: METABUILD
+Line 138: ΓΡΑΦΙΣΤΙΚΑ
+Line 139: ΦΥΤΟΤΕΧΝΙΚΑ
+Line 140: LANDCO EΠΕ ΚΑΝΤΑΡΤΖΗΣ
+Line 141: ΦΕΒΡΟΥΑΡΙΟΣ 2021
+Line 142: 2021 PM
+Line 143: ΤΟΜΕΣ ΑΑ ΖΩΝΗ
+Line 144: 3012
+Line 145: ΖΖ
+Line 146: ΤΟΜΗ ΑΑ ΖΩΝΗ
+Line 147: ΤΟΜΗ ΑΑ
+Line 148: ΖΩΝΗ
+Line 149: 07 2021
+Line 150: Υποβολή
+Line 151: 2020
+Line 152: Υποβολή
+Line 153: 02 2021
+Line 154: Υποβολή
+
+=== END OF FILTERED TEXT ===
+Total lines: 155

@@ -1,0 +1,83 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-1085-0A_BUILDERS_WORK_MEP_PENETRATIONS_-_COLO_1_CELL_1_ROOF.pdf ===
+
+Line   0: ZA
+Line   1: YC
+Line   2: YB
+Line   3: YA
+Line   4: MP DC 01
+Line   5: MP DC 08
+Line   6: MP DC 09
+Line   7: 745
+Line   8: 3690
+Line   9: 1030
+Line  10: MEP PENETRATION
+Line  11: ROOF WALKWAY
+Line  12: MEP PENETRATION
+Line  13: ROOF WALKWAY
+Line  14: MEP PENETRATIONS CODE
+Line  15: MP DC XX XXX XX
+Line  16: MP
+Line  17: MEP PENETRATIONS
+Line  18: DC
+Line  19: BUILDING CODE
+Line  20: XXX
+Line  21: ROOM NUMBER
+Line  22: XX
+Line  23: PENETRATION NUMBER
+Line  24: XX
+Line  25: LEVEL
+Line  26: ADMIN
+Line  27: COLO
+Line  28: COLO
+Line  29: TRUE NORTH
+Line  30: Sheet Title Number
+Line  31: Scale
+Line  32: Plan
+Line  33: Design Consultants
+Line  34: Microsoft
+Line  35: DATA CENTER ATH04
+Line  36: SPATA GREECE
+Line  37: Contractor Joint Venture
+Line  38: Name
+Line  39: Contractor Project
+Line  40: Contractor Contract
+Line  41: Contractor PM
+Line  42: Contractor BIM Mngr
+Line  43: Contractor Information
+Line  44: Renco Terna
+Line  45: Client
+Line  46: General Notes
+Line  47: Client Project
+Line  48: Client Contract
+Line  49: Client PM
+Line  50: Client BIM Mngr
+Line  51: Primary Client Information
+Line  52: Layout
+Line  53: Revision
+Line  54: Tombazi Chalandri
+Line  55: 15232
+Line  56: Athens Greece
+Line  57: 0800 3262
+Line  58: Agion Theodoron Square Athens
+Line  59: 10561
+Line  60: Athens Greece
+Line  61: Kimithois Agios Dimitrios
+Line  62: 17236
+Line  63: Athens Greece
+Line  64: Purpose Issue
+Line  65: Issue
+Line  66: Name
+Line  67: BUILDERS WORK MEP
+Line  68: PENETRATIONS ROOF COLO
+Line  69: CELL ROOF
+Line  70: ATH04 VAP AH 1085
+Line  71: Date
+Line  72: Description
+Line  73: 07
+Line  74: Issued Approval
+Line  75: VAP
+Line  76: SCALE
+Line  77: COLO CELL ROOF PLAN MEP PENETRATIONS
+
+=== END OF FILTERED TEXT ===
+Total lines: 78

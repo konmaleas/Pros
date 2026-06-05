@@ -1,0 +1,114 @@
+=== FILTERED TEXT FOR: A301-00.pdf ===
+
+Line   0: Level
+Line   1: Level
+Line   2: Level
+Line   3: Level
+Line   4: Level
+Line   5: Ceiling Plan
+Line   6: Basement
+Line   7: Ceiling Ground
+Line   8: Floor
+Line   9: Level First Floor
+Line  10: NGL
+Line  11: Level
+Line  12: Level
+Line  13: KITCHENETTE
+Line  14: WC
+Line  15: WC
+Line  16: OFFICE
+Line  17: MAIN LOBBY
+Line  18: LIFT
+Line  19: LIFT
+Line  20: PARKING
+Line  21: BASEMENT LOBBY
+Line  22: PARKING
+Line  23: WC
+Line  24: KITCHENETTE
+Line  25: WC
+Line  26: OFFICE
+Line  27: LOBBY CORRIDOR
+Line  28: CIRCULATION LOBBY
+Line  29: LIFT
+Line  30: STAIRCASE
+Line  31: STAIRCASE
+Line  32: STORAGE
+Line  33: CIRCULATION LOBBY
+Line  34: LOBBY CORRIDOR
+Line  35: LIFT
+Line  36: STAIRCASE
+Line  37: LIFT
+Line  38: LIFT
+Line  39: PARKING
+Line  40: Fixed
+Line  41: Ceiling Plan
+Line  42: Basement
+Line  43: Ceiling Ground
+Line  44: Floor
+Line  45: Level First Floor
+Line  46: NGL
+Line  47: Level
+Line  48: Level
+Line  49: Level Foundation
+Line  50: Staircase Basement
+Line  51: OFFICE
+Line  52: LOBBY CORRIDOR
+Line  53: CIRCULATION LOBBY
+Line  54: OFFICE
+Line  55: PARKING
+Line  56: ROOM
+Line  57: ROOM
+Line  58: BASEMENT LOBBY
+Line  59: PARKING
+Line  60: PARKING
+Line  61: OFFICE
+Line  62: WATER TANK SPACE
+Line  63: MAIN LOBBY
+Line  64: WC
+Line  65: KITCHENETTE
+Line  66: WC
+Line  67: WC
+Line  68: KITCHENETTE
+Line  69: WC
+Line  70: Windows Curtain Wall
+Line  71: Windows Curtain Wall
+Line  72: Fixed
+Line  73: REVISIONS
+Line  74: CLIENT
+Line  75: PROJECT
+Line  76: DESIGN STAGE
+Line  77: DATE
+Line  78: SCALE
+Line  79: FILE NAME
+Line  80: DRAWING TITLE
+Line  81: DRAWING
+Line  82: TAHLIA WALK
+Line  83: VAPARCHITECTS
+Line  84: Athens,
+Line  85: 3262
+Line  86: 3269
+Line  87: DESIGN ARCHITECTS
+Line  88: STRUCTURAL ENGINEER
+Line  89: CONSULTANTS
+Line  90: MEP ENGINEER
+Line  91: STUDIO
+Line  92: Lycab
+Line  93: Athens,
+Line  94: 77522
+Line  95: 77226
+Line  96: 78188
+Line  97: ZAD DEVELOPMENT
+Line  98: 2016
+Line  99: Section
+Line 100: Section
+Line 101: Project Status
+Line 102: Section
+Line 103: 1602 TW 00
+Line 104: Section
+Line 105: Description
+Line 106: Date
+Line 107: First
+Line 108: 06
+
+=== END OF FILTERED TEXT ===
+Total lines: 109

@@ -1,0 +1,105 @@
+=== FILTERED TEXT FOR: 1902_CST_A9-515-00.pdf ===
+
+Line   0: 1590
+Line   1: 1300
+Line   2: 1577
+Line   3: 1577
+Line   4: 00
+Line   5: ΧΑΛΑΖΙΑΚΟΣ ΠΑΓΚΟΣ ΠΑΧΟΣ ΣΕ ΜΑΤ ΤΕΛΕΙΩΜΑ, ΕΚΚΡΕΜΕΙ ΤΟ ΧΡΩΜΑ
+Line   6: 2. ΑΝΟΞΕΙΔΩΤΟΣ ΚΟΙΛΟΔΟΚΟΣ ΣΤΗΡΙΞΗΣ ΠΑΓΚΟΥ
+Line   7: ΕΣΩΤΕΡΙΚΑ ΝΤΟΥΛΑΠΙΩΝ ΕΡΜΑΡΙΟΥ ΑΠΟ ΛΕΥΚΗ ΜΕΛΑΜΙΝΗ AGT SOFT TOUCH
+Line   8: WHITE
+Line   9: 4. ΦΥΛΛΑ EΡΜΑΡΙIOY ΑΠΟ ΛΕΥΚΗ ΛΑΚΑ SATINE RAL 9010
+Line  10: EΠΙΚΑΘΗΜΕΝΟΣ ΝΙΠΤΗΡΑΣ ΔΙΑΜΕΤΡΟΣ KALDEWEI MIENA
+Line  11: ΜΠΑΤΑΡΙΕΣ ΠΑΓΚΟΥ CIRCA SUSSEX
+Line  12: ΣΕΝΑΖ ΤΟΙΧΟΥ ΣΕ ΥΨΟΣ ΑΠΟ
+Line  13: ΛΕΠΤΟΜΕΡΕΙΑ ΧΟΥΦΤΑΣ
+Line  14: KAΘΡΕΠΤΗΣ ΑΠΟ ΤΟΝ ΠΑΓΚΟ ΕΩΣ ΤΗΝ ΨΕΥΔΟΡΟΦΗ ΜΕ ΚΡΥΦΟ ΦΩΤΙΣΜΟ LED ΣΤΑ
+Line  15: ΠΛΑΙΝΑ ΣΟΚΟΡΑ
+Line  16: EΠΙΧΡΙΣΜΑ ΤΕΛΙΚΗ ΕΠΙΦΑΝΕΙΑ ΜΑΡΜΑΡΟΚΟΝΙΑΣ
+Line  17: ΛΑΓΩΝΙΚΗ ΑΛΜΥΡΑ ΝΟΤΙΑ
+Line  18: ΑΝΤΙΠΑΡΟΣ LAGONIKI ALMYRA
+Line  19: SOUTH ANTIPAROS
+Line  20: RESIDENCES ANTIPAROS
+Line  21: CSTO LIMITED
+Line  22: ΠΕΡΙΓΡΑΦΗ
+Line  23: DESCRIPTION
+Line  24: ΗΜ ΝΙΑ
+Line  25: REVISION DATE
+Line  26: Νaxou Kifisia, Greece
+Line  27: 4217 6976
+Line  28: ERISMA
+Line  29: Kontou 2 Athens, Greece
+Line  30: 6781 6785
+Line  31: TEKEM CONSULTING ENGINEERS
+Line  32: Epirou Athens, Greece
+Line  33: 3262 3269
+Line  34: Ploutarchou Athens, 75 Greece
+Line  35: 722 4170 722 6355
+Line  36: Skoufa Athens, 72 Greece
+Line  37: 8642
+Line  38: HELLI PANGALOU
+Line  39: ΚΛΙΜΑΚΑ
+Line  40: SCALE
+Line  41: ΣΧΕΔΙΟ
+Line  42: ΕΡΓΟ
+Line  43: ΕΡΓΟΔΟΤΗΣ
+Line  44: ΗΜΕΡΟΜΗΝΙΑ ΕΚΔΟΣΗΣ
+Line  45: FIRST ISSUE DATE
+Line  46: DETAILED DESIGN
+Line  47: KAT. ΣΧΕΔΙΟΥ
+Line  48: BLD. CATEGORY
+Line  49: ISSUED
+Line  50: ΘΕΣΗ ΕΡΓΟΥ
+Line  51: CONSTR.
+Line  52: APPROVAL
+Line  53: TENDER
+Line  54: STATUS
+Line  55: DRAFT
+Line  56: FINAL
+Line  57: ΑΝΑΘ.
+Line  58: REV.
+Line  59: PROJECT
+Line  60: LOCATION
+Line  61: CLIENT
+Line  62: DRAWING
+Line  63: ΚΗΠΟΤΕΧΝΙΚΗ ΜΕΛΕΤΗ
+Line  64: LANDSCAPE DESIGN
+Line  65: ΜΗΧΑΝΟΛΟΓΙΚΗ ΜΕΛΕΤΗ
+Line  66: MEP ENGINEER
+Line  67: ΣΤΑΤΙΚΗ ΜΕΛΕΤΗ
+Line  68: STRUCTURAL ENGINEER
+Line  69: ΑΡΧΙΤΕΚΤΟΝΑΣ ΕΡΓΟΥ
+Line  70: ARCHITECTURAL DESIGN
+Line  71: ΕΚΤΕΛΕΣΗ ΑΡΧΙΤΕΚΤΟΝΙΚΗΣ
+Line  72: ΜΕΛΕΤΗΣ ΕΠΙΒΛΕΨΗ
+Line  73: EXECUTIVE ARCHITECT
+Line  74: SITE SUPERVISOR
+Line  75: DISCIPLINE
+Line  76: ARC
+Line  77: VAP
+Line  78: ΛΕΠΤΟΜΕΡΕΙΑ
+Line  79: KΛΙΜ. 2
+Line  80: ΔΙΑΜΗΚΗΣ ΤΟΜΗ
+Line  81: EΓΚΑΡΣΙΑ ΤΟΜΗ
+Line  82: ΚΛΙΜ.
+Line  83: ΚΛΙΜ.
+Line  84: WOODWORK
+Line  85: 2
+Line  86: 01 2020
+Line  87: BATHROOM
+Line  88: COUNTERTOP
+Line  89: CLOSET
+Line  90: ΛΕΠΤΟΜΕΡΕΙΑ 2
+Line  91: KΛΙΜ. 2
+Line  92: KATΟΨΗ
+Line  93: KΛΙΜ.
+Line  94: 4
+Line  95: 2
+Line  96: 2
+Line  97: 2
+Line  98: 4
+Line  99: 4
+
+=== END OF FILTERED TEXT ===
+Total lines: 100

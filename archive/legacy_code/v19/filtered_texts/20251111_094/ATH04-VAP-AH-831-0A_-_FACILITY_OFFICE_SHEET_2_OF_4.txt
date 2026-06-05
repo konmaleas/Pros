@@ -1,0 +1,151 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-831-0A_-_FACILITY_OFFICE_SHEET_2_OF_4.pdf ===
+
+Line   0: GL
+Line   1: CEILING LEVEL
+Line   2: XA
+Line   3: 3500
+Line   4: FACILITY
+Line   5: OFFICE
+Line   6: ATH04 00 005
+Line   7: WALL FINISH
+Line   8: FIREMASTER COMPOSITE
+Line   9: PLASTERBOARD LINER
+Line  10: ABOVE
+Line  11: SUSPENDED CEILING
+Line  12: PAINTED WHITE
+Line  13: ZA
+Line  14: YA
+Line  15: YB
+Line  16: CW
+Line  17: LT
+Line  18: LT
+Line  19: WS
+Line  20: CEILING TYPE 04 ARMSTRONG
+Line  21: PRIMA DUNE
+Line  22: ASSOCIATED GRID SUPPORT
+Line  23: CURTAIN WALL SYSTEM
+Line  24: INTERFACE
+Line  25: UNITY INTERNAL CARPET
+Line  26: GRAPHITE
+Line  27: GRAPHITE CIRCLE
+Line  28: ROCKWOOL COMPOSITE
+Line  29: ARCHITECTURAL FACADE
+Line  30: SYSTEM, HORIZONTALLY LAID
+Line  31: SELECTED RAL COLOUR.
+Line  32: REFER
+Line  33: SPECIFICATIONS DETAILS
+Line  34: 3500
+Line  35: 7150
+Line  36: ID AD 009
+Line  37: WT
+Line  38: CW
+Line  39: 1175
+Line  40: 1200
+Line  41: 1125
+Line  42: GL
+Line  43: CEILING LEVEL
+Line  44: XA
+Line  45: 5595
+Line  46: 2370
+Line  47: FACILITY
+Line  48: OFFICE
+Line  49: ATH04 00 005
+Line  50: ZA
+Line  51: YA
+Line  52: CEILING TYPE 04 ARMSTRONG
+Line  53: PRIMA DUNE
+Line  54: ASSOCIATED GRID SUPPORT
+Line  55: SOLID TIMBER SKIRTING,
+Line  56: PAINTED WHITE DAIMOND
+Line  57: SATINWOOD RAL 9016
+Line  58: INTERFACE
+Line  59: UNITY INTERNAL CARPET
+Line  60: GRAPHITE
+Line  61: GRAPHITE CIRCLE
+Line  62: MIXTURE PAINTED GYPSUM
+Line  63: BOARD WALLS, COAT PRIMER
+Line  64: COATS DIAMOND MATT LATEX
+Line  65: FINISH RAL 9010 PURE
+Line  66: WHITE ,INTERNAL GLAZED
+Line  67: PARTITIONS SYSTEMTO
+Line  68: SELECTED RAL COLOUR
+Line  69: ROCKWOOL COMPOSITE
+Line  70: ARCHITECTURAL FACADE
+Line  71: SYSTEM, HORIZONTALLY LAID
+Line  72: SELECTED RAL COLOUR.
+Line  73: REFER SPECIFICATIONS
+Line  74: DETAILS
+Line  75: CURTAIN WALL SYSTEM
+Line  76: 3500
+Line  77: ID AD 014
+Line  78: ID AD 013
+Line  79: ID AD 012
+Line  80: ID AD 011
+Line  81: WT
+Line  82: WS
+Line  83: WS
+Line  84: CW
+Line  85: LT
+Line  86: 3000
+Line  87: 3000
+Line  88: 3500
+Line  89: 3600
+Line  90: NOTE
+Line  91: WALL TYPE LEGEND REFER DRAWING ATH04 A
+Line  92: ADMIN
+Line  93: COLO
+Line  94: COLO
+Line  95: TRUE NORTH
+Line  96: Sheet Title Number
+Line  97: Scale
+Line  98: Plan
+Line  99: Design Consultants
+Line 100: Microsoft
+Line 101: DATA CENTER ATH04
+Line 102: SPATA GREECE
+Line 103: Contractor Joint Venture
+Line 104: Name
+Line 105: Contractor Project
+Line 106: Contractor Contract
+Line 107: Contractor PM
+Line 108: Contractor BIM Mngr
+Line 109: Contractor Information
+Line 110: Renco Terna
+Line 111: Client
+Line 112: General Notes
+Line 113: Client Project
+Line 114: Client Contract
+Line 115: Client PM
+Line 116: Client BIM Mngr
+Line 117: Primary Client Information
+Line 118: Layout
+Line 119: Revision
+Line 120: Tombazi Chalandri
+Line 121: 15232
+Line 122: Athens Greece
+Line 123: 0800 3262
+Line 124: Agion Theodoron Square Athens
+Line 125: 10561
+Line 126: Athens Greece
+Line 127: Kimithois Agios Dimitrios
+Line 128: 17236
+Line 129: Athens Greece
+Line 130: Purpose Issue
+Line 131: Issue
+Line 132: Name
+Line 133: FACILITY OFFICE SHEET
+Line 134: ATH04 VAP AH
+Line 135: SCALE
+Line 136: FACULTY OFFICE ELEVATION NORTH
+Line 137: SCALE
+Line 138: FACULTY OFFICE ELEVATION SOUTH
+Line 139: 1000
+Line 140: SCALE
+Line 141: Date
+Line 142: Description
+Line 143: 04
+Line 144: Issued Approval
+Line 145: VAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 146

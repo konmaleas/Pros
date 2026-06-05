@@ -1,0 +1,46 @@
+=== FILTERED TEXT FOR: PEN_IV-A104.pdf ===
+
+Line   0: ΣΤΕΓΑΣΜΕΝΟΣ ΧΩΡΟΣ ΣΤΑΘΜΕΥΣΗΣ
+Line   1: ΔΩΜΑ
+Line   2: ΔΩΜΑ
+Line   3: ΔΩΜΑ
+Line   4: ΔΩΜΑ
+Line   5: ΔΩΜΑ
+Line   6: ΞΥΛΙΝΗ
+Line   7: ΠΕΡΓΚΟΛΑ
+Line   8: ΣΤΕΓΑΣΤΡΟ
+Line   9: ΣΤΕΓΑΣΤΡΟ
+Line  10: ΞΥΛΙΝΗ
+Line  11: ΠΕΡΓΚΟΛΑ
+Line  12: COUR ANGLAISE
+Line  13: ΔΩΜΑ
+Line  14: ΣΤΕΓΑΣΤΡΟ
+Line  15: ΒΟΡΕΙΟΔΥΤΙΚΗ ΟΨΗ
+Line  16: ΒΟΡΕΙΟΔΥΤΙΚΗ ΟΨΗ
+Line  17: TOMH
+Line  18: TOMH
+Line  19: ΝΟΤΙΑ ΟΨΗ
+Line  20: ΝΟΤΙΑ ΟΨΗ
+Line  21: ΦΥΤΕΥΣΗ
+Line  22: ΘΕΑΡΟΤΑΡΗΟΡ 2020
+Line  23: ΕΡΓΟ
+Line  24: ΑΡΥΗΣΕΚΣΟΜΗΚΗ
+Line  25: ΡΘΡΑΓΗΔΑ ΤΟΟΓΡΑΘΗ
+Line  26: ANDREAS FUHRIMANN GABRIELLE HACHLER
+Line  27: ARCHITEKTEN ETH BSA ZURICH CH
+Line  28: ΕΚΣΕΛΕΡΗ ΑΡΥΗΣΕΚΣΟΜΗΚΗΡ ΜΕΛΕΣΗΡ
+Line  29: ΘΕΡΗ ΕΡΓΟΤ
+Line  30: ΟΗΓΑΔΑΚΗΑ ΚΑΤΚΑΡΕΡ ΣΗΡ ΚΟΗΜΟΣΗΣΑΡ
+Line  31: ΑΜΣΗΟΑΡΟΤ, ΜΟΜΟΤ ΚΤΚΛΑΔΨΜ
+Line  32: ΚΤΡΗΟΡ ΣΟΤ ΕΡΓΟΤ
+Line  33: PASTOR LTD
+Line  34: ΡΣΑΔΗΟ ΜΕΛΕΣΗΡ
+Line  35: ΟΡΗΡΣΗΚΗ
+Line  36: ΡΥΕΔΗΟ
+Line  37: ΑΡΗΘΜΟΡ
+Line  38: ΗΜΕΡΟΜΗΜΗΑ
+Line  39: ΚΛΗΜΑΚΑ
+Line  40: 467 2010
+
+=== END OF FILTERED TEXT ===
+Total lines: 41

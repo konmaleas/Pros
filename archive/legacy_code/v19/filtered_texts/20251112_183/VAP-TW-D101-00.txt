@@ -1,0 +1,172 @@
+=== FILTERED TEXT FOR: VAP-TW-D101-00.pdf ===
+
+Line   0: Level
+Line   1: Level
+Line   2: Level
+Line   3: Level
+Line   4: Level
+Line   5: Level
+Line   6: Cement
+Line   7: Damp
+Line   8: Brushable Asphalt
+Line   9: Rigid
+Line  10: Marble
+Line  11: Marble
+Line  12: Cement
+Line  13: Mechanical
+Line  14: 76
+Line  15: Plaster
+Line  16: Shadow
+Line  17: Aluminium
+Line  18: Fins
+Line  19: 2020
+Line  20: Aluminium Curtain
+Line  21: 720
+Line  22: Level
+Line  23: First Floor
+Line  24: Insulated Concrete
+Line  25: Aluminium
+Line  26: Fins
+Line  27: Plaster
+Line  28: Plaster
+Line  29: Marble
+Line  30: Cement
+Line  31: Reinforced Concrete
+Line  32: Marble
+Line  33: Bituminous
+Line  34: Aluminium Curtain
+Line  35: Shadow
+Line  36: 40
+Line  37: 700
+Line  38: Cement
+Line  39: Level
+Line  40: Ground Floor
+Line  41: Cement
+Line  42: Bituminous
+Line  43: Cement
+Line  44: Marble
+Line  45: Marble
+Line  46: Marble
+Line  47: Marble
+Line  48: Level
+Line  49: First Floor
+Line  50: 70
+Line  51: Marble
+Line  52: Cement
+Line  53: Bituminous
+Line  54: Cement
+Line  55: Marble
+Line  56: Cement
+Line  57: Bituminous
+Line  58: Glass
+Line  59: Silikone
+Line  60: Filler
+Line  61: INOX Steel
+Line  62: Marble
+Line  63: Cement
+Line  64: Marble
+Line  65: Gypsum Wall Board
+Line  66: Water
+Line  67: Gypsum Wall Board
+Line  68: Water
+Line  69: Ceiling
+Line  70: Aluminium
+Line  71: Fins
+Line  72: Galvanized Steel
+Line  73: Shadow
+Line  74: Level
+Line  75: Ground Floor
+Line  76: NGL
+Line  77: Mechanical
+Line  78: Marble
+Line  79: Plaster
+Line  80: Pebble
+Line  81: Soil
+Line  82: 40
+Line  83: Washed Gravel
+Line  84: Drainage Perforated
+Line  85: MEP
+Line  86: Drainage Zinco
+Line  87: Floradrain
+Line  88: Moisture
+Line  89: Zinco
+Line  90: Waterproofing
+Line  91: Sarnafil
+Line  92: Cement
+Line  93: Aluminium
+Line  94: Fins
+Line  95: Galvanized Steel
+Line  96: Level
+Line  97: Marble
+Line  98: Mechanical
+Line  99: Damp
+Line 100: Brushable Asphalt
+Line 101: Rigid
+Line 102: Cement
+Line 103: Bituminous
+Line 104: Cement
+Line 105: Cement
+Line 106: Marble
+Line 107: Marble
+Line 108: Level
+Line 109: Gypsum Rigidur
+Line 110: Galvanized 06
+Line 111: Gypsum Wall Board
+Line 112: Galvanized 06
+Line 113: Lighting
+Line 114: 1000
+Line 115: Shadow
+Line 116: Plaster
+Line 117: Metal
+Line 118: Double Glass
+Line 119: Cement
+Line 120: Cement
+Line 121: Bituminous
+Line 122: Cement
+Line 123: Rigid
+Line 124: Aluminium
+Line 125: Steel Base
+Line 126: Damp
+Line 127: Brushable Asphalt
+Line 128: REVISIONS
+Line 129: CLIENT
+Line 130: PROJECT
+Line 131: DESIGN STAGE
+Line 132: DATE
+Line 133: SCALE
+Line 134: FILE NAME
+Line 135: DRAWING TITLE
+Line 136: DRAWING
+Line 137: TAHLIA WALK
+Line 138: VAPARCHITECTS
+Line 139: Epirou Street
+Line 140: Athens, GR Greece
+Line 141: 3262
+Line 142: 3269
+Line 143: DESIGN ARCHITECTS
+Line 144: CONSULTANTS
+Line 145: STUDIO
+Line 146: Isavron
+Line 147: Lycabettus
+Line 148: Athens, GR 11471 Greece
+Line 149: ZAD DEVELOPMENT
+Line 150: STRUCTURAL ENGINEER
+Line 151: MEP ENGINEER
+Line 152: 01 PM
+Line 153: Building Skin
+Line 154: Details
+Line 155: Detail Design
+Line 156: Detail Roof
+Line 157: Detail Fascia
+Line 158: Detail Slab
+Line 159: Detail Balcony
+Line 160: Detail Planter
+Line 161: Detail Skylight Side
+Line 162: Detail Skylight
+Line 163: Description
+Line 164: Date
+Line 165: First
+Line 166: 07
+
+=== END OF FILTERED TEXT ===
+Total lines: 167

@@ -1,0 +1,585 @@
+=== FILTERED TEXT FOR: 4005-RES-VAP-DWG-234-DD-02301-D.pdf ===
+
+Line   0: 2
+Line   1: 2
+Line   2: 4
+Line   3: 2
+Line   4: 4
+Line   5: 2
+Line   6: 01
+Line   7: 02
+Line   8: 03
+Line   9: 04
+Line  10: 05
+Line  11: 06
+Line  12: 07
+Line  13: 08
+Line  14: 09
+Line  15: BN
+Line  16: BM
+Line  17: BL
+Line  18: BK
+Line  19: BJ
+Line  20: BH
+Line  21: BF
+Line  22: BE
+Line  23: BD
+Line  24: BC
+Line  25: BB
+Line  26: AM
+Line  27: AL
+Line  28: AK
+Line  29: AJ
+Line  30: AI
+Line  31: AH
+Line  32: AG
+Line  33: AF
+Line  34: AE
+Line  35: AD
+Line  36: AC
+Line  37: AB
+Line  38: BG
+Line  39: SITE BOUNDARY
+Line  40: SETBACK LINE
+Line  41: EV CHARGING STATION
+Line  42: RAMP Ράµπα
+Line  43: RAMP Ράµπα
+Line  44: RAMP
+Line  45: RAMP Ράµπα
+Line  46: RAMP Ράµπα
+Line  47: RAMP Ράµπα
+Line  48: RAMP
+Line  49: RAMP Ράµπα
+Line  50: ACCESS
+Line  51: Ανθρωποθυρίδα
+Line  52: PARKING GATES
+Line  53: Πύλη
+Line  54: FRESH AIR
+Line  55: OPENING
+Line  56: FRESH AIR
+Line  57: OPENING
+Line  58: EXHAUST AIR
+Line  59: OPENING
+Line  60: FRESH AIR OPENING
+Line  61: DOUBLE HEIGHT SPACE
+Line  62: CATWALK
+Line  63: Χώρος
+Line  64: FRESH AIR OPENING
+Line  65: Φρεάτιο
+Line  66: EXHAUST AIR OPENING
+Line  67: RAMP
+Line  68: PEDESTRIAN WALKWAY
+Line  69: MEDIAN SEPARATION
+Line  70: CLEAR HEIGHT
+Line  71: 2545
+Line  72: PEDESTRIAN WALKWAY
+Line  73: PEDESTRIAN WALKWAY
+Line  74: MEDIAN SEPARATION
+Line  75: PEDESTRIAN WALKWAY
+Line  76: RAMP ΤΟ BASEMENT
+Line  77: Ράµπα
+Line  78: CORRIDOR
+Line  79: VENTILATION
+Line  80: Μηχανοστάσιο
+Line  81: VENTILATION
+Line  82: Μηχανοστάσιο
+Line  83: CORRIDOR
+Line  84: STORAGE
+Line  85: Αποθήκη
+Line  86: STORAGE
+Line  87: Αποθήκη
+Line  88: STORAGE
+Line  89: Αποθήκη
+Line  90: STORAGE
+Line  91: Αποθήκη
+Line  92: STORAGE
+Line  93: Αποθήκη
+Line  94: STORAGE
+Line  95: Αποθήκη
+Line  96: GARBAGE
+Line  97: Απορρίµατα
+Line  98: FIREFIGHTING
+Line  99: Μηχανοστάσιο
+Line 100: STORAGE
+Line 101: Αποθήκη
+Line 102: STORAGE
+Line 103: Αποθήκη
+Line 104: STORAGE
+Line 105: Αποθήκη
+Line 106: STORAGE
+Line 107: Αποθήκη
+Line 108: PARKING
+Line 109: Χώρος
+Line 110: PARKING 2
+Line 111: Χώρος 2
+Line 112: PARKING
+Line 113: Χώρος
+Line 114: HVAC VENTILATION
+Line 115: Μηχανοστάσιο
+Line 116: VENTILATION
+Line 117: Βοηθητικός
+Line 118: GARBAGE
+Line 119: Απορρίµατα
+Line 120: UPS ROOM
+Line 121: Χώρος
+Line 122: GENERATOR
+Line 123: Γεννήτρια
+Line 124: MAIN LV SWITCHROOM
+Line 125: Χώρος ΓΠΧΤ
+Line 126: PRIVATE MV ROOM
+Line 127: Χώρος ΜΤ
+Line 128: ICT SERVER ROOM
+Line 129: Χώρος
+Line 130: FF TANK
+Line 131: FF TANK
+Line 132: CCTV CONTROL ROOM
+Line 133: Κέντρο
+Line 134: GSM ROOM
+Line 135: Χώρος
+Line 136: STORAGE
+Line 137: Αποθήκη
+Line 138: STORAGE
+Line 139: Αποθήκη
+Line 140: STORAGE
+Line 141: Αποθήκη
+Line 142: STORAGE
+Line 143: Αποθήκη
+Line 144: STORAGE
+Line 145: Αποθήκη
+Line 146: CORRIDOR
+Line 147: VENTILATION
+Line 148: Μηχανοστάσιο
+Line 149: HVAC VENTILATION
+Line 150: Μηχανοστάσιο
+Line 151: CORRIDOR
+Line 152: ICT SERVER ROOM
+Line 153: Χώρο
+Line 154: STORAGE
+Line 155: Αποθήκη
+Line 156: MEP PLANT ROOM
+Line 157: Μηχανολογικός
+Line 158: PARKING 4
+Line 159: Χώρος 4
+Line 160: STORAGE
+Line 161: Αποθήκη
+Line 162: HEDNO PUBLIC
+Line 163: SUBSTATION
+Line 164: Υποσταθµός
+Line 165: Ground
+Line 166: 2
+Line 167: 2
+Line 168: 2
+Line 169: 2
+Line 170: 2
+Line 171: 2
+Line 172: VENTILATION SHAFT
+Line 173: Φρεάτιο
+Line 174: VENTILATION
+Line 175: Μηχανοστάσιο
+Line 176: VENTILATION SHAFT
+Line 177: Φρεάτιο
+Line 178: VENTILATION SHAFT
+Line 179: Φρεάτιο
+Line 180: VENTILATION SHAFT
+Line 181: Φρεάτιο
+Line 182: VENTILATION SHAFT
+Line 183: Φρεάτιο
+Line 184: VENTILATION SHAFT
+Line 185: Φρεάτιο
+Line 186: VENTILATION SHAFT
+Line 187: Φρεάτιο
+Line 188: VENTILATION SHAFT
+Line 189: Φρεάτιο
+Line 190: VENTILATION SHAFT
+Line 191: Φρεάτιο
+Line 192: VENTILATION SHAFT
+Line 193: Φρεάτιο
+Line 194: STRUCTURAL WALL OPENING
+Line 195: Άνοιγµα
+Line 196: 2
+Line 197: 2
+Line 198: 4
+Line 199: 2
+Line 200: BATTERY ENERGY
+Line 201: REPOSITORY
+Line 202: Χώρος
+Line 203: FIRE CYLINDERS ROOM
+Line 204: Χώρος
+Line 205: HEDNO MV ROOM
+Line 206: Χώρος ΜΤ
+Line 207: TRANSFORMER ROOM
+Line 208: Μετασχηµατιστές
+Line 209: Motorcycle Parking
+Line 210: STORAGE
+Line 211: Αποθήκη
+Line 212: FUEL TANK
+Line 213: CORRIDOR
+Line 214: 2
+Line 215: SHAFT DUCT ROUTING FLOOR SLAB
+Line 216: Φρεάτιο
+Line 217: DRAINAGE GRILLE
+Line 218: 2
+Line 219: Motorcycle Parking
+Line 220: OPENING CEILING SLAB
+Line 221: FLOOR SLAB OPENING
+Line 222: FLOOR SLAB OPENING
+Line 223: FLOOR SLAB OPENING
+Line 224: VENTILATION
+Line 225: Μηχανοστάσιο
+Line 226: 2
+Line 227: OPENING CEILING SLAB
+Line 228: OPENINGS
+Line 229: FLOOR SLAB
+Line 230: Οπές
+Line 231: OPENING FLOOR SLAB
+Line 232: IRRIGATION TANK
+Line 233: CABLE ROUTING
+Line 234: FRESH AIR SHAFT
+Line 235: Φρεάτιο
+Line 236: SHAFT
+Line 237: Φρεάτιο
+Line 238: OPENING FLOOR
+Line 239: VERTICAL CONCRETE SHAFT
+Line 240: Κάθετο
+Line 241: CONCRETE TUNNEL
+Line 242: Τούνελ
+Line 243: CONCRETE TUNNEL
+Line 244: Τούνελ
+Line 245: CONCRETE TUNNEL
+Line 246: Τούνελ
+Line 247: OPENING
+Line 248: FLOOR SLAB
+Line 249: Concrete
+Line 250: Concrete
+Line 251: Concrete
+Line 252: HEDNO ACCESS CEILING
+Line 253: Aνθρωποθυρίδα
+Line 254: OPENINGS RAMP CEILING
+Line 255: Οπές
+Line 256: SHAFT
+Line 257: Φρεάτιο
+Line 258: OPENING
+Line 259: FLOOR SLAB
+Line 260: CONCRETE TUNNEL
+Line 261: CONCRETE TUNNEL
+Line 262: Τούνελ
+Line 263: SHAFT
+Line 264: Φρεάτιο
+Line 265: CORRIDOR
+Line 266: VRF VENTILATION
+Line 267: Μηχανοστάσιο
+Line 268: CORRIDOR
+Line 269: CORRIDOR
+Line 270: CEILING SLAB OPENING
+Line 271: 2
+Line 272: STORAGE
+Line 273: Αποθήκη
+Line 274: DRAINAGE GRILLE
+Line 275: Σχάρα
+Line 276: VENTILATION OPENING
+Line 277: Άνοιγµα
+Line 278: GROUND FLOOR BUILDING OUTLINE
+Line 279: Περίγραµµα
+Line 280: BUILDING JOINT
+Line 281: Αρµός
+Line 282: VERTICAL CONCRETE SHAFT
+Line 283: Κάθετο
+Line 284: VERTICAL CONCRETE SHAFT
+Line 285: Κάθετο
+Line 286: OPENING CEILING SLAB
+Line 287: FRESH AIR OPENING
+Line 288: Φρεάτιο
+Line 289: STRUCTURAL WALL OPENING
+Line 290: Άνοιγµα
+Line 291: FRESH AIR OPENING
+Line 292: Φρεάτιο
+Line 293: STRUCTURAL WALL OPENING
+Line 294: Άνοιγµα
+Line 295: FRESH AIR OPENING
+Line 296: Φρεάτιο
+Line 297: STRUCTURAL WALL OPENING
+Line 298: Άνοιγµα
+Line 299: EXHAUST AIR OPENING
+Line 300: EXHAUST AIR OPENING
+Line 301: FRESH AIR OPENING
+Line 302: FRESH AIR OPENING
+Line 303: FRESH AIR OPENING
+Line 304: FRESH AIR OPENING
+Line 305: FRESH AIR OPENING
+Line 306: RAMP CONTINUES GROUND FLOOR
+Line 307: 2
+Line 308: VRF VENTILATION
+Line 309: Μηχανοστάσιο
+Line 310: 2
+Line 311: STORAGE
+Line 312: Αποθήκη
+Line 313: OPENING FLOOR SLAB
+Line 314: CORRIDOR
+Line 315: 2
+Line 316: IRRIGATION TANK
+Line 317: Άρδευσης
+Line 318: IRRIGATION TANK
+Line 319: Άρδευσης
+Line 320: 2
+Line 321: LIFT LOBBY
+Line 322: Κλιµακοστάσιο
+Line 323: ΠΡΑΣΙΑ
+Line 324: LIFT
+Line 325: Ανελ
+Line 326: LIFT
+Line 327: Ανελ
+Line 328: FF LIFT LOBBY
+Line 329: Ανελ
+Line 330: LIFT LOBBY
+Line 331: Κλιµακοστάσιο
+Line 332: LIFT LOBBY
+Line 333: Κλιµακοστάσιο
+Line 334: LIFT LOBBY
+Line 335: Κλιµακοστάσιο
+Line 336: SHAFT
+Line 337: Φρεάτιο
+Line 338: LIFT LOBBY
+Line 339: SHAFT
+Line 340: Φρεάτιο
+Line 341: SHAFT
+Line 342: Φρεάτιο
+Line 343: SHAFT
+Line 344: Φρεάτιο
+Line 345: LIFT
+Line 346: Ανελ
+Line 347: SHAFT
+Line 348: Φρεάτιο
+Line 349: SHAFT
+Line 350: Φρεάτιο
+Line 351: LIFT
+Line 352: Ανελ
+Line 353: SHAFT
+Line 354: Φρεάτιο
+Line 355: SHAFT
+Line 356: Φρεάτιο
+Line 357: LIFT
+Line 358: Ανελ
+Line 359: LIFT
+Line 360: Ανελ
+Line 361: SHAFT
+Line 362: Φρεάτιο
+Line 363: SHAFT
+Line 364: Φρεάτιο
+Line 365: SHAFT
+Line 366: Φρεάτιο
+Line 367: FF LIFT LOBBY
+Line 368: Ανελ
+Line 369: LIFT
+Line 370: Ανελ
+Line 371: LIFT
+Line 372: Ανελ
+Line 373: FF LIFT LOBBY
+Line 374: Ανελ
+Line 375: SHAFT
+Line 376: Φρεάτιο
+Line 377: SHAFT
+Line 378: Φρεάτιο
+Line 379: SHAFT
+Line 380: Φρεάτιο
+Line 381: BOH ROOM
+Line 382: Βοηθητικός
+Line 383: BOH ROOM
+Line 384: Βοηθητικός
+Line 385: GYM AMENITIES
+Line 386: Κοινόχρηστος
+Line 387: WC DISABLED
+Line 388: Λουτρό AMEA
+Line 389: WC
+Line 390: Λουτρό
+Line 391: CHANGING ROOM
+Line 392: Αποδυτήρια
+Line 393: CHANGING ROOM
+Line 394: Αποδυτήρια
+Line 395: POOL
+Line 396: Κολυµβητική
+Line 397: PLANTER
+Line 398: Φύτευση
+Line 399: LIFT
+Line 400: Ανελ
+Line 401: LIFT
+Line 402: Ανελ
+Line 403: 04001
+Line 404: 04000
+Line 405: 4
+Line 406: 2
+Line 407: 4
+Line 408: 2
+Line 409: 4
+Line 410: 2
+Line 411: 4
+Line 412: 2
+Line 413: 4
+Line 414: 2
+Line 415: BI
+Line 416: DA
+Line 417: DE
+Line 418: DE
+Line 419: DE
+Line 420: DE
+Line 421: DA
+Line 422: DE
+Line 423: DE
+Line 424: DE
+Line 425: DE
+Line 426: DA
+Line 427: DE
+Line 428: DE
+Line 429: DE
+Line 430: DE
+Line 431: DE
+Line 432: DE
+Line 433: DA
+Line 434: DE
+Line 435: DI
+Line 436: DI
+Line 437: DI
+Line 438: DI
+Line 439: DI
+Line 440: DI
+Line 441: 4
+Line 442: 2
+Line 443: ΥΠΟΜΝΗΜΑ ΚΑΤΟΨΕΩΝ
+Line 444: DRAWING SYMBOLS LEGEND
+Line 445: Name
+Line 446: 01
+Line 447: 06000
+Line 448: ΑΓΓΛΙΚΗ ΟΝΟΜΑΣΙΑ ΧΩΡΟΥ
+Line 449: ΕΛΛΗΝΙΚΗ ΟΝΟΜΑΣΙΑ ΧΩΡΟΥ
+Line 450: ΚΩΔΙΚΟΣ ΘΥΡΑΣ
+Line 451: ΠΡΕΚΙ ΘΥΡΑΣ
+Line 452: ΠΟΔΙΑ ΘΥΡΑΣ
+Line 453: ΑΝΟΙΓΜΑ ΘΥΡΑΣ
+Line 454: ΚΩΔΙΚΟΣ ΠΑΡΑΘΥΡΟΥ
+Line 455: ΠΟΔΙΑ ΠΑΡΑΘΥΡΟΥ
+Line 456: ΠΡΕΚΙ ΠΑΡΑΘΥΡΟΥ
+Line 457: ΑΝΟΙΓΜΑ ΠΑΡΑΘΥΡΟΥ
+Line 458: ΣΥΜΒΟΛΟ ΤΟΜΗΣ
+Line 459: 16600 FFL
+Line 460: ΣΤΑΘΜΗ ΤΕΛΙΚΟΥ ΔΑΠΕΔΟΥ
+Line 461: 16350 SSL
+Line 462: ΣΤΑΘΜΗ ΠΛΑΚΑΣ ΜΠΕΤΟΥ
+Line 463: ΦΡΕΑΤΙΟ
+Line 464: Name
+Line 465: ΑΡΙΘΜΗΣΗ ΔΙΑΜΕΡΙΣΜΑΤΟΣ
+Line 466: ΑΓΓΛΙΚΗ ΟΝΟΜΑΣΙΑ ΔΩΜΑΤΙΟΥ
+Line 467: ΚΩΔΙΚΟΣ ΔΩΜΑΤΙΟΥ
+Line 468: ΕΛΛΗΝΙΚΗ ΟΝΟΜΑΣΙΑ ΔΩΜΑΤΙΟΥ
+Line 469: ΑΡΙΘΜΟΣ ΤΙΤΛΟΥ ΣΧΕΔΙΟΥ
+Line 470: ΣΥΜΒΟΛΟ ΟΨΗΣ
+Line 471: ΠΑΤΗΜΑ
+Line 472: ΡΙΧΤΙ
+Line 473: ΤΥΠΟΛΟΓΙΑ ΔΙΑΜΕΡΙΣΜΑΤΟΣ
+Line 474: ΑΡΙΘΜΟΣ ΤΙΤΛΟΥ ΣΧΕΔΙΟΥ
+Line 475: ΑΡΙΘΜΟΣ ΣΧΕΔΙΟΥ
+Line 476: ΑΡΙΘΜΟΣ ΣΧΕΔΙΟΥ
+Line 477: 06000
+Line 478: ΑΡΙΘΜΟΣ ΣΚΑΛΟΠΑΤΙΩΝ
+Line 479: ΚΩΔΙΚΟΣ ΔΩΜΑΤΙΟΥ
+Line 480: 40
+Line 481: ΓΕΝΙΚΕΣ ΣΗΜΕΙΩΣΕΙΣ GENERAL NOTES
+Line 482: ΕΓΓΡΑΦΑ ΑΝΑΦΟΡΑΣ DOCUMENT REFERENCE
+Line 483: ΤΙΤΛΟΣ ΣΧΕΔΙΟΥ DRAWING TITLE
+Line 484: ΚΩΔΙΚΟΣ ΕΓΓΡΑΦΟΥ ΣΧΕΔΙΟΥ DOCUMENT DRAWING CODIFICATION
+Line 485: Project
+Line 486: Originator
+Line 487: Type
+Line 488: Discipline
+Line 489: Stage
+Line 490: Serial Number
+Line 491: Revision
+Line 492: ΚΛΙΜΑΚΑ SCALE
+Line 493: ΔΙΑΤΑΞΗ LAYOUT
+Line 494: REV.
+Line 495: DATE
+Line 496: ISSUE
+Line 497: DESCRIPTION UPDATE VERSION
+Line 498: ORIGINATED
+Line 499: CHECKED
+Line 500: VERIFIED
+Line 501: LEAD DESIGNER
+Line 502: APPROVED
+Line 503: PMC
+Line 504: STATUS
+Line 505: ΣΥΜΒΟΥΛΟΣ ΔΙΑΧΕΙΡΙΣΗΣ ΕΡΓΟΥ
+Line 506: PROJECT MANAGEMENT CONSULTANT
+Line 507: ΣΥΜΒΟΥΛΟΥ ΔΙΑΧΕΙΡΙΣΗΣ ΕΡΓΟΥ
+Line 508: PROJECT MANAGEMENT CONSULTANT DETAILS
+Line 509: ΚΥΡΙΟΣ ΜΕΛΕΤΗΤΗΣ LEAD DESIGNER
+Line 510: ΜΕΛΕΤΗΤΗ LOCAL ARCHITECT
+Line 511: SUBCONSULTANT STRUCTURE
+Line 512: ΕΡΓΟΔΟΤΗΣ EMPLOYER
+Line 513: ΕΡΓΟΔΟΤΗ EMPLOYER DETAILS
+Line 514: ΑΝΑΠΤΥΞΗ ΤΟΥ ΜΗΤΡΟΠΟΛΙΤΙΚΟΥ ΠΟΛΟΥ ΕΛΛΗΝΙΚΟΥ ΑΓIOY ΚΟΣΜΑ
+Line 515: DEVELOPMENT METROPOLITAN POLE HELLINIKON AG. KOSMAS
+Line 516: ΕΡΓΟ PROJECT
+Line 517: ΕΛΛΗΝΙΚΟ HELLINIKON
+Line 518: Kifisias Avenue Golden Hall
+Line 519: 15123 Marousi
+Line 520: Σημείωση Πνευματικών Δικαιωμάτων. 2121 1993
+Line 521: ΕΛΛΗΝΙΚΟ
+Line 522: Ρήτρα Περιορισμού Ευθύνης.
+Line 523: ΕΛΛΗΝΙΚΟ
+Line 524: ΝΑ ΜΗΝ ΑΛΛΑΧΘΕΙ ΚΛΙΜΑΚΑ ΤΟΥ ΣΧΕΔΙΟΥ.
+Line 525: Copyright Notice. 2121 1993
+Line 526: HELLINIKON
+Line 527: Disclaimer. HELLINIKON
+Line 528: CHANGE SCALE DRAWING.
+Line 529: SUBCONSULTANT MEP
+Line 530: SUBCONSULTANT LANDSCAPE
+Line 531: SUBCONSULTANT TRAFFIC
+Line 532: SUBCONSULTANT LIGHTING
+Line 533: SUBCONSULTANT ACOUSTICS
+Line 534: SUBCONSULTANT SUSTAINABILITY
+Line 535: SUBCONSULTANT SIGNAGE
+Line 536: URBAN ZONE
+Line 537: ΑΡΧΙΤΕΚΤΟΝΙΚΟΣ ΣΧΕΔΙΑΣΜΟΣ Οριστική Μελέτη
+Line 538: MODEL MDD DD 0001
+Line 539: BJARKE INGELS GROUP BIG
+Line 540: AVINGUDA DA LES DRASSANES
+Line 541: 08001 BARCELON, SPAIN
+Line 542: HELLINIKON
+Line 543: ΑΝΕΓΕΡΣΗ ΥΨΗΛΟΥ ΚΤΙΡΙΟΥ ΚΑΤΟΙΚΙΩΝ ΟΡΟΦΩΝ, ΜΕ ΥΠΕΡΓΕΙΟΥΣ
+Line 544: ΟΡΟΦΟΥΣ 2 ΥΠΟΓΕΙΑ ΒΟΗΘΗΤΙΚΩΝ ΧΩΡΩΝ ΚΑΙ ΧΩΡΩΝ ΣΤΑΘΜΕΥΣΗΣ, ΙΣΟΓΕΙΟ
+Line 545: ΤΜΗΜΑ ΚΟΙΝΟΧΡΗΣΤΩΝ ΛΕΙΤΟΥΡΓΙΩΝ ΤΩΝ ΚΑΤΟΙΚΙΩΝ ΜΕ ΚΛΕΙΣΤΗ ΚΟΛΥΜΒΗΤΙΚΗ
+Line 546: ΔΕΞΑΜΕΝΗ ΣΤΟ ΥΠΟΓΕΙΟ, ΑΝΟΙΚΤΕΣ ΚΟΛΥΜΒΗΤΙΚΕΣ ΔΕΞΑΜΕΝΕΣ ΣΕ ΔΩΜΑΤΑ
+Line 547: ΟΡΟΦΩΝ, ΚΑΤΑΣΚΕΥΕΣ ΜΕ ΦΩΤΟΒΟΛΤΑΙΚΑ ΠΑΝΕΛΑ ΚΑΙ ΗΧΟΠΕΤΑΣΜΑΤΑ ΣΤΑ
+Line 548: ΔΩΜΑΤΑ ΚΤΙΡΙΟΥ, ΔΙΑΜΟΡΦΩΣΗ ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΧΩΡΟΥ, ΔΥΟ ΥΔΑΤΙΝΑ
+Line 549: ΣΕ ΗΜΙΥΠΑΙΘΡΙΟΥΣ ΧΩΡΟΥΣ ΤΟΥ ΙΣΟΓΕΙΟΥ, ΜΕ ΦΩΤΟΒΟΛΤΑΙΚΑ
+Line 550: ΠΑΝΕΛΑ ΣΕ ΤΜΗΜΑ ΠΡΑΣΙΑΣ ΚΑΙ ΣΕ ΑΚΑΛΥΠΤΟ ΧΩΡΟ ΟΙΚΟΠΕΔΟΥ ΚΑΙ ΧΡΗΣΗ ΤΟΥ
+Line 551: AΡΘΡΟΥ ΤΟΥ ΝΟΚ ΟΠΩΣ ΙΣΧΥΕΙ ΣΤΟ
+Line 552: RES
+Line 553: VAP
+Line 554: DWG
+Line 555: DD
+Line 556: 02301
+Line 557: 4005
+Line 558: ΚΑΤΟΨΗ ΥΠΟΓΕΙΟΥ
+Line 559: ΦΥΛΛΟ SHEET 02301
+Line 560: 06 2023
+Line 561: First Issuance Approval
+Line 562: VAP
+Line 563: VAP
+Line 564: BIG
+Line 565: 04 08 2023
+Line 566: Second Issuance Approval
+Line 567: VAP
+Line 568: VAP
+Line 569: BIG
+Line 570: 09 2023
+Line 571: Third Issuance Approval
+Line 572: VAP
+Line 573: VAP
+Line 574: BIG
+Line 575: 09 2023
+Line 576: Fourth Issuance Approval
+Line 577: VAP
+Line 578: VAP
+Line 579: BIG
+
+=== END OF FILTERED TEXT ===
+Total lines: 580

@@ -1,0 +1,110 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-1022-0A_BUILDERS_WORK_MEP_PENETRATIONS_-_SOC_OFFICE_STORAGE.pdf ===
+
+Line   0: GL
+Line   1: CEILING LEVEL
+Line   2: MP AD 008 01
+Line   3: MP AD 008 02
+Line   4: MP AD 008 03
+Line   5: SOC
+Line   6: STORAGE
+Line   7: 00 008
+Line   8: 3590
+Line   9: 745
+Line  10: GL
+Line  11: CEILING LEVEL
+Line  12: SOC
+Line  13: STORAGE
+Line  14: 00 008
+Line  15: 1022
+Line  16: 1022
+Line  17: 1022
+Line  18: 2
+Line  19: SOC OFFICE
+Line  20: 00 007
+Line  21: SOC
+Line  22: STORAGE
+Line  23: 00 008
+Line  24: MEP PENETRATIONS CODE
+Line  25: MP AD XXX XX
+Line  26: MP
+Line  27: MEP PENETRATIONS
+Line  28: AD
+Line  29: BUILDING CODE
+Line  30: XXX
+Line  31: ROOM NUMBER
+Line  32: XX
+Line  33: PENETRATION NUMBER
+Line  34: GL
+Line  35: CEILING LEVEL
+Line  36: 3700
+Line  37: 3820
+Line  38: 450
+Line  39: MP AD 007 01
+Line  40: MP AD 007 02
+Line  41: SOC OFFICE
+Line  42: 00 007
+Line  43: ADMIN
+Line  44: COLO
+Line  45: COLO 2
+Line  46: 2
+Line  47: 4
+Line  48: 2
+Line  49: 4
+Line  50: TRUE NORTH
+Line  51: Sheet Title Number
+Line  52: Scale
+Line  53: Plan
+Line  54: Design Consultants
+Line  55: Microsoft
+Line  56: DATA CENTER
+Line  57: SPATA GREECE
+Line  58: Contractor Joint Venture
+Line  59: Name
+Line  60: Contractor Project
+Line  61: Contractor Contract
+Line  62: Contractor PM
+Line  63: Contractor BIM Mngr
+Line  64: Contractor Information
+Line  65: Renco Terna
+Line  66: Client
+Line  67: General Notes
+Line  68: Client Project
+Line  69: Client Contract
+Line  70: Client PM
+Line  71: Client BIM Mngr
+Line  72: Primary Client Information
+Line  73: Layout
+Line  74: Revision
+Line  75: Tombazi Chalandri
+Line  76: 15232
+Line  77: Athens Greece
+Line  78: 0800 3262
+Line  79: Agion Theodoron Square Athens
+Line  80: 10561
+Line  81: Athens Greece
+Line  82: Kimithois Agios Dimitrios
+Line  83: 17236
+Line  84: Athens Greece
+Line  85: Purpose Issue
+Line  86: Issue
+Line  87: Name
+Line  88: BUILDERS WORK MEP PENETRATIONS
+Line  89: SOC OFFICE STORAGE
+Line  90: VAP AH 1022
+Line  91: SCALE
+Line  92: 008 SOC STORAGE ELEVATION SOUTH MEP PENETRATIONS
+Line  93: 2
+Line  94: SCALE
+Line  95: 008 SOC STORAGE ELEVATION WEST MEP PENETRATIONS
+Line  96: 1000
+Line  97: SCALE
+Line  98: Date
+Line  99: Description
+Line 100: 07
+Line 101: Issued Approval
+Line 102: VAP
+Line 103: SCALE
+Line 104: 007 SOC OFFICE ELEVATION SOUTH MEP PENETRATIONS
+
+=== END OF FILTERED TEXT ===
+Total lines: 105

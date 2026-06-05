@@ -1,0 +1,561 @@
+=== FILTERED TEXT FOR: JVIT-LHL-60-1-0015_D2_REV02.pdf ===
+
+Line   0: Copyright 2015
+Line   1: Richter Spielgeräte
+Line   2: 83112 Frasdorf, 49 0 8052 4180
+Line   3: ALIGNED
+Line   4: ALIGNED
+Line   5: Thermal
+Line   6: CAMERA POLE
+Line   7: ΣΤΗΛΟΣ ΚΑΜΕΡΑΣ
+Line   8: GUARDHOUSE
+Line   9: BULLET PROOF
+Line  10: ΦΥΛΑΚΕΙΟ
+Line  11: Intercom
+Line  12: Card Reader
+Line  13: Intercom
+Line  14: Card Reader
+Line  15: HP
+Line  16: LP
+Line  17: BC
+Line  18: TC
+Line  19: BW
+Line  20: BW
+Line  21: BW
+Line  22: TC 78
+Line  23: BC
+Line  24: TC
+Line  25: BC
+Line  26: TC
+Line  27: BC
+Line  28: TC
+Line  29: BC
+Line  30: TC
+Line  31: BC
+Line  32: TC
+Line  33: BW
+Line  34: TW
+Line  35: BW
+Line  36: BW
+Line  37: HP
+Line  38: BW
+Line  39: BW
+Line  40: BW
+Line  41: BW
+Line  42: BW
+Line  43: BW
+Line  44: LP
+Line  45: LP
+Line  46: BW
+Line  47: TW
+Line  48: BW
+Line  49: BW
+Line  50: BW
+Line  51: BC
+Line  52: TC
+Line  53: BC
+Line  54: TC
+Line  55: BC HP
+Line  56: TC
+Line  57: BC
+Line  58: TC
+Line  59: BC
+Line  60: TC
+Line  61: BC
+Line  62: TC
+Line  63: TC
+Line  64: TC
+Line  65: BW
+Line  66: BW
+Line  67: BC
+Line  68: TC
+Line  69: BC
+Line  70: TC
+Line  71: TC
+Line  72: TC
+Line  73: BC
+Line  74: TC
+Line  75: BC
+Line  76: TC
+Line  77: BC
+Line  78: TC
+Line  79: BC
+Line  80: TC
+Line  81: BW
+Line  82: BW
+Line  83: ROAD LEVEL
+Line  84: ΟΔΟΣ ΕΥΡΙΠΙΔΟΥ
+Line  85: ΕΥΔΑΠ
+Line  86: ΡΟΛΟΙ
+Line  87: ELECT. PANEL
+Line  88: ΗΛΕΚΤΡ. ΠΙΝΑΚΑΣ
+Line  89: DRINKING FOUNTAIN
+Line  90: SIZE
+Line  91: ΨΥΚΤΗΣ ΔΙΑΣΤΑΣΗΣ
+Line  92: ΠΛΑΤΟΣ ΒΑΘΟΣ
+Line  93: TYP
+Line  94: DRINKING FOUNTAIN
+Line  95: SIZE
+Line  96: ΨΥΚΤΗΣ ΔΙΑΣΤΑΣΗΣ
+Line  97: ΠΛΑΤΟΣ ΒΑΘΟΣ
+Line  98: DRINKING FOUNTAIN
+Line  99: SIZE
+Line 100: ΨΥΚΤΗΣ ΔΙΑΣΤΑΣΗΣ
+Line 101: ΠΛΑΤΟΣ ΒΑΘΟΣ
+Line 102: TYP
+Line 103: CAFE BUILDING
+Line 104: GULLY GRATING
+Line 105: ΣΧΑΡΑ
+Line 106: GULLY GRATING
+Line 107: ΣΧΑΡΑ
+Line 108: GULLY GRATING
+Line 109: ΣΧΑΡΑ
+Line 110: GULLY GRATING
+Line 111: ΣΧΑΡΑ
+Line 112: CAST IRON GRATING
+Line 113: WIDTH
+Line 114: ΧΥΤΟΣΙΔΗΡΗ ΣΧΑΡΑ
+Line 115: ΠΛΑΤΟΥΣ ΕΚ
+Line 116: Retaining
+Line 117: JVIT LHL 0001
+Line 118: ΤΟΙΧΟΣ ΑΝΤΙΣΤΗΡΙΞΗΣ
+Line 119: ΒΛ. JVIT LHL 0001
+Line 120: CAST IRON GRATING
+Line 121: WIDTH
+Line 122: ΧΥΤΟΣΙΔΗΡΗ ΣΧΑΡΑ
+Line 123: ΠΛΑΤΟΥΣ ΕΚ
+Line 124: Planting
+Line 125: ΠΕΡΙΟΧΗ
+Line 126: ΒΛ. ΣΧΕΔ. ΦΥΤΕΥΣΗΣ
+Line 127: GULLY GRATING
+Line 128: ΣΧΑΡΑ
+Line 129: MARBLE CHANNEL DRAIN
+Line 130: WIDTH
+Line 131: ΣΧΑΡΑΚΙ ΑΠΟ ΜΑΡΜΑΡΟ
+Line 132: ΠΛΑΤΟΥΣ ΕΚ
+Line 133: MARBLE CHANNEL DRAIN
+Line 134: WIDTH
+Line 135: ΣΧΑΡΑΚΙ ΑΠΟ ΜΑΡΜΑΡΟ
+Line 136: ΠΛΑΤΟΥΣ ΕΚ
+Line 137: MARBLE CHANNEL DRAIN
+Line 138: WIDTH
+Line 139: ΣΧΑΡΑΚΙ ΑΠΟ ΜΑΡΜΑΡΟ
+Line 140: ΠΛΑΤΟΥΣ ΕΚ
+Line 141: 0
+Line 142: FULL EXPANSION JOINT
+Line 143: SEE JVIT ARC 0012
+Line 144: ΑΡΜΟΣ ΔΙΑΣΤΟΛΗΣ ΧΙΛ
+Line 145: ΒΛ ΣΧΕΔ. JVIT ARC 0012
+Line 146: FULL EXPANSION JOINT
+Line 147: SEE JVIT ARC 0012
+Line 148: ΑΡΜΟΣ ΔΙΑΣΤΟΛΗΣ ΧΙΛ
+Line 149: ΒΛ ΣΧΕΔ. JVIT ARC 0012
+Line 150: JVIT LHL 0011 0013
+Line 151: JVIT LHL 0002
+Line 152: PEDESTRIAN GATE
+Line 153: ΕΙΣΟΔΟΣ ΠΕΖΩΝ
+Line 154: VEHICLE GATE
+Line 155: ΕΙΣΟΔΟΣ ΑΥΤΟΚ ΤΩΝ
+Line 156: NEW ADDED MANHOLE COVERS
+Line 157: ΝΕΑ ΚΑΠΑΚΙΑ ΦΡΕΑΤΙΩΝ
+Line 158: NEW ADDED MANHOLE COVERS
+Line 159: ΝΕΑ ΚΑΠΑΚΙΑ ΦΡΕΑΤΙΩΝ
+Line 160: ELECT. PANEL
+Line 161: ΗΛΕΚΤΡ. ΠΙΝΑΚΑΣ
+Line 162: JVIT LHL 0001 00
+Line 163: JVIT ARC 3900 00
+Line 164: ELECTRICAL PANEL
+Line 165: ENLARGED
+Line 166: SEE JVIT LSL 1002
+Line 167: ELECTRICAL PANEL
+Line 168: ENLARGED DRAWING
+Line 169: SEE JVIT LSL 1002
+Line 170: SIGNAGE
+Line 171: ΣΗΜΑΝΣΗ
+Line 172: MAP ΧΑΡΤΗΣ
+Line 173: INTERPRETIVE SIGN
+Line 174: ΠΙΝΑΚΙΔΕΣ ΕΠΕΞΗΓΗΣΗΣ
+Line 175: MAP ΧΑΡΤΗΣ
+Line 176: MAP ΧΑΡΤΗΣ
+Line 177: CIH
+Line 178: VIT
+Line 179: VIT
+Line 180: PO
+Line 181: PIL
+Line 182: 44
+Line 183: PIL
+Line 184: 71
+Line 185: PIL
+Line 186: Tree
+Line 187: Rootball
+Line 188: Dimensions
+Line 189: Tree
+Line 190: Rootball
+Line 191: Dimensions
+Line 192: Tree
+Line 193: Rootball
+Line 194: Dimensions
+Line 195: Shrubs
+Line 196: MANHOLE COVER
+Line 197: ΚΑΠΑΚΙ
+Line 198: MANHOLE COVER
+Line 199: ΚΑΠΑΚΙ
+Line 200: MANHOLE COVER
+Line 201: ΚΑΠΑΚΙ
+Line 202: ELECTRICAL PANELS
+Line 203: HEIGHT
+Line 204: ΗΛΕΚΤΡΙΚΟΙ ΠΙΝΑΚΕΣ
+Line 205: ΥΨΟΣ
+Line 206: MECHANICAL ROOM
+Line 207: HEIGHT
+Line 208: ΜΗΧΑΝΟΣΤΑΣΙΟ
+Line 209: ΥΨΟΣ
+Line 210: RESERVOIR SURGEWATER TANK
+Line 211: HEIGHT
+Line 212: ΔΕΞΑΜΕΝΗ ΝΕΡΟΥ
+Line 213: ΥΨΟΣ
+Line 214: SAND TRAPS
+Line 215: ΑΜΜΟΠΑΓΙΔΕΣ
+Line 216: CONCRETE BASE
+Line 217: PUMPS
+Line 218: HEIGHT
+Line 219: ΒΑΣΗ ΑΝΤΛΙΩΝ
+Line 220: ΑΠΟ ΣΚΥΡΟΔΕΜΑ
+Line 221: ΥΨΟΥΣ
+Line 222: INOX STEPS
+Line 223: ΑΝΟΞΕΙΔΩΤΑ
+Line 224: ΣΚΑΛΟΠΑΤΙΑ
+Line 225: INOX STEPS
+Line 226: ΑΝΟΞΕΙΔΩΤΑ
+Line 227: ΣΚΑΛΟΠΑΤΙΑ
+Line 228: INOX STEPS
+Line 229: ΑΝΟΞΕΙΔΩΤΑ
+Line 230: ΣΚΑΛΟΠΑΤΙΑ
+Line 231: MANHOLE
+Line 232: ΦΡΕΑΤΙΟ
+Line 233: MANHOLE
+Line 234: ΦΡΕΑΤΙΟ
+Line 235: SCREEN
+Line 236: ΣΙΤΑ
+Line 237: PIT
+Line 238: DRAIN PUMP
+Line 239: ΦΡΕΑΤΙΟ
+Line 240: ΓΙΑ ΤΗ ΘΕΣΗ ΤΗΣ ΑΝΤΛΙΑΣ
+Line 241: PIT
+Line 242: DRAIN PUMP
+Line 243: ΦΡΕΑΤΙΟ
+Line 244: ΓΙΑ ΤΗ ΘΕΣΗ ΤΗΣ ΑΝΤΛΙΑΣ
+Line 245: MANHOLE COVER
+Line 246: ΚΑΠΑΚΙ
+Line 247: SEE DRAWING JVIT LHL 0015
+Line 248: SPOT ELEVATIONS DIMENSIONING
+Line 249: PUMP STATION
+Line 250: ΒΛ. ΣΧΕΔ, JVIT LHL 0015
+Line 251: ΓΙΑ ΣΤΑΘΜΕΣ ΚΑΙ ΔΙΑΣΤΣΕΙΣ
+Line 252: ΤΟΥ ΜΗΧΑΝΟΣΤΑΣΙΟΥ
+Line 253: UNDERGROUND BOREHOLE
+Line 254: ΥΠΟΓΕΙO ΦΡ. ΓΕΩΤΡΗΣΗΣ
+Line 255: SEE JVIT LHL 0017 01
+Line 256: SLOPE
+Line 257: FI
+Line 258: CONCRETE BASE
+Line 259: PEDESTRIANS
+Line 260: BIKE GATE
+Line 261: ΕΙΣΟΔΟΣ ΠΕΖΩΝ
+Line 262: ΠΟΔΗΛΑΤΩΝ
+Line 263: NEW FENCE ADDED
+Line 264: EXISTING PARK WALL
+Line 265: ΠΡΟΣΘΗΚΗ ΠΕΡΙΦΡΑΞΗΣ
+Line 266: ΠΙΣΩ ΑΠΟ ΥΦΙΣΤΑΜΕΝΟ ΤΟΙΧΙΟ ΤΟΥ ΠΑΡΚΟΥ
+Line 267: NEW PEDESTRIAN
+Line 268: GATE ΝΕA ΠΟΡΤΑ
+Line 269: ΓΙΑ ΠΕΖΟΥΣ
+Line 270: NEW PEDESTRIAN
+Line 271: GATE ΝΕA ΠΟΡΤΑ
+Line 272: ΓΙΑ ΠΕΖΟΥΣ
+Line 273: EQ
+Line 274: EQ
+Line 275: EQ
+Line 276: EQ
+Line 277: EQ
+Line 278: EQ
+Line 279: EQ
+Line 280: EQ
+Line 281: EQ
+Line 282: EQ
+Line 283: NEW FENCE ADDED
+Line 284: EXISTING PARK WALL
+Line 285: ΠΡΟΣΘΗΚΗ ΠΕΡΙΦΡΑΞΗΣ
+Line 286: ΠΙΣΩ ΑΠΟ ΥΦΙΣΤΑΜΕΝΟ
+Line 287: ΤΟΙΧΙΟ ΤΟΥ ΠΑΡΚΟΥ
+Line 288: PROLAT PATH ΜΟΝΟΠΑΤΙ ΑΠΟ ΠΡΟΛΑΤ
+Line 289: STANDARD KERB
+Line 290: TYΠΙΚΟ ΚΡΑΣΠΕΔΟ ΕΚ
+Line 291: DIRECTIONAL
+Line 292: TOTEM
+Line 293: ΠΥΡΓΟΣ
+Line 294: DIRECTIONAL
+Line 295: TOTEM
+Line 296: ΠΥΡΓΟΣ
+Line 297: ΚΑΘΟΔΗΓΗΣΗΣ
+Line 298: ΣΤΑΘ. ΦΥΤΙΚΟΥ
+Line 299: WALL FENCE
+Line 300: JVIT LHL 0028
+Line 301: CAST IRON GRATING
+Line 302: ΧΥΤΟΣΙΔΗΡΗ
+Line 303: ΣΧΑΡΑ
+Line 304: WAP
+Line 305: NEW FENCE PART
+Line 306: INSTEAD GUARDRAIL
+Line 307: CAST IRON GRATING
+Line 308: WIDTH
+Line 309: ΧΥΤΟΣΙΔΗΡΗ ΣΧΑΡΑ
+Line 310: ΠΛΑΤΟΥΣ ΕΚ
+Line 311: Guiding
+Line 312: 53907
+Line 313: ΟΔΗΓΟΣ ΤΥΦΛΩΝ
+Line 314: ΣΥΜΦΩΝΑ ΜΕ ΤΗΝ ΥΠΟΥΡΓΙΚΗ
+Line 315: ΑΠΟΦΑΣΗ ΑΡ. 52907 ΓΙΑ
+Line 316: ΕΞΩΤΕΡΙΚΟΥΣ ΧΩΡΟΥΣ
+Line 317: Expansion
+Line 318: ΑΡΜΟΣ ΔΙΑΣΤΟΛΗΣ
+Line 319: Sawcut ΑΡΜΟΣ
+Line 320: ΚΟΜΜΕΝΟΣ ΜΕ ΔΙΣΚΟ
+Line 321: Brushed Cocnrete Pavement
+Line 322: ΠΕΖΟΔΡΟΜΙΟ ΒΟΥΡΤΣΙΣΤΟΥ
+Line 323: ΜΠΕΤΟΝ
+Line 324: EXISTING LIGHTING
+Line 325: FIXTURE
+Line 326: ΥΦΙΣΤΑΜΕΝΟΣ
+Line 327: ΦΩΤΙΣΤΙΚΟΣ ΣΤΗΛΟΣ
+Line 328: RPBW
+Line 329: RENZO PIANO BUILDING WORKSHOP
+Line 330: FACADE CONSULTANT
+Line 331: ΣΥΜΒΟΥΛΟΣ ΠΡΟΣΟΨΕΩΝ
+Line 332: FRONT
+Line 333: ACOUSTIC DESIGN
+Line 334: ΑΚΟΥΣΤΙΚΗ ΜΕΛΕΤΗ
+Line 335: ARUP Acoustics
+Line 336: THEATRE DESIGN CONSULTANT
+Line 337: ΣΥΜΒΟΥΛΟΣ ΘΕΑΤΡΙΚΟΥ ΣΧΕΔΙΑΣΜΟΥ
+Line 338: THEATRE PROJECTS CONSULTANTS
+Line 339: LIBRARY CONSULTANT
+Line 340: ΣΥΜΒΟΥΛΟΣ ΣΧΕΔΙΑΣΜΟΥ ΒΙΒΛΙΟΘΗΚΗΣ
+Line 341: LANDSCAPE DESIGN
+Line 342: ΜΕΛΕΤΗ ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΧΩΡΟΥ
+Line 343: DEBORAH NEVINS
+Line 344: Associates,
+Line 345: COLLABORATION
+Line 346: ΜΕΛΕΤΗΤΗΣ
+Line 347: HELLI PANGALOU
+Line 348: MEP ENGINEER
+Line 349: ΜΕΛΕΤΗ ΕΓΚΑΤΑΣΤΑΣΕΩΝ
+Line 350: ARUP
+Line 351: COLLABORATION
+Line 352: ΜΕΛΕΤΗΤΗΣ
+Line 353: LDK
+Line 354: STRUCTURAL ENGINEER
+Line 355: ΣΤΑΤΙΚΗ ΜΕΛΕΤΗ
+Line 356: EXPEDITION
+Line 357: COLLABORATION
+Line 358: ΜΕΛΕΤΗΤΗΣ
+Line 359: OMETE
+Line 360: EXECUTIVE ARCHITECT
+Line 361: ΑΡΧΙΤΕΚΤΟΝΑΣ
+Line 362: BETAPLAN
+Line 363: DESIGN ARCHITECT
+Line 364: ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΜΕΛΕΤΗ ΑΡΧΙΤΕΚΤΟΝΑΣ ΕΡΓΟΥ
+Line 365: TRAFFIC CONSULTANT
+Line 366: ΚΥΚΛΟΦΟΡΙΑΚΗ ΜΕΛΕΤΗ
+Line 367: DENCO
+Line 368: PROJECT MANAGER COST CONSULTANT
+Line 369: ΣΥΝΤΟΝΙΣΜΟΣ ΜΕΛΕΤΗΣ ΣΥΜΒΟΥΛΟΣ ΠΡΟΥΠΟΛΟΓΙΣΜΟΥ
+Line 370: FAITHFUL GOULD
+Line 371: Archives
+Line 372: 75004 Paris France
+Line 373: 44 4900
+Line 374: 42 78 0198
+Line 375: Aristodimou Street
+Line 376: Athens, GR 76 Greece
+Line 377: 72
+Line 378: 72
+Line 379: Regent Street, Morley House
+Line 380: London, UK
+Line 381: 44 0 1000
+Line 382: 44 0 1001
+Line 383: Asklipiou Street
+Line 384: Athens, GR 72 Greece
+Line 385: 30026
+Line 386: 44631
+Line 387: Fitzroy Street
+Line 388: London, UK
+Line 389: 44 0 755 2191
+Line 390: 44 0 755 3743
+Line 391: Thivaidos Street
+Line 392: Athens, GR Greece
+Line 393: 96700
+Line 394: 96709
+Line 395: Lafayette Street, Suite
+Line 396: York, NY 10012 USA
+Line 397: 1125
+Line 398: Skoufa Street
+Line 399: Athens, GR 72 Greece
+Line 400: 6219
+Line 401: 9225
+Line 402: Linton House
+Line 403: Highgate Road
+Line 404: London, UK
+Line 405: 44 7284 5888
+Line 406: Alexi
+Line 407: Elizabeth Street
+Line 408: South Norwalk, CT 06854 3025 USA
+Line 409: 0830
+Line 410: 0835
+Line 411: Americas
+Line 412: York, NY 10013 USA
+Line 413: 2669
+Line 414: 1056
+Line 415: Varick Street
+Line 416: York, NY 10014 USA
+Line 417: 2220
+Line 418: 2253
+Line 419: Kifisias
+Line 420: Athens, GR Greece
+Line 421: 54801
+Line 422: 54800
+Line 423: Paradisou Street
+Line 424: Athens, GR Greece
+Line 425: 15245
+Line 426: 11951
+Line 427: AMA Alexi Marmot Associates
+Line 428: IRRIGATION DESIGN
+Line 429: ΜΕΛΕΤΗ ΑΡΔΕΥΣΗΣ
+Line 430: SOTIRIOS MAVRAGANIS
+Line 431: 42 Vasileos Georgiou Street
+Line 432: Athens, GR Greece
+Line 433: REV.
+Line 434: STAVROS NIARCHOS FOUNDATION CULTURAL CENTER
+Line 435: PROJECT
+Line 436: KEY PLAN
+Line 437: ΕΡΓΟ
+Line 438: Vasilissis Sofias Avenue, Athens, Greece
+Line 439: 72 41311, 72 41312
+Line 440: ΚΛΕΙΔΑ ΣΧΕΔΙΟΥ
+Line 441: DRWG TITLE
+Line 442: ΤΙΤΛΟΣ ΣΧΕΔΙΟΥ
+Line 443: CONSULTANT STAMP
+Line 444: ΣΦΡΑΓΙΔΑ ΣΥΜΒΟΥΛΟΥ
+Line 445: SCALE
+Line 446: ΚΛΙΜΑΚΑ
+Line 447: REFERENCED DRAWING NUMBER
+Line 448: AUTHOR
+Line 449: ΣΥΝΤΑΚΤΗΣ
+Line 450: DISCIPLINE
+Line 451: ΚΑΤ. ΜΕΛΕΤΗΣ
+Line 452: ZONE
+Line 453: ΠΕΡΙΟΧΗ
+Line 454: DRWG TYPE
+Line 455: ΕΙΔΟΣ ΣΧΕΔΙΟΥ
+Line 456: REV.
+Line 457: ΑΝΑΘ.
+Line 458: QR CODE
+Line 459: FIRST ISSUE DATE
+Line 460: ΗΜΕΡ. ΕΚΔ.
+Line 461: DRAWN
+Line 462: CHECKED
+Line 463: APPROVED
+Line 464: DATE
+Line 465: DESCRIPTION
+Line 466: 00
+Line 467: PROJECT
+Line 468: ΕΡΓΟ
+Line 469: CONSULTANT SIGNATURE
+Line 470: ΥΠΟΓΡΑΦΗ ΣΥΜΒΟΥΛΟΥ
+Line 471: APPROVALS
+Line 472: ΘΕΩΡΗΣΕΙΣ
+Line 473: ΑΝΑΘΕΩΡΗΣΗ ΤΗΣ ΥΠ ΑΡΙΘΜ. 72 2017 ΑΔΕΙΑΣ ΔΟΜΗΣΗΣ ΜΕΤΑ ΤΗΣ 2017
+Line 474: ΑΝΑΘΕΩΡΗΣΗΣ ΑΥΤΗΣ ΛΟΓΩ ΚΑΤΑΣΚΕΥΗΣ ΑΝΟΙΧΤΟΥ ΓΗΠΕΔΟΥ ΠΟΛΛΑΠΛΩΝ
+Line 475: ΑΘΛΗΜΑΤΩΝ ΣΤΟ ΠΑΡΚΟ ΚΑΙ ΜΙΚΡΟΤΡΟΠΟΠΟΙΗΣΕΩΝ ΣΤΗ ΔΙΑΡΡΥΘΜΙΣΗ ΤΟΥ
+Line 476: ΚΥΛΙΚΕΙΟΥ ΤΟΥ ΠΑΡΚΟΥ.
+Line 477: PROPERTY LINE
+Line 478: TREE GRILLES
+Line 479: Manufacturer Model Area Cardiff
+Line 480: LITTER BINS
+Line 481: Manufacturer Model Cite Aeroporto
+Line 482: BENCHES WOOD
+Line 483: Manufacturer Model Area Rome
+Line 484: BENCHES WOOD
+Line 485: Manufacturer Model Area Rome
+Line 486: BENCHES STONE
+Line 487: Manufacturer Model Escofet Barana
+Line 488: BICYCLE STANDS
+Line 489: Manufacturer Model Escofet BICI
+Line 490: DRINKING FOUNTAINS
+Line 491: Manufacturer Model Santa Cole Caudal
+Line 492: BOLLARDS FIXED DIAMETER
+Line 493: Manufacturer Model ATG Access
+Line 494: BOLLARDS FIXED DIAMETER
+Line 495: Manufacturer Model Area Phenix 70
+Line 496: BOLLARDS SECURITY DIAMETER
+Line 497: Manufacturer Model ATG Access SP
+Line 498: MANHOLE COVERS FILLED
+Line 499: PAVEMENT MATERIAL
+Line 500: CAST IRON DRAIN CHANNELS WIDTH
+Line 501: INDICATED DRAWING PLAN
+Line 502: PRECAST CONCRETE ELEMENT WARNING
+Line 503: BAND WIDTH
+Line 504: CAST IRON COVER
+Line 505: ELECTRICAL PANEL
+Line 506: CAST IRON GRATING URBAN TYPE
+Line 507: GULLY WEST PEDESTRIAN
+Line 508: CAST IRON GRATING RIDGIGULLY
+Line 509: PARK AREA
+Line 510: GENERAL LAYOUT PARK REVISED ACCORDING NEW DIMENSIONING CONCRETE
+Line 511: CURBS OPEN DRAIN CHANNELS
+Line 512: LIGHTING ADDED ACCORDING ELECTRICITY LIGHTING LAYOUT PLAN. SEE JVIT ELE 0002
+Line 513: MODIFICATIONS DONE LIGHTING DESIGN ARUP LDK INDICATED
+Line 514: REVISION CLOUD
+Line 515: STORM WATER DESIGN REVISED NEXT SUBMISSION ACCORDING MODIFICATIONS
+Line 516: SHOWN DRAWING
+Line 517: TYPICAL CONCRETE CURB, CHANNEL, RETAINING WALL DETAILS PARK REFER
+Line 518: JVIT LHL 00 0007 0008 0009
+Line 519: TYPICAL CONCRETE STEP ENTRANCES HILL DETAIL REFER JVIT ARC 0013
+Line 520: SIGNAGE PARK AREA ADDED PROVISIONAL SUM. SEE SIGNAGE DRAWING 1001
+Line 521: JOINT PATTERN EXTERNAL BRUSHED CONCRETE SLAB CAFE BUILDING ADDED
+Line 522: NEW MANHOLE COVERS ADDED REVISION CLOUDS
+Line 523: ΤΟ ΣΧΕΔΙΟ ΧΑΡΑΞΗΣ ΤΩΝ ΡΕΙΘΡΩΝ ΚΑΙ ΚΑΝΑΛΙΩΝ ΒΑΣΕΙ ΤΩΝ ΝΕΩΝ ΔΙΑΣΤΑΣΕΩΝ ΕΧΕΙ ΕΝΗΜΕΡΩΘΕΙ
+Line 524: ΣΥΜΦΩΝΑ ΜΕ ΤΗΝ ΜΕΛΕΤΗ ΔΙΑΤΑΞΗΣ ΒΛ ΣΧΕΔΙΟ
+Line 525: JVIT ELE 0002. ΟΠΟΙΕΣ ΑΛΛΑΓΕΣ ΕΧΟΥΝ ΓΙΝΕΙ ΣΤΗ ΜΕΛΕΤΗ ΤΗΣ ARUP LDK
+Line 526: ΕΠΙΣΗΜΑΙΝΟΝΤΑΙ ΜΕ ΣΥΝΝΕΦΑΚΙ ΑΝΑΘΕΩΡΗΣΗΣ
+Line 527: ΥΔΡΑΥΛΙΚΗ ΜΕΛΕΤΗ ΘΑ ΕΝΗΜΕΡΩΘΕΙ ΒΑΣΕΙ ΤΩΝ ΤΡΟΠΟΠΟΙΗΣΕΩΝ ΠΟΥ ΦΑΙΝΟΝΤΑΙ ΣΕ ΑΥΤΟ ΤΟ
+Line 528: ΣΧΕΔΙΟ
+Line 529: ΓΙΑ ΛΕΠΤΟΜΕΡΕΙΑ ΤΥΠΙΚΑ ΡΕΙΘΡΟΥ, ΚΑΝΑΛΙΟΥ ΚΑΙ ΤΟΙΧΕΙΩΝ ΤΟΥ ΠΑΡΚΟΥ ΒΛΕΠΕ ΣΧΕΔΙΟ
+Line 530: JVIT LHL 00 0007 0008 0009
+Line 531: ΓΙΑ ΤΥΠΙΚΗ ΛΕΠΤΟΜΕΡΕΙΑ ΣΚΑΛΟΠΑΤΙΟΥ ΣΤΙΣ ΕΙΣΟΔΟΥΣ ΤΟΥ ΛΟΦΟΥ ΒΛ. JVIT ARC 0013
+Line 532: ΣΤΗΝ ΠΕΡΙΟΧΗ ΤΟΥ ΠΑΡΚΟΥ ΚΑΙ ΕΙΝΑΙ ΥΠΟ ΕΓΚΡΙΣΗ ΓΙΑ ΤΟ ΜΕΛΛΟΝ
+Line 533: ΠΛΑΚΑ ΣΚΥΡΟΔΕΜΑΤΟΣ ΕΞΩΤΕΡΙΚΑ ΤΟΥ ΚΥΛΙΚΕΙΟΥ ΤΟΥ ΠΑΡΚΟΥ
+Line 534: ΚΑΠΑΚΙΑ ΦΡΕΑΤΙΩΝ ΠΡΟΣΤΕΘΗΚΑΝ ΚΑΙ ΕΠΙΣΗΜΑΙΝΟΝΤΕΙ ΜΕ ΣΥΝΝΕΦΑΚΙ ΑΝΑΘΕΩΡΗΣΗΣ
+Line 535: LUMINAIRES PARK AREA.
+Line 536: SEE ELECTRICITY LIGHTING LAYOUT PLAN
+Line 537: ΦΩΤΙΣΤΙΚΑ ΣΤΟ ΠΑΡΚΟ
+Line 538: ΒΛ. ΣΧΕΔΙΟ ΔΙΑΤΑΞΗΣ
+Line 539: INGROUND
+Line 540: UPLIGHTER
+Line 541: BOLLARD
+Line 542: COLUMN
+Line 543: CONCRETE BASE
+Line 544: ΒΑΣΗ ΑΠΟ
+Line 545: ΣΚΥΡΟΔΕΜΑ
+Line 546: CHAIRS INDIVIDUAL
+Line 547: Manufacturer Model Fermob Luxembourg 4101 4102
+Line 548: Quantity 4101 4102
+Line 549: JVIT
+Line 550: LHL
+Line 551: 02
+Line 552: Construction Coordination Plan
+Line 553: NORTH ENTRY WEST
+Line 554: 03 2018
+Line 555: 0015
+
+=== END OF FILTERED TEXT ===
+Total lines: 556

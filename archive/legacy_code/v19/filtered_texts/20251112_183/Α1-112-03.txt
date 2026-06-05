@@ -1,0 +1,151 @@
+=== FILTERED TEXT FOR: Α1-112-03.pdf ===
+
+Line   0: 40
+Line   1: A1
+Line   2: WC
+Line   3: ΠΡΟΘΑΛΑΜΟΣ
+Line   4: ΠΡΟΘΑΛΑΜΟΣ
+Line   5: ΧΩΡΟΙ ΥΓΙΕΙΝΗΣ
+Line   6: ΠΡΟΘΑΛΑΜΟΣ
+Line   7: ΠΡΟΘΑΛΑΜΟΣ
+Line   8: ΧΩΡΟΙ ΥΓΙΕΙΝΗΣ
+Line   9: ΠΡΟΘΑΛΑΜΟΣ
+Line  10: WC
+Line  11: ΠΡΟΘΑΛΑΜΟΣ
+Line  12: WC
+Line  13: ΠΡΟΘΑΛΑΜΟΣ
+Line  14: ΕΞΩΤΕΡΙΚΟΣ
+Line  15: ΠΡΟΘΑΛΑΜΟΣ
+Line  16: ΧΩΡΟΙ ΥΓΙΕΙΝΗΣ
+Line  17: A1
+Line  18: A1
+Line  19: A1
+Line  20: A1
+Line  21: A1
+Line  22: A1
+Line  23: ΕΞΩΣΤΗΣ
+Line  24: ΕΞΩΣΤΗΣ
+Line  25: ΕΞΩΣΤΗΣ
+Line  26: A1
+Line  27: A1
+Line  28: A1
+Line  29: A1
+Line  30: A1
+Line  31: A1
+Line  32: A1
+Line  33: A1
+Line  34: A1
+Line  35: A1
+Line  36: A1
+Line  37: A1 712
+Line  38: Όμοια
+Line  39: Όμοια
+Line  40: A1 713
+Line  41: A1
+Line  42: A1
+Line  43: ΧΩΡΟΙ ΥΓΙΕΙΝΗΣ
+Line  44: NTOYΣ
+Line  45: WC
+Line  46: ΧΩΡΟΙ ΥΓΙΕΙΝΗΣ
+Line  47: WC
+Line  48: NTOYΣ
+Line  49: NTOYΣ
+Line  50: NTOYΣ
+Line  51: NTOYΣ
+Line  52: WC
+Line  53: NTOYΣ
+Line  54: WC
+Line  55: WC
+Line  56: NTOYΣ
+Line  57: ΝΤΟΥΣ
+Line  58: A1
+Line  59: A1
+Line  60: A1 303
+Line  61: A1 303
+Line  62: 715
+Line  63: 717
+Line  64: 722
+Line  65: ΚΛΙΜΑΚΑ
+Line  66: ΚΑΤΗΓΟΡΙΑ
+Line  67: ΚΥΡΙΟΣ ΕΡΓΟΥ
+Line  68: ΕΡΓΟ
+Line  69: ΑΡΙΘΜΟΣ ΣΧΕΔΙΟΥ
+Line  70: ΗΜΕΡΟΜΗΝΙΑ ΜΕΛΕΤΗΣ
+Line  71: VAP ARCHITECTS
+Line  72: Ηπείρου Αθήνα Ελλάδα
+Line  73: 3262 3269
+Line  74: ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΜΕΛΕΤΗ
+Line  75: ΣΤΑΔΙΟ ΜΕΛΕΤΗΣ
+Line  76: Όλες
+Line  77: ΣΥΝΕΡΓΑΤΕΣ ΜΕΛΕΤΗΣ ΕΦΑΡΜΟΓΗΣ
+Line  78: ΚΛΕΙΔΑ
+Line  79: ΣΧΕΔΙΟ
+Line  80: HΜ ΝΙΑ ΣΧΕΔΙΟΥ
+Line  81: ΑΚΟΥΣΤΙΚΗ ΜΕΛΕΤΗ
+Line  82: ΜΕΛΕΤΗ ΦΩΤΙΣΜΟΥ
+Line  83: ΣΤΑΤΙΚΗ ΜΕΛΕΤΗ
+Line  84: ΜΗΧΑΝΟΛΟΓΙΚΗ ΜΕΛΕΤΗ
+Line  85: Ροστάν 44, 41, Αθήνα
+Line  86: 771, 2023
+Line  87: Σύμβουλοι Μηχανικοί
+Line  88: ΠΑΡΑΤΗΡΗΣΕΙΣ
+Line  89: ΕΡΕΙΣΜΑ
+Line  90: ΤΕΧΝΙΚΗ ΕΤΑΙΡΕΙΑ
+Line  91: Νάξου Κηφισιά
+Line  92: Παρασκευής Χαλάνδρι
+Line  93: 42 094,
+Line  94: IFI
+Line  95: INTRA ΞΕΝΟΔΟΧΕΙΑΚΗ
+Line  96: 2017 45 42
+Line  97: ΚΑΤΑΣΚΕΥΑΣΤΙΚΑ
+Line  98: ΑΝΑΚΑΤΑΣΚΕΥΗ ΞΕΝΟΔΟΧΕΙΟΥ
+Line  99: ΣΤΗΝ ΜΥΚΟΝΟ
+Line 100: ΟΚΤΩΒΡΙΟΣ 2016
+Line 101: ΜΕΛΕΤΗ ΕΦΑΡΜΟΓΗΣ
+Line 102: Πλατύς Γιαλός Μύκονος
+Line 103: ΚΑΤΟΨΗ ΟΡΟΦΟΥ
+Line 104: 2016
+Line 105: ΖΩΝΗ
+Line 106: A1 03
+Line 107: 2016
+Line 108: 01
+Line 109: 2016
+Line 110: 01
+Line 111: 2016
+Line 112: 01
+Line 113: 2016
+Line 114: 01
+Line 115: 2016
+Line 116: 01
+Line 117: 2016
+Line 118: 01
+Line 119: 2016
+Line 120: 01
+Line 121: 2016
+Line 122: 01
+Line 123: 2016
+Line 124: 01
+Line 125: ΑΝΑΘΕΩΡΗΣΕΙΣ
+Line 126: ΠΕΡΙΓΡΑΦΗ
+Line 127: ΗΜ ΝΙΑ
+Line 128: 00
+Line 129: ΠΡΩΤΗ ΕΚΔΟΣΗ
+Line 130: 2016
+Line 131: 01
+Line 132: ΤΡΟΠΟΠΟΙΗΣΕΙΣ
+Line 133: 2016
+Line 134: 02
+Line 135: ΤΡΟΠΟΠΟΙΗΣΕΙΣ
+Line 136: 2016
+Line 137: 03
+Line 138: ΤΡΟΠΟΠΟΙΗΣΕΙΣ
+Line 139: 01 2017
+Line 140: 2016
+Line 141: 02
+Line 142: 01 2017
+Line 143: 03
+Line 144: 01 2017
+Line 145: 03
+
+=== END OF FILTERED TEXT ===
+Total lines: 146

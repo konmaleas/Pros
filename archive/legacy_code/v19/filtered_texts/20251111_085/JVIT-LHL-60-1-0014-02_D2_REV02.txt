@@ -1,0 +1,240 @@
+=== FILTERED TEXT FOR: JVIT-LHL-60-1-0014-02_D2_REV02.pdf ===
+
+Line   0: NW STRETCH,
+Line   1: ARMS, SHOULDERS
+Line   2: Foundation
+Line   3: NW
+Line   4: ARMS TRICEPS
+Line   5: Foundation
+Line   6: NW
+Line   7: ABDOMINALS
+Line   8: Foundation
+Line   9: NW
+Line  10: ARMS, ABDOMINALS
+Line  11: Foundation
+Line  12: NW
+Line  13: LEGS
+Line  14: Foundation
+Line  15: Foundation
+Line  16: Copyright 2015
+Line  17: Richter Spielgeräte
+Line  18: 83112 Frasdorf, 49 0 8052 4180
+Line  19: ALIGNED
+Line  20: ALIGNED
+Line  21: ALIGNED
+Line  22: ALIGNED
+Line  23: ALIGNED
+Line  24: ALIGNED
+Line  25: GAS
+Line  26: GAS
+Line  27: GAS
+Line  28: ΠΑΡΤΕΡΙ
+Line  29: ΑΠΟ
+Line  30: ΕΦΑΠΤΟΜΕΝΗ
+Line  31: ΚΟΡΜΟΥ
+Line  32: ΕΥΔΑΠ
+Line  33: ΡΟΛΟΙ
+Line  34: 40
+Line  35: 70
+Line  36: II
+Line  37: PATH
+Line  38: PATH
+Line  39: DRINKING FOUNTAIN
+Line  40: SIZE
+Line  41: ΨΥΚΤΗΣ ΔΙΑΣΤΑΣΗΣ
+Line  42: ΠΛΑΤΟΣ ΒΑΘΟΣ
+Line  43: DRINKING FOUNTAIN
+Line  44: SIZE
+Line  45: ΨΥΚΤΗΣ ΔΙΑΣΤΑΣΗΣ
+Line  46: ΠΛΑΤΟΣ ΒΑΘΟΣ
+Line  47: DRINKING FOUNTAIN
+Line  48: SIZE
+Line  49: ΨΥΚΤΗΣ ΔΙΑΣΤΑΣΗΣ
+Line  50: ΠΛΑΤΟΣ ΒΑΘΟΣ
+Line  51: Mediterranean Garden
+Line  52: JVIT LHL 0020
+Line  53: North Entry West
+Line  54: JVIT LHL 0015
+Line  55: North Entry East
+Line  56: JVIT LHL 0017
+Line  57: Great Lawn
+Line  58: JVIT LHL 0019
+Line  59: JVIT ARC 0021 0022 0023
+Line  60: JVIT ARC 0042
+Line  61: JVIT ARC 0102
+Line  62: JVIT ARC 0031 0032
+Line  63: JVIT LHL 0023
+Line  64: JVIT LHL 0022
+Line  65: JVIT ARC 0011
+Line  66: JVIT ARC 3031
+Line  67: JVIT ARC 3005
+Line  68: JVIT LHL 0007
+Line  69: JVIT LHL 0002
+Line  70: JVIT ARC 0011 0012 0013
+Line  71: Western Walks
+Line  72: JVIT LHL 0018
+Line  73: North Entry Center
+Line  74: JVIT LHL 0016
+Line  75: RPBW
+Line  76: RENZO PIANO BUILDING WORKSHOP
+Line  77: FACADE CONSULTANT
+Line  78: ΣΥΜΒΟΥΛΟΣ ΠΡΟΣΟΨΕΩΝ
+Line  79: FRONT
+Line  80: ACOUSTIC DESIGN
+Line  81: ΑΚΟΥΣΤΙΚΗ ΜΕΛΕΤΗ
+Line  82: ARUP Acoustics
+Line  83: THEATRE DESIGN CONSULTANT
+Line  84: ΣΥΜΒΟΥΛΟΣ ΘΕΑΤΡΙΚΟΥ ΣΧΕΔΙΑΣΜΟΥ
+Line  85: THEATRE PROJECTS CONSULTANTS
+Line  86: LIBRARY CONSULTANT
+Line  87: ΣΥΜΒΟΥΛΟΣ ΣΧΕΔΙΑΣΜΟΥ ΒΙΒΛΙΟΘΗΚΗΣ
+Line  88: LANDSCAPE DESIGN
+Line  89: ΜΕΛΕΤΗ ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΧΩΡΟΥ
+Line  90: DEBORAH NEVINS
+Line  91: Associates,
+Line  92: COLLABORATION
+Line  93: ΜΕΛΕΤΗΤΗΣ
+Line  94: HELLI PANGALOU
+Line  95: MEP ENGINEER
+Line  96: ΜΕΛΕΤΗ ΕΓΚΑΤΑΣΤΑΣΕΩΝ
+Line  97: ARUP
+Line  98: COLLABORATION
+Line  99: ΜΕΛΕΤΗΤΗΣ
+Line 100: LDK
+Line 101: STRUCTURAL ENGINEER
+Line 102: ΣΤΑΤΙΚΗ ΜΕΛΕΤΗ
+Line 103: EXPEDITION
+Line 104: COLLABORATION
+Line 105: ΜΕΛΕΤΗΤΗΣ
+Line 106: OMETE
+Line 107: EXECUTIVE ARCHITECT
+Line 108: ΑΡΧΙΤΕΚΤΟΝΑΣ
+Line 109: BETAPLAN
+Line 110: DESIGN ARCHITECT
+Line 111: ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΜΕΛΕΤΗ ΑΡΧΙΤΕΚΤΟΝΑΣ ΕΡΓΟΥ
+Line 112: TRAFFIC CONSULTANT
+Line 113: ΚΥΚΛΟΦΟΡΙΑΚΗ ΜΕΛΕΤΗ
+Line 114: DENCO
+Line 115: PROJECT MANAGER COST CONSULTANT
+Line 116: ΣΥΝΤΟΝΙΣΜΟΣ ΜΕΛΕΤΗΣ ΣΥΜΒΟΥΛΟΣ ΠΡΟΥΠΟΛΟΓΙΣΜΟΥ
+Line 117: FAITHFUL GOULD
+Line 118: Archives
+Line 119: 75004 Paris France
+Line 120: 44 4900
+Line 121: 42 78 0198
+Line 122: Aristodimou Street
+Line 123: Athens, GR 76 Greece
+Line 124: 72
+Line 125: 72
+Line 126: Regent Street, Morley House
+Line 127: London, UK
+Line 128: 44 0 1000
+Line 129: 44 0 1001
+Line 130: Asklipiou Street
+Line 131: Athens, GR 72 Greece
+Line 132: 30026
+Line 133: 44631
+Line 134: Fitzroy Street
+Line 135: London, UK
+Line 136: 44 0 755 2191
+Line 137: 44 0 755 3743
+Line 138: Thivaidos Street
+Line 139: Athens, GR Greece
+Line 140: 96700
+Line 141: 96709
+Line 142: Lafayette Street, Suite
+Line 143: York, NY 10012 USA
+Line 144: 1125
+Line 145: Skoufa Street
+Line 146: Athens, GR 72 Greece
+Line 147: 6219
+Line 148: 9225
+Line 149: Linton House
+Line 150: Highgate Road
+Line 151: London, UK
+Line 152: 44 7284 5888
+Line 153: Alexi
+Line 154: Elizabeth Street
+Line 155: South Norwalk, CT 06854 3025 USA
+Line 156: 0830
+Line 157: 0835
+Line 158: Americas
+Line 159: York, NY 10013 USA
+Line 160: 2669
+Line 161: 1056
+Line 162: Varick Street
+Line 163: York, NY 10014 USA
+Line 164: 2220
+Line 165: 2253
+Line 166: Kifisias
+Line 167: Athens, GR Greece
+Line 168: 54801
+Line 169: 54800
+Line 170: Paradisou Street
+Line 171: Athens, GR Greece
+Line 172: 15245
+Line 173: 11951
+Line 174: AMA Alexi Marmot Associates
+Line 175: IRRIGATION DESIGN
+Line 176: ΜΕΛΕΤΗ ΑΡΔΕΥΣΗΣ
+Line 177: SOTIRIOS MAVRAGANIS
+Line 178: 42 Vasileos Georgiou Street
+Line 179: Athens, GR Greece
+Line 180: REV.
+Line 181: STAVROS NIARCHOS FOUNDATION CULTURAL CENTER
+Line 182: PROJECT
+Line 183: KEY PLAN
+Line 184: ΕΡΓΟ
+Line 185: Vasilissis Sofias Avenue, Athens, Greece
+Line 186: 72 41311, 72 41312
+Line 187: ΚΛΕΙΔΑ ΣΧΕΔΙΟΥ
+Line 188: DRWG TITLE
+Line 189: ΤΙΤΛΟΣ ΣΧΕΔΙΟΥ
+Line 190: CONSULTANT STAMP
+Line 191: ΣΦΡΑΓΙΔΑ ΣΥΜΒΟΥΛΟΥ
+Line 192: SCALE
+Line 193: ΚΛΙΜΑΚΑ
+Line 194: REFERENCED DRAWING NUMBER
+Line 195: AUTHOR
+Line 196: ΣΥΝΤΑΚΤΗΣ
+Line 197: DISCIPLINE
+Line 198: ΚΑΤ. ΜΕΛΕΤΗΣ
+Line 199: ZONE
+Line 200: ΠΕΡΙΟΧΗ
+Line 201: DRWG TYPE
+Line 202: ΕΙΔΟΣ ΣΧΕΔΙΟΥ
+Line 203: REV.
+Line 204: ΑΝΑΘ.
+Line 205: QR CODE
+Line 206: FIRST ISSUE DATE
+Line 207: ΗΜΕΡ. ΕΚΔ.
+Line 208: DRAWN
+Line 209: CHECKED
+Line 210: APPROVED
+Line 211: DATE
+Line 212: DESCRIPTION
+Line 213: 00
+Line 214: PROJECT
+Line 215: ΕΡΓΟ
+Line 216: CONSULTANT SIGNATURE
+Line 217: ΥΠΟΓΡΑΦΗ ΣΥΜΒΟΥΛΟΥ
+Line 218: APPROVALS
+Line 219: ΘΕΩΡΗΣΕΙΣ
+Line 220: ΑΝΑΘΕΩΡΗΣΗ ΤΗΣ ΥΠ ΑΡΙΘΜ. 72 2017 ΑΔΕΙΑΣ ΔΟΜΗΣΗΣ ΜΕΤΑ ΤΗΣ 2017
+Line 221: ΑΝΑΘΕΩΡΗΣΗΣ ΑΥΤΗΣ ΛΟΓΩ ΚΑΤΑΣΚΕΥΗΣ ΑΝΟΙΧΤΟΥ ΓΗΠΕΔΟΥ ΠΟΛΛΑΠΛΩΝ
+Line 222: ΑΘΛΗΜΑΤΩΝ ΣΤΟ ΠΑΡΚΟ ΚΑΙ ΜΙΚΡΟΤΡΟΠΟΠΟΙΗΣΕΩΝ ΣΤΗ ΔΙΑΡΡΥΘΜΙΣΗ ΤΟΥ
+Line 223: ΚΥΛΙΚΕΙΟΥ ΤΟΥ ΠΑΡΚΟΥ.
+Line 224: JVIT
+Line 225: LHL
+Line 226: 02
+Line 227: KEY PLAN GRADING PLAN
+Line 228: PARK HILL WEST PEDESTRIAN
+Line 229: 03 2018
+Line 230: 0014
+Line 231: PROPERTY LINE
+Line 232: LEGEND
+Line 233: ΟΡΙΟ ΙΔΙΟΚΤΗΣΙΑΣ
+Line 234: ΥΠΟΜΝΗΜΑ
+
+=== END OF FILTERED TEXT ===
+Total lines: 235

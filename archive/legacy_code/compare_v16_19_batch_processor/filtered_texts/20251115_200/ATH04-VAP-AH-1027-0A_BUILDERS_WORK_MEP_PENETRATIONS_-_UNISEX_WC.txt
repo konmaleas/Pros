@@ -1,0 +1,128 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-1027-0A_BUILDERS_WORK_MEP_PENETRATIONS_-_UNISEX_WC.pdf ===
+
+Line   0: 1027
+Line   1: 1027
+Line   2: 2
+Line   3: 1027
+Line   4: 4
+Line   5: 1027
+Line   6: 1027
+Line   7: UNISEX WC
+Line   8: 00 039
+Line   9: GL
+Line  10: CEILING LEVEL
+Line  11: YD
+Line  12: MP AD 056
+Line  13: MP AD 056
+Line  14: MP AD 056
+Line  15: MP AD 056
+Line  16: MP AD 056
+Line  17: MP AD 056
+Line  18: UNISEX WC
+Line  19: 00 039
+Line  20: GL
+Line  21: CEILING LEVEL
+Line  22: MP AD 041
+Line  23: UNISEX WC
+Line  24: 00 039
+Line  25: MP AD 039 02
+Line  26: MP AD 039 01
+Line  27: CEILING LEVEL
+Line  28: YD
+Line  29: MP AD 039 06
+Line  30: UNISEX WC
+Line  31: 00 039
+Line  32: MP AD 039 03
+Line  33: MP AD 039 05
+Line  34: MP AD 039 04
+Line  35: GL
+Line  36: CEILING LEVEL
+Line  37: MP AD 036
+Line  38: MP AD 036
+Line  39: MP AD 036
+Line  40: UNISEX WC
+Line  41: 00 039
+Line  42: MEP PENETRATIONS CODE
+Line  43: MP AD XXX XX
+Line  44: MP
+Line  45: MEP PENETRATIONS
+Line  46: AD
+Line  47: BUILDING CODE
+Line  48: XXX
+Line  49: ROOM NUMBER
+Line  50: XX
+Line  51: PENETRATION NUMBER
+Line  52: GL
+Line  53: CEILING LEVEL
+Line  54: MP AD 039 01
+Line  55: MP AD 039 02
+Line  56: ADMIN
+Line  57: COLO
+Line  58: COLO 2
+Line  59: 2
+Line  60: 4
+Line  61: 2
+Line  62: 4
+Line  63: TRUE NORTH
+Line  64: Sheet Title Number
+Line  65: Scale
+Line  66: Plan
+Line  67: Design Consultants
+Line  68: Microsoft
+Line  69: DATA CENTER
+Line  70: SPATA GREECE
+Line  71: Contractor Joint Venture
+Line  72: Name
+Line  73: Contractor Project
+Line  74: Contractor Contract
+Line  75: Contractor PM
+Line  76: Contractor BIM Mngr
+Line  77: Contractor Information
+Line  78: Renco Terna
+Line  79: Client
+Line  80: General Notes
+Line  81: Client Project
+Line  82: Client Contract
+Line  83: Client PM
+Line  84: Client BIM Mngr
+Line  85: Primary Client Information
+Line  86: Layout
+Line  87: Revision
+Line  88: Tombazi Chalandri
+Line  89: 15232
+Line  90: Athens Greece
+Line  91: 0800 3262
+Line  92: Agion Theodoron Square Athens
+Line  93: 10561
+Line  94: Athens Greece
+Line  95: Kimithois Agios Dimitrios
+Line  96: 17236
+Line  97: Athens Greece
+Line  98: Purpose Issue
+Line  99: Issue
+Line 100: Name
+Line 101: BUILDERS WORK MEP PENETRATIONS
+Line 102: UNISEX WC
+Line 103: VAP AH 1027
+Line 104: 1000
+Line 105: SCALE
+Line 106: SCALE
+Line 107: 039 UNISEX WC ELEVATION MEP PENETRATIONS
+Line 108: SCALE
+Line 109: 039 UNISEX WC ELEVATION 2 MEP PENETRATIONS
+Line 110: 2
+Line 111: SCALE
+Line 112: 039 UNISEX WC ELEVATION 4 MEP PENETRATIONS
+Line 113: 4
+Line 114: SCALE
+Line 115: 039 UNISEX WC ELEVATION MEP PENETRATIONS
+Line 116: Date
+Line 117: Description
+Line 118: 07
+Line 119: Issued Approval
+Line 120: VAP
+Line 121: SCALE
+Line 122: 039 UNISEX WC ELEVATION MEP PENETRATIONS
+
+=== END OF FILTERED TEXT ===
+Total lines: 123

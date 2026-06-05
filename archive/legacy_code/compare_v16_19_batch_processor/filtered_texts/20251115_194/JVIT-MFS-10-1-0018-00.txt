@@ -1,0 +1,202 @@
+=== FILTERED TEXT FOR: JVIT-MFS-10-1-0018-00.pdf ===
+
+Line   0: SSL
+Line   1: SSL
+Line   2: Costume Shoe Storage
+Line   3: Projection Studio
+Line   4: Broadcast
+Line   5: Dimmer Room
+Line   6: ,00
+Line   7: WC
+Line   8: WC
+Line   9: Sound Lock
+Line  10: SOUND LOCK
+Line  11: Lift
+Line  12: Corridor
+Line  13: Fire
+Line  14: Fire Escape Staircase
+Line  15: Redundant Room
+Line  16: Fire
+Line  17: Escape Staircase
+Line  18: Escape Lobby
+Line  19: Escape Staircase
+Line  20: Walkway
+Line  21: Escape Staircase
+Line  22: 2
+Line  23: WC Lobby
+Line  24: Lounge
+Line  25: Lounge
+Line  26: Escape Staircase
+Line  27: DEVELOPED
+Line  28: NOTES
+Line  29: Sesmic
+Line  30: Fire
+Line  31: Acoustic
+Line  32: SYMBOLS
+Line  33: CABLE CONTAINMENT
+Line  34: SUPPLY AIR
+Line  35: RETURN AIR
+Line  36: SMOKE DUCT
+Line  37: AIR SUPPLY DUCT STAIRCASES
+Line  38: SPRINKLERS PIPING
+Line  39: GANTRY BEAM SYSTEM
+Line  40: DUCTS SUPPORT
+Line  41: PIPE SUPPORT
+Line  42: SPRINKLER HEAD
+Line  43: ɈɃP DUCT LEVEL
+Line  44: BOTTOM DUCT LEVEL
+Line  45: DUCTS INTERNAL GLADDING
+Line  46: DUCTS INTERNAL GLADDING
+Line  47: RPBW
+Line  48: RENZO PIANO BUILDING WORKSHOP
+Line  49: CONSULTANT
+Line  50: FRONT
+Line  51: ACOUSTIC DESIGN
+Line  52: ARUP Acoustics
+Line  53: THEATRE DESIGN CONSULTANT
+Line  54: THEATRE PROJECTS CONSULTANTS
+Line  55: LIBRARY CONSULTANT
+Line  56: LANDSCAPE DESIGN
+Line  57: DEBORAH NEVINS
+Line  58: Associates,
+Line  59: COLLABORATION
+Line  60: HELLI PANGALOU
+Line  61: MEP ENGINEER
+Line  62: ARUP
+Line  63: COLLABORATION
+Line  64: LDK
+Line  65: STRUCTURAL ENGINEER
+Line  66: EXPEDITION
+Line  67: COLLABORATION
+Line  68: OMETE
+Line  69: EXECUTIVE ARCHITECT
+Line  70: BETAPLAN
+Line  71: DESIGN ARCHITECT
+Line  72: TRAFFIC CONSULTANT
+Line  73: DENCO
+Line  74: PROJECT MANAGER COST CONSULTANT
+Line  75: FAITHFUL GOULD
+Line  76: Archives
+Line  77: 75004 Paris France
+Line  78: 44 4900
+Line  79: 42 78 0198
+Line  80: Aristodimou Street
+Line  81: Athens, GR 76 Greece
+Line  82: 72
+Line  83: 72
+Line  84: Regent Street, Morley House
+Line  85: London, UK
+Line  86: 44 1000
+Line  87: 44 1001
+Line  88: Asklipiou Street
+Line  89: Athens, GR 72 Greece
+Line  90: 30026
+Line  91: 44631
+Line  92: Fitzroy Street
+Line  93: 44 755 2191
+Line  94: 44 755 3743
+Line  95: Thivaidos Street
+Line  96: Athens, GR Greece
+Line  97: 96700
+Line  98: 96709
+Line  99: Lafayette Street, Suite
+Line 100: York, NY 10012 USA
+Line 101: 1125
+Line 102: Skoufa Street
+Line 103: Athens, GR 72 Greece
+Line 104: 6219
+Line 105: 9225
+Line 106: Linton House
+Line 107: Highgate Road
+Line 108: London, UK
+Line 109: 44 7284 5888
+Line 110: Alexi
+Line 111: Elizabeth Street
+Line 112: South Norwalk, CT 06854 3025 USA
+Line 113: 0830
+Line 114: 0835
+Line 115: Americas
+Line 116: York, NY 10013 USA
+Line 117: 2669
+Line 118: 1056
+Line 119: Varick Street
+Line 120: York, NY 10014 USA
+Line 121: 2220
+Line 122: 2253
+Line 123: Kifisias
+Line 124: Athens, GR Greece
+Line 125: 54801
+Line 126: 54800
+Line 127: Paradisou Street
+Line 128: Athens, GR Greece
+Line 129: 15245
+Line 130: 11951
+Line 131: AMA Alexi Marmot Associates
+Line 132: IRRIGATION DESIGN
+Line 133: SOTIRIOS MAVRAGANIS
+Line 134: 42 Vasileos Georgiou Street
+Line 135: Athens, GR Greece
+Line 136: SIGNAGE DESIGN
+Line 137: PARTNERS
+Line 138: Street
+Line 139: NY 10003 York USA
+Line 140: 4460
+Line 141: DATE
+Line 142: DESCRIPTION
+Line 143: REV.
+Line 144: SIGNATURE
+Line 145: DRAWN
+Line 146: CHECKED
+Line 147: APPROVED
+Line 148: BY
+Line 149: 2
+Line 150: 4
+Line 151: BY
+Line 152: BY
+Line 153: 01
+Line 154: BOT.
+Line 155: VAV.
+Line 156: Messogeion Avenue, Athens, GR 11526 Greece
+Line 157: 68000, 68098
+Line 158: Vasilissis Sofias Avenue, Athens, GR 11528 Greece
+Line 159: 72 41311, 72 41312
+Line 160: JV STAMP
+Line 161: CONSULTANT STAMP
+Line 162: CONSTRUCTION
+Line 163: INFORMATION
+Line 164: CANCELED
+Line 165: SCALE
+Line 166: ISSUED
+Line 167: APPROVAL STATUS
+Line 168: INFORMATION
+Line 169: APPROVAL
+Line 170: REVIEW
+Line 171: REFERENCED DRAWING NUMBER
+Line 172: ER DESIGN DRAWING
+Line 173: SHOP DRAWING
+Line 174: BUILT
+Line 175: AUTHOR
+Line 176: DISCIPLINE
+Line 177: ZONE
+Line 178: DRWG TYPE
+Line 179: REV.
+Line 180: JVIT
+Line 181: QR CODE
+Line 182: MFS
+Line 183: 0018
+Line 184: 00
+Line 185: FIRST ISSUE DATE
+Line 186: CONSTRUCTION
+Line 187: ADDITIONAL DESIGN DRAWING
+Line 188: COMMENTS
+Line 189: COMMENTS
+Line 190: 2013
+Line 191: JVIT STATUS
+Line 192: Katsimpokis
+Line 193: OPERA
+Line 194: PLAN LEVEL 04
+Line 195: SPRINKLERS INSTALATION DUCTS
+Line 196: REAR SIDE STAGES
+
+=== END OF FILTERED TEXT ===
+Total lines: 197

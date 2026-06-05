@@ -1,0 +1,102 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-1011-0A_BUILDERS_WORK_MEP_PENETRATIONS_-_MMR_2.pdf ===
+
+Line   0: GL
+Line   1: CEILING LEVEL
+Line   2: 3935
+Line   3: MP AD 053 01
+Line   4: MMR 2
+Line   5: 00 053
+Line   6: CEILING LEVEL
+Line   7: YE
+Line   8: MMR 2
+Line   9: 00 053
+Line  10: GL
+Line  11: CEILING LEVEL
+Line  12: MMR 2
+Line  13: 00 053
+Line  14: 4100
+Line  15: 1700
+Line  16: MP AD 053 02
+Line  17: MP AD 053 03
+Line  18: 1011
+Line  19: 2
+Line  20: 1011
+Line  21: 1011
+Line  22: WALL REFER VAP AH 1008
+Line  23: MMR 2
+Line  24: 00 053
+Line  25: MEP PENETRATIONS CODE
+Line  26: MP AD XXX XX
+Line  27: MP
+Line  28: MEP PENETRATIONS
+Line  29: AD
+Line  30: BUILDING CODE
+Line  31: XXX
+Line  32: ROOM NUMBER
+Line  33: XX
+Line  34: PENETRATION NUMBER
+Line  35: ADMIN
+Line  36: COLO
+Line  37: COLO 2
+Line  38: 2
+Line  39: 4
+Line  40: 2
+Line  41: 4
+Line  42: TRUE NORTH
+Line  43: Sheet Title Number
+Line  44: Scale
+Line  45: Plan
+Line  46: Design Consultants
+Line  47: Microsoft
+Line  48: DATA CENTER
+Line  49: SPATA GREECE
+Line  50: Contractor Joint Venture
+Line  51: Name
+Line  52: Contractor Project
+Line  53: Contractor Contract
+Line  54: Contractor PM
+Line  55: Contractor BIM Mngr
+Line  56: Contractor Information
+Line  57: Renco Terna
+Line  58: Client
+Line  59: General Notes
+Line  60: Client Project
+Line  61: Client Contract
+Line  62: Client PM
+Line  63: Client BIM Mngr
+Line  64: Primary Client Information
+Line  65: Layout
+Line  66: Revision
+Line  67: Tombazi Chalandri
+Line  68: 15232
+Line  69: Athens Greece
+Line  70: 0800 3262
+Line  71: Agion Theodoron Square Athens
+Line  72: 10561
+Line  73: Athens Greece
+Line  74: Kimithois Agios Dimitrios
+Line  75: 17236
+Line  76: Athens Greece
+Line  77: Purpose Issue
+Line  78: Issue
+Line  79: Name
+Line  80: BUILDERS WORK MEP PENETRATIONS
+Line  81: MMR 2
+Line  82: VAP AH 1011
+Line  83: SCALE
+Line  84: 053 MMR 2 ELEVATION EAST MEP PENETRATIONS
+Line  85: SCALE
+Line  86: 053 MMR 2 ELEVATION SOUTH MEP PENETRATIONS
+Line  87: 2
+Line  88: SCALE
+Line  89: 053 MMR 2 ELEVATION WEST MEP PENETRATIONS
+Line  90: 1000
+Line  91: SCALE
+Line  92: Date
+Line  93: Description
+Line  94: 07
+Line  95: Issued Approval
+Line  96: VAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 97

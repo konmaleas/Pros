@@ -1,0 +1,19 @@
+18:08:02.482996 | /home/konstantinos/PycharmProjects/Pros/claude/v19/main_title_search.py:23 in debug_file()
+                  ict(): None
+                  args: ({'NCM-DD-ZZ-DR-ARC-3011-P4.pdf': 'NCM-DD-ΖΖ-DR-VAP-3011-P4',
+                          'NCM-DD-ZZ-DR-ARC-3012-P4.pdf': 'NCM-DD-ΖΖ-DR-VAP-3012-P3',
+                          'NCM-DD-ZZ-DR-ARC-3020-P1.pdf': 'NCM-DD-ΖΖ-DR-VAP-3020-P1',
+                          'NCM-DD-ZZ-DR-ARC-3021-P1.pdf': 'NCM-DD-ΖΖ-DR-ARC-3021-P1',
+                          'NCM-DD-ZZ-DR-ARC-3030-P4.pdf': 'NCM-DD-ΖΖ-DR-ARC-3030-P4',
+                          'NCM-DD-ZZ-DR-ARC-3031-P4.pdf': 'NCM-DD-ΖΖ-DR-ARC-3031-P4',
+                          'NCM-DD-ZZ-DR-ARC-3040-P4.pdf': 'NCM-DD-ZZ-DR-ARC-3040-P3',
+                          'NCM-DD-ZZ-DR-ARC-3041-P4.pdf': 'NCM-DD-ZZ-DR-ARC-3041-P2',
+                          'NCM-DD-ZZ-DR-ARC-3050-P1.pdf': 'NCM-DD-ZZ-DR-ARC-3050-P1',
+                          'NCM-DD-ZZ-DR-ARC-3051-P1.pdf': 'NCM-DD-ZZ-DR-ARC-3051-P1',
+                          'NCM-DD-ZZ-DR-ARC-3060-P1.pdf': 'NCM-DD-ZZ-DR-ARC-3060-P1',
+                          'NCM-DD-ZZ-DR-ARC-3061-P1.pdf': 'NCM-DD-ZZ-DR-ARC-3061-P1',
+                          'NCM-DD-ZZ-DR-ARC-3070-P1.pdf': 'NCM-DD-ZZ-DR-ARC-3070-P1',
+                          'NCM-DD-ZZ-DR-ARC-3071-P1.pdf': 'NCM-DD-ZZ-DR-ARC-3071-P1',
+                          'NCM-DD-ZZ-DR-ARC-3080-P1.pdf': 'NCM-DD-ZZ-DR-ARC-3080-P1',
+                          'NCM-DD-ZZ-DR-ARC-3081-P1.pdf': 'NCM-DD-ZZ-DR-ARC-3081-P1'},)
+                  'w': 'w'

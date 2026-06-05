@@ -1,0 +1,105 @@
+=== FILTERED TEXT FOR: Α0-000-01.pdf ===
+
+Line   0: 2
+Line   1: 2
+Line   2: 2
+Line   3: 2
+Line   4: 2
+Line   5: 2
+Line   6: 4
+Line   7: 2
+Line   8: 2
+Line   9: 4
+Line  10: 2
+Line  11: 4
+Line  12: 2
+Line  13: 4
+Line  14: 4
+Line  15: 2
+Line  16: 2
+Line  17: 4
+Line  18: 2
+Line  19: 4
+Line  20: 2
+Line  21: 4
+Line  22: 2
+Line  23: 4
+Line  24: 4
+Line  25: 2
+Line  26: 2
+Line  27: 4
+Line  28: 2
+Line  29: 4
+Line  30: 2
+Line  31: 2
+Line  32: 2
+Line  33: 2
+Line  34: 2
+Line  35: 2
+Line  36: 4
+Line  37: 4
+Line  38: 2
+Line  39: 2 2 2
+Line  40: 2 2 2
+Line  41: 4
+Line  42: 2
+Line  43: ΚΛΙΜΑΚΑ
+Line  44: ΚΑΤΗΓΟΡΙΑ
+Line  45: ΚΥΡΙΟΣ ΕΡΓΟΥ
+Line  46: ΕΡΓΟ
+Line  47: ΑΡΙΘΜΟΣ ΣΧΕΔΙΟΥ
+Line  48: ΗΜΕΡΟΜΗΝΙΑ ΜΕΛΕΤΗΣ
+Line  49: VAP ARCHITECTS
+Line  50: Ηπείρου Αθήνα Ελλάδα
+Line  51: 3262 3269
+Line  52: ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΜΕΛΕΤΗ
+Line  53: ΣΤΑΔΙΟ ΜΕΛΕΤΗΣ
+Line  54: Όλες
+Line  55: ΣΥΝΕΡΓΑΤΕΣ ΜΕΛΕΤΗΣ ΕΦΑΡΜΟΓΗΣ
+Line  56: ΚΛΕΙΔΑ
+Line  57: ΣΧΕΔΙΟ
+Line  58: HΜ ΝΙΑ ΣΧΕΔΙΟΥ
+Line  59: ΑΚΟΥΣΤΙΚΗ ΜΕΛΕΤΗ
+Line  60: ΜΕΛΕΤΗ ΦΩΤΙΣΜΟΥ
+Line  61: ΣΤΑΤΙΚΗ ΜΕΛΕΤΗ
+Line  62: ΜΗΧΑΝΟΛΟΓΙΚΗ ΜΕΛΕΤΗ
+Line  63: Ροστάν 44, 41, Αθήνα
+Line  64: 771, 2023
+Line  65: Σύμβουλοι Μηχανικοί
+Line  66: ΠΑΡΑΤΗΡΗΣΕΙΣ
+Line  67: ΕΡΕΙΣΜΑ
+Line  68: ΤΕΧΝΙΚΗ ΕΤΑΙΡΕΙΑ
+Line  69: Νάξου Κηφισιά
+Line  70: Παρασκευής Χαλάνδρι
+Line  71: 42 094,
+Line  72: IFI
+Line  73: INTRA ΞΕΝΟΔΟΧΕΙΑΚΗ
+Line  74: 2017 49
+Line  75: ΚΑΤΑΣΚΕΥΑΣΤΙΚΑ
+Line  76: ΑΝΑΚΑΤΑΣΚΕΥΗ ΞΕΝΟΔΟΧΕΙΟΥ
+Line  77: ΣΤΗΝ ΜΥΚΟΝΟ
+Line  78: ΟΚΤΩΒΡΙΟΣ 2016
+Line  79: ΜΕΛΕΤΗ ΕΦΑΡΜΟΓΗΣ
+Line  80: Πλατύς Γιαλός Μύκονος
+Line  81: ΚΑΤΟΨΗ
+Line  82: ΠΕΡΙΒΑΛΛΟΝΤΑ ΧΩΡΟΥ
+Line  83: 2016
+Line  84: 000 01
+Line  85: ΑΝΑΘΕΩΡΗΣΕΙΣ
+Line  86: ΠΕΡΙΓΡΑΦΗ
+Line  87: ΗΜ ΝΙΑ
+Line  88: 00
+Line  89: ΠΡΩΤΗ ΕΚΔΟΣΗ
+Line  90: 2016
+Line  91: 01
+Line  92: ΜΙΚΡΕΣ ΤΡΟΠΟΠΟΙΗΣΕΙΣ
+Line  93: 01 2017
+Line  94: 01 2017
+Line  95: 01
+Line  96: 01 2017
+Line  97: 01
+Line  98: 01 2017
+Line  99: 01
+
+=== END OF FILTERED TEXT ===
+Total lines: 100

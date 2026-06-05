@@ -1,0 +1,206 @@
+=== FILTERED TEXT FOR: NCM-DD-Β2-DR-ARC-4405-P0.pdf ===
+
+Line   0: Shaft
+Line   1: ΑΝΤΛΙΟΣΤΑΣΙΟ
+Line   2: WC
+Line   3: .00
+Line   4: 70
+Line   5: 40
+Line   6: 40
+Line   7: 40
+Line   8: 00
+Line   9: .40
+Line  10: 40
+Line  11: 40
+Line  12: 40
+Line  13: 40
+Line  14: 70
+Line  15: 40
+Line  16: 40
+Line  17: 40
+Line  18: 40
+Line  19: .40
+Line  20: 40
+Line  21: 70 00
+Line  22: 70 00
+Line  23: 70 1000
+Line  24: CCU
+Line  25: CCU
+Line  26: UPS
+Line  27: UPS
+Line  28: UPS
+Line  29: UPS
+Line  30: WC
+Line  31: WC AMEA
+Line  32: WC
+Line  33: 749
+Line  34: 2450
+Line  35: 1375
+Line  36: 2440
+Line  37: 760
+Line  38: 2400
+Line  39: 2550
+Line  40: 2400
+Line  41: 2550
+Line  42: 2400
+Line  43: ΑΝΘΥΓΡΗ
+Line  44: ΜΕ ΚΕΡΑΜΙΚΕΣ ΠΛΑΚΕΣ
+Line  45: ΕΡΜΑΡΙ
+Line  46: ΕΡΜΑΡΙ
+Line  47: 1150
+Line  48: 450
+Line  49: 2200
+Line  50: 2400
+Line  51: 2200
+Line  52: 2400
+Line  53: 1000
+Line  54: 450
+Line  55: 1050
+Line  56: 1050
+Line  57: 2200
+Line  58: 2400
+Line  59: ΑΝΘΥΓΡΗ
+Line  60: ΜΕ ΚΕΡΑΜΙΚΕΣ ΠΛΑΚΕΣ
+Line  61: WC
+Line  62: WC
+Line  63: 2400
+Line  64: 2400
+Line  65: 2450
+Line  66: 1955
+Line  67: 1969
+Line  68: 2440
+Line  69: ΑΝΘΥΓΡΗ
+Line  70: ΜΕ ΚΕΡΑΜΙΚΕΣ ΠΛΑΚΕΣ
+Line  71: WC ΤΥΠΟΥ ASSET SOEMA
+Line  72: GLASS ΣΕ HPL
+Line  73: ΤΟΙΧΟΥ ΜΕ ΚΕΡΑΜΙΚΕΣ
+Line  74: ΠΛΑΚΕΣ
+Line  75: ΤΟΙΧΟΥ ΜΕ ΚΕΡΑΜΙΚΕΣ
+Line  76: ΠΛΑΚΕΣ
+Line  77: ΑΝΘΥΓΡΗ
+Line  78: WC ΤΥΠΟΥ ASSET SOEMA
+Line  79: GLASS ΣΕ HPL
+Line  80: ΜΕ ΚΕΡΑΜΙΚΕΣ ΠΛΑΚΕΣ
+Line  81: ΕΝΤΟΙΧΙΣΜΕΝΗ ΛΕΚΑΝΗ
+Line  82: ΝΤΟΥΖ
+Line  83: ΝΤΟΥΖ
+Line  84: 2400
+Line  85: 2200
+Line  86: 1845
+Line  87: 400
+Line  88: 400
+Line  89: 700
+Line  90: 1100
+Line  91: 400
+Line  92: 700
+Line  93: 1100
+Line  94: 1845
+Line  95: 400
+Line  96: ΥΠΕΥΘΥΝΟΥ
+Line  97: ΗΜΕΡΟΜΗΝΙΑ
+Line  98: ONOMA
+Line  99: ΛΕΥΚΩΣΙΑ ΚΥΠΡΟΣ
+Line 100: ΝΕΟ ΚΥΠΡΙΑΚΟ ΜΟΥΣΕΙΟ
+Line 101: ΗΜΕΡΟΜΗΝΙΑ
+Line 102: ΕΓΚΡΙΘΗΚΕ
+Line 103: ΤΜΗΜ
+Line 104: ΗΜΕΡΟΜΗΝΙΑ
+Line 105: ΕΛΕΓΧΘΗΚΕ
+Line 106: ΤΜΗΜ
+Line 107: ΥΠΟΒΟΛΗ
+Line 108: ΑΡ.
+Line 109: ΥΠΟΥΡΓΕΙΟ ΜΕΤΑΦΟΡΩΝ, ΕΠΙΚΟΙΝΩΝΙΩΝ ΚΑΙ ΕΡΓΩΝ
+Line 110: ΤΜΗΜΑ ΕΡΓΩΝ
+Line 111: ΗΜΕΡΟΜΗΝΙΑ
+Line 112: ΠΕΡΙΕΧΟΜΕΝΟ
+Line 113: ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΜΕΛΕΤΗ
+Line 114: THEONI XANTHI XZA ARCHITECTS
+Line 115: ΥΠΕΥΘΥΝΟΣ ΕΡΓΟΥ
+Line 116: ΑΡΧΙΤΕΚΤΩΝ ΘΕΩΝΗ ΞΑΝΘΗ
+Line 117: ΣΥΝΕΡΓΑΤΕΣ ΑΡΧΙΤΕΚΤΟΝΕΣ
+Line 118: ΜΑΡΓΑΡΙΤΑ ΖΑΚΥΝΘΙΝΟΥ
+Line 119: ΣΥΝΤΟΝΙΣΤΗΣ ΑΡΧIT ΚΗΣ ΜΕΛΕΤΗΣ
+Line 120: ΚΟΣΜΑΣ ΒΑΡΚΑΡΟΛΗΣ
+Line 121: ΚΛΙΜΑΚ
+Line 122: DR ARC
+Line 123: NCM DD
+Line 124: ΜΕΛΕΤΗ ΕΦΑΡΜΟΓΗΣ DD
+Line 125: ΤΙΤΛΟΣ
+Line 126: ΕΡΓΑΣΙΑΣ
+Line 127: ΜΕΛΕΤΗΣ
+Line 128: ΑΡΧΙΤΕΚΤΟΝΙΚΗ
+Line 129: ΣΥΜΒΟΥΛΟΙ ΜΕΛΕΤΗΤΕΣ
+Line 130: ΚΑΤΑΛΛΗΛΟΤΗΤΑΣ
+Line 131: KEY
+Line 132: ΑΡΧΙΤΕΚΤΟΝΙΚΑ
+Line 133: YAP ARCHITECTS
+Line 134: ΣTATIK
+Line 135: RHOMBUS STRUCTURAL ENGINEERS LLC ΣΤ.
+Line 136: PENELIS CONSULTING ENGINEERS SA ΠΕΝΕΛΗΣ
+Line 137: GEORGHIOU ZEMBYLAS
+Line 138: ΜΗΧΑΝΟΛΟΓΙΚ
+Line 139: ΗΛΕΚΤΡΟΛΟΓΙΚ
+Line 140: ΜΟΥΣΕΙΟΛΟΓΙΚ
+Line 141: THETA ACOUSTICS LTD ΝΙΑΟΥΝΑΚΗΣ
+Line 142: ΑΚΟΥΣΤΙΚ
+Line 143: RODITIS PARTNERS
+Line 144: ΕΠΙΜΕΤΡΗΣΗ
+Line 145: ΠΟΣΟΤΗΤΩΝ
+Line 146: FLOROS PANTELI ASSOCIATES ΠΑΝΤΕΛΗ
+Line 147: ΥΓΕΙΑ
+Line 148: ΜΟΥΣΕΙΟΓΡΑΦΙΚ
+Line 149: ΘΩΜΑΣ
+Line 150: ΦΩΤΙΣΜΟΣ
+Line 151: DECO ASSOCIATES ΕΛ. ΝΤΕΚΩ
+Line 152: ΠΥΡΟΠΡΟΣΤΑΣΙ
+Line 153: INT FIRE CYPRUS LTD ΣΠ. ΣΠΥΡΟΥ
+Line 154: ΚΥΚΛΟΦΟΡΙΑΚ
+Line 155: DROMOS CONSULTING LTD ΖΕΚΚΟΣ
+Line 156: ΣΗΜΑΝΣΗ
+Line 157: POST SPECTACULAR OFFICE ΓΑΛΙΚΑΣ
+Line 158: ΚΤΗΡΙΟΥ
+Line 159: ARION PLUS
+Line 160: FEREOS ARCHITECTS LLC ΦΕΡΑΙΟΣ
+Line 161: Αναπλ. Υπεύθυνος Οµάδας Έργου
+Line 162: DROMOS CONSULTING LTD ΖΕΚΚΟΣ
+Line 163: ΓΕΩΤΕΧΝΙΚΑ
+Line 164: ΜΟΥΣΕΙΑΚΟΣ
+Line 165: XZA
+Line 166: ΒΑΣΙΛΕΙΟΥ
+Line 167: ΕΡΓΑΣΤΗΡΙ
+Line 168: VAP ARCHITECTS
+Line 169: Σύµβουλος Μελέτης Εφαρµογής
+Line 170: GEORGHIOU ZEMBYLAS
+Line 171: ANDREAS EVRIPIDOU CIVIL ENGINEERS
+Line 172: ΣΤΕΡΓΙΟΣ ΓΑΛΙΚΑΣ
+Line 173: ΘΩΜΑΣ
+Line 174: ΣΤΕΡΓΙΟΣ ΓΑΛΙΚΑΣ
+Line 175: Συνεργάτης ΤΣΑΜΠΙΚΟΣ ΠΕΤΡΑΣ
+Line 176: POST SPECTACULAR OFFICE ΓΑΛΙΚΑΣ
+Line 177: ΠΡΟΜΕΛΕΤΗ ΣΑΚΕΛΛΑΡΙΟΥ
+Line 178: ΦΥΣΙΚΟΣ
+Line 179: ΦΩΤΙΣΜΟΣ
+Line 180: ΤΣΑΓΚΡΑΣΟΥΛΗΣ
+Line 181: ΕΞΟΠΛΙΣΜΟΣ
+Line 182: ΚΟΥΖΙΝΑΣ
+Line 183: XENEX
+Line 184: ΕΝΕΡΓΕΙΑΚΑ
+Line 185: ΚΕΛΥΦΟΥΣ
+Line 186: METABUIL
+Line 187: ΓΡΑΦΙΣΤΙΚ
+Line 188: ΦΥΤΟΤΕΧΝΙΚ
+Line 189: LANDCO EΠΕ ΚΑΝΤΑΡΤΖΗΣ
+Line 190: ΦΕΒΡΟΥΑΡΙΟΣ 2021
+Line 191: P0
+Line 192: 2021 PM
+Line 193: 4405
+Line 194: ΑΝΑΠΤΥΓΜΑΤΑ ΧΩΡΩΝ
+Line 195: 4405
+Line 196: ΧΩΡΟΙ ΟΨΗ
+Line 197: ΧΩΡΟΙ ΟΨΗ
+Line 198: P0
+Line 199: ΦΕΒΡΟΥΑΡΙΟΣ 2021
+Line 200: Υποβολή
+
+=== END OF FILTERED TEXT ===
+Total lines: 201

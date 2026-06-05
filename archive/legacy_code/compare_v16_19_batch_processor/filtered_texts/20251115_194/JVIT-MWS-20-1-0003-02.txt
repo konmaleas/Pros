@@ -1,0 +1,208 @@
+=== FILTERED TEXT FOR: JVIT-MWS-20-1-0003-02.pdf ===
+
+Line   0: SSL
+Line   1: SSL
+Line   2: SSL
+Line   3: SSL
+Line   4: SSL
+Line   5: SSL
+Line   6: SSL
+Line   7: SSL
+Line   8: SSL
+Line   9: 70
+Line  10: 71
+Line  11: 72
+Line  12: 73
+Line  13: 74
+Line  14: 75
+Line  15: 76
+Line  16: 77
+Line  17: 78
+Line  18: GD
+Line  19: GE
+Line  20: GF
+Line  21: GG
+Line  22: GH
+Line  23: HA
+Line  24: HC
+Line  25: HD
+Line  26: HF
+Line  27: HG
+Line  28: HH
+Line  29: JA
+Line  30: JB
+Line  31: JC
+Line  32: JD
+Line  33: JE
+Line  34: JF
+Line  35: JG
+Line  36: JH
+Line  37: KA
+Line  38: KB
+Line  39: KC
+Line  40: HB
+Line  41: CONTINUATION SEE
+Line  42: JVIT MWS 0006
+Line  43: WSR
+Line  44: WATER SUPPLY INSTALLATION
+Line  45: OPERA UNDERCROFT DWG
+Line  46: JVIT MWS 0006
+Line  47: Synthetic
+Line  48: RPBW
+Line  49: RENZO PIANO BUILDING WORKSHOP
+Line  50: CONSULTANT
+Line  51: FRONT
+Line  52: ACOUSTIC DESIGN
+Line  53: ARUP Acoustics
+Line  54: THEATRE DESIGN CONSULTANT
+Line  55: THEATRE PROJECTS CONSULTANTS
+Line  56: LIBRARY CONSULTANT
+Line  57: LANDSCAPE DESIGN
+Line  58: DEBORAH NEVINS
+Line  59: Associates,
+Line  60: COLLABORATION
+Line  61: HELLI PANGALOU
+Line  62: MEP ENGINEER
+Line  63: ARUP
+Line  64: COLLABORATION
+Line  65: LDK
+Line  66: STRUCTURAL ENGINEER
+Line  67: EXPEDITION
+Line  68: COLLABORATION
+Line  69: OMETE
+Line  70: EXECUTIVE ARCHITECT
+Line  71: BETAPLAN
+Line  72: DESIGN ARCHITECT
+Line  73: TRAFFIC CONSULTANT
+Line  74: DENCO
+Line  75: PROJECT MANAGER COST CONSULTANT
+Line  76: FAITHFUL GOULD
+Line  77: Archives
+Line  78: 75004 Paris France
+Line  79: 44 4900
+Line  80: 42 78 0198
+Line  81: Aristodimou Street
+Line  82: Athens, GR 76 Greece
+Line  83: 72
+Line  84: 72
+Line  85: Regent Street, Morley House
+Line  86: London, UK
+Line  87: 44 1000
+Line  88: 44 1001
+Line  89: Asklipiou Street
+Line  90: Athens, GR 72 Greece
+Line  91: 30026
+Line  92: 44631
+Line  93: Fitzroy Street
+Line  94: 44 755 2191
+Line  95: 44 755 3743
+Line  96: Thivaidos Street
+Line  97: Athens, GR Greece
+Line  98: 96700
+Line  99: 96709
+Line 100: Lafayette Street, Suite
+Line 101: York, NY 10012 USA
+Line 102: 1125
+Line 103: Skoufa Street
+Line 104: Athens, GR 72 Greece
+Line 105: 6219
+Line 106: 9225
+Line 107: Linton House
+Line 108: Highgate Road
+Line 109: London, UK
+Line 110: 44 7284 5888
+Line 111: Alexi
+Line 112: Elizabeth Street
+Line 113: South Norwalk, CT 06854 3025 USA
+Line 114: 0830
+Line 115: 0835
+Line 116: Americas
+Line 117: York, NY 10013 USA
+Line 118: 2669
+Line 119: 1056
+Line 120: Varick Street
+Line 121: York, NY 10014 USA
+Line 122: 2220
+Line 123: 2253
+Line 124: Kifisias
+Line 125: Athens, GR Greece
+Line 126: 54801
+Line 127: 54800
+Line 128: Paradisou Street
+Line 129: Athens, GR Greece
+Line 130: 15245
+Line 131: 11951
+Line 132: AMA Alexi Marmot Associates
+Line 133: IRRIGATION DESIGN
+Line 134: SOTIRIOS MAVRAGANIS
+Line 135: 42 Vasileos Georgiou Street
+Line 136: Athens, GR Greece
+Line 137: DATE
+Line 138: DESCRIPTION
+Line 139: REV.
+Line 140: SIGNATURE
+Line 141: DRAWN
+Line 142: CHECKED
+Line 143: APPROVED
+Line 144: Messogeion Avenue, Athens, GR 11526 Greece
+Line 145: 68000, 68098
+Line 146: Vasilissis Sofias Avenue, Athens, GR 11528 Greece
+Line 147: 72 41311, 72 41312
+Line 148: JV STAMP
+Line 149: CONSULTANT STAMP
+Line 150: CONSTRUCTION
+Line 151: INFORMATION
+Line 152: CANCELED
+Line 153: SCALE
+Line 154: ISSUED
+Line 155: APPROVAL STATUS
+Line 156: INFORMATION
+Line 157: APPROVAL
+Line 158: REVIEW
+Line 159: REFERENCED DRAWING NUMBER
+Line 160: ER DESIGN DRAWING
+Line 161: SHOP DRAWING
+Line 162: BUILT
+Line 163: AUTHOR
+Line 164: DISCIPLINE
+Line 165: ZONE
+Line 166: DRWG TYPE
+Line 167: REV.
+Line 168: JVIT
+Line 169: QR CODE
+Line 170: FIRST ISSUE DATE
+Line 171: CONSTRUCTION
+Line 172: ADDITIONAL DESIGN DRAWING
+Line 173: COMMENTS
+Line 174: COMMENTS
+Line 175: JVIT STATUS
+Line 176: Library
+Line 177: Zone
+Line 178: Library
+Line 179: Zone 2
+Line 180: Library
+Line 181: Zone
+Line 182: Notes
+Line 183: JVIT MEP 00 0001, JVIT MEP 00 0002
+Line 184: JVIT ELC 00 0001, JVIT ELC 00 0002
+Line 185: JVIT ELC 00 0003
+Line 186: ICT
+Line 187: JVIT MEP 00 0003
+Line 188: 2015
+Line 189: ELTEME
+Line 190: ROB.
+Line 191: VAV.
+Line 192: RENISION 2011 BUILDING PERMIT DUE MINOR AMENDENTS
+Line 193: 02
+Line 194: JVIT MWS 0002
+Line 195: JVIT MWS 0001
+Line 196: 02
+Line 197: MWS
+Line 198: 2015
+Line 199: LIBRARY
+Line 200: WATER SUPPLY
+Line 201: PLAN LEVEL
+Line 202: Zone
+
+=== END OF FILTERED TEXT ===
+Total lines: 203

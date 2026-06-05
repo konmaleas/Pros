@@ -1,0 +1,354 @@
+=== FILTERED TEXT FOR: ATH04-056-SH-106-00.pdf ===
+
+Line   0: LEGEND
+Line   1: TOP REBAR, DIRECTION
+Line   2: TOP REBAR, DIRECTION 2
+Line   3: BOTTOM REBAR, DIRECTION
+Line   4: BOTTOM REBAR, DIRECTION 2
+Line   5: STIRRUP REBAR, DIRECTION
+Line   6: STIRRUP REBAR, DIRECTION 2
+Line   7: SB SIDE BAR
+Line   8: DB DOWEL BAR
+Line   9: REBAR DIRECTIONS
+Line  10: 2
+Line  11: Dowel Bars Long Hook
+Line  12: COLOR CODE
+Line  13: PILE CAPS REINFORCEMENT
+Line  14: Dowel Bars Short Hook
+Line  15: Tension Bars
+Line  16: SB,
+Line  17: SB,
+Line  18: SB
+Line  19: SB
+Line  20: 4
+Line  21: XA
+Line  22: SB
+Line  23: SB
+Line  24: 4
+Line  25: XA
+Line  26: DB
+Line  27: DB
+Line  28: DB
+Line  29: SB
+Line  30: SB
+Line  31: SB
+Line  32: SB
+Line  33: DB,
+Line  34: DB
+Line  35: Location
+Line  36: Tube
+Line  37: Location
+Line  38: Tube
+Line  39: SB
+Line  40: SB
+Line  41: DB,
+Line  42: DB,
+Line  43: DB
+Line  44: DB
+Line  45: Location
+Line  46: Tube
+Line  47: XA
+Line  48: DB
+Line  49: DB
+Line  50: DB
+Line  51: XF
+Line  52: SB
+Line  53: SB
+Line  54: SB,
+Line  55: SB,
+Line  56: XA
+Line  57: XF
+Line  58: DB,
+Line  59: DB
+Line  60: SB
+Line  61: SB
+Line  62: Location
+Line  63: Tube
+Line  64: Location
+Line  65: Tube
+Line  66: SB
+Line  67: SB
+Line  68: Location
+Line  69: Tube
+Line  70: XA
+Line  71: SB
+Line  72: SB
+Line  73: SB
+Line  74: SB
+Line  75: Location
+Line  76: Tube
+Line  77: SB
+Line  78: SB
+Line  79: SB
+Line  80: SB
+Line  81: Location
+Line  82: Tube
+Line  83: ADMIN
+Line  84: COLO
+Line  85: COLO 2
+Line  86: 2
+Line  87: 4
+Line  88: 2
+Line  89: 4
+Line  90: TRUE NORTH
+Line  91: Microsoft
+Line  92: ENGINEERING CONSULTANT
+Line  93: ΣΥΜΒΟΥΛΟΣ ΜΕΛΕΤΗΤΗΣ
+Line  94: CERTIFIED ENGINEER
+Line  95: ΑΔΕΙΟΥΧΟΣ ΜΗΧΑΝΙΚΟΣ
+Line  96: SUPPLIER DOCUMENT NUMBER
+Line  97: ΚΩΔΙΚΟΣ ΣΧΕΔΙΟΥ ΠΡΟΜΗΘΕΥΤΗ
+Line  98: REVISION
+Line  99: ΑΝΑΘΕΩΡΗΣΗ
+Line 100: 00
+Line 101: Karra
+Line 102: Xenopoulos
+Line 103: ΣΥΝΤΑΚΤΗΣ
+Line 104: ΕΛΕΓΧΘΗΚΕ
+Line 105: ΕΓΚΡΙΘΗΚΕ
+Line 106: ΗΜΕΡΟΜΗΝΙΑ
+Line 107: ΑΝΑΘ.
+Line 108: ΣΗΜΕΙΩΣΕΙΣ ΠΕΡΙΓΡΑΦΗ
+Line 109: PREPAR
+Line 110: VERIFY
+Line 111: APROVAL
+Line 112: DATE
+Line 113: REV.
+Line 114: REMARK DESCRIPTION
+Line 115: PROJECT TITLE
+Line 116: TAG NUMBERS
+Line 117: ΕΤΙΚΕΤΑΣ
+Line 118: DATA CENTER
+Line 119: DRAWING TITLE
+Line 120: DRAWING
+Line 121: ΑΡΙΘΜΟΣ ΣΧΕΔΙΟΥ
+Line 122: SCALE
+Line 123: ΚΛΙΜΑΚΑ
+Line 124: FORMAT
+Line 125: ΜΟΡΦΗ
+Line 126: FACILITY CODE
+Line 127: ΚΩΔ. ΕΓΚΑΤΑΣ.
+Line 128: SYSTEM
+Line 129: ΣΥΣΤΗΜΑΤΟΣ
+Line 130: SHEET
+Line 131: ΦΥΛΛΟ
+Line 132: RD CODE
+Line 133: ΚΩΔΙΚΟΣ RD
+Line 134: REVISION
+Line 135: ΑΝΑΘΕΩΡ.
+Line 136: ATH 04
+Line 137: JVRT
+Line 138: Koukouselis
+Line 139: Civil Engineer
+Line 140: Structural Engineer
+Line 141: Απόστολος Κουκουσέλης
+Line 142: Πολιτικός Μηχανικός
+Line 143: Πολιτικός Μηχανικός
+Line 144: PILE FOUNDATION ADMINISTRATION
+Line 145: BALLARD BUILDING
+Line 146: ΤΙΤΛΟΣ ΕΡΓΟΥ
+Line 147: ΤΙΤΛΟΣ ΣΧΕΔΙΟΥ
+Line 148: GENERAL NOTES CONSTRUCTION
+Line 149: STATIKI SA Structural Project Specification Architectural,
+Line 150: Civil, Mechanical Electrical General Notes 000
+Line 151: Refer
+Line 152: STATIKI SA
+Line 153: Work
+Line 154: Statutory Authorities.
+Line 155: CAST SITU CONCRETE
+Line 156: Cast Project Specification Greek Hellenic Code
+Line 157: Concrete Technology 2016 KTS 2016 ΤΠ 1501 01 01 01 00. Concrete
+Line 158: Summary Project Specification
+Line 159: Pile
+Line 160: Exposure EN
+Line 161: Concrete 45
+Line 162: Blinding
+Line 163: Concrete
+Line 164: Blinding
+Line 165: Ground
+Line 166: Exposure EN
+Line 167: Concrete 45
+Line 168: External
+Line 169: Exposure EN
+Line 170: Concrete
+Line 171: Refer Civil Specification
+Line 172: Cover Reinforcement Design Drawings.
+Line 173: Internal
+Line 174: Reinforcement
+Line 175: High EN 10080 Greek
+Line 176: KTX 2008
+Line 177: Lengths EN 1992
+Line 178: Spacers
+Line 179: Sufficient
+Line 180: Cover
+Line 181: Chairs,
+Line 182: Spacers
+Line 183: Spacers
+Line 184: Concrete Finishes EN 13670
+Line 185: Basic, Ordinary, Plain Special. Finishes
+Line 186: Concealed Ordinary Finish
+Line 187: Concealed Ordinary Finish
+Line 188: Exposed Plain Finish
+Line 189: Exposed Plain Finish
+Line 190: Internal, External,
+Line 191: Floors Floor Class Technical
+Line 192: Report Concrete Industrial Ground Floors Guide Design Construction Concrete Society.
+Line 193: Concrete Hellenic Code Concrete Technology 2016 KTS 2016 ΤΠ 1501 01 01 01 00.
+Line 194: Exposed
+Line 195: Architect Floor Finishes Drawing Project Specification
+Line 196: Concrete Hellenic Code Concrete Technology 2016 KTS 2016 TΠ
+Line 197: 1501 01 01 02 00.
+Line 198: Steelwork
+Line 199: Contractor Concrete Contractor.
+Line 200: Concrete EN 12350
+Line 201: EN EN 12390. 4
+Line 202: 2
+Line 203: Samples Density
+Line 204: LOT EN ISO IEC 17025
+Line 205: Engineer
+Line 206: Engineer Contractor
+Line 207: EN 12350 2, EN
+Line 208: 12350 EN 12350
+Line 209: 4. MOVEMENT CONSTRUCTION JOINTS
+Line 210: Movement Ground Floor
+Line 211: Peikko TERAJOINT Movement
+Line 212: Ground Floor
+Line 213: Isolation
+Line 214: Contractor
+Line 215: 2. EARTHWORKS FOUNDATIONS
+Line 216: Earthworks Project Specifications
+Line 217: Civil Geotechnical
+Line 218: Granular
+Line 219: 03
+Line 220: 04
+Line 221: Refer Project Specification
+Line 222: Ground Floor Ground Floor
+Line 223: Property
+Line 224: Property
+Line 225: Floor
+Line 226: Typical Floor
+Line 227: Property
+Line 228: Retail
+Line 229: Reach
+Line 230: Reach
+Line 231: COLO 2 Pile Reinforcement
+Line 232: Cases
+Line 233: 056 SH
+Line 234: 056 SH 00
+Line 235: Κτίρια 2 Ανάπτυγματα
+Line 236: 00
+Line 237: 00
+Line 238: PILE CAP
+Line 239: IFA ISSUED APPROVAL
+Line 240: 02 2025
+Line 241: Bottom Rebars
+Line 242: Rebars
+Line 243: Dowel Rebars
+Line 244: Section
+Line 245: Section
+Line 246: Section 2
+Line 247: REINFORCEMENT SCHEDULE
+Line 248: Partition
+Line 249: Rebar
+Line 250: Number
+Line 251: Rebar
+Line 252: Number
+Line 253: Suffix
+Line 254: Bending Detail
+Line 255: Length Quantity Total Length
+Line 256: Weight
+Line 257: 01
+Line 258: 02
+Line 259: 03
+Line 260: 04
+Line 261: 05
+Line 262: 07
+Line 263: REINFORCEMENT
+Line 264: SCHEDULE TOTALS
+Line 265: Diameter
+Line 266: Total Length
+Line 267: Weight
+Line 268: Totals
+Line 269: Dowel Rebars
+Line 270: Section
+Line 271: Bottom Rebars
+Line 272: Rebars
+Line 273: Section 2
+Line 274: Section 2
+Line 275: REINFORCEMENT SCHEDULE
+Line 276: Partition
+Line 277: Rebar
+Line 278: Number
+Line 279: Rebar
+Line 280: Number
+Line 281: Suffix
+Line 282: Bending Detail
+Line 283: Length Quantity Total Length
+Line 284: Weight
+Line 285: 01
+Line 286: 02
+Line 287: 04
+Line 288: 05
+Line 289: 06
+Line 290: 08
+Line 291: 09
+Line 292: REINFORCEMENT
+Line 293: SCHEDULE TOTALS
+Line 294: Diameter
+Line 295: Total Length
+Line 296: Weight
+Line 297: Totals
+Line 298: SUPPLEMENTARY TENSION REINFORCEMENT
+Line 299: Partition
+Line 300: Rebar
+Line 301: Number
+Line 302: Rebar
+Line 303: Number
+Line 304: Suffix
+Line 305: Bending Detail
+Line 306: Length Quantity Total Length
+Line 307: Weight
+Line 308: 06
+Line 309: Bottom Rebars
+Line 310: Rebars
+Line 311: Section
+Line 312: Section 2
+Line 313: REINFORCEMENT SCHEDULE
+Line 314: Partition
+Line 315: Rebar
+Line 316: Number
+Line 317: Rebar
+Line 318: Number
+Line 319: Suffix
+Line 320: Bending Detail
+Line 321: Length Quantity Total Length
+Line 322: Weight
+Line 323: 4
+Line 324: 40
+Line 325: 41
+Line 326: 4
+Line 327: 42
+Line 328: 43
+Line 329: 44
+Line 330: REINFORCEMENT
+Line 331: SCHEDULE TOTALS
+Line 332: Diameter
+Line 333: Total Length
+Line 334: Weight
+Line 335: Totals
+Line 336: PILE CAPS
+Line 337: PILE CAPS
+Line 338: Markellos
+Line 339: NOTE
+Line 340: Pile 056 SH
+Line 341: Pile 056 SH
+Line 342: Pile 056 SH
+Line 343: Pile 056 SH
+Line 344: Pile 056 SH
+Line 345: Pile 056 SH
+Line 346: Pile 056 SH
+Line 347: NOTE
+Line 348: Pile 056 SH
+
+=== END OF FILTERED TEXT ===
+Total lines: 349

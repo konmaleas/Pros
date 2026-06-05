@@ -1,0 +1,51 @@
+=== FILTERED TEXT FOR: A0-0805-00.pdf ===
+
+Line   0: 2
+Line   1: 4
+Line   2: 2
+Line   3: 4
+Line   4: FLOATING DECK
+Line   5: STAIR
+Line   6: LEVEL
+Line   7: LEVEL
+Line   8: TOC
+Line   9: TW
+Line  10: TOC
+Line  11: TW
+Line  12: DATE
+Line  13: 2 2 2
+Line  14: 2 2 2
+Line  15: 4
+Line  16: 2
+Line  17: ARCHITECTURAL DESIGN
+Line  18: CLIENT
+Line  19: PROJECT
+Line  20: KAPLANKAYA
+Line  21: BEACH PARK
+Line  22: IMPLEMENTATION STUDY
+Line  23: DESIGN STAGE
+Line  24: DATE
+Line  25: SCALE
+Line  26: FILE NAME
+Line  27: DRAWING TITLE
+Line  28: DRAWING
+Line  29: Epirou Street
+Line  30: Athens, GR Greece
+Line  31: 3262
+Line  32: 3269
+Line  33: IMPLEMENTATION STUDY CONSULTANT
+Line  34: LIGHTING DESIGN
+Line  35: CONSULTANTS
+Line  36: KEY PLAN
+Line  37: REVISIONS
+Line  38: NO.
+Line  39: DESCRIPTION
+Line  40: 2016 03
+Line  41: 1601 0805 00
+Line  42: LANDSCAPE
+Line  43: STAIR
+Line  44: PLANS, SECTIONS DETAILS
+Line  45: 0805 00
+
+=== END OF FILTERED TEXT ===
+Total lines: 46

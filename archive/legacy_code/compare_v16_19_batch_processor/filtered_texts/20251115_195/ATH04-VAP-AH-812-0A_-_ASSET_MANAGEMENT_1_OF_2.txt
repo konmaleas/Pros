@@ -1,0 +1,183 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-812-0A_-_ASSET_MANAGEMENT_1_OF_2.pdf ===
+
+Line   0: ASSET
+Line   1: MANAGEMENT
+Line   2: 00 047
+Line   3: 1280
+Line   4: WT
+Line   5: 733
+Line   6: 2
+Line   7: 733
+Line   8: 731
+Line   9: YE
+Line  10: INTERFACE
+Line  11: UNITY INTERNAL CARPET
+Line  12: GRAPHITE
+Line  13: GRAPHITE CIRCLE
+Line  14: ID AD 044
+Line  15: LT 2
+Line  16: WT
+Line  17: 2850
+Line  18: 1183
+Line  19: 10225
+Line  20: WT
+Line  21: 1537
+Line  22: 7142
+Line  23: LT 2
+Line  24: 1955
+Line  25: 1832
+Line  26: 4
+Line  27: 1050
+Line  28: 1230
+Line  29: 1230
+Line  30: 1050
+Line  31: 1050
+Line  32: 1140
+Line  33: 1050
+Line  34: 1050
+Line  35: 1050
+Line  36: 1527
+Line  37: 1055
+Line  38: 1050
+Line  39: 1050
+Line  40: 1050
+Line  41: 1050
+Line  42: INTERIOR STEEL FRAME
+Line  43: FIXED WINDOW ACHIEVE
+Line  44: ACOUSTIC FIRE REI
+Line  45: RATING
+Line  46: INTERIOR ALUMINIUM FIXED
+Line  47: WINDOW ACHIEVE
+Line  48: ACOUSTIC RATING
+Line  49: GL
+Line  50: CEILING LEVEL
+Line  51: 3500
+Line  52: ASSET
+Line  53: MANAGEMENT
+Line  54: 00 047
+Line  55: CEILING TYPE 04 ARMSTRONG
+Line  56: PRIMA DUNE
+Line  57: ASSOCIATED GRID SUPPORT
+Line  58: 3500
+Line  59: LT 2
+Line  60: INTERIOR ALUMINIUM FIXED
+Line  61: WINDOW ACHIEVE
+Line  62: ACOUSTIC RATING
+Line  63: SOLID TIMBER SKIRTING,
+Line  64: PAINTED WHITE DAIMOND
+Line  65: SATINWOOD RAL 9016
+Line  66: PAINTED GYPSUM BOARD
+Line  67: WALLS, COAT PRIMER 2
+Line  68: COATS DIAMOND MATT LATEXT
+Line  69: FINISH RAL 9010 PURE
+Line  70: WHITE
+Line  71: LT 2
+Line  72: LT 2
+Line  73: WT
+Line  74: INTERFACE
+Line  75: UNITY INTERNAL CARPET
+Line  76: GRAPHITE
+Line  77: GRAPHITE CIRCLE
+Line  78: NOTE
+Line  79: WALL TYPE LEGEND DRAWING
+Line  80: ADMIN
+Line  81: COLO
+Line  82: COLO 2
+Line  83: 2
+Line  84: 4
+Line  85: 2
+Line  86: 4
+Line  87: TRUE NORTH
+Line  88: Sheet Title Number
+Line  89: Scale
+Line  90: Plan
+Line  91: Design Consultants
+Line  92: Microsoft
+Line  93: DATA CENTER
+Line  94: SPATA GREECE
+Line  95: Contractor Joint Venture
+Line  96: Name
+Line  97: Contractor Project
+Line  98: Contractor Contract
+Line  99: Contractor PM
+Line 100: Contractor BIM Mngr
+Line 101: Contractor Information
+Line 102: Renco Terna
+Line 103: Client
+Line 104: General Notes
+Line 105: Client Project
+Line 106: Client Contract
+Line 107: Client PM
+Line 108: Client BIM Mngr
+Line 109: Primary Client Information
+Line 110: Layout
+Line 111: Revision
+Line 112: Tombazi Chalandri
+Line 113: 15232
+Line 114: Athens Greece
+Line 115: 0800 3262
+Line 116: Agion Theodoron Square Athens
+Line 117: 10561
+Line 118: Athens Greece
+Line 119: Kimithois Agios Dimitrios
+Line 120: 17236
+Line 121: Athens Greece
+Line 122: Purpose Issue
+Line 123: Issue
+Line 124: Name
+Line 125: ASSET MANAGEMENT 2
+Line 126: VAP AH
+Line 127: SCALE
+Line 128: 09 ASSET MANAGEMENT FLOOR PLAN
+Line 129: SCALE
+Line 130: 09 ASSET MANAGEMENT VIEW
+Line 131: 1000
+Line 132: SCALE
+Line 133: SCALE
+Line 134: 09 ASSET MANAGEMENT ELEVATION EAST
+Line 135: EQUIPMENT SCHEDULE ASSET MANAGEMENT
+Line 136: Count
+Line 137: CODE
+Line 138: Description
+Line 139: Room Name
+Line 140: Room Number
+Line 141: SLIM JIM BINS
+Line 142: ASSET MANAGEMENT
+Line 143: 00 047
+Line 144: 4
+Line 145: TASK CHAIR LUMBAR SUPPORT
+Line 146: ARMS
+Line 147: ASSET MANAGEMENT
+Line 148: 00 047
+Line 149: PHOTO COPIER PRINTER
+Line 150: ASSET MANAGEMENT
+Line 151: 00 047
+Line 152: 4
+Line 153: CPU HOLDER
+Line 154: ASSET MANAGEMENT
+Line 155: 00 047
+Line 156: 4
+Line 157: HEIGHT ADJUSTABLE
+Line 158: RECTANGULAR DESK
+Line 159: ASSET MANAGEMENT
+Line 160: 00 047
+Line 161: FLOORSTANDING WATER DISPENSER
+Line 162: BASE CABINET
+Line 163: ASSET MANAGEMENT
+Line 164: 00 047
+Line 165: 4
+Line 166: KEYBOARD MOUSE
+Line 167: ASSET MANAGEMENT
+Line 168: 00 047
+Line 169: 4
+Line 170: LCD Monitor
+Line 171: ASSET MANAGEMENT
+Line 172: 00 047
+Line 173: Date
+Line 174: Description
+Line 175: 04
+Line 176: Issued Approval
+Line 177: VAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 178

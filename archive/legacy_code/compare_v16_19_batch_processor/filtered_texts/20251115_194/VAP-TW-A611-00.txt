@@ -1,0 +1,317 @@
+=== FILTERED TEXT FOR: VAP-TW-A611-00.pdf ===
+
+Line   0: REF.
+Line   1: Level
+Line   2: Level
+Line   3: Level
+Line   4: Level 2
+Line   5: Level
+Line   6: 4
+Line   7: 2
+Line   8: 4
+Line   9: 2
+Line  10: 4
+Line  11: 4
+Line  12: WC
+Line  13: WC
+Line  14: WC
+Line  15: KITCHENETTE
+Line  16: WC
+Line  17: EQ
+Line  18: EQ
+Line  19: EQ
+Line  20: EQ
+Line  21: Floor
+Line  22: Floor
+Line  23: Wall Mounted Toilet Brush Holder
+Line  24: Wall
+Line  25: Flush Plate
+Line  26: Paper Holder
+Line  27: Soap Dispenser
+Line  28: Wall Mirror
+Line  29: Paper Towel Dispenser
+Line  30: Waste
+Line  31: Washbasin
+Line  32: Integrated Siphon
+Line  33: Cover
+Line  34: Waste
+Line  35: EQ
+Line  36: EQ
+Line  37: EQ
+Line  38: EQ
+Line  39: Floor
+Line  40: 4
+Line  41: 4
+Line  42: 4
+Line  43: 4
+Line  44: 4
+Line  45: 4
+Line  46: 4
+Line  47: 4
+Line  48: Wall
+Line  49: Ceramic Wall Tiles
+Line  50: Ceramic Wall Tiles
+Line  51: Wall
+Line  52: EQ
+Line  53: EQ
+Line  54: Waste
+Line  55: Flush Plate
+Line  56: 4
+Line  57: 4
+Line  58: EQ
+Line  59: EQ
+Line  60: EQ
+Line  61: EQ
+Line  62: Paper Holder
+Line  63: Washbasin
+Line  64: Integrated Siphon
+Line  65: Cover
+Line  66: Wall
+Line  67: Paper Towel Dispenser
+Line  68: Wall Mirror
+Line  69: Soap Dispenser
+Line  70: Waste
+Line  71: Flush Plate
+Line  72: EQ
+Line  73: EQ
+Line  74: Wall
+Line  75: Ceramic Wall Tiles
+Line  76: Ceramic Wall Tiles
+Line  77: EQ
+Line  78: EQ
+Line  79: 4
+Line  80: 4
+Line  81: Paper Towel Dispenser
+Line  82: Washbasin
+Line  83: Integrated Siphon
+Line  84: Cover
+Line  85: Waste
+Line  86: Wall Mirror
+Line  87: Ceramic Wall Tiles
+Line  88: Exit Sign
+Line  89: 4
+Line  90: Ceramic Wall Tiles
+Line  91: Soap Dispenser
+Line  92: Wall Mirror
+Line  93: Washbasin
+Line  94: Integrated Siphon
+Line  95: Cover
+Line  96: 4
+Line  97: Ceramic Wall Tiles
+Line  98: 4
+Line  99: EQ
+Line 100: EQ
+Line 101: EQ
+Line 102: EQ
+Line 103: EQ
+Line 104: EQ
+Line 105: EQ
+Line 106: EQ
+Line 107: Ceramic Wall Tiles
+Line 108: Flush Plate
+Line 109: Wall Mounted Toilet Brush Holder
+Line 110: Wall
+Line 111: Paper Holder
+Line 112: Waste
+Line 113: 4
+Line 114: Ceramic Wall Tiles
+Line 115: Ceramic Wall Tiles
+Line 116: Ceramic Wall Tiles
+Line 117: 4
+Line 118: 4
+Line 119: WC
+Line 120: WC
+Line 121: WC
+Line 122: WC
+Line 123: KITCHENETTE
+Line 124: Exit
+Line 125: Sign
+Line 126: Exit
+Line 127: Sign
+Line 128: 4
+Line 129: 4
+Line 130: 4
+Line 131: 4
+Line 132: 4
+Line 133: 4
+Line 134: 4
+Line 135: 4
+Line 136: 4
+Line 137: 4
+Line 138: 4
+Line 139: 4
+Line 140: 4
+Line 141: 4
+Line 142: Reception
+Line 143: SF
+Line 144: ROOM NUMBER
+Line 145: ROOM NAME
+Line 146: ROOM AREA
+Line 147: DOOR NUMBER
+Line 148: DOOR TYPE
+Line 149: ROUGH WIDTH WIDTH
+Line 150: DOOR HIGHT
+Line 151: WINDOW NUMBER
+Line 152: WINDOW TYPE
+Line 153: WINDOW HEIGHT
+Line 154: WINDOW SILL
+Line 155: WINDOW WIDTH
+Line 156: MASONRY
+Line 157: STRUCTURAL ELEMENTS
+Line 158: GENERAL ELEVATION SYMBOL
+Line 159: INTERNAL ELEVATION SYMBOL
+Line 160: GENERAL SECTION SYMBOL
+Line 161: DETAIL TAG
+Line 162: DETAIL TAG
+Line 163: FINISH FLOOR LEVEL
+Line 164: FLOOR TYPE
+Line 165: FFL
+Line 166: SSL
+Line 167: STRUCTURAL SLAB LEVEL
+Line 168: GENERAL SYMBOLS
+Line 169: TILES STARTING POINT
+Line 170: 2
+Line 171: FINISH SAME
+Line 172: WALLS ROOM
+Line 173: 2
+Line 174: CHANGE FINISH
+Line 175: ROOM
+Line 176: 2
+Line 177: CURTAIN NUMBER
+Line 178: ROOM AXIS
+Line 179: FALSE CEILING FIXTURE AXIS
+Line 180: FALSE CEILING BORDER
+Line 181: REPRESENTING
+Line 182: DIFFERENT HEIGHTS
+Line 183: LUMINAIRE UNITS SIZE
+Line 184: DIFFER ACCORDINGLY
+Line 185: LIGHTING DESIGN
+Line 186: SUPPLY AIR REGISTERS
+Line 187: FAN COIL UNITS
+Line 188: RETURN REGISTERS
+Line 189: DIFFUSERS
+Line 190: ACCESS PANELS
+Line 191: LOUDSPEAKERS
+Line 192: MICROPHONE CAMERA
+Line 193: SPRINKLER
+Line 194: EXPOSED SPRINKLER PIPING
+Line 195: NOVEC NOZZLE
+Line 196: ΑΚΡΟΦΥΣΙΟ ΤΥΠΟΥ NOVEC
+Line 197: FIRE ALARM UNITS
+Line 198: MOTION PRESENCE SENSORS
+Line 199: CEILING TILE
+Line 200: STARTING POINT SYMBOL
+Line 201: FAN COIL UNITS TYPE CASSETTE
+Line 202: CEILING TYPE CLEAR HEIGHT
+Line 203: ROOM
+Line 204: 000
+Line 205: CEILING SYMBOLS
+Line 206: SIGN
+Line 207: EMERGENCY EXIT ALARM
+Line 208: SIGN LEGEND
+Line 209: CEILING TYPE STRUCTURE
+Line 210: GYPSUM BOARD FALSE CEILING
+Line 211: MOISTURE RESISTANT GYPSUM FALSE
+Line 212: CEILING
+Line 213: ACOUSTIC GYPSUM BOARD FALSE
+Line 214: CEILING
+Line 215: MINERAL FIBRE TILES
+Line 216: EXPOSED CONCRETE SLAB
+Line 217: PAINTED PLASTER CONCRETE SLAB
+Line 218: THERMAL INSULATION FIXED
+Line 219: SLAB
+Line 220: SCREED FLOOR
+Line 221: MARBLE FINISH TYPE
+Line 222: SCREED FLOOR
+Line 223: MARBLE FINISH TYPE
+Line 224: SCREED FLOOR
+Line 225: MARBLE FINISH TYPE
+Line 226: SCREED FLOOR AT STAIRS
+Line 227: MARBLE FINISH TYPE
+Line 228: SCREED FLOOR
+Line 229: CERAMIC TILES FINISH WC
+Line 230: SCREED FLOOR
+Line 231: CERAMIC TILES FINISH
+Line 232: SCREED FLOOR
+Line 233: EPOXY PAINT FINISH
+Line 234: SCREED FLOOR
+Line 235: THERMAL INSULATION CEMENT
+Line 236: SCREED TILES FINISH
+Line 237: FLOOR FINISH OTHERS
+Line 238: FLOOR TYPES FINISHIGS
+Line 239: FAIR FACED CONCRETE
+Line 240: ACRYLIC PAINT GYPSUM BOARD
+Line 241: EPOXY PAINT GYPSUM BOARD
+Line 242: ANTISTATIC PAINT GYPSUM BOARD
+Line 243: PAINT PLASTER CONCRETE
+Line 244: MASONRY UNITS
+Line 245: PAINT PLASTER CONCRETE
+Line 246: CLADDING ALLUMINIUM
+Line 247: CLADDING CERAMIC TILES
+Line 248: TYPE
+Line 249: CLADDING CERAMIC TILES
+Line 250: TYPE
+Line 251: CLADDING WOOD
+Line 252: THERMAL INSULATION
+Line 253: PARTIAL HEIGHT FINISH, REFER
+Line 254: INTERNAL ELEVATIONS
+Line 255: FINISHES
+Line 256: MARBLE RECESSED SKIRTING HIGH
+Line 257: 2
+Line 258: WOOD RECESSED SKIRTING HIGH
+Line 259: CERAMIC SKIRTING HIGH SPECIAL ITEM
+Line 260: 4
+Line 261: SKIRTING
+Line 262: MARBLE SKIRTING HIGH
+Line 263: MARBLE SKIRTING HIGH
+Line 264: CERAMIC SKIRTING EXTERIOR HIGH
+Line 265: SELECTED OTHERS
+Line 266: SKIRTINGS
+Line 267: REVISIONS
+Line 268: CLIENT
+Line 269: PROJECT
+Line 270: DESIGN STAGE
+Line 271: DATE
+Line 272: SCALE
+Line 273: FILE NAME
+Line 274: DRAWING TITLE
+Line 275: DRAWING
+Line 276: TAHLIA WALK
+Line 277: VAPARCHITECTS
+Line 278: Epirou Street
+Line 279: Athens, GR Greece
+Line 280: 3262
+Line 281: 3269
+Line 282: DESIGN ARCHITECTS
+Line 283: STRUCTURAL ENGINEER
+Line 284: CONSULTANTS
+Line 285: MEP ENGINEER
+Line 286: STUDIO
+Line 287: Isavron
+Line 288: Lycabettus
+Line 289: Athens, GR 11471 Greece
+Line 290: ZAD DEVELOPMENT
+Line 291: 01 PM
+Line 292: Typical Restrooms
+Line 293: Detail Design
+Line 294: Typical Restroom Plan
+Line 295: Internal Elevation
+Line 296: Internal Elevation 2
+Line 297: Internal Elevation
+Line 298: 4
+Line 299: Internal Elevation 4
+Line 300: Internal Elevation
+Line 301: Internal Elevation
+Line 302: Kitchen Internal Elevation
+Line 303: Kitchen Internal Elevation 2
+Line 304: Kitchen Internal Elevation
+Line 305: Kitchen Internal Elevation 4
+Line 306: Typical Restroom Ceiling
+Line 307: 2
+Line 308: Description
+Line 309: Date
+Line 310: First
+Line 311: 07
+
+=== END OF FILTERED TEXT ===
+Total lines: 312

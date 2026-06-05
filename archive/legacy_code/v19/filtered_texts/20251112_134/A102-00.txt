@@ -1,0 +1,153 @@
+=== FILTERED TEXT FOR: A102-00.pdf ===
+
+Line   0: UP
+Line   1: REF.
+Line   2: REF.
+Line   3: REF.
+Line   4: REF.
+Line   5: REF.
+Line   6: REF.
+Line   7: UP
+Line   8: MAIN LOBBY
+Line   9: OFFICE
+Line  10: WC
+Line  11: WC
+Line  12: WC
+Line  13: KITCHENETTE
+Line  14: WC
+Line  15: WC
+Line  16: WC
+Line  17: KITCHENETTE
+Line  18: OFFICE
+Line  19: WC
+Line  20: WC
+Line  21: KITCHENETTE
+Line  22: WC
+Line  23: WC
+Line  24: WC
+Line  25: WC
+Line  26: KITCHENETTE
+Line  27: WC
+Line  28: WC
+Line  29: WC
+Line  30: WC
+Line  31: WC
+Line  32: KITCHENETTE
+Line  33: WC
+Line  34: WC
+Line  35: WC
+Line  36: KITCHENETTE
+Line  37: LIFT
+Line  38: SHAFT
+Line  39: LIFT
+Line  40: WC
+Line  41: WC
+Line  42: WC
+Line  43: WC
+Line  44: SHAFT
+Line  45: OFFICE
+Line  46: FFL
+Line  47: SSL
+Line  48: FFL
+Line  49: SSL
+Line  50: FFL
+Line  51: SSL
+Line  52: FFL
+Line  53: SSL
+Line  54: FFL
+Line  55: SSL
+Line  56: FFL
+Line  57: SSL
+Line  58: FFL
+Line  59: SSL
+Line  60: OFFICE
+Line  61: OFFICE
+Line  62: EQ
+Line  63: EQ
+Line  64: EQ
+Line  65: EQ
+Line  66: EQ
+Line  67: EQ
+Line  68: OFFICE
+Line  69: CIRCULATION LOBBY
+Line  70: STAIRCASE
+Line  71: FFL
+Line  72: SSL
+Line  73: FFL
+Line  74: SSL
+Line  75: FFL
+Line  76: SSL
+Line  77: FFL
+Line  78: SSL
+Line  79: FFL
+Line  80: SSL
+Line  81: FFL
+Line  82: SSL
+Line  83: FFL
+Line  84: SSL
+Line  85: FFL
+Line  86: SSL
+Line  87: FFL
+Line  88: SSL
+Line  89: FFL
+Line  90: SSL
+Line  91: FFL
+Line  92: SSL
+Line  93: FFL
+Line  94: SSL
+Line  95: FFL
+Line  96: SSL
+Line  97: 01
+Line  98: 02
+Line  99: 03
+Line 100: 04
+Line 101: 05
+Line 102: 06
+Line 103: 07
+Line 104: 08
+Line 105: 09
+Line 106: FFL
+Line 107: SSL
+Line 108: FFL
+Line 109: SSL
+Line 110: FFL
+Line 111: SSL
+Line 112: FFL
+Line 113: SSL
+Line 114: REVISIONS
+Line 115: CLIENT
+Line 116: PROJECT
+Line 117: DESIGN STAGE
+Line 118: DATE
+Line 119: SCALE
+Line 120: FILE NAME
+Line 121: DRAWING TITLE
+Line 122: DRAWING
+Line 123: TAHLIA WALK
+Line 124: VAPARCHITECTS
+Line 125: Street
+Line 126: Athens, GR
+Line 127: 00
+Line 128: DESIGN ARCHITECTS
+Line 129: STRUCTURAL ENGINEER
+Line 130: CONSULTANTS
+Line 131: MEP ENGINEER
+Line 132: STUDIO
+Line 133: Lycab
+Line 134: Athens, 47
+Line 135: 75
+Line 136: 72
+Line 137: ZAD DEVELOPMENT
+Line 138: 2016 46
+Line 139: Level
+Line 140: Ground Floor
+Line 141: Project Status
+Line 142: Ceiling Ground Floor
+Line 143: 1602 TW 00
+Line 144: Description
+Line 145: Date
+Line 146: First
+Line 147: 06
+
+=== END OF FILTERED TEXT ===
+Total lines: 148

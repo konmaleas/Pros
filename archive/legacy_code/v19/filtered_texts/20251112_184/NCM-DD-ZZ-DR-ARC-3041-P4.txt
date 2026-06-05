@@ -1,0 +1,186 @@
+=== FILTERED TEXT FOR: NCM-DD-ZZ-DR-ARC-3041-P4.pdf ===
+
+Line   0: ΙΣΟΓΕΙΟ
+Line   1: FFL
+Line   2: ΠΡΩΤΟ ΕΠΙΠΕΔΟ
+Line   3: FFL
+Line   4: ΔΕΥΤΕΡΟ ΕΠΙΠΕΔΟ FFL
+Line   5: ΠΡΩΤΟ ΥΠΟΓΕΙΟ
+Line   6: FFL
+Line   7: ΔΕΥΤΕΡΟ ΥΠΟΓΕΙΟ
+Line   8: FFL
+Line   9: ΕΠΙΠΕΔΟ ΔΩΜΑΤΩΝ ΚΑΙ FFL
+Line  10: ΕΠΙΠΕΔΟ ΔΩΜΑΤΩΝ FFL
+Line  11: ΚΤΗΡΙΟ
+Line  12: ΥΔΡΟΦΟΡΟΣ ΟΡΙΖΟΝΤΑΣ
+Line  13: ΜΑΡΓΑ
+Line  14: ΗΜΙΥΠΑΙΘΡΙΟΣ ΧΩΡΟΣ
+Line  15: SECURITY
+Line  16: 01 ARC Level
+Line  17: FFL
+Line  18: ΕΚΘΕΣΕΙΣ
+Line  19: ΦΥΛΑΚΕΙΟ ΑΙΘΡΙΟΥ
+Line  20: ΑΙΘΟΥΣΑ
+Line  21: ΠΡΟΓΡΑΜΜΑΤΩΝ
+Line  22: ΚΛΙΜΑΚΟΣΤΑΣΙΟ
+Line  23: ΧΩΡΟΣ
+Line  24: ΣΤΑΘΜΕΥΣΗΣ
+Line  25: ΘΕΣΕΙΣ
+Line  26: ΠΡΟΘΑΛΑΜΟΣ
+Line  27: ΚΛΙΜΑΚΟΣΤΑΣΙΟΥ
+Line  28: ΑΠΟΘΗΚΗ ΣΩΣΤΙΚΩΝ
+Line  29: ΑΝΑΣΚΑΦΩΝ
+Line  30: ΕΚΘΕΣΕΙΣ
+Line  31: ΑΠ ΚΗ ΠΩΛΗΤΗΡΙΟΥ
+Line  32: ΑΠΟΘΗΚΩΝ
+Line  33: ΑΠΟΘΗΚΩΝ
+Line  34: ΕΚΘΕΣΕΙΣ
+Line  35: ΚΛΙΜΑΚΟΣΤΑΣΙΟ
+Line  36: ΚΛΙΜΑΚΟΣΤΑΣΙΟ
+Line  37: ΠΡΟΘΑΛΑΜΟΣ
+Line  38: ΚΛΙΜΑΚΟΣΤΑΣΙΟΥ
+Line  39: ΚΛΙΜΑΚΟΣΤΑΣΙΟ
+Line  40: ΜΟΝΙΜΗ ΕΚΘΕΣΗ II
+Line  41: SEA
+Line  42: ΚΛΙΜΑΚΟΣΤΑΣΙΟ
+Line  43: ΑΝΕΛΚΥΣΤΗΡΑΣ
+Line  44: ΔΕΥΤΕΡΟ ΕΠΙΠΕΔΟ FFL
+Line  45: ΕΠΙΠΕΔΟ ΙΣΟΓΕΙΟΥ
+Line  46: FFL
+Line  47: ΠΡΩΤΟ ΕΠΙΠΕΔΟ
+Line  48: FFL
+Line  49: ΑΠΟΘΗΚΗ
+Line  50: ΚΑΘΑΡΙΣΜΟΥ
+Line  51: ΜΟΝΙΜΗ ΕΚΘΕΣΗ II
+Line  52: SEA
+Line  53: ΜΟΝΙΜΗ ΕΚΘΕΣΗ II
+Line  54: SEA
+Line  55: ΧΩΡΟΣ ΕΠΙΣΚΕΠΤΩΝ
+Line  56: ΒΕΣΤΙΑΡΙΟ
+Line  57: ΑΙΘΡΙΟ ΜΟΥΣΕΙΟΥ
+Line  58: ΜΟΝΙΜΗ ΕΚΘΕΣΗ
+Line  59: ΓΕΦΥΡΑ
+Line  60: ΦΩΤΟΒΟΛΤΑΪΚΑ ΠΑΝΕΛ
+Line  61: ΜΕΤΑΛΛΙΚΗ ΣΧΑΡΑ ΣΤΗΡΙΞΗΣ
+Line  62: ΜΕΤΑΛΛΙΚΗ ΚΑΤΑΣΚΕΥΗ ΣΤΗΡΙΞΗΣ PANELS
+Line  63: ΟΓΚΟΣ SEA
+Line  64: ΣΤΕΓΑΣΗ FOYER
+Line  65: ΟΓΚΟΣ TOPOS
+Line  66: ΣΤΕΓΑΣΗ ΕΚΘΕΣΙΑΚΟΥ ΧΩΡΟΥ
+Line  67: ΠΑΤΑΡΙ ΕΚΘΕΣΙΑΚΟΙ ΧΩΡΟΙ
+Line  68: ΟΡΟΦΟΣ ΕΚΘΕΣΙΑΚΟΙ ΧΩΡΟΙ
+Line  69: ΜΕΤΑΛΛΙΚΗ ΚΑΤΑΣΚΕΥΗ ΣΤΗΡΙΞΗΣ PANELS
+Line  70: 8137
+Line  71: 8162
+Line  72: 8109
+Line  73: 8108
+Line  74: 8304
+Line  75: 8310
+Line  76: 8307
+Line  77: 8357
+Line  78: ΥΠΕΥΘΥΝΟΥ ΕΡΓΟΥ
+Line  79: ΗΜΕΡΟΜΗΝΙΑ
+Line  80: ONOMA ΑΡΧΕΙΟΥ
+Line  81: ΛΕΥΚΩΣΙΑ ΚΥΠΡΟΣ
+Line  82: ΜΕΛΕΤΗ ΕΦΑΡΜΟΓΗΣ DD
+Line  83: ΝΕΟ ΚΥΠΡΙΑΚΟ ΜΟΥΣΕΙΟ
+Line  84: ΗΜΕΡΟΜΗΝΙΑ
+Line  85: ΕΓΚΡΙΘΗΚΕ
+Line  86: ΤΜΗΜΑ
+Line  87: ΗΜΕΡΟΜΗΝΙΑ
+Line  88: ΕΛΕΓΧΘΗΚΕ
+Line  89: ΤΜΗΜΑ
+Line  90: ΤΙΤΛΟΣ
+Line  91: ΥΠΟΒΟΛΗ
+Line  92: ΑΡ.
+Line  93: ΥΠΟΥΡΓΕΙΟ ΜΕΤΑΦΟΡΩΝ, ΕΠΙΚΟΙΝΩΝΙΩΝ ΚΑΙ ΕΡΓΩΝ
+Line  94: ΤΜΗΜΑ ΕΡΓΩΝ
+Line  95: KEY PLAN
+Line  96: ΗΜΕΡΟΜΗΝΙΑ
+Line  97: ΠΕΡΙΕΧΟΜΕΝΟ
+Line  98: ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΜΕΛΕΤΗ
+Line  99: THEONI XANTHI XZA ARCHITECTS LLC
+Line 100: ΥΠΕΥΘΥΝΟΣ ΕΡΓΟΥ
+Line 101: ΑΡΧΙΤΕΚΤΩΝ ΘΕΩΝΗ ΞΑΝΘΗ
+Line 102: ΑΡΧΙΤΕΚΤΟΝΕΣ
+Line 103: ΜΑΡΓΑΡΙΤΑ ΖΑΚΥΝΘΙΝΟΥ
+Line 104: ΣΥΝΤΟΝΙΣΤΗΣ ΑΡΧIT ΚΗΣ ΜΕΛΕΤΗΣ
+Line 105: ΚΟΣΜΑΣ ΒΑΡΚΑΡΟΛΗΣ
+Line 106: ΑΡΧΙΤΕΚΤΟΝΙΚΑ
+Line 107: YAP ARCHITECTS
+Line 108: ΣTATIKΑ
+Line 109: RHOMBUS STRUCTURAL ENGINEERS LLC ΣΤ.
+Line 110: PENELIS CONSULTING ENGINEERS SA ΠΕΝΕΛΗΣ
+Line 111: GEORGHIOU ZEMBYLAS PARTNERS
+Line 112: ΜΗΧΑΝΟΛΟΓΙΚA
+Line 113: ΗΛΕΚΤΡΟΛΟΓΙΚA
+Line 114: ΜΟΥΣΕΙΟΛΟΓΙΚA
+Line 115: THETA ACOUSTICS LTD ΝΙΑΟΥΝΑΚΗΣ
+Line 116: ΑΚΟΥΣΤΙΚA
+Line 117: RODITIS PARTNERS
+Line 118: ΕΠΙΜΕΤΡΗΣΗ ΠΟΣΟΤΗΤΩΝ
+Line 119: FLOROS PANTELI ASSOCIATES ΠΑΝΤΕΛΗ
+Line 120: ΥΓΕΙΑ
+Line 121: ΜΟΥΣΕΙΟΓΡΑΦΙΚA
+Line 122: ΘΩΜΑΣ ΤΣΟΥΚΑΛΑΣ
+Line 123: ΦΩΤΙΣΜΟΣ
+Line 124: DECO ASSOCIATES ΕΛ. ΝΤΕΚΩ
+Line 125: ΠΥΡΟΠΡΟΣΤΑΣΙΑ
+Line 126: INT FIRE CYPRUS LTD ΣΠ. ΣΠΥΡΟΥ
+Line 127: ΚΥΚΛΟΦΟΡΙΑΚΑ
+Line 128: DROMOS CONSULTING LTD ΖΕΚΚΟΣ
+Line 129: ΣΗΜΑΝΣΗ
+Line 130: POST SPECTACULAR OFFICE ΓΑΛΙΚΑΣ
+Line 131: ΚΤΗΡΙΟΥ
+Line 132: ARION PLUS
+Line 133: ΕΡΓΑΣΙΑΣ
+Line 134: ΜΕΛΕΤΗΣ
+Line 135: FEREOS ARCHITECTS LLC ΦΕΡΑΙΟΣ Αναπλ. Υπεύθυνος Οµάδας Έργου
+Line 136: DROMOS CONSULTING LTD ΖΕΚΚΟΣ
+Line 137: ΣΥΜΒΟΥΛΟΙ ΜΕΛΕΤΗΤΕΣ
+Line 138: ΓΕΩΤΕΧΝΙΚΑ
+Line 139: ΜΟΥΣΕΙΑΚΟΣ
+Line 140: XZA ARCHITECTS
+Line 141: ΒΑΣΙΛΕΙΟΥ
+Line 142: ΕΡΓΑΣΤΗΡΙΑ
+Line 143: ΩΡ
+Line 144: ΑΡΧΙΤΕΚΤΟΝΙΚΗ
+Line 145: ΚΛΙΜΑΚΑ
+Line 146: VAP ARCHITECTS Σύµβουλος Μελέτης Εφαρµογής
+Line 147: DR ARC
+Line 148: ΚΑΤΑΛΛΗΛΟΤΗΤΑΣ
+Line 149: NCM DD
+Line 150: Engineer Record
+Line 151: GEORGHIOU ZEMBYLAS PARTNERS
+Line 152: ANDREAS EVRIPIDOU CIVIL ENGINEERS
+Line 153: ΣΤΕΡΓΙΟΣ ΓΑΛΙΚΑΣ
+Line 154: ΘΩΜΑΣ ΤΣΟΥΚΑΛΑΣ
+Line 155: ΣΤΕΡΓΙΟΣ ΓΑΛΙΚΑΣ
+Line 156: Συνεργάτης ΤΣΑΜΠΙΚΟΣ ΠΕΤΡΑΣ
+Line 157: POST SPECTACULAR OFFICE ΓΑΛΙΚΑΣ
+Line 158: ΠΡΟΜΕΛΕΤΗ ΣΑΚΕΛΛΑΡΙΟΥ
+Line 159: ΦΥΣΙΚΟΣ ΦΩΤΙΣΜΟΣ
+Line 160: ΤΣΑΓΚΡΑΣΟΥΛΗΣ
+Line 161: ΕΞΟΠΛΙΣΜΟΣ ΚΟΥΖΙΝΑΣ
+Line 162: XENEX
+Line 163: ΕΝΕΡΓΕΙΑΚΑ ΚΕΛΥΦΟΥΣ
+Line 164: METABUILD
+Line 165: ΓΡΑΦΙΣΤΙΚΑ
+Line 166: ΦΥΤΟΤΕΧΝΙΚΑ
+Line 167: LANDCO EΠΕ ΚΑΝΤΑΡΤΖΗΣ
+Line 168: ΦΕΒΡΟΥΑΡΙΟΣ 2021
+Line 169: 02 2021
+Line 170: ΤΟΜΕΣ ΖΩΝΗ
+Line 171: 3041
+Line 172: ZZ
+Line 173: ΤΟΜΗ ΖΩΝΗ
+Line 174: ΖΩΝΗ
+Line 175: ΤΟΜΗ
+Line 176: ΤΟΜΗ
+Line 177: 07 2021
+Line 178: Υποβολή
+Line 179: 02 2021
+Line 180: Υποβολή
+
+=== END OF FILTERED TEXT ===
+Total lines: 181

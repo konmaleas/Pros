@@ -1,0 +1,251 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-770-0A_-_WATER_TREATMENT_BUILDING_GROUND_FLOOR_PLAN_AND_FLOOR_FINISH_PLAN.pdf ===
+
+Line   0: WP
+Line   1: WP
+Line   2: POWER FLOATED CONCRETE SEALED ASHFORD FORMULA SEALER.
+Line   3: FLOOR FINISHES LEGEND
+Line   4: 2
+Line   5: 4
+Line   6: Purpose
+Line   7: Hazardous
+Line   8: Storage
+Line   9: Storage
+Line  10: Estimated
+Line  11: Number
+Line  12: Water
+Line  13: TBC
+Line  14: TBC
+Line  15: Cleaning UV
+Line  16: Cleaning UV
+Line  17: Sodium Bicarbonate
+Line  18: Hydrochloric Acid HCI
+Line  19: Chlorine Dioxide
+Line  20: Alkali
+Line  21: SBS Dechlorinator UV
+Line  22: SBS Dechlorinator UV
+Line  23: IBC
+Line  24: IBC
+Line  25: IBC
+Line  26: WTB,
+Line  27: Chemical Store
+Line  28: WTB,
+Line  29: Chemical Store 2
+Line  30: WTB,
+Line  31: Chemical Store
+Line  32: WTB,
+Line  33: Chemical Store TBC
+Line  34: WTB,
+Line  35: Chemical Store TBC
+Line  36: WTB,
+Line  37: Chemical Store TBC
+Line  38: WTB,
+Line  39: Chemical Store TBC
+Line  40: IBC
+Line  41: 2 IBC
+Line  42: IBC
+Line  43: 2 IBC
+Line  44: IBC
+Line  45: 2 IBC
+Line  46: 2
+Line  47: 4
+Line  48: 3500
+Line  49: 21900
+Line  50: 3800
+Line  51: 3800
+Line  52: 1500
+Line  53: 00
+Line  54: SPRINKLER
+Line  55: VALVE ROOM
+Line  56: 00
+Line  57: PUMP ROOM
+Line  58: 00
+Line  59: SWITCH ROOM
+Line  60: 00
+Line  61: COMMS ROOM
+Line  62: 00
+Line  63: SWITCH ROOM
+Line  64: 00
+Line  65: STORE
+Line  66: 11250
+Line  67: 30150
+Line  68: 3134
+Line  69: 1130
+Line  70: 2439
+Line  71: 1130
+Line  72: 748
+Line  73: 1130
+Line  74: 1164
+Line  75: 3800
+Line  76: 10500
+Line  77: 3800
+Line  78: 21900
+Line  79: 3800
+Line  80: IWS
+Line  81: IWS
+Line  82: IWS
+Line  83: IWS
+Line  84: IWS
+Line  85: IWS
+Line  86: IWS
+Line  87: IWS
+Line  88: IWS
+Line  89: WT 04
+Line  90: WT 05
+Line  91: DRS
+Line  92: DRS
+Line  93: IWS
+Line  94: WT 08
+Line  95: WT 01
+Line  96: DRS
+Line  97: 5450
+Line  98: 1130
+Line  99: 3416
+Line 100: WT 03
+Line 101: DRS
+Line 102: EWC
+Line 103: EWC
+Line 104: IWS
+Line 105: 10000
+Line 106: 5250
+Line 107: 5250
+Line 108: 2180
+Line 109: 3016
+Line 110: 2180
+Line 111: 8108
+Line 112: CLEAR OPENING
+Line 113: 1984
+Line 114: CLEAR OPENING
+Line 115: 1984
+Line 116: 3000
+Line 117: 2000
+Line 118: 5600
+Line 119: WT 02
+Line 120: WT 07
+Line 121: WT 06
+Line 122: DRS
+Line 123: 5600
+Line 124: 1000
+Line 125: 1000
+Line 126: 1000
+Line 127: AM 471
+Line 128: 00
+Line 129: STORE
+Line 130: 772
+Line 131: 2
+Line 132: 772
+Line 133: 772
+Line 134: GRAVEL PERIMETR CIVILS SPECIFICATION DETAILS
+Line 135: NOTE MECHANICAL
+Line 136: EQUIPMENT INSTALLATION
+Line 137: PHASED
+Line 138: 2
+Line 139: 4
+Line 140: 00
+Line 141: SPRINKLER
+Line 142: VALVE ROOM
+Line 143: 00
+Line 144: PUMP ROOM
+Line 145: 00
+Line 146: SWITCH ROOM
+Line 147: 00
+Line 148: COMMS ROOM
+Line 149: 00
+Line 150: SWITCH ROOM
+Line 151: 00
+Line 152: STORE
+Line 153: 5250
+Line 154: 5250
+Line 155: 00
+Line 156: STORE
+Line 157: 772
+Line 158: 2
+Line 159: 772
+Line 160: 772
+Line 161: GRAVEL PERIMETR CIVILS SPECIFICATION DETAILS
+Line 162: Sheet Title Number
+Line 163: Scale
+Line 164: Plan
+Line 165: Design Consultants
+Line 166: Microsoft
+Line 167: DATA CENTER
+Line 168: SPATA GREECE
+Line 169: Contractor Joint Venture
+Line 170: Name
+Line 171: Contractor Project
+Line 172: Contractor Contract
+Line 173: Contractor PM
+Line 174: Contractor BIM Mngr
+Line 175: Contractor Information
+Line 176: Renco Terna
+Line 177: Client
+Line 178: General Notes
+Line 179: Client Project
+Line 180: Client Contract
+Line 181: Client PM
+Line 182: Client BIM Mngr
+Line 183: Primary Client Information
+Line 184: Layout
+Line 185: Revision
+Line 186: Tombazi Chalandri
+Line 187: 15232
+Line 188: Athens Greece
+Line 189: 0800 3262
+Line 190: Agion Theodoron Square Athens
+Line 191: 10561
+Line 192: Athens Greece
+Line 193: Kimithois Agios Dimitrios
+Line 194: 17236
+Line 195: Athens Greece
+Line 196: Purpose Issue
+Line 197: Issue
+Line 198: Name
+Line 199: WATER TREATMENT BUILDING
+Line 200: GROUND FLOOR PLAN
+Line 201: FLOOR FINISH PLAN
+Line 202: VAP AH 770
+Line 203: Water Treatment Building Keynote Sheet
+Line 204: Value
+Line 205: Descrìption
+Line 206: AM 471
+Line 207: External Proprietary Flat Fixed
+Line 208: Fixed Mild
+Line 209: DRS
+Line 210: External High
+Line 211: Design Drawings Door Schedule. Core Construction
+Line 212: Steel Employer. Ironmongery
+Line 213: Door Schedule Hardware Schedule.
+Line 214: EWC
+Line 215: Composite Composite
+Line 216: Design Drawings,
+Line 217: Panel External Employer.
+Line 218: IWS
+Line 219: Internal Internal
+Line 220: Steel Employer.
+Line 221: RFS
+Line 222: Exhaust Pressed Design Drawings.
+Line 223: RWS
+Line 224: Aluminum Heavy Design Drawings
+Line 225: SCALE
+Line 226: GROUND FLOOR PLAN
+Line 227: SCALE
+Line 228: FLOOR FINISH PLAN
+Line 229: 2
+Line 230: 1250
+Line 231: 2500
+Line 232: SCALE
+Line 233: ADMIN
+Line 234: COLO
+Line 235: COLO 2
+Line 236: 2
+Line 237: 4
+Line 238: 2
+Line 239: 4
+Line 240: TRUE NORTH
+Line 241: Date
+Line 242: Description
+Line 243: 06
+Line 244: Issued Approval
+Line 245: VAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 246

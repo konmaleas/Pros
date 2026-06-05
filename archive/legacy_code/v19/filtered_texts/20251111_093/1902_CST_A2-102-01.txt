@@ -1,0 +1,148 @@
+=== FILTERED TEXT FOR: 1902_CST_A2-102-01.pdf ===
+
+Line   0: 401
+Line   1: 401
+Line   2: 45
+Line   3: Kitchen Veranda
+Line   4: ΒΕΡΑΝΤΑ ΚΟΥΖΙΝΑΣ
+Line   5: Living
+Line   6: Veranda
+Line   7: ΒΕΡΑΝΤΑ ΚΑΘΙΣΤΙΚΟΥ
+Line   8: Kitchen
+Line   9: ΚΟΥΖΙΝΑ
+Line  10: Roof
+Line  11: ΔΩΜΑ
+Line  12: Roof
+Line  13: ΔΩΜΑ
+Line  14: A9
+Line  15: ΕΞ
+Line  16: ΕΞ
+Line  17: ΕΞ
+Line  18: 48
+Line  19: Roof
+Line  20: ΔΩΜΑ
+Line  21: ΚΩΔΙΚΟΣ ΧΩΡΟΥ ROOM NUMBER
+Line  22: ΕΠΙΦΑΝΕΙΑ ΧΩΡΟΥ ROOM AREA
+Line  23: ΟΠΤΟΠΛΙΝΘΟΔΟΜΗ BRICKWORK
+Line  24: ΦΕΡΩΝ ΟΡΓΑΝΙΣΜΟΣ BEARING STRUCTURE
+Line  25: ΣΤΑΘΜΗ ΤΕΛΙΚΟΥ ΔΑΠΕΔΟΥ FINISH FLOOR
+Line  26: ELEVATION
+Line  27: ΤΥΠΟΣ ΔΑΠΕΔΟΥ FLOOR TYPE
+Line  28: ΣΤΑΘΜΗ ΠΛΑΚΑΣ ΜΠΕΤΟΥ STRUCTURAL SLAB
+Line  29: ELEVATION
+Line  30: ΓΕΝΙΚΟΙ ΣΥΜΒΟΛΙΣΜΟΙ GENERAL ANNOTATION
+Line  31: ΘΕΡΜΟΜΟΝΩΣΗ THERMAL INSULATION
+Line  32: ΤΥΠΟΣ ΠΑΡΑΘΥΡΟΥ WINDOW TYPE
+Line  33: ΑΝΟΙΓΜΑ ΠΑΡΑΘΥΡΟΥ WINDOW WIDTH
+Line  34: ΠΟΔΙΑ ΠΑΡΑΘΥΡΟΥ WINDOW SILL
+Line  35: ΠΡΕΚΙ ΠΑΡΑΘΥΡΟΥ WINDOW HEAD
+Line  36: Room
+Line  37: ΔΩΜΑΤΙΟ GR
+Line  38: ΚΩΔΙΚΟΣ ΠΑΡΑΘΥΡΟΥ WINDOW NUMBER
+Line  39: ΣΥΜΒΟΛΑ ΛΕΠΤΟΜΕΡΕΙΩΝ ΣΧΕΔΙΟΥ DETAIL
+Line  40: INDICATION
+Line  41: ΤΥΠΟΣ ΘΥΡΑΣ DOOR TYPE
+Line  42: ΑΝΟΙΓΜΑ ΘΥΡΑΣ DOOR OPENING
+Line  43: ΠΟΔΙΑ ΘΥΡΑΣ DOOR SILL
+Line  44: ΠΡΕΚΙ ΘΥΡΑΣ DOOR HEAD
+Line  45: ΚΩΔΙΚΟΣ ΘΥΡΑΣ DOOR NUMBER
+Line  46: ΣΥΜΒΟΛΟ ΤΟΜΗΣ ΣΧΕΔΙΟΥ SECTION
+Line  47: INDICATION
+Line  48: 9312
+Line  49: ΚΑΘΑΡΟ ΥΨΟΣ ΧΩΡΟΥ CEILING HEIGHT
+Line  50: ΤΕΛΕΙΩΜΑ ΟΡΟΦΗΣ CEILING FINISH
+Line  51: ΤΕΛΕΙΩΜΑ ΤΟΙΧΟΥ WALL FINISH
+Line  52: ΟΝΟΜΑ ΧΩΡΟΥ
+Line  53: ΤΕΛΕΙΩΜΑΤΑ ΔΑΠΕΔΩΝ FLOOR FINISHES
+Line  54: ΠΛΑΚΑΚΙ ΚΥΡΙΩΝ ΕΣΩΤΕΡΙΚΩΝ INTERIOR TILES
+Line  55: ΓΡΑΝΙΤΟΠΛΑΚΑΚΙ ΕΞΩΤΕΡΙΚΩΝ EXTERIOR TILES
+Line  56: ΠΛΑΚΑΚΙ ΒΟΗΘΗΤΙΚΩΝ TILES AUXILIARY ROOMS
+Line  57: ΣΥΜΒΟΛΙΣΜΟΙ INSTALLATIONS
+Line  58: ΤΕΤΡΑΓΩΝΟ ΣΙΦΩΝΙ ΔΑΠΕΔΟΥ SQUARE DRAIN
+Line  59: ΚΑΘΕΤΗ ΣΤΗΛΗ ΥΔΡΟΡΡΟΗΣ
+Line  60: ΚΑΘΕΤΗ ΣΤΗΛΗ ΕΞΑΕΡΙΣΜΟΥ ΔΙΚΤΥΟΥ
+Line  61: ΤΕΤΡΑΓΩΝΟ ΣΙΦΩΝΙ ΔΑΠΕΔΟΥ ΜΠΑΝΙΟΥ
+Line  62: SQUARE DRAIN ΙΝ BATHROOM
+Line  63: ΓΡΑΜΜΙΚΟ ΣΙΦΩΝΙ ΔΑΠΕΔΟΥ LINEAR DRAIN
+Line  64: ΚΑΘΕΤΗ ΣΤΗΛΗ ΑΠΟΧΕΤΕΥΣΗΣ
+Line  65: ΠΡΙΖΑ
+Line  66: ΠΡΙΖΑ ΔΑΠΕΔΟΥ
+Line  67: ΗΛΕΚΤΡΙΚΟΣ ΠΙΝΑΚΑΣ
+Line  68: ΠΡΙΖΑ ΣΤΕΓΑΝΗ
+Line  69: ΣΤΟΜΙΟ ΔΑΠΕΔΟΥ ΠΡΟΣΑΓΩΓΗΣ ΑΕΡΑ
+Line  70: ΓΡΑΜΜΙΚΟ ΣΤΟΜΙΟ ΑΠΟΡΡΟΗΣ ΟΜΒΡΙΩΝ
+Line  71: ΚΛΙΜΑΚΑ
+Line  72: SCALE
+Line  73: ΣΧΕΔΙΟ
+Line  74: ΕΡΓΟ
+Line  75: ΕΡΓΟΔΟΤΗΣ
+Line  76: ΗΜΕΡΟΜΗΝΙΑ ΕΚΔΟΣΗΣ
+Line  77: FIRST ISSUE DATE
+Line  78: ΣΦΡΑΓΙΔΑ
+Line  79: ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΜΕΛΕΤΗ ΕΦΑΡΜΟΓΗΣ
+Line  80: DETAILED DESIGN
+Line  81: ΠΕΡΙΟΧΗ
+Line  82: ZONE
+Line  83: LANDSCAPE DESIGN
+Line  84: Kontou Athens, Greece
+Line  85: 6781 6785
+Line  86: MEP DESIGN
+Line  87: TEKEM CONSULTING ENGINEERS
+Line  88: STRUCTURAL DESIGN
+Line  89: Epirou Αthens, Greece
+Line  90: 3262 3269
+Line  91: EXECUTIVE ARCHITECT
+Line  92: SITE SUPERVISOR
+Line  93: Ploutarchou Athens, 75 Greece
+Line  94: 722 4170 722 6355
+Line  95: ARCHITECTURAL DESIGN
+Line  96: ISSUED
+Line  97: ΘΕΣΗ ΕΡΓΟΥ
+Line  98: CONSTRUCTION
+Line  99: APPROVAL
+Line 100: TENDER
+Line 101: STATUS
+Line 102: DRAFT
+Line 103: FINAL
+Line 104: STAMP
+Line 105: DISCIPLINE
+Line 106: ARC
+Line 107: ΑΝΑΘ.
+Line 108: REV.
+Line 109: VALSAMAKIS
+Line 110: ERISMA
+Line 111: Naxou Kifisia, Greece
+Line 112: 4217 6976
+Line 113: Skoufa Athens, 72 Greece
+Line 114: 8642
+Line 115: HELLI PANGALOU
+Line 116: ΚΗΠΟΤΕΧΝΙΚΗ ΜΕΛΕΤΗ
+Line 117: ΜΗΧΑΝΟΛΟΓΙΚΗ ΜΕΛΕΤΗ
+Line 118: ΕΚΤΕΛΕΣΗ ΑΡΧΙΤΕΚΤΟΝΙΚΗΣ ΜΕΛΕΤΗΣ ΕΠΙΒΛΕΨΗ
+Line 119: ΣΤΑΤΙΚΗ ΜΕΛΕΤΗ
+Line 120: ΑΡΧΙΤΕΚΤΟΝΑΣ ΕΡΓΟΥ
+Line 121: VAP
+Line 122: PROJECT
+Line 123: LOCATION
+Line 124: CLIENT
+Line 125: DRAWING
+Line 126: ΚΑΤΟΨΗ
+Line 127: ΛΑΓΩΝΙΚΗ ΑΛΜΥΡΑ ΝΟΤΙΑ ΑΝΤΙΠΑΡΟΣ
+Line 128: LAGONIKI ALMYRA SOUTH ANTIPAROS
+Line 129: 09 2019
+Line 130: ΔΩΜΑ
+Line 131: ΚΑΤΟΙΚΙΕΣ ΣΤΗΝ ΑΝΤΙΠΑΡΟ
+Line 132: RESIDENCES ANTIPAROS
+Line 133: CSTO LIMITED
+Line 134: ΚΤΙΡΙΑ
+Line 135: PLAN
+Line 136: ROOF
+Line 137: BUILDINGS
+Line 138: ΑΝΑΘΕΩΡΗΣΕΙΣ
+Line 139: ΠΕΡΙΓΡΑΦΗ DESCRIPTION
+Line 140: ΗΜ ΝΙΑ DATE
+Line 141: Stone
+Line 142: 09 2019
+
+=== END OF FILTERED TEXT ===
+Total lines: 143

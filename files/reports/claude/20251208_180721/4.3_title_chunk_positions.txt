@@ -1,0 +1,10 @@
+18:07:23.476278 | /home/konstantinos/PycharmProjects/Pros/claude/v19/main_title_search.py:23 in debug_file()
+                  ict(): None
+                  args: ({'3081': [524],
+                          'ARC': [23, 496],
+                          'DD': [424, 499],
+                          'DR': [496],
+                          'NCM': [499],
+                          'P1': [521, 534],
+                          'ZZ': [525]},)
+                  'w': 'w'

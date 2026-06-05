@@ -1,0 +1,206 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-731-0A_-_INTERNAL_WINDOW_WALL.pdf ===
+
+Line   0: 731
+Line   1: 41
+Line   2: SOC
+Line   3: 00 006
+Line   4: YC
+Line   5: 2052
+Line   6: 1150
+Line   7: 1518
+Line   8: 2308
+Line   9: 2308
+Line  10: 1356
+Line  11: 1568
+Line  12: WS
+Line  13: WS
+Line  14: ID AD 016
+Line  15: FIXED DOUBLE GLAZED
+Line  16: SECURITY WINDOW, RAL 7022
+Line  17: FIXED DOUBLE GLAZED
+Line  18: SECURITY WINDOW, RAL 7022
+Line  19: 1300
+Line  20: 1139
+Line  21: IWS 701 OPTIMA REVOLUTION
+Line  22: FRAMELESS DOUBLED
+Line  23: GLAZED SCREEN
+Line  24: CHECK
+Line  25: POINT
+Line  26: 00 036
+Line  27: 1950
+Line  28: 1550
+Line  29: 2000
+Line  30: 4500
+Line  31: YC
+Line  32: YD
+Line  33: ID AD 031
+Line  34: 731
+Line  35: MMR
+Line  36: 00 020
+Line  37: YB
+Line  38: FCR
+Line  39: 00 022
+Line  40: EQ
+Line  41: EQ
+Line  42: EQ
+Line  43: EQ
+Line  44: EQ
+Line  45: EQ
+Line  46: 731
+Line  47: SECURE
+Line  48: STORAGE
+Line  49: 00 044
+Line  50: HIGH VALUE
+Line  51: STORAGE
+Line  52: 00 046
+Line  53: ID AD 051
+Line  54: 1310
+Line  55: EQ
+Line  56: EQ
+Line  57: EQ
+Line  58: EQ
+Line  59: EQ
+Line  60: EQ
+Line  61: GL
+Line  62: CEILING LEVEL
+Line  63: 41
+Line  64: SOC
+Line  65: 00 006
+Line  66: FOC
+Line  67: 00 003
+Line  68: IWS 711
+Line  69: INTERNAL FRAMED SECURITY
+Line  70: GLASS PARTITION SYSTEM
+Line  71: GLASS COMPLY
+Line  72: SECURITY REQUIREMENTS
+Line  73: 760
+Line  74: 1550
+Line  75: 6021
+Line  76: 2308
+Line  77: 2308
+Line  78: 1356
+Line  79: 1517
+Line  80: 1568
+Line  81: 1000
+Line  82: 1310
+Line  83: 1000
+Line  84: 1310
+Line  85: 2425
+Line  86: WS
+Line  87: WS
+Line  88: GL
+Line  89: CEILING LEVEL
+Line  90: 2500
+Line  91: 2500
+Line  92: 5250
+Line  93: EQ
+Line  94: EQ
+Line  95: EQ
+Line  96: EQ
+Line  97: EQ
+Line  98: EQ
+Line  99: 1310
+Line 100: 2500
+Line 101: 1300
+Line 102: ID AD 051
+Line 103: GL
+Line 104: CEILING LEVEL
+Line 105: 1310
+Line 106: 1000
+Line 107: 1950
+Line 108: 4500
+Line 109: IWS 711
+Line 110: INTERNAL FRAMED SECURITY
+Line 111: GLASS PARTITION SYSTEM
+Line 112: GLASS COMPLY
+Line 113: SECURITY REQUIREMENTS
+Line 114: YC
+Line 115: YD
+Line 116: 2540
+Line 117: 2000
+Line 118: WS
+Line 119: ID AD 031
+Line 120: GL
+Line 121: CEILING LEVEL
+Line 122: 2500
+Line 123: 2500
+Line 124: 1007
+Line 125: 1007
+Line 126: 1007
+Line 127: 1007
+Line 128: 1007
+Line 129: 1007
+Line 130: 6604
+Line 131: ADMIN
+Line 132: COLO
+Line 133: COLO 2
+Line 134: 2
+Line 135: 4
+Line 136: 2
+Line 137: 4
+Line 138: TRUE NORTH
+Line 139: Sheet Title Number
+Line 140: Scale
+Line 141: Plan
+Line 142: Design Consultants
+Line 143: Microsoft
+Line 144: DATA CENTER
+Line 145: SPATA GREECE
+Line 146: Contractor Joint Venture
+Line 147: Name
+Line 148: Contractor Project
+Line 149: Contractor Contract
+Line 150: Contractor PM
+Line 151: Contractor BIM Mngr
+Line 152: Contractor Information
+Line 153: Renco Terna
+Line 154: Client
+Line 155: General Notes
+Line 156: Client Project
+Line 157: Client Contract
+Line 158: Client PM
+Line 159: Client BIM Mngr
+Line 160: Primary Client Information
+Line 161: Layout
+Line 162: Revision
+Line 163: Tombazi Chalandri
+Line 164: 15232
+Line 165: Athens Greece
+Line 166: 0800 3262
+Line 167: Agion Theodoron Square Athens
+Line 168: 10561
+Line 169: Athens Greece
+Line 170: Kimithois Agios Dimitrios
+Line 171: 17236
+Line 172: Athens Greece
+Line 173: Purpose Issue
+Line 174: Issue
+Line 175: Name
+Line 176: INTERNAL WINDOW WALL
+Line 177: VAP AH 731
+Line 178: SCALE
+Line 179: INTERNAL WINDOW SOC FOC PLAN
+Line 180: SCALE
+Line 181: INTERNAL WINDOW CHECK POINT PLAN
+Line 182: SCALE
+Line 183: INTERNAL WINDOW FCR PLAN
+Line 184: SCALE
+Line 185: INTERNAL WINDOW SECURE STORAGE PLAN
+Line 186: SCALE
+Line 187: INTERNAL WINDOW SOC FOC ELEVATION
+Line 188: SCALE
+Line 189: INTERNAL WALL SECURE STORAGE ELEVATION
+Line 190: SCALE
+Line 191: INTERNAL WINDOW CHECK POINT ELEVATION
+Line 192: SCALE
+Line 193: INTERNAL WINDOW FCR ELEVATION
+Line 194: 1250
+Line 195: SCALE
+Line 196: Date
+Line 197: Description
+Line 198: 05
+Line 199: Issued Approval
+Line 200: VAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 201

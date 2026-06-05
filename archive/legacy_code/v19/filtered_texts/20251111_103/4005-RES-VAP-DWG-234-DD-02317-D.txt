@@ -1,0 +1,236 @@
+=== FILTERED TEXT FOR: 4005-RES-VAP-DWG-234-DD-02317-D.pdf ===
+
+Line   0: 1400
+Line   1: 1900
+Line   2: 1900
+Line   3: 1045
+Line   4: 1249
+Line   5: 01
+Line   6: 02
+Line   7: 03
+Line   8: 04
+Line   9: 05
+Line  10: 06
+Line  11: 07
+Line  12: 08
+Line  13: 09
+Line  14: BR
+Line  15: BQ
+Line  16: BP
+Line  17: BO
+Line  18: BN
+Line  19: BM
+Line  20: BL
+Line  21: BK
+Line  22: BJ
+Line  23: BH
+Line  24: BF
+Line  25: BE
+Line  26: BD
+Line  27: BC
+Line  28: BB
+Line  29: BA
+Line  30: AR
+Line  31: AQ
+Line  32: AP
+Line  33: AO
+Line  34: AM
+Line  35: AL
+Line  36: AK
+Line  37: AJ
+Line  38: AI
+Line  39: AH
+Line  40: AG
+Line  41: AF
+Line  42: AE
+Line  43: AD
+Line  44: AC
+Line  45: AB
+Line  46: AA
+Line  47: BG
+Line  48: 45
+Line  49: 04001
+Line  50: 04000
+Line  51: DOUBLE HEIGHT AREA
+Line  52: Redundant Room
+Line  53: ΠΕΡΙΓΡΑΜΜΑ
+Line  54: ΥΠΟΣΤΑΘΜΟΥ
+Line  55: BI
+Line  56: ΕΞΥΠΗΡΕΤΗΣΗΣ
+Line  57: ΕΠΙΣΚΕΠΤΩΝ
+Line  58: ΥΠΟΓΕΙΟΥ ΧΩΡΟΥ
+Line  59: ΣΤΑΘΜΕΥΣΗΣ ΑΥΤΟΚΙΝΗΤΩΝ
+Line  60: ΠΡΑΣΙΑ
+Line  61: ΠΕΖΟΔΡΟΜΟΣ ΠΛΑΤΟΥΣ
+Line  62: ΠΡΑΣΙΑ
+Line  63: ΠΡΑΣΙΑ
+Line  64: ΠΡΑΣΙΑ
+Line  65: ΕΓΚΕΚΡΙΜΕΝΟΣ
+Line  66: ΟΡΙΟΓΡΑΜΜΗ ΜΗΤΡΟΠΟΛΙΤΙΚΟΥ ΠΑΡΚΟΥ ΠΡΑΣΙΝΟΥ ΚΑΙ ΑΝΑΨΥΧΗΣ
+Line  67: ΟΡΙΟΓΡΑΜΜΗ ΠΕΡΙΟΧΗΣ ΠΡΟΣ
+Line  68: ΕΓΚΕΚΡΙΜΕΝΟΣ ΚΟΙΝΟΧΡΗΣΤΟΣ ΤΗΣ ΠΕΡΙΟΧΗΣ
+Line  69: ΠΡΑΣΙΝΟ ΠΑΡΚΟΥ ΑΠΟ
+Line  70: ΠΛΑΤΟΣ
+Line  71: ΠΛΑΤΟΣ
+Line  72: ΠΕΖΩΝ
+Line  73: ΚΛΙΣΗ
+Line  74: Poseid
+Line  75: Poseid
+Line  76: ΕΓΚΕΚΡΙΜΕΝΗ ΗΠΙΑΣ ΚΥΚΛΟΦΟΡΙΑΣ
+Line  77: ΥΠΟΓΕΙΟΠΟΙΗΣΗ ΛΕΩΦΟΡΟΥ
+Line  78: ΕΓΚΡΙΣΗ ΚΥΚΛΟΦΟΡΙΑΚΗΣ
+Line  79: ΣΥΜΦΩΝΑ ΜΕ ΤΗΝ
+Line  80: ΥΠ ΑΡΙΘΜΟΝ
+Line  81: ΓΕΝ. ΝΣΗ ΣΥΓΚ.
+Line  82: ΝΣΗ
+Line  83: Θέσεις Στάθμευσης
+Line  84: Ζώνη Φύτευσης
+Line  85: Ποδηλατόδρομος
+Line  86: Ζώνη Φύτευσης
+Line  87: Bicycle Lane
+Line  88: Parking Area
+Line  89: Planting Area
+Line  90: Planting Area
+Line  91: Πεζοδρόμιο
+Line  92: Pavement
+Line  93: Ζώνη Φύτευσης
+Line  94: Ποδηλατόδρομος
+Line  95: Ζώνη Φύτευσης
+Line  96: Bicycle Lane
+Line  97: Planting Area
+Line  98: Planting Area
+Line  99: Πεζοδρόμιο
+Line 100: Pavement
+Line 101: Θέσεις Στάθμευσης
+Line 102: Parking Area
+Line 103: SHALLOW WATER FEATURE
+Line 104: ΣΤΟΙΧΕΙΟ
+Line 105: SHALLOW WATER FEATURE
+Line 106: ΣΤΟΙΧΕΙΟ
+Line 107: GYM AMENITIES
+Line 108: Κοινόχρηστος
+Line 109: VEGETATED AREA
+Line 110: ΦΥΤΕΜΕΝΕΣ ΕΠΙΦΑΝΕΙΕΣ
+Line 111: ΕΚΤΟΣ ΦΥΤΕΥΣΗΣ
+Line 112: VEGETATED AREA
+Line 113: ΦΥΤΕΜΕΝΕΣ ΕΠΙΦΑΝΕΙΕΣ
+Line 114: ΕΚΤΟΣ ΦΥΤΕΥΣΗΣ
+Line 115: ΕΡΜΑΡΙΟ ΣΥΛΛΟΓΗΣ ΑΠΟΡΡΙΜΑΤΩΝ
+Line 116: ΣΥΜΦΩΝΑ ΜΕ ΤΟ ΤΟΥ
+Line 117: ΥΠΟΜΝΗΜΑ ΥΛΙΚΩΝ ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΧΩΡΟΥ
+Line 118: COMMON VEGETATED AREA
+Line 119: ΚΟΙΝΟΧΡΗΣΤΗ ΠΕΡΙΟΧΗ ΦΥΤΕΥΣΗΣ
+Line 120: LIMESTONE TILING
+Line 121: ΠΛΑΚΕΣ ΑΣΒΕΣΤΟΛΙΘΟΥ
+Line 122: SHALLOW WATER FEATURE
+Line 123: ΥΔΑΤΙΝΟ ΣΤΟΙΧΕΙΟ
+Line 124: SAND
+Line 125: ΑΜΜΟΣ
+Line 126: PRIVATE VEGETATED AREA
+Line 127: ΙΔΙΩΤΙΚΗ ΠΕΡΙΟΧΗ ΦΥΤΕΥΣΗΣ
+Line 128: 40
+Line 129: ΓΕΝΙΚΕΣ ΣΗΜΕΙΩΣΕΙΣ GENERAL NOTES
+Line 130: ΕΓΓΡΑΦΑ ΑΝΑΦΟΡΑΣ DOCUMENT REFERENCE
+Line 131: ΤΙΤΛΟΣ ΣΧΕΔΙΟΥ DRAWING TITLE
+Line 132: ΚΩΔΙΚΟΣ ΕΓΓΡΑΦΟΥ ΣΧΕΔΙΟΥ DOCUMENT DRAWING CODIFICATION
+Line 133: Project
+Line 134: Originator
+Line 135: Type
+Line 136: Discipline
+Line 137: Stage
+Line 138: Serial Number
+Line 139: Revision
+Line 140: ΚΛΙΜΑΚΑ SCALE
+Line 141: ΔΙΑΤΑΞΗ LAYOUT
+Line 142: REV.
+Line 143: DATE
+Line 144: ISSUE
+Line 145: DESCRIPTION UPDATE VERSION
+Line 146: ORIGINATED
+Line 147: CHECKED
+Line 148: VERIFIED
+Line 149: LEAD DESIGNER
+Line 150: APPROVED
+Line 151: PMC
+Line 152: STATUS
+Line 153: ΣΥΜΒΟΥΛΟΣ ΔΙΑΧΕΙΡΙΣΗΣ ΕΡΓΟΥ
+Line 154: PROJECT MANAGEMENT CONSULTANT
+Line 155: ΣΥΜΒΟΥΛΟΥ ΔΙΑΧΕΙΡΙΣΗΣ ΕΡΓΟΥ
+Line 156: PROJECT MANAGEMENT CONSULTANT DETAILS
+Line 157: ΚΥΡΙΟΣ ΜΕΛΕΤΗΤΗΣ LEAD DESIGNER
+Line 158: ΜΕΛΕΤΗΤΗ LOCAL ARCHITECT
+Line 159: SUBCONSULTANT STRUCTURE
+Line 160: ΕΡΓΟΔΟΤΗΣ EMPLOYER
+Line 161: ΕΡΓΟΔΟΤΗ EMPLOYER DETAILS
+Line 162: ΑΝΑΠΤΥΞΗ ΤΟΥ ΜΗΤΡΟΠΟΛΙΤΙΚΟΥ ΠΟΛΟΥ ΕΛΛΗΝΙΚΟΥ ΑΓIOY ΚΟΣΜΑ
+Line 163: DEVELOPMENT METROPOLITAN POLE HELLINIKON AG. KOSMAS
+Line 164: ΕΡΓΟ PROJECT
+Line 165: ΕΛΛΗΝΙΚΟ HELLINIKON
+Line 166: Kifisias Avenue Golden Hall
+Line 167: 15123 Marousi
+Line 168: Σημείωση Πνευματικών Δικαιωμάτων. 2121 1993
+Line 169: ΕΛΛΗΝΙΚΟ
+Line 170: Ρήτρα Περιορισμού Ευθύνης. Γραφείο
+Line 171: Ελληνικού. ΕΛΛΗΝΙΚΟ
+Line 172: ΝΑ ΜΗΝ ΑΛΛΑΧΘΕΙ ΚΛΙΜΑΚΑ ΤΟΥ ΣΧΕΔΙΟΥ.
+Line 173: Copyright Notice. 2121 1993
+Line 174: HELLINIKON
+Line 175: Disclaimer. Hellinikon Office. HELLINIKON
+Line 176: CHANGE SCALE DRAWING.
+Line 177: SUBCONSULTANT MEP
+Line 178: SUBCONSULTANT LANDSCAPE
+Line 179: SUBCONSULTANT TRAFFIC
+Line 180: SUBCONSULTANT LIGHTING
+Line 181: SUBCONSULTANT ACOUSTICS
+Line 182: SUBCONSULTANT SUSTAINABILITY
+Line 183: SUBCONSULTANT SIGNAGE
+Line 184: URBAN ZONE
+Line 185: ΑΡΧΙΤΕΚΤΟΝΙΚΟΣ ΣΧΕΔΙΑΣΜΟΣ Οριστική Μελέτη
+Line 186: MODEL MDD 234 DD 0001
+Line 187: BJARKE INGELS GROUP BIG
+Line 188: AVINGUDA DA LES DRASSANES
+Line 189: 08001 BARCELON, SPAIN
+Line 190: HELLINIKON
+Line 191: ΑΝΕΓΕΡΣΗ ΥΨΗΛΟΥ ΚΤΙΡΙΟΥ ΚΑΤΟΙΚΙΩΝ ΟΡΟΦΩΝ, ΜΕ ΥΠΕΡΓΕΙΟΥΣ
+Line 192: ΟΡΟΦΟΥΣ ΥΠΟΓΕΙΑ ΒΟΗΘΗΤΙΚΩΝ ΧΩΡΩΝ ΚΑΙ ΧΩΡΩΝ ΣΤΑΘΜΕΥΣΗΣ, ΙΣΟΓΕΙΟ
+Line 193: ΤΜΗΜΑ ΚΟΙΝΟΧΡΗΣΤΩΝ ΛΕΙΤΟΥΡΓΙΩΝ ΤΩΝ ΚΑΤΟΙΚΙΩΝ ΜΕ ΚΛΕΙΣΤΗ ΚΟΛΥΜΒΗΤΙΚΗ
+Line 194: ΔΕΞΑΜΕΝΗ ΣΤΟ ΥΠΟΓΕΙΟ, ΑΝΟΙΚΤΕΣ ΚΟΛΥΜΒΗΤΙΚΕΣ ΔΕΞΑΜΕΝΕΣ ΣΕ ΔΩΜΑΤΑ
+Line 195: ΟΡΟΦΩΝ, ΚΑΤΑΣΚΕΥΕΣ ΜΕ ΦΩΤΟΒΟΛΤΑΙΚΑ ΠΑΝΕΛΑ ΚΑΙ ΗΧΟΠΕΤΑΣΜΑΤΑ ΣΤΑ
+Line 196: ΔΩΜΑΤΑ ΚΤΙΡΙΟΥ, ΔΙΑΜΟΡΦΩΣΗ ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΧΩΡΟΥ, ΔΥΟ ΥΔΑΤΙΝΑ
+Line 197: ΣΕ ΗΜΙΥΠΑΙΘΡΙΟΥΣ ΧΩΡΟΥΣ ΤΟΥ ΜΕ ΦΩΤΟΒΟΛΤΑΙΚΑ
+Line 198: ΠΑΝΕΛΑ ΣΕ ΤΜΗΜΑ ΠΡΑΣΙΑΣ ΚΑΙ ΣΕ ΑΚΑΛΥΠΤΟ ΧΩΡΟ ΟΙΚΟΠΕΔΟΥ ΚΑΙ ΧΡΗΣΗ ΤΟΥ
+Line 199: AΡΘΡΟΥ ΤΟΥ ΝΟΚ ΟΠΩΣ ΙΣΧΥΕΙ ΣΤΟ
+Line 200: D
+Line 201: RES
+Line 202: VAP
+Line 203: DWG
+Line 204: 234
+Line 205: DD
+Line 206: 02317
+Line 207: 4005
+Line 208: ΚΑΤΟΨΗ ΑΚΑΛΥΠΤΟΥ
+Line 209: ΦΥΛΛΟ SHEET 02317
+Line 210: 06 2023
+Line 211: First Issuance Approval
+Line 212: VAP
+Line 213: VAP
+Line 214: BIG
+Line 215: 04 08 2023
+Line 216: Second Issuance Approval
+Line 217: VAP
+Line 218: VAP
+Line 219: BIG
+Line 220: 09 2023
+Line 221: Third Issuance Approval
+Line 222: VAP
+Line 223: VAP
+Line 224: BIG
+Line 225: D
+Line 226: 09 2023
+Line 227: Fourth Issuance Approval
+Line 228: VAP
+Line 229: VAP
+Line 230: BIG
+
+=== END OF FILTERED TEXT ===
+Total lines: 231

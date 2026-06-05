@@ -1,0 +1,362 @@
+=== FILTERED TEXT FOR: ATH04-A-K-788-0_-_GUARD_HOUSE_BUILDING_DOOR_SCHEDULE.pdf ===
+
+Line   0: ELEVATION DOOR
+Line   1: DOOR TYPE EDT 02
+Line   2: TYPICAL LOCATION EXTERIOR
+Line   3: DESCRIPTION DOOR SCHEDULE
+Line   4: IRONMONGERY DOOR SCHEDULE
+Line   5: DIMENSIONS DOOR SCHEDULE
+Line   6: ELEVATION DOOR
+Line   7: DOOR TYPE DT 03
+Line   8: TYPICAL LOCATION EXTERIOR
+Line   9: DESCRIPTION DOOR SCHEDULE
+Line  10: IRONMONGERY DOOR SCHEDULE
+Line  11: DIMENSIONS DOOR SCHEDULE
+Line  12: NOTED SCHEDULE
+Line  13: NOTED SCHEDULE
+Line  14: NOTED SCHEDULE
+Line  15: NOTED SCHEDULE
+Line  16: KEY ABBREVIATIONS
+Line  17: Door Type
+Line  18: Single
+Line  19: Double
+Line  20: Half Leaf
+Line  21: Roller Shutter
+Line  22: Fire Rating
+Line  23: NFR Fire Rated
+Line  24: Access System
+Line  25: ACS Access Control
+Line  26: MON Monitored
+Line  27: Access Contol
+Line  28: CIRI Biometric Iris Reader
+Line  29: CRI Card Reader
+Line  30: CRO Card Reader
+Line  31: RXO Request Exit
+Line  32: EEO Emergency Exit Only
+Line  33: Others Security
+Line  34: Hinges
+Line  35: SSS Satin Stainless Steel
+Line  36: FBE Fusion Bonded Epoxy Power Coating
+Line  37: NOTE
+Line  38: SECONDARY STEEL SUPPORT DOORS PROVIDED REQUIRED.
+Line  39: NEED DESIGN SUCH SUPPORT DETERMINED
+Line  40: CONTRACTOR BASED DOOR WEIGHT, SIZE, INSTALLATION REQUIREMENTS.
+Line  41: SUPPORT STRUCTURES COMPLY APPLICABLE BUILDING STANDARDS
+Line  42: REGULATIONS.
+Line  43: DOOR SCHEDULE READ CONJUNCTION FIRE STRATEGY, SECURITY,
+Line  44: ACOUSTIC INFORMATION DRAWINGS ADDITION
+Line  45: CSA SPECIFICATION IRONMONGERY SCHEDULE. DISCREPANCIES
+Line  46: RAISED A A MATTER URGENCY.
+Line  47: SECURITY PARAMETERS ACCESS CONTROL, CONTROL TYPE,
+Line  48: DEVICE TYPE DETERMINED READ CONJUNCTION SECURITY
+Line  49: PLANS
+Line  50: FIRE PARAMETERS FIRE RATING MINUTES SMOKE SEAL DETERMINED
+Line  51: FIRE COMPARTMENTATION READ
+Line  52: CONJUNCTION FIRE STRATEGY PLANS
+Line  53: ACOUSTIC RATING DB READ CONJUNCTION
+Line  54: ACOUSTIC PLANS
+Line  55: NOTE DOORS REVIEW
+Line  56: Sheet Title Number
+Line  57: Scale
+Line  58: Plan
+Line  59: Design Consultants
+Line  60: Microsoft
+Line  61: DATA CENTER ATH04
+Line  62: SPATA GREECE
+Line  63: Contractor Joint Venture
+Line  64: Name
+Line  65: Contractor Project
+Line  66: Contractor Contract
+Line  67: Contractor PM
+Line  68: Contractor BIM Mngr
+Line  69: Contractor Information
+Line  70: Renco Terna
+Line  71: Client
+Line  72: General Notes
+Line  73: Client Project
+Line  74: Client Contract
+Line  75: Client PM
+Line  76: Client BIM Mngr
+Line  77: Primary Client Information
+Line  78: Layout
+Line  79: Revision
+Line  80: Tombazi Chalandri
+Line  81: 15232
+Line  82: Athens Greece
+Line  83: 0800 3262
+Line  84: Agion Theodoron Square Athens
+Line  85: 10561
+Line  86: Athens Greece
+Line  87: Kimithois Agios Dimitrios
+Line  88: 17236
+Line  89: Athens Greece
+Line  90: Purpose Issue
+Line  91: Issue
+Line  92: Name
+Line  93: A
+Line  94: GUARD HOUSE BUILDING DOOR
+Line  95: SCHEDULE
+Line  96: ATH04 A 788
+Line  97: SCALE
+Line  98: DOOR ELEVATIONS
+Line  99: Door Schedule
+Line 100: Mark
+Line 101: Type Mark
+Line 102: Room
+Line 103: Name
+Line 104: Room
+Line 105: Name
+Line 106: Door Type
+Line 107: Clear Opening
+Line 108: Structural Opening
+Line 109: Door Frame
+Line 110: Material
+Line 111: Door Panel Material
+Line 112: Door Frame Thickness
+Line 113: Door Leaf Thickness
+Line 114: Ironmongery
+Line 115: Sets
+Line 116: Review
+Line 117: SCH Country
+Line 118: Door Leaf
+Line 119: Module
+Line 120: Secondary Steel Support
+Line 121: SCH Protectio
+Line 122: Zone
+Line 123: Fire
+Line 124: Rating
+Line 125: Acoustic
+Line 126: Rating
+Line 127: RC Rating
+Line 128: System
+Line 129: Access Control
+Line 130: Control Type
+Line 131: Door Contact
+Line 132: Lock Type
+Line 133: Emergency Door Release
+Line 134: Corrosion Resistance
+Line 135: Accessiblity
+Line 136: Requirement
+Line 137: CS AHJ
+Line 138: Accessiblity
+Line 139: Opening
+Line 140: Force
+Line 141: Accessibility
+Line 142: Power Assist
+Line 143: Function
+Line 144: Threshold Strip
+Line 145: Vision Panels Type
+Line 146: Lever Handle
+Line 147: Pull Handle
+Line 148: Push
+Line 149: Kick Plate
+Line 150: Astragal
+Line 151: Seal
+Line 152: Dropdown Seal
+Line 153: Hinges
+Line 154: Gril
+Line 155: Closer
+Line 156: Power Door Closer
+Line 157: Power Door Opener
+Line 158: WC Indicator
+Line 159: CSI Number
+Line 160: CSI Short
+Line 161: Title
+Line 162: Comments
+Line 163: Width
+Line 164: Height
+Line 165: Rough Width Rough Height
+Line 166: DT 03
+Line 167: WC
+Line 168: OFFICE
+Line 169: 2215
+Line 170: 1060
+Line 171: 2260
+Line 172: Timber
+Line 173: Veneer
+Line 174: Timber Veneer
+Line 175: 44
+Line 176: 44
+Line 177: A
+Line 178: CDP
+Line 179: A
+Line 180: A
+Line 181: A
+Line 182: MORTICE
+Line 183: LOCK
+Line 184: THUMBTURN
+Line 185: A
+Line 186: YES
+Line 187: YES
+Line 188: BUTT
+Line 189: HINGES,
+Line 190: SSS
+Line 191: YES
+Line 192: YES
+Line 193: YES
+Line 194: TIMBER
+Line 195: DOORS
+Line 196: GH
+Line 197: EDT 02
+Line 198: OFFICE
+Line 199: 1064
+Line 200: 2355
+Line 201: 1200
+Line 202: 2400
+Line 203: Aluminium
+Line 204: Glass
+Line 205: 45
+Line 206: 45
+Line 207: A
+Line 208: CDP
+Line 209: TBD
+Line 210: ACS
+Line 211: READER
+Line 212: REX
+Line 213: YES
+Line 214: CLASSROOM
+Line 215: YES
+Line 216: TAMPER
+Line 217: PROOF
+Line 218: YES
+Line 219: GLAZED
+Line 220: DOORS
+Line 221: GH
+Line 222: EDT 02
+Line 223: OFFICE
+Line 224: 1064
+Line 225: 2355
+Line 226: 1200
+Line 227: 2400
+Line 228: Aluminium
+Line 229: Glass
+Line 230: 45
+Line 231: 45
+Line 232: A
+Line 233: CDP
+Line 234: TBD
+Line 235: ACS
+Line 236: READER
+Line 237: REX
+Line 238: YES
+Line 239: CLASSROOM
+Line 240: YES
+Line 241: TAMPER
+Line 242: PROOF
+Line 243: YES
+Line 244: GLAZED
+Line 245: DOORS
+Line 246: GH
+Line 247: Ceiling Hatch Schedule
+Line 248: Mark
+Line 249: Type Mark
+Line 250: Room
+Line 251: Name
+Line 252: Room
+Line 253: Name
+Line 254: Door Type
+Line 255: Clear Opening
+Line 256: Structural Opening
+Line 257: Door Frame
+Line 258: Material
+Line 259: Door Panel Material
+Line 260: Door Frame Thickness
+Line 261: Door Leaf Thickness
+Line 262: Ironmongery
+Line 263: Sets
+Line 264: Review
+Line 265: SCH Country
+Line 266: Door Leaf
+Line 267: Module
+Line 268: Secondary Steel Support
+Line 269: SCH Protectio
+Line 270: Zone
+Line 271: Fire
+Line 272: Rating
+Line 273: Acoustic
+Line 274: Rating
+Line 275: RC Rating
+Line 276: System
+Line 277: Access Control
+Line 278: Control Type
+Line 279: Door Contact
+Line 280: Lock Type
+Line 281: Emergency Door Release
+Line 282: Corrosion Resistance
+Line 283: Accessiblity
+Line 284: Requirement
+Line 285: CS AHJ
+Line 286: Accessiblity
+Line 287: Opening
+Line 288: Force
+Line 289: Accessibility
+Line 290: Power Assist
+Line 291: Function
+Line 292: Threshold Strip
+Line 293: Vision Panels Type
+Line 294: Lever Handle
+Line 295: Pull Handle
+Line 296: Push
+Line 297: Kick Plate
+Line 298: Astragal
+Line 299: Seal
+Line 300: Dropdown Seal
+Line 301: Hinges
+Line 302: Gril
+Line 303: Closer
+Line 304: Power Door Closer
+Line 305: Power Door Opener
+Line 306: WC Indicator
+Line 307: CSI Number
+Line 308: CSI Short
+Line 309: Title
+Line 310: Comments
+Line 311: Width
+Line 312: Height
+Line 313: Rough Width Rough Height
+Line 314: CH
+Line 315: WC
+Line 316: WC
+Line 317: 450
+Line 318: 450
+Line 319: METAL
+Line 320: FINISH MATCH
+Line 321: ADJACENT
+Line 322: CEILING
+Line 323: CDP
+Line 324: SECURITY
+Line 325: LOCK
+Line 326: CONCEALE
+Line 327: ACCESS
+Line 328: DOORS
+Line 329: PANELS
+Line 330: ADMIN
+Line 331: CH
+Line 332: WC
+Line 333: 450
+Line 334: 450
+Line 335: METAL
+Line 336: FINISH MATCH
+Line 337: ADJACENT
+Line 338: CEILING
+Line 339: CDP
+Line 340: SECURITY
+Line 341: LOCK
+Line 342: CONCEALE
+Line 343: ACCESS
+Line 344: DOORS
+Line 345: PANELS
+Line 346: ADMIN
+Line 347: ADMIN
+Line 348: COLO
+Line 349: COLO
+Line 350: TRUE NORTH
+Line 351: Date
+Line 352: Description
+Line 353: A
+Line 354: 04
+Line 355: Issued Approval
+Line 356: HVE JV
+
+=== END OF FILTERED TEXT ===
+Total lines: 357

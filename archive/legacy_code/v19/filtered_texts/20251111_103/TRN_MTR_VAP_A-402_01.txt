@@ -1,0 +1,100 @@
+=== FILTERED TEXT FOR: TRN_MTR_VAP_A-402_01.pdf ===
+
+Line   0: ΟΡΟΦΟΣ
+Line   1: 6730
+Line   2: ΟΡΟΦΟΣ
+Line   3: 9910
+Line   4: ΟΡΟΦΟΣ
+Line   5: 13010
+Line   6: ΟΡΟΦΟΣ
+Line   7: 16000
+Line   8: ΟΡΟΦΟΣ
+Line   9: 19360
+Line  10: ΙΣΟΓΕΙΟ
+Line  11: 3760
+Line  12: 2060
+Line  13: ΙΣΟΓΕΙΟ
+Line  14: ΓΡΑΜΜΗ ΦΥΣΙΚΟ
+Line  15: ΓΡΑΜΜΗ ΦΥΣΙΚΟ
+Line  16: ΥΠΕΡΔΩΜΑ
+Line  17: 25390
+Line  18: ΣΤΑΘΜΗ
+Line  19: 20780
+Line  20: 2800
+Line  21: Εµφανές Σκυρόδεµα
+Line  22: ΥΠΟΜΝΗΜΑ
+Line  23: Επίχρισµα
+Line  24: Ενεργειακά Κουφώµατα
+Line  25: Μεταλλική Πέργκολα
+Line  26: Λορίδες Αλουµινίου
+Line  27: Μεταλλική Πλέγµα
+Line  28: ΚΛΙΜΑΚΑ
+Line  29: SCALE
+Line  30: ΕΡΓΟ
+Line  31: ΗΜΕΡΟΜΗΝΙΑ
+Line  32: FIRST ISSUE DATE
+Line  33: ΠΕΡΙΟΧΗ
+Line  34: ZONE
+Line  35: ISSUED
+Line  36: CONSTRUCTION
+Line  37: APPROVAL
+Line  38: TENDER
+Line  39: STATUS
+Line  40: DRAFT
+Line  41: FINAL
+Line  42: DISCIPLINE
+Line  43: ARC
+Line  44: ΑΝΑΘ.
+Line  45: REV.
+Line  46: VAP
+Line  47: PROJECT
+Line  48: DRAWING
+Line  49: CLIENT
+Line  50: Τοµπάζη Χαλάνδρι, 15332
+Line  51: 3262 3269
+Line  52: KEY PLAN
+Line  53: ΠΡΟΕΓΚΡΙΣΗ ΓΙΑ ΕΣΩΤΕΡΙΚΕΣ ΣΕ
+Line  54: ΥΦΙΣΤΑΜΕΝO ΚΤΙΡΙΟ ΓΡΑΦΕΙΩΝ ΧΩΡΙΣ
+Line  55: ΜΕΤΑΒΟΛΗ ΦΟΡΤΙΩΝ, ΠΡΟΣΘΗΚΗ
+Line  56: ΑΝΕΛΚΥΣΤΗΡΑ ΑΜΕΑ, ΕΠΕΜΒΑΣΕΙΣ ΣΤΙΣ ΟΨΕΙΣ
+Line  57: ΜΕ ΧΡΗΣΗ ΙΚΡΙΩΜΑΤΩΝ, ΕΓΚΑΤΑΣΤΑΣΗ
+Line  58: ΦΩΤΟΒΟΛΤΑΪΚΩΝ ΣΥΣΤΗΜΑΤΩΝ, ΠΡΟΣΘΗΚΗ
+Line  59: ΣΤΕΓΑΣΤΡΟΥ ΣΤΟ
+Line  60: ΑΚΑΛΥΠΤΟΥ ΧΩΡΟΥ ΚΑΙ ΟΠΗ ΠΛΑΚΑΣ ΓΙΑ ΤΗ
+Line  61: ΣΤΑΣΗΣ ΚΛΙΜΑΚΟΣΤΑΣΙΟΥ
+Line  62: ΘΕΣΗ
+Line  63: LOCATION
+Line  64: ΜΕΣΟΓΕΙΩΝ ΚΑΙ ΤΡΙΚΑΛΩΝ
+Line  65: ΑΜΠΕΛΟΚΗΠΟΙ ΑΘΗΝΑΙΩΝ 80077
+Line  66: ΑΡΧΙΤΕΚΤΟΝIKH ΜΕΛΕΤΗ
+Line  67: ARCHITECTURAL DESIGN
+Line  68: ΣΤΑΤΙΚΗ ΜΕΛΕΤΗ
+Line  69: STRUCTURAL DESIGN
+Line  70: ΜΗΧΑΝΟΛΟΓΙΚΗ ΜΕΛΕΤΗ
+Line  71: MEP DESIGN
+Line  72: Λεωφ. Αναγυρούντος 16672, Βάρη
+Line  73: 4395 4637
+Line  74: NSZ
+Line  75: Φιλολάου Ηλιούπουλη
+Line  76: ΜΕΛΕΤΗ
+Line  77: STUDY
+Line  78: STAGE
+Line  79: ΜΕΛΕΤΗΤΗ
+Line  80: DESIGNER STAMP
+Line  81: ΕΤΑΙΡΕΙΑΣ
+Line  82: COMPANY STAMP
+Line  83: ΚΗΜ ΕΜΜΑΝΟΥΗΛ ΤΣΕΚΟΥΡΑΣ
+Line  84: ΛΙΘΟΣ ΣΥΜΒΟΥΛΟΙ ΜΗΧΑΝΙΚΟΙ
+Line  85: VASSILIS ALEXANDROS POUTETSIS
+Line  86: ARCHITECTS ASSOCIATES IKE
+Line  87: ΟΨΗ ΤΡΙΚΑΛΩΝ
+Line  88: 08 06
+Line  89: A 402
+Line  90: ΑΝΑΘΕΩΡΗΣΕΙΣ
+Line  91: ΠΕΡΙΓΡΑΦΗ DESCRIPTION
+Line  92: ΗΜ ΝΙΑ DATE
+Line  93: ΠΡΩΤΗ ΥΠΟΒΟΛΗ
+Line  94: 08 06 2021
+
+=== END OF FILTERED TEXT ===
+Total lines: 95

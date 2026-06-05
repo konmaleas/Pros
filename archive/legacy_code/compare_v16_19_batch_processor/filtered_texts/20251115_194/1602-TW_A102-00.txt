@@ -1,0 +1,122 @@
+=== FILTERED TEXT FOR: 1602-TW_A102-00.pdf ===
+
+Line   0: 2
+Line   1: 4
+Line   2: 00
+Line   3: 2
+Line   4: 00
+Line   5: LOBBY
+Line   6: OFFICE
+Line   7: 2
+Line   8: WC
+Line   9: 2
+Line  10: WC
+Line  11: KITCHENETTE
+Line  12: 2
+Line  13: WC
+Line  14: 2
+Line  15: WC
+Line  16: OFFICE
+Line  17: 2
+Line  18: WC
+Line  19: 2
+Line  20: WC
+Line  21: KITCHENETTE
+Line  22: 2
+Line  23: WC
+Line  24: 2
+Line  25: WC
+Line  26: Enclosed
+Line  27: OFFICE
+Line  28: WC
+Line  29: 2
+Line  30: WC
+Line  31: KITCHENETTE
+Line  32: WC
+Line  33: 2
+Line  34: WC
+Line  35: Enclosed
+Line  36: OFFICE
+Line  37: WC
+Line  38: 2
+Line  39: WC
+Line  40: KITCHENETTE
+Line  41: 2
+Line  42: WC
+Line  43: 2
+Line  44: WC
+Line  45: OFFICE
+Line  46: 2
+Line  47: WC
+Line  48: 2
+Line  49: WC
+Line  50: KITCHENETTE
+Line  51: 2
+Line  52: WC
+Line  53: 2
+Line  54: WC
+Line  55: OFFICE
+Line  56: 2
+Line  57: WC
+Line  58: 2
+Line  59: WC
+Line  60: KITCHENETTE
+Line  61: 2
+Line  62: WC
+Line  63: 2
+Line  64: WC
+Line  65: 4
+Line  66: LIFT
+Line  67: SHAFT
+Line  68: 2
+Line  69: SHAFT
+Line  70: 2
+Line  71: ROOM
+Line  72: STAIRCASE
+Line  73: 2
+Line  74: WC
+Line  75: 2
+Line  76: WC
+Line  77: WC DISABLED
+Line  78: 01
+Line  79: 02
+Line  80: 03
+Line  81: 04
+Line  82: 05
+Line  83: 06
+Line  84: REVISIONS
+Line  85: DESCRIPTION
+Line  86: DATE
+Line  87: CLIENT
+Line  88: PROJECT
+Line  89: DESIGN STAGE
+Line  90: DATE
+Line  91: SCALE
+Line  92: FILE NAME
+Line  93: DRAWING TITLE
+Line  94: DRAWING
+Line  95: TAHLIA WALK
+Line  96: VAPARCHITECTS
+Line  97: Epirou Street
+Line  98: Athens, GR Greece
+Line  99: 3262
+Line 100: 3269
+Line 101: DESIGN ARCHITECTS
+Line 102: STRUCTURAL ENGINEER
+Line 103: CONSULTANTS
+Line 104: MEP ENGINEER
+Line 105: STUDIO
+Line 106: Isavron
+Line 107: Lycabettus
+Line 108: Athens, GR 11471 Greece
+Line 109: ZAD DEVELOPMENT
+Line 110: 06 05 2016
+Line 111: 00
+Line 112: Level
+Line 113: Ground Floor
+Line 114: Project Status
+Line 115: Level Ground Floor
+Line 116: 1602 TW 00
+
+=== END OF FILTERED TEXT ===
+Total lines: 117

@@ -1,0 +1,173 @@
+=== FILTERED TEXT FOR: Π02_-_ΠΙΝΑΚΑΣ_ΠΟΣΟΤΗΤΩΝ.pdf ===
+
+Line   0: ΚΛΙΜΑΚΑ
+Line   1: ΕΡΓΟ
+Line   2: ΑΡΙΘΜΟΣ
+Line   3: ΗΜΕΡΟΜΗΝΙΑ ΜΕΛΕΤΗΣ
+Line   4: ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΜΕΛΕΤΗ
+Line   5: ΜΕΛΕΤΗΣ
+Line   6: ΣΤΑΤΙΚΗ ΜΕΛEΤΗ
+Line   7: ΗΜ ΝΙΑ
+Line   8: ΚΑΤΗΓΟΡΙΑ
+Line   9: ΜΕΛΕΤΗ ΕΓΚΑΤΑΣΤΑΣΕΩΝ
+Line  10: Φιλολάου Ηλιούπολη 16342 Ελλάδα
+Line  11: ΚΗΜ
+Line  12: ΟΜΙΛΟΣ
+Line  13: ΧΡΗΜΑΤΙΣΤΗΡΙΟΥ ΑΘΗΝΩΝ
+Line  14: Φιλήμονος Αθήνα 11521 Ελλάδα
+Line  15: Ηπείρου Αθήνα, Ελλάδα
+Line  16: 3262 3269
+Line  17: ΑΡΧΙΤΕΚΤΟΝΙΚH ΜΕΛEΤΗ
+Line  18: ΠΙΝΑΚΑΣ ΠΟΣΟΤΗΤΩΝ
+Line  19: ΜΑΡΤΙΟΥ
+Line  20: 2017
+Line  21: ΜΕΛΕΤΗ
+Line  22: Λεωφ. Αθηνών Αθήνα 42
+Line  23: 03 2017
+Line  24: ΝΕΑ ΧΩΡΩΝ
+Line  25: ΤΟΥ ΤΟΥ ΟΜΙΛΟΥ
+Line  26: ΧΡΗΜΑΤIΣΤHΡΙΟΥ ΑΘΗΝΩΝ
+Line  27: Type
+Line  28: Type Mark
+Line  29: Area
+Line  30: Level SSL
+Line  31: Χαλαζιακό
+Line  32: Concrete
+Line  33: Level FFL
+Line  34: ΜΟΚΕΤΑ ΣΕ ΚΟΜΜΑΤΙΑ ΠΑΧΟΥΣ FLOTEX
+Line  35: FORBO
+Line  36: Denco DM Quality ΕΠΕ Μαλαματίνας
+Line  37: ΚΕΡΑΜΙΚΟ Royal Mosa, Quality ΕΠΕ Μαλαματίνας
+Line  38: Level FFL
+Line  39: ΒΙΝΥΛΙΚΕΣ ΠΛΑΚΕΣ ΠΑΧΟΥΣ COLLECTION,
+Line  40: ΜΟΚΕΤΑ ΣΕ ΚΟΜΜΑΤΙΑ ΠΑΧΟΥΣ FLOTEX
+Line  41: FORBO
+Line  42: ΕΤΕΡΟΓΕΝΕΙΣ ΒΙΝΥΛΙΚΕΣ ΠΛΑΚΕΣ ΠΑΧΟΥΣ ALLURA FLEX STONE 1508
+Line  43: ,FORBO
+Line  44: DECK ΕΚ. ΜΕ ΣΚΕΛΕΤΟ ΕΚ.
+Line  45: Bathroom Tiles
+Line  46: ΥΓΙΕΙΝΗΣ
+Line  47: Family
+Line  48: Count
+Line  49: ΕΠΙΤΟΙΧΗ
+Line  50: ΚΑΖΑΝΑΚΙ ΕΝΤΟΙΧΙΣΜΕΝΟ
+Line  51: ΚΑΘΡΕΠΤΗΣ
+Line  52: ΛΕΚΑΝΗ ΕΠΙΤΟΙΧΗ
+Line  53: ΜΠΑΤΑΡΙΑ ΝΙΠΤΗΡΑ
+Line  54: ΝΙΠΤΗΡΑΣ ΕΠΙΚΑΘΗΜΕΝΟΣ
+Line  55: ΣΑΠΟΥΝΟΘΗΚΗ ΕΠΙΤΟΙΧΗ
+Line  56: ΧΑΡΤΟΘΗΚΗ ΕΠΙΤΟΙΧΗ
+Line  57: ΡΟΛΛΑ ΣΚΙΑΣΗΣ
+Line  58: ΜΗΚΟΣ
+Line  59: ΥΨΟΣ
+Line  60: Level FFL
+Line  61: 1260
+Line  62: 1400
+Line  63: 1400
+Line  64: 1400
+Line  65: 1400
+Line  66: 1400
+Line  67: 1400
+Line  68: 1570
+Line  69: 1570
+Line  70: 1570
+Line  71: 1610
+Line  72: 1610
+Line  73: 1730
+Line  74: 1730
+Line  75: 1730
+Line  76: 1730
+Line  77: 1730
+Line  78: 1730
+Line  79: 1760
+Line  80: 1795
+Line  81: 1860
+Line  82: 1885
+Line  83: 1970
+Line  84: Level FFL
+Line  85: 1800
+Line  86: 2225
+Line  87: 2300
+Line  88: 2300
+Line  89: 2300
+Line  90: 2300
+Line  91: 2400
+Line  92: 2400
+Line  93: 2400
+Line  94: ΡΟΛΛΑ ΣΥΣΚΟΤΙΣΗΣ
+Line  95: ΜΗΚΟΣ
+Line  96: ΥΨΟΣ
+Line  97: Level FFL
+Line  98: 1260
+Line  99: 3450
+Line 100: 1400
+Line 101: 3550
+Line 102: 1400
+Line 103: 3550
+Line 104: 1400
+Line 105: 3550
+Line 106: 1400
+Line 107: 3550
+Line 108: 1400
+Line 109: 3550
+Line 110: 1400
+Line 111: 3550
+Line 112: 1570
+Line 113: 3450
+Line 114: 1570
+Line 115: 3450
+Line 116: 1570
+Line 117: 3450
+Line 118: 1610
+Line 119: 3550
+Line 120: 1610
+Line 121: 3550
+Line 122: 1730
+Line 123: 3550
+Line 124: 1730
+Line 125: 3550
+Line 126: 1730
+Line 127: 3550
+Line 128: 1730
+Line 129: 3550
+Line 130: 1730
+Line 131: 3550
+Line 132: 1730
+Line 133: 3550
+Line 134: 1760
+Line 135: 3450
+Line 136: 1795
+Line 137: 3450
+Line 138: 1860
+Line 139: 3450
+Line 140: 1885
+Line 141: 3450
+Line 142: 1970
+Line 143: 3450
+Line 144: Level FFL
+Line 145: 1925
+Line 146: 1800
+Line 147: 1925
+Line 148: 2225
+Line 149: 1925
+Line 150: 2300
+Line 151: 1925
+Line 152: 2300
+Line 153: 1925
+Line 154: 2300
+Line 155: 1925
+Line 156: 2300
+Line 157: 1925
+Line 158: 2400
+Line 159: 1925
+Line 160: 2400
+Line 161: 1925
+Line 162: 2400
+Line 163: 1925
+Line 164: Type Mark
+Line 165: Area
+Line 166: Level FFL
+Line 167: Level FFL
+
+=== END OF FILTERED TEXT ===
+Total lines: 168

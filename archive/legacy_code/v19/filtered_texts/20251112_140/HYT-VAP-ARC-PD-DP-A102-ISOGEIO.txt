@@ -1,0 +1,16 @@
+=== FILTERED TEXT FOR: HYT-VAP-ARC-PD-DP-A102-ISOGEIO.pdf ===
+
+Line   0: B
+Line   1: LIVING ROOM
+Line   2: Minibar
+Line   3: 42
+Line   4: B B
+Line   5: B B
+Line   6: DOUCHE
+Line   7: WC
+Line   8: WC
+Line   9: DOUCHE
+Line  10: WC
+
+=== END OF FILTERED TEXT ===
+Total lines: 11

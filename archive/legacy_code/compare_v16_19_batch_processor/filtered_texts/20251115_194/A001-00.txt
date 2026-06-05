@@ -1,0 +1,23 @@
+=== FILTERED TEXT FOR: A001-00.pdf ===
+
+Line   0: 2691
+Line   1: 05
+Line   2: 04
+Line   3: 03
+Line   4: 02
+Line   5: 01
+Line   6: 2017
+Line   7: 2 2 2
+Line   8: 2 2 2
+Line   9: 2
+Line  10: 4
+Line  11: Ǽȇīȅ
+Line  12: 0601 700 1457 2691
+Line  13: 21752
+Line  14: 01
+Line  15: 01
+Line  16: 02
+Line  17: 2
+
+=== END OF FILTERED TEXT ===
+Total lines: 18

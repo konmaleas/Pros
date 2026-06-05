@@ -1,0 +1,544 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-933-0A_-_INTERNAL_DOOR_BALLARD_SCHEDULE.pdf ===
+
+Line   0: ADMIN
+Line   1: 2
+Line   2: 2
+Line   3: 4
+Line   4: 2
+Line   5: 4
+Line   6: TRUE NORTH
+Line   7: Sheet Title Number
+Line   8: Scale
+Line   9: Plan
+Line  10: Design Consultants
+Line  11: Microsoft
+Line  12: DATA CENTER
+Line  13: SPATA GREECE
+Line  14: Contractor Joint Venture
+Line  15: Name
+Line  16: Contractor Project
+Line  17: Contractor Contract
+Line  18: Contractor PM
+Line  19: Contractor BIM Mngr
+Line  20: Contractor Information
+Line  21: Renco Terna
+Line  22: Client
+Line  23: General Notes
+Line  24: Client Project
+Line  25: Client Contract
+Line  26: Client PM
+Line  27: Client BIM Mngr
+Line  28: Primary Client Information
+Line  29: Layout
+Line  30: Revision
+Line  31: Tombazi Chalandri
+Line  32: 15232
+Line  33: Athens Greece
+Line  34: 0800 3262
+Line  35: Agion Theodoron Square Athens
+Line  36: 10561
+Line  37: Athens Greece
+Line  38: Kimithois Agios Dimitrios
+Line  39: 17236
+Line  40: Athens Greece
+Line  41: Purpose Issue
+Line  42: Issue
+Line  43: Name
+Line  44: INTERNAL DOOR BALLARD
+Line  45: SCHEDULE
+Line  46: VAP AH
+Line  47: Internal Door Schedule Colo
+Line  48: Mark
+Line  49: Type
+Line  50: Mark
+Line  51: Room Name
+Line  52: Room Name
+Line  53: Structural Opening
+Line  54: Performance Detail
+Line  55: Vision Panel
+Line  56: Type
+Line  57: Door Frame
+Line  58: Thickness
+Line  59: Door Leaf
+Line  60: Thickness
+Line  61: Security
+Line  62: Control
+Line  63: Type
+Line  64: Ironmongery Sets
+Line  65: Lever Handle Pull Handle
+Line  66: Push
+Line  67: Kick Plate
+Line  68: Door Frame
+Line  69: Panel Finish
+Line  70: Rough Width
+Line  71: Rough Height
+Line  72: Fire Rating
+Line  73: Acoustic
+Line  74: Rating
+Line  75: DC 005
+Line  76: 2
+Line  77: MON
+Line  78: MEC
+Line  79: FR XX
+Line  80: DC 007
+Line  81: MON
+Line  82: MEC
+Line  83: FR XX
+Line  84: DC 009
+Line  85: LOBBY
+Line  86: NFR
+Line  87: MON
+Line  88: MEC
+Line  89: FR XX
+Line  90: DC 010
+Line  91: 2
+Line  92: LOBBY
+Line  93: NFR
+Line  94: MON
+Line  95: MEC
+Line  96: FR XX
+Line  97: DC 011
+Line  98: LOBBY
+Line  99: NFR
+Line 100: MON
+Line 101: MEC
+Line 102: FR XX
+Line 103: DC 013
+Line 104: MON
+Line 105: MEC
+Line 106: FR XX
+Line 107: DC 015
+Line 108: 4
+Line 109: MON
+Line 110: MEC
+Line 111: FR XX
+Line 112: DC 019
+Line 113: 4
+Line 114: LOBBY
+Line 115: NFR
+Line 116: MON
+Line 117: MEC
+Line 118: FR XX
+Line 119: DC 020
+Line 120: MECHANICAL GALLERY 2
+Line 121: NFR
+Line 122: MON
+Line 123: MEC
+Line 124: FR XX
+Line 125: DC 023
+Line 126: GALLERY LOBBY
+Line 127: GALLERY LOBBY
+Line 128: NFR
+Line 129: FR XX
+Line 130: DC 025
+Line 131: MECHANICAL GALLERY
+Line 132: NFR
+Line 133: MON
+Line 134: MEC
+Line 135: FR XX
+Line 136: DC 027
+Line 137: GALLERY LOBBY
+Line 138: GALLERY LOBBY
+Line 139: NFR
+Line 140: FR XX
+Line 141: DC
+Line 142: MECHANICAL GALLERY 4
+Line 143: GALLERY LOBBY
+Line 144: NFR
+Line 145: FR AC
+Line 146: DC
+Line 147: MECHANICAL GALLERY 2
+Line 148: GALLERY LOBBY
+Line 149: NFR
+Line 150: FR AC
+Line 151: DC
+Line 152: MECHANICAL GALLERY 4
+Line 153: 2 MECHANICAL GALLERY 2
+Line 154: FR XX
+Line 155: DC
+Line 156: MECHANICAL GALLERY
+Line 157: 2 MECHANICAL GALLERY
+Line 158: FR XX
+Line 159: DC 001
+Line 160: AIRLOCK
+Line 161: 2230
+Line 162: XX AC
+Line 163: DC 021
+Line 164: LOBBY
+Line 165: GALLERY LOBBY
+Line 166: 2230
+Line 167: NFR
+Line 168: DC 024
+Line 169: LOBBY
+Line 170: GALLERY LOBBY
+Line 171: 2230
+Line 172: NFR
+Line 173: 01 XX XX
+Line 174: DC 028
+Line 175: LOBBY
+Line 176: GALLERY LOBBY
+Line 177: 2230
+Line 178: NFR
+Line 179: DC 029
+Line 180: LOBBY
+Line 181: GALLERY LOBBY
+Line 182: 2230
+Line 183: NFR
+Line 184: DC
+Line 185: MECHANICAL GALLERY
+Line 186: GALLERY LOBBY
+Line 187: 2230
+Line 188: NFR
+Line 189: FR AC
+Line 190: DC
+Line 191: MECHANICAL GALLERY
+Line 192: GALLERY LOBBY
+Line 193: 2230
+Line 194: NFR
+Line 195: FR AC
+Line 196: DC
+Line 197: AIRLOCK
+Line 198: 2230
+Line 199: ACS
+Line 200: 01 XX AC
+Line 201: DC 002
+Line 202: 2
+Line 203: 2150
+Line 204: ACS
+Line 205: DC 003
+Line 206: 2
+Line 207: 2150
+Line 208: DC 004
+Line 209: ELEC 2
+Line 210: 2150
+Line 211: MON
+Line 212: MFC
+Line 213: DC 008
+Line 214: ELEC
+Line 215: 2150
+Line 216: MON
+Line 217: MFC
+Line 218: DC 012
+Line 219: ELEC
+Line 220: 2150
+Line 221: MON
+Line 222: MFC
+Line 223: DC 014
+Line 224: 2150
+Line 225: DC 016
+Line 226: ELEC 4
+Line 227: 2150
+Line 228: MON
+Line 229: MFC
+Line 230: DC 017
+Line 231: 4
+Line 232: 2150
+Line 233: DC 018
+Line 234: 4
+Line 235: 2150
+Line 236: DC 031
+Line 237: ELEC 2
+Line 238: LOBBY
+Line 239: 2150
+Line 240: ACS
+Line 241: FR AC
+Line 242: DC 035
+Line 243: ELEC 4
+Line 244: LOBBY
+Line 245: 2150
+Line 246: ACS
+Line 247: FR AC
+Line 248: DC 036
+Line 249: ELEC
+Line 250: LOBBY
+Line 251: 2150
+Line 252: ACS
+Line 253: XX AC
+Line 254: DC 039
+Line 255: ELEC
+Line 256: LOBBY
+Line 257: 2150
+Line 258: ACS
+Line 259: FR AC
+Line 260: DC
+Line 261: 2
+Line 262: 2150
+Line 263: DC 030
+Line 264: LOBBY
+Line 265: LOBBY
+Line 266: 1730
+Line 267: 2365
+Line 268: FR LH XX
+Line 269: DC 032
+Line 270: 2
+Line 271: LOBBY
+Line 272: 1730
+Line 273: 2365
+Line 274: ACS
+Line 275: FR LH AC
+Line 276: DC 033
+Line 277: LOBBY
+Line 278: LOBBY
+Line 279: 1730
+Line 280: 2365
+Line 281: FR LH XX
+Line 282: DC 034
+Line 283: 4
+Line 284: LOBBY
+Line 285: 1730
+Line 286: 2365
+Line 287: ACS
+Line 288: FR LH AC
+Line 289: DC 037
+Line 290: LOBBY
+Line 291: 1730
+Line 292: 2365
+Line 293: ACS
+Line 294: FR LH AC
+Line 295: DC 038
+Line 296: LOBBY
+Line 297: 1730
+Line 298: 2365
+Line 299: ACS
+Line 300: FR LH AC
+Line 301: DC 040
+Line 302: LOBBY
+Line 303: LOBBY
+Line 304: 1730
+Line 305: 2365
+Line 306: FR LH XX
+Line 307: DC 041
+Line 308: LOBBY
+Line 309: LOBBY
+Line 310: 1730
+Line 311: 2365
+Line 312: FR LH XX
+Line 313: DC 045
+Line 314: MECH GALLERY 2 GANTRY LOBBY GANTRY
+Line 315: 2065
+Line 316: FR XX
+Line 317: DC 046
+Line 318: LOBBY GANTRY
+Line 319: ELEC. ROOM GANTRY
+Line 320: FR XX
+Line 321: DC 047
+Line 322: LOBBY GANTRY
+Line 323: ELEC. ROOM 2 GANTRY
+Line 324: FR XX
+Line 325: DC 048
+Line 326: MECH GALLERY GANTRY LOBBY GANTRY
+Line 327: 2065
+Line 328: FR XX
+Line 329: DC 049
+Line 330: MECH GALLERY GANTRY LOBBY GANTRY
+Line 331: 2065
+Line 332: FR XX
+Line 333: DC 050
+Line 334: LOBBY GANTRY
+Line 335: ELEC. ROOM 4 GANTRY
+Line 336: FR XX
+Line 337: DC 051
+Line 338: LOBBY GANTRY
+Line 339: ELEC. ROOM GANTRY
+Line 340: FR XX
+Line 341: DC 052
+Line 342: MECH GALLERY 4 GANTRY LOBBY GANTRY
+Line 343: 2065
+Line 344: FR XX
+Line 345: Grand
+Line 346: Internal Door Schedule Colo HAC
+Line 347: Mark
+Line 348: Type Mark
+Line 349: Room Name
+Line 350: Room Name
+Line 351: Structural Opening
+Line 352: Performance Detail
+Line 353: Door Frame
+Line 354: Thickness
+Line 355: Door Leaf
+Line 356: Thickness
+Line 357: Vision Panel
+Line 358: Type
+Line 359: Security
+Line 360: Control
+Line 361: Type
+Line 362: Ironmongery
+Line 363: Sets
+Line 364: Lever Handle Pull Handle
+Line 365: Push
+Line 366: Kick Plate
+Line 367: Door Frame
+Line 368: Panel Finish
+Line 369: Rough Width
+Line 370: Rough Height
+Line 371: Fire Rating
+Line 372: Acoustic Rating
+Line 373: HAC 001
+Line 374: 2
+Line 375: 2
+Line 376: NFR
+Line 377: XX FE
+Line 378: HAC 002
+Line 379: 2
+Line 380: 2
+Line 381: NFR
+Line 382: XX FE
+Line 383: HAC 003
+Line 384: 2
+Line 385: 2
+Line 386: NFR
+Line 387: XX FE
+Line 388: HAC 004
+Line 389: 2
+Line 390: 2
+Line 391: NFR
+Line 392: XX FE
+Line 393: HAC 005
+Line 394: 2
+Line 395: 2
+Line 396: NFR
+Line 397: XX FE
+Line 398: HAC 006
+Line 399: 2
+Line 400: 2
+Line 401: NFR
+Line 402: XX FE
+Line 403: HAC 007
+Line 404: 2
+Line 405: 2
+Line 406: NFR
+Line 407: XX FE
+Line 408: HAC 008
+Line 409: 2
+Line 410: 2
+Line 411: NFR
+Line 412: XX FE
+Line 413: HAC 009
+Line 414: 2
+Line 415: 2
+Line 416: NFR
+Line 417: XX FE
+Line 418: HAC 010
+Line 419: 2
+Line 420: 2
+Line 421: NFR
+Line 422: XX FE
+Line 423: HAC 011
+Line 424: 4
+Line 425: 4
+Line 426: NFR
+Line 427: XX FE
+Line 428: HAC 012
+Line 429: 4
+Line 430: 4
+Line 431: NFR
+Line 432: XX FE
+Line 433: HAC 013
+Line 434: 4
+Line 435: 4
+Line 436: NFR
+Line 437: XX FE
+Line 438: HAC 014
+Line 439: 4
+Line 440: 4
+Line 441: NFR
+Line 442: XX FE
+Line 443: HAC 015
+Line 444: 4
+Line 445: 4
+Line 446: NFR
+Line 447: XX FE
+Line 448: HAC 016
+Line 449: 4
+Line 450: 4
+Line 451: NFR
+Line 452: XX FE
+Line 453: HAC 017
+Line 454: 4
+Line 455: 4
+Line 456: NFR
+Line 457: XX FE
+Line 458: HAC 018
+Line 459: 4
+Line 460: 4
+Line 461: NFR
+Line 462: XX FE
+Line 463: HAC 019
+Line 464: 4
+Line 465: 4
+Line 466: NFR
+Line 467: XX FE
+Line 468: HAC 020
+Line 469: 4
+Line 470: 4
+Line 471: NFR
+Line 472: XX FE
+Line 473: HAC 021
+Line 474: NFR
+Line 475: XX FE
+Line 476: HAC 022
+Line 477: NFR
+Line 478: XX FE
+Line 479: HAC 023
+Line 480: NFR
+Line 481: XX FE
+Line 482: HAC 024
+Line 483: NFR
+Line 484: XX FE
+Line 485: HAC 025
+Line 486: NFR
+Line 487: XX FE
+Line 488: HAC 026
+Line 489: NFR
+Line 490: XX FE
+Line 491: HAC 027
+Line 492: NFR
+Line 493: XX FE
+Line 494: HAC 028
+Line 495: NFR
+Line 496: XX FE
+Line 497: HAC 029
+Line 498: NFR
+Line 499: XX FE
+Line 500: HAC 030
+Line 501: NFR
+Line 502: XX FE
+Line 503: HAC 031
+Line 504: NFR
+Line 505: XX FE
+Line 506: HAC 032
+Line 507: NFR
+Line 508: XX FE
+Line 509: HAC 033
+Line 510: NFR
+Line 511: XX FE
+Line 512: HAC 034
+Line 513: NFR
+Line 514: XX FE
+Line 515: HAC 035
+Line 516: NFR
+Line 517: XX FE
+Line 518: HAC 036
+Line 519: NFR
+Line 520: XX FE
+Line 521: HAC 037
+Line 522: NFR
+Line 523: XX FE
+Line 524: HAC 038
+Line 525: NFR
+Line 526: XX FE
+Line 527: HAC 039
+Line 528: NFR
+Line 529: XX FE
+Line 530: HAC 040
+Line 531: NFR
+Line 532: XX FE
+Line 533: Grand 40
+Line 534: Date
+Line 535: Description
+Line 536: 05
+Line 537: Issued Approval
+Line 538: VAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 539

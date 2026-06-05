@@ -1,0 +1,23 @@
+=== FILTERED TEXT FOR: JVIT-MWE-60-1-0002-02.pdf ===
+
+Line   0: Connection EYDAP.
+Line   1: EYDAP Meter
+Line   2: IL
+Line   3: Elevation Change
+Line   4: JVIT MWE 0003
+Line   5: JVIT MWE 0005
+Line   6: 02
+Line   7: MWE
+Line   8: 2015
+Line   9: CIVIL SERVICES
+Line  10: POTABLE WATER
+Line  11: LAYOUT PLAN AGORA
+Line  12: LEVEL SHEET
+Line  13: Genaral Notes
+Line  14: JVIT COS 00 0001
+Line  15: 2. Details JVIT CES 0001 JVIT CES 0002,
+Line  16: JVIT MWE 0010
+Line  17: JVIT CES 0002, JVIT MWE 0010
+
+=== END OF FILTERED TEXT ===
+Total lines: 18

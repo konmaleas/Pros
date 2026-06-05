@@ -1,0 +1,98 @@
+=== FILTERED TEXT FOR: 1902_CST_A9-503-00.pdf ===
+
+Line   0: ΡΑΦΙ
+Line   1: ΡΑΦΙ
+Line   2: ΡΑΦΙ
+Line   3: ΚΑΘΑΡΟ ΥΨΟΣ ΜΕΛΕΤΗΣ
+Line   4: ΡΑΦΙ
+Line   5: ΡΑΦΙ
+Line   6: ΡΑΦΙ
+Line   7: ΡΑΦΙ
+Line   8: ΡΑΦΙ
+Line   9: ΡΑΦΙ
+Line  10: ΡΑΦΙ
+Line  11: ΡΑΦΙ
+Line  12: ΡΑΦΙ
+Line  13: ΡΑΦΙ
+Line  14: ΡΑΦΙ
+Line  15: ΡΑΦΙ
+Line  16: ΡΑΦΙ
+Line  17: 470
+Line  18: 470
+Line  19: 2436
+Line  20: 2620
+Line  21: Laundry
+Line  22: 450
+Line  23: 450
+Line  24: 450
+Line  25: 450
+Line  26: 450
+Line  27: 400
+Line  28: 450
+Line  29: 450
+Line  30: 450
+Line  31: 450
+Line  32: 450
+Line  33: 470
+Line  34: 00
+Line  35: SOUTH ANTIPAROS
+Line  36: RESIDENCES ANTIPAROS
+Line  37: CSTO LIMITED
+Line  38: ΑΝΑΘΕΩΡΗΣΕΙΣ REVISIONS
+Line  39: DESCRIPTION
+Line  40: REVISION DATE
+Line  41: ƯD UHHFH
+Line  42: ERISMA
+Line  43: Kontou 2 Athens, Greece
+Line  44: TEKEM CONSULTING ENGINEERS
+Line  45: Epirou Athens, Greece
+Line  46: 3262 3269
+Line  47: UHHFH
+Line  48: VALSAMAKIS
+Line  49: Skoufa Athens, 72 Greece
+Line  50: HELLI PANGALOU
+Line  51: SCALE
+Line  52: FIRST ISSUE DATE
+Line  53: ΑΡΧΙΤΕΚΤΟΝΙΚΗ
+Line  54: ΜΕΛΕΤΗ ΕΦΑΡΜΟΓΗΣ
+Line  55: DETAILED DESIGN
+Line  56: BLD. CATEGORY
+Line  57: ISSUED
+Line  58: CONSTR.
+Line  59: APPROVAL
+Line  60: TENDER
+Line  61: STATUS
+Line  62: DRAFT
+Line  63: FINAL
+Line  64: REV.
+Line  65: PROJECT
+Line  66: LOCATION
+Line  67: CLIENT
+Line  68: DRAWING
+Line  69: LANDSCAPE DESIGN
+Line  70: MEP ENGINEER
+Line  71: STRUCTURAL ENGINEER
+Line  72: ARCHITECTURAL DESIGN
+Line  73: EXECUTIVE ARCHITECT
+Line  74: SITE SUPERVISOR
+Line  75: DISCIPLINE
+Line  76: ARC
+Line  77: VAP
+Line  78: ΞΥΛΟΥΡΓΙΚΕΣ
+Line  79: ΚΑΤΑΣΚΕΥΕΣ
+Line  80: WOODWORK
+Line  81: ΧΩΡΟΣ
+Line  82: ΠΛΥΝΤΗΡΙΟΥ
+Line  83: 01 2020
+Line  84: LAUNDRY
+Line  85: ΠΑΓΚΟΣ ΑΠΟ ΛΕΥΚΗ ΦΟΡΜΑΪΚΑ
+Line  86: ΟΨΗ
+Line  87: ΟΨΗ
+Line  88: KATOΨΗ
+Line  89: ΦΥΛΛΑ ΑΠΟ ΛΕΥΚΗ ΜΕΛΑΜΙΝΗ
+Line  90: ΡΑΦΙΑ ΑΠΟ ΛΕΥΚΗ
+Line  91: ΜΕΛΑΜΙΝΗ
+Line  92: XOYΦΤΑ ΓΙΑ ΝΑ ΑΝΟΙΓΟΥΝ ΤΑ ΦΥΛΛΑ
+
+=== END OF FILTERED TEXT ===
+Total lines: 93

@@ -1,0 +1,147 @@
+=== FILTERED TEXT FOR: VAP-TW-A701-00.pdf ===
+
+Line   0: 49
+Line   1: 48
+Line   2: 47
+Line   3: 46
+Line   4: 45
+Line   5: 44
+Line   6: 43
+Line   7: 42
+Line   8: Level
+Line   9: Level
+Line  10: Level
+Line  11: Level
+Line  12: Level
+Line  13: 40
+Line  14: 41
+Line  15: 42
+Line  16: 43
+Line  17: 44
+Line  18: 45
+Line  19: 46
+Line  20: 47
+Line  21: 48
+Line  22: 49
+Line  23: 41
+Line  24: 40
+Line  25: 40
+Line  26: 41
+Line  27: 43
+Line  28: 42
+Line  29: Level
+Line  30: Basement
+Line  31: Level
+Line  32: Ground Floor
+Line  33: Level
+Line  34: First Floor
+Line  35: Level
+Line  36: Marble
+Line  37: Marble
+Line  38: Reinforced Concrete
+Line  39: Mortar
+Line  40: Shadow
+Line  41: Cement Sand
+Line  42: Reinforced Concrete
+Line  43: Mortar
+Line  44: Marble
+Line  45: Marble
+Line  46: Marble
+Line  47: Mortar
+Line  48: Shadow
+Line  49: 2020
+Line  50: Steel
+Line  51: Steel
+Line  52: Baluster
+Line  53: Marble
+Line  54: Reception
+Line  55: SF
+Line  56: ROOM NUMBER
+Line  57: ROOM NAME
+Line  58: ROOM AREA
+Line  59: DOOR NUMBER
+Line  60: DOOR TYPE
+Line  61: ROUGH WIDTH WIDTH
+Line  62: DOOR HIGHT
+Line  63: WINDOW NUMBER
+Line  64: WINDOW TYPE
+Line  65: WINDOW HEIGHT
+Line  66: WINDOW SILL
+Line  67: WINDOW WIDTH
+Line  68: MASONRY
+Line  69: STRUCTURAL ELEMENTS
+Line  70: GENERAL ELEVATION SYMBOL
+Line  71: INTERNAL ELEVATION SYMBOL
+Line  72: GENERAL SECTION SYMBOL
+Line  73: DETAIL TAG
+Line  74: DETAIL TAG
+Line  75: FINISH FLOOR LEVEL
+Line  76: FLOOR TYPE
+Line  77: FFL
+Line  78: SSL
+Line  79: STRUCTURAL SLAB LEVEL
+Line  80: GENERAL SYMBOLS
+Line  81: TILES STARTING POINT
+Line  82: WALL FINISH SAME
+Line  83: WALLS ROOM
+Line  84: CHANGE WALL FINISH
+Line  85: ROOM
+Line  86: CURTAIN WALL NUMBER
+Line  87: REVISIONS
+Line  88: CLIENT
+Line  89: PROJECT
+Line  90: DESIGN STAGE
+Line  91: DATE
+Line  92: SCALE
+Line  93: FILE NAME
+Line  94: DRAWING TITLE
+Line  95: DRAWING
+Line  96: TAHLIA WALK
+Line  97: VAPARCHITECTS
+Line  98: Epirou Street
+Line  99: Athens, GR Greece
+Line 100: 3262
+Line 101: 3269
+Line 102: DESIGN ARCHITECTS
+Line 103: CONSULTANTS
+Line 104: STUDIO
+Line 105: Isavron
+Line 106: Lycabettus
+Line 107: Athens, GR 11471 Greece
+Line 108: ZAD DEVELOPMENT
+Line 109: STRUCTURAL ENGINEER
+Line 110: MEP ENGINEER
+Line 111: 01 PM
+Line 112: Staircase
+Line 113: Detail Design
+Line 114: Level
+Line 115: Level
+Line 116: Level
+Line 117: Level
+Line 118: Level
+Line 119: Height
+Line 120: Tread
+Line 121: Riser
+Line 122: Height
+Line 123: Tread
+Line 124: Riser
+Line 125: Height
+Line 126: Tread
+Line 127: Riser
+Line 128: Height
+Line 129: Tread
+Line 130: Riser
+Line 131: Height
+Line 132: Tread
+Line 133: Riser
+Line 134: Section Staircase
+Line 135: Detail Typical
+Line 136: Detail Typical
+Line 137: Detail Typical
+Line 138: Description
+Line 139: Date
+Line 140: First
+Line 141: 07
+
+=== END OF FILTERED TEXT ===
+Total lines: 142

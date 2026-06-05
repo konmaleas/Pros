@@ -1,0 +1,125 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-1004-0A_BUILDERS_WORK_MEP_PENETRATIONS_-_CABLE_STORAGE.pdf ===
+
+Line   0: GL
+Line   1: CEILING LEVEL
+Line   2: 1235
+Line   3: 1600
+Line   4: 1070
+Line   5: 4965
+Line   6: 400
+Line   7: 3810
+Line   8: 1075
+Line   9: MP AD 041 01
+Line  10: MP AD 041 02
+Line  11: MP AD 041 03
+Line  12: MP AD 041 04
+Line  13: MP AD 041 05
+Line  14: CABLE
+Line  15: STORAGE
+Line  16: 00 041
+Line  17: CEILING LEVEL
+Line  18: CABLE
+Line  19: STORAGE
+Line  20: 00 041
+Line  21: GL
+Line  22: CEILING LEVEL
+Line  23: 780
+Line  24: 485
+Line  25: 1110
+Line  26: 3775
+Line  27: 5685
+Line  28: 5435
+Line  29: 2335
+Line  30: 2095
+Line  31: MP AD 041 06
+Line  32: MP AD 041 08
+Line  33: MP AD 041 07
+Line  34: MP AD 041 09
+Line  35: MP AD 041
+Line  36: CABLE
+Line  37: STORAGE
+Line  38: 00 041
+Line  39: MP AD 041
+Line  40: 1004
+Line  41: 1004
+Line  42: 2
+Line  43: 1004
+Line  44: CABLE
+Line  45: STORAGE
+Line  46: 00 041
+Line  47: WALL REFER VAP AH 1026
+Line  48: MEP PENETRATIONS CODE
+Line  49: MP AD XXX XX
+Line  50: MP
+Line  51: MEP PENETRATIONS
+Line  52: AD
+Line  53: BUILDING CODE
+Line  54: XXX
+Line  55: ROOM NUMBER
+Line  56: XX
+Line  57: PENETRATION NUMBER
+Line  58: ADMIN
+Line  59: COLO
+Line  60: COLO 2
+Line  61: 2
+Line  62: 4
+Line  63: 2
+Line  64: 4
+Line  65: TRUE NORTH
+Line  66: Sheet Title Number
+Line  67: Scale
+Line  68: Plan
+Line  69: Design Consultants
+Line  70: Microsoft
+Line  71: DATA CENTER
+Line  72: SPATA GREECE
+Line  73: Contractor Joint Venture
+Line  74: Name
+Line  75: Contractor Project
+Line  76: Contractor Contract
+Line  77: Contractor PM
+Line  78: Contractor BIM Mngr
+Line  79: Contractor Information
+Line  80: Renco Terna
+Line  81: Client
+Line  82: General Notes
+Line  83: Client Project
+Line  84: Client Contract
+Line  85: Client PM
+Line  86: Client BIM Mngr
+Line  87: Primary Client Information
+Line  88: Layout
+Line  89: Revision
+Line  90: Tombazi Chalandri
+Line  91: 15232
+Line  92: Athens Greece
+Line  93: 0800 3262
+Line  94: Agion Theodoron Square Athens
+Line  95: 10561
+Line  96: Athens Greece
+Line  97: Kimithois Agios Dimitrios
+Line  98: 17236
+Line  99: Athens Greece
+Line 100: Purpose Issue
+Line 101: Issue
+Line 102: Name
+Line 103: BUILDERS WORK MEP PENETRATIONS
+Line 104: CABLE STORAGE
+Line 105: VAP AH 1004
+Line 106: SCALE
+Line 107: 041 CABLE STORAGE ELEVATION EAST MEP PENETRATIONS
+Line 108: SCALE
+Line 109: 041 CABLE STORAGE ELEVATION SOUTH MEP PENETRATIONS
+Line 110: 2
+Line 111: SCALE
+Line 112: 041 CABLE STORAGE ELEVATION WEST MEP PENETRATIONS
+Line 113: 1000
+Line 114: SCALE
+Line 115: Date
+Line 116: Description
+Line 117: 07
+Line 118: Issued Approval
+Line 119: VAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 120

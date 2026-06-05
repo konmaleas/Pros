@@ -1,0 +1,101 @@
+=== FILTERED TEXT FOR: ATH1-DC03-CAP-20302-PLN-2-011-AL-00-T00_4-SECTIONS_DC3.pdf ===
+
+Line   0: GROUND FLOOR
+Line   1: FIRST FLOOR
+Line   2: ROOF TOP
+Line   3: DHA
+Line   4: DHA 2
+Line   5: WC
+Line   6: ADM
+Line   7: WC
+Line   8: ADM
+Line   9: WC
+Line  10: ADM
+Line  11: OFFICE
+Line  12: OFFICE
+Line  13: OPEN OFFICE
+Line  14: AREA
+Line  15: CORRIDOR
+Line  16: CORRIDOR
+Line  17: MEETING
+Line  18: ROOM
+Line  19: NON
+Line  20: REGISTERED
+Line  21: SECTION
+Line  22: GROUND FLOOR
+Line  23: FIRST FLOOR
+Line  24: ROOF TOP
+Line  25: 2
+Line  26: 4
+Line  27: DHA 2
+Line  28: FW COR 4
+Line  29: FW COR 2
+Line  30: CORRIDOR
+Line  31: ROOMS
+Line  32: SECTION
+Line  33: Version
+Line  34: Date
+Line  35: Review
+Line  36: Designer
+Line  37: Auditor
+Line  38: Approver
+Line  39: Paper Size
+Line  40: SCALE
+Line  41: ATH1 CAP 20302 PLN 2 011 AL 00 SECTIONS
+Line  42: 20302
+Line  43: PP Model Name
+Line  44: ORGANDI
+Line  45: Esplanade Miriam Makeba
+Line  46: Gerda Taro
+Line  47: 69100 VILLEURBANNE France
+Line  48: 4 40 00 70
+Line  49: Internet
+Line  50: SECTIONS
+Line  51: ATH1 DC02
+Line  52: PROJECT
+Line  53: RIBA
+Line  54: TRADE
+Line  55: AUTHOR
+Line  56: LEVEL
+Line  57: CAP TRADE
+Line  58: TYPE
+Line  59: DOC.
+Line  60: VERSION
+Line  61: 2
+Line  62: 20302
+Line  63: CAP
+Line  64: AL
+Line  65: PLN
+Line  66: 011
+Line  67: 00
+Line  68: SITE
+Line  69: ATH
+Line  70: Kifissias Avenue
+Line  71: GR 15125, MAROUSSI Greece
+Line  72: 4463 1552
+Line  73: Anagirountos
+Line  74: Vari 16672, Greece
+Line  75: Telephone 9654
+Line  76: Email
+Line  77: PAIANIA
+Line  78: GREECE
+Line  79: MODEL NAME
+Line  80: REFERENCE
+Line  81: FILE NAME
+Line  82: TRADE
+Line  83: ARCHITECTURE
+Line  84: Tombazi
+Line  85: Chalandri, 15232
+Line  86: Athens, Greece
+Line  87: 0800 3262
+Line  88: Thivaidos Street
+Line  89: GR Kifissia,
+Line  90: CAP TRADE General
+Line  91: 03 2025
+Line  92: First Submission
+Line  93: VAP
+Line  94: VAP
+Line  95: CAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 96

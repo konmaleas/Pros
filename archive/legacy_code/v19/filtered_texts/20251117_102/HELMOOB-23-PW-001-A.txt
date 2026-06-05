@@ -1,0 +1,164 @@
+=== FILTERED TEXT FOR: HELMOOB-23-PW-001-A.pdf ===
+
+Line   0: 23
+Line   1: ELECTRICAL ROOM
+Line   2: SOFT WATER TANK
+Line   3: HARD WATER TANK
+Line   4: MECHANICAL ROOM
+Line   5: STORAGE BBQ
+Line   6: STORAGE
+Line   7: STORAGE
+Line   8: 23
+Line   9: ELECTRICAL ROOM
+Line  10: SOFT WATER TANK
+Line  11: HARD WATER TANK
+Line  12: MECHANICAL ROOM
+Line  13: STORAGE BBQ
+Line  14: STORAGE
+Line  15: STORAGE
+Line  16: STAFF ROOM
+Line  17: BATH AREA
+Line  18: ENTRANCE
+Line  19: Οδευση
+Line  20: ΔΙΚΤΥΟ
+Line  21: ΔΙΚΤΥΟ ΔΩΜΑΤΩΝ
+Line  22: Προς
+Line  23: Προς
+Line  24: Προς
+Line  25: Oπές
+Line  26: Holes
+Line  27: Oπές
+Line  28: Holes
+Line  29: ΒΛ. ΣΤΑΘΜΗ
+Line  30: ΑΠΟ ΚΑΤΩ ΣΤΑΘΜΗ
+Line  31: ΦAINONTAI ΣTO ANTIΣTOIXO ΣΥΝΤΟΝΙΣΤΙΚΟ ΣΧΕΔΙΟ.
+Line  32: ΑΚΡΙΒΗΣ ΚΑΙ ΟΙ ΔΙΑΣΤΑΣΕΙΣ ΤΩΝ ΟΠΩΝ
+Line  33: ΠΑΡΑΤΗΡΗΣΗ NOTIFICATION
+Line  34: ΟΔΕΥΣΗ ΔΙΚΤΥΩΝ
+Line  35: TΟΜΗ
+Line  36: ΟΔΕΥΣΗ ΔΙΚΤΥΩΝ
+Line  37: TΟΜΗ
+Line  38: Άνοιγμα
+Line  39: Μόνωση
+Line  40: Tοιχείο
+Line  41: Δάπεδο
+Line  42: PP
+Line  43: PP
+Line  44: PP
+Line  45: PP 40
+Line  46: PP
+Line  47: PP
+Line  48: PP
+Line  49: PP
+Line  50: PP
+Line  51: PP
+Line  52: PP
+Line  53: ΔΙΚΤΥΟ
+Line  54: ΔΙΚΤΥΟ
+Line  55: PP
+Line  56: PP
+Line  57: PP
+Line  58: PP
+Line  59: PP
+Line  60: PP
+Line  61: PP
+Line  62: PΕ
+Line  63: PP
+Line  64: Αναπλήρωση
+Line  65: Θέρμανσης
+Line  66: Heating
+Line  67: A A
+Line  68: ΠΙΕΣΤΙΚΟ ΣΥΓΚΡΟΤΗΜΑ ΜΑΛΑΚΟΥ ΝΕΡΟΥ
+Line  69: ΑΦΑΛΑΤΩΤΗΣ
+Line  70: ΑΝΤΛΙΑ ΑΝΑΚΥΚΛΟΦΟΡΙΑΣ ΖΕΣΤΟΥ ΝΕΡΟΥ ΧΡΗΣΗΣ
+Line  71: ΧΛΩΡΙΩΤΗΣ ΜΑΛΑΚΟΥ ΝΕΡΟΥ
+Line  72: ΜΗΧΑΝΗΜA ΣΥΣΚΕΥH
+Line  73: ΠΙΝΑΚΑΣ ΜΗΧΑΝΗΜΑΤΩΝ ΣΥΣΚΕΥΩΝ
+Line  74: ΠΙΕΣΤΙΚΟ ΣΥΓΚΡΟΤΗΜΑ ΣΚΛΗΡΟΥ ΝΕΡΟΥ
+Line  75: ΑΝΤΛΙΑ ΤΡΟΦΟΔΟΣΙΑΣ ΑΦΑΛΑΤΩΤΗ
+Line  76: ΧΛΩΡΙΩΤΗΣ ΣΚΛΗΡΟΥ ΝΕΡΟΥ
+Line  77: ΣΥΛΛΕΚΤΗΣ ΜΑΛΑΚΟΥ ΝΕΡΟΥ
+Line  78: ΣΥΛΛΕΚΤΗΣ ΣΚΛΗΡΟΥ ΝΕΡΟΥ
+Line  79: ΘΕΡΜΑΝΤΗΡΑΣ Βoiler
+Line  80: PE
+Line  81: PE
+Line  82: PE
+Line  83: PE
+Line  84: PE
+Line  85: PE
+Line  86: PE
+Line  87: PE
+Line  88: PE
+Line  89: PP
+Line  90: PΕ
+Line  91: ΤHE SPECIFIC POSITION DIMENSION
+Line  92: HOLES INDICATED CORRESPONDENT
+Line  93: COMBINED DRAWING
+Line  94: ΤΟΠΙΚΟΙ ΟΡΕΙΧΑΛΚΙΝΟΙ ΣΥΛΛΕΚΤΕΣ ΚΡΥΟΥ ΖΕΣΤΟΥ ΑΝΑΚΥΚΛΟΦΟΡΙΑΣ ΝΕΡΟΥ ΕΝΤΟΣ ΜΕΤΑΛΛΙΚΟΥ ΕΡΜΑΡΙΟΥ
+Line  95: ΑΝΑΜΙΚΤΗΡΑΣ ΚΡΥΟΥ ΖΕΣΤΟΥ ΝΕΡΟΥ ΚΑΤΑΛΛΗΛΟΣ ΓΙΑ ΤΟΠΟΘΕΤΗΣΗ ΕΠΙ ΝΙΠΤΗΡΑ
+Line  96: ΒΡΥΣΗ
+Line  97: ΔΙΚΤΥΟ ΚΡΥΟΥ ΖΕΣΤΟΥ ΝΕΡΟΥ ΧΡΗΣΗΣ, ΑΝΑΚΥΚΛΟΦΟΡΙΑΣ ΚΑΙ ΑΡΔΕΥΣΗΣ
+Line  98: ΑΠΟ ΕΥΘΥΓΡΑΜΜΟΥΣ ΣΩΛΗΝΕΣ ΠΟΛΥΠΡΟΠΥΛΕΝΙΟΥ PP
+Line  99: ΚΑΖΑΝΑΚΙ ΠΛΥΣΕΩΣ ΧΑΜΗΛΗΣ ΠΙΕΣΗΣ ΜΕ ΦΛΟΤΕΡ
+Line 100: BANA
+Line 101: ΑΝΑΜΙΚΤΗΡΑΣ ΚΡΥΟΥ ΖΕΣΤΟΥ ΝΕΡΟΥ ΜΕ ΚΑΤΑΙΟΝΙΣΤΗΡΑ ΚΙΝΗΤΟ ΣΤΑΘΕΡΟ
+Line 102: ΚΑΤΑΚΟΡΥΦΗ ΟΔΕΥΣΗ ΔΙΚΤΥΟΥ ΣΤΗΛΗ
+Line 103: ΔΙΚΤΥΟ ΕΝΔΟΔΑΠΕΔΙΑΣ ΔΙΑΝΟΜΗΣ ΚΡΥΟΥ ΖΕΣΤΟΥ ΝΕΡΟΥ ΧΡΗΣΗΣ ΚΑΙ ΑΝΑΚΥΚΛΟΦΟΡΙΑΣ
+Line 104: ΤΟΠΙΚΟ ΚΑΤΕΒΑΣΜΑ ΑΝΕΒΑΣΜΑ ΑΛΛΑΓΗ ΣΤΑΘΜΗΣ
+Line 105: ΑΝΑΜΙΚΤΗΡΑΣ ΚΡΥΟΥ ΖΕΣΤΟΥ ΝΕΡΟΥ ΚΑΤΑΛΛΗΛΟΣ ΓΙΑ ΤΟΠΟΘΕΤΗΣΗ ΣΕ ΝΕΡΟΧΥΤΗ
+Line 106: ΕΥΘΥΓΡΑΜΜΟΣ ΓΩΝΙΑΚΟΣ ΕΝΤOΙΧΙΣΜΕΝΟΣ ΔΙΑΚΟΠΤΗΣ
+Line 107: ΣΥΜΒΟΛΑ
+Line 108: ΕΠΕΞΗΓΗΣΕΙΣ
+Line 109: ΣΦΑΙΡΙΚΗ MINI BALL VALVE
+Line 110: ΟΙ ΑΝΑΓΡΑΦΟΜΕΝΕΣ ΔΙΑΤΟΜΕΣ ΣΤΑ ΔΙΚΤΥΑ ΑΝΑΦΕΡΟΝΤΑΙ ΚΑΤΑ ΣΕΙΡΑ ΣΕ ΔΙΚΤΥΟ ΚΡΥΟΥ ΝΕΡΟΥ,
+Line 111: ΔΙΚΤΥΟ ΖΕΣΤΟΥ ΝΕΡΟΥ, ΔΙΚΤΥΟY ΑΝΑΚΥΚΛΟΦΟΡΙΑΣ.
+Line 112: ΔΙΟΔΗ ΤΡΙΟΔΗ ΗΛΕΚΤΡΟΚΙΝΗΤΗ OFF
+Line 113: ΔΙΟΔΗ ΤΡΙΟΔΗ ΗΛΕΚΤΡΟΚΙΝΗΤΗ ΠΡΟΟΔΕΥΤΙΚΗΣ ΛΕΙΤΟΥΡΓΙΑΣ
+Line 114: ΑΠΟ ΕΥΚΑΜΠΤΟΥΣ ΣΩΛΗΝΕΣ ΠΟΛΥΑΙΘΥΛΕΝΙΟΥ PΕ ΕΝΤΟΣ ΠΡΟΣΤΑΤΕΥΤΙΚΟΥ SPIRAL
+Line 115: PP
+Line 116: ΕΡΓΟ
+Line 117: ΘΕΜΑ
+Line 118: ΦΟΡΕΑΣ ΕΡΓΟΥ
+Line 119: ΔΙΑΧΕΙΡΙΣΗ ΕΡΓΟΥ
+Line 120: ΜΕΓΕΘΟΣ
+Line 121: ΚΛΙΜΑΚΑ
+Line 122: ΕΓΚΡΙΘΗΚΕ
+Line 123: ΣΧΕΔΙΑΣΤΗΚΕ
+Line 124: ΜΕΛEΤΗΘΗΚΕ
+Line 125: ΗΜΕΡΟΜΗΝΙΑ
+Line 126: ΣΤΑΔΙΟ ΜΕΛΕΤΗΣ
+Line 127: ΕΙΔΟΣ ΜΕΛΕΤΗΣ
+Line 128: ΜΕΛΕΤΗ ΗΜ ΕΓΚΑΤΑΣΤΑΣΕΩΝ
+Line 129: ΞΕΝΟΔΟΧΕΙΟ ΚΑΤΗΓΟΡΙΑΣ ΑΜΑΝΖΟΕ ΚΑΙ ΣΥΝΟΔΑ ΕΡΓΑ
+Line 130: ΑΝΑΘΕΩΡΗΣΗ ΑΔΕΙΑΣ ΔΟΜΗΣΗΣ 2013
+Line 131: ΠΡΟΣΘΗΚΗ ΚΑΤ ΕΠΕΚΤΑΣΗ ΤΟΥ ΤΟΥΡΙΣΤΙΚΟΥ ΚΑΤΑΛΥΜΑΤΟΣ 23
+Line 132: ZONIRO
+Line 133: ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΜΕΛΕΤΗ
+Line 134: ARCHIPLUS ΑΡΧΙΤΕΚΤΟΝΙΚΗ
+Line 135: ΜΕΛΕΤΗ
+Line 136: ΕΡΓΑ ΠΟΛΙΤΙΚΟΥ ΜΗΧΑΝΙΚΟΥ
+Line 137: ΤΟΠΟΓΡΑΦΙΚΟ
+Line 138: ΠΕΡΙΒΑΛΛΟΝΤΙΚΗ ΜΕΛΕΤΗ
+Line 139: ΑΡΓΥΡΟΠΟΥΛΟΣ ΣΥΝΕΡΓΑΤΕΣ
+Line 140: ΠΑΝΑΓΙΩΤΗΣ ΚΟΥΤΣΟΣ
+Line 141: ΔΗΜΗΤΡΑ ΡΟΚΑ
+Line 142: AZOE RESORT ΜΟΝΟΠΡΟΣΩΠΗ ΑΝΩΝΥΜΟΣ ΕΤΑΙΡΕΙΑ ΕΙΔΙΚΟΥ ΣΚΟΠΟΥ
+Line 143: ΑΓ. ΠΑΝΤΕΛΕΗΜΟΝΑΣ ΚΡΑΝΙΔΙΟΥ ΔΗΜΟΣ ΕΡΜΙΟΝΙΔΑΣ, ΑΡΓΟΛΙΔΑΣ
+Line 144: ΟΡΙΣΤΙΚΗ ΜΕΛΕΤΗ ΠΟΛΕΟΔΟΜΙΑ
+Line 145: NΟΕΜΒΡΙΟΣ 2021
+Line 146: ΚΛΕΙΔΑ
+Line 147: ΒΟΡΡΑΣ
+Line 148: 23
+Line 149: HELMOOB
+Line 150: PW
+Line 151: 001 A
+Line 152: 2021
+Line 153: 2021
+Line 154: 2021
+Line 155: POTABLE WATER
+Line 156: ΕΓΚΑΤΑΣΤΑΣΗ ΥΔΡΕΥΣΗΣ
+Line 157: Building Κτίριο
+Line 158: Pool Level Plan Κάτοψη Στάθμης
+
+=== END OF FILTERED TEXT ===
+Total lines: 159

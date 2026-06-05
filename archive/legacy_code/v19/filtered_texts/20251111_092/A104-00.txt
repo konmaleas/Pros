@@ -1,0 +1,43 @@
+=== FILTERED TEXT FOR: A104-00.pdf ===
+
+Line   0: UP
+Line   1: MEP OPEN SPACE
+Line   2: Redundant Room
+Line   3: OFFICE
+Line   4: AHU Open Space
+Line   5: REVISIONS
+Line   6: CLIENT
+Line   7: PROJECT
+Line   8: DESIGN STAGE
+Line   9: DATE
+Line  10: SCALE
+Line  11: FILE NAME
+Line  12: DRAWING TITLE
+Line  13: DRAWING
+Line  14: TAHLIA WALK
+Line  15: VAPARCHITECTS
+Line  16: Street
+Line  17: Athens, GR
+Line  18: 00
+Line  19: DESIGN ARCHITECTS
+Line  20: STRUCTURAL ENGINEER
+Line  21: CONSULTANTS
+Line  22: MEP ENGINEER
+Line  23: STUDIO
+Line  24: Lycab
+Line  25: Athens, 47
+Line  26: 75
+Line  27: 72
+Line  28: ZAD DEVELOPMENT
+Line  29: 2016 44
+Line  30: Level Roof
+Line  31: Project Status
+Line  32: Level Roof
+Line  33: 1602 TW 00
+Line  34: Description
+Line  35: Date
+Line  36: First
+Line  37: 06
+
+=== END OF FILTERED TEXT ===
+Total lines: 38

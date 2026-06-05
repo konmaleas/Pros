@@ -1,0 +1,59 @@
+=== FILTERED TEXT FOR: 1904_AGMT_Α9-403-01.pdf ===
+
+Line   0: ΠΙΝΑΚΑΣ
+Line   1: ΚΟΥΦΩΜΑΤΩΝ
+Line   2: OPENINGS
+Line   3: TABLE
+Line   4: EΣΩΤΕΡΙΚΕΣ
+Line   5: DOORS
+Line   6: ΘΥΡΕΣ
+Line   7: 09 03 2020
+Line   8: A9 403 01
+Line   9: INTERIOR
+Line  10: AGMT
+Line  11: RESIDENCES ANTIPAROS
+Line  12: MARC THOMA
+Line  13: ΑΝΑΘΕΩΡΗΣΕΙΣ REVISIONS
+Line  14: DESCRIPTION
+Line  15: REVISION DATE
+Line  16: ƯD UHHFH
+Line  17: ERISMA
+Line  18: PG KAMARINOS
+Line  19: Epirou Athens, Greece
+Line  20: 3262 3269
+Line  21: UHHFH
+Line  22: ANTONAS OFFICE
+Line  23: Apollonos Athens, 10557 Greece
+Line  24: DOXIADIS
+Line  25: SCALE
+Line  26: FIRST ISSUE DATE
+Line  27: ΑΡΧΙΤΕΚΤΟΝΙΚΗ
+Line  28: ΜΕΛΕΤΗ ΕΦΑΡΜΟΓΗΣ
+Line  29: DETAILED DESIGN
+Line  30: BLD. CATEGORY
+Line  31: ISSUED
+Line  32: CONSTR.
+Line  33: APPROVAL
+Line  34: TENDER
+Line  35: STATUS
+Line  36: DRAFT
+Line  37: FINAL
+Line  38: REV.
+Line  39: PROJECT
+Line  40: LOCATION
+Line  41: CLIENT
+Line  42: DRAWING
+Line  43: LANDSCAPE DESIGN
+Line  44: MEP ENGINEER
+Line  45: STRUCTURAL ENGINEER
+Line  46: ARCHITECTURAL DESIGN
+Line  47: EXECUTIVE ARCHITECT
+Line  48: SITE SUPERVISOR
+Line  49: DISCIPLINE
+Line  50: ARC
+Line  51: VAP
+Line  52: Kifissias Avenue Athens, 15451 Greece
+Line  53: ΠΡΟΣΘΗΚΗ ΧΡΩΜΑΤΟΣ
+
+=== END OF FILTERED TEXT ===
+Total lines: 54

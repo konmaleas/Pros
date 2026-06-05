@@ -1,0 +1,349 @@
+=== FILTERED TEXT FOR: ATH04-056-SH-212-00.pdf ===
+
+Line   0: DB
+Line   1: Horizontal
+Line   2: Horizontal
+Line   3: Bolt
+Line   4: DB
+Line   5: Horizontal
+Line   6: Horizontal
+Line   7: Bolt
+Line   8: Bolt
+Line   9: Bolt
+Line  10: Bolt
+Line  11: Bolt
+Line  12: Bolt
+Line  13: Bolt
+Line  14: Bolt
+Line  15: Bolt
+Line  16: Bolt
+Line  17: Bolt
+Line  18: SA
+Line  19: SB
+Line  20: XA
+Line  21: XA
+Line  22: XA
+Line  23: XA
+Line  24: XA
+Line  25: XA
+Line  26: XA
+Line  27: XA
+Line  28: XA
+Line  29: XA
+Line  30: XA
+Line  31: XA
+Line  32: XA
+Line  33: Vary Refer
+Line  34: Grade
+Line  35: Thick
+Line  36: Refer
+Line  37: Ground Floor Plan
+Line  38: Columns
+Line  39: External
+Line  40: Portion
+Line  41: ADMIN
+Line  42: COLO
+Line  43: COLO 2
+Line  44: 2
+Line  45: 4
+Line  46: 2
+Line  47: 4
+Line  48: TRUE NORTH
+Line  49: Microsoft
+Line  50: ENGINEERING CONSULTANT
+Line  51: ΣΥΜΒΟΥΛΟΣ ΜΕΛΕΤΗΤΗΣ
+Line  52: CERTIFIED ENGINEER
+Line  53: ΑΔΕΙΟΥΧΟΣ ΜΗΧΑΝΙΚΟΣ
+Line  54: SUPPLIER DOCUMENT NUMBER
+Line  55: ΚΩΔΙΚΟΣ ΣΧΕΔΙΟΥ ΠΡΟΜΗΘΕΥΤΗ
+Line  56: REVISION
+Line  57: ΑΝΑΘΕΩΡΗΣΗ
+Line  58: 00
+Line  59: Karra
+Line  60: Xenopoulos
+Line  61: ΣΥΝΤΑΚΤΗΣ
+Line  62: ΕΛΕΓΧΘΗΚΕ
+Line  63: ΕΓΚΡΙΘΗΚΕ
+Line  64: ΗΜΕΡΟΜΗΝΙΑ
+Line  65: ΑΝΑΘ.
+Line  66: ΣΗΜΕΙΩΣΕΙΣ ΠΕΡΙΓΡΑΦΗ
+Line  67: PREPAR
+Line  68: VERIFY
+Line  69: APROVAL
+Line  70: DATE
+Line  71: REV.
+Line  72: REMARK DESCRIPTION
+Line  73: PROJECT TITLE
+Line  74: TAG NUMBERS
+Line  75: ΕΤΙΚΕΤΑΣ
+Line  76: DATA CENTER
+Line  77: DRAWING TITLE
+Line  78: DRAWING
+Line  79: ΑΡΙΘΜΟΣ ΣΧΕΔΙΟΥ
+Line  80: SCALE
+Line  81: ΚΛΙΜΑΚΑ
+Line  82: FORMAT
+Line  83: ΜΟΡΦΗ
+Line  84: FACILITY CODE
+Line  85: ΚΩΔ. ΕΓΚΑΤΑΣ.
+Line  86: SYSTEM
+Line  87: ΣΥΣΤΗΜΑΤΟΣ
+Line  88: SHEET
+Line  89: ΦΥΛΛΟ
+Line  90: RD CODE
+Line  91: ΚΩΔΙΚΟΣ RD
+Line  92: REVISION
+Line  93: ΑΝΑΘΕΩΡ.
+Line  94: ATH 04
+Line  95: JVRT
+Line  96: Koukouselis
+Line  97: Civil Engineer
+Line  98: Structural Engineer
+Line  99: Απόστολος Κουκουσέλης
+Line 100: Πολιτικός Μηχανικός
+Line 101: Πολιτικός Μηχανικός
+Line 102: PILE FOUNDATION ADMINISTRATION
+Line 103: BALLARD BUILDING
+Line 104: ΤΙΤΛΟΣ ΕΡΓΟΥ
+Line 105: ΤΙΤΛΟΣ ΣΧΕΔΙΟΥ
+Line 106: GENERAL NOTES CONSTRUCTION
+Line 107: STATIKI SA Structural Project Specification Architectural,
+Line 108: Civil, Mechanical Electrical General Notes 000
+Line 109: Refer
+Line 110: STATIKI SA
+Line 111: Work
+Line 112: Statutory Authorities.
+Line 113: CAST SITU CONCRETE
+Line 114: Cast Project Specification Greek Hellenic Code
+Line 115: Concrete Technology 2016 KTS 2016 ΤΠ 1501 01 01 01 00. Concrete
+Line 116: Summary Project Specification
+Line 117: Pile
+Line 118: Exposure EN
+Line 119: Concrete 45
+Line 120: Blinding
+Line 121: Concrete
+Line 122: Blinding
+Line 123: Ground
+Line 124: Exposure EN
+Line 125: Concrete 45
+Line 126: External
+Line 127: Exposure EN
+Line 128: Concrete
+Line 129: Refer Civil Specification
+Line 130: Cover Reinforcement Design Drawings.
+Line 131: Internal
+Line 132: Reinforcement
+Line 133: High EN 10080 Greek
+Line 134: KTX 2008
+Line 135: Lengths EN 1992
+Line 136: Spacers
+Line 137: Sufficient
+Line 138: Cover
+Line 139: Chairs,
+Line 140: Spacers
+Line 141: Spacers
+Line 142: Concrete Finishes EN 13670
+Line 143: Basic, Ordinary, Plain Special. Finishes
+Line 144: Concealed Ordinary Finish
+Line 145: Concealed Ordinary Finish
+Line 146: Exposed Plain Finish
+Line 147: Exposed Plain Finish
+Line 148: Internal, External,
+Line 149: Floors Floor Class Technical
+Line 150: Report Concrete Industrial Ground Floors Guide Design Construction Concrete Society.
+Line 151: Concrete Hellenic Code Concrete Technology 2016 KTS 2016 ΤΠ 1501 01 01 01 00.
+Line 152: Exposed
+Line 153: Architect Floor Finishes Drawing Project Specification
+Line 154: Concrete Hellenic Code Concrete Technology 2016 KTS 2016 TΠ
+Line 155: 1501 01 01 02 00.
+Line 156: Steelwork
+Line 157: Contractor Concrete Contractor.
+Line 158: Concrete EN 12350
+Line 159: EN EN 12390. 4
+Line 160: 2
+Line 161: Samples Density
+Line 162: LOT EN ISO IEC 17025
+Line 163: Engineer
+Line 164: Engineer Contractor
+Line 165: EN 12350 2, EN
+Line 166: 12350 EN 12350
+Line 167: 4. MOVEMENT CONSTRUCTION JOINTS
+Line 168: Movement Ground Floor
+Line 169: Peikko TERAJOINT Movement
+Line 170: Ground Floor
+Line 171: Isolation
+Line 172: Contractor
+Line 173: 2. EARTHWORKS FOUNDATIONS
+Line 174: Earthworks Project Specifications
+Line 175: Civil Geotechnical
+Line 176: Granular
+Line 177: 03
+Line 178: 04
+Line 179: Refer Project Specification
+Line 180: Ground Floor Ground Floor
+Line 181: Property
+Line 182: Property
+Line 183: Floor
+Line 184: Typical Floor
+Line 185: Property
+Line 186: Retail
+Line 187: Reach
+Line 188: Reach
+Line 189: Building Beam Reinforcement
+Line 190: 056 SH
+Line 191: 056 SH 00
+Line 192: Κτίριο Ανάπτυγμα
+Line 193: 00
+Line 194: 00
+Line 195: IFA ISSUED APPROVAL
+Line 196: Kalogiros
+Line 197: 02 2025
+Line 198: Reinforcement Beams
+Line 199: Reinforcement Beams
+Line 200: Longitudinal Beam
+Line 201: Longitudinal Beam
+Line 202: 2
+Line 203: Longitudinal Beams
+Line 204: Longitudinal Beams
+Line 205: 4
+Line 206: Reinforcement Beams
+Line 207: Reinforcement Beams
+Line 208: Typical Beam
+Line 209: Typical Beam
+Line 210: Typical Beam
+Line 211: Typical Beam
+Line 212: Typical Beam
+Line 213: Typical Beam
+Line 214: Typical Beam
+Line 215: Typical Beam
+Line 216: Typical Beam
+Line 217: Typical Beam
+Line 218: Section
+Line 219: Section
+Line 220: Section
+Line 221: BEAM REINFORCEMENT SCHEDULE
+Line 222: Partition
+Line 223: Rebar
+Line 224: Number
+Line 225: Rebar
+Line 226: Number
+Line 227: Suffix
+Line 228: Bending Detail
+Line 229: Length
+Line 230: Quantity Total Length
+Line 231: Weight
+Line 232: 01
+Line 233: 02
+Line 234: 03
+Line 235: 04
+Line 236: 05
+Line 237: 06
+Line 238: 07
+Line 239: 08
+Line 240: 09
+Line 241: BEAM REINFORCEMENT SCHEDULE
+Line 242: Partition
+Line 243: Rebar
+Line 244: Number
+Line 245: Rebar
+Line 246: Number
+Line 247: Suffix
+Line 248: Bending Detail
+Line 249: Length
+Line 250: Quantity Total Length
+Line 251: Weight
+Line 252: 4
+Line 253: 2
+Line 254: 4
+Line 255: BEAM TOTALS
+Line 256: Diameter
+Line 257: Total Length
+Line 258: Weight
+Line 259: Totals
+Line 260: Section
+Line 261: Section
+Line 262: BEAM REINFORCEMENT SCHEDULE
+Line 263: Partition
+Line 264: Rebar
+Line 265: Number
+Line 266: Rebar
+Line 267: Number
+Line 268: Suffix
+Line 269: Bending Detail
+Line 270: Length
+Line 271: Quantity Total Length
+Line 272: Weight
+Line 273: 01
+Line 274: 02
+Line 275: 03
+Line 276: 04
+Line 277: 05
+Line 278: 06
+Line 279: 07
+Line 280: BEAM TOTALS
+Line 281: Diameter
+Line 282: Total Length
+Line 283: Weight
+Line 284: Totals
+Line 285: BEAM REINFORCEMENT SCHEDULE
+Line 286: Partition
+Line 287: Rebar
+Line 288: Number
+Line 289: Rebar
+Line 290: Number
+Line 291: Suffix
+Line 292: Bending Detail
+Line 293: Length
+Line 294: Quantity Total Length
+Line 295: Weight
+Line 296: BEAM TOTALS
+Line 297: Diameter
+Line 298: Total Length
+Line 299: Weight
+Line 300: Totals
+Line 301: BEAM REINFORCEMENT SCHEDULE
+Line 302: Partition
+Line 303: Rebar
+Line 304: Number
+Line 305: Rebar
+Line 306: Number
+Line 307: Suffix
+Line 308: Bending Detail
+Line 309: Length
+Line 310: Quantity Total Length
+Line 311: Weight
+Line 312: BEAM TOTALS
+Line 313: Diameter
+Line 314: Total Length
+Line 315: Weight
+Line 316: Totals
+Line 317: Typical HD
+Line 318: BEAM REINFORCEMENT SCHEDULE
+Line 319: Partition
+Line 320: Rebar
+Line 321: Number
+Line 322: Rebar
+Line 323: Number
+Line 324: Suffix
+Line 325: Bending Detail
+Line 326: Length
+Line 327: Quantity Total Length
+Line 328: Weight
+Line 329: 08
+Line 330: 09
+Line 331: 4
+Line 332: 4
+Line 333: BEAM REINFORCEMENT SCHEDULE
+Line 334: Partition
+Line 335: Rebar
+Line 336: Number
+Line 337: Rebar
+Line 338: Number
+Line 339: Suffix
+Line 340: Bending Detail
+Line 341: Length
+Line 342: Quantity Total Length
+Line 343: Weight
+
+=== END OF FILTERED TEXT ===
+Total lines: 344

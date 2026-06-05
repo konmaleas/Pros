@@ -1,0 +1,137 @@
+=== FILTERED TEXT FOR: Α1-112-03.pdf ===
+
+Line   0: 40
+Line   1: 2
+Line   2: 2
+Line   3: WC
+Line   4: ΠΡΟΘΑΛΑΜΟΣ
+Line   5: ΠΡΟΘΑΛΑΜΟΣ
+Line   6: ΧΩΡΟΙ ΥΓΙΕΙΝΗΣ
+Line   7: ΠΡΟΘΑΛΑΜΟΣ
+Line   8: ΠΡΟΘΑΛΑΜΟΣ
+Line   9: ΧΩΡΟΙ ΥΓΙΕΙΝΗΣ
+Line  10: ΠΡΟΘΑΛΑΜΟΣ
+Line  11: WC
+Line  12: ΠΡΟΘΑΛΑΜΟΣ
+Line  13: WC
+Line  14: ΠΡΟΘΑΛΑΜΟΣ
+Line  15: ΕΞΩΤΕΡΙΚΟΣ
+Line  16: ΠΡΟΘΑΛΑΜΟΣ
+Line  17: ΧΩΡΟΙ ΥΓΙΕΙΝΗΣ
+Line  18: ΕΞΩΣΤΗΣ
+Line  19: ΕΞΩΣΤΗΣ
+Line  20: ΕΞΩΣΤΗΣ
+Line  21: 2
+Line  22: 712
+Line  23: Όμοια
+Line  24: Όμοια
+Line  25: 2
+Line  26: 713
+Line  27: ΧΩΡΟΙ ΥΓΙΕΙΝΗΣ
+Line  28: NTOYΣ
+Line  29: WC
+Line  30: ΧΩΡΟΙ ΥΓΙΕΙΝΗΣ
+Line  31: WC
+Line  32: NTOYΣ
+Line  33: NTOYΣ
+Line  34: NTOYΣ
+Line  35: NTOYΣ
+Line  36: WC
+Line  37: NTOYΣ
+Line  38: WC
+Line  39: WC
+Line  40: NTOYΣ
+Line  41: ΝΤΟΥΣ
+Line  42: 2
+Line  43: 2
+Line  44: 715
+Line  45: 717
+Line  46: 722
+Line  47: 2 2 2
+Line  48: 2 2 2
+Line  49: 4
+Line  50: 2
+Line  51: ΚΛΙΜΑΚΑ
+Line  52: ΚΑΤΗΓΟΡΙΑ
+Line  53: ΚΥΡΙΟΣ ΕΡΓΟΥ
+Line  54: ΕΡΓΟ
+Line  55: ΑΡΙΘΜΟΣ ΣΧΕΔΙΟΥ
+Line  56: ΗΜΕΡΟΜΗΝΙΑ ΜΕΛΕΤΗΣ
+Line  57: VAP ARCHITECTS
+Line  58: Ηπείρου Αθήνα Ελλάδα
+Line  59: 3262 3269
+Line  60: ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΜΕΛΕΤΗ
+Line  61: ΣΤΑΔΙΟ ΜΕΛΕΤΗΣ
+Line  62: Όλες
+Line  63: ΣΥΝΕΡΓΑΤΕΣ ΜΕΛΕΤΗΣ ΕΦΑΡΜΟΓΗΣ
+Line  64: ΚΛΕΙΔΑ
+Line  65: ΣΧΕΔΙΟ
+Line  66: HΜ ΝΙΑ ΣΧΕΔΙΟΥ
+Line  67: ΑΚΟΥΣΤΙΚΗ ΜΕΛΕΤΗ
+Line  68: ΜΕΛΕΤΗ ΦΩΤΙΣΜΟΥ
+Line  69: ΣΤΑΤΙΚΗ ΜΕΛΕΤΗ
+Line  70: ΜΗΧΑΝΟΛΟΓΙΚΗ ΜΕΛΕΤΗ
+Line  71: Ροστάν 44, 41, Αθήνα
+Line  72: 771, 2023
+Line  73: Σύμβουλοι Μηχανικοί
+Line  74: ΠΑΡΑΤΗΡΗΣΕΙΣ
+Line  75: ΕΡΕΙΣΜΑ
+Line  76: ΤΕΧΝΙΚΗ ΕΤΑΙΡΕΙΑ
+Line  77: Νάξου Κηφισιά
+Line  78: Παρασκευής Χαλάνδρι
+Line  79: 42 094,
+Line  80: IFI
+Line  81: INTRA ΞΕΝΟΔΟΧΕΙΑΚΗ
+Line  82: 2017 45 42
+Line  83: ΚΑΤΑΣΚΕΥΑΣΤΙΚΑ
+Line  84: ΑΝΑΚΑΤΑΣΚΕΥΗ ΞΕΝΟΔΟΧΕΙΟΥ
+Line  85: ΣΤΗΝ ΜΥΚΟΝΟ
+Line  86: ΟΚΤΩΒΡΙΟΣ 2016
+Line  87: ΜΕΛΕΤΗ ΕΦΑΡΜΟΓΗΣ
+Line  88: Πλατύς Γιαλός Μύκονος
+Line  89: ΚΑΤΟΨΗ ΟΡΟΦΟΥ
+Line  90: 2016
+Line  91: ΖΩΝΗ 2
+Line  92: 03
+Line  93: 2016
+Line  94: 01
+Line  95: 2016
+Line  96: 01
+Line  97: 2016
+Line  98: 01
+Line  99: 2016
+Line 100: 01
+Line 101: 2016
+Line 102: 01
+Line 103: 2016
+Line 104: 01
+Line 105: 2016
+Line 106: 01
+Line 107: 2016
+Line 108: 01
+Line 109: 2016
+Line 110: 01
+Line 111: ΑΝΑΘΕΩΡΗΣΕΙΣ
+Line 112: ΠΕΡΙΓΡΑΦΗ
+Line 113: ΗΜ ΝΙΑ
+Line 114: 00
+Line 115: ΠΡΩΤΗ ΕΚΔΟΣΗ
+Line 116: 2016
+Line 117: 01
+Line 118: ΤΡΟΠΟΠΟΙΗΣΕΙΣ
+Line 119: 2016
+Line 120: 02
+Line 121: ΤΡΟΠΟΠΟΙΗΣΕΙΣ
+Line 122: 2016
+Line 123: 03
+Line 124: ΤΡΟΠΟΠΟΙΗΣΕΙΣ
+Line 125: 01 2017
+Line 126: 2016
+Line 127: 02
+Line 128: 01 2017
+Line 129: 03
+Line 130: 01 2017
+Line 131: 03
+
+=== END OF FILTERED TEXT ===
+Total lines: 132

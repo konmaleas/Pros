@@ -1,0 +1,159 @@
+=== FILTERED TEXT FOR: VAP-TW-A801-00.pdf ===
+
+Line   0: Level
+Line   1: Level
+Line   2: Level
+Line   3: Level
+Line   4: Level
+Line   5: SHAFT
+Line   6: LIFT
+Line   7: 1900 Clear Lift Shaft Dimensions
+Line   8: 2500 Clear Lift Shaft Dimensions
+Line   9: 1200
+Line  10: 710
+Line  11: 2100
+Line  12: 2500 Clear Lift Shaft Dimensions
+Line  13: 1900 Clear Lift Shaft Dimensions
+Line  14: 1200
+Line  15: 710
+Line  16: 2100
+Line  17: 710
+Line  18: 1200
+Line  19: 1900 Clear Lift Shaft Dimensions
+Line  20: 2500
+Line  21: 2100
+Line  22: 2500 Clear Lift Shaft Dimensions
+Line  23: 2500 Clear Lift Shaft Dimensions
+Line  24: 1900 Clear Lift Shaft Dimensions
+Line  25: 710
+Line  26: 1200
+Line  27: 2100
+Line  28: Level
+Line  29: Basement
+Line  30: Level
+Line  31: Ground Floor
+Line  32: Level
+Line  33: First Floor
+Line  34: NGL
+Line  35: Level
+Line  36: Level
+Line  37: Staircase
+Line  38: Roof
+Line  39: Level
+Line  40: Foundation
+Line  41: Staircase
+Line  42: Basement
+Line  43: 5900
+Line  44: 2100
+Line  45: 2000
+Line  46: 2100
+Line  47: 2100
+Line  48: 1585
+Line  49: 2500
+Line  50: 4200
+Line  51: 2975
+Line  52: Level
+Line  53: Basement
+Line  54: Level
+Line  55: Ground Floor
+Line  56: Level
+Line  57: First Floor
+Line  58: NGL
+Line  59: Level
+Line  60: Level
+Line  61: Staircase
+Line  62: Roof
+Line  63: Level
+Line  64: Foundation
+Line  65: Staircase
+Line  66: Basement
+Line  67: Level
+Line  68: Basement
+Line  69: Level
+Line  70: Ground Floor
+Line  71: Level
+Line  72: First Floor
+Line  73: NGL
+Line  74: Level
+Line  75: Level
+Line  76: Staircase
+Line  77: Roof
+Line  78: Level
+Line  79: Foundation
+Line  80: Staircase
+Line  81: Basement
+Line  82: Reception
+Line  83: SF
+Line  84: ROOM NUMBER
+Line  85: ROOM NAME
+Line  86: ROOM AREA
+Line  87: DOOR NUMBER
+Line  88: DOOR TYPE
+Line  89: ROUGH WIDTH WIDTH
+Line  90: DOOR HIGHT
+Line  91: WINDOW NUMBER
+Line  92: WINDOW TYPE
+Line  93: WINDOW HEIGHT
+Line  94: WINDOW SILL
+Line  95: WINDOW WIDTH
+Line  96: MASONRY
+Line  97: STRUCTURAL ELEMENTS
+Line  98: GENERAL ELEVATION SYMBOL
+Line  99: INTERNAL ELEVATION SYMBOL
+Line 100: GENERAL SECTION SYMBOL
+Line 101: DETAIL TAG
+Line 102: DETAIL TAG
+Line 103: FINISH FLOOR LEVEL
+Line 104: FLOOR TYPE
+Line 105: FFL
+Line 106: SSL
+Line 107: STRUCTURAL SLAB LEVEL
+Line 108: GENERAL SYMBOLS
+Line 109: TILES STARTING POINT
+Line 110: WALL FINISH SAME
+Line 111: WALLS ROOM
+Line 112: CHANGE WALL FINISH
+Line 113: ROOM
+Line 114: CURTAIN WALL NUMBER
+Line 115: REVISIONS
+Line 116: CLIENT
+Line 117: PROJECT
+Line 118: DESIGN STAGE
+Line 119: DATE
+Line 120: SCALE
+Line 121: FILE NAME
+Line 122: DRAWING TITLE
+Line 123: DRAWING
+Line 124: TAHLIA WALK
+Line 125: VAPARCHITECTS
+Line 126: Epirou Street
+Line 127: Athens, GR Greece
+Line 128: 3262
+Line 129: 3269
+Line 130: DESIGN ARCHITECTS
+Line 131: CONSULTANTS
+Line 132: STUDIO
+Line 133: Isavron
+Line 134: Lycabettus
+Line 135: Athens, GR 11471 Greece
+Line 136: ZAD DEVELOPMENT
+Line 137: STRUCTURAL ENGINEER
+Line 138: MEP ENGINEER
+Line 139: 01 40 PM
+Line 140: Lift Plans Sections
+Line 141: Elevations
+Line 142: Detail Design
+Line 143: Lift Plan Level
+Line 144: Lift Plan Level
+Line 145: Lift Plan Level
+Line 146: Lift Plan Level
+Line 147: Lift Section
+Line 148: Lift Section
+Line 149: Elevation
+Line 150: Description
+Line 151: Date
+Line 152: First
+Line 153: 07
+
+=== END OF FILTERED TEXT ===
+Total lines: 154

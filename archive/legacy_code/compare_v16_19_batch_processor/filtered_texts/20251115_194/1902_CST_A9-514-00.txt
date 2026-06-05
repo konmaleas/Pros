@@ -1,0 +1,119 @@
+=== FILTERED TEXT FOR: 1902_CST_A9-514-00.pdf ===
+
+Line   0: 1532
+Line   1: 736
+Line   2: 736
+Line   3: ΛΕΠΤ.
+Line   4: 734
+Line   5: 740
+Line   6: 1252
+Line   7: 1510
+Line   8: 1000
+Line   9: 1500
+Line  10: 478
+Line  11: 478
+Line  12: 478
+Line  13: 728
+Line  14: 748
+Line  15: 478
+Line  16: 478
+Line  17: 478
+Line  18: 1500
+Line  19: 1000
+Line  20: 1510
+Line  21: ΦΥΛΛΑ ΝΤΟΥΛΑΠΑΣ ΑΠΟ ΛΕΥΚΗ ΛΑΚΑ SATINE RAL 9010
+Line  22: 2. ΡΑΦΙΑ ΝΤΟΥΛΑΠΑΣ KAI KOYTIA ΝΤΟΥΛΑΠΑΣ ΑΠΟ ΛΕΥΚΗ
+Line  23: ΜΕΛΑΜΙΝΗ AGT SOFT TOUCH WHITE
+Line  24: TEΛΙΚΟ ΔΑΠΕΔΟ ΧΩΡΟΥ
+Line  25: 4. ΧΟΥΦΤΑ ΚΡΥΦΟ ΠΟΜΟΛΟ ΚΑΘ ΟΛΟ ΤΟ ΥΨΟΣ ΤΩΝ ΦΥΛΛΩΝ
+Line  26: ΛΕΠΤΟΜΕΡΕΙΑ ΕΙΝΑΙ ΕΝΔΕΙΚΤΙΚΗ, EΠΙΘΥΜΗΤΗ ΕΙΝΑΙ
+Line  27: ΑΠΟΣΤΑΣΗ ΤΩΝ
+Line  28: ΟΠΛΙΣΜΕΝΟ ΣΚΥΡΟΔΕΜΑ
+Line  29: TOIXOΣ ΑΠΟ ΟΠΤΟΠΛΙΝΘΟΥΣ
+Line  30: ΕΠΙΧΡΙΣΜΑ ΣΟΒΑΣ
+Line  31: ΨΕΥΔΟΡΟΦΗ ΑΝΔΥΓΡΗΣ ΓΥΨΟΣΑΝΙΔΑΣ
+Line  32: 00
+Line  33: ΞΥΛΟΥΡΓΙΚΕΣ
+Line  34: ΚΑΤΑΣΚΕΥΕΣ
+Line  35: WOODWORK
+Line  36: 2
+Line  37: 01 2020
+Line  38: ΕΡΜΑΡΙΟ ΤΡΟΦΙΜΩΝ
+Line  39: ΠΡΟΘΑΛΑΜΟΣ
+Line  40: ΚΟΥΖΙΝΑΣ
+Line  41: KITCHEN
+Line  42: ANTEROOM
+Line  43: CLOSET
+Line  44: SOUTH ANTIPAROS
+Line  45: RESIDENCES ANTIPAROS
+Line  46: CSTO LIMITED
+Line  47: ΑΝΑΘΕΩΡΗΣΕΙΣ REVISIONS
+Line  48: DESCRIPTION
+Line  49: REVISION DATE
+Line  50: ƯD UHHFH
+Line  51: ERISMA
+Line  52: Kontou 2 Athens, Greece
+Line  53: TEKEM CONSULTING ENGINEERS
+Line  54: Epirou Athens, Greece
+Line  55: 3262 3269
+Line  56: UHHFH
+Line  57: VALSAMAKIS
+Line  58: Skoufa Athens, 72 Greece
+Line  59: HELLI PANGALOU
+Line  60: SCALE
+Line  61: FIRST ISSUE DATE
+Line  62: ΑΡΧΙΤΕΚΤΟΝΙΚΗ
+Line  63: ΜΕΛΕΤΗ ΕΦΑΡΜΟΓΗΣ
+Line  64: DETAILED DESIGN
+Line  65: BLD. CATEGORY
+Line  66: ISSUED
+Line  67: CONSTR.
+Line  68: APPROVAL
+Line  69: TENDER
+Line  70: STATUS
+Line  71: DRAFT
+Line  72: FINAL
+Line  73: REV.
+Line  74: PROJECT
+Line  75: LOCATION
+Line  76: CLIENT
+Line  77: DRAWING
+Line  78: LANDSCAPE DESIGN
+Line  79: MEP ENGINEER
+Line  80: STRUCTURAL ENGINEER
+Line  81: ARCHITECTURAL DESIGN
+Line  82: EXECUTIVE ARCHITECT
+Line  83: SITE SUPERVISOR
+Line  84: DISCIPLINE
+Line  85: ARC
+Line  86: VAP
+Line  87: ΛΕΠΤΟΜΕΡΕΙΑ
+Line  88: ΚΛΙΜ. 2
+Line  89: ΘΕΣΗ ΓΙΑ SAFE
+Line  90: OI ΔΙΑΣΤΑΣΕΙΣ
+Line  91: ΕΙΝΑΙ ΕΝΔΕΙΚΤΙΚΕΣ
+Line  92: ΘΕΣΗ ΓΙΑ SAFE
+Line  93: OI ΔΙΑΣΤΑΣΕΙΣ
+Line  94: ΕΙΝΑΙ ΕΝΔΕΙΚΤΙΚΕΣ
+Line  95: KATΟΨΗ
+Line  96: ΚΛΙΜ.
+Line  97: ΟΨΗ
+Line  98: ΟΨΗ
+Line  99: TOMH
+Line 100: TOMH
+Line 101: OΨΗ
+Line 102: ΚΛΙΜ.
+Line 103: OΨΗ
+Line 104: ΚΛΙΜ.
+Line 105: TOMΗ
+Line 106: ΚΛΙΜ.
+Line 107: TOMΗ
+Line 108: ΚΛΙΜ.
+Line 109: 2
+Line 110: 4
+Line 111: 2
+Line 112: 2
+Line 113: 4
+
+=== END OF FILTERED TEXT ===
+Total lines: 114

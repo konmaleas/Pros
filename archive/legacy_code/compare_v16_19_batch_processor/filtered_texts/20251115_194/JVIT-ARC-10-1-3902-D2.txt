@@ -1,0 +1,556 @@
+=== FILTERED TEXT FOR: JVIT-ARC-10-1-3902-D2.pdf ===
+
+Line   0: Storage
+Line   1: ΑΠΟΘΗΚΗ
+Line   2: Lift
+Line   3: ΑΝΕΛΚΥΣΤΗΡΑΣ
+Line   4: Escape Staircase
+Line   5: ΚΛΙΜΑΚΟΣΤΑΣΙΟ
+Line   6: Lectures Space
+Line   7: ΧΩΡΟΣ
+Line   8: Cable
+Line   9: BG
+Line  10: BH
+Line  11: CA
+Line  12: CB
+Line  13: CC
+Line  14: CD
+Line  15: CE
+Line  16: CF
+Line  17: CG
+Line  18: CH
+Line  19: DA
+Line  20: DB
+Line  21: DC
+Line  22: DD
+Line  23: DE
+Line  24: DF
+Line  25: DG
+Line  26: DH
+Line  27: EA
+Line  28: EB
+Line  29: EC
+Line  30: 70
+Line  31: 71
+Line  32: 72
+Line  33: 73
+Line  34: 74
+Line  35: 75
+Line  36: 76
+Line  37: 77
+Line  38: 78
+Line  39: REFER DRAWING NUMBER JVIT ARC 0901 CONTINUATION
+Line  40: REFER DRAWING NUMBER JVIT ARC 3903 CONTINUATION
+Line  41: REFER DRAWING NUMBER JVIT ARC 3901 CONTINUATION
+Line  42: FFL
+Line  43: SSL
+Line  44: Inspection Chamber
+Line  45: ΦΡΕΑΤΙΟ
+Line  46: ΕΠΙΣΚΕΨΗΣ
+Line  47: Inspection Chamber
+Line  48: ΦΡΕΑΤΙΟ
+Line  49: ΕΠΙΣΚΕΨΗΣ
+Line  50: Fire
+Line  51: Refer JVIT ARC 8841
+Line  52: ΠΥΡΟΣΒΕΣΤΙΚΗ ΦΩΛΙΑ
+Line  53: ΣΤΗΝ ΟΨΗ
+Line  54: ΒΛ. JVIT ARC 8841
+Line  55: JVIT ARC 8732
+Line  56: PARTITION WALL TYPES ΤΥΠΟΛΟΓΙΑ ΕΛΑΦΡΩΝ
+Line  57: THK METAL STUD WALL PARTITION
+Line  58: ΤΟΙΧΟΣ ΞΗΡΗΣ
+Line  59: THK METAL STUD WALL PARTITION
+Line  60: ΤΟΙΧΟΣ ΞΗΡΗΣ
+Line  61: THK METAL STUD WALL PARTITION
+Line  62: ΤΟΙΧΟΣ ΞΗΡΗΣ
+Line  63: VARYING THK METAL STUD WALL PARTITION
+Line  64: ΤΟΙΧΟΣ ΞΗΡΗΣ KYMAINOMENOY
+Line  65: THK METAL STUD WALL PARTITION
+Line  66: ΤΟΙΧΟΣ ΞΗΡΗΣ
+Line  67: THK METAL STUD WALL PARTITION
+Line  68: ΤΟΙΧΟΣ ΞΗΡΗΣ
+Line  69: THK METAL STUD WALL PARTITION
+Line  70: ΤΟΙΧΟΣ ΞΗΡΗΣ
+Line  71: THK METAL STUD WALL PARTITION
+Line  72: ΤΟΙΧΟΣ ΞΗΡΗΣ
+Line  73: THK METAL STUD WALL PARTITION
+Line  74: ΤΟΙΧΟΣ ΞΗΡΗΣ
+Line  75: THK METAL STUD WALL PARTITION
+Line  76: ΤΟΙΧΟΣ ΞΗΡΗΣ
+Line  77: VARYING THK METAL STUD WALL PARTITION
+Line  78: ΤΟΙΧΟΣ ΞΗΡΗΣ KYMAINOMENOY
+Line  79: THK METAL STUD WALL PARTITION
+Line  80: ΤΟΙΧΟΣ ΞΗΡΗΣ
+Line  81: VARYING THK METAL STUD WALL PARTITION
+Line  82: ΤΟΙΧΟΣ ΞΗΡΗΣ KYMAINOMENOY
+Line  83: THK CONCRETE MASONRY UNIT BLOCK WALL
+Line  84: ΤΟΙΧΟΣ ΑΠΟ ΤΣΙΜΕΝΤΟΤΟΥΒΛΑ
+Line  85: THK CONCRETE MASONRY UNIT BLOCK WALL
+Line  86: METAL SUPPORT STRUCTURE
+Line  87: ΤΟΙΧΟΣ ΑΠΟ ΤΣΙΜΕΝΤΟΤΟΥΒΛΑ
+Line  88: ΜΕ ΜΕΤΑΛΛΙΚΗ ΕΝΙΣΧΥΣΗ
+Line  89: THK CONCRETE MASONRY
+Line  90: CORE FILLED BLOCK WALL
+Line  91: ΤΟΙΧΟΣ ΑΠΟ ΤΣΙΜΕΝΤΟΤΟΥΒΛΑ
+Line  92: ΜΕ ΓΕΜΙΣΜΑ
+Line  93: THK CONCRETE MASONRY UNIT BLOCK WALL
+Line  94: METAL STUD PARTITION
+Line  95: ΤΟΙΧΟΣ ΑΠΟ ΤΣΙΜΕΝΤΟΤΟΥΒΛΑ
+Line  96: ΜΕ ΜΕΤΑΛΛΙΚΟ ΣΚΕΛΕΤΟ
+Line  97: THK CONCRETE MASONRY UNIT BLOCK WALL
+Line  98: METAL STUD PARTITION
+Line  99: ΤΟΙΧΟΣ ΑΠΟ ΤΣΙΜΕΝΤΟΤΟΥΒΛΑ
+Line 100: ΜΕ ΜΕΤΑΛΛΙΚΟ ΣΚΕΛΕΤΟ
+Line 101: THK CONCRETE MASONRY UNIT BLOCK WALL
+Line 102: WΙΤΗ METAL STRUCTURE METAL STUD PARTITION
+Line 103: ΤΟΙΧΟΣ ΑΠΟ ΤΣΙΜΕΝΤΟΤΟΥΒΛΑ ΜΕ ΜΕΤΑΛΛΙΚΗ
+Line 104: ΕΝΙΣΧΥΣΗ ΚΑΙ ΜΕΤΑΛΛΙΚΟ ΣΚΕΛΕΤΟ
+Line 105: THK CONCRETE MASONRY CORE FILLED
+Line 106: BLOCK WALL WΙΤΗ METAL STRUCTURE
+Line 107: METAL STUD PARTITION
+Line 108: ΤΟΙΧΟΣ ΑΠΟ ΤΣΙΜΕΝΤΟΤΟΥΒΛΑ ΜΕ ΓΕΜΙΣΜΑ
+Line 109: ΜΕ ΜΕΤΑΛΛΙΚΗ
+Line 110: ΕΝΙΣΧΥΣΗ
+Line 111: ΚΑΙ ΜΕΤΑΛΛΙΚΟ ΣΚΕΛΕΤΟ
+Line 112: THK CONCRETE MASONRY UNIT BLOCK WALL
+Line 113: ΤΟΙΧΟΣ ΑΠΟ ΤΣΙΜΕΝΤΟΤΟΥΒΛΑ
+Line 114: THK WALL PARTITION
+Line 115: ΤΟΙΧΟΣ ΞΗΡΗΣ
+Line 116: THK METAL STUD WALL PARTITION
+Line 117: ΤΟΙΧΟΣ ΞΗΡΗΣ
+Line 118: THK METAL STUD WALL PARTITION
+Line 119: ΤΟΙΧΟΣ ΞΗΡΗΣ
+Line 120: THK METAL STUD WALL PARTITION
+Line 121: ΤΟΙΧΟΣ ΞΗΡΗΣ
+Line 122: THK METAL STUD WALL PARTITION
+Line 123: ΤΟΙΧΟΣ ΞΗΡΗΣ
+Line 124: THK METAL STUD WALL PARTITION
+Line 125: ΤΟΙΧΟΣ ΞΗΡΗΣ
+Line 126: THK 2 METAL STUD WALL PARTITIONS
+Line 127: ΤΟΙΧΟΣ ΞΗΡΗΣ
+Line 128: THK 2 METAL STUD WALL PARTITIONS
+Line 129: ΤΟΙΧΟΣ ΞΗΡΗΣ
+Line 130: THK METAL STUD WALL PARTITION
+Line 131: ΤΟΙΧΟΣ ΞΗΡΗΣ
+Line 132: THK METAL STUD WALL PARTITION
+Line 133: ΤΟΙΧΟΣ ΞΗΡΗΣ
+Line 134: THK METAL STUD WALL PARTITION
+Line 135: ΤΟΙΧΟΣ ΞΗΡΗΣ
+Line 136: THK METAL STUD WALL PARTITION
+Line 137: ΤΟΙΧΟΣ ΞΗΡΗΣ
+Line 138: THK METAL STUD WALL PARTITION
+Line 139: ΤΟΙΧΟΣ ΞΗΡΗΣ
+Line 140: THK METAL STUD WALL PARTITION
+Line 141: ΤΟΙΧΟΣ ΞΗΡΗΣ
+Line 142: THK METAL STUD WALL PARTITION
+Line 143: ΤΟΙΧΟΣ ΞΗΡΗΣ
+Line 144: METAL STUD WALL PARTITION DIFFERENT
+Line 145: THICKNESSES DISTANCE CW
+Line 146: ACCORDING VARIATIONS
+Line 147: REFER PARTITION WALLS TYPICAL
+Line 148: DETAILS JVIT ARC 00 1001 1004
+Line 149: ΤΟΙΧΟΣ ΞΗΡΗΣ
+Line 150: ΑΝΑΛΟΓΑ ΜΕ ΤΟΝ ΤΥΠΟ ΤΟΥ
+Line 151: ΠΑΡΑΚΑΛΩ ΟΠΩΣ ΑΝΑΤΡΕΞΑΤΕ ΤΥΠΙΚΕΣ
+Line 152: ΛΕΠΤΟΜΕΡΕΙΕΣ ΤΩΝ ΤΟΙΧΩΝ
+Line 153: THK CONCRETE MASONRY UNIT
+Line 154: BLOCK WALL METAL STUD PARTITION
+Line 155: ΤΟΙΧΟΣ ΑΠΟ ΤΣΙΜΕΝΤΟΤΟΥΒΛΑ
+Line 156: ΜΕ ΜΕΤΑΛΛΙΚΟ ΣΚΕΛΕΤΟ
+Line 157: METAL STUD WALL PARTITION DIFFERENT
+Line 158: THICKNESSES DISTANCE CW
+Line 159: ACCORDING VARIATIONS
+Line 160: REFER PARTITION WALLS TYPICAL
+Line 161: DETAILS JVIT ARC 00 1001 1004
+Line 162: ΤΟΙΧΟΣ ΞΗΡΗΣ
+Line 163: ΑΝΑΛΟΓΑ ΜΕ ΤΟΝ ΤΥΠΟ ΤΟΥ
+Line 164: ΠΑΡΑΚΑΛΩ ΟΠΩΣ ΑΝΑΤΡΕΞΑΤΕ ΤΥΠΙΚΕΣ
+Line 165: ΛΕΠΤΟΜΕΡΕΙΕΣ ΤΩΝ ΤΟΙΧΩΝ
+Line 166: THK METAL STUD WALL PARTITION
+Line 167: ΤΟΙΧΟΣ ΞΗΡΗΣ
+Line 168: THK METAL STUD WALL PARTITION
+Line 169: ΤΟΙΧΟΣ ΞΗΡΗΣ
+Line 170: THK METAL STUD WALL PARTITION
+Line 171: ΤΟΙΧΟΣ ΞΗΡΗΣ
+Line 172: THK METAL STUD WALL PARTITION
+Line 173: ΤΟΙΧΟΣ ΞΗΡΗΣ
+Line 174: THK METAL STUD WALL PARTITION
+Line 175: ΤΟΙΧΟΣ ΞΗΡΗΣ
+Line 176: REMAINING FORMWORK WALL
+Line 177: ΤΟΙΧΟΣ ΑΠΟ ΠΑΡΑΜΕΝΟΝΤΑ ΞΥΛΟΤΥΠΟ
+Line 178: THK REMAINING FORMWORK WALL
+Line 179: METAL STUD WALL PARTITION
+Line 180: ΤΟΙΧΟΣ ΑΠΟ ΠΑΡΑΜΕΝΟΝΤΑ ΞΥΛΟΤΥΠΟΤΟΙΧΟΣ
+Line 181: ΜΕ ΜΕΤΑΛΛΙΚΟ ΣΚΕΛΕΤΟ
+Line 182: THK METAL STUD WALL PARTITION
+Line 183: ΤΟΙΧΟΣ ΞΗΡΗΣ
+Line 184: THK THERMAL INSULATION
+Line 185: ΘΕΡΜΟΜΟΝΩΣΗ
+Line 186: THK THERMAL INSULATION
+Line 187: ΘΕΡΜΟΜΟΝΩΣΗ
+Line 188: THK THERMAL INSULATION
+Line 189: ΘΕΡΜΟΜΟΝΩΣΗ
+Line 190: THK THERMAL INSULATION
+Line 191: ΘΕΡΜΟΜΟΝΩΣΗ
+Line 192: THK THERMAL INSULATION
+Line 193: LEVEL XPS
+Line 194: TEKTALAN ΘΕΡΜΟΜΟΝΩΣΗ
+Line 195: ΜΕΧΡΙ
+Line 196: XPS ΠΑΝΩ ΑΠΟ ΤΟ
+Line 197: TEKTALAN
+Line 198: THK METAL STUD WALL PARTITION
+Line 199: ΤΟΙΧΟΣ ΞΗΡΗΣ
+Line 200: THK METAL STUD WALL PARTITION
+Line 201: ΤΟΙΧΟΣ ΞΗΡΗΣ
+Line 202: THK THERMAL INSULATION, METAL STUD
+Line 203: PARTITION PERFORATED METAL SHEET
+Line 204: ΘΕΡΜΟΜΟΝΩΣΗ ΜΕΤΑΛΛΙΚΟΣ
+Line 205: ΣΚΕΛΕΤΟΣ ΚΑΙ ΛΑΜΑΡΙΝΑ
+Line 206: THK METAL STUD WALL PARTITION
+Line 207: PERFORATED METAL SHEET
+Line 208: ΤΟΙΧΟΣ ΞΗΡΗΣ
+Line 209: ΚΑΙ ΛΑΜΑΡΙΝΑ
+Line 210: THK METAL STUD WALL PARTITION
+Line 211: ΤΟΙΧΟΣ ΞΗΡΗΣ
+Line 212: WATER RESISTANT
+Line 213: ΑΝΘΥΓΡΟ
+Line 214: FIRE RESISTANT
+Line 215: ΠΥΡΑΝΤΟΧΟ
+Line 216: SCREED SLAB
+Line 217: FINISHED FLOOR SLAB
+Line 218: SCREED FALSE CEILING
+Line 219: FINISHED FLOOR FALSE CEILING
+Line 220: SLAB FALSE CEILING
+Line 221: NOTE PARTITIONS EXTEND SLAB SLAB
+Line 222: IS SYMBOL PLACED
+Line 223: PARTITION IDENTIFICATION
+Line 224: WALL SKIRTINGS ΣΟΒΑΤΕΠΙ
+Line 225: ALUMINUM SKIRTING HIGH
+Line 226: ΣΟΒΑΤΕΠΙ ΑΛΟΥΜΙΝΙΟΥ ΥΨΟΥΣ
+Line 227: 2
+Line 228: MARBLE SKIRTINGS HIGH
+Line 229: ΜΑΡΜΑΡΙΝΟ ΣΟΒΑΤΕΠΙ ΥΨΟΥΣ
+Line 230: WOOD SKIRTING HIGH
+Line 231: ΞΥΛΙΝΟ ΣΟΒΑΤΕΠΙ ΥΨΟΥΣ
+Line 232: 4
+Line 233: GRES SKIRTING SPECIAL ITEM
+Line 234: ΣΟΒΑΤΕΠΙ ΑΠΟ GRES ΤΕΜΑΧΙΟ
+Line 235: SKIRTING
+Line 236: ΧΩΡΙΣ ΣΟΒΑΤΕΠΙ
+Line 237: STEEL RECESSED SKIRTING
+Line 238: ΣΟΒΑΤΕΠΙ ΣΕ
+Line 239: WOOD RECESSED SKIRTING HIGH
+Line 240: ΞΥΛΙΝΟ ΣΟΒΑΤΕΠΙ ΣΕ
+Line 241: WOOD RECESSED SKIRTING VARIABLE HEIGHT
+Line 242: ΞΥΛΙΝΟ ΣΟΒΑΤΕΠΙ ΣΕ ΚΥΜΑΙΝΟΜΕΝΟ ΥΨΟΣ
+Line 243: RECESSED RUBBER SKIRTING HIGH
+Line 244: ΕΛΑΣΤΙΚΟ ΣΟΒΑΤΕΠΙ ΣΕ ΥΨΟΥΣ
+Line 245: EPOXY PAINT SKIRTING HIGH
+Line 246: ΣΟΒΑΤΕΠΙ ΑΠΟ ΒΑΦΗ ΥΨΟΥΣ
+Line 247: RECESSED CERAMIC TILE SKIRTING HIGH
+Line 248: ΚΕΡΑΜΙΚΗ ΣΟΒΑΤΕΠΙ ΣΕ ΥΨΟΥΣ
+Line 249: FLOOR TYPE STRUCTURE ΤΥΠΟΛΟΓΙΑ ΥΠΟΣΤΡΩΜΑΤΩΝ
+Line 250: SCREED FLOOR THERMAL INSULATION
+Line 251: ΥΠΟΣΤΡΩΜΑ ΕΛΑΦΡΑ ΟΠΛΙΣΜΕΝΟΥ
+Line 252: ΜΕ ΘΕΡΜΟΜΟΝΩΣΗ
+Line 253: RAISED FLOOR
+Line 254: ΥΠΕΡΥΨΩΜΕΝΟ
+Line 255: ACOUSTIC FLOOR
+Line 256: ΜΕ ΑΚΟΥΣΤΙΚΕΣ ΑΠΑΙΤΗΣΕΙΣ
+Line 257: SCREED FLOOR ACOUSTIC UNDERLAYMENT
+Line 258: ΥΠΟΣΤΡΩΜΑ ΕΛΑΦΡΑ ΟΠΛΙΣΜΕΝΟΥ
+Line 259: ΜΕ ΑΚΟΥΣΤΙΚΟ ΥΠΟΣΤΡΩΜΑ
+Line 260: SCREED FLOOR DRAINAGE CAVITY
+Line 261: ΥΠΟΣΤΡΩΜΑ ΕΛΑΦΡΑ ΟΠΛΙΣΜΕΝΟΥ
+Line 262: ΜΕ ΣΥΣΤΗΜΑ ΑΠΟΣΤΡΑΓΓΙΣΗΣ
+Line 263: SCREED FLOOR LIGHTWEIGHT FILLING
+Line 264: ΥΠΟΣΤΡΩΜΑ ΕΛΑΦΡΑ ΟΠΛΙΣΜΕΝΟΥ
+Line 265: ΚΑΙ ΕΞΗΛΑΣΜΕΝΗ ΠΟΛΥΣΤΕΡΙΝΗ
+Line 266: FLOOR FINISHINGS ΤΥΠΟΛΟΓΙΑ ΤΕΛΙΚΩΝ ΕΠΙΦΑΝΕΙΩΝ
+Line 267: MARBLE TYPE
+Line 268: ΜΑΡΜΑΡΟ ΚΑΤΗΓΟΡΙΑΣ
+Line 269: 2
+Line 270: MARBLE TYPE
+Line 271: ΜΑΡΜΑΡΟ ΚΑΤΗΓΟΡΙΑΣ
+Line 272: EPOXY PAINT
+Line 273: ΒΑΦΗ
+Line 274: 4
+Line 275: STAGE FLOOR TIMBER
+Line 276: ΞΥΛΙΝΟ ΣΚΗΝΗΣ
+Line 277: TIMBER FLOOR
+Line 278: ΞΥΛΙΝΟ
+Line 279: CERAMIC TILES
+Line 280: ΚΕΡΑΜΙΚΑ
+Line 281: RUBBER FLOOR
+Line 282: ΕΛΑΣΤΙΚΟ
+Line 283: ANTISTATIC RUBBER FLOOR
+Line 284: ΑΝΤΙΣΤΑΤΙΚΟ ΕΛΑΣΤΙΚΟ
+Line 285: Exept ΕΚΤΟΣ ΑΠΟ
+Line 286: POLYURETHANE FLOORING
+Line 287: ΠΟΛΥΟΥΡΕΘΑΝΗΣ
+Line 288: MARBLE TYPE
+Line 289: ΜΑΡΜΑΡΟ ΚΑΤΗΓΟΡΙΑΣ
+Line 290: GLASS FLOOR
+Line 291: ΓΥΑΛΙΝΟ ΠΑΤΩΜΑ
+Line 292: BRUSHED CONCRETE
+Line 293: ΜΕ ΒΟΥΡΤΣΙΣΤΟ ΤΕΛΕΙΩΜΑ
+Line 294: SLIP RESISTANT POLYURETHANE PAINT
+Line 295: ΑΝΤΙΟΛΙΣΘΗΡΗ ΠΟΛΥΟΥΡΕΘΑΝΙΚΗ ΒΑΦΗ
+Line 296: FLOOR MAT
+Line 297: STEP GALVANIZED STEEL
+Line 298: ΑΠΟ ΛΑΜΑΡΙΝΑ ΓΑΛΒΑΝΙΖΕ
+Line 299: HARDENED CONCRETE
+Line 300: ΜΕ ΕΠΙΠΑΣΗ ΣΚΛΗΡΥΝΤΙΚΟΥ
+Line 301: SUBSTRUCTURE
+Line 302: ΧΩΡΙΣ ΥΠΟΣΤΡΩΜΑ
+Line 303: SCREED FLOOR
+Line 304: ΥΠΟΣΤΡΩΜΑ ΕΛΑΦΡΑ ΟΠΛΙΣΜΕΝΟΥ
+Line 305: METAL DECK
+Line 306: ΜΕΤΑΛΛΙΚΗ ΚΑΤΑΣΚΕΥΗ
+Line 307: PLYWOOD WOODEN BATTENS
+Line 308: ΚΟΝΤΡΑ ΠΛΑΚΕ ΞΥΛΙΝΕΣ
+Line 309: SCREED INSET RAILS
+Line 310: ΥΠΟΣΤΡΩΜΑ ΕΛΑΦΡΑ ΟΠΛΙΣΜΕΝΟΥ
+Line 311: ΜΕ ΕΝΣΩΜΑΤΩΜΕΝΕΣ
+Line 312: ΡΑΓΕΣ
+Line 313: Number ΝΟΥΜΕΡΟ
+Line 314: Width ΠΛΑΤΟΣ
+Line 315: Ηeight ΥΨΟΣ
+Line 316: DOORS WINDOWS CODES ΑΝΟΙΓΜΑΤΩΝ
+Line 317: Sill
+Line 318: Number ΝΟΥΜΕΡΟ
+Line 319: Ηeight ΥΨΟΣ
+Line 320: Width ΠΛΑΤΟΣ
+Line 321: Door ΠΟΡΤΑ
+Line 322: ΠΑΡΑΘΥΡΟ
+Line 323: Sill
+Line 324: Number
+Line 325: Head Ηeight
+Line 326: Width
+Line 327: Access Hatches
+Line 328: Fire Equipment Doors
+Line 329: ΠΥΡΟΣΒ.
+Line 330: ΕΞΟΠΛΙΣΜΟΣ
+Line 331: ΝΟΥΜΕΡΟ
+Line 332: ΠΡΕΚΙ
+Line 333: ΠΛΑΤΟΣ
+Line 334: NOTES ΠΑΡΑΤΗΡΗΣΕΙΣ
+Line 335: Drawings Coordinated Stractural MEP Drawings
+Line 336: ΟΛΑ ΤΑ ΕΙΝΑΙ ΣΥΝΤΟΝΙΣΜΕΝΑ ΜΕ ΤΗ ΣΤΑΤΙΚΗ ΚΑΙ ΜΗΧΑΝΟΛΟΓΙΚΗ ΜΕΛΕΤΗ
+Line 337: 2.
+Line 338: Typical Concrete Details Refer Drawing JVIT ARC 0201 2
+Line 339: ΓΙΑ ΤΥΠΙΚΕΣ ΛΕΠΤΟΜΕΡΕΙΕΣ ΒΛΕΠΕ ARC 0201 2
+Line 340: FF Inticative
+Line 341: ΕΞΟΠΛΙΣΜΟΣ ΕΙΝΑΙ
+Line 342: 4.
+Line 343: DWG
+Line 344: ΓΙΑ ΤΗ ΠΥΡΑΝΤΙΣΤΑΣΗΣ ΤΩΝ ΑΝΑΤΡΕΞΤΕ ΣΤΑ
+Line 345: ΤΗΣ ΜΕΛΕΤΗΣ ΠΑΘΗΤΙΚΗΣ ΠΥΡ ΣΙΑΣ.
+Line 346: ABBREVIATIONS ΣΥΝΤΟΜΟΓΡΑΦΙΕΣ
+Line 347: OPEN
+Line 348: ΑΝΟΙΚΤΟ ΩΣ ΤΟ ΚΑΤΩ
+Line 349: CEILING SPACE
+Line 350: ΧΩΡΟΣ
+Line 351: FFL
+Line 352: FINISH FLOOR LEVEL ΤΕΛΙΚΗ ΣΤΑΘΜΗ
+Line 353: SSL
+Line 354: STRUCTURAL SLAB LEVEL ΣΤΑΘΜΗ ΠΛΑΚΑΣ
+Line 355: SSL
+Line 356: STRUCTURAL STEEL LEVEL ΣΤΑΘΜΗ ΜΕΤΑΛΛΙΚΗΣ ΠΛΑΚΑΣ
+Line 357: TOC
+Line 358: TOP CONCRETE ΣΤΑΘΜΗ
+Line 359: File Path
+Line 360: REV.
+Line 361: ΑΝΑΘ.
+Line 362: DATE
+Line 363: ΗΜΕΡΟΜΗΝΙΑ
+Line 364: DESCRIPTION
+Line 365: ΠΕΡΙΓΡΑΦΗ
+Line 366: DRAWN
+Line 367: ΑΠΟ
+Line 368: CHECKED
+Line 369: ΕΛΕΓΧΟΣ ΑΠΟ
+Line 370: APPROVED
+Line 371: ΕΓΚΡΙΣΗ ΑΠΟ
+Line 372: ΚΕΝΤΡΟ ΠΟΛΙΤΙΣΜΟΥ ΣΤΑΥΡΟΣ ΝΙΑΡΧΟΣ
+Line 373: STAVROS NIARCHOS FOUNDATION CULTURAL CENTER
+Line 374: PROJECT
+Line 375: PROJECT MANAGER COST CONSULTANT
+Line 376: ΚΑΤΑΣΚΕΥΗΣ ΣΥΜΒ. ΠΡΟΫΠ ΣΜΟΥ
+Line 377: CONTRACTOR
+Line 378: KEY PLAN
+Line 379: ΕΡΓΟ
+Line 380: 1528
+Line 381: Messogeion Avenue, Athens, GR 11526
+Line 382: Greece
+Line 383: 68000, 68098
+Line 384: Λεωφ. Μεσογείων Αθήνα, ΤΚ 11526
+Line 385: Ελλάδα
+Line 386: 68000, 68098
+Line 387: Vasilissis Sofias Avenue, Athens, GR 11528
+Line 388: Greece
+Line 389: 72 41311, 72 41312
+Line 390: Βασιλίσσης Σοφίας Αθήνα, ΤΚ 11528
+Line 391: Ελλάδα
+Line 392: 72 41311, 72 41312
+Line 393: DRWG TITLE
+Line 394: ΤΙΤΛΟΣ
+Line 395: JV STAMP
+Line 396: CONSULTANT STAMP
+Line 397: ΞΙΑΣ
+Line 398: ΣΥΜΒΟΥΛΟΥ
+Line 399: CONSTRUCTION
+Line 400: INFORMATION
+Line 401: CANCELED
+Line 402: SCALE
+Line 403: ΚΛΙΜΑΚΑ
+Line 404: ISSUED
+Line 405: APPROVAL STATUS
+Line 406: INFORMATION
+Line 407: APPROVAL
+Line 408: REVIEW
+Line 409: REFERENCED DRAWING NUMBER
+Line 410: ER DESIGN DRAWING
+Line 411: SHOP DRAWING
+Line 412: BUILT
+Line 413: AUTHOR
+Line 414: ΣΥΝΤΑΚΤΗΣ
+Line 415: DISCIPLINE
+Line 416: ΚΑΤ. ΜΕΛΕΤΗΣ
+Line 417: ZONE
+Line 418: ΠΕΡΙΟΧΗ
+Line 419: DRWG TYPE
+Line 420: REV.
+Line 421: ΑΝΑΘ.
+Line 422: QR CODE
+Line 423: FIRST ISSUE DATE
+Line 424: ΗΜΕΡ.
+Line 425: CONSTRUCTION
+Line 426: ADDITIONAL DESIGN DRAWING
+Line 427: COMMENTS
+Line 428: COMMENTS
+Line 429: JVIT STATUS
+Line 430: RPBW
+Line 431: RENZO PIANO BUILDING WORKSHOP
+Line 432: FACADE CONSULTANT
+Line 433: ΣΥΜΒΟΥΛΟΣ ΠΡΟΣΟΨΕΩΝ
+Line 434: FRONT
+Line 435: ACOUSTIC DESIGN
+Line 436: ΑΚΟΥΣΤΙΚΗ ΜΕΛΕΤΗ
+Line 437: ARUP Acoustics
+Line 438: THEATRE DESIGN CONSULTANT
+Line 439: ΣΥΜΒΟΥΛΟΣ ΘΕΑΤΡΙΚΟΥ
+Line 440: THEATRE PROJECTS CONSULTANTS
+Line 441: LIBRARY CONSULTANT
+Line 442: ΣΥΜΒΟΥΛΟΣ ΒΙΒΛΙΟΘΗΚΗΣ
+Line 443: LANDSCAPE DESIGN
+Line 444: ΜΕΛΕΤΗ ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΧΩΡΟΥ
+Line 445: DEBORAH NEVINS
+Line 446: Associates,
+Line 447: COLLABORATION
+Line 448: ΜΕΛΕΤΗΤΗΣ
+Line 449: HELLI PANGALOU
+Line 450: MEP ENGINEER
+Line 451: ΜΕΛΕΤΗ ΕΓΚΑΤΑΣΤΑΣΕΩΝ
+Line 452: ARUP
+Line 453: COLLABORATION
+Line 454: ΜΕΛΕΤΗΤΗΣ
+Line 455: LDK
+Line 456: STRUCTURAL ENGINEER
+Line 457: ΣΤΑΤΙΚΗ ΜΕΛΕΤΗ
+Line 458: EXPEDITION
+Line 459: COLLABORATION
+Line 460: ΜΕΛΕΤΗΤΗΣ
+Line 461: OMETE
+Line 462: EXECUTIVE ARCHITECT
+Line 463: ΑΡΧΙΤΕΚΤΟΝΑΣ
+Line 464: DESIGN ARCHITECT
+Line 465: ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΜΕΛΕΤΗ ΑΡΧΙΤΕΚΤΟΝΑΣ ΕΡΓΟΥ
+Line 466: TRAFFIC CONSULTANT
+Line 467: ΚΥΚΛΟΦΟΡΙΑΚΗ ΜΕΛΕΤΗ
+Line 468: DENCO
+Line 469: PROJECT MANAGER COST CONSULTANT
+Line 470: ΣΥΝΤΟΝΙΣΜΟΣ ΜΕΛΕΤΗΣ ΣΥΜΒΟΥΛΟΣ ΠΡΟΥΠΟΛΟΓΙΣΜΟΥ
+Line 471: FAITHFUL GOULD
+Line 472: Archives
+Line 473: 75004 Paris France
+Line 474: 44 4900
+Line 475: 42 78 0198
+Line 476: Aristodimou Street
+Line 477: Athens, GR 76 Greece
+Line 478: 72
+Line 479: 72
+Line 480: Regent Street, Morley House
+Line 481: London, UK
+Line 482: 44 1000
+Line 483: 44 1001
+Line 484: Asklipiou Street
+Line 485: Athens, GR 72 Greece
+Line 486: 30026
+Line 487: 44631
+Line 488: Fitzroy Street
+Line 489: London, UK
+Line 490: 44 755 2191
+Line 491: 44 755 3743
+Line 492: Thivaidos Street
+Line 493: Athens, GR Greece
+Line 494: 96700
+Line 495: 96709
+Line 496: Lafayette Street, Suite
+Line 497: York, NY 10012 USA
+Line 498: 1125
+Line 499: Skoufa Street
+Line 500: Athens, GR 72 Greece
+Line 501: 6219
+Line 502: 9225
+Line 503: Linton House
+Line 504: Highgate Road
+Line 505: London, UK
+Line 506: 44 7284 5888
+Line 507: Alexi
+Line 508: Elizabeth Street
+Line 509: South Norwalk, CT 06854 3025 USA
+Line 510: 0830
+Line 511: 0835
+Line 512: Americas
+Line 513: York, NY 10013 USA
+Line 514: 2669
+Line 515: 1056
+Line 516: Street, Brooklyn
+Line 517: York, NY 10014 USA
+Line 518: 2220
+Line 519: 2253
+Line 520: Kifisias
+Line 521: Athens, GR Greece
+Line 522: 54801
+Line 523: 54800
+Line 524: Vasilissis Sofias Avenue
+Line 525: Athens, GR Greece
+Line 526: 72 41311
+Line 527: 72 41312
+Line 528: IRRIGATION DESIGN
+Line 529: ΜΕΛΕΤΗ
+Line 530: SOTIRIOS MAVRAGANIS
+Line 531: 42 Vasileos Georgiou Street
+Line 532: Athens, GR Greece
+Line 533: AMA Alexi Marmot Associates
+Line 534: BETAPLAN
+Line 535: ΑΛΛΑΓΗ ΧΡΗΣΗΣ ΕΠΙΜΕΡΟΥΣ ΧΩΡΩΝ ΣΤΟ ΚΤΙΡΙΟ ΤΗΣ ΕΘΝΙΚΗΣ ΛΥΡΙΚΗΣ
+Line 536: ΣΚΗΝΗΣ ΕΛΣ ΕΣΩΤΕΡΙΚΕΣ ΣΤΑ ΚΤΙΡΙΑ ΕΛΣ ΚΑΙ ΕΘΝΙΚΗΣ
+Line 537: ΒΙΒΛΙΟΘΗΚΗΣ ΚΑΙ ΕΡΓΑΣΙΕΣ ΕΓΚΑΣΤΑΣΤΑΣΕΩΝ ΣΤΟΝ ΠΕΡΙΒΑΛΛΟΝΤΑ ΧΩΡΟ
+Line 538: Users Documents RPBW ATH CUR OPERA RS PERMIT DAY 2
+Line 539: Plan Level 08
+Line 540: 01 2017
+Line 541: OPERA
+Line 542: ΚΑΤΟΨΗ 08
+Line 543: ΦΥΤΕΜΕΝΟ
+Line 544: ΛΥΡΙΚΗ
+Line 545: JVIT
+Line 546: ARC
+Line 547: 3902
+Line 548: RPBW 1008 2
+Line 549: 40
+Line 550: 70
+
+=== END OF FILTERED TEXT ===
+Total lines: 551

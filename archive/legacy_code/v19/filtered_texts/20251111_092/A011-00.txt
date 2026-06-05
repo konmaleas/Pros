@@ -1,0 +1,22 @@
+=== FILTERED TEXT FOR: A011-00.pdf ===
+
+Line   0: SIM
+Line   1: 2691
+Line   2: 05
+Line   3: 04
+Line   4: 03
+Line   5: 02
+Line   6: 01
+Line   7: 2017
+Line   8: 0601 700 1457 2691
+Line   9: 21752
+Line  10: 10439
+Line  11: 06
+Line  12: 07
+Line  13: 2017
+Line  14: 01
+Line  15: 01
+Line  16: 02
+
+=== END OF FILTERED TEXT ===
+Total lines: 17

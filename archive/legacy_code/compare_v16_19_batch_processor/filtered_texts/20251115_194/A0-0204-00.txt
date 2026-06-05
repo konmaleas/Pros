@@ -1,0 +1,85 @@
+=== FILTERED TEXT FOR: A0-0204-00.pdf ===
+
+Line   0: TOC
+Line   1: TW
+Line   2: TOC
+Line   3: TW
+Line   4: TOC
+Line   5: TW
+Line   6: TOC
+Line   7: TW
+Line   8: TOC
+Line   9: TW
+Line  10: TOC
+Line  11: TW
+Line  12: TOC
+Line  13: TOC
+Line  14: TW
+Line  15: TOC
+Line  16: TW
+Line  17: TOC
+Line  18: TW
+Line  19: TOC
+Line  20: ON GRADE
+Line  21: TOC
+Line  22: TW
+Line  23: TOC
+Line  24: TW
+Line  25: TOC
+Line  26: TW
+Line  27: TOC
+Line  28: TW
+Line  29: TOC
+Line  30: TW
+Line  31: TOC
+Line  32: TW
+Line  33: TOC
+Line  34: TW
+Line  35: TOC
+Line  36: TW
+Line  37: TOC
+Line  38: TW
+Line  39: TOC
+Line  40: TW
+Line  41: TOC
+Line  42: TW
+Line  43: 2
+Line  44: 4
+Line  45: 40
+Line  46: DATE
+Line  47: 2 2 2
+Line  48: 2 2 2
+Line  49: 4
+Line  50: 2
+Line  51: ARCHITECTURAL DESIGN
+Line  52: CLIENT
+Line  53: PROJECT
+Line  54: KAPLANKAYA
+Line  55: BEACH PARK
+Line  56: IMPLEMENTATION STUDY
+Line  57: DESIGN STAGE
+Line  58: DATE
+Line  59: SCALE
+Line  60: FILE NAME
+Line  61: DRAWING TITLE
+Line  62: DRAWING
+Line  63: Epirou Street
+Line  64: Athens, GR Greece
+Line  65: 3262
+Line  66: 3269
+Line  67: IMPLEMENTATION STUDY CONSULTANT
+Line  68: LIGHTING DESIGN
+Line  69: CONSULTANTS
+Line  70: KEY PLAN
+Line  71: REVISIONS
+Line  72: NO.
+Line  73: DESCRIPTION
+Line  74: 2016 03
+Line  75: 1601 0200 04 00
+Line  76: LANDSCAPE
+Line  77: PLAN ZONE 4
+Line  78: LAYOUT ROOF LEVELS
+Line  79: 0204 00
+
+=== END OF FILTERED TEXT ===
+Total lines: 80

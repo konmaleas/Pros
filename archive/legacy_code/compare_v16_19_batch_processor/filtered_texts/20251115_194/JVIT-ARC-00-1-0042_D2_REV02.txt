@@ -1,0 +1,434 @@
+=== FILTERED TEXT FOR: JVIT-ARC-00-1-0042_D2_REV02.pdf ===
+
+Line   0: OPERA PLAN LEVEL 06
+Line   1: ΚΑΤΟΨΗ ΟΠΕΡΑΣ ΕΠΙΠΕΔΟ 06
+Line   2: OPERA PLAN LEVEL 07
+Line   3: ΚΑΤΟΨΗ ΟΠΕΡΑΣ ΕΠΙΠΕΔΟ 07
+Line   4: LIBRARY PLAN LEVEL 08
+Line   5: ΚΑΤΟΨΗ ΒΙΒΛΙΟΘΗΚΗΣ ΕΠΙΠΕΔΟ 08
+Line   6: OPERA PLAN LEVEL 05
+Line   7: ΚΑΤΟΨΗ ΟΠΕΡΑΣ ΕΠΙΠΕΔΟ 05
+Line   8: ΠΕΖΟΔΡΟΜΟΣ ΜΕΤΡΩΝ
+Line   9: ΠΕΖΟΔΡΟΜΟΣ ΜΕΤΡΩΝ
+Line  10: ΕΜΒΑΔΟΝ ΠΕΡΙΟΧΗΣ ΕΝΤΟΣ ΤΗΣ ΟΠΟΙΑΣ ΕΠΙΤΡΕΠΕΤΑΙ ΔΟΜΗΣΗ
+Line  11: ΕΑΗΘΙΚΛΜΝΞΟΠΡΒΓΔΕΖΑ
+Line  12: ΔΟΜΗΣΗΣ 2005 2009
+Line  13: Συντελεστής Δόμησης
+Line  14: Ποσοστό Κάλυψης
+Line  15: Συντελεστής 4
+Line  16: Μέγιστο Υψος Κτιριου
+Line  17: Μέγιστο Υψος Στεγάστρου
+Line  18: ΕΠΙΤΡΕΠΟΜΕΝΩΝ ΣΤΟΙΧΕΙΩΝ ΔΟΜΗΣΗΣ ΟΙΚΟΠΕΔΟΥ
+Line  19: Δόμηση Δόμηση
+Line  20: Δήμο Καλιθέας
+Line  21: Κάλυψη Kάλυψη
+Line  22: Δήμο Καλλιθέας
+Line  23: Όγκος
+Line  24: Ύψος
+Line  25: Ύψος
+Line  26: ΣΤΟΙΧΕΙΑ ΔΟΜΗΣΗΣ
+Line  27: ΚΑΛΥΨΗ
+Line  28: Κτίριο Λυρικής Σκηνής
+Line  29: Γκρεμός Λυρικής Σκηνής
+Line  30: Κτίριο Εθνικής Βιβλιοθήκης
+Line  31: Χώρος Στάθμευσης Γκρεμός Χώρου Στάθμευσης
+Line  32: Ζώνη Ανάσχεσης
+Line  33: Στεγασμένος
+Line  34: Κυλικείο Πάρκου
+Line  35: Κτίριο
+Line  36: Κτίριο Συντήρησης Πάρκου
+Line  37: Χώρος Προσωρινής Παραμονής Απορριμάτων
+Line  38: Συνολική
+Line  39: ΔΟΜΗΣΗ
+Line  40: Υπόγειο
+Line  41: Υπόγειο 2
+Line  42: Υπόγειο
+Line  43: Ισόγειο
+Line  44: Οφείλεται Εθνικης Βιβλιοθήκης
+Line  45: Οφείλεται
+Line  46: Οφείλεται
+Line  47: 40
+Line  48: 70
+Line  49: ΟΔΟΣ ΝΑΥΑΡΙΝΟΥ
+Line  50: ΟΔΟΣ ΣΑΧΤΟΥΡΗ
+Line  51: ΟΔΟΣ ΠΕΙΣΙΣΤΡΑΤΟΥ
+Line  52: ΟΔΟΣ ΝΑΥΑΡΧΟΥ ΒΟΤΣΗ
+Line  53: ΟΔΟΣ ΦΙΛΙΠΠΟΥ
+Line  54: ΟΔΟΣ ΕΥΡΙΠΙΔΟΥ
+Line  55: ΟΔΟΣ
+Line  56: ΟΔΟΣ ΕΥΡΙΠΙΔΟΥ
+Line  57: ΟΔΟΣ ΗΡΑΚΛΕΟΥΣ
+Line  58: ΟΔΟΣ
+Line  59: ΟΔΟΣ ΔΟΙΡΑΝΗΣ
+Line  60: ΟΔΟΣ ΝΑΥΑΡΧΟΥ ΒΟΤΣΗ
+Line  61: ΟΔΟΣ ΠΕΙΣΙΣΤΡΑΤΟΥ
+Line  62: ΕΛ
+Line  63: ΟΔΟΣ ΙΣΜΗΝΗΣ
+Line  64: ΑΔΙΕΞΟΔΟ
+Line  65: ΟΔΟΣ ΝΑΥΑΡΧΟΥ ΒΟΤΣΗ
+Line  66: ΜΠΕΤΟΝ
+Line  67: ΟΔΟΣ
+Line  68: ΟΔΟΣ ΕΥΡΙΠΙΔΟΥ
+Line  69: 4
+Line  70: ESPLANADA
+Line  71: ΛΕΩΦ. ΠΟΣΕΙΔΩΝΟΣ
+Line  72: ΥΠΟΓΕΙΑ ΔΙΑΒΑΣΗ ΠΕΖΩΝ
+Line  73: ΥΠΟΓΕΙΑ ΔΙΑΒΑΣΗ
+Line  74: ΟΔΟΣ ΙΣΜΗΝΗΣ
+Line  75: ΛΕΩΦΟΡΟΣ ΣΥΓΓΡΟΥ
+Line  76: ΓΡΑΜΜΗ ΤΡΑΜ
+Line  77: ΟΔΟΣ ΑΓΗΣΙΛΑΟΥ
+Line  78: 43
+Line  79: Building
+Line  80: Eight
+Line  81: Υπολογισμός Δόμησης
+Line  82: AGORA ΑΓΟΡΑ
+Line  83: LIBRARY ΕΘΝΙΚΗ
+Line  84: ΒΙΒΛΙΟΘΗΚΗ
+Line  85: STAIR
+Line  86: ΚΕΝΟ ΑΠΟΛΗΞΗΣ
+Line  87: ΚΛΙΜΑΚΟΣΤΑΣΙΟΥ
+Line  88: ΚΛΙΜΑΚΑ 1000 SCALE 1000
+Line  89: ΚΛΙΜΑΚΑ 1000 SCALE 1000
+Line  90: ΚΛΙΜΑΚΑ 1000 SCALE 1000
+Line  91: MEP
+Line  92: Maintenance Yard
+Line  93: Υπαίθριος
+Line  94: Building
+Line  95: Cafe Building Ground Floor
+Line  96: Υπολογισμός Δόμησης Κυλικείου Πάρκου
+Line  97: Ισόγειο
+Line  98: Building
+Line  99: Canal Building Basement Ground Floor
+Line 100: Υπολογισμός Δόμησης Κτιρίου Καναλιού
+Line 101: Υπόγειο
+Line 102: Ισόγειο
+Line 103: ΣΥΝΟΛΟ
+Line 104: Building
+Line 105: Maintenance Park Building Ground Floor
+Line 106: Υπολογισμός Δόμησης Κτιρίου
+Line 107: Συντήρησης Πάρκου
+Line 108: Ισόγειο
+Line 109: Building
+Line 110: Park Buildings
+Line 111: Υπολογισμός Δόμησης Κτιρίων Πάρκου
+Line 112: ROAD
+Line 113: ΔΡΟΜΟΣ
+Line 114: ROAD ΔΡΟΜΟΣ
+Line 115: PARKING CLIFF
+Line 116: PARKING ΧΩΡΟΣ
+Line 117: ΣΤΑΘΜΕΥΣΗΣ
+Line 118: ΑΥΤΟΚΙΝΗΤΩΝ
+Line 119: 2
+Line 120: CANAL BUILDING
+Line 121: ΚΤΙΡΙΟ ΚΑΝΑΛΙΟΥ
+Line 122: CAFE BUILDING
+Line 123: ΚΥΛΙΚΕΙΟΠΑΡΚΟΥ
+Line 124: 2
+Line 125: MAINTENANCE PARK BUILDING
+Line 126: ΚΤΙΡΙΟ ΣΥΝΤΗΡΗΣΗΣ ΠΑΡΚΟΥ
+Line 127: 2
+Line 128: Opera Library Λυρική Σκηνή Εθνική Βιβλιοθήκη
+Line 129: Opera Cliff Γκρεμός Λυρικής Σκηνής
+Line 130: Parking Χώρος Στάθμευσης
+Line 131: Parking Cliff Γκρεμός Χώρου Στάθμευσης
+Line 132: Road Δρόμος
+Line 133: Cafe Building Κυλικείο Πάρκου
+Line 134: Canal Building Κτίριο Καναλιού
+Line 135: Maintanance Park Building Κτίριο Συντήρησης Πάρκου
+Line 136: 2
+Line 137: Volume Calculations
+Line 138: Scale 1000
+Line 139: MAINTENANCE PARK
+Line 140: BUILDING
+Line 141: ΚΤΙΡΙΟ ΣΥΝΤΗΡΗΣΗΣ
+Line 142: ΠΑΡΚΟΥ
+Line 143: OPERA CLIFF
+Line 144: BUFFER ZONE ΖΩΝΗ ΑΝΑΣΧΕΣΗΣ
+Line 145: ROAD ΔΡΟΜΟΣ
+Line 146: ROAD
+Line 147: ΔΡΟΜΟΣ
+Line 148: ROAD ΔΡΟΜΟΣ
+Line 149: PARKING CLIFF
+Line 150: CAFE BUILDING
+Line 151: ΠΕΡΙΠΤΕΡΟ ΠΑΡΚΟΥ
+Line 152: PARKING ΧΩΡΟΣ
+Line 153: ΣΤΑΘΜΕΥΣΗΣ
+Line 154: ΑΥΤΟΚΙΝΗΤΩΝ
+Line 155: Περίγραμμα
+Line 156: Περίγραμμα
+Line 157: OPERA ΛΥΡΙΚΗ
+Line 158: LIBRARY ΕΘΝΙΚΗ
+Line 159: ΒΙΒΛΙΟΘΗΚΗ
+Line 160: Περίγραμμα
+Line 161: Building Ground
+Line 162: Scale 2000
+Line 163: Υδάτινο
+Line 164: Waste Management
+Line 165: Yπόσκαφος Χώρος
+Line 166: Προσωρινής Παραμονής
+Line 167: Απορριμάτων
+Line 168: ΚΛΙΜΑΚΑ 2000 SCALE 2000
+Line 169: ΚΛΙΜΑΚΑ 1000 SCALE 1000
+Line 170: ΚΛΙΜΑΚΑ 1000 SCALE 1000
+Line 171: Περίγραμμα
+Line 172: Περίγραμμα
+Line 173: Περίγραμμα
+Line 174: Περίγραμμα
+Line 175: Water Tanks
+Line 176: Δεξαμενές Νερού
+Line 177: Maintenance Yard
+Line 178: Υπαίθριος
+Line 179: 2
+Line 180: SECTION
+Line 181: SECTION 2 2
+Line 182: ΚΛΙΜΑΚΑ 1000 SCALE 1000
+Line 183: ΠΕΡΙΟΧΗ IV
+Line 184: ΖΩΝΗ
+Line 185: ΠΕΡΙΟΧΗ
+Line 186: ΖΩΝΗ
+Line 187: ΠΕΡΙΟΧΗ
+Line 188: ΖΩΝΗ
+Line 189: ΠΕΡΙΟΧΗ
+Line 190: ΖΩΝΗ
+Line 191: ΠΕΡΙΟΧΗ
+Line 192: ΖΩΝΗ
+Line 193: ΠΕΡΙΟΧΗ
+Line 194: ΖΩΝΗ
+Line 195: Copyright 2015
+Line 196: Richter Spielgeräte
+Line 197: 83112 Frasdorf, 49 8052 4180
+Line 198: 4
+Line 199: 4
+Line 200: 4
+Line 201: 4
+Line 202: Κυλικείο Πάρκου
+Line 203: Κτίριο
+Line 204: Οφείλεται
+Line 205: Κτίριο Συντήρησης Πάρκου
+Line 206: Συνολική
+Line 207: ΕΞΩΣΤΕΣ
+Line 208: Κτίρια
+Line 209: ΟΓΚΟΣ
+Line 210: Κτίριο Λυρικής Σκηνής Εθνικής Βιβλιοθήκης
+Line 211: Γκρεμός Λυρικής Σκηνής
+Line 212: Χώρος Στάθμευσης
+Line 213: Γκρεμός Χώρου Στάθμευσης
+Line 214: Στεγασμένος Χώρος
+Line 215: Κυλικείο Πάρκου
+Line 216: Κτίριο Καναλιού
+Line 217: Κτίριο Συντήρησης Πάρκου
+Line 218: Συνολικός
+Line 219: YΨΟΣ
+Line 220: Ύψος
+Line 221: Ύψος
+Line 222: ΥΠΟΛΟΓΙΣΜΟΣ ΑΠΑΙΤΟΥΜΕΝΩΝ ΘΕΣΕΩΝ ΣΤΑΘΜΕΥΣΗΣ 05 03 04
+Line 223: Διοίκηση
+Line 224: Εστιατόριο Καφετέρια
+Line 225: Θέατρα Eκθεσιακά Κέντρα
+Line 226: Bιβλιοθήκη
+Line 227: Σχολή
+Line 228: Αποθηκευτικοί
+Line 229: Διοίκηση
+Line 230: Εστιατόριo Καφετέρια
+Line 231: Θέατρα Όπερα Eκθεσιακά Κέντρα Εκθεσιακός
+Line 232: Bιβλιοθήκη
+Line 233: Σχολή
+Line 234: Kτίρια Αποθήκευσης Αποθήκες
+Line 235: Κτίριο Εργαζομένων Πάρκου Μηχανολογικοί Χώροι Καναλιού
+Line 236: 49
+Line 237: Σύνολο 49
+Line 238: Πραγματοποιούμενες
+Line 239: CANAL BUILDING
+Line 240: ΠΕΡΙΠΤΕΡΟ ΚΑΝΑΛΙΟΥ
+Line 241: Περίγραμμα
+Line 242: Περίγραμμα
+Line 243: Antenna
+Line 244: ΚΕΡΑΙΑ
+Line 245: Ανατολική East Elevation
+Line 246: ΚΛΙΜΑΚΑ 1000 SCALE 1000
+Line 247: Ανατολική East Elevation
+Line 248: ΚΛΙΜΑΚΑ 1000 SCALE 1000
+Line 249: Antenna
+Line 250: ΚΕΡΑΙΑ
+Line 251: Δυτική West Elevation
+Line 252: ΚΛΙΜΑΚΑ 1000 SCALE 1000
+Line 253: Antenna
+Line 254: ΚΕΡΑΙΑ
+Line 255: Δυτική West Elevation
+Line 256: ΚΛΙΜΑΚΑ 1000 SCALE 1000
+Line 257: ΕΞΑΡΤΩΜΕΝΟΣ ΑΠΟ ΤΟ ΚΡΑΤΙΚΟ ΤΡΙΓΩΝΟΜΕΤΡΙΚΟ ΔΙΚΤΥΟ ΕΓΣΑ
+Line 258: ΑΡ. ΟΙΚΟΔΟΜΙΚΗΣ ΑΔΕΙΑΣ
+Line 259: 2011
+Line 260: ΑΝΑΘΕΩΡΗΣΕΙΣ
+Line 261: 2012
+Line 262: 2012
+Line 263: 2012
+Line 264: 2013
+Line 265: 2013
+Line 266: 2014
+Line 267: 42 2015
+Line 268: 2016
+Line 269: ΕΓΚΡΙΣΗ ΕΡΓΑΣΙΩΝ
+Line 270: ΜΙΚΡΗΣ ΚΛΙΜΑΚΑΣ
+Line 271: 56366 2016
+Line 272: RPBW
+Line 273: RENZO PIANO BUILDING WORKSHOP
+Line 274: FACADE CONSULTANT
+Line 275: ΣΥΜΒΟΥΛΟΣ ΠΡΟΣΟΨΕΩΝ
+Line 276: FRONT
+Line 277: ACOUSTIC DESIGN
+Line 278: ΑΚΟΥΣΤΙΚΗ ΜΕΛΕΤΗ
+Line 279: ARUP Acoustics
+Line 280: THEATRE DESIGN CONSULTANT
+Line 281: ΣΥΜΒΟΥΛΟΣ ΘΕΑΤΡΙΚΟΥ ΣΧΕΔΙΑΣΜΟΥ
+Line 282: THEATRE PROJECTS CONSULTANTS
+Line 283: LIBRARY CONSULTANT
+Line 284: ΣΥΜΒΟΥΛΟΣ ΣΧΕΔΙΑΣΜΟΥ ΒΙΒΛΙΟΘΗΚΗΣ
+Line 285: LANDSCAPE DESIGN
+Line 286: ΜΕΛΕΤΗ ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΧΩΡΟΥ
+Line 287: DEBORAH NEVINS
+Line 288: Associates,
+Line 289: COLLABORATION
+Line 290: ΜΕΛΕΤΗΤΗΣ
+Line 291: HELLI PANGALOU
+Line 292: MEP ENGINEER
+Line 293: ΜΕΛΕΤΗ ΕΓΚΑΤΑΣΤΑΣΕΩΝ
+Line 294: ARUP
+Line 295: COLLABORATION
+Line 296: ΜΕΛΕΤΗΤΗΣ
+Line 297: LDK
+Line 298: STRUCTURAL ENGINEER
+Line 299: ΣΤΑΤΙΚΗ ΜΕΛΕΤΗ
+Line 300: EXPEDITION
+Line 301: COLLABORATION
+Line 302: ΜΕΛΕΤΗΤΗΣ
+Line 303: OMETE
+Line 304: EXECUTIVE ARCHITECT
+Line 305: ΑΡΧΙΤΕΚΤΟΝΑΣ
+Line 306: BETAPLAN
+Line 307: DESIGN ARCHITECT
+Line 308: ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΜΕΛΕΤΗ ΑΡΧΙΤΕΚΤΟΝΑΣ ΕΡΓΟΥ
+Line 309: TRAFFIC CONSULTANT
+Line 310: ΚΥΚΛΟΦΟΡΙΑΚΗ ΜΕΛΕΤΗ
+Line 311: DENCO
+Line 312: PROJECT MANAGER COST CONSULTANT
+Line 313: ΣΥΝΤΟΝΙΣΜΟΣ ΜΕΛΕΤΗΣ ΣΥΜΒΟΥΛΟΣ ΠΡΟΥΠΟΛΟΓΙΣΜΟΥ
+Line 314: FAITHFUL GOULD
+Line 315: Archives
+Line 316: 75004 Paris France
+Line 317: 44 4900
+Line 318: 42 78 0198
+Line 319: Aristodimou Street
+Line 320: Athens, GR 76 Greece
+Line 321: 72
+Line 322: 72
+Line 323: Regent Street, Morley House
+Line 324: London, UK
+Line 325: 44 1000
+Line 326: 44 1001
+Line 327: Asklipiou Street
+Line 328: Athens, GR 72 Greece
+Line 329: 30026
+Line 330: 44631
+Line 331: Fitzroy Street
+Line 332: London, UK
+Line 333: 44 755 2191
+Line 334: 44 755 3743
+Line 335: Thivaidos Street
+Line 336: Athens, GR Greece
+Line 337: 96700
+Line 338: 96709
+Line 339: Lafayette Street, Suite
+Line 340: York, NY 10012 USA
+Line 341: 1125
+Line 342: Skoufa Street
+Line 343: Athens, GR 72 Greece
+Line 344: 6219
+Line 345: 9225
+Line 346: Linton House
+Line 347: Highgate Road
+Line 348: London, UK
+Line 349: 44 7284 5888
+Line 350: Alexi
+Line 351: Elizabeth Street
+Line 352: South Norwalk, CT 06854 3025 USA
+Line 353: 0830
+Line 354: 0835
+Line 355: Americas
+Line 356: York, NY 10013 USA
+Line 357: 2669
+Line 358: 1056
+Line 359: Varick Street
+Line 360: York, NY 10014 USA
+Line 361: 2220
+Line 362: 2253
+Line 363: Kifisias
+Line 364: Athens, GR Greece
+Line 365: 54801
+Line 366: 54800
+Line 367: Paradisou Street
+Line 368: Athens, GR Greece
+Line 369: 15245
+Line 370: 11951
+Line 371: AMA Alexi Marmot Associates
+Line 372: IRRIGATION DESIGN
+Line 373: ΜΕΛΕΤΗ ΑΡΔΕΥΣΗΣ
+Line 374: SOTIRIOS MAVRAGANIS
+Line 375: 42 Vasileos Georgiou Street
+Line 376: Athens, GR Greece
+Line 377: REV.
+Line 378: STAVROS NIARCHOS FOUNDATION CULTURAL CENTER
+Line 379: PROJECT
+Line 380: KEY PLAN
+Line 381: ΕΡΓΟ
+Line 382: Vasilissis Sofias Avenue, Athens, Greece
+Line 383: 72 41311, 72 41312
+Line 384: ΚΛΕΙΔΑ ΣΧΕΔΙΟΥ
+Line 385: DRWG TITLE
+Line 386: ΤΙΤΛΟΣ ΣΧΕΔΙΟΥ
+Line 387: CONSULTANT STAMP
+Line 388: ΣΦΡΑΓΙΔΑ ΣΥΜΒΟΥΛΟΥ
+Line 389: SCALE
+Line 390: ΚΛΙΜΑΚΑ
+Line 391: REFERENCED DRAWING NUMBER
+Line 392: AUTHOR
+Line 393: ΣΥΝΤΑΚΤΗΣ
+Line 394: DISCIPLINE
+Line 395: ΚΑΤ. ΜΕΛΕΤΗΣ
+Line 396: ZONE
+Line 397: ΠΕΡΙΟΧΗ
+Line 398: DRWG TYPE
+Line 399: ΕΙΔΟΣ ΣΧΕΔΙΟΥ
+Line 400: REV.
+Line 401: ΑΝΑΘ.
+Line 402: QR CODE
+Line 403: FIRST ISSUE DATE
+Line 404: ΗΜΕΡ. ΕΚΔ.
+Line 405: DRAWN
+Line 406: CHECKED
+Line 407: APPROVED
+Line 408: DATE
+Line 409: DESCRIPTION
+Line 410: 00
+Line 411: PROJECT
+Line 412: ΕΡΓΟ
+Line 413: CONSULTANT SIGNATURE
+Line 414: ΥΠΟΓΡΑΦΗ ΣΥΜΒΟΥΛΟΥ
+Line 415: APPROVALS
+Line 416: ΘΕΩΡΗΣΕΙΣ
+Line 417: ΑΝΑΘΕΩΡΗΣΗ ΤΗΣ ΥΠ ΑΡΙΘΜ. 72 2017 ΑΔΕΙΑΣ ΔΟΜΗΣΗΣ ΜΕΤΑ ΤΗΣ 2017
+Line 418: ΑΝΑΘΕΩΡΗΣΗΣ ΑΥΤΗΣ ΛΟΓΩ ΚΑΤΑΣΚΕΥΗΣ ΑΝΟΙΧΤΟΥ ΓΗΠΕΔΟΥ ΠΟΛΛΑΠΛΩΝ
+Line 419: ΑΘΛΗΜΑΤΩΝ ΣΤΟ ΠΑΡΚΟ ΚΑΙ ΜΙΚΡΟΤΡΟΠΟΠΟΙΗΣΕΩΝ ΣΤΗ ΔΙΑΡΡΥΘΜΙΣΗ ΤΟΥ
+Line 420: ΚΥΛΙΚΕΙΟΥ ΤΟΥ ΠΑΡΚΟΥ.
+Line 421: Site Coverage Diagram
+Line 422: 2017
+Line 423: GENERAL DRAWING
+Line 424: RPBW 0042
+Line 425: 02
+Line 426: JVIT ARC
+Line 427: 00
+Line 428: 0042
+
+=== END OF FILTERED TEXT ===
+Total lines: 429

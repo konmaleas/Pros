@@ -1,0 +1,163 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-1025-0A_BUILDERS_WORK_MEP_PENETRATIONS_-_WC_FIRE_ESCAPE_CORRIDOR.pdf ===
+
+Line   0: 1025
+Line   1: 4
+Line   2: 1025
+Line   3: 1025
+Line   4: WALL REFER VAP AH 1008
+Line   5: WC
+Line   6: 00 051
+Line   7: 1025
+Line   8: 2
+Line   9: FIRE ESCAPE
+Line  10: CORRIDOR
+Line  11: 00 052
+Line  12: 1025
+Line  13: GL
+Line  14: CEILING LEVEL
+Line  15: MP AD 051 04
+Line  16: MP AD 051 08
+Line  17: MP AD 051 01
+Line  18: MP AD 051 02
+Line  19: MP AD 051 03
+Line  20: 3625
+Line  21: 725
+Line  22: 2175
+Line  23: 75
+Line  24: WC
+Line  25: 00 051
+Line  26: GL
+Line  27: CEILING LEVEL
+Line  28: YF
+Line  29: MP AD 051
+Line  30: MP AD 051 09
+Line  31: 3285
+Line  32: 1740
+Line  33: WC
+Line  34: 00 051
+Line  35: CEILING LEVEL
+Line  36: MP AD 051
+Line  37: WC
+Line  38: 00 051
+Line  39: 3450
+Line  40: MEP PENETRATIONS CODE
+Line  41: MP AD XXX XX
+Line  42: MP
+Line  43: MEP PENETRATIONS
+Line  44: AD
+Line  45: BUILDING CODE
+Line  46: XXX
+Line  47: ROOM NUMBER
+Line  48: XX
+Line  49: PENETRATION NUMBER
+Line  50: GL
+Line  51: CEILING LEVEL
+Line  52: MP AD 051 05
+Line  53: MP AD 051 06
+Line  54: MP AD 051 02
+Line  55: MP AD 051 07
+Line  56: MP AD 051 03
+Line  57: MP AD 051 04
+Line  58: MP AD 051 01
+Line  59: 2985
+Line  60: 445
+Line  61: 2120
+Line  62: 75
+Line  63: 1050
+Line  64: 1250
+Line  65: 2160
+Line  66: GL
+Line  67: CEILING LEVEL
+Line  68: MP AD 051
+Line  69: MP AD 051 08
+Line  70: MP AD 051
+Line  71: 3625
+Line  72: 1765
+Line  73: GL
+Line  74: CEILING LEVEL
+Line  75: MP AD 053 01
+Line  76: FIRE ESCAPE
+Line  77: CORRIDOR
+Line  78: 00 052
+Line  79: 3935
+Line  80: GL
+Line  81: CEILING LEVEL
+Line  82: MP AD 052 01
+Line  83: FIRE ESCAPE
+Line  84: CORRIDOR
+Line  85: 00 052
+Line  86: 3790
+Line  87: ADMIN
+Line  88: COLO
+Line  89: COLO 2
+Line  90: 2
+Line  91: 4
+Line  92: 2
+Line  93: 4
+Line  94: TRUE NORTH
+Line  95: Sheet Title Number
+Line  96: Scale
+Line  97: Plan
+Line  98: Design Consultants
+Line  99: Microsoft
+Line 100: DATA CENTER
+Line 101: SPATA GREECE
+Line 102: Contractor Joint Venture
+Line 103: Name
+Line 104: Contractor Project
+Line 105: Contractor Contract
+Line 106: Contractor PM
+Line 107: Contractor BIM Mngr
+Line 108: Contractor Information
+Line 109: Renco Terna
+Line 110: Client
+Line 111: General Notes
+Line 112: Client Project
+Line 113: Client Contract
+Line 114: Client PM
+Line 115: Client BIM Mngr
+Line 116: Primary Client Information
+Line 117: Layout
+Line 118: Revision
+Line 119: Tombazi Chalandri
+Line 120: 15232
+Line 121: Athens Greece
+Line 122: 0800 3262
+Line 123: Agion Theodoron Square Athens
+Line 124: 10561
+Line 125: Athens Greece
+Line 126: Kimithois Agios Dimitrios
+Line 127: 17236
+Line 128: Athens Greece
+Line 129: Purpose Issue
+Line 130: Issue
+Line 131: Name
+Line 132: BUILDERS WORK MEP PENETRATIONS
+Line 133: WC FIRE ESCAPE CORRIDOR
+Line 134: VAP AH 1025
+Line 135: SCALE
+Line 136: 051 WC ELEVATION MEP PENETRATIONS
+Line 137: SCALE
+Line 138: 051 WC ELEVATION MEP PENETRATIONS
+Line 139: SCALE
+Line 140: 051 WC ELEVATION 4 MEP PENETRATIONS
+Line 141: 4
+Line 142: 1000
+Line 143: SCALE
+Line 144: Date
+Line 145: Description
+Line 146: 07
+Line 147: Issued Approval
+Line 148: VAP
+Line 149: SCALE
+Line 150: 051 WC ELEVATION 2 MEP PENETRATIONS
+Line 151: 2
+Line 152: SCALE
+Line 153: 051 WC ELEVATION MEP PENETRATIONS
+Line 154: SCALE
+Line 155: 052 FIRE ESCAPE CORRIDOR ELEVATION MEP PENETRATIONS
+Line 156: SCALE
+Line 157: 052 FIRE ESCAPE CORRIDOR ELEVATION MEP PENETRATIONS
+
+=== END OF FILTERED TEXT ===
+Total lines: 158

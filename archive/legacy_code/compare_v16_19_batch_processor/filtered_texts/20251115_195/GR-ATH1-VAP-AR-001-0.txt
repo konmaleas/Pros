@@ -1,0 +1,134 @@
+=== FILTERED TEXT FOR: GR-ATH1-VAP-AR-001-0.pdf ===
+
+Line   0: CR
+Line   1: CR
+Line   2: CR
+Line   3: CR
+Line   4: CR
+Line   5: CR
+Line   6: CR
+Line   7: CR
+Line   8: CR
+Line   9: ACP 4
+Line  10: 2
+Line  11: 4
+Line  12: AR
+Line  13: AR
+Line  14: AR
+Line  15: AR
+Line  16: AR
+Line  17: AR
+Line  18: AR
+Line  19: FFL
+Line  20: SSL
+Line  21: FFL
+Line  22: SSL
+Line  23: PHASE
+Line  24: PHASE II
+Line  25: PHASE III IV
+Line  26: PHASE AI
+Line  27: SETBACK
+Line  28: SETBACK
+Line  29: SETBACK
+Line  30: SETBACK
+Line  31: SETBACK
+Line  32: SETBACK
+Line  33: SETBACK
+Line  34: SETBACK
+Line  35: VEHICLE
+Line  36: ENTRANCE
+Line  37: CHECK
+Line  38: POINT
+Line  39: PEDESTRIANS
+Line  40: ENTRANCE
+Line  41: BUILDING MAIN
+Line  42: ENTRANCE
+Line  43: VEHICLE
+Line  44: EXIT
+Line  45: VEHICLE
+Line  46: EXIT
+Line  47: VEHICLE
+Line  48: EXIT
+Line  49: HEDNO
+Line  50: ENTRANCE
+Line  51: BOH TERRACE
+Line  52: TECHICAL BLOCKS
+Line  53: TERRACE
+Line  54: FFL
+Line  55: SSL
+Line  56: FFL
+Line  57: SSL
+Line  58: OFFICES TERRACE
+Line  59: PUMP ROOMS
+Line  60: TERRACE
+Line  61: MODULES
+Line  62: TERRACE
+Line  63: FFL
+Line  64: SSL
+Line  65: GENERATORS
+Line  66: TERRACE
+Line  67: GATE HOUSE
+Line  68: TERRACE
+Line  69: FFL
+Line  70: SSL
+Line  71: HEDNO
+Line  72: TERRACE
+Line  73: FFL
+Line  74: SSL
+Line  75: LOADING BAY
+Line  76: CHECK
+Line  77: POINT
+Line  78: PROJECT NO.
+Line  79: DRAWN
+Line  80: CHECKED
+Line  81: SHEET SIZE
+Line  82: SCALE
+Line  83: SHEET TITLE NUMBER
+Line  84: SEAL
+Line  85: DATA CENTER MEP CONSULTANT
+Line  86: Syska Hennessy Group,
+Line  87: Dubai Internet City, Building Office Dubai, UAE
+Line  88: 4 3810
+Line  89: GENERAL NOTES
+Line  90: CONSULTANT
+Line  91: Ravine Street, Athina Greece
+Line  92: 4
+Line  93: ARCHITECT
+Line  94: Tompazi Chalandri
+Line  95: VAP Architects
+Line  96: STRUCTURAL ENGINEER
+Line  97: NAMA Consulting Engineers Planners SA
+Line  98: Address Perrikou GR 11524 Athens, Greece
+Line  99: KEY PLAN
+Line 100: SCALE DRAWINGS.
+Line 101: DOUBT, REQUEST MORE FURTHER
+Line 102: INFORMATION.
+Line 103: 2. DRAWING READ
+Line 104: CONJUNCTION CONTRACT
+Line 105: CONDITIONS, SPECIFICATIONS,
+Line 106: EQUIPMENT SCHEDULES
+Line 107: ARCHITECTURAL DRAWINGS.
+Line 108: DIMENSIONS MILLIMETER
+Line 109: ELEVATIONS METERS UNNLESS
+Line 110: OTHERWISE SPECIFIED.
+Line 111: 4. COMMUNICATION
+Line 112: SPECIALIZED DISCIPLINES SHOWN
+Line 113: DRAWINGS
+Line 114: CONTRACTOR.
+Line 115: Κοινότητα Σπάτων Λούτσας
+Line 116: Municipal Community Spata Loutsa, Athens, Greece
+Line 117: ATH Data Center
+Line 118: 2 2025 01
+Line 119: Autodesk Docs Damac Greece DC Design Greece VAP ARC DC
+Line 120: GR ATH1 VAP AR 001
+Line 121: VAP
+Line 122: General Arrangement Plan Masterplan
+Line 123: VAP
+Line 124: REV
+Line 125: DATE
+Line 126: DESCRIPTION
+Line 127: 02 2025
+Line 128: First Issuance Approval
+
+=== END OF FILTERED TEXT ===
+Total lines: 129

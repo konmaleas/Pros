@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+*.pkl
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Project specific
+data/raw/*.pdf
+data/processed/
+output/
+*.tar.gz
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+start_time.txt

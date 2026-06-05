@@ -1,0 +1,84 @@
+=== FILTERED TEXT FOR: VAP-TW-D221-00.pdf ===
+
+Line   0: Level
+Line   1: Level
+Line   2: Level
+Line   3: Level 2
+Line   4: Level
+Line   5: 4
+Line   6: 2
+Line   7: 4
+Line   8: 2
+Line   9: Detail
+Line  10: Scale 2
+Line  11: Detail
+Line  12: Scale 2
+Line  13: 2
+Line  14: Gypsumboard Ceiling
+Line  15: Taped Sealed Joint
+Line  16: Galvanized Steel Ceiling
+Line  17: Framing
+Line  18: Ceiling Suspention System
+Line  19: Ceiling Suspension System
+Line  20: Galvanized Steel Ceiling
+Line  21: Framing
+Line  22: Water Resistant
+Line  23: Gypsumboard Ceiling
+Line  24: Taped Sealed Joint
+Line  25: Isover
+Line  26: Acoustic Insulation Boards
+Line  27: NRC
+Line  28: Fixed
+Line  29: Ceiling Suspention System
+Line  30: Mineral Fibre Tile
+Line  31: Hollow Joint Type
+Line  32: Exposed Ceiling Grid
+Line  33: Detail
+Line  34: Scale 2
+Line  35: 4
+Line  36: Detail
+Line  37: Scale 2
+Line  38: Detail
+Line  39: Scale 2
+Line  40: Ceiling Suspension System
+Line  41: Galvanized Steel Ceiling
+Line  42: Framing
+Line  43: Acoustic Gypsumboard Ceiling
+Line  44: Linear Holes
+Line  45: Taped Sealed Joint
+Line  46: Rockwool Insulation
+Line  47: REVISIONS
+Line  48: CLIENT
+Line  49: PROJECT
+Line  50: DESIGN STAGE
+Line  51: DATE
+Line  52: SCALE
+Line  53: FILE NAME
+Line  54: DRAWING TITLE
+Line  55: DRAWING
+Line  56: TAHLIA WALK
+Line  57: VAPARCHITECTS
+Line  58: Epirou Street
+Line  59: Athens, GR Greece
+Line  60: 3262
+Line  61: 3269
+Line  62: DESIGN ARCHITECTS
+Line  63: CONSULTANTS
+Line  64: STUDIO
+Line  65: Isavron
+Line  66: Lycabettus
+Line  67: Athens, GR 11471 Greece
+Line  68: ZAD DEVELOPMENT
+Line  69: STRUCTURAL ENGINEER
+Line  70: MEP ENGINEER
+Line  71: 01 PM
+Line  72: Typical Details
+Line  73: Ceilings
+Line  74: Detail Design
+Line  75: Description
+Line  76: Date
+Line  77: First
+Line  78: 07
+
+=== END OF FILTERED TEXT ===
+Total lines: 79

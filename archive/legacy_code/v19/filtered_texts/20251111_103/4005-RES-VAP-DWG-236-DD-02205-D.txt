@@ -1,0 +1,147 @@
+=== FILTERED TEXT FOR: 4005-RES-VAP-DWG-236-DD-02205-D.pdf ===
+
+Line   0: 01
+Line   1: 02
+Line   2: 03
+Line   3: 04
+Line   4: 05
+Line   5: 06
+Line   6: 07
+Line   7: 08
+Line   8: 09
+Line   9: BL
+Line  10: BK
+Line  11: BJ
+Line  12: BH
+Line  13: BF
+Line  14: BE
+Line  15: BD
+Line  16: BC
+Line  17: BB
+Line  18: AL
+Line  19: AK
+Line  20: AJ
+Line  21: AI
+Line  22: AH
+Line  23: AG
+Line  24: AF
+Line  25: AE
+Line  26: AD
+Line  27: AC
+Line  28: BG
+Line  29: BI
+Line  30: ΟΔΕΥΣΕΙΣ ΠΡΟΣΒΑΣΙΜΕΣ ΑΠΟ ΑΜΚ
+Line  31: ΟΔΕΥΣΕΙΣ ΜΗ ΠΡΟΣΒΑΣΙΜΕΣ ΑΠΟ ΑΜΚ
+Line  32: ΕΙΣΟΔΟΙ ΠΡΟΣΒΑΣΙΜΕΣ ΑΠΟ ΑΜΚ
+Line  33: ΕΙΣΟΔΟΙ ΜΗ ΠΡΟΣΒΑΣΙΜΕΣ ΑΠΟ ΑΜΚ
+Line  34: ΑΠΑΙΤΟΥΜΕΝΟΣ ΧΩΡΟΣ ΓΙΑ ΣΤΡΟΦΗ
+Line  35: ΑΜΑΞΙΔΙΟΥ
+Line  36: ΧΩΡΟΣ ΑΝΑΜΟΝΗΣ ΑΜΚ
+Line  37: ΣΗΜΑΝΣΗ ΑΜΕΑ
+Line  38: ΥΠΟΜΝΗΜΑ ΣΥΜΒΟΛΩΝ
+Line  39: ΠΡΟΣΒΑΣΙΜΟΤΗΤΑΣ
+Line  40: 40
+Line  41: ΓΕΝΙΚΕΣ ΣΗΜΕΙΩΣΕΙΣ GENERAL NOTES
+Line  42: ΕΓΓΡΑΦΑ ΑΝΑΦΟΡΑΣ DOCUMENT REFERENCE
+Line  43: ΤΙΤΛΟΣ ΣΧΕΔΙΟΥ DRAWING TITLE
+Line  44: ΚΩΔΙΚΟΣ ΕΓΓΡΑΦΟΥ ΣΧΕΔΙΟΥ DOCUMENT DRAWING CODIFICATION
+Line  45: Project
+Line  46: Originator
+Line  47: Type
+Line  48: Discipline
+Line  49: Stage
+Line  50: Serial Number
+Line  51: Revision
+Line  52: ΚΛΙΜΑΚΑ SCALE
+Line  53: ΔΙΑΤΑΞΗ LAYOUT
+Line  54: REV.
+Line  55: DATE
+Line  56: ISSUE
+Line  57: DESCRIPTION UPDATE VERSION
+Line  58: ORIGINATED
+Line  59: CHECKED
+Line  60: VERIFIED
+Line  61: LEAD DESIGNER
+Line  62: APPROVED
+Line  63: PMC
+Line  64: STATUS
+Line  65: ΣΥΜΒΟΥΛΟΣ ΔΙΑΧΕΙΡΙΣΗΣ ΕΡΓΟΥ
+Line  66: PROJECT MANAGEMENT CONSULTANT
+Line  67: ΣΥΜΒΟΥΛΟΥ ΔΙΑΧΕΙΡΙΣΗΣ ΕΡΓΟΥ
+Line  68: PROJECT MANAGEMENT CONSULTANT DETAILS
+Line  69: ΚΥΡΙΟΣ ΜΕΛΕΤΗΤΗΣ LEAD DESIGNER
+Line  70: ΜΕΛΕΤΗΤΗ LOCAL ARCHITECT
+Line  71: SUBCONSULTANT STRUCTURE
+Line  72: ΕΡΓΟΔΟΤΗΣ EMPLOYER
+Line  73: ΕΡΓΟΔΟΤΗ EMPLOYER DETAILS
+Line  74: ΑΝΑΠΤΥΞΗ ΤΟΥ ΜΗΤΡΟΠΟΛΙΤΙΚΟΥ ΠΟΛΟΥ ΕΛΛΗΝΙΚΟΥ ΑΓIOY ΚΟΣΜΑ
+Line  75: DEVELOPMENT METROPOLITAN POLE HELLINIKON AG. KOSMAS
+Line  76: ΕΡΓΟ PROJECT
+Line  77: ΕΛΛΗΝΙΚΟ HELLINIKON
+Line  78: Kifisias Avenue Golden Hall
+Line  79: 15123 Marousi
+Line  80: Σημείωση Πνευματικών Δικαιωμάτων. 2121 1993
+Line  81: ΕΛΛΗΝΙΚΟ
+Line  82: Ρήτρα Περιορισμού Ευθύνης. Γραφείο
+Line  83: Ελληνικού. ΕΛΛΗΝΙΚΟ
+Line  84: ΝΑ ΜΗΝ ΑΛΛΑΧΘΕΙ ΚΛΙΜΑΚΑ ΤΟΥ ΣΧΕΔΙΟΥ.
+Line  85: Copyright Notice. 2121 1993
+Line  86: HELLINIKON
+Line  87: Disclaimer. Hellinikon Office. HELLINIKON
+Line  88: CHANGE SCALE DRAWING.
+Line  89: SUBCONSULTANT MEP
+Line  90: SUBCONSULTANT LANDSCAPE
+Line  91: SUBCONSULTANT TRAFFIC
+Line  92: SUBCONSULTANT LIGHTING
+Line  93: SUBCONSULTANT ACOUSTICS
+Line  94: SUBCONSULTANT SUSTAINABILITY
+Line  95: SUBCONSULTANT SIGNAGE
+Line  96: URBAN ZONE
+Line  97: ΑΡΧΙΤΕΚΤΟΝΙΚΟΣ ΣΧΕΔΙΑΣΜΟΣ Οριστική Μελέτη
+Line  98: MODEL MDD 234 DD 0001
+Line  99: BJARKE INGELS GROUP BIG
+Line 100: AVINGUDA DA LES DRASSANES
+Line 101: 08001 BARCELON, SPAIN
+Line 102: HELLINIKON
+Line 103: ΑΝΕΓΕΡΣΗ ΥΨΗΛΟΥ ΚΤΙΡΙΟΥ ΚΑΤΟΙΚΙΩΝ ΟΡΟΦΩΝ, ΜΕ ΥΠΕΡΓΕΙΟΥΣ
+Line 104: ΟΡΟΦΟΥΣ ΥΠΟΓΕΙΑ ΒΟΗΘΗΤΙΚΩΝ ΧΩΡΩΝ ΚΑΙ ΧΩΡΩΝ ΣΤΑΘΜΕΥΣΗΣ, ΙΣΟΓΕΙΟ
+Line 105: ΤΜΗΜΑ ΚΟΙΝΟΧΡΗΣΤΩΝ ΛΕΙΤΟΥΡΓΙΩΝ ΤΩΝ ΚΑΤΟΙΚΙΩΝ ΜΕ ΚΛΕΙΣΤΗ ΚΟΛΥΜΒΗΤΙΚΗ
+Line 106: ΔΕΞΑΜΕΝΗ ΣΤΟ ΥΠΟΓΕΙΟ, ΑΝΟΙΚΤΕΣ ΚΟΛΥΜΒΗΤΙΚΕΣ ΔΕΞΑΜΕΝΕΣ ΣΕ ΔΩΜΑΤΑ
+Line 107: ΟΡΟΦΩΝ, ΚΑΤΑΣΚΕΥΕΣ ΜΕ ΦΩΤΟΒΟΛΤΑΙΚΑ ΠΑΝΕΛΑ ΚΑΙ ΗΧΟΠΕΤΑΣΜΑΤΑ ΣΤΑ
+Line 108: ΔΩΜΑΤΑ ΚΤΙΡΙΟΥ, ΔΙΑΜΟΡΦΩΣΗ ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΧΩΡΟΥ, ΔΥΟ ΥΔΑΤΙΝΑ
+Line 109: ΣΕ ΗΜΙΥΠΑΙΘΡΙΟΥΣ ΧΩΡΟΥΣ ΤΟΥ ΙΣΟΓΕΙΟΥ, ΜΕ ΦΩΤΟΒΟΛΤΑΙΚΑ
+Line 110: ΠΑΝΕΛΑ ΣΕ ΤΜΗΜΑ ΠΡΑΣΙΑΣ ΚΑΙ ΣΕ ΑΚΑΛΥΠΤΟ ΧΩΡΟ ΟΙΚΟΠΕΔΟΥ ΚΑΙ ΧΡΗΣΗ ΤΟΥ
+Line 111: AΡΘΡΟΥ ΤΟΥ ΝΟΚ ΟΠΩΣ ΙΣΧΥΕΙ ΣΤΟ
+Line 112: D
+Line 113: RES
+Line 114: VAP
+Line 115: DWG
+Line 116: DD
+Line 117: 02205
+Line 118: 4005
+Line 119: Προσβασιμότητα Επίπεδο 03
+Line 120: ΦΥΛΛΟ SHEET 02205
+Line 121: 06 2023
+Line 122: First Issuance Approval
+Line 123: VAP
+Line 124: VAP
+Line 125: BIG
+Line 126: 04 08 2023
+Line 127: Second Issuance Approval
+Line 128: VAP
+Line 129: VAP
+Line 130: BIG
+Line 131: 09 2023
+Line 132: Third Issuance Approval
+Line 133: VAP
+Line 134: VAP
+Line 135: BIG
+Line 136: D
+Line 137: 09 2023
+Line 138: Fourth Issuance Approval
+Line 139: VAP
+Line 140: VAP
+Line 141: BIG
+
+=== END OF FILTERED TEXT ===
+Total lines: 142

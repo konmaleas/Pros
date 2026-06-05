@@ -1,0 +1,129 @@
+=== FILTERED TEXT FOR: S2805-AGN-VAP-ARC-PD-100.pdf ===
+
+Line   0: 01
+Line   1: 02
+Line   2: 03
+Line   3: 04
+Line   4: 05
+Line   5: 06
+Line   6: 07
+Line   7: 08
+Line   8: 09
+Line   9: DC
+Line  10: CHECK POINT
+Line  11: CHECK POINT
+Line  12: CHECK POINT
+Line  13: CHECK POINT
+Line  14: CHECK POINT
+Line  15: DC
+Line  16: DC
+Line  17: DC
+Line  18: DC
+Line  19: DC
+Line  20: DC
+Line  21: DC
+Line  22: DC
+Line  23: DC
+Line  24: DC
+Line  25: DC
+Line  26: DC
+Line  27: DC
+Line  28: DC
+Line  29: DC
+Line  30: DC
+Line  31: DC
+Line  32: DC
+Line  33: DC
+Line  34: DC
+Line  35: DC
+Line  36: ENTRANCE
+Line  37: DC
+Line  38: DATA CENTER BUILDING TABLE
+Line  39: DC
+Line  40: DC
+Line  41: DC
+Line  42: DC
+Line  43: DC
+Line  44: DC
+Line  45: DC
+Line  46: DC
+Line  47: DATA HALLS BUILDING
+Line  48: OFFICE BUILDING
+Line  49: CONTROL BUILDING
+Line  50: LOADING BUILDING
+Line  51: UPS CONTAINERS AREA
+Line  52: TRANSFORMERS AREA
+Line  53: PARKING SPACE
+Line  54: WAREHOUSE BUILDING
+Line  55: TRANSFORMERS AREA
+Line  56: DC
+Line  57: GUARD HOUSE
+Line  58: ΚΛΙΜΑΚΑ
+Line  59: SCALE
+Line  60: ΣΧΕΔΙΟ
+Line  61: ΕΡΓΟ
+Line  62: ΗΜΕΡΟΜΗΝΙΑ ΕΚΔΟΣΗΣ
+Line  63: FIRST ISSUE DATE
+Line  64: ΠΕΡΙΟΧΗ
+Line  65: ZONE
+Line  66: ISSUED
+Line  67: CONSTRUCTION
+Line  68: TENDER
+Line  69: APRROVAL
+Line  70: STATUS
+Line  71: DRAFT
+Line  72: FINAL
+Line  73: DISCIPLINE
+Line  74: ARC
+Line  75: ΑΝΑΘ.
+Line  76: REV.
+Line  77: PROJECT
+Line  78: DRAWING
+Line  79: ΕΡΓΟΔΟΤΗΣ
+Line  80: CLIENT
+Line  81: Τοmpazi, Χalandri Greece
+Line  82: 3262 30210 3269
+Line  83: ΚΛΕΙΔΑ
+Line  84: KEY PLAN
+Line  85: ΘΕΣΗ
+Line  86: LOCATION
+Line  87: AGIOS DIMITRIOS KOZANI, GREECE
+Line  88: ΑΡΧΙΤΕΚΤΟΝIKH ΜΕΛΕΤΗ
+Line  89: ARCHITECTURAL DESIGN
+Line  90: ΣΤΑΤΙΚΗ ΜΕΛΕΤΗ
+Line  91: STRUCTURAL DESIGN
+Line  92: ΜΗΧΑΝΟΛΟΓΙΚΗ ΜΕΛΕΤΗ
+Line  93: MEP DESIGN
+Line  94: Anargyrountos 16672, Vari
+Line  95: 30210 4395 30210 4637
+Line  96: NSZ
+Line  97: Filolaou Ilioupolis 16342 Athens
+Line  98: Greece
+Line  99: 30210
+Line 100: ΜΕΛΕΤΗ
+Line 101: DISCIPLINE
+Line 102: ARCHITECTURAL
+Line 103: STAGE CONCEPT
+Line 104: ΣΤΑΔΙΟ
+Line 105: STAGE
+Line 106: ΚΗΜ
+Line 107: LITHOS
+Line 108: VASSILIS ALEXANDROS POUTETSIS
+Line 109: ARCHITECTS ASSOCIATES IKE
+Line 110: 2025
+Line 111: DATA CENTER COMPLEX
+Line 112: PHASE
+Line 113: TOTAL CAPACITY MV
+Line 114: ΑΝΑΘΕΩΡΗΣΕΙΣ REVISIONS
+Line 115: ΠΕΡΙΓΡΑΦΗ DESCRIPTION
+Line 116: ΗΜ ΝΙΑ DATE
+Line 117: DC
+Line 118: DC
+Line 119: DC
+Line 120: 00
+Line 121: 100
+Line 122: 1000
+Line 123: MASTERPLAN
+
+=== END OF FILTERED TEXT ===
+Total lines: 124

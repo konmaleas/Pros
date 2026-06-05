@@ -1,0 +1,217 @@
+=== FILTERED TEXT FOR: 2103_CHR_ARC_Α303.pdf ===
+
+Line   0: ΤΔ
+Line   1: ΤΔ
+Line   2: ΤΔ
+Line   3: ΤΔ
+Line   4: ΤΔ
+Line   5: ΤΔ
+Line   6: ΤΔ
+Line   7: FFL
+Line   8: FFL
+Line   9: FFL
+Line  10: FFL
+Line  11: ΧΩΡΟΣ ΣΤΑΘΜΕΥΣΗΣ
+Line  12: ΒΟΗΘΗΤΙΚΟΣ
+Line  13: ΧΩΡΟΣ ΑΠΟΘΗΚΗ
+Line  14: ΒΟΗΘΗΤΙΚΟΣ ΧΩΡΟΣ ΑΠΟΘΗΚΗ
+Line  15: ΒΟΗΘΗΤΙΚΟΣ ΧΩΡΟΣ ΑΠΟΘΗΚΗ
+Line  16: ΒΟΗΘΗΤΙΚΟΣ ΧΩΡΟΣ ΑΠΟΘΗΚΗ
+Line  17: ΚΑΘΙΣΤΙΚΟ
+Line  18: ΛΟΥΤΡΟ
+Line  19: ΚΑΘΙΣΤΙΚΟ
+Line  20: ΑΗΧ
+Line  21: ΕΞΩΣΤΗΣ
+Line  22: ΚΑΘΙΣΤΙΚΟ ROOF GARDEN
+Line  23: ΚΥΡΙΟΣ ΧΩΡΟΣ ROOF GARDEN
+Line  24: ΧΩΡΟΣ ΗΜ ΕΓΚΑΤΑΣΤΑΣΕΩΝ
+Line  25: ΚΑΘΙΣΤΙΚΟ
+Line  26: ΑΗΧ
+Line  27: ΕΞΩΣΤΗΣ
+Line  28: ΕΞΩΣΤΗΣ
+Line  29: ΕΞΩΣΤΗΣ
+Line  30: ΡΥΜΟΤΟΜΙΚΗ ΓΡΑΜΜΗ
+Line  31: ΟΡΙΟ
+Line  32: ΓΡΑΜΜΗ
+Line  33: ΟΡΙΟ ΑΠΟΣΤΑΣΗΣ
+Line  34: ΕΠΙΤΡΕΠΟΜΕΝΟ ΥΨΟΣ
+Line  35: ΓΡΑΜΜΗ ΦΥΣΙΚΟΥ
+Line  36: ΓΡΑΜΜΗ
+Line  37: ΦΥΣΙΚΟΥ
+Line  38: ΑΗΧ
+Line  39: ΑΠΟΡΡΙΜΑΤΩΝ
+Line  40: ΡΟΛΟΓΙΑ
+Line  41: ΜΣΘ
+Line  42: ΜΣΘ
+Line  43: ΤΔ
+Line  44: FFL
+Line  45: FFL
+Line  46: SSL
+Line  47: SSL
+Line  48: SSL
+Line  49: SSL
+Line  50: SSL
+Line  51: SSL
+Line  52: SSL
+Line  53: SSL
+Line  54: SSL
+Line  55: SSL
+Line  56: SSL
+Line  57: SSL
+Line  58: SSL
+Line  59: FFL
+Line  60: FFL
+Line  61: SSL
+Line  62: FFL
+Line  63: FFL
+Line  64: FFL
+Line  65: FFL
+Line  66: SSL
+Line  67: SSL
+Line  68: SSL
+Line  69: FFL
+Line  70: FFL
+Line  71: SSL
+Line  72: SSL
+Line  73: FFL
+Line  74: FFL
+Line  75: FFL
+Line  76: FFL
+Line  77: FFL
+Line  78: ΧΩΡΟΥ
+Line  79: ΚΑΘΑΡΗ ΕΠΙΦΑΝΕΙΑ ΧΩΡΟΥ
+Line  80: ΣΤΑΘΜΗ ΤΕΛΙΚΟΥ
+Line  81: ΣΤΑΘΜΗ ΠΛΑΚΑΣ ΜΠΕΤΟΥ
+Line  82: ΥΠΟΜΝΗΜΑ ΓΕΝΙΚΩΝ ΣΥΜΒΟΛΙΣΜΩΝ
+Line  83: ΑΝΟΙΓΜΑ ΠΑΡΑΘΥΡΟΥ
+Line  84: ΠΑΡΑΘΥΡΟΥ
+Line  85: ΠΡΕΚΙ ΠΑΡΑΘΥΡΟΥ
+Line  86: Room
+Line  87: ΠΑΡΑΘΥΡΟΥ
+Line  88: ΑΝΟΙΓΜΑ ΘΥΡΑΣ
+Line  89: ΘΥΡΑΣ
+Line  90: ΠΡΕΚΙ ΘΥΡΑΣ
+Line  91: ΤΥΠΟΣ ΘΥΡΑΣ
+Line  92: ΣΥΜΒΟΛΟ ΤΟΜΗΣ
+Line  93: ΟΝΟΜΑ ΧΩΡΟΥ
+Line  94: ΦΡΕΑΤΙΟ
+Line  95: ΤΥΠΟΣ
+Line  96: ΑΡΧΗ ΧΑΡΑΞΗΣ
+Line  97: ΗΛΕΚΤΡΙΚΟΣ ΠΙΝΑΚΑΣ
+Line  98: ΣΥΜΒΟΛΑ ΛΕΠΤΟΜΕΡΕΙΩΝ
+Line  99: 9312
+Line 100: ΤΕΛΕΙΩΜΑ ΤΟΙΧΩΝ ΣΟΒΑΤΕΠΙ
+Line 101: ΤΥΠΟΣ ΤΟΙΧΟΥ
+Line 102: ΤΥΠΟΣ ΥΨΟΣ ΧΩΡΟΥ
+Line 103: Door Type
+Line 104: ΘΥΡΑΣ
+Line 105: ΤΥΠΟΣ ΠΑΡΑΘΥΡΟΥ
+Line 106: ΣΥΜΒΟΛΙΣΜΟΙ ΤΥΠΩΝ ΤΟΙΧΩΝ
+Line 107: ΦΕΡΩΝ ΟΡΓΑΝΙΣΜΟΣ
+Line 108: ΣΥΣΤΗΜΑ ΘΕΡΜΟΠΡΟΣΟΨΗΣ
+Line 109: ΓΥΑΛΙΝΟ
+Line 110: ΜΕ ΜΟΝΩΣΗ
+Line 111: ΤΟΙΧΟΠΟΙΙΑ ΤΥΠΟΙ
+Line 112: ΜΠΑΤΙΚΟΣ
+Line 113: ΜΕ
+Line 114: ΤΟΙΧΟΣ ΞΗΡΑΣ
+Line 115: ΜΕ ΜΟΝΩΣΗ
+Line 116: ΤΟΙΧΟΣ ΞΗΡΑΣ
+Line 117: ΤΟΙΧΟΣ ΞΗΡΑΣ
+Line 118: ΜΕ
+Line 119: ΜΕ
+Line 120: ΜΕ
+Line 121: ΜΕ
+Line 122: ΑΠΛΗ ΜΕ ΣΚΕΛΕΤΟ
+Line 123: ΤΥΠΟΙ
+Line 124: ΑΠΛΗ ΜΕ ΣΚΕΛΕΤΟ
+Line 125: ΠΥΡΑΝΤΟΧΗ ΜΕ ΣΚΕΛΕΤΟ
+Line 126: ΑΠΛΗ ΜΕ ΣΚΕΛΕΤΟ
+Line 127: ΑΠΛΗ ΜΕ ΣΚΕΛΕΤΟ
+Line 128: ΑΝΘΥΓΡΗ
+Line 129: ΤΕΛΕΙΩΜΑΤΑ ΟΡΟΦΩΝ
+Line 130: ΜΕ ΜΟΝΩΣΗ
+Line 131: ΑΝΘΥΓΡΗ ΜΕ ΜΟΝΩΣΗ
+Line 132: ΕΠΙΧΡΙΣΜΑ
+Line 133: ΕΠΕΞΕΡΓΑΣΙΑ ΣΕ
+Line 134: ΜΟΝΩΣΗ ΥΠΟΓΕΙΟΥ
+Line 135: ΞΥΛΙΝΟ DECK ΕΞ. ΧΩΡΟΥ
+Line 136: ΠΑΡΚΕ
+Line 137: ΤΕΛΕΙΩΜΑΤΑ
+Line 138: ΜΑΡΜΑΡΟ ΣΕ ΠΛΑΚΕΣ
+Line 139: ΜΑΡΜΑΡΟ ΣΕ ΠΛΑΚΕΣ
+Line 140: ΠΑΧΟΥΣ
+Line 141: ΠΑΧΟΥΣ
+Line 142: ΜΑΡΜΑΡΟ ΣΕ ΠΛΑΚΕΣ
+Line 143: ΠΑΧΟΥΣ
+Line 144: ΠΑΧΟΥΣ
+Line 145: ΠΑΧΟΥΣ
+Line 146: ΠΑΧΟΥΣ
+Line 147: ΜΗ ΒΑΤΟ ΜΕ ΒΟΤΣΑΛΟ
+Line 148: ΒΙΟΜΗΧΑΝΙΚΟ ΜΕ ΤΕΛΕΙΩΜΑ ΒΑΦΗΣ
+Line 149: ΚΛΙΜΑΚΑ
+Line 150: SCALE
+Line 151: ΕΡΓΟ
+Line 152: ΗΜΕΡΟΜΗΝΙΑ
+Line 153: FIRST ISSUE DATE
+Line 154: ΠΕΡΙΟΧΗ
+Line 155: ZONE
+Line 156: ISSUED
+Line 157: CONSTRUCTION
+Line 158: APPROVAL
+Line 159: TENDER
+Line 160: STATUS
+Line 161: DRAFT
+Line 162: FINAL
+Line 163: DISCIPLINE
+Line 164: ARC
+Line 165: ΑΝΑΘ.
+Line 166: REV.
+Line 167: VAP
+Line 168: PROJECT
+Line 169: DRAWING
+Line 170: ΚΥΡΙΟΣ ΤΟΥ ΕΡΓΟΥ
+Line 171: CLIENT
+Line 172: Τοµπάζη Χαλάνδρι, 15332
+Line 173: 3262 3269
+Line 174: ΑΝΑΘΕΩΡΗΣΗ ΤΗΣ ΑΡΙΘΜ.
+Line 175: 03 2020
+Line 176: ΛΟΓΩ ΤΡΟΠΟΠΟΙΗΣΗΣ ΤΗΣ
+Line 177: ΑΡΧΙΤΕΚΤΟΝΙΚΗΣ ΜΕΛΕΤΗΣ ΚΑΙ
+Line 178: ΑΛΛΑΓΗΣ ΜΗΧΑΝΙΚΟΥ
+Line 179: ΘΕΣΗ
+Line 180: LOCATION
+Line 181: ΧΡΥΣΑΝΘΕΜΩΝ 71, ΨΥΧΙΚΟ,
+Line 182: ΦΙΛΟΘΕΗΣ ΨΥΧΙΚΟΥ
+Line 183: ΑΡΧΙΤΕΚΤΟΝIKH ΜΕΛΕΤΗ
+Line 184: ARCHITECTURAL DESIGN
+Line 185: ΣΤΑΤΙΚΗ ΜΕΛΕΤΗ
+Line 186: STRUCTURAL DESIGN
+Line 187: ΜΗΧΑΝΟΛΟΓΙΚΗ ΜΕΛΕΤΗ
+Line 188: MEP DESIGN
+Line 189: ΜΕΛΕΤΗ
+Line 190: STUDY
+Line 191: STAGE
+Line 192: ΜΕΛΕΤΗΤΗ
+Line 193: DESIGNER STAMP
+Line 194: ΕΤΑΙΡΕΙΑΣ
+Line 195: COMPANY STAMP
+Line 196: ΓΕΩΡΓΙΟΣ ΒΑΡΟΥΤΑΣ
+Line 197: ΗΛΕΚΤΡΟΛΟΓΟΣ ΜΗΧΑΝΙΚΟΣ
+Line 198: ASSOSIATES
+Line 199: STRUCTURAL GEOTECHNICAL ENGINNERS
+Line 200: VASSILIS ALEXANDROS POUTETSIS
+Line 201: ARCHITECTS ASSOCIATES IKE
+Line 202: Ιδιωτική Μονάδα Ηµερήσιας
+Line 203: Νοσηλείας, Ιατρική ΕΠΕ
+Line 204: KEYPLAN
+Line 205: PLOT DATE WIP
+Line 206: 2022 06
+Line 207: ΤΟΜΗ
+Line 208: 06
+Line 209: ΑΝΑΘΕΩΡΗΣΕΙΣ
+Line 210: ΠΕΡΙΓΡΑΦΗ DESCRIPTION
+Line 211: ΗΜ ΝΙΑ DATE
+
+=== END OF FILTERED TEXT ===
+Total lines: 212

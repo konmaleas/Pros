@@ -1,0 +1,36 @@
+=== FILTERED TEXT FOR: Α651-00.pdf ===
+
+Line   0: 4
+Line   1: 4
+Line   2: 4
+Line   3: 4
+Line   4: 4
+Line   5: 4
+Line   6: 4
+Line   7: 4
+Line   8: 4
+Line   9: WC
+Line  10: 4
+Line  11: WC
+Line  12: 4
+Line  13: 01
+Line  14: 01
+Line  15: 02
+Line  16: 2
+Line  17: 2691
+Line  18: 05
+Line  19: 04
+Line  20: 03
+Line  21: 02
+Line  22: 01
+Line  23: 2017
+Line  24: 2 2 2
+Line  25: 2 2 2
+Line  26: 2
+Line  27: 4
+Line  28: 0601 700 1457 2691
+Line  29: 21752
+Line  30: 10439
+
+=== END OF FILTERED TEXT ===
+Total lines: 31

@@ -1,0 +1,195 @@
+=== FILTERED TEXT FOR: ATH04-A-D-213-A_-_ADMIN_ENLARGED_ROOF_PLAN.pdf ===
+
+Line   0: DN
+Line   1: ZF
+Line   2: ZA
+Line   3: YF
+Line   4: YE
+Line   5: YD
+Line   6: YC
+Line   7: YB
+Line   8: YA
+Line   9: 3000
+Line  10: 9200
+Line  11: 6350
+Line  12: 6150
+Line  13: 61930
+Line  14: PRESSED METAL FLASHING
+Line  15: TYPICAL
+Line  16: PARAPET DETAIL NOTES
+Line  17: DETAILS
+Line  18: PRESSED METAL FLASHING
+Line  19: TYPICAL
+Line  20: PARAPET DETAIL NOTES
+Line  21: DETAILS
+Line  22: PRESSED METAL FLASHING
+Line  23: TYPICAL
+Line  24: PARAPET DETAIL NOTES
+Line  25: DETAILS
+Line  26: GUTTER LINE
+Line  27: LOADING DOCK CANOPY
+Line  28: RIDGE LINE
+Line  29: GUTTER LINE
+Line  30: INTEGRATED WALKWAY
+Line  31: SYSTEM SECURED
+Line  32: STANDING SEAMS ROOF
+Line  33: RWP
+Line  34: OUTLET
+Line  35: RWP
+Line  36: OUTLET
+Line  37: RWP
+Line  38: OUTLET
+Line  39: RWP
+Line  40: OUTLET
+Line  41: 700
+Line  42: 2370
+Line  43: 12745
+Line  44: 13600
+Line  45: 4500
+Line  46: 18650
+Line  47: 7695
+Line  48: 2370
+Line  49: ALUMINIUM STANDING SEAM ROOF
+Line  50: INTEGRATED SOLAR PANELS
+Line  51: 700
+Line  52: RWO
+Line  53: RWO
+Line  54: RWO
+Line  55: CANOPY ADMIN WINDOWS
+Line  56: STAIR SUPPORTED
+Line  57: MAIN STEEL
+Line  58: ACCESS EGRESS
+Line  59: HANDRAIL FIXED BACK
+Line  60: MAIN STRUCTURE,
+Line  61: HIGH.
+Line  62: ALUMINIUM STANDING SEAM
+Line  63: ROOF INTEGRATED SOLAR
+Line  64: PANELS
+Line  65: ALUMINIUM STANDING SEAM
+Line  66: ROOF INTEGRATED
+Line  67: SOLAR PANELS
+Line  68: INTEGRATED SYSTEM SECURED
+Line  69: STANDING SEAMS ROOF
+Line  70: RWO
+Line  71: RWO
+Line  72: RWO
+Line  73: RWO
+Line  74: RWP
+Line  75: RWP
+Line  76: REFER SWITCHROOM
+Line  77: REFUSE BUILDING DRAWINGS
+Line  78: SMOKE EXTRACT VENTS.
+Line  79: SMOKE EXTRACT VENT.
+Line  80: FRESH AIR INTAKE.
+Line  81: FRESH AIR INTAKE.
+Line  82: CONTINUATION REFER DRAWING
+Line  83: PHOTOVOLTAIC PANELS
+Line  84: SPECIALIST DESIGN
+Line  85: COORDINATED
+Line  86: WEATHER STATION
+Line  87: INVERTER HOUSING CDP ITEM
+Line  88: ZA
+Line  89: YD
+Line  90: YC
+Line  91: YB
+Line  92: YA
+Line  93: 3000
+Line  94: 9200
+Line  95: 6350
+Line  96: 6150
+Line  97: PRESSED METAL FLASHING
+Line  98: TYPICAL
+Line  99: PARAPET DETAIL NOTES
+Line 100: DETAILS
+Line 101: 2370
+Line 102: 12745
+Line 103: 13600
+Line 104: 4500
+Line 105: 6300
+Line 106: ALUMINIUM CASSETTE
+Line 107: PANEL SYSTEM
+Line 108: FIXED UNDERSIDE
+Line 109: CANOPY STRUCTURE
+Line 110: MANUFACTURERS
+Line 111: DETAILS
+Line 112: RWO
+Line 113: RWO
+Line 114: RWO
+Line 115: RWO
+Line 116: RWO
+Line 117: RWO
+Line 118: RWO
+Line 119: 12745
+Line 120: 3500
+Line 121: 10100
+Line 122: 4500
+Line 123: 6300
+Line 124: RWP
+Line 125: RWP
+Line 126: RWP
+Line 127: RWP
+Line 128: RWP
+Line 129: RWP
+Line 130: RWP
+Line 131: RWP
+Line 132: ADMIN
+Line 133: COLO
+Line 134: COLO 2
+Line 135: 2
+Line 136: 4
+Line 137: 2
+Line 138: 4
+Line 139: TRUE NORTH
+Line 140: Sheet Title Number
+Line 141: Scale
+Line 142: Plan
+Line 143: Design Consultants
+Line 144: Microsoft
+Line 145: DATA CENTER
+Line 146: SPATA GREECE
+Line 147: Contractor Joint Venture
+Line 148: Name
+Line 149: Contractor Project
+Line 150: Contractor Contract
+Line 151: Contractor PM
+Line 152: Contractor BIM Mngr
+Line 153: Contractor Information
+Line 154: Renco Terna
+Line 155: Client
+Line 156: General Notes
+Line 157: Client Project
+Line 158: Client Contract
+Line 159: Client PM
+Line 160: Client BIM Mngr
+Line 161: Primary Client Information
+Line 162: Layout
+Line 163: Revision
+Line 164: Tombazi Chalandri
+Line 165: 15232
+Line 166: Athens Greece
+Line 167: 0800 3262
+Line 168: Agion Theodoron Square Athens
+Line 169: 10561
+Line 170: Athens Greece
+Line 171: Kimithois Agios Dimitrios
+Line 172: 17236
+Line 173: Athens Greece
+Line 174: Purpose Issue
+Line 175: Issue
+Line 176: Name
+Line 177: ADMIN ENLARGED ROOF PLAN
+Line 178: SCALE
+Line 179: ADMIN ENLARGED ROOF PLAN
+Line 180: 2500
+Line 181: 5000
+Line 182: SCALE
+Line 183: SCALE
+Line 184: ADMIN CANOPY MULLION LOCATIONS
+Line 185: Date
+Line 186: Description
+Line 187: 04
+Line 188: Issued Approval
+Line 189: HVE JV
+
+=== END OF FILTERED TEXT ===
+Total lines: 190

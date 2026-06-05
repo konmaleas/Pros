@@ -1,0 +1,78 @@
+=== FILTERED TEXT FOR: VAP-TW-D221-00.pdf ===
+
+Line   0: Level
+Line   1: Level
+Line   2: Level
+Line   3: Level
+Line   4: Level
+Line   5: Detail
+Line   6: Scale
+Line   7: Detail
+Line   8: Scale
+Line   9: Gypsumboard Ceiling
+Line  10: Taped Sealed Joint
+Line  11: Galvanized Steel Ceiling
+Line  12: Framing
+Line  13: Ceiling Suspention System
+Line  14: Ceiling Suspension System
+Line  15: Galvanized Steel Ceiling
+Line  16: Framing
+Line  17: Water Resistant
+Line  18: Gypsumboard Ceiling
+Line  19: Taped Sealed Joint
+Line  20: Isover
+Line  21: Acoustic Insulation Boards
+Line  22: NRC
+Line  23: Fixed
+Line  24: Ceiling Suspention System
+Line  25: Mineral Fibre Tile
+Line  26: Hollow Joint Type
+Line  27: Exposed Ceiling Grid
+Line  28: Detail
+Line  29: Scale
+Line  30: Detail
+Line  31: Scale
+Line  32: Detail
+Line  33: Scale
+Line  34: Ceiling Suspension System
+Line  35: Galvanized Steel Ceiling
+Line  36: Framing
+Line  37: Acoustic Gypsumboard Ceiling
+Line  38: Linear Holes
+Line  39: Taped Sealed Joint
+Line  40: Rockwool Insulation
+Line  41: REVISIONS
+Line  42: CLIENT
+Line  43: PROJECT
+Line  44: DESIGN STAGE
+Line  45: DATE
+Line  46: SCALE
+Line  47: FILE NAME
+Line  48: DRAWING TITLE
+Line  49: DRAWING
+Line  50: TAHLIA WALK
+Line  51: VAPARCHITECTS
+Line  52: Epirou Street
+Line  53: Athens, GR Greece
+Line  54: 3262
+Line  55: 3269
+Line  56: DESIGN ARCHITECTS
+Line  57: CONSULTANTS
+Line  58: STUDIO
+Line  59: Isavron
+Line  60: Lycabettus
+Line  61: Athens, GR 11471 Greece
+Line  62: ZAD DEVELOPMENT
+Line  63: STRUCTURAL ENGINEER
+Line  64: MEP ENGINEER
+Line  65: 01 PM
+Line  66: Typical Details
+Line  67: Ceilings
+Line  68: Detail Design
+Line  69: Description
+Line  70: Date
+Line  71: First
+Line  72: 07
+
+=== END OF FILTERED TEXT ===
+Total lines: 73

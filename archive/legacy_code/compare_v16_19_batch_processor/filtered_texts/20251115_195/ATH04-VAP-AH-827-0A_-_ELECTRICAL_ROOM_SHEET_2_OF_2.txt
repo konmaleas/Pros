@@ -1,0 +1,147 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-827-0A_-_ELECTRICAL_ROOM_SHEET_2_OF_2.pdf ===
+
+Line   0: GL
+Line   1: CEILING LEVEL
+Line   2: ELEC ROOM
+Line   3: 00 024
+Line   4: WT 4
+Line   5: POWER FLOATED
+Line   6: CONCRETE SEALED
+Line   7: ASHFORD FORMULA SEALER
+Line   8: VINYL COVED UPSTAND
+Line   9: PAINTED GYPSUM BOARD
+Line  10: WALLS, COAT PRIMER 2
+Line  11: COATS DIAMOND MATT LATEXT
+Line  12: FINISH RAL 9010 PURE
+Line  13: WHITE
+Line  14: CEILING TYPE UNDERSIDE
+Line  15: METAL DECK
+Line  16: ID AD 032
+Line  17: WT 4
+Line  18: GL
+Line  19: CEILING LEVEL
+Line  20: ELEC ROOM
+Line  21: 00 024
+Line  22: PAINTED GYPSUM BOARD
+Line  23: WALLS, COAT PRIMER 2
+Line  24: COATS DIAMOND MATT LATEXT
+Line  25: FINISH RAL 9010 PURE
+Line  26: WHITE
+Line  27: VINYL COVED UPSTAND
+Line  28: POWER FLOATED
+Line  29: CONCRETE SEALED
+Line  30: ASHFORD FORMULA SEALER
+Line  31: CEILING TYPE UNDERSIDE
+Line  32: METAL DECK
+Line  33: WT 4
+Line  34: WT 4
+Line  35: GL
+Line  36: CEILING LEVEL
+Line  37: 2481
+Line  38: 1932
+Line  39: ID AD 032
+Line  40: ELEC ROOM
+Line  41: 00 024
+Line  42: YC
+Line  43: CEILING TYPE UNDERSIDE
+Line  44: METAL DECK
+Line  45: POWER FLOATED
+Line  46: CONCRETE SEALED
+Line  47: ASHFORD FORMULA SEALER
+Line  48: PAINTED GYPSUM BOARD
+Line  49: WALLS, COAT PRIMER 2
+Line  50: COATS DIAMOND MATT LATEXT
+Line  51: FINISH RAL 9010 PURE
+Line  52: WHITE
+Line  53: WT 4
+Line  54: VINYL
+Line  55: COVED UPSTAND
+Line  56: WT 4
+Line  57: WT 4
+Line  58: GL
+Line  59: CEILING LEVEL
+Line  60: ELEC ROOM
+Line  61: 00 024
+Line  62: YC
+Line  63: WT 4
+Line  64: WT 4
+Line  65: CEILING TYPE UNDERSIDE
+Line  66: METAL DECK
+Line  67: PAINTED GYPSUM BOARD
+Line  68: WALLS, COAT PRIMER 2
+Line  69: COATS DIAMOND MATT LATEXT
+Line  70: FINISH RAL 9010 PURE
+Line  71: WHITE
+Line  72: POWER FLOATED
+Line  73: CONCRETE SEALED
+Line  74: ASHFORD FORMULA SEALER
+Line  75: VINYL COVED UPSTAND
+Line  76: NOTE
+Line  77: WALL TYPE LEGEND REFER DRAWING
+Line  78: ADMIN
+Line  79: COLO
+Line  80: COLO 2
+Line  81: 2
+Line  82: 4
+Line  83: 2
+Line  84: 4
+Line  85: TRUE NORTH
+Line  86: Sheet Title Number
+Line  87: Scale
+Line  88: Plan
+Line  89: Design Consultants
+Line  90: Microsoft
+Line  91: DATA CENTER
+Line  92: SPATA GREECE
+Line  93: Contractor Joint Venture
+Line  94: Name
+Line  95: Contractor Project
+Line  96: Contractor Contract
+Line  97: Contractor PM
+Line  98: Contractor BIM Mngr
+Line  99: Contractor Information
+Line 100: Renco Terna
+Line 101: Client
+Line 102: General Notes
+Line 103: Client Project
+Line 104: Client Contract
+Line 105: Client PM
+Line 106: Client BIM Mngr
+Line 107: Primary Client Information
+Line 108: Layout
+Line 109: Revision
+Line 110: Tombazi Chalandri
+Line 111: 15232
+Line 112: Athens Greece
+Line 113: 0800 3262
+Line 114: Agion Theodoron Square Athens
+Line 115: 10561
+Line 116: Athens Greece
+Line 117: Kimithois Agios Dimitrios
+Line 118: 17236
+Line 119: Athens Greece
+Line 120: Purpose Issue
+Line 121: Issue
+Line 122: Name
+Line 123: ELECTRICAL ROOM SHEET 2 2
+Line 124: VAP AH
+Line 125: SCALE
+Line 126: ELECTRICAL ROOM ELEVATION EAST
+Line 127: SCALE
+Line 128: ELECTRICAL ROOM ELEVATION WEST
+Line 129: 2
+Line 130: SCALE
+Line 131: ELECTRICAL ROOM ELEVATION NORTH
+Line 132: SCALE
+Line 133: ELECTRICAL ROOM ELEVATION SOUTH
+Line 134: 4
+Line 135: 1000
+Line 136: SCALE
+Line 137: Date
+Line 138: Description
+Line 139: 04
+Line 140: Issued Approval
+Line 141: VAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 142

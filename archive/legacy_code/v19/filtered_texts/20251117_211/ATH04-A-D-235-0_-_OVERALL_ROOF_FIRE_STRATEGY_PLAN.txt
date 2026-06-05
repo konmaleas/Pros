@@ -1,0 +1,171 @@
+=== FILTERED TEXT FOR: ATH04-A-D-235-0_-_OVERALL_ROOF_FIRE_STRATEGY_PLAN.pdf ===
+
+Line   0: DN
+Line   1: DN
+Line   2: ZF
+Line   3: ZA
+Line   4: YF
+Line   5: YE
+Line   6: YD
+Line   7: YC
+Line   8: YB
+Line   9: YA
+Line  10: 3000
+Line  11: 9200
+Line  12: 6350
+Line  13: 6150
+Line  14: 7300
+Line  15: 7300
+Line  16: 7300
+Line  17: 7300
+Line  18: 14600
+Line  19: 7300
+Line  20: 7300
+Line  21: 7300
+Line  22: 7300
+Line  23: 7300
+Line  24: 7300
+Line  25: 7300
+Line  26: 7300
+Line  27: 7300
+Line  28: 7300
+Line  29: 7300
+Line  30: 7300
+Line  31: 7300
+Line  32: 7650
+Line  33: 2370
+Line  34: 12745
+Line  35: 13600
+Line  36: 4500
+Line  37: 18650
+Line  38: 7695
+Line  39: 2370
+Line  40: 61930
+Line  41: 8376
+Line  42: GUTTER LINE
+Line  43: RIDGE LINE
+Line  44: GUTTER LINE
+Line  45: GUTTER LINE
+Line  46: RIDGE LINE
+Line  47: GUTTER LINE
+Line  48: CANOPY ADMIN WINDOWS
+Line  49: CAT LADDER
+Line  50: GRD RAB
+Line  51: ROOF ACCESS
+Line  52: STAIR CAGED
+Line  53: LOADING DOCK CANOPY
+Line  54: 7108
+Line  55: 7109
+Line  56: CAT LADDER
+Line  57: RAB
+Line  58: ROOF
+Line  59: RWP
+Line  60: RWP
+Line  61: 712
+Line  62: CAT LADDER
+Line  63: RAB
+Line  64: ROOF
+Line  65: CAT LADDER
+Line  66: RAB
+Line  67: ROOF
+Line  68: CAT LADDER
+Line  69: GRD
+Line  70: RAB
+Line  71: ROOF ACCESS
+Line  72: STAIR CAGED
+Line  73: CAT LADDER
+Line  74: GRD
+Line  75: RAB
+Line  76: GUTTER LINE
+Line  77: GUTTER LINE
+Line  78: STAIR SUPPORTED
+Line  79: BIG FOOT SYSTEM
+Line  80: ACCESS EGRESS
+Line  81: HANDRAIL FIXED BACK
+Line  82: MAIN STRUCTURE,
+Line  83: HIGH.
+Line  84: HIGH
+Line  85: PARAPET
+Line  86: ALUMINIUM STANDING SEAM
+Line  87: ROOF INTEGRATED SOLAR
+Line  88: PANELS ROOFING SYSTEM
+Line  89: INTEGRATED WALKWAY SYSTEM
+Line  90: SECURED STANDING SEAMS
+Line  91: ROOF
+Line  92: INTEGRATED WALKWAY SYSTEM
+Line  93: SECURED STANDING SEAMS
+Line  94: ROOF
+Line  95: PHOTOVOLTAIC PANELS
+Line  96: SPECIALIST DESIGN
+Line  97: COORDINATED IFP ISSUE
+Line  98: STAIR SUPPORTED
+Line  99: BIG FOOT SYSTEM
+Line 100: ACCESS EGRESS
+Line 101: INTEGRATED WALKWAY SYSTEM
+Line 102: SECURED STANDING SEAMS
+Line 103: ROOF
+Line 104: HANDRAIL FIXED BACK
+Line 105: MAIN STRUCTURE,
+Line 106: HIGH.
+Line 107: HANDRAIL FIXED BACK
+Line 108: MAIN STRUCTURE,
+Line 109: HIGH.
+Line 110: ADMIN
+Line 111: COLO
+Line 112: COLO
+Line 113: TRUE NORTH
+Line 114: Sheet Title Number
+Line 115: Scale
+Line 116: Plan
+Line 117: Design Consultants
+Line 118: Microsoft
+Line 119: DATA CENTER ATH04
+Line 120: SPATA GREECE
+Line 121: Contractor Joint Venture
+Line 122: Name
+Line 123: Contractor Project
+Line 124: Contractor Contract
+Line 125: Contractor PM
+Line 126: Contractor BIM Mngr
+Line 127: Contractor Information
+Line 128: Renco Terna
+Line 129: Client
+Line 130: General Notes
+Line 131: Client Project
+Line 132: Client Contract
+Line 133: Client PM
+Line 134: Client BIM Mngr
+Line 135: Primary Client Information
+Line 136: Layout
+Line 137: Revision
+Line 138: Tombazi Chalandri
+Line 139: 15232
+Line 140: Athens Greece
+Line 141: 0800 3262
+Line 142: Agion Theodoron Square Athens
+Line 143: 10561
+Line 144: Athens Greece
+Line 145: Kimithois Agios Dimitrios
+Line 146: 17236
+Line 147: Athens Greece
+Line 148: Purpose Issue
+Line 149: Issue
+Line 150: Name
+Line 151: A
+Line 152: OVERALL ROOF FIRE STRATEGY
+Line 153: PLAN
+Line 154: ATH04 A
+Line 155: SCALE
+Line 156: FIRE STRATEGY ROOF PLAN
+Line 157: 5000
+Line 158: 10000
+Line 159: SCALE
+Line 160: Date
+Line 161: Description
+Line 162: A
+Line 163: 04
+Line 164: Issued Approval
+Line 165: HVE JV
+
+=== END OF FILTERED TEXT ===
+Total lines: 166

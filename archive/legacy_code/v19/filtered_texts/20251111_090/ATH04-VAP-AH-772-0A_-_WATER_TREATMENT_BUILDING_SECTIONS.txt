@@ -1,0 +1,225 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-772-0A_-_WATER_TREATMENT_BUILDING_SECTIONS.pdf ===
+
+Line   0: FFL
+Line   1: Roof Ridge Level
+Line   2: Parapet Level
+Line   3: Roof Eaves Level
+Line   4: 30150
+Line   5: ATH04 00
+Line   6: PUMP ROOM
+Line   7: 5275
+Line   8: IWS
+Line   9: EWC
+Line  10: EWC
+Line  11: IWS
+Line  12: IWS
+Line  13: EWC
+Line  14: EWC
+Line  15: 3600
+Line  16: 1150
+Line  17: 6050
+Line  18: 3800
+Line  19: 6583
+Line  20: RFS
+Line  21: IWS
+Line  22: 1200
+Line  23: 2400
+Line  24: 1200
+Line  25: RIB ROOF SPEED ZAMBELLI, REFER
+Line  26: DRG 712 DETAILS
+Line  27: STRUCTURAL STEEL RAFTERS
+Line  28: STRUCTURAL ENGINEER DESIGN
+Line  29: SPECIFICATION
+Line  30: TRIMOTERM FTV COMPOSITE WALL
+Line  31: PANEL SIMILAR EQUALLY APPROVED
+Line  32: REFER PARTITIONING PLANS
+Line  33: THICKNESS
+Line  34: TRIMOTERM 1200 PERFORM
+Line  35: COMPOSITE ARCHITECTURAL FACADE
+Line  36: SYSTEM, HORIZONTALLY LAID
+Line  37: SELECTED RAL COLOURS, REFER
+Line  38: SPECIFICATIONS DETAILS
+Line  39: POWER FLOATED CONCRETE SEALED
+Line  40: ASHFORD FORMULA SEALER
+Line  41: GROUND SLAB STRUCTURAL
+Line  42: ENGINEER DESIGN SPECIFICATION.
+Line  43: 6100
+Line  44: 772
+Line  45: 772
+Line  46: GRAVEL PERIMETER CIVILS
+Line  47: SPECIFICATION DETAILS
+Line  48: NOTE MECHANICAL
+Line  49: EQUIPMENT INSTALLATION
+Line  50: PHASED
+Line  51: POLYESTER POWDER COATED
+Line  52: PERMANENT BALLASTED NON
+Line  53: PENETRATING ROOF GUARDING ROOF
+Line  54: FFL
+Line  55: A
+Line  56: Roof Ridge Level
+Line  57: Parapet Level
+Line  58: Roof Eaves Level
+Line  59: 772
+Line  60: ATH04 00
+Line  61: SWITCH ROOM
+Line  62: A
+Line  63: IWS
+Line  64: IWS
+Line  65: IWS
+Line  66: IWS
+Line  67: IWS
+Line  68: 6687
+Line  69: EWC
+Line  70: EWC
+Line  71: 483
+Line  72: 6100
+Line  73: RFS
+Line  74: 5250
+Line  75: 5250
+Line  76: 11250
+Line  77: 3300
+Line  78: 6100
+Line  79: 5357
+Line  80: ATH04 00
+Line  81: COMMS ROOM
+Line  82: RIB ROOF SPEED ZAMBELLI, REFER
+Line  83: DRG 712 DETAILS
+Line  84: TRIMOTERM FTV COMPOSITE PANEL
+Line  85: THICK
+Line  86: TRIMOTERM 1200 PERFORM COMPOSITE
+Line  87: ARCHITECTURAL FACADE SYSTEM,
+Line  88: HORIZONTALLY LAID SELECTED RAL
+Line  89: COLOURS, REFER SPECIFICATIONS
+Line  90: DETAILS
+Line  91: POWER FLOATED CONCRETE SEALED
+Line  92: ASHFORD FORMULA SEALER
+Line  93: GRAVEL PERIMETER CIVILS
+Line  94: SPECIFICATION DETAILS
+Line  95: POLYESTER POWDER COATED
+Line  96: PERMANENT BALLASTED NON
+Line  97: PENETRATING ROOF GUARDING ROOF
+Line  98: FFL
+Line  99: A
+Line 100: Roof Ridge Level
+Line 101: Parapet Level
+Line 102: Roof Eaves Level
+Line 103: 772
+Line 104: ATH04 00
+Line 105: PUMP ROOM
+Line 106: 11250
+Line 107: 5250
+Line 108: 5250
+Line 109: 5250
+Line 110: 483
+Line 111: 6100
+Line 112: EWC
+Line 113: EWC
+Line 114: RFS
+Line 115: WT 06
+Line 116: RIB ROOF SPEED ZAMBELLI, REFER
+Line 117: DRG 712 DETAILS
+Line 118: STRUCTURAL STEEL RAFTERS
+Line 119: STRUCTURAL ENGINEER DESIGN
+Line 120: SPECIFICATION
+Line 121: STRUCTURAL STEEL COLUMNS
+Line 122: STRUCTURAL ENGINEER DESIGN
+Line 123: SPECIFICATION
+Line 124: TRIMOTERM 1200 PERFORM COMPOSITE
+Line 125: ARCHITECTURAL FACADE SYSTEM,
+Line 126: HORIZONTALLY LAID SELECTED RAL
+Line 127: COLOURS, REFER SPECIFICATIONS
+Line 128: DETAILS
+Line 129: EXTERNAL INSULATED METAL DOORS
+Line 130: GROUND SLAB STRUCTURAL
+Line 131: ENGINEER DESIGN SPECIFICATION
+Line 132: 3065
+Line 133: GRAVEL PERIMETER CIVILS
+Line 134: SPECIFICATION DETAILS
+Line 135: POLYESTER POWDER COATED
+Line 136: PERMANENT BALLASTED NON
+Line 137: PENETRATING ROOF GUARDING
+Line 138: ROOF
+Line 139: 1200
+Line 140: Sheet Title Number
+Line 141: Scale
+Line 142: Plan
+Line 143: Design Consultants
+Line 144: Microsoft
+Line 145: DATA CENTER ATH04
+Line 146: SPATA GREECE
+Line 147: Contractor Joint Venture
+Line 148: Name
+Line 149: Contractor Project
+Line 150: Contractor Contract
+Line 151: Contractor PM
+Line 152: Contractor BIM Mngr
+Line 153: Contractor Information
+Line 154: Renco Terna
+Line 155: Client
+Line 156: General Notes
+Line 157: Client Project
+Line 158: Client Contract
+Line 159: Client PM
+Line 160: Client BIM Mngr
+Line 161: Primary Client Information
+Line 162: Layout
+Line 163: Revision
+Line 164: Tombazi Chalandri
+Line 165: 15232
+Line 166: Athens Greece
+Line 167: 0800 3262
+Line 168: Agion Theodoron Square Athens
+Line 169: 10561
+Line 170: Athens Greece
+Line 171: Kimithois Agios Dimitrios
+Line 172: 17236
+Line 173: Athens Greece
+Line 174: Purpose Issue
+Line 175: Issue
+Line 176: Name
+Line 177: WATER TREATMENT BUILDING
+Line 178: SECTIONS
+Line 179: ATH04 VAP AH 772
+Line 180: 1250
+Line 181: 2500
+Line 182: SCALE
+Line 183: SCALE
+Line 184: WALL SECTION
+Line 185: SCALE
+Line 186: SECTION
+Line 187: SCALE
+Line 188: SECTION
+Line 189: Water Treatment Building Keynote Sheet
+Line 190: Value
+Line 191: Descrìption
+Line 192: AM 471
+Line 193: External Proprietary Flat Fixed
+Line 194: Fixed Mild
+Line 195: DRS
+Line 196: External High
+Line 197: Design Drawings Door Schedule. Core Construction
+Line 198: Steel Employer. Ironmongery
+Line 199: Door Schedule Hardware Schedule.
+Line 200: EWC
+Line 201: Composite Composite
+Line 202: Design Drawings,
+Line 203: Panel External Employer.
+Line 204: IWS
+Line 205: Internal Internal
+Line 206: Steel Employer.
+Line 207: RFS
+Line 208: Exhaust Pressed Design Drawings.
+Line 209: RWS
+Line 210: Aluminum Heavy Design Drawings
+Line 211: ADMIN
+Line 212: COLO
+Line 213: COLO
+Line 214: TRUE NORTH
+Line 215: Date
+Line 216: Description
+Line 217: 06
+Line 218: Issued Approval
+Line 219: VAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 220

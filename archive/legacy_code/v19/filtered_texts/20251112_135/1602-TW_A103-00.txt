@@ -1,0 +1,81 @@
+=== FILTERED TEXT FOR: 1602-TW_A103-00.pdf ===
+
+Line   0: 00
+Line   1: 00
+Line   2: OFFICE
+Line   3: KITCHENETTE
+Line   4: WC
+Line   5: WC
+Line   6: WC
+Line   7: WC
+Line   8: KITCHENETTE
+Line   9: OFFICE
+Line  10: OFFICE
+Line  11: KITCHENETTE
+Line  12: WC
+Line  13: WC
+Line  14: WC
+Line  15: WC
+Line  16: WC
+Line  17: KITCHENETTE
+Line  18: WC
+Line  19: WC
+Line  20: OFFICE
+Line  21: WC
+Line  22: WC
+Line  23: KITCHENETTE
+Line  24: WC
+Line  25: WC
+Line  26: OFFICE
+Line  27: WC
+Line  28: WC
+Line  29: KITCHENETTE
+Line  30: WC
+Line  31: WC
+Line  32: CORRIDOR
+Line  33: SHAFT
+Line  34: SHAFT
+Line  35: LIFT
+Line  36: STAIRCASE
+Line  37: ROOM
+Line  38: WC DISABLED
+Line  39: WC
+Line  40: WC
+Line  41: OFFICE
+Line  42: OFFICE
+Line  43: REVISIONS
+Line  44: DESCRIPTION
+Line  45: DATE
+Line  46: CLIENT
+Line  47: PROJECT
+Line  48: DESIGN STAGE
+Line  49: DATE
+Line  50: SCALE
+Line  51: FILE NAME
+Line  52: DRAWING TITLE
+Line  53: DRAWING
+Line  54: TAHLIA WALK
+Line  55: VAPARCHITECTS
+Line  56: Epirou Street
+Line  57: Athens, GR Greece
+Line  58: 3262
+Line  59: 3269
+Line  60: DESIGN ARCHITECTS
+Line  61: STRUCTURAL ENGINEER
+Line  62: CONSULTANTS
+Line  63: MEP ENGINEER
+Line  64: STUDIO
+Line  65: Isavron
+Line  66: Lycabettus
+Line  67: Athens, GR 11471 Greece
+Line  68: ZAD DEVELOPMENT
+Line  69: 06 05 2016 06
+Line  70: 00
+Line  71: Level First
+Line  72: Floor
+Line  73: Project Status
+Line  74: Level First Floor
+Line  75: 1602 TW 00
+
+=== END OF FILTERED TEXT ===
+Total lines: 76

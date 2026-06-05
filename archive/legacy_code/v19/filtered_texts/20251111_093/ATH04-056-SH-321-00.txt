@@ -1,0 +1,231 @@
+=== FILTERED TEXT FOR: ATH04-056-SH-321-00.pdf ===
+
+Line   0: Bottom Direction
+Line   1: COLOR CODE
+Line   2: FOUNDATION SLAB REINFORCEMENT
+Line   3: Bottom Direction
+Line   4: Directions
+Line   5: Direction
+Line   6: Direction
+Line   7: Additional
+Line   8: Directions
+Line   9: LEGEND
+Line  10: TOP REBAR, DIRECTION
+Line  11: TOP REBAR, DIRECTION
+Line  12: BOTTOM REBAR, DIRECTION
+Line  13: BOTTOM REBAR, DIRECTION
+Line  14: TOP REBAR, DIRECTION
+Line  15: TOP REBAR, DIRECTION
+Line  16: BOTTOM REBAR, DIRECTION
+Line  17: BOTTOM REBAR, DIRECTION
+Line  18: TOP SIDE BAR, DIRECTION
+Line  19: TOP SIDE BAR, DIRECTION
+Line  20: BOTTOM SIDE BAR, DIRECTION
+Line  21: BOTTOM SIDE BAR, DIRECTION
+Line  22: REBAR DIRECTIONS
+Line  23: Full
+Line  24: A
+Line  25: A
+Line  26: XA
+Line  27: SA
+Line  28: SA
+Line  29: SB
+Line  30: SB
+Line  31: THICKNESS
+Line  32: THICKNESS
+Line  33: THICKNESS
+Line  34: THICKNESS
+Line  35: THICKNESS
+Line  36: THICKNESS
+Line  37: THICKNESS
+Line  38: THICKNESS
+Line  39: THICKNESS
+Line  40: THICKNESS
+Line  41: THICKNESS
+Line  42: THICKNESS
+Line  43: THICKNESS
+Line  44: THICKNESS
+Line  45: THICKNESS
+Line  46: THICKNESS
+Line  47: THICKNESS
+Line  48: THICKNESS
+Line  49: THICKNESS
+Line  50: THICKNESS
+Line  51: THICKNESS
+Line  52: THICKNESS
+Line  53: THICKNESS
+Line  54: THICKNESS
+Line  55: THICKNESS
+Line  56: THICKNESS
+Line  57: THICKNESS
+Line  58: RC GROUND SLAB
+Line  59: THICKNESS
+Line  60: RC GROUND SLAB
+Line  61: THICKNESS
+Line  62: ATH04 056
+Line  63: SH
+Line  64: ATH04 056 SH 000
+Line  65: Bottom
+Line  66: Bottom
+Line  67: Bottom
+Line  68: Bottom
+Line  69: ADMIN
+Line  70: COLO
+Line  71: COLO
+Line  72: TRUE NORTH
+Line  73: Microsoft
+Line  74: ENGINEERING CONSULTANT
+Line  75: ΣΥΜΒΟΥΛΟΣ ΜΕΛΕΤΗΤΗΣ
+Line  76: CERTIFIED ENGINEER
+Line  77: ΑΔΕΙΟΥΧΟΣ ΜΗΧΑΝΙΚΟΣ
+Line  78: SUPPLIER DOCUMENT NUMBER
+Line  79: ΚΩΔΙΚΟΣ ΣΧΕΔΙΟΥ ΠΡΟΜΗΘΕΥΤΗ
+Line  80: REVISION
+Line  81: ΑΝΑΘΕΩΡΗΣΗ
+Line  82: 00
+Line  83: A. Karra
+Line  84: Xenopoulos
+Line  85: ΣΥΝΤΑΚΤΗΣ
+Line  86: ΕΛΕΓΧΘΗΚΕ
+Line  87: ΕΓΚΡΙΘΗΚΕ
+Line  88: ΗΜΕΡΟΜΗΝΙΑ
+Line  89: ΑΝΑΘ.
+Line  90: ΣΗΜΕΙΩΣΕΙΣ ΠΕΡΙΓΡΑΦΗ
+Line  91: PREPAR
+Line  92: VERIFY
+Line  93: APROVAL
+Line  94: DATE
+Line  95: REV.
+Line  96: REMARK DESCRIPTION
+Line  97: PROJECT TITLE
+Line  98: TAG NUMBERS
+Line  99: ΕΤΙΚΕΤΑΣ
+Line 100: ATH04 DATA CENTER
+Line 101: DRAWING TITLE
+Line 102: DRAWING
+Line 103: ΑΡΙΘΜΟΣ ΣΧΕΔΙΟΥ
+Line 104: SCALE
+Line 105: ΚΛΙΜΑΚΑ
+Line 106: FORMAT
+Line 107: ΜΟΡΦΗ
+Line 108: FACILITY CODE
+Line 109: ΚΩΔ. ΕΓΚΑΤΑΣ.
+Line 110: SYSTEM
+Line 111: ΣΥΣΤΗΜΑΤΟΣ
+Line 112: SHEET
+Line 113: ΦΥΛΛΟ
+Line 114: RD CODE
+Line 115: ΚΩΔΙΚΟΣ RD
+Line 116: REVISION
+Line 117: ΑΝΑΘΕΩΡ.
+Line 118: ATH 04
+Line 119: JVRT
+Line 120: A. Koukouselis
+Line 121: Civil Engineer
+Line 122: Structural Engineer
+Line 123: Απόστολος Κουκουσέλης
+Line 124: Πολιτικός Μηχανικός
+Line 125: Πολιτικός Μηχανικός
+Line 126: PILE FOUNDATION ADMINISTRATION
+Line 127: BALLARD BUILDING
+Line 128: ΤΙΤΛΟΣ ΕΡΓΟΥ
+Line 129: ΤΙΤΛΟΣ ΣΧΕΔΙΟΥ
+Line 130: GENERAL NOTES CONSTRUCTION
+Line 131: STATIKI SA Structural Project Specification Architectural,
+Line 132: Civil, Mechanical Electrical General Notes ATH04 A 000
+Line 133: Refer
+Line 134: STATIKI SA
+Line 135: Work
+Line 136: Statutory Authorities.
+Line 137: CAST SITU CONCRETE
+Line 138: Cast Project Specification Greek Hellenic Code
+Line 139: Concrete Technology 2016 KTS 2016 ΤΠ 1501 01 01 01 00. Concrete
+Line 140: Summary Project Specification
+Line 141: Pile
+Line 142: Exposure EN
+Line 143: Concrete 45
+Line 144: Blinding
+Line 145: Concrete
+Line 146: Blinding
+Line 147: Ground
+Line 148: Exposure EN
+Line 149: Concrete 45
+Line 150: External
+Line 151: Exposure EN
+Line 152: Concrete
+Line 153: Refer Civil Specification
+Line 154: Cover Reinforcement Design Drawings.
+Line 155: Internal
+Line 156: Reinforcement
+Line 157: High EN 10080 Greek
+Line 158: KTX 2008
+Line 159: Lengths EN 1992
+Line 160: Spacers
+Line 161: Sufficient
+Line 162: Cover
+Line 163: Chairs,
+Line 164: Spacers
+Line 165: Spacers
+Line 166: Concrete Finishes EN 13670
+Line 167: Basic, Ordinary, Plain Special. Finishes
+Line 168: Concealed Ordinary Finish
+Line 169: Concealed Ordinary Finish
+Line 170: Exposed Plain Finish
+Line 171: Exposed Plain Finish
+Line 172: Internal, External,
+Line 173: Floors Floor Class Technical
+Line 174: Report Concrete Industrial Ground Floors A Guide Design Construction Concrete Society.
+Line 175: Concrete Hellenic Code Concrete Technology 2016 KTS 2016 ΤΠ 1501 01 01 01 00.
+Line 176: Exposed
+Line 177: Architect Floor Finishes Drawing Project Specification
+Line 178: Concrete Hellenic Code Concrete Technology 2016 KTS 2016 TΠ
+Line 179: 1501 01 01 02 00.
+Line 180: Steelwork
+Line 181: Contractor Concrete Contractor.
+Line 182: Concrete EN 12350
+Line 183: EN EN 12390.
+Line 184: Samples Density
+Line 185: LOT EN ISO IEC 17025
+Line 186: Engineer
+Line 187: Engineer Contractor
+Line 188: EN 12350 EN
+Line 189: 12350 EN 12350
+Line 190: MOVEMENT CONSTRUCTION JOINTS
+Line 191: Movement Ground Floor
+Line 192: Peikko TERAJOINT Movement
+Line 193: Ground Floor
+Line 194: Isolation
+Line 195: Contractor
+Line 196: EARTHWORKS FOUNDATIONS
+Line 197: Earthworks Project Specifications
+Line 198: Civil Geotechnical
+Line 199: Granular
+Line 200: ATH04 03
+Line 201: ATH04 04
+Line 202: Refer Project Specification
+Line 203: Ground Floor Ground Floor
+Line 204: Property
+Line 205: Property
+Line 206: Floor
+Line 207: Typical Floor
+Line 208: Property
+Line 209: Retail
+Line 210: Reach
+Line 211: Reach
+Line 212: Building Ground Floor Slab
+Line 213: Reinforcement Part
+Line 214: ATH04 056 SH
+Line 215: ATH04 056 SH 00
+Line 216: Κτίριο Ανάπτυγματα
+Line 217: Oπλισμοί Μέρος
+Line 218: 00
+Line 219: 00
+Line 220: Building Foundation Reinforcement Part
+Line 221: CONTINUATION SEE DRAWING ATH04 056 SH
+Line 222: CONTINUATION SEE DRAWING ATH04 056 SH
+Line 223: CONTINUATION SEE DRAWING ATH04 056 SH
+Line 224: IFA ISSUED APPROVAL
+Line 225: 02 2025
+
+=== END OF FILTERED TEXT ===
+Total lines: 226

@@ -1,0 +1,51 @@
+=== FILTERED TEXT FOR: A201-00.pdf ===
+
+Line   0: PARKING
+Line   1: ROOM
+Line   2: SHAFT
+Line   3: LIFT
+Line   4: STORAGE
+Line   5: SERVICE ROOM
+Line   6: SERVICE ROOM
+Line   7: SHAFT
+Line   8: ROOM
+Line   9: STORAGE
+Line  10: STAIRCASE
+Line  11: STORAGE
+Line  12: BASEMENT LOBBY
+Line  13: REVISIONS
+Line  14: CLIENT
+Line  15: PROJECT
+Line  16: DESIGN STAGE
+Line  17: DATE
+Line  18: SCALE
+Line  19: FILE NAME
+Line  20: DRAWING TITLE
+Line  21: DRAWING
+Line  22: TAHLIA WALK
+Line  23: VAPARCHITECTS
+Line  24: Street
+Line  25: Athens, GR
+Line  26: 00
+Line  27: DESIGN ARCHITECTS
+Line  28: STRUCTURAL ENGINEER
+Line  29: CONSULTANTS
+Line  30: MEP ENGINEER
+Line  31: STUDIO
+Line  32: Lycab
+Line  33: Athens, 47
+Line  34: 75
+Line  35: 72
+Line  36: ZAD DEVELOPMENT
+Line  37: 2016 09
+Line  38: Ceilng Plan
+Line  39: Basement
+Line  40: Project Status
+Line  41: Description
+Line  42: Date
+Line  43: First
+Line  44: 06
+Line  45: Ceiling Plan Basement
+
+=== END OF FILTERED TEXT ===
+Total lines: 46

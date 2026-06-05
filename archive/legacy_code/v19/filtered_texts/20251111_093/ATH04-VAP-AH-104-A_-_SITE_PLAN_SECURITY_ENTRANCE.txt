@@ -1,0 +1,106 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-104-A_-_SITE_PLAN_SECURITY_ENTRANCE.pdf ===
+
+Line   0: PRIMARY
+Line   1: ENTRANCE
+Line   2: SITE BOUNDARY
+Line   3: EASEMENT
+Line   4: SECURITY OFFSET
+Line   5: BOUNDARY OFFSET
+Line   6: BOUNDARY PALISADE FENCE HIGH
+Line   7: PAS PALISADE FENCE HIGH
+Line   8: PALISADE FENCE HIGH
+Line   9: PALISADE FENCE RETAINING WALL
+Line  10: HIGH PAS PALISADE FENCE HIGH
+Line  11: NON VEHICLE RATE PALISADE FENCE HIGH
+Line  12: NON VEHICLE RATED PALISADE FENCE
+Line  13: RETAINING WALL HIGH
+Line  14: PUBLIC SUBSTATION FENCE GATE OTHERS
+Line  15: SLIDING GATE
+Line  16: SWING GATE
+Line  17: TURNSTILE PEDESTRIAN
+Line  18: PEDESTRIAN SWING GATE
+Line  19: RISING ARM BARRIER PAS
+Line  20: GUARDRAIL HIGH
+Line  21: GUARDRAIL RETAINING WALL HIGH
+Line  22: SINGLE SIDED VEHICLE RESTRAINT BARRIER
+Line  23: RETAINING WALLS INDICATED,
+Line  24: REFER STR ENG. CIVIL ENG. DRAWINGS
+Line  25: VERTICAL SOIL NAILING INDICATED,
+Line  26: REFER CIVIL ENG. DRAWINGS
+Line  27: TREE OFFSET ZONE
+Line  28: TURNSTILE
+Line  29: GATES
+Line  30: BOLLARDS
+Line  31: FENCE GATE LEGEND
+Line  32: NOTE REFER CIVILS DRAWINGS
+Line  33: GROUND SURFACE FINISHES DETAILS
+Line  34: Sheet Title Number
+Line  35: Scale
+Line  36: Plan
+Line  37: Design Consultants
+Line  38: Microsoft
+Line  39: DATA CENTER ATH04
+Line  40: SPATA GREECE
+Line  41: Contractor Joint Venture
+Line  42: Name
+Line  43: Contractor Project
+Line  44: Contractor Contract
+Line  45: Contractor PM
+Line  46: Contractor BIM Mngr
+Line  47: Contractor Information
+Line  48: Renco Terna
+Line  49: Client
+Line  50: General Notes
+Line  51: Client Project
+Line  52: Client Contract
+Line  53: Client PM
+Line  54: Client BIM Mngr
+Line  55: Primary Client Information
+Line  56: Layout
+Line  57: Revision
+Line  58: Tombazi Chalandri
+Line  59: 15232
+Line  60: Athens Greece
+Line  61: 0800 3262
+Line  62: Agion Theodoron Square Athens
+Line  63: 10561
+Line  64: Athens Greece
+Line  65: Kimithois Agios Dimitrios
+Line  66: 17236
+Line  67: Athens Greece
+Line  68: Purpose Issue
+Line  69: Issue
+Line  70: Name
+Line  71: A
+Line  72: SITE PLAN SECURITY
+Line  73: ENTRANCE
+Line  74: ATH04 VAP AH A
+Line  75: STAFF VISITORS SMALL
+Line  76: VEHICLE ENTRY LANE ONLY
+Line  77: HGV VEHICLE ENTRY
+Line  78: LANE ONLY
+Line  79: VEHICLE EXIT LANE ONLY
+Line  80: PLOT BOUNDARY
+Line  81: PROPOSED SECURITY
+Line  82: FENCE LINE
+Line  83: EASEMENT LINE
+Line  84: SECURITY OFFSET
+Line  85: 5000
+Line  86: 10000
+Line  87: SCALE
+Line  88: SCALE
+Line  89: SECURITY ENTRANCE LAYOUT
+Line  90: GUARD HOUSE
+Line  91: ADMIN
+Line  92: COLO
+Line  93: COLO
+Line  94: TRUE NORTH
+Line  95: Date
+Line  96: Description
+Line  97: A
+Line  98: 04
+Line  99: Issued Approval
+Line 100: VAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 101

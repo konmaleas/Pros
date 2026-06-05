@@ -1,0 +1,168 @@
+=== FILTERED TEXT FOR: NCM-DD-ZZ-DR-ARC-3081-P1.pdf ===
+
+Line   0: ΙΣΟΓΕΙΟ
+Line   1: ΠΡΩΤΟ
+Line   2: ΔΕΥΤΕΡΟ
+Line   3: ΠΡΩΤΟ ΥΠΟΓΕΙΟ
+Line   4: ΔΕΥΤΕΡΟ ΥΠΟΓΕΙΟ
+Line   5: ΔΩΜΑΤΩΝ ΚΑΙ
+Line   6: ΔΩΜΑΤΩΝ
+Line   7: ΥΔΡΟΦΟΡΟΣ ΟΡΙΖΟΝΤΑΣ
+Line   8: ΜΑΡΓΑ
+Line   9: ΑΙΘΡΙΟ
+Line  10: ΠΛΑΤΕΙΑ
+Line  11: ΑΥΛΗ
+Line  12: ΠΡΑΝΕΣ ΠΡΟΣ ΦΥΤΕΥΣΗ
+Line  13: ΖΩΝΗ ΕΣΩΤΕΡΙΚΗΣ ΚΥΚΛΟΦΟΡΙΑΣ
+Line  14: 01 ARC Level
+Line  15: ΕΡΓΑΣΤΗΡΙΟ
+Line  16: ΚΑΤΑΣΚΕΥΗΣΗΣ
+Line  17: ΚΑΛΟΥΠΙΩΝ ΚΑΙ
+Line  18: ΧΥΤΕΥΣΗΣ
+Line  19: ΑΝΤΙΓΡΑΦΩΝ
+Line  20: WC ΓΥΝΑΙΚΩΝ
+Line  21: ΑΙΘΟΥΣΑ
+Line  22: ΠΡΟΓΡΑΜΜΑΤΩΝ
+Line  23: ΑΠ ΚΗ ΜΕΤΑΛΛΩΝ
+Line  24: ΑΡΧΕΙΟ ΜΟΥΣΕΙΟΥ
+Line  25: ΑΠΟΘΗΚΩΝ
+Line  26: ΑΠΟΘΗΚΩΝ
+Line  27: ΠΡΟΘΑΛΑΜΟΣ
+Line  28: ΚΛΙΜΑΚΟΣΤΑΣΙΟΥ
+Line  29: ΠΡΟΘΑΛΑΜΟΣ
+Line  30: ΚΛΙΜΑΚΟΣΤΑΣΙΟΥ
+Line  31: ΜΟΝΙΜΗ ΕΚΘΕΣΗ
+Line  32: ΚΥΠΡΟΣ
+Line  33: ΠΡΟΘΑΛΑΜΟΣ
+Line  34: ΚΛΙΜΑΚΟΣΤΑΣΙΟΥ
+Line  35: ΑΠΟΘΗΚΗ ΣΩΣΤΙΚΩΝ
+Line  36: ΑΝΑΣΚΑΦΩΝ
+Line  37: ΔΕΥΤΕΡΟ
+Line  38: ΙΣΟΓΕΙΟΥ
+Line  39: ΠΡΩΤΟ
+Line  40: ΜΟΝΙΜΗ ΕΚΘΕΣΗ II
+Line  41: SEA
+Line  42: ΧΩΡΟΣ ΕΠΙΣΚΕΠΤΩΝ
+Line  43: ΧΩΡΟΣ
+Line  44: ΕΓΚΑΤΑΣΤΑΣΕΩΝ
+Line  45: ΕΣΤΙΑΤΟΡΙΟ ΚΑΦΕ
+Line  46: ΚΚΜ
+Line  47: ΠΡΟΘΑΛΑΜΟΣ
+Line  48: ΚΛΙΜΑΚΟΣΤΑΣΙΟΥ
+Line  49: ΜΟΝΙΜΗ ΕΚΘΕΣΗ II
+Line  50: SEA
+Line  51: ΜΟΝΙΜΗ ΕΚΘΕΣΗ II
+Line  52: SEA
+Line  53: ΕΙΣΙΤΗΡΙΩΝ
+Line  54: WC ΓΥΝΑΙΚΩΝ
+Line  55: ΧΩΡΟΣ ΕΣΤΙΑΣΗΣ
+Line  56: ΕΡΓΑΣΤΗΡΙΟ
+Line  57: ΤΕΛΕΙΩΜΑΤΟΣ ΚΑΙ
+Line  58: ΒΑΦΗΣ ΑΝΤΙΓΡΑΦΩΝ
+Line  59: ΜΕΤΑΛΛΙΚΗ ΚΑΤΑΣΚΕΥΗ ΣΤΗΡΙΞΗΣ PANELS
+Line  60: ΟΓΚΟΣ SEA
+Line  61: ΥΠΕΥΘΥΝΟΥ ΕΡΓΟΥ
+Line  62: ΗΜΕΡΟΜΗΝΙΑ
+Line  63: ONOMA ΑΡΧΕΙΟΥ
+Line  64: ΛΕΥΚΩΣΙΑ ΚΥΠΡΟΣ
+Line  65: ΜΕΛΕΤΗ ΕΦΑΡΜΟΓΗΣ DD
+Line  66: ΝΕΟ ΚΥΠΡΙΑΚΟ ΜΟΥΣΕΙΟ
+Line  67: ΗΜΕΡΟΜΗΝΙΑ
+Line  68: ΕΓΚΡΙΘΗΚΕ
+Line  69: ΤΜΗΜΑ
+Line  70: ΗΜΕΡΟΜΗΝΙΑ
+Line  71: ΕΛΕΓΧΘΗΚΕ
+Line  72: ΤΜΗΜΑ
+Line  73: ΤΙΤΛΟΣ
+Line  74: ΥΠΟΒΟΛΗ
+Line  75: ΑΡ.
+Line  76: ΥΠΟΥΡΓΕΙΟ ΜΕΤΑΦΟΡΩΝ, ΕΠΙΚΟΙΝΩΝΙΩΝ ΚΑΙ ΕΡΓΩΝ
+Line  77: ΤΜΗΜΑ ΕΡΓΩΝ
+Line  78: KEY PLAN
+Line  79: ΗΜΕΡΟΜΗΝΙΑ
+Line  80: ΠΕΡΙΕΧΟΜΕΝΟ
+Line  81: ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΜΕΛΕΤΗ
+Line  82: THEONI XANTHI XZA LLC
+Line  83: ΥΠΕΥΘΥΝΟΣ ΕΡΓΟΥ
+Line  84: ΑΡΧΙΤΕΚΤΩΝ ΘΕΩΝΗ ΞΑΝΘΗ
+Line  85: ΑΡΧΙΤΕΚΤΟΝΕΣ
+Line  86: ΜΑΡΓΑΡΙΤΑ ΖΑΚΥΝΘΙΝΟΥ
+Line  87: ΣΥΝΤΟΝΙΣΤΗΣ ΑΡΧIT ΚΗΣ ΜΕΛΕΤΗΣ
+Line  88: ΚΟΣΜΑΣ ΒΑΡΚΑΡΟΛΗΣ
+Line  89: ΑΡΧΙΤΕΚΤΟΝΙΚΑ
+Line  90: YAP
+Line  91: ΣTATIKΑ
+Line  92: RHOMBUS STRUCTURAL ENGINEERS LLC ΣΤ.
+Line  93: PENELIS CONSULTING ENGINEERS SA ΠΕΝΕΛΗΣ
+Line  94: GEORGHIOU ZEMBYLAS PARTNERS
+Line  95: ΜΗΧΑΝΟΛΟΓΙΚA
+Line  96: ΗΛΕΚΤΡΟΛΟΓΙΚA
+Line  97: ΜΟΥΣΕΙΟΛΟΓΙΚA
+Line  98: THETA ACOUSTICS LTD ΝΙΑΟΥΝΑΚΗΣ
+Line  99: ΑΚΟΥΣΤΙΚA
+Line 100: RODITIS PARTNERS
+Line 101: ΕΠΙΜΕΤΡΗΣΗ ΠΟΣΟΤΗΤΩΝ
+Line 102: FLOROS PANTELI ASSOCIATES ΠΑΝΤΕΛΗ
+Line 103: ΥΓΕΙΑ
+Line 104: ΜΟΥΣΕΙΟΓΡΑΦΙΚA
+Line 105: ΘΩΜΑΣ ΤΣΟΥΚΑΛΑΣ
+Line 106: ΦΩΤΙΣΜΟΣ
+Line 107: DECO ASSOCIATES ΕΛ. ΝΤΕΚΩ
+Line 108: ΠΥΡΟΠΡΟΣΤΑΣΙΑ
+Line 109: INT FIRE CYPRUS LTD ΣΠ. ΣΠΥΡΟΥ
+Line 110: ΚΥΚΛΟΦΟΡΙΑΚΑ
+Line 111: DROMOS CONSULTING LTD ΖΕΚΚΟΣ
+Line 112: ΣΗΜΑΝΣΗ
+Line 113: POST SPECTACULAR OFFICE ΓΑΛΙΚΑΣ
+Line 114: ΚΤΗΡΙΟΥ
+Line 115: ARION PLUS
+Line 116: ΕΡΓΑΣΙΑΣ
+Line 117: ΜΕΛΕΤΗΣ
+Line 118: FEREOS LLC ΦΕΡΑΙΟΣ Αναπλ. Υπεύθυνος Οµάδας Έργου
+Line 119: DROMOS CONSULTING LTD ΖΕΚΚΟΣ
+Line 120: ΣΥΜΒΟΥΛΟΙ ΜΕΛΕΤΗΤΕΣ
+Line 121: ΓΕΩΤΕΧΝΙΚΑ
+Line 122: ΜΟΥΣΕΙΑΚΟΣ
+Line 123: XZA
+Line 124: ΒΑΣΙΛΕΙΟΥ
+Line 125: ΕΡΓΑΣΤΗΡΙΑ
+Line 126: ΩΡ
+Line 127: ΑΡΧΙΤΕΚΤΟΝΙΚΗ
+Line 128: ΚΛΙΜΑΚΑ
+Line 129: VAP Σύµβουλος Μελέτης Εφαρµογής
+Line 130: DR ARC
+Line 131: ΚΑΤΑΛΛΗΛΟΤΗΤΑΣ
+Line 132: NCM DD
+Line 133: Engineer Record
+Line 134: GEORGHIOU ZEMBYLAS PARTNERS
+Line 135: ANDREAS EVRIPIDOU CIVIL ENGINEERS
+Line 136: ΣΤΕΡΓΙΟΣ ΓΑΛΙΚΑΣ
+Line 137: ΘΩΜΑΣ ΤΣΟΥΚΑΛΑΣ
+Line 138: ΣΤΕΡΓΙΟΣ ΓΑΛΙΚΑΣ
+Line 139: Συνεργάτης ΤΣΑΜΠΙΚΟΣ ΠΕΤΡΑΣ
+Line 140: POST SPECTACULAR OFFICE ΓΑΛΙΚΑΣ
+Line 141: ΠΡΟΜΕΛΕΤΗ ΣΑΚΕΛΛΑΡΙΟΥ
+Line 142: ΦΥΣΙΚΟΣ ΦΩΤΙΣΜΟΣ
+Line 143: ΤΣΑΓΚΡΑΣΟΥΛΗΣ
+Line 144: ΕΞΟΠΛΙΣΜΟΣ ΚΟΥΖΙΝΑΣ
+Line 145: XENEX
+Line 146: ΕΝΕΡΓΕΙΑΚΑ ΚΕΛΥΦΟΥΣ
+Line 147: METABUILD
+Line 148: ΓΡΑΦΙΣΤΙΚΑ
+Line 149: ΦΥΤΟΤΕΧΝΙΚΑ
+Line 150: LANDCO EΠΕ ΚΑΝΤΑΡΤΖΗΣ
+Line 151: ΦΕΒΡΟΥΑΡΙΟΣ 2021
+Line 152: P1
+Line 153: 02 2021 45
+Line 154: ΤΟΜΕΣ ΘΘ ΑΝΤΙΘΕΤΗ ΖΩΝΗ
+Line 155: 3081
+Line 156: ZZ
+Line 157: ΤΟΜΗ ΘΘ
+Line 158: ΤΟΜΗ ΘΘ ΖΩΝΗ
+Line 159: ΖΩΝΗ
+Line 160: P1
+Line 161: 02 2021
+Line 162: Υποβολή
+
+=== END OF FILTERED TEXT ===
+Total lines: 163

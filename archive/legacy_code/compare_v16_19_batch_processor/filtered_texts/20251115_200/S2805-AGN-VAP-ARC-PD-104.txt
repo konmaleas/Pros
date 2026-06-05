@@ -1,0 +1,132 @@
+=== FILTERED TEXT FOR: S2805-AGN-VAP-ARC-PD-104.pdf ===
+
+Line   0: 2
+Line   1: 4
+Line   2: LOADING AREA
+Line   3: DC
+Line   4: OFFICES
+Line   5: DC
+Line   6: GUARD HOUSE
+Line   7: DC
+Line   8: PARKING SPACE
+Line   9: DC
+Line  10: CONTROL ROOM
+Line  11: DC
+Line  12: AI DATA HALL
+Line  13: DC
+Line  14: AI DATA HALL
+Line  15: DC
+Line  16: AI DATA HALL
+Line  17: DC
+Line  18: AI DATA HALL
+Line  19: DC
+Line  20: AI DATA HALL
+Line  21: DC
+Line  22: CLOUD DATA HALL
+Line  23: DC
+Line  24: CLOUD DATA HALL
+Line  25: DC
+Line  26: CLOUD DATA HALLL
+Line  27: DC
+Line  28: CLOUD DATA HALL
+Line  29: DC
+Line  30: CLOUD DATA HALL
+Line  31: DC
+Line  32: CLOUD DATA HALL
+Line  33: DC
+Line  34: CLOUD DATA HALL
+Line  35: DC
+Line  36: CLOUD DATA HALLL
+Line  37: DC
+Line  38: CLOUD DATA HALL
+Line  39: DC
+Line  40: CLOUD DATA HALL
+Line  41: DC
+Line  42: WAREHOUSE
+Line  43: DC
+Line  44: FFL
+Line  45: SSL
+Line  46: FFL
+Line  47: SSL
+Line  48: FFL
+Line  49: SSL
+Line  50: FFL
+Line  51: SSL
+Line  52: FFL
+Line  53: SSL
+Line  54: FFL
+Line  55: SSL
+Line  56: FFL
+Line  57: SSL
+Line  58: FFL
+Line  59: SSL
+Line  60: FFL
+Line  61: SSL
+Line  62: ΚΛΙΜΑΚΑ
+Line  63: SCALE
+Line  64: ΣΧΕΔΙΟ
+Line  65: ΕΡΓΟ
+Line  66: ΗΜΕΡΟΜΗΝΙΑ ΕΚΔΟΣΗΣ
+Line  67: FIRST ISSUE DATE
+Line  68: ΠΕΡΙΟΧΗ
+Line  69: ZONE
+Line  70: ISSUED
+Line  71: CONSTRUCTION
+Line  72: TENDER
+Line  73: APRROVAL
+Line  74: STATUS
+Line  75: DRAFT
+Line  76: FINAL
+Line  77: DISCIPLINE
+Line  78: ARC
+Line  79: ΑΝΑΘ.
+Line  80: REV.
+Line  81: PROJECT
+Line  82: DRAWING
+Line  83: ΕΡΓΟΔΟΤΗΣ
+Line  84: CLIENT
+Line  85: Τοmpazi, Χalandri Greece
+Line  86: 3262 30210 3269
+Line  87: ΚΛΕΙΔΑ
+Line  88: KEY PLAN
+Line  89: ΘΕΣΗ
+Line  90: LOCATION
+Line  91: AGIOS DIMITRIOS KOZANI, GREECE
+Line  92: ΑΡΧΙΤΕΚΤΟΝIKH ΜΕΛΕΤΗ
+Line  93: ARCHITECTURAL DESIGN
+Line  94: ΣΤΑΤΙΚΗ ΜΕΛΕΤΗ
+Line  95: STRUCTURAL DESIGN
+Line  96: ΜΗΧΑΝΟΛΟΓΙΚΗ ΜΕΛΕΤΗ
+Line  97: MEP DESIGN
+Line  98: Anargyrountos 16672, Vari
+Line  99: 30210 4395 30210 4637
+Line 100: NSZ
+Line 101: Filolaou Ilioupolis 16342 Athens
+Line 102: Greece
+Line 103: 30210
+Line 104: ΜΕΛΕΤΗ
+Line 105: DISCIPLINE
+Line 106: ARCHITECTURAL
+Line 107: STAGE 2 CONCEPT
+Line 108: ΣΤΑΔΙΟ
+Line 109: STAGE
+Line 110: ΚΗΜ
+Line 111: LITHOS
+Line 112: VASSILIS ALEXANDROS POUTETSIS
+Line 113: ARCHITECTS ASSOCIATES IKE
+Line 114: 2025
+Line 115: DATA CENTER COMPLEX
+Line 116: PHASE
+Line 117: TOTAL CAPACITY MV
+Line 118: ΑΝΑΘΕΩΡΗΣΕΙΣ REVISIONS
+Line 119: ΠΕΡΙΓΡΑΦΗ DESCRIPTION
+Line 120: ΗΜ ΝΙΑ DATE
+Line 121: DC
+Line 122: DC
+Line 123: DC
+Line 124: 00
+Line 125: DC
+Line 126: ROOF PLAN
+
+=== END OF FILTERED TEXT ===
+Total lines: 127

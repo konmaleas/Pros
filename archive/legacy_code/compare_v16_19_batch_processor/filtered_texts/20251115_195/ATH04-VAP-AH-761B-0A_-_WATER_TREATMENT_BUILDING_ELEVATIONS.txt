@@ -1,0 +1,206 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-761B-0A_-_WATER_TREATMENT_BUILDING_ELEVATIONS.pdf ===
+
+Line   0: ELEV
+Line   1: ELEV
+Line   2: ELEV
+Line   3: ELEV
+Line   4: FFL
+Line   5: Roof Ridge Level
+Line   6: 2
+Line   7: 4
+Line   8: Parapet Level
+Line   9: Roof Eaves Level
+Line  10: 30150
+Line  11: 6583
+Line  12: 1200
+Line  13: 1200
+Line  14: 1200
+Line  15: 1200
+Line  16: 1200
+Line  17: 6583
+Line  18: 30150
+Line  19: EWC
+Line  20: RFS
+Line  21: 6583
+Line  22: 13570
+Line  23: 16580
+Line  24: Polyester
+Line  25: LOUVRE
+Line  26: WT 08
+Line  27: PANEL JOINT
+Line  28: FFL
+Line  29: Roof Ridge Level
+Line  30: 2
+Line  31: 4
+Line  32: Parapet Level
+Line  33: Roof Eaves Level
+Line  34: 30150
+Line  35: 1200
+Line  36: 1200
+Line  37: 1200
+Line  38: 1200
+Line  39: 1200
+Line  40: EWC
+Line  41: 14320
+Line  42: 15830
+Line  43: RFS
+Line  44: WT 07
+Line  45: WT 06
+Line  46: Tank Level
+Line  47: RWS
+Line  48: RWS
+Line  49: Polyester
+Line  50: PANEL JOINT
+Line  51: 4154
+Line  52: 2429
+Line  53: 5250
+Line  54: 5250
+Line  55: 11250
+Line  56: 1200
+Line  57: 1200
+Line  58: 1200
+Line  59: 1200
+Line  60: 1200
+Line  61: WT 05
+Line  62: WT 04
+Line  63: DRS
+Line  64: DRS
+Line  65: 6583
+Line  66: EWC
+Line  67: EWC
+Line  68: 4183
+Line  69: WT 03
+Line  70: DRS
+Line  71: 3111
+Line  72: 1177
+Line  73: 2392
+Line  74: 1177
+Line  75: 701
+Line  76: 1177
+Line  77: 1516
+Line  78: 3623
+Line  79: 7627
+Line  80: RWS
+Line  81: Polyester
+Line  82: LOUVRE
+Line  83: LOUVRE
+Line  84: PANEL JOINT
+Line  85: 11250
+Line  86: 4183
+Line  87: 2400
+Line  88: 6583
+Line  89: 6583
+Line  90: 5250
+Line  91: 5250
+Line  92: 1200
+Line  93: 1200
+Line  94: 1200
+Line  95: 1200
+Line  96: 1200
+Line  97: 6506
+Line  98: 1177
+Line  99: 3567
+Line 100: 4154
+Line 101: 2429
+Line 102: DRS
+Line 103: WT 01
+Line 104: EWC
+Line 105: RFS
+Line 106: 5471
+Line 107: 5779
+Line 108: WT 02
+Line 109: RWS
+Line 110: Polyester
+Line 111: LOUVRE
+Line 112: PANEL JOINT
+Line 113: Sheet Title Number
+Line 114: Scale
+Line 115: Plan
+Line 116: Design Consultants
+Line 117: Microsoft
+Line 118: DATA CENTER
+Line 119: SPATA GREECE
+Line 120: Contractor Joint Venture
+Line 121: Name
+Line 122: Contractor Project
+Line 123: Contractor Contract
+Line 124: Contractor PM
+Line 125: Contractor BIM Mngr
+Line 126: Contractor Information
+Line 127: Renco Terna
+Line 128: Client
+Line 129: General Notes
+Line 130: Client Project
+Line 131: Client Contract
+Line 132: Client PM
+Line 133: Client BIM Mngr
+Line 134: Primary Client Information
+Line 135: Layout
+Line 136: Revision
+Line 137: Tombazi Chalandri
+Line 138: 15232
+Line 139: Athens Greece
+Line 140: 0800 3262
+Line 141: Agion Theodoron Square Athens
+Line 142: 10561
+Line 143: Athens Greece
+Line 144: Kimithois Agios Dimitrios
+Line 145: 17236
+Line 146: Athens Greece
+Line 147: Purpose Issue
+Line 148: Issue
+Line 149: Name
+Line 150: WATER TREATMENT BUILDING
+Line 151: ELEVATIONS
+Line 152: VAP AH
+Line 153: SCALE
+Line 154: NORTH ELEVATION
+Line 155: SCALE
+Line 156: SOUTH ELEVATION
+Line 157: 2
+Line 158: 1250
+Line 159: 2500
+Line 160: SCALE
+Line 161: SCALE
+Line 162: EAST ELEVATION
+Line 163: SCALE
+Line 164: WEST ELEVATION
+Line 165: 4
+Line 166: Water Treatment Building Keynote Sheet
+Line 167: Value
+Line 168: Descrìption
+Line 169: AM 471
+Line 170: External Proprietary Flat Fixed
+Line 171: Fixed Mild
+Line 172: DRS
+Line 173: External High
+Line 174: Design Drawings Door Schedule. Core Construction
+Line 175: Steel Employer. Ironmongery
+Line 176: Door Schedule Hardware Schedule.
+Line 177: EWC
+Line 178: Composite Composite
+Line 179: Design Drawings,
+Line 180: Panel External Employer.
+Line 181: IWS
+Line 182: Internal Internal
+Line 183: Steel Employer.
+Line 184: RFS
+Line 185: Exhaust Pressed Design Drawings.
+Line 186: RWS
+Line 187: Aluminum Heavy Design Drawings
+Line 188: ADMIN
+Line 189: COLO
+Line 190: COLO 2
+Line 191: 2
+Line 192: 4
+Line 193: 2
+Line 194: 4
+Line 195: TRUE NORTH
+Line 196: Date
+Line 197: Description
+Line 198: 06
+Line 199: Issued Approval
+Line 200: VAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 201

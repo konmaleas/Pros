@@ -1,0 +1,23 @@
+=== FILTERED TEXT FOR: Λ115-00.pdf ===
+
+Line   0: 2
+Line   1: TOIXIO
+Line   2: KONIAMA
+Line   3: TZINETIA
+Line   4: 4
+Line   5: KONIAMA
+Line   6: 2017
+Line   7: 2 2 2
+Line   8: 2 2 2
+Line   9: 2
+Line  10: 4
+Line  11: 05
+Line  12: 04
+Line  13: 03
+Line  14: 02
+Line  15: 01
+Line  16: 10439
+Line  17: 2017
+
+=== END OF FILTERED TEXT ===
+Total lines: 18

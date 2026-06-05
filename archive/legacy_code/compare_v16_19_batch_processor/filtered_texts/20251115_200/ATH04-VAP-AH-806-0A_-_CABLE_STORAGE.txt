@@ -1,0 +1,179 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-806-0A_-_CABLE_STORAGE.pdf ===
+
+Line   0: GL
+Line   1: CEILING LEVEL
+Line   2: CABLE
+Line   3: STORAGE
+Line   4: 00 041
+Line   5: PREFINISHED STEEL
+Line   6: FIREMASTER WALLS
+Line   7: POWER FLOATED
+Line   8: CONCRETE SEALED
+Line   9: ASHFORD FORMULA SEALER
+Line  10: CEILING TYPE UNDERSIDE
+Line  11: METAL DECK
+Line  12: ID AD 049
+Line  13: WT
+Line  14: WT
+Line  15: WT
+Line  16: LT MEDITE LINER
+Line  17: 1525
+Line  18: GL
+Line  19: CEILING LEVEL
+Line  20: CABLE
+Line  21: STORAGE
+Line  22: 00 041
+Line  23: WT
+Line  24: POWER FLOATED
+Line  25: CONCRETE SEALED
+Line  26: ASHFORD FORMULA SEALER
+Line  27: VINYL COVED UPSTAND
+Line  28: PREFINISHED STEEL
+Line  29: FIREMASTER WALLS
+Line  30: CEILING TYPE UNDERSIDE
+Line  31: METAL DECK
+Line  32: 1525
+Line  33: LT MEDITE LINER
+Line  34: WT
+Line  35: GL
+Line  36: CEILING LEVEL
+Line  37: CABLE
+Line  38: STORAGE
+Line  39: 00 041
+Line  40: POWER FLOATED
+Line  41: CONCRETE SEALED
+Line  42: ASHFORD FORMULA SEALER
+Line  43: VINYL COVED UPSTAND
+Line  44: CEILING TYPE UNDERSIDE
+Line  45: METAL DECK
+Line  46: WT
+Line  47: WT
+Line  48: LT MEDITE LINER
+Line  49: 1525
+Line  50: PREFINISHED STEEL
+Line  51: FIREMASTER WALLS
+Line  52: GL
+Line  53: CEILING LEVEL
+Line  54: CABLE
+Line  55: STORAGE
+Line  56: 00 041
+Line  57: WT
+Line  58: CEILING TYPE UNDERSIDE
+Line  59: METAL DECK
+Line  60: POWER FLOATED
+Line  61: CONCRETE SEALED
+Line  62: ASHFORD FORMULA SEALER
+Line  63: VINYL COVED UPSTAND
+Line  64: PREFINISHED STEEL
+Line  65: FIREMASTER WALLS
+Line  66: LT MEDITE LINER
+Line  67: WT
+Line  68: 4
+Line  69: 2
+Line  70: CABLE
+Line  71: STORAGE
+Line  72: 00 041
+Line  73: POWER FLOATED
+Line  74: CONCRETE SEALED
+Line  75: ASHFORD FORMULA SEALER
+Line  76: ID AD 049
+Line  77: 6340
+Line  78: 2690
+Line  79: 750
+Line  80: 1880
+Line  81: 6150
+Line  82: LT
+Line  83: WT
+Line  84: LT
+Line  85: WT
+Line  86: LT
+Line  87: WT
+Line  88: LT
+Line  89: WT
+Line  90: NOTE
+Line  91: WALL TYPE LEGEND DRAWING
+Line  92: ADMIN
+Line  93: COLO
+Line  94: COLO 2
+Line  95: 2
+Line  96: 4
+Line  97: 2
+Line  98: 4
+Line  99: TRUE NORTH
+Line 100: Sheet Title Number
+Line 101: Scale
+Line 102: Plan
+Line 103: Design Consultants
+Line 104: Microsoft
+Line 105: DATA CENTER
+Line 106: SPATA GREECE
+Line 107: Contractor Joint Venture
+Line 108: Name
+Line 109: Contractor Project
+Line 110: Contractor Contract
+Line 111: Contractor PM
+Line 112: Contractor BIM Mngr
+Line 113: Contractor Information
+Line 114: Renco Terna
+Line 115: Client
+Line 116: General Notes
+Line 117: Client Project
+Line 118: Client Contract
+Line 119: Client PM
+Line 120: Client BIM Mngr
+Line 121: Primary Client Information
+Line 122: Layout
+Line 123: Revision
+Line 124: Tombazi Chalandri
+Line 125: 15232
+Line 126: Athens Greece
+Line 127: 0800 3262
+Line 128: Agion Theodoron Square Athens
+Line 129: 10561
+Line 130: Athens Greece
+Line 131: Kimithois Agios Dimitrios
+Line 132: 17236
+Line 133: Athens Greece
+Line 134: Purpose Issue
+Line 135: Issue
+Line 136: Name
+Line 137: CABLE STORAGE
+Line 138: VAP AH
+Line 139: SCALE
+Line 140: 05 CABLE STORAGE ELEVATION NORTH
+Line 141: SCALE
+Line 142: 05 CABLE STORAGE ELEVATION EAST
+Line 143: 2
+Line 144: SCALE
+Line 145: 05 CABLE STORAGE ELEVATION SOUTH
+Line 146: SCALE
+Line 147: 05 CABLE STORAGE ELEVATION WEST
+Line 148: 4
+Line 149: SCALE
+Line 150: 05 CABLE STORAGE FLOOR PLAN
+Line 151: SCALE
+Line 152: 05 CABLE STORAGE VIEW
+Line 153: 1000
+Line 154: SCALE
+Line 155: Equipment Schedule Cable Storage
+Line 156: Count
+Line 157: Description
+Line 158: Room Name
+Line 159: Room Number
+Line 160: 4
+Line 161: 2400 BULK RACK
+Line 162: CABLE
+Line 163: STORAGE
+Line 164: 00 041
+Line 165: DOUBLE LEAF, INTERIOR DOOR
+Line 166: CABLE
+Line 167: STORAGE
+Line 168: 00 041
+Line 169: Date
+Line 170: Description
+Line 171: 04
+Line 172: Issued Approval
+Line 173: VAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 174

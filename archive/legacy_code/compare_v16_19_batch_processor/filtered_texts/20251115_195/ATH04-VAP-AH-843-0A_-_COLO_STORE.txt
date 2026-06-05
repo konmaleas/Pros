@@ -1,0 +1,188 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-843-0A_-_COLO_STORE.pdf ===
+
+Line   0: 2
+Line   1: 4
+Line   2: YD
+Line   3: 00 056
+Line   4: COLO STORE
+Line   5: COLO STORE
+Line   6: POWER FLOATED
+Line   7: CONCRETE SEALED
+Line   8: ASHFORD FORMULA SEALER
+Line   9: WT 4
+Line  10: WT 4
+Line  11: 451
+Line  12: 1280
+Line  13: 456
+Line  14: WT
+Line  15: WT 4
+Line  16: ID AD 042
+Line  17: 3202
+Line  18: 77
+Line  19: GL
+Line  20: CEILING LEVEL
+Line  21: YD
+Line  22: 3500
+Line  23: WT
+Line  24: CEILING TYPE 04 ARMSTRONG
+Line  25: PRIMA DUNE
+Line  26: ASSOCIATED GRID SUPPORT
+Line  27: WT 4
+Line  28: WT 4
+Line  29: ID AD 042
+Line  30: CEILING HEIGHT
+Line  31: 3500
+Line  32: POWER FLOATED
+Line  33: CONCRETE SEALED
+Line  34: ASHFORD FORMULA SEALER
+Line  35: PAINTED GYPSUM BOARD
+Line  36: WALLS, COAT PRIMER 2
+Line  37: COATS DIAMOND MATT LATEXT
+Line  38: FINISH RAL 9010 PURE
+Line  39: WHITE
+Line  40: COLO STORE
+Line  41: 00 056
+Line  42: GL
+Line  43: CEILING LEVEL
+Line  44: 3500
+Line  45: WT 4
+Line  46: WT 4
+Line  47: CEILING TYPE 04 ARMSTRONG
+Line  48: PRIMA DUNE
+Line  49: ASSOCIATED GRID SUPPORT
+Line  50: COLO STORE
+Line  51: 00 056
+Line  52: PAINTED GYPSUM BOARD
+Line  53: WALLS, COAT PRIMER 2
+Line  54: COATS DIAMOND MATT LATEXT
+Line  55: FINISH RAL 9010 PURE
+Line  56: WHITE
+Line  57: POWER FLOATED
+Line  58: CONCRETE SEALED
+Line  59: ASHFORD FORMULA SEALER
+Line  60: WT
+Line  61: GL
+Line  62: CEILING LEVEL
+Line  63: 3500
+Line  64: YD
+Line  65: CEILING TYPE 2
+Line  66: PLASTERBOARD CEILING
+Line  67: PAINTED FINISH MOISTURE
+Line  68: RESISTANT
+Line  69: PLASTERBOARD WET
+Line  70: ROOMS
+Line  71: WT
+Line  72: WT 4
+Line  73: WT 4
+Line  74: POWER FLOATED
+Line  75: CONCRETE SEALED
+Line  76: ASHFORD FORMULA SEALER
+Line  77: PAINTED GYPSUM BOARD
+Line  78: WALLS, COAT PRIMER 2
+Line  79: COATS DIAMOND MATT LATEXT
+Line  80: FINISH RAL 9010 PURE
+Line  81: WHITE
+Line  82: COLO STORE
+Line  83: 00 056
+Line  84: ID AD 042
+Line  85: GL
+Line  86: CEILING LEVEL
+Line  87: ID AD 042
+Line  88: 3500
+Line  89: WT 4
+Line  90: WT 4
+Line  91: CEILING TYPE 04 ARMSTRONG
+Line  92: PRIMA DUNE
+Line  93: ASSOCIATED GRID SUPPORT
+Line  94: COLO STORE
+Line  95: 00 056
+Line  96: POWER FLOATED
+Line  97: CONCRETE SEALED
+Line  98: ASHFORD FORMULA SEALER
+Line  99: PAINTED GYPSUM BOARD
+Line 100: WALLS, COAT PRIMER 2
+Line 101: COATS DIAMOND MATT LATEXT
+Line 102: FINISH RAL 9010 PURE
+Line 103: WHITE
+Line 104: WT 4
+Line 105: NOTE
+Line 106: WALL TYPE LEGEND REFER DRAWING
+Line 107: ADMIN
+Line 108: COLO
+Line 109: COLO 2
+Line 110: 2
+Line 111: 4
+Line 112: 2
+Line 113: 4
+Line 114: TRUE NORTH
+Line 115: Sheet Title Number
+Line 116: Scale
+Line 117: Plan
+Line 118: Design Consultants
+Line 119: Microsoft
+Line 120: DATA CENTER
+Line 121: SPATA GREECE
+Line 122: Contractor Joint Venture
+Line 123: Name
+Line 124: Contractor Project
+Line 125: Contractor Contract
+Line 126: Contractor PM
+Line 127: Contractor BIM Mngr
+Line 128: Contractor Information
+Line 129: Renco Terna
+Line 130: Client
+Line 131: General Notes
+Line 132: Client Project
+Line 133: Client Contract
+Line 134: Client PM
+Line 135: Client BIM Mngr
+Line 136: Primary Client Information
+Line 137: Layout
+Line 138: Revision
+Line 139: Tombazi Chalandri
+Line 140: 15232
+Line 141: Athens Greece
+Line 142: 0800 3262
+Line 143: Agion Theodoron Square Athens
+Line 144: 10561
+Line 145: Athens Greece
+Line 146: Kimithois Agios Dimitrios
+Line 147: 17236
+Line 148: Athens Greece
+Line 149: Purpose Issue
+Line 150: Issue
+Line 151: Name
+Line 152: COLO STORE
+Line 153: VAP AH
+Line 154: SCALE
+Line 155: COLO STORE
+Line 156: SCALE
+Line 157: COLO STORE VIEW
+Line 158: 1000
+Line 159: SCALE
+Line 160: SCALE
+Line 161: COLO STORE ELEVATION
+Line 162: SCALE
+Line 163: COLO STORE ELEVATION 2
+Line 164: SCALE
+Line 165: COLO STORE ELEVATION
+Line 166: SCALE
+Line 167: COLO STORE ELEVATION 4
+Line 168: EQUIPMENT SCHEDULE COLO STORE
+Line 169: Count
+Line 170: Code
+Line 171: Description
+Line 172: Room Name
+Line 173: Room Number
+Line 174: 2
+Line 175: BULK RACK 1800
+Line 176: COLO STORE
+Line 177: 00 056
+Line 178: Date
+Line 179: Description
+Line 180: 04
+Line 181: Issued Approval
+Line 182: VAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 183

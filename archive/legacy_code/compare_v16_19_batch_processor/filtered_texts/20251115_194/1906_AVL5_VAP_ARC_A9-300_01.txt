@@ -1,0 +1,424 @@
+=== FILTERED TEXT FOR: 1906_AVL5_VAP_ARC_A9-300_01.pdf ===
+
+Line   0: ΣΩΛΗΝΩΣΕΙΣ ΕΝΔΟΔΑΠΕΔΙΑΣ
+Line   1: ΠΑΤΗΤΗ ΤΣΙΜΕΝΤΟΚΟΝΙΑ
+Line   2: ΑΚΡΥΛΙΚΟ ΓΑΛΑΚΤΩΜΑ ΑΣΤΑΡΙ
+Line   3: ΘΕΡΜΟΜΠΕΤΟΝ
+Line   4: ΠΛΕΓΜΑ
+Line   5: ΦΥΛΛΟ ΠΟΛΥΑΙΘΥΛΕΝΙΟΥ
+Line   6: ΕΞΗΛΑΣΜΕΝΗ ΠΟΛΥΣΤΕΡΙΝΗ
+Line   7: TΣΙΜΕΝΤΟΚΟΝΙΑ ΕΞΟΜΑΛΥΝΣΗΣ
+Line   8: KΑΤΑΛΛΗΛΗ ΓΙΑ ΕΝΔΟΔΑΠΕΔΙΑ
+Line   9: ΘΕΡΜΑΝΣΗ
+Line  10: EΛΑΣΤΟΠΛΑΣΤΙΚΗ ΑΚΡΥΛΙΚΗ
+Line  11: ΜΑΣΤΙΧΗ ΣΤΗΝ ΕΝΩΣΗ ΤΩΝ ΔΥΟ
+Line  12: ΥΛΙΚΩΝ
+Line  13: EΣΩΤΕΡΙΚΟΣ ΣΟΒΑΣ
+Line  14: ΦΥΛΛΟ ΑΦΡΩΔΟΥΣ ΕΞΗΛΑΣΜΕΝΟΥ
+Line  15: ΠΟΛΥΑΙΘΥΛΕΝΙΟΥ ΤΥΠΟΥ
+Line  16: ETHAFOAM
+Line  17: ΣΩΛΗΝΩΣΕΙΣ ΕΝΔΟΔΑΠΕΔΙΑΣ
+Line  18: ΧΥΤΟ ΜΩΣΑΪΚΟ
+Line  19: ΣΤΕΓΑΝΩΤΙΚΗ ΜΕΜΒΡΑΝΗ
+Line  20: ΤΣΙΜΕΝΤΟΕΙΔΟΥΣ ΒΑΣΗΣ
+Line  21: ΘΕΡΜΟΜΠΕΤΟΝ
+Line  22: ΠΛΕΓΜΑ
+Line  23: ΦΥΛΛΟ ΠΟΛΥΑΙΘΥΛΕΝΙΟΥ
+Line  24: ΕΞΗΛΑΣΜΕΝΗ ΠΟΛΥΣΤΕΡΙΝΗ
+Line  25: ΣΦΡΑΓΙΣΤΙΚΗ ΤΑΙΝΙΑ
+Line  26: EΛΑΣΤΟΠΛΑΣΤΙΚΗ ΑΚΡΥΛΙΚΗ
+Line  27: ΜΑΣΤΙΧΗ ΣΤΗΝ ΕΝΩΣΗ ΤΩΝ ΔΥΟ
+Line  28: ΥΛΙΚΩΝ
+Line  29: ΑΡΓIΛΙΚΗ ΜΑΡΜΑΡΟΚΟΝΙΑ
+Line  30: EΣΩΤΕΡΙΚΟΣ ΣΟΒΑΣ
+Line  31: ΦΥΛΛΟ ΑΦΡΩΔΟΥΣ ΕΞΗΛΑΣΜΕΝΟΥ
+Line  32: ΠΟΛΥΑΙΘΥΛΕΝΙΟΥ ΤΥΠΟΥ
+Line  33: ETHAFOAM
+Line  34: ΠΑΤΗΤΗ ΤΣΙΜΕΝΤΟΚΟΝΙΑ
+Line  35: ΑΚΡΥΛΙΚΟ ΓΑΛΑΚΤΩΜΑ ΑΣΤΑΡΙ
+Line  36: ΓΑΡΜΠΙΛΟΜΠΕΤΟΝ
+Line  37: ΠΛΕΓΜΑ
+Line  38: TΣΙΜΕΝΤΟΚΟΝΙΑ ΕΞΟΜΑΛΥΝΣΗΣ
+Line  39: EΛΑΣΤΟΠΛΑΣΤΙΚΗ ΑΚΡΥΛΙΚΗ
+Line  40: ΜΑΣΤΙΧΗ ΣΤΗΝ ΕΝΩΣΗ ΤΩΝ ΔΥΟ
+Line  41: ΥΛΙΚΩΝ
+Line  42: EΣΩΤΕΡΙΚΟΣ ΣΟΒΑΣ
+Line  43: ΧΥΤΟ ΜΩΣΑΪΚΟ
+Line  44: ΣΤΕΓΑΝΩΤΙΚΗ ΜΕΜΒΡΑΝΗ
+Line  45: ΤΣΙΜΕΝΤΟΕΙΔΟΥΣ ΒΑΣΗΣ
+Line  46: ΓΑΡΜΠΙΛΟΜΠΕΤΟΝ
+Line  47: ΠΛΕΓΜΑ
+Line  48: ΣΦΡΑΓΙΣΤΙΚΗ ΤΑΙΝΙΑ
+Line  49: EΛΑΣΤΟΠΛΑΣΤΙΚΗ ΑΚΡΥΛΙΚΗ
+Line  50: ΜΑΣΤΙΧΗ ΣΤΗΝ ΕΝΩΣΗ ΤΩΝ ΔΥΟ
+Line  51: ΥΛΙΚΩΝ
+Line  52: ΑΡΓIΛΙΚΗ ΜΑΡΜΑΡΟΚΟΝΙΑ
+Line  53: EΣΩΤΕΡΙΚΟΣ ΣΟΒΑΣ
+Line  54: ΣΩΛΗΝΩΣΕΙΣ ΕΝΔΟΔΑΠΕΔΙΑΣ
+Line  55: ΚΟΛΛΗΤΟ ΞΥΛΙΝΟ ΔΑΠΕΔΟ
+Line  56: ΑΥΤΟΕΠΙΠΕΔΟΥΜΕΝΟ ΚΟΝΙΑΜΑ
+Line  57: ΤΣΙΜΕΝΤΟΕΙΔΟΥΣ ΒΑΣΗΣ
+Line  58: ΘΕΡΜΟΜΠΕΤΟΝ
+Line  59: ΠΛΕΓΜΑ
+Line  60: ΦΥΛΛΟ ΠΟΛΥΑΙΘΥΛΕΝΙΟΥ
+Line  61: ΕΞΗΛΑΣΜΕΝΗ ΠΟΛΥΣΤΕΡΙΝΗ
+Line  62: ΣΦΡΑΓΙΣΤΙΚΗ ΤΑΙΝΙΑ
+Line  63: EΣΩΤΕΡΙΚΟΣ ΣΟΒΑΣ
+Line  64: ΦΥΛΛΟ ΑΦΡΩΔΟΥΣ ΕΞΗΛΑΣΜΕΝΟΥ
+Line  65: ΠΟΛΥΑΙΘΥΛΕΝΙΟΥ ΤΥΠΟΥ
+Line  66: ETHAFOAM
+Line  67: 70
+Line  68: ΞΥΛΙΝΟ ΣΟΒΑΤΕΠΙ
+Line  69: ΣΥΝΑΡΜΟΓΗ ΕΣΩΤΕΡΙΚΟΥ ΣΟΒΑ ΜΕ ΠΑΤΗΤΗ ΤΣΙΜΕΝΤΟΚΟΝΙΑ
+Line  70: ΚΛΙΜΑΚΑ
+Line  71: ΣΥΝΑΡΜΟΓΗ ΜΑΡΜΑΡΟΚΟΝΙΑΣ ΜΕ ΜΩΣΑΪΚΟ TERRAZZO
+Line  72: 2
+Line  73: ΚΛΙΜΑΚΑ
+Line  74: ΣΥΝΑΡΜΟΓΗ ΕΣΩΤΕΡΙΚΟΥ ΣΟΒΑ ΜΕ ΞΥΛΙΝΟ ΔΑΠΕΔΟ
+Line  75: ΚΛΙΜΑΚΑ
+Line  76: ΣΥΝΑΡΜΟΓΗ ΜΑΡΜΑΡΟΚΟΝΙΑΣ ΜΕ ΜΩΣΑΪΚΟ TERRAZZO ΣΕ ΝΤΟΥΣ
+Line  77: ΚΛΙΜΑΚΑ
+Line  78: ΑΥΛΑΚΙΑ ΑΝΤΙΠΑΡΟΣ
+Line  79: AVLAKIA ANTIPAROS
+Line  80: RESIDENCE ANTIPAROS
+Line  81: PATSILERO
+Line  82: ΠΕΡΙΓΡΑΦΗ
+Line  83: DESCRIPTION
+Line  84: ΗΜ ΝΙΑ
+Line  85: REVISION DATE
+Line  86: Νaxou Kifisia, Greece
+Line  87: 4217 6976
+Line  88: ERISMA
+Line  89: Patision Athens, Greece
+Line  90: TETRAS
+Line  91: Tompazi Chalandri Greece
+Line  92: 3262 3269
+Line  93: 79 Suga Shinjuku Tokyo, 0018 Japan
+Line  94: ATELIER BOW WOW
+Line  95: Apollonos Athens, Greece
+Line  96: 6770 3233 419
+Line  97: DOXIADIS PLUS
+Line  98: ΚΛΙΜΑΚΑ
+Line  99: SCALE
+Line 100: ΣΧΕΔΙΟ
+Line 101: ΕΡΓΟ
+Line 102: ΕΡΓΟΔΟΤΗΣ
+Line 103: ΗΜΕΡΟΜΗΝΙΑ ΕΚΔΟΣΗΣ
+Line 104: FIRST ISSUE DATE
+Line 105: DETAILED DESIGN
+Line 106: KAT. ΣΧΕΔΙΟΥ
+Line 107: BLD. CATEGORY
+Line 108: ISSUED
+Line 109: ΘΕΣΗ ΕΡΓΟΥ
+Line 110: CONSTR.
+Line 111: APPROVAL
+Line 112: TENDER
+Line 113: STATUS
+Line 114: DRAFT
+Line 115: FINAL
+Line 116: ΑΝΑΘ.
+Line 117: REV.
+Line 118: PROJECT
+Line 119: LOCATION
+Line 120: CLIENT
+Line 121: DRAWING
+Line 122: ΚΗΠΟΤΕΧΝΙΚΗ ΜΕΛΕΤΗ
+Line 123: LANDSCAPE DESIGN
+Line 124: ΜΗΧΑΝΟΛΟΓΙΚΗ ΜΕΛΕΤΗ
+Line 125: MEP ENGINEER
+Line 126: ΣΤΑΤΙΚΗ ΜΕΛΕΤΗ
+Line 127: STRUCTURAL ENGINEER
+Line 128: ΑΡΧΙΤΕΚΤΟΝΑΣ ΕΡΓΟΥ
+Line 129: ARCHITECTURAL DESIGN
+Line 130: ΕΚΤΕΛΕΣΗ ΑΡΧΙΤΕΚΤΟΝΙΚΗΣ
+Line 131: ΜΕΛΕΤΗΣ ΕΠΙΒΛΕΨΗ
+Line 132: EXECUTIVE ARCHITECT
+Line 133: SITE SUPERVISOR
+Line 134: DISCIPLINE
+Line 135: ARC
+Line 136: VAP
+Line 137: FITTINGS
+Line 138: FLOORS
+Line 139: 2020
+Line 140: 01
+Line 141: WALLS
+Line 142: 01 FIRST SUBMISSION 2020
+Line 143: ΣΥΝΑΡΜΟΓΗ ΕΣΩΤΕΡΙΚΟΥ ΣΟΒΑ ΜΕ ΠΑΤΗΤΗ ΤΣΙΜΕΝΤΟΚΟΝΙΑ
+Line 144: 4
+Line 145: ΚΛΙΜΑΚΑ
+Line 146: ΓΑΡΜΠΙΛΟΜΠΕΤΟ ΥΠΟΒΑΣΗΣ
+Line 147: ΔΑΠΕΔΟΥ
+Line 148: ΠΛΑΚΑΚΙ ΒΟΗΘΗΤΙΚΩΝ ΧΩΡΩΝ
+Line 149: KOΛΛΑ ΠΛΑΚΙΔΙΩΝ
+Line 150: ΠΛΕΓΜΑ
+Line 151: ΑΝΕΠΙΧΡΙΣΤΟ ΣΚΥΡΟΔΕΜΑ
+Line 152: ΕΠΙΜΕΛΗΜΕΝΟΣ ΞΥΛΟΤΥΠΟΣ
+Line 153: AΠΑΛΕΙΨΗ ΜΕ ΥΓΡΟΜΟΝΩΤΙΚΟ
+Line 154: ΤΣΙΜΕΝΤΟΕΙΔΕΣ KΡΥΣΤΑΛΛΙΚΗΣ ΔΡΑΣΗΣ
+Line 155: ΣΤΑΤΙΚΟΣ ΦΟΡΕΑΣ
+Line 156: ΣΥΝΘΕΤΙΚΗ ΜΕΜΒΡΑΝΗ PVC ΑΟΠΛΗ,
+Line 157: ΚΑΤΑΛΛΗΛΗ ΓΙΑ ΔΕΞΑΜΕΝΕΣ ΝΕΡΟΥ
+Line 158: ΓΑΡΜΠΙΛΟΜΠΕΤΟ ΥΠΟΒΑΣΗΣ
+Line 159: ΔΑΠΕΔΟΥ
+Line 160: ΠΛΑΚΑΚΙ ΒΟΗΘΗΤΙΚΩΝ ΧΩΡΩΝ
+Line 161: KOΛΛΑ ΠΛΑΚΙΔΙΩΝ
+Line 162: ΠΛΕΓΜΑ
+Line 163: EΣΩΤΕΡΙΚΟΣ ΣΟΒΑΣ
+Line 164: ΣΥΝΑΡΜΟΓΗ ΜΟΝΩΣΕΩΝ ΔΕΞΑΜΕΝΩΝ
+Line 165: ΚΛΙΜΑΚΑ
+Line 166: ΣΥΝΑΡΜΟΓΗ ΕΣΩΤΕΡΙΚΟΥ ΣΟΒΑ ΜΕ ΠΛΑΚΑΚΙ ΒΟΗΘ. ΧΩΡΩΝ
+Line 167: 2
+Line 168: ΚΛΙΜΑΚΑ
+Line 169: ΣΥΝΑΡΜΟΓΗ ΣΚΥΡΟΔΕΜΑΤΟΣ ΜΕ ΠΛΑΚΑΚΙ ΒΟΗΘ. ΧΩΡΩΝ
+Line 170: ΚΛΙΜΑΚΑ
+Line 171: ΑΥΛΑΚΙΑ ΑΝΤΙΠΑΡΟΣ
+Line 172: AVLAKIA ANTIPAROS
+Line 173: RESIDENCE ANTIPAROS
+Line 174: PATSILERO
+Line 175: ΠΕΡΙΓΡΑΦΗ
+Line 176: DESCRIPTION
+Line 177: ΗΜ ΝΙΑ
+Line 178: REVISION DATE
+Line 179: Νaxou Kifisia, Greece
+Line 180: 4217 6976
+Line 181: ERISMA
+Line 182: Patision Athens, Greece
+Line 183: TETRAS
+Line 184: Tompazi Chalandri Greece
+Line 185: 3262 3269
+Line 186: 79 Suga Shinjuku Tokyo, 0018 Japan
+Line 187: ATELIER BOW WOW
+Line 188: Apollonos Athens, Greece
+Line 189: 6770 3233 419
+Line 190: DOXIADIS PLUS
+Line 191: ΚΛΙΜΑΚΑ
+Line 192: SCALE
+Line 193: ΣΧΕΔΙΟ
+Line 194: ΕΡΓΟ
+Line 195: ΕΡΓΟΔΟΤΗΣ
+Line 196: ΗΜΕΡΟΜΗΝΙΑ ΕΚΔΟΣΗΣ
+Line 197: FIRST ISSUE DATE
+Line 198: DETAILED DESIGN
+Line 199: KAT. ΣΧΕΔΙΟΥ
+Line 200: BLD. CATEGORY
+Line 201: ISSUED
+Line 202: ΘΕΣΗ ΕΡΓΟΥ
+Line 203: CONSTR.
+Line 204: APPROVAL
+Line 205: TENDER
+Line 206: STATUS
+Line 207: DRAFT
+Line 208: FINAL
+Line 209: ΑΝΑΘ.
+Line 210: REV.
+Line 211: PROJECT
+Line 212: LOCATION
+Line 213: CLIENT
+Line 214: DRAWING
+Line 215: ΚΗΠΟΤΕΧΝΙΚΗ ΜΕΛΕΤΗ
+Line 216: LANDSCAPE DESIGN
+Line 217: ΜΗΧΑΝΟΛΟΓΙΚΗ ΜΕΛΕΤΗ
+Line 218: MEP ENGINEER
+Line 219: ΣΤΑΤΙΚΗ ΜΕΛΕΤΗ
+Line 220: STRUCTURAL ENGINEER
+Line 221: ΑΡΧΙΤΕΚΤΟΝΑΣ ΕΡΓΟΥ
+Line 222: ARCHITECTURAL DESIGN
+Line 223: ΕΚΤΕΛΕΣΗ ΑΡΧΙΤΕΚΤΟΝΙΚΗΣ
+Line 224: ΜΕΛΕΤΗΣ ΕΠΙΒΛΕΨΗ
+Line 225: EXECUTIVE ARCHITECT
+Line 226: SITE SUPERVISOR
+Line 227: DISCIPLINE
+Line 228: ARC
+Line 229: VAP
+Line 230: FITTINGS
+Line 231: FLOORS
+Line 232: 2020
+Line 233: 01
+Line 234: WALLS
+Line 235: 01 FIRST SUBMISSION 2020
+Line 236: ΓΥΨΟΣΑΝΙΔΑ ΠΑΧΟΥΣ ΑΠΛΗ ΜΕ
+Line 237: ΗΜΙΣΤΡΟΓΓΥΛEΣ ΑΚΡΕΣ ΤΥΠΟΥ HRK ΚΑΙ ΤΕΛΕΙΩΜΑ
+Line 238: ΕΠΙΦΑΝΕΙΑΣ ΓΙΑ ΧΡΩΜΑΤΙΣΜΟ ΕΠΙΠΕΔΟΥ
+Line 239: EΣΩΤΕΡΙΚΟΣ ΣΟΒΑΣ ΤΡΙΩΝ ΣΤΡΩΣΕΩΝ
+Line 240: ΣΚΕΛΕΤΟΣ ΑΝΑΡΤΗΣΗΣ ΓΥΨΟΣΑΝΙΔΑΣ
+Line 241: ΠΛΑΚΑ ΟΠΛΙΣΜΕΝΟΥ ΣΚΥΡΟΔΕΜΑΤΟΣ
+Line 242: XΡΩΜΑΤΙΣΜΟΣ ΕΩΣ ΤΗΝ ΨΕΥΔΟΡΟΦΗ
+Line 243: ΕΙΔΙΚΟ ΤΕΜΑΧΙΟ ΠΕΡΙΜΕΤΡΙΚΗ ΓΩΝΙΑ
+Line 244: EΣΩΤΕΡΙΚΟΣ ΣΟΒΑΣ ΤΡΙΩΝ ΣΤΡΩΣΕΩΝ
+Line 245: OΡΟΦΗ
+Line 246: ΠΛΑΚΑ ΟΠΛΙΣΜΕΝΟΥ ΣΚΥΡΟΔΕΜΑΤΟΣ
+Line 247: XΡΩΜΑΤΙΣΜΟΣ
+Line 248: EΣΩΤΕΡΙΚΟΣ ΣΟΒΑΣ ΤΡΙΩΝ
+Line 249: ΣΤΡΩΣΕΩΝ TOIXOΠΟΙΪΑΣ
+Line 250: ΤΟΙΧΟΠΟΙΪΑ ΑΠΟ ΟΠΤΟΠΛΙΝΘΟΥΣ
+Line 251: ΓΥΨΟΣΑΝΙΔΑ ΠΑΧΟΥΣ ΑΝΘΥΓΡΗ ΜΕ
+Line 252: ΗΜΙΣΤΡΟΓΓΥΛEΣ ΑΚΡΕΣ ΤΥΠΟΥ HRK ΚΑΙ ΤΕΛΕΙΩΜΑ
+Line 253: ΕΠΙΦΑΝΕΙΑΣ ΓΙΑ ΧΡΩΜΑΤΙΣΜΟ ΕΠΙΠΕΔΟΥ
+Line 254: EΣΩΤΕΡΙΚΟΣ ΣΟΒΑΣ ΤΡΙΩΝ ΣΤΡΩΣΕΩΝ
+Line 255: ΣΚΕΛΕΤΟΣ ΑΝΑΡΤΗΣΗΣ ΓΥΨΟΣΑΝΙΔΑΣ
+Line 256: ΠΛΑΚΑ ΟΠΛΙΣΜΕΝΟΥ ΣΚΥΡΟΔΕΜΑΤΟΣ
+Line 257: ΑΡΓΙΛΙΚΗ ΜΑΡΜΑΡΟΚΟΝΙΑ ΕΩΣ
+Line 258: ΤΗΝ ΠΕΡΙΜΕΤΡΙΚΗ ΓΩΝΙΑ
+Line 259: ΕΙΔΙΚΟ ΤΕΜΑΧΙΟ ΠΕΡΙΜΕΤΡΙΚΗ ΓΩΝΙΑ
+Line 260: ΣΥΝΘΕΤΙΚΗ ΜΕΜΒΡΑΝΗ PVC ΑΟΠΛΗ,
+Line 261: ΚΑΤΑΛΛΗΛΗ ΓΙΑ ΔΕΞΑΜΕΝΕΣ ΝΕΡΟΥ ΣΦΡΑΓΙΣΗ
+Line 262: ΣΤΑ ΑΠΟ ΤΗΝ ΣΤΑΘΜΗ ΤΟΥ ΝΕΡΟΥ
+Line 263: ΛΑΜΑ ΠΕΡΙΜΕΤΡΙΚΗΣ
+Line 264: ΣΦΡΑΓΙΣΗΣ ΜΟΝΩΣΕΩΝ
+Line 265: ΠΟΛΥΟΥΡΕΘΑΝΙΚΗ ΜΑΣΤΙΧΗ
+Line 266: AΠΑΛΕΙΨΗ ΜΕ ΥΓΡΟΜΟΝΩΤΙΚΟ
+Line 267: ΤΣΙΜΕΝΤΟΕΙΔΕΣ KΡΥΣΤΑΛΛΙΚΗΣ ΔΡΑΣΗΣ
+Line 268: ΣΤΑΤΙΚΟΣ ΦΟΡΕΑΣ
+Line 269: ΣΥΝΑΡΜΟΓΗ ΓΥΨΟΣΑΝΙΔΑΣ ΜΑΡΜΑΡΟΚΟΝΙΑΣ
+Line 270: 2
+Line 271: ΚΛΙΜΑΚΑ
+Line 272: ΣΥΝΑΡΜΟΓΗ ΓΥΨΟΣΑΝΙΔΑΣ ΣΟΒΑ
+Line 273: ΚΛΙΜΑΚΑ
+Line 274: ΣΥΝΑΡΜΟΓΗ ΥΓΡΟΜΟΝΩΣΕΩΝ ΔΕΞΑΜΕΝΩΝ
+Line 275: 4
+Line 276: ΚΛΙΜΑΚΑ
+Line 277: ΣΥΝΑΡΜΟΓΗ ΣΟΒΑΤΙΣΜΕΝΩΝ ΕΠΙΦΑΝΕΙΩΝ
+Line 278: ΚΛΙΜΑΚΑ
+Line 279: ΑΥΛΑΚΙΑ ΑΝΤΙΠΑΡΟΣ
+Line 280: AVLAKIA ANTIPAROS
+Line 281: RESIDENCE ANTIPAROS
+Line 282: PATSILERO
+Line 283: ΠΕΡΙΓΡΑΦΗ
+Line 284: DESCRIPTION
+Line 285: ΗΜ ΝΙΑ
+Line 286: REVISION DATE
+Line 287: Νaxou Kifisia, Greece
+Line 288: 4217 6976
+Line 289: ERISMA
+Line 290: Patision Athens, Greece
+Line 291: TETRAS
+Line 292: Tompazi Chalandri Greece
+Line 293: 3262 3269
+Line 294: 79 Suga Shinjuku Tokyo, 0018 Japan
+Line 295: ATELIER BOW WOW
+Line 296: Apollonos Athens, Greece
+Line 297: 6770 3233 419
+Line 298: DOXIADIS PLUS
+Line 299: ΚΛΙΜΑΚΑ
+Line 300: SCALE
+Line 301: ΣΧΕΔΙΟ
+Line 302: ΕΡΓΟ
+Line 303: ΕΡΓΟΔΟΤΗΣ
+Line 304: ΗΜΕΡΟΜΗΝΙΑ ΕΚΔΟΣΗΣ
+Line 305: FIRST ISSUE DATE
+Line 306: DETAILED DESIGN
+Line 307: KAT. ΣΧΕΔΙΟΥ
+Line 308: BLD. CATEGORY
+Line 309: ISSUED
+Line 310: ΘΕΣΗ ΕΡΓΟΥ
+Line 311: CONSTR.
+Line 312: APPROVAL
+Line 313: TENDER
+Line 314: STATUS
+Line 315: DRAFT
+Line 316: FINAL
+Line 317: ΑΝΑΘ.
+Line 318: REV.
+Line 319: PROJECT
+Line 320: LOCATION
+Line 321: CLIENT
+Line 322: DRAWING
+Line 323: ΚΗΠΟΤΕΧΝΙΚΗ ΜΕΛΕΤΗ
+Line 324: LANDSCAPE DESIGN
+Line 325: ΜΗΧΑΝΟΛΟΓΙΚΗ ΜΕΛΕΤΗ
+Line 326: MEP ENGINEER
+Line 327: ΣΤΑΤΙΚΗ ΜΕΛΕΤΗ
+Line 328: STRUCTURAL ENGINEER
+Line 329: ΑΡΧΙΤΕΚΤΟΝΑΣ ΕΡΓΟΥ
+Line 330: ARCHITECTURAL DESIGN
+Line 331: ΕΚΤΕΛΕΣΗ ΑΡΧΙΤΕΚΤΟΝΙΚΗΣ
+Line 332: ΜΕΛΕΤΗΣ ΕΠΙΒΛΕΨΗ
+Line 333: EXECUTIVE ARCHITECT
+Line 334: SITE SUPERVISOR
+Line 335: DISCIPLINE
+Line 336: ARC
+Line 337: VAP
+Line 338: FITTINGS
+Line 339: CEILINGS
+Line 340: 2020
+Line 341: 01
+Line 342: WALLS
+Line 343: 01 FIRST SUBMISSION 2020
+Line 344: 01 FIRST SUBMISSION 2020
+Line 345: ΕΠΙΦΑΝΕΙΑ ΕΜΦΑΝΟΥΣ ΣΚΥΡΟΔΕΜΑΤΟΣ
+Line 346: ΣΑΝΙΔΑΚΙ ΜΠΕΤΟΦΟΡΜ
+Line 347: ΠΛΑΚΑ ΟΠΛΙΣΜΕΝΟΥ ΣΚΥΡΟΔΕΜΑΤΟΣ
+Line 348: XΡΩΜΑΤΙΣΜΟΣ
+Line 349: EΣΩΤΕΡΙΚΟΣ ΣΟΒΑΣ ΤΡΙΩΝ
+Line 350: ΣΤΡΩΣΕΩΝ TOIXOΠΟΙΪΑΣ
+Line 351: ΤΟΙΧΟΠΟΙΪΑ ΑΠΟ ΟΠΤΟΠΛΙΝΘΟΥΣ
+Line 352: ΣΥΝΑΡΜΟΓΗ ΕΜΦΑΝΟΥΣ ΣΚΥΡΟΔΕΜΑΤΟΣ ΣΟΒΑ
+Line 353: ΚΛΙΜΑΚΑ
+Line 354: ΑΥΛΑΚΙΑ ΑΝΤΙΠΑΡΟΣ
+Line 355: AVLAKIA ANTIPAROS
+Line 356: RESIDENCE ANTIPAROS
+Line 357: PATSILERO
+Line 358: ΠΕΡΙΓΡΑΦΗ
+Line 359: DESCRIPTION
+Line 360: ΗΜ ΝΙΑ
+Line 361: REVISION DATE
+Line 362: Νaxou Kifisia, Greece
+Line 363: 4217 6976
+Line 364: ERISMA
+Line 365: Patision Athens, Greece
+Line 366: TETRAS
+Line 367: Tompazi Chalandri Greece
+Line 368: 3262 3269
+Line 369: 79 Suga Shinjuku Tokyo, 0018 Japan
+Line 370: ATELIER BOW WOW
+Line 371: Apollonos Athens, Greece
+Line 372: 6770 3233 419
+Line 373: DOXIADIS PLUS
+Line 374: ΚΛΙΜΑΚΑ
+Line 375: SCALE
+Line 376: ΣΧΕΔΙΟ
+Line 377: ΕΡΓΟ
+Line 378: ΕΡΓΟΔΟΤΗΣ
+Line 379: ΗΜΕΡΟΜΗΝΙΑ ΕΚΔΟΣΗΣ
+Line 380: FIRST ISSUE DATE
+Line 381: DETAILED DESIGN
+Line 382: KAT. ΣΧΕΔΙΟΥ
+Line 383: BLD. CATEGORY
+Line 384: ISSUED
+Line 385: ΘΕΣΗ ΕΡΓΟΥ
+Line 386: CONSTR.
+Line 387: APPROVAL
+Line 388: TENDER
+Line 389: STATUS
+Line 390: DRAFT
+Line 391: FINAL
+Line 392: ΑΝΑΘ.
+Line 393: REV.
+Line 394: PROJECT
+Line 395: LOCATION
+Line 396: CLIENT
+Line 397: DRAWING
+Line 398: ΚΗΠΟΤΕΧΝΙΚΗ ΜΕΛΕΤΗ
+Line 399: LANDSCAPE DESIGN
+Line 400: ΜΗΧΑΝΟΛΟΓΙΚΗ ΜΕΛΕΤΗ
+Line 401: MEP ENGINEER
+Line 402: ΣΤΑΤΙΚΗ ΜΕΛΕΤΗ
+Line 403: STRUCTURAL ENGINEER
+Line 404: ΑΡΧΙΤΕΚΤΟΝΑΣ ΕΡΓΟΥ
+Line 405: ARCHITECTURAL DESIGN
+Line 406: ΕΚΤΕΛΕΣΗ ΑΡΧΙΤΕΚΤΟΝΙΚΗΣ
+Line 407: ΜΕΛΕΤΗΣ ΕΠΙΒΛΕΨΗ
+Line 408: EXECUTIVE ARCHITECT
+Line 409: SITE SUPERVISOR
+Line 410: DISCIPLINE
+Line 411: ARC
+Line 412: VAP
+Line 413: FITTINGS
+Line 414: CEILINGS
+Line 415: 2020
+Line 416: 01
+Line 417: WALLS
+Line 418: 01 FIRST SUBMISSION 2020
+
+=== END OF FILTERED TEXT ===
+Total lines: 419

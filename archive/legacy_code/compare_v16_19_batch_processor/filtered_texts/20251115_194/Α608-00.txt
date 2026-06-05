@@ -1,0 +1,23 @@
+=== FILTERED TEXT FOR: Α608-00.pdf ===
+
+Line   0: 01
+Line   1: 01
+Line   2: 02
+Line   3: 2
+Line   4: 2691
+Line   5: 05
+Line   6: 04
+Line   7: 03
+Line   8: 02
+Line   9: 01
+Line  10: 2017
+Line  11: 2 2 2
+Line  12: 2 2 2
+Line  13: 2
+Line  14: 4
+Line  15: 0601 700 1457 2691
+Line  16: 21752
+Line  17: 10439
+
+=== END OF FILTERED TEXT ===
+Total lines: 18

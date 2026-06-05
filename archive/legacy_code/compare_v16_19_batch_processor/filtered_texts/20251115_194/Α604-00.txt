@@ -1,0 +1,32 @@
+=== FILTERED TEXT FOR: Α604-00.pdf ===
+
+Line   0: 2
+Line   1: 4
+Line   2: 4
+Line   3: 2
+Line   4: 2
+Line   5: 2
+Line   6: 4
+Line   7: 4
+Line   8: 2
+Line   9: 01
+Line  10: 01
+Line  11: 02
+Line  12: 2
+Line  13: 2691
+Line  14: 05
+Line  15: 04
+Line  16: 03
+Line  17: 02
+Line  18: 01
+Line  19: 2017
+Line  20: 2 2 2
+Line  21: 2 2 2
+Line  22: 2
+Line  23: 4
+Line  24: 0601 700 1457 2691
+Line  25: 21752
+Line  26: 10439
+
+=== END OF FILTERED TEXT ===
+Total lines: 27

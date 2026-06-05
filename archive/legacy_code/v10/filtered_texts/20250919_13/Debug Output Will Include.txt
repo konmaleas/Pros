@@ -1,0 +1,1257 @@
+=== DEBUGGING FILE: C:\PyTests\Submission\Process\2211 au\dst\07xxx\PDF\4005-RES-VAP-DWG-233-IC-07020-0.pdf ===
+ANCHOR SEARCH: Looking for ['High', 'Rise', 'Residential', 'Development']
+FOUND ANCHORS: [92, 101] (total: 2)
+TEMPLATE FILE: True
+TEMPLATE CHUNKS FOUND: ['4005', 'RES', 'VAP', 'DWG', '233', 'IC', '0', '07020']
+SELECTED ANCHOR POSITION: 92
+TEMPLATE PATTERN CREATED: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '0': -1, '07020': 7}
+VALIDATION RULES: [{'length': 4, 'is_alpha': False, 'is_digit': True, 'is_alnum': True, 'example': '4005'}, {'length': 3, 'is_alpha': True, 'is_digit': False, 'is_alnum': True, 'example': 'RES'}, {'length': 3, 'is_alpha': False, 'is_digit': True, 'is_alnum': True, 'example': '233'}, {'length': 2, 'is_alpha': True, 'is_digit': False, 'is_alnum': True, 'example': 'IC'}, {'length': 1, 'is_alpha': False, 'is_digit': True, 'is_alnum': True, 'example': '0'}, {'length': 5, 'is_alpha': False, 'is_digit': True, 'is_alnum': True, 'example': '07020'}]
+FINAL RESULT: 92
+=== END DEBUG FOR C:\PyTests\Submission\Process\2211 au\dst\07xxx\PDF\4005-RES-VAP-DWG-233-IC-07020-0.pdf ===
+
+
+=== DEBUGGING FILE: C:\PyTests\Submission\Process\2211 au\dst\07xxx\PDF\4005-RES-VAP-DWG-233-IC-07020-0.txt ===
+ANCHOR SEARCH: Looking for ['High', 'Rise', 'Residential', 'Development']
+FOUND ANCHORS: [102, 111] (total: 2)
+TEMPLATE FILE: True
+TEMPLATE CHUNKS FOUND: ['4005', 'RES', 'VAP', 'DWG', '233', 'IC', '07020', '0']
+SELECTED ANCHOR POSITION: 102
+TEMPLATE PATTERN CREATED: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07020': 7, '0': -1}
+VALIDATION RULES: [{'length': 4, 'is_alpha': False, 'is_digit': True, 'is_alnum': True, 'example': '4005'}, {'length': 3, 'is_alpha': True, 'is_digit': False, 'is_alnum': True, 'example': 'RES'}, {'length': 3, 'is_alpha': False, 'is_digit': True, 'is_alnum': True, 'example': '233'}, {'length': 2, 'is_alpha': True, 'is_digit': False, 'is_alnum': True, 'example': 'IC'}, {'length': 5, 'is_alpha': False, 'is_digit': True, 'is_alnum': True, 'example': '07020'}, {'length': 1, 'is_alpha': False, 'is_digit': True, 'is_alnum': True, 'example': '0'}]
+FINAL RESULT: 102
+=== END DEBUG FOR C:\PyTests\Submission\Process\2211 au\dst\07xxx\PDF\4005-RES-VAP-DWG-233-IC-07020-0.txt ===
+
+
+=== DEBUGGING FILE: C:\PyTests\Submission\Process\2211 au\dst\07xxx\PDF\4005-RES-VAP-DWG-233-IC-07130-0.pdf ===
+ANCHOR SEARCH: Looking for ['High', 'Rise', 'Residential', 'Development']
+FOUND ANCHORS: [113, 122] (total: 2)
+TEMPLATE FILE: False
+TEMPLATE PATTERN TO MATCH: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07020': 7, '0': -1}
+
+--- TRYING ANCHOR #1 AT LINE 113 ---
+    GENERATING PATTERN: anchor at line 113
+    TEMPLATE DISTANCES: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07020': 7, '0': -1}
+    CHECKING: distance 8 -> line 121
+    FOUND CHUNK: '4005' at line 121
+    CHECKING: distance 2 -> line 115
+    FOUND CHUNK: 'RES' at line 115
+    CHECKING: distance 3 -> line 116
+    FOUND CHUNK: 'VAP' at line 116
+    CHECKING: distance 4 -> line 117
+    FOUND CHUNK: 'DWG' at line 117
+    CHECKING: distance 5 -> line 118
+    FOUND CHUNK: '233' at line 118
+    CHECKING: distance 6 -> line 119
+    FOUND CHUNK: 'IC' at line 119
+    CHECKING: distance 7 -> line 120
+    FOUND CHUNK: '07130' at line 120
+    CHECKING: distance -1 -> line 112
+    FOUND CHUNK: '0' at line 112
+    RESULT: 8 chunks found: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07130': 7, '0': -1}
+FOUND CHUNKS: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07130': 7, '0': -1}
+CHUNK LINES: {'4005': 121, 'RES': 115, 'VAP': 116, 'DWG': 117, '233': 118, 'IC': 119, '07130': 120, '0': 112}
+COMPLETENESS CHECK: True
+SUCCESS: Using anchor at line 113
+FINAL RESULT: 113
+=== END DEBUG FOR C:\PyTests\Submission\Process\2211 au\dst\07xxx\PDF\4005-RES-VAP-DWG-233-IC-07130-0.pdf ===
+
+
+=== DEBUGGING FILE: C:\PyTests\Submission\Process\2211 au\dst\07xxx\PDF\4005-RES-VAP-DWG-233-IC-07130-0.txt ===
+ANCHOR SEARCH: Looking for ['High', 'Rise', 'Residential', 'Development']
+FOUND ANCHORS: [128, 137] (total: 2)
+TEMPLATE FILE: False
+TEMPLATE PATTERN TO MATCH: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07020': 7, '0': -1}
+
+--- TRYING ANCHOR #1 AT LINE 128 ---
+    GENERATING PATTERN: anchor at line 128
+    TEMPLATE DISTANCES: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07020': 7, '0': -1}
+    CHECKING: distance 8 -> line 136
+    FOUND CHUNK: '4005' at line 136
+    CHECKING: distance 2 -> line 130
+    FOUND CHUNK: 'RES' at line 130
+    CHECKING: distance 3 -> line 131
+    FOUND CHUNK: 'VAP' at line 131
+    CHECKING: distance 4 -> line 132
+    FOUND CHUNK: 'DWG' at line 132
+    CHECKING: distance 5 -> line 133
+    FOUND CHUNK: '233' at line 133
+    CHECKING: distance 6 -> line 134
+    FOUND CHUNK: 'IC' at line 134
+    CHECKING: distance 7 -> line 135
+    FOUND CHUNK: '07130' at line 135
+    CHECKING: distance -1 -> line 127
+    FOUND CHUNK: '0' at line 127
+    RESULT: 8 chunks found: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07130': 7, '0': -1}
+FOUND CHUNKS: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07130': 7, '0': -1}
+CHUNK LINES: {'4005': 136, 'RES': 130, 'VAP': 131, 'DWG': 132, '233': 133, 'IC': 134, '07130': 135, '0': 127}
+COMPLETENESS CHECK: True
+SUCCESS: Using anchor at line 128
+FINAL RESULT: 128
+=== END DEBUG FOR C:\PyTests\Submission\Process\2211 au\dst\07xxx\PDF\4005-RES-VAP-DWG-233-IC-07130-0.txt ===
+
+
+=== DEBUGGING FILE: C:\PyTests\Submission\Process\2211 au\dst\07xxx\PDF\4005-RES-VAP-DWG-233-IC-07201-0.pdf ===
+ANCHOR SEARCH: Looking for ['High', 'Rise', 'Residential', 'Development']
+FOUND ANCHORS: [212, 221] (total: 2)
+TEMPLATE FILE: False
+TEMPLATE PATTERN TO MATCH: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07020': 7, '0': -1}
+
+--- TRYING ANCHOR #1 AT LINE 212 ---
+    GENERATING PATTERN: anchor at line 212
+    TEMPLATE DISTANCES: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07020': 7, '0': -1}
+    CHECKING: distance 8 -> line 220
+    FOUND CHUNK: '4005' at line 220
+    CHECKING: distance 2 -> line 214
+    FOUND CHUNK: 'RES' at line 214
+    CHECKING: distance 3 -> line 215
+    FOUND CHUNK: 'VAP' at line 215
+    CHECKING: distance 4 -> line 216
+    FOUND CHUNK: 'DWG' at line 216
+    CHECKING: distance 5 -> line 217
+    FOUND CHUNK: '233' at line 217
+    CHECKING: distance 6 -> line 218
+    FOUND CHUNK: 'IC' at line 218
+    CHECKING: distance 7 -> line 219
+    FOUND CHUNK: '07201' at line 219
+    CHECKING: distance -1 -> line 211
+    FOUND CHUNK: '0' at line 211
+    RESULT: 8 chunks found: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07201': 7, '0': -1}
+FOUND CHUNKS: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07201': 7, '0': -1}
+CHUNK LINES: {'4005': 220, 'RES': 214, 'VAP': 215, 'DWG': 216, '233': 217, 'IC': 218, '07201': 219, '0': 211}
+COMPLETENESS CHECK: True
+SUCCESS: Using anchor at line 212
+FINAL RESULT: 212
+=== END DEBUG FOR C:\PyTests\Submission\Process\2211 au\dst\07xxx\PDF\4005-RES-VAP-DWG-233-IC-07201-0.pdf ===
+
+
+=== DEBUGGING FILE: C:\PyTests\Submission\Process\2211 au\dst\07xxx\PDF\4005-RES-VAP-DWG-233-IC-07201-0.txt ===
+ANCHOR SEARCH: Looking for ['High', 'Rise', 'Residential', 'Development']
+FOUND ANCHORS: [231, 240] (total: 2)
+TEMPLATE FILE: False
+TEMPLATE PATTERN TO MATCH: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07020': 7, '0': -1}
+
+--- TRYING ANCHOR #1 AT LINE 231 ---
+    GENERATING PATTERN: anchor at line 231
+    TEMPLATE DISTANCES: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07020': 7, '0': -1}
+    CHECKING: distance 8 -> line 239
+    FOUND CHUNK: '4005' at line 239
+    CHECKING: distance 2 -> line 233
+    FOUND CHUNK: 'RES' at line 233
+    CHECKING: distance 3 -> line 234
+    FOUND CHUNK: 'VAP' at line 234
+    CHECKING: distance 4 -> line 235
+    FOUND CHUNK: 'DWG' at line 235
+    CHECKING: distance 5 -> line 236
+    FOUND CHUNK: '233' at line 236
+    CHECKING: distance 6 -> line 237
+    FOUND CHUNK: 'IC' at line 237
+    CHECKING: distance 7 -> line 238
+    FOUND CHUNK: '07201' at line 238
+    CHECKING: distance -1 -> line 230
+    FOUND CHUNK: '0' at line 230
+    RESULT: 8 chunks found: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07201': 7, '0': -1}
+FOUND CHUNKS: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07201': 7, '0': -1}
+CHUNK LINES: {'4005': 239, 'RES': 233, 'VAP': 234, 'DWG': 235, '233': 236, 'IC': 237, '07201': 238, '0': 230}
+COMPLETENESS CHECK: True
+SUCCESS: Using anchor at line 231
+FINAL RESULT: 231
+=== END DEBUG FOR C:\PyTests\Submission\Process\2211 au\dst\07xxx\PDF\4005-RES-VAP-DWG-233-IC-07201-0.txt ===
+
+
+=== DEBUGGING FILE: C:\PyTests\Submission\Process\2211 au\dst\07xxx\PDF\4005-RES-VAP-DWG-233-IC-07202-0.pdf ===
+ANCHOR SEARCH: Looking for ['High', 'Rise', 'Residential', 'Development']
+FOUND ANCHORS: [104, 113] (total: 2)
+TEMPLATE FILE: False
+TEMPLATE PATTERN TO MATCH: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07020': 7, '0': -1}
+
+--- TRYING ANCHOR #1 AT LINE 104 ---
+    GENERATING PATTERN: anchor at line 104
+    TEMPLATE DISTANCES: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07020': 7, '0': -1}
+    CHECKING: distance 8 -> line 112
+    FOUND CHUNK: '4005' at line 112
+    CHECKING: distance 2 -> line 106
+    FOUND CHUNK: 'RES' at line 106
+    CHECKING: distance 3 -> line 107
+    FOUND CHUNK: 'VAP' at line 107
+    CHECKING: distance 4 -> line 108
+    FOUND CHUNK: 'DWG' at line 108
+    CHECKING: distance 5 -> line 109
+    FOUND CHUNK: '233' at line 109
+    CHECKING: distance 6 -> line 110
+    FOUND CHUNK: 'IC' at line 110
+    CHECKING: distance 7 -> line 111
+    FOUND CHUNK: '07202' at line 111
+    CHECKING: distance -1 -> line 103
+    FOUND CHUNK: '0' at line 103
+    RESULT: 8 chunks found: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07202': 7, '0': -1}
+FOUND CHUNKS: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07202': 7, '0': -1}
+CHUNK LINES: {'4005': 112, 'RES': 106, 'VAP': 107, 'DWG': 108, '233': 109, 'IC': 110, '07202': 111, '0': 103}
+COMPLETENESS CHECK: True
+SUCCESS: Using anchor at line 104
+FINAL RESULT: 104
+=== END DEBUG FOR C:\PyTests\Submission\Process\2211 au\dst\07xxx\PDF\4005-RES-VAP-DWG-233-IC-07202-0.pdf ===
+
+
+=== DEBUGGING FILE: C:\PyTests\Submission\Process\2211 au\dst\07xxx\PDF\4005-RES-VAP-DWG-233-IC-07202-0.txt ===
+ANCHOR SEARCH: Looking for ['High', 'Rise', 'Residential', 'Development']
+FOUND ANCHORS: [123, 132] (total: 2)
+TEMPLATE FILE: False
+TEMPLATE PATTERN TO MATCH: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07020': 7, '0': -1}
+
+--- TRYING ANCHOR #1 AT LINE 123 ---
+    GENERATING PATTERN: anchor at line 123
+    TEMPLATE DISTANCES: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07020': 7, '0': -1}
+    CHECKING: distance 8 -> line 131
+    FOUND CHUNK: '4005' at line 131
+    CHECKING: distance 2 -> line 125
+    FOUND CHUNK: 'RES' at line 125
+    CHECKING: distance 3 -> line 126
+    FOUND CHUNK: 'VAP' at line 126
+    CHECKING: distance 4 -> line 127
+    FOUND CHUNK: 'DWG' at line 127
+    CHECKING: distance 5 -> line 128
+    FOUND CHUNK: '233' at line 128
+    CHECKING: distance 6 -> line 129
+    FOUND CHUNK: 'IC' at line 129
+    CHECKING: distance 7 -> line 130
+    FOUND CHUNK: '07202' at line 130
+    CHECKING: distance -1 -> line 122
+    FOUND CHUNK: '0' at line 122
+    RESULT: 8 chunks found: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07202': 7, '0': -1}
+FOUND CHUNKS: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07202': 7, '0': -1}
+CHUNK LINES: {'4005': 131, 'RES': 125, 'VAP': 126, 'DWG': 127, '233': 128, 'IC': 129, '07202': 130, '0': 122}
+COMPLETENESS CHECK: True
+SUCCESS: Using anchor at line 123
+FINAL RESULT: 123
+=== END DEBUG FOR C:\PyTests\Submission\Process\2211 au\dst\07xxx\PDF\4005-RES-VAP-DWG-233-IC-07202-0.txt ===
+
+
+=== DEBUGGING FILE: C:\PyTests\Submission\Process\2211 au\dst\07xxx\PDF\4005-RES-VAP-DWG-233-IC-07203-0.pdf ===
+ANCHOR SEARCH: Looking for ['High', 'Rise', 'Residential', 'Development']
+FOUND ANCHORS: [149, 158] (total: 2)
+TEMPLATE FILE: False
+TEMPLATE PATTERN TO MATCH: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07020': 7, '0': -1}
+
+--- TRYING ANCHOR #1 AT LINE 149 ---
+    GENERATING PATTERN: anchor at line 149
+    TEMPLATE DISTANCES: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07020': 7, '0': -1}
+    CHECKING: distance 8 -> line 157
+    FOUND CHUNK: '4005' at line 157
+    CHECKING: distance 2 -> line 151
+    FOUND CHUNK: 'RES' at line 151
+    CHECKING: distance 3 -> line 152
+    FOUND CHUNK: 'VAP' at line 152
+    CHECKING: distance 4 -> line 153
+    FOUND CHUNK: 'DWG' at line 153
+    CHECKING: distance 5 -> line 154
+    FOUND CHUNK: '233' at line 154
+    CHECKING: distance 6 -> line 155
+    FOUND CHUNK: 'IC' at line 155
+    CHECKING: distance 7 -> line 156
+    FOUND CHUNK: '07203' at line 156
+    CHECKING: distance -1 -> line 148
+    FOUND CHUNK: '0' at line 148
+    RESULT: 8 chunks found: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07203': 7, '0': -1}
+FOUND CHUNKS: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07203': 7, '0': -1}
+CHUNK LINES: {'4005': 157, 'RES': 151, 'VAP': 152, 'DWG': 153, '233': 154, 'IC': 155, '07203': 156, '0': 148}
+COMPLETENESS CHECK: True
+SUCCESS: Using anchor at line 149
+FINAL RESULT: 149
+=== END DEBUG FOR C:\PyTests\Submission\Process\2211 au\dst\07xxx\PDF\4005-RES-VAP-DWG-233-IC-07203-0.pdf ===
+
+
+=== DEBUGGING FILE: C:\PyTests\Submission\Process\2211 au\dst\07xxx\PDF\4005-RES-VAP-DWG-233-IC-07203-0.txt ===
+ANCHOR SEARCH: Looking for ['High', 'Rise', 'Residential', 'Development']
+FOUND ANCHORS: [173, 182] (total: 2)
+TEMPLATE FILE: False
+TEMPLATE PATTERN TO MATCH: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07020': 7, '0': -1}
+
+--- TRYING ANCHOR #1 AT LINE 173 ---
+    GENERATING PATTERN: anchor at line 173
+    TEMPLATE DISTANCES: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07020': 7, '0': -1}
+    CHECKING: distance 8 -> line 181
+    FOUND CHUNK: '4005' at line 181
+    CHECKING: distance 2 -> line 175
+    FOUND CHUNK: 'RES' at line 175
+    CHECKING: distance 3 -> line 176
+    FOUND CHUNK: 'VAP' at line 176
+    CHECKING: distance 4 -> line 177
+    FOUND CHUNK: 'DWG' at line 177
+    CHECKING: distance 5 -> line 178
+    FOUND CHUNK: '233' at line 178
+    CHECKING: distance 6 -> line 179
+    FOUND CHUNK: 'IC' at line 179
+    CHECKING: distance 7 -> line 180
+    FOUND CHUNK: '07203' at line 180
+    CHECKING: distance -1 -> line 172
+    FOUND CHUNK: '0' at line 172
+    RESULT: 8 chunks found: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07203': 7, '0': -1}
+FOUND CHUNKS: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07203': 7, '0': -1}
+CHUNK LINES: {'4005': 181, 'RES': 175, 'VAP': 176, 'DWG': 177, '233': 178, 'IC': 179, '07203': 180, '0': 172}
+COMPLETENESS CHECK: True
+SUCCESS: Using anchor at line 173
+FINAL RESULT: 173
+=== END DEBUG FOR C:\PyTests\Submission\Process\2211 au\dst\07xxx\PDF\4005-RES-VAP-DWG-233-IC-07203-0.txt ===
+
+
+=== DEBUGGING FILE: C:\PyTests\Submission\Process\2211 au\dst\07xxx\PDF\4005-RES-VAP-DWG-233-IC-07204-0.pdf ===
+ANCHOR SEARCH: Looking for ['High', 'Rise', 'Residential', 'Development']
+FOUND ANCHORS: [161, 170] (total: 2)
+TEMPLATE FILE: False
+TEMPLATE PATTERN TO MATCH: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07020': 7, '0': -1}
+
+--- TRYING ANCHOR #1 AT LINE 161 ---
+    GENERATING PATTERN: anchor at line 161
+    TEMPLATE DISTANCES: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07020': 7, '0': -1}
+    CHECKING: distance 8 -> line 169
+    FOUND CHUNK: '4005' at line 169
+    CHECKING: distance 2 -> line 163
+    FOUND CHUNK: 'RES' at line 163
+    CHECKING: distance 3 -> line 164
+    FOUND CHUNK: 'VAP' at line 164
+    CHECKING: distance 4 -> line 165
+    FOUND CHUNK: 'DWG' at line 165
+    CHECKING: distance 5 -> line 166
+    FOUND CHUNK: '233' at line 166
+    CHECKING: distance 6 -> line 167
+    FOUND CHUNK: 'IC' at line 167
+    CHECKING: distance 7 -> line 168
+    FOUND CHUNK: '07204' at line 168
+    CHECKING: distance -1 -> line 160
+    FOUND CHUNK: '0' at line 160
+    RESULT: 8 chunks found: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07204': 7, '0': -1}
+FOUND CHUNKS: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07204': 7, '0': -1}
+CHUNK LINES: {'4005': 169, 'RES': 163, 'VAP': 164, 'DWG': 165, '233': 166, 'IC': 167, '07204': 168, '0': 160}
+COMPLETENESS CHECK: True
+SUCCESS: Using anchor at line 161
+FINAL RESULT: 161
+=== END DEBUG FOR C:\PyTests\Submission\Process\2211 au\dst\07xxx\PDF\4005-RES-VAP-DWG-233-IC-07204-0.pdf ===
+
+
+=== DEBUGGING FILE: C:\PyTests\Submission\Process\2211 au\dst\07xxx\PDF\4005-RES-VAP-DWG-233-IC-07204-0.txt ===
+ANCHOR SEARCH: Looking for ['High', 'Rise', 'Residential', 'Development']
+FOUND ANCHORS: [184, 193] (total: 2)
+TEMPLATE FILE: False
+TEMPLATE PATTERN TO MATCH: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07020': 7, '0': -1}
+
+--- TRYING ANCHOR #1 AT LINE 184 ---
+    GENERATING PATTERN: anchor at line 184
+    TEMPLATE DISTANCES: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07020': 7, '0': -1}
+    CHECKING: distance 8 -> line 192
+    FOUND CHUNK: '4005' at line 192
+    CHECKING: distance 2 -> line 186
+    FOUND CHUNK: 'RES' at line 186
+    CHECKING: distance 3 -> line 187
+    FOUND CHUNK: 'VAP' at line 187
+    CHECKING: distance 4 -> line 188
+    FOUND CHUNK: 'DWG' at line 188
+    CHECKING: distance 5 -> line 189
+    FOUND CHUNK: '233' at line 189
+    CHECKING: distance 6 -> line 190
+    FOUND CHUNK: 'IC' at line 190
+    CHECKING: distance 7 -> line 191
+    FOUND CHUNK: '07204' at line 191
+    CHECKING: distance -1 -> line 183
+    FOUND CHUNK: '0' at line 183
+    RESULT: 8 chunks found: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07204': 7, '0': -1}
+FOUND CHUNKS: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07204': 7, '0': -1}
+CHUNK LINES: {'4005': 192, 'RES': 186, 'VAP': 187, 'DWG': 188, '233': 189, 'IC': 190, '07204': 191, '0': 183}
+COMPLETENESS CHECK: True
+SUCCESS: Using anchor at line 184
+FINAL RESULT: 184
+=== END DEBUG FOR C:\PyTests\Submission\Process\2211 au\dst\07xxx\PDF\4005-RES-VAP-DWG-233-IC-07204-0.txt ===
+
+
+=== DEBUGGING FILE: C:\PyTests\Submission\Process\2211 au\dst\07xxx\PDF\4005-RES-VAP-DWG-233-IC-07205-0.pdf ===
+ANCHOR SEARCH: Looking for ['High', 'Rise', 'Residential', 'Development']
+FOUND ANCHORS: [167, 176] (total: 2)
+TEMPLATE FILE: False
+TEMPLATE PATTERN TO MATCH: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07020': 7, '0': -1}
+
+--- TRYING ANCHOR #1 AT LINE 167 ---
+    GENERATING PATTERN: anchor at line 167
+    TEMPLATE DISTANCES: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07020': 7, '0': -1}
+    CHECKING: distance 8 -> line 175
+    FOUND CHUNK: '4005' at line 175
+    CHECKING: distance 2 -> line 169
+    FOUND CHUNK: 'RES' at line 169
+    CHECKING: distance 3 -> line 170
+    FOUND CHUNK: 'VAP' at line 170
+    CHECKING: distance 4 -> line 171
+    FOUND CHUNK: 'DWG' at line 171
+    CHECKING: distance 5 -> line 172
+    FOUND CHUNK: '233' at line 172
+    CHECKING: distance 6 -> line 173
+    FOUND CHUNK: 'IC' at line 173
+    CHECKING: distance 7 -> line 174
+    FOUND CHUNK: '07205' at line 174
+    CHECKING: distance -1 -> line 166
+    FOUND CHUNK: '0' at line 166
+    RESULT: 8 chunks found: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07205': 7, '0': -1}
+FOUND CHUNKS: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07205': 7, '0': -1}
+CHUNK LINES: {'4005': 175, 'RES': 169, 'VAP': 170, 'DWG': 171, '233': 172, 'IC': 173, '07205': 174, '0': 166}
+COMPLETENESS CHECK: True
+SUCCESS: Using anchor at line 167
+FINAL RESULT: 167
+=== END DEBUG FOR C:\PyTests\Submission\Process\2211 au\dst\07xxx\PDF\4005-RES-VAP-DWG-233-IC-07205-0.pdf ===
+
+
+=== DEBUGGING FILE: C:\PyTests\Submission\Process\2211 au\dst\07xxx\PDF\4005-RES-VAP-DWG-233-IC-07205-0.txt ===
+ANCHOR SEARCH: Looking for ['High', 'Rise', 'Residential', 'Development']
+FOUND ANCHORS: [190, 199] (total: 2)
+TEMPLATE FILE: False
+TEMPLATE PATTERN TO MATCH: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07020': 7, '0': -1}
+
+--- TRYING ANCHOR #1 AT LINE 190 ---
+    GENERATING PATTERN: anchor at line 190
+    TEMPLATE DISTANCES: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07020': 7, '0': -1}
+    CHECKING: distance 8 -> line 198
+    FOUND CHUNK: '4005' at line 198
+    CHECKING: distance 2 -> line 192
+    FOUND CHUNK: 'RES' at line 192
+    CHECKING: distance 3 -> line 193
+    FOUND CHUNK: 'VAP' at line 193
+    CHECKING: distance 4 -> line 194
+    FOUND CHUNK: 'DWG' at line 194
+    CHECKING: distance 5 -> line 195
+    FOUND CHUNK: '233' at line 195
+    CHECKING: distance 6 -> line 196
+    FOUND CHUNK: 'IC' at line 196
+    CHECKING: distance 7 -> line 197
+    FOUND CHUNK: '07205' at line 197
+    CHECKING: distance -1 -> line 189
+    FOUND CHUNK: '0' at line 189
+    RESULT: 8 chunks found: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07205': 7, '0': -1}
+FOUND CHUNKS: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07205': 7, '0': -1}
+CHUNK LINES: {'4005': 198, 'RES': 192, 'VAP': 193, 'DWG': 194, '233': 195, 'IC': 196, '07205': 197, '0': 189}
+COMPLETENESS CHECK: True
+SUCCESS: Using anchor at line 190
+FINAL RESULT: 190
+=== END DEBUG FOR C:\PyTests\Submission\Process\2211 au\dst\07xxx\PDF\4005-RES-VAP-DWG-233-IC-07205-0.txt ===
+
+
+=== DEBUGGING FILE: C:\PyTests\Submission\Process\2211 au\dst\07xxx\PDF\4005-RES-VAP-DWG-233-IC-07206-0.pdf ===
+ANCHOR SEARCH: Looking for ['High', 'Rise', 'Residential', 'Development']
+FOUND ANCHORS: [158, 167] (total: 2)
+TEMPLATE FILE: False
+TEMPLATE PATTERN TO MATCH: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07020': 7, '0': -1}
+
+--- TRYING ANCHOR #1 AT LINE 158 ---
+    GENERATING PATTERN: anchor at line 158
+    TEMPLATE DISTANCES: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07020': 7, '0': -1}
+    CHECKING: distance 8 -> line 166
+    FOUND CHUNK: '4005' at line 166
+    CHECKING: distance 2 -> line 160
+    FOUND CHUNK: 'RES' at line 160
+    CHECKING: distance 3 -> line 161
+    FOUND CHUNK: 'VAP' at line 161
+    CHECKING: distance 4 -> line 162
+    FOUND CHUNK: 'DWG' at line 162
+    CHECKING: distance 5 -> line 163
+    FOUND CHUNK: '233' at line 163
+    CHECKING: distance 6 -> line 164
+    FOUND CHUNK: 'IC' at line 164
+    CHECKING: distance 7 -> line 165
+    FOUND CHUNK: '07206' at line 165
+    CHECKING: distance -1 -> line 157
+    FOUND CHUNK: '0' at line 157
+    RESULT: 8 chunks found: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07206': 7, '0': -1}
+FOUND CHUNKS: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07206': 7, '0': -1}
+CHUNK LINES: {'4005': 166, 'RES': 160, 'VAP': 161, 'DWG': 162, '233': 163, 'IC': 164, '07206': 165, '0': 157}
+COMPLETENESS CHECK: True
+SUCCESS: Using anchor at line 158
+FINAL RESULT: 158
+=== END DEBUG FOR C:\PyTests\Submission\Process\2211 au\dst\07xxx\PDF\4005-RES-VAP-DWG-233-IC-07206-0.pdf ===
+
+
+=== DEBUGGING FILE: C:\PyTests\Submission\Process\2211 au\dst\07xxx\PDF\4005-RES-VAP-DWG-233-IC-07206-0.txt ===
+ANCHOR SEARCH: Looking for ['High', 'Rise', 'Residential', 'Development']
+FOUND ANCHORS: [181, 190] (total: 2)
+TEMPLATE FILE: False
+TEMPLATE PATTERN TO MATCH: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07020': 7, '0': -1}
+
+--- TRYING ANCHOR #1 AT LINE 181 ---
+    GENERATING PATTERN: anchor at line 181
+    TEMPLATE DISTANCES: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07020': 7, '0': -1}
+    CHECKING: distance 8 -> line 189
+    FOUND CHUNK: '4005' at line 189
+    CHECKING: distance 2 -> line 183
+    FOUND CHUNK: 'RES' at line 183
+    CHECKING: distance 3 -> line 184
+    FOUND CHUNK: 'VAP' at line 184
+    CHECKING: distance 4 -> line 185
+    FOUND CHUNK: 'DWG' at line 185
+    CHECKING: distance 5 -> line 186
+    FOUND CHUNK: '233' at line 186
+    CHECKING: distance 6 -> line 187
+    FOUND CHUNK: 'IC' at line 187
+    CHECKING: distance 7 -> line 188
+    FOUND CHUNK: '07206' at line 188
+    CHECKING: distance -1 -> line 180
+    FOUND CHUNK: '0' at line 180
+    RESULT: 8 chunks found: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07206': 7, '0': -1}
+FOUND CHUNKS: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07206': 7, '0': -1}
+CHUNK LINES: {'4005': 189, 'RES': 183, 'VAP': 184, 'DWG': 185, '233': 186, 'IC': 187, '07206': 188, '0': 180}
+COMPLETENESS CHECK: True
+SUCCESS: Using anchor at line 181
+FINAL RESULT: 181
+=== END DEBUG FOR C:\PyTests\Submission\Process\2211 au\dst\07xxx\PDF\4005-RES-VAP-DWG-233-IC-07206-0.txt ===
+
+
+=== DEBUGGING FILE: C:\PyTests\Submission\Process\2211 au\dst\07xxx\PDF\4005-RES-VAP-DWG-233-IC-07207-0.pdf ===
+ANCHOR SEARCH: Looking for ['High', 'Rise', 'Residential', 'Development']
+FOUND ANCHORS: [138, 147] (total: 2)
+TEMPLATE FILE: False
+TEMPLATE PATTERN TO MATCH: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07020': 7, '0': -1}
+
+--- TRYING ANCHOR #1 AT LINE 138 ---
+    GENERATING PATTERN: anchor at line 138
+    TEMPLATE DISTANCES: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07020': 7, '0': -1}
+    CHECKING: distance 8 -> line 146
+    FOUND CHUNK: '4005' at line 146
+    CHECKING: distance 2 -> line 140
+    FOUND CHUNK: 'RES' at line 140
+    CHECKING: distance 3 -> line 141
+    FOUND CHUNK: 'VAP' at line 141
+    CHECKING: distance 4 -> line 142
+    FOUND CHUNK: 'DWG' at line 142
+    CHECKING: distance 5 -> line 143
+    FOUND CHUNK: '233' at line 143
+    CHECKING: distance 6 -> line 144
+    FOUND CHUNK: 'IC' at line 144
+    CHECKING: distance 7 -> line 145
+    FOUND CHUNK: '07207' at line 145
+    CHECKING: distance -1 -> line 137
+    FOUND CHUNK: '0' at line 137
+    RESULT: 8 chunks found: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07207': 7, '0': -1}
+FOUND CHUNKS: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07207': 7, '0': -1}
+CHUNK LINES: {'4005': 146, 'RES': 140, 'VAP': 141, 'DWG': 142, '233': 143, 'IC': 144, '07207': 145, '0': 137}
+COMPLETENESS CHECK: True
+SUCCESS: Using anchor at line 138
+FINAL RESULT: 138
+=== END DEBUG FOR C:\PyTests\Submission\Process\2211 au\dst\07xxx\PDF\4005-RES-VAP-DWG-233-IC-07207-0.pdf ===
+
+
+=== DEBUGGING FILE: C:\PyTests\Submission\Process\2211 au\dst\07xxx\PDF\4005-RES-VAP-DWG-233-IC-07207-0.txt ===
+ANCHOR SEARCH: Looking for ['High', 'Rise', 'Residential', 'Development']
+FOUND ANCHORS: [162, 171] (total: 2)
+TEMPLATE FILE: False
+TEMPLATE PATTERN TO MATCH: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07020': 7, '0': -1}
+
+--- TRYING ANCHOR #1 AT LINE 162 ---
+    GENERATING PATTERN: anchor at line 162
+    TEMPLATE DISTANCES: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07020': 7, '0': -1}
+    CHECKING: distance 8 -> line 170
+    FOUND CHUNK: '4005' at line 170
+    CHECKING: distance 2 -> line 164
+    FOUND CHUNK: 'RES' at line 164
+    CHECKING: distance 3 -> line 165
+    FOUND CHUNK: 'VAP' at line 165
+    CHECKING: distance 4 -> line 166
+    FOUND CHUNK: 'DWG' at line 166
+    CHECKING: distance 5 -> line 167
+    FOUND CHUNK: '233' at line 167
+    CHECKING: distance 6 -> line 168
+    FOUND CHUNK: 'IC' at line 168
+    CHECKING: distance 7 -> line 169
+    FOUND CHUNK: '07207' at line 169
+    CHECKING: distance -1 -> line 161
+    FOUND CHUNK: '0' at line 161
+    RESULT: 8 chunks found: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07207': 7, '0': -1}
+FOUND CHUNKS: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07207': 7, '0': -1}
+CHUNK LINES: {'4005': 170, 'RES': 164, 'VAP': 165, 'DWG': 166, '233': 167, 'IC': 168, '07207': 169, '0': 161}
+COMPLETENESS CHECK: True
+SUCCESS: Using anchor at line 162
+FINAL RESULT: 162
+=== END DEBUG FOR C:\PyTests\Submission\Process\2211 au\dst\07xxx\PDF\4005-RES-VAP-DWG-233-IC-07207-0.txt ===
+
+
+=== DEBUGGING FILE: C:\PyTests\Submission\Process\2211 au\dst\07xxx\PDF\4005-RES-VAP-DWG-233-IC-07208-0.pdf ===
+ANCHOR SEARCH: Looking for ['High', 'Rise', 'Residential', 'Development']
+FOUND ANCHORS: [167, 176] (total: 2)
+TEMPLATE FILE: False
+TEMPLATE PATTERN TO MATCH: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07020': 7, '0': -1}
+
+--- TRYING ANCHOR #1 AT LINE 167 ---
+    GENERATING PATTERN: anchor at line 167
+    TEMPLATE DISTANCES: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07020': 7, '0': -1}
+    CHECKING: distance 8 -> line 175
+    FOUND CHUNK: '4005' at line 175
+    CHECKING: distance 2 -> line 169
+    FOUND CHUNK: 'RES' at line 169
+    CHECKING: distance 3 -> line 170
+    FOUND CHUNK: 'VAP' at line 170
+    CHECKING: distance 4 -> line 171
+    FOUND CHUNK: 'DWG' at line 171
+    CHECKING: distance 5 -> line 172
+    FOUND CHUNK: '233' at line 172
+    CHECKING: distance 6 -> line 173
+    FOUND CHUNK: 'IC' at line 173
+    CHECKING: distance 7 -> line 174
+    FOUND CHUNK: '07208' at line 174
+    CHECKING: distance -1 -> line 166
+    FOUND CHUNK: '0' at line 166
+    RESULT: 8 chunks found: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07208': 7, '0': -1}
+FOUND CHUNKS: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07208': 7, '0': -1}
+CHUNK LINES: {'4005': 175, 'RES': 169, 'VAP': 170, 'DWG': 171, '233': 172, 'IC': 173, '07208': 174, '0': 166}
+COMPLETENESS CHECK: True
+SUCCESS: Using anchor at line 167
+FINAL RESULT: 167
+=== END DEBUG FOR C:\PyTests\Submission\Process\2211 au\dst\07xxx\PDF\4005-RES-VAP-DWG-233-IC-07208-0.pdf ===
+
+
+=== DEBUGGING FILE: C:\PyTests\Submission\Process\2211 au\dst\07xxx\PDF\4005-RES-VAP-DWG-233-IC-07208-0.txt ===
+ANCHOR SEARCH: Looking for ['High', 'Rise', 'Residential', 'Development']
+FOUND ANCHORS: [190, 199] (total: 2)
+TEMPLATE FILE: False
+TEMPLATE PATTERN TO MATCH: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07020': 7, '0': -1}
+
+--- TRYING ANCHOR #1 AT LINE 190 ---
+    GENERATING PATTERN: anchor at line 190
+    TEMPLATE DISTANCES: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07020': 7, '0': -1}
+    CHECKING: distance 8 -> line 198
+    FOUND CHUNK: '4005' at line 198
+    CHECKING: distance 2 -> line 192
+    FOUND CHUNK: 'RES' at line 192
+    CHECKING: distance 3 -> line 193
+    FOUND CHUNK: 'VAP' at line 193
+    CHECKING: distance 4 -> line 194
+    FOUND CHUNK: 'DWG' at line 194
+    CHECKING: distance 5 -> line 195
+    FOUND CHUNK: '233' at line 195
+    CHECKING: distance 6 -> line 196
+    FOUND CHUNK: 'IC' at line 196
+    CHECKING: distance 7 -> line 197
+    FOUND CHUNK: '07208' at line 197
+    CHECKING: distance -1 -> line 189
+    FOUND CHUNK: '0' at line 189
+    RESULT: 8 chunks found: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07208': 7, '0': -1}
+FOUND CHUNKS: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07208': 7, '0': -1}
+CHUNK LINES: {'4005': 198, 'RES': 192, 'VAP': 193, 'DWG': 194, '233': 195, 'IC': 196, '07208': 197, '0': 189}
+COMPLETENESS CHECK: True
+SUCCESS: Using anchor at line 190
+FINAL RESULT: 190
+=== END DEBUG FOR C:\PyTests\Submission\Process\2211 au\dst\07xxx\PDF\4005-RES-VAP-DWG-233-IC-07208-0.txt ===
+
+
+=== DEBUGGING FILE: C:\PyTests\Submission\Process\2211 au\dst\07xxx\PDF\4005-RES-VAP-DWG-233-IC-07209-0.pdf ===
+ANCHOR SEARCH: Looking for ['High', 'Rise', 'Residential', 'Development']
+FOUND ANCHORS: [112, 121] (total: 2)
+TEMPLATE FILE: False
+TEMPLATE PATTERN TO MATCH: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07020': 7, '0': -1}
+
+--- TRYING ANCHOR #1 AT LINE 112 ---
+    GENERATING PATTERN: anchor at line 112
+    TEMPLATE DISTANCES: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07020': 7, '0': -1}
+    CHECKING: distance 8 -> line 120
+    FOUND CHUNK: '4005' at line 120
+    CHECKING: distance 2 -> line 114
+    FOUND CHUNK: 'RES' at line 114
+    CHECKING: distance 3 -> line 115
+    FOUND CHUNK: 'VAP' at line 115
+    CHECKING: distance 4 -> line 116
+    FOUND CHUNK: 'DWG' at line 116
+    CHECKING: distance 5 -> line 117
+    FOUND CHUNK: '233' at line 117
+    CHECKING: distance 6 -> line 118
+    FOUND CHUNK: 'IC' at line 118
+    CHECKING: distance 7 -> line 119
+    FOUND CHUNK: '07209' at line 119
+    CHECKING: distance -1 -> line 111
+    FOUND CHUNK: '0' at line 111
+    RESULT: 8 chunks found: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07209': 7, '0': -1}
+FOUND CHUNKS: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07209': 7, '0': -1}
+CHUNK LINES: {'4005': 120, 'RES': 114, 'VAP': 115, 'DWG': 116, '233': 117, 'IC': 118, '07209': 119, '0': 111}
+COMPLETENESS CHECK: True
+SUCCESS: Using anchor at line 112
+FINAL RESULT: 112
+=== END DEBUG FOR C:\PyTests\Submission\Process\2211 au\dst\07xxx\PDF\4005-RES-VAP-DWG-233-IC-07209-0.pdf ===
+
+
+=== DEBUGGING FILE: C:\PyTests\Submission\Process\2211 au\dst\07xxx\PDF\4005-RES-VAP-DWG-233-IC-07209-0.txt ===
+ANCHOR SEARCH: Looking for ['High', 'Rise', 'Residential', 'Development']
+FOUND ANCHORS: [136, 146] (total: 2)
+TEMPLATE FILE: False
+TEMPLATE PATTERN TO MATCH: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07020': 7, '0': -1}
+
+--- TRYING ANCHOR #1 AT LINE 136 ---
+    GENERATING PATTERN: anchor at line 136
+    TEMPLATE DISTANCES: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07020': 7, '0': -1}
+    CHECKING: distance 8 -> line 144
+    FOUND CHUNK: '07209' at line 144
+    CHECKING: distance 2 -> line 138
+    FOUND CHUNK: 'None' at line 138
+    MISSING: No valid chunk at line 138
+    CHECKING: distance 3 -> line 139
+    FOUND CHUNK: 'RES' at line 139
+    CHECKING: distance 4 -> line 140
+    FOUND CHUNK: 'VAP' at line 140
+    CHECKING: distance 5 -> line 141
+    FOUND CHUNK: 'DWG' at line 141
+    CHECKING: distance 6 -> line 142
+    FOUND CHUNK: '233' at line 142
+    CHECKING: distance 7 -> line 143
+    FOUND CHUNK: 'IC' at line 143
+    CHECKING: distance -1 -> line 135
+    FOUND CHUNK: '0' at line 135
+    RESULT: 7 chunks found: {'07209': 8, 'RES': 3, 'VAP': 4, 'DWG': 5, '233': 6, 'IC': 7, '0': -1}
+FOUND CHUNKS: {'07209': 8, 'RES': 3, 'VAP': 4, 'DWG': 5, '233': 6, 'IC': 7, '0': -1}
+CHUNK LINES: {'07209': 144, 'RES': 139, 'VAP': 140, 'DWG': 141, '233': 142, 'IC': 143, '0': 135}
+COMPLETENESS CHECK: False
+INCOMPLETE: Missing chunks, trying next anchor
+
+--- TRYING ANCHOR #2 AT LINE 146 ---
+    GENERATING PATTERN: anchor at line 146
+    TEMPLATE DISTANCES: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07020': 7, '0': -1}
+    CHECKING: distance 8 -> line 154
+    FOUND CHUNK: 'MB' at line 154
+    CHECKING: distance 2 -> line 148
+    FOUND CHUNK: 'None' at line 148
+    MISSING: No valid chunk at line 148
+    CHECKING: distance 3 -> line 149
+    FOUND CHUNK: '07209' at line 149
+    CHECKING: distance 4 -> line 150
+    FOUND CHUNK: '3620' at line 150
+    CHECKING: distance 5 -> line 151
+    FOUND CHUNK: '1040' at line 151
+    CHECKING: distance 6 -> line 152
+    FOUND CHUNK: '1040' at line 152
+    CHECKING: distance 7 -> line 153
+    FOUND CHUNK: '1040' at line 153
+    CHECKING: distance -1 -> line 145
+    FOUND CHUNK: '4005' at line 145
+    RESULT: 5 chunks found: {'MB': 8, '07209': 3, '3620': 4, '1040': 7, '4005': -1}
+FOUND CHUNKS: {'MB': 8, '07209': 3, '3620': 4, '1040': 7, '4005': -1}
+CHUNK LINES: {'MB': 154, '07209': 149, '3620': 150, '1040': 153, '4005': 145}
+COMPLETENESS CHECK: False
+INCOMPLETE: Missing chunks, trying next anchor
+FAILURE: No anchor position yielded complete pattern
+
+=== DEBUGGING FILE: C:\PyTests\Submission\Process\2211 au\dst\07xxx\PDF\4005-RES-VAP-DWG-233-IC-07210-0.pdf ===
+ANCHOR SEARCH: Looking for ['High', 'Rise', 'Residential', 'Development']
+FOUND ANCHORS: [108, 117] (total: 2)
+TEMPLATE FILE: False
+TEMPLATE PATTERN TO MATCH: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07020': 7, '0': -1}
+
+--- TRYING ANCHOR #1 AT LINE 108 ---
+    GENERATING PATTERN: anchor at line 108
+    TEMPLATE DISTANCES: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07020': 7, '0': -1}
+    CHECKING: distance 8 -> line 116
+    FOUND CHUNK: '4005' at line 116
+    CHECKING: distance 2 -> line 110
+    FOUND CHUNK: 'RES' at line 110
+    CHECKING: distance 3 -> line 111
+    FOUND CHUNK: 'VAP' at line 111
+    CHECKING: distance 4 -> line 112
+    FOUND CHUNK: 'DWG' at line 112
+    CHECKING: distance 5 -> line 113
+    FOUND CHUNK: '233' at line 113
+    CHECKING: distance 6 -> line 114
+    FOUND CHUNK: 'IC' at line 114
+    CHECKING: distance 7 -> line 115
+    FOUND CHUNK: '07210' at line 115
+    CHECKING: distance -1 -> line 107
+    FOUND CHUNK: '0' at line 107
+    RESULT: 8 chunks found: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07210': 7, '0': -1}
+FOUND CHUNKS: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07210': 7, '0': -1}
+CHUNK LINES: {'4005': 116, 'RES': 110, 'VAP': 111, 'DWG': 112, '233': 113, 'IC': 114, '07210': 115, '0': 107}
+COMPLETENESS CHECK: True
+SUCCESS: Using anchor at line 108
+FINAL RESULT: 108
+=== END DEBUG FOR C:\PyTests\Submission\Process\2211 au\dst\07xxx\PDF\4005-RES-VAP-DWG-233-IC-07210-0.pdf ===
+
+
+=== DEBUGGING FILE: C:\PyTests\Submission\Process\2211 au\dst\07xxx\PDF\4005-RES-VAP-DWG-233-IC-07210-0.txt ===
+ANCHOR SEARCH: Looking for ['High', 'Rise', 'Residential', 'Development']
+FOUND ANCHORS: [132, 142] (total: 2)
+TEMPLATE FILE: False
+TEMPLATE PATTERN TO MATCH: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07020': 7, '0': -1}
+
+--- TRYING ANCHOR #1 AT LINE 132 ---
+    GENERATING PATTERN: anchor at line 132
+    TEMPLATE DISTANCES: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07020': 7, '0': -1}
+    CHECKING: distance 8 -> line 140
+    FOUND CHUNK: '07210' at line 140
+    CHECKING: distance 2 -> line 134
+    FOUND CHUNK: 'None' at line 134
+    MISSING: No valid chunk at line 134
+    CHECKING: distance 3 -> line 135
+    FOUND CHUNK: 'RES' at line 135
+    CHECKING: distance 4 -> line 136
+    FOUND CHUNK: 'VAP' at line 136
+    CHECKING: distance 5 -> line 137
+    FOUND CHUNK: 'DWG' at line 137
+    CHECKING: distance 6 -> line 138
+    FOUND CHUNK: '233' at line 138
+    CHECKING: distance 7 -> line 139
+    FOUND CHUNK: 'IC' at line 139
+    CHECKING: distance -1 -> line 131
+    FOUND CHUNK: '0' at line 131
+    RESULT: 7 chunks found: {'07210': 8, 'RES': 3, 'VAP': 4, 'DWG': 5, '233': 6, 'IC': 7, '0': -1}
+FOUND CHUNKS: {'07210': 8, 'RES': 3, 'VAP': 4, 'DWG': 5, '233': 6, 'IC': 7, '0': -1}
+CHUNK LINES: {'07210': 140, 'RES': 135, 'VAP': 136, 'DWG': 137, '233': 138, 'IC': 139, '0': 131}
+COMPLETENESS CHECK: False
+INCOMPLETE: Missing chunks, trying next anchor
+
+--- TRYING ANCHOR #2 AT LINE 142 ---
+    GENERATING PATTERN: anchor at line 142
+    TEMPLATE DISTANCES: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07020': 7, '0': -1}
+    CHECKING: distance 8 -> line 150
+    FOUND CHUNK: 'None' at line 150
+    MISSING: No valid chunk at line 150
+    CHECKING: distance 2 -> line 144
+    FOUND CHUNK: 'None' at line 144
+    MISSING: No valid chunk at line 144
+    CHECKING: distance 3 -> line 145
+    FOUND CHUNK: '07210' at line 145
+    CHECKING: distance 4 -> line 146
+    FOUND CHUNK: 'II' at line 146
+    CHECKING: distance 5 -> line 147
+    FOUND CHUNK: 'None' at line 147
+    MISSING: No valid chunk at line 147
+    CHECKING: distance 6 -> line 148
+    FOUND CHUNK: 'None' at line 148
+    MISSING: No valid chunk at line 148
+    CHECKING: distance 7 -> line 149
+    FOUND CHUNK: 'None' at line 149
+    MISSING: No valid chunk at line 149
+    CHECKING: distance -1 -> line 141
+    FOUND CHUNK: '4005' at line 141
+    RESULT: 3 chunks found: {'07210': 3, 'II': 4, '4005': -1}
+FOUND CHUNKS: {'07210': 3, 'II': 4, '4005': -1}
+CHUNK LINES: {'07210': 145, 'II': 146, '4005': 141}
+COMPLETENESS CHECK: False
+INCOMPLETE: Missing chunks, trying next anchor
+FAILURE: No anchor position yielded complete pattern
+
+=== DEBUGGING FILE: C:\PyTests\Submission\Process\2211 au\dst\07xxx\PDF\4005-RES-VAP-DWG-233-IC-07211-0.pdf ===
+ANCHOR SEARCH: Looking for ['High', 'Rise', 'Residential', 'Development']
+FOUND ANCHORS: [108, 117] (total: 2)
+TEMPLATE FILE: False
+TEMPLATE PATTERN TO MATCH: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07020': 7, '0': -1}
+
+--- TRYING ANCHOR #1 AT LINE 108 ---
+    GENERATING PATTERN: anchor at line 108
+    TEMPLATE DISTANCES: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07020': 7, '0': -1}
+    CHECKING: distance 8 -> line 116
+    FOUND CHUNK: '4005' at line 116
+    CHECKING: distance 2 -> line 110
+    FOUND CHUNK: 'RES' at line 110
+    CHECKING: distance 3 -> line 111
+    FOUND CHUNK: 'VAP' at line 111
+    CHECKING: distance 4 -> line 112
+    FOUND CHUNK: 'DWG' at line 112
+    CHECKING: distance 5 -> line 113
+    FOUND CHUNK: '233' at line 113
+    CHECKING: distance 6 -> line 114
+    FOUND CHUNK: 'IC' at line 114
+    CHECKING: distance 7 -> line 115
+    FOUND CHUNK: '07211' at line 115
+    CHECKING: distance -1 -> line 107
+    FOUND CHUNK: '0' at line 107
+    RESULT: 8 chunks found: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07211': 7, '0': -1}
+FOUND CHUNKS: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07211': 7, '0': -1}
+CHUNK LINES: {'4005': 116, 'RES': 110, 'VAP': 111, 'DWG': 112, '233': 113, 'IC': 114, '07211': 115, '0': 107}
+COMPLETENESS CHECK: True
+SUCCESS: Using anchor at line 108
+FINAL RESULT: 108
+=== END DEBUG FOR C:\PyTests\Submission\Process\2211 au\dst\07xxx\PDF\4005-RES-VAP-DWG-233-IC-07211-0.pdf ===
+
+
+=== DEBUGGING FILE: C:\PyTests\Submission\Process\2211 au\dst\07xxx\PDF\4005-RES-VAP-DWG-233-IC-07211-0.txt ===
+ANCHOR SEARCH: Looking for ['High', 'Rise', 'Residential', 'Development']
+FOUND ANCHORS: [132, 142] (total: 2)
+TEMPLATE FILE: False
+TEMPLATE PATTERN TO MATCH: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07020': 7, '0': -1}
+
+--- TRYING ANCHOR #1 AT LINE 132 ---
+    GENERATING PATTERN: anchor at line 132
+    TEMPLATE DISTANCES: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07020': 7, '0': -1}
+    CHECKING: distance 8 -> line 140
+    FOUND CHUNK: '07211' at line 140
+    CHECKING: distance 2 -> line 134
+    FOUND CHUNK: 'None' at line 134
+    MISSING: No valid chunk at line 134
+    CHECKING: distance 3 -> line 135
+    FOUND CHUNK: 'RES' at line 135
+    CHECKING: distance 4 -> line 136
+    FOUND CHUNK: 'VAP' at line 136
+    CHECKING: distance 5 -> line 137
+    FOUND CHUNK: 'DWG' at line 137
+    CHECKING: distance 6 -> line 138
+    FOUND CHUNK: '233' at line 138
+    CHECKING: distance 7 -> line 139
+    FOUND CHUNK: 'IC' at line 139
+    CHECKING: distance -1 -> line 131
+    FOUND CHUNK: '0' at line 131
+    RESULT: 7 chunks found: {'07211': 8, 'RES': 3, 'VAP': 4, 'DWG': 5, '233': 6, 'IC': 7, '0': -1}
+FOUND CHUNKS: {'07211': 8, 'RES': 3, 'VAP': 4, 'DWG': 5, '233': 6, 'IC': 7, '0': -1}
+CHUNK LINES: {'07211': 140, 'RES': 135, 'VAP': 136, 'DWG': 137, '233': 138, 'IC': 139, '0': 131}
+COMPLETENESS CHECK: False
+INCOMPLETE: Missing chunks, trying next anchor
+
+--- TRYING ANCHOR #2 AT LINE 142 ---
+    GENERATING PATTERN: anchor at line 142
+    TEMPLATE DISTANCES: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07020': 7, '0': -1}
+    CHECKING: distance 8 -> line 150
+    FOUND CHUNK: '1510' at line 150
+    CHECKING: distance 2 -> line 144
+    FOUND CHUNK: 'None' at line 144
+    MISSING: No valid chunk at line 144
+    CHECKING: distance 3 -> line 145
+    FOUND CHUNK: '07211' at line 145
+    CHECKING: distance 4 -> line 146
+    FOUND CHUNK: 'MB' at line 146
+    CHECKING: distance 5 -> line 147
+    FOUND CHUNK: '5580' at line 147
+    CHECKING: distance 6 -> line 148
+    FOUND CHUNK: '2800' at line 148
+    CHECKING: distance 7 -> line 149
+    FOUND CHUNK: '1100' at line 149
+    CHECKING: distance -1 -> line 141
+    FOUND CHUNK: '4005' at line 141
+    RESULT: 7 chunks found: {'1510': 8, '07211': 3, 'MB': 4, '5580': 5, '2800': 6, '1100': 7, '4005': -1}
+FOUND CHUNKS: {'1510': 8, '07211': 3, 'MB': 4, '5580': 5, '2800': 6, '1100': 7, '4005': -1}
+CHUNK LINES: {'1510': 150, '07211': 145, 'MB': 146, '5580': 147, '2800': 148, '1100': 149, '4005': 141}
+COMPLETENESS CHECK: False
+INCOMPLETE: Missing chunks, trying next anchor
+FAILURE: No anchor position yielded complete pattern
+
+=== DEBUGGING FILE: C:\PyTests\Submission\Process\2211 au\dst\07xxx\PDF\4005-RES-VAP-DWG-233-IC-07212-0.pdf ===
+ANCHOR SEARCH: Looking for ['High', 'Rise', 'Residential', 'Development']
+FOUND ANCHORS: [129, 138] (total: 2)
+TEMPLATE FILE: False
+TEMPLATE PATTERN TO MATCH: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07020': 7, '0': -1}
+
+--- TRYING ANCHOR #1 AT LINE 129 ---
+    GENERATING PATTERN: anchor at line 129
+    TEMPLATE DISTANCES: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07020': 7, '0': -1}
+    CHECKING: distance 8 -> line 137
+    FOUND CHUNK: '4005' at line 137
+    CHECKING: distance 2 -> line 131
+    FOUND CHUNK: 'RES' at line 131
+    CHECKING: distance 3 -> line 132
+    FOUND CHUNK: 'VAP' at line 132
+    CHECKING: distance 4 -> line 133
+    FOUND CHUNK: 'DWG' at line 133
+    CHECKING: distance 5 -> line 134
+    FOUND CHUNK: '233' at line 134
+    CHECKING: distance 6 -> line 135
+    FOUND CHUNK: 'IC' at line 135
+    CHECKING: distance 7 -> line 136
+    FOUND CHUNK: '07212' at line 136
+    CHECKING: distance -1 -> line 128
+    FOUND CHUNK: '0' at line 128
+    RESULT: 8 chunks found: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07212': 7, '0': -1}
+FOUND CHUNKS: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07212': 7, '0': -1}
+CHUNK LINES: {'4005': 137, 'RES': 131, 'VAP': 132, 'DWG': 133, '233': 134, 'IC': 135, '07212': 136, '0': 128}
+COMPLETENESS CHECK: True
+SUCCESS: Using anchor at line 129
+FINAL RESULT: 129
+=== END DEBUG FOR C:\PyTests\Submission\Process\2211 au\dst\07xxx\PDF\4005-RES-VAP-DWG-233-IC-07212-0.pdf ===
+
+
+=== DEBUGGING FILE: C:\PyTests\Submission\Process\2211 au\dst\07xxx\PDF\4005-RES-VAP-DWG-233-IC-07212-0.txt ===
+ANCHOR SEARCH: Looking for ['High', 'Rise', 'Residential', 'Development']
+FOUND ANCHORS: [143, 152] (total: 2)
+TEMPLATE FILE: False
+TEMPLATE PATTERN TO MATCH: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07020': 7, '0': -1}
+
+--- TRYING ANCHOR #1 AT LINE 143 ---
+    GENERATING PATTERN: anchor at line 143
+    TEMPLATE DISTANCES: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07020': 7, '0': -1}
+    CHECKING: distance 8 -> line 151
+    FOUND CHUNK: '4005' at line 151
+    CHECKING: distance 2 -> line 145
+    FOUND CHUNK: 'RES' at line 145
+    CHECKING: distance 3 -> line 146
+    FOUND CHUNK: 'VAP' at line 146
+    CHECKING: distance 4 -> line 147
+    FOUND CHUNK: 'DWG' at line 147
+    CHECKING: distance 5 -> line 148
+    FOUND CHUNK: '233' at line 148
+    CHECKING: distance 6 -> line 149
+    FOUND CHUNK: 'IC' at line 149
+    CHECKING: distance 7 -> line 150
+    FOUND CHUNK: '07212' at line 150
+    CHECKING: distance -1 -> line 142
+    FOUND CHUNK: '0' at line 142
+    RESULT: 8 chunks found: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07212': 7, '0': -1}
+FOUND CHUNKS: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07212': 7, '0': -1}
+CHUNK LINES: {'4005': 151, 'RES': 145, 'VAP': 146, 'DWG': 147, '233': 148, 'IC': 149, '07212': 150, '0': 142}
+COMPLETENESS CHECK: True
+SUCCESS: Using anchor at line 143
+FINAL RESULT: 143
+=== END DEBUG FOR C:\PyTests\Submission\Process\2211 au\dst\07xxx\PDF\4005-RES-VAP-DWG-233-IC-07212-0.txt ===
+
+
+=== DEBUGGING FILE: C:\PyTests\Submission\Process\2211 au\dst\07xxx\PDF\4005-RES-VAP-DWG-233-IC-07213-0.pdf ===
+ANCHOR SEARCH: Looking for ['High', 'Rise', 'Residential', 'Development']
+FOUND ANCHORS: [177, 186] (total: 2)
+TEMPLATE FILE: False
+TEMPLATE PATTERN TO MATCH: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07020': 7, '0': -1}
+
+--- TRYING ANCHOR #1 AT LINE 177 ---
+    GENERATING PATTERN: anchor at line 177
+    TEMPLATE DISTANCES: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07020': 7, '0': -1}
+    CHECKING: distance 8 -> line 185
+    FOUND CHUNK: '4005' at line 185
+    CHECKING: distance 2 -> line 179
+    FOUND CHUNK: 'RES' at line 179
+    CHECKING: distance 3 -> line 180
+    FOUND CHUNK: 'VAP' at line 180
+    CHECKING: distance 4 -> line 181
+    FOUND CHUNK: 'DWG' at line 181
+    CHECKING: distance 5 -> line 182
+    FOUND CHUNK: '233' at line 182
+    CHECKING: distance 6 -> line 183
+    FOUND CHUNK: 'IC' at line 183
+    CHECKING: distance 7 -> line 184
+    FOUND CHUNK: '07213' at line 184
+    CHECKING: distance -1 -> line 176
+    FOUND CHUNK: '0' at line 176
+    RESULT: 8 chunks found: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07213': 7, '0': -1}
+FOUND CHUNKS: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07213': 7, '0': -1}
+CHUNK LINES: {'4005': 185, 'RES': 179, 'VAP': 180, 'DWG': 181, '233': 182, 'IC': 183, '07213': 184, '0': 176}
+COMPLETENESS CHECK: True
+SUCCESS: Using anchor at line 177
+FINAL RESULT: 177
+=== END DEBUG FOR C:\PyTests\Submission\Process\2211 au\dst\07xxx\PDF\4005-RES-VAP-DWG-233-IC-07213-0.pdf ===
+
+
+=== DEBUGGING FILE: C:\PyTests\Submission\Process\2211 au\dst\07xxx\PDF\4005-RES-VAP-DWG-233-IC-07213-0.txt ===
+ANCHOR SEARCH: Looking for ['High', 'Rise', 'Residential', 'Development']
+FOUND ANCHORS: [190, 199] (total: 2)
+TEMPLATE FILE: False
+TEMPLATE PATTERN TO MATCH: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07020': 7, '0': -1}
+
+--- TRYING ANCHOR #1 AT LINE 190 ---
+    GENERATING PATTERN: anchor at line 190
+    TEMPLATE DISTANCES: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07020': 7, '0': -1}
+    CHECKING: distance 8 -> line 198
+    FOUND CHUNK: '4005' at line 198
+    CHECKING: distance 2 -> line 192
+    FOUND CHUNK: 'RES' at line 192
+    CHECKING: distance 3 -> line 193
+    FOUND CHUNK: 'VAP' at line 193
+    CHECKING: distance 4 -> line 194
+    FOUND CHUNK: 'DWG' at line 194
+    CHECKING: distance 5 -> line 195
+    FOUND CHUNK: '233' at line 195
+    CHECKING: distance 6 -> line 196
+    FOUND CHUNK: 'IC' at line 196
+    CHECKING: distance 7 -> line 197
+    FOUND CHUNK: '07213' at line 197
+    CHECKING: distance -1 -> line 189
+    FOUND CHUNK: '0' at line 189
+    RESULT: 8 chunks found: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07213': 7, '0': -1}
+FOUND CHUNKS: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07213': 7, '0': -1}
+CHUNK LINES: {'4005': 198, 'RES': 192, 'VAP': 193, 'DWG': 194, '233': 195, 'IC': 196, '07213': 197, '0': 189}
+COMPLETENESS CHECK: True
+SUCCESS: Using anchor at line 190
+FINAL RESULT: 190
+=== END DEBUG FOR C:\PyTests\Submission\Process\2211 au\dst\07xxx\PDF\4005-RES-VAP-DWG-233-IC-07213-0.txt ===
+
+
+=== DEBUGGING FILE: C:\PyTests\Submission\Process\2211 au\dst\07xxx\PDF\4005-RES-VAP-DWG-233-IC-07214-0.pdf ===
+ANCHOR SEARCH: Looking for ['High', 'Rise', 'Residential', 'Development']
+FOUND ANCHORS: [251, 260] (total: 2)
+TEMPLATE FILE: False
+TEMPLATE PATTERN TO MATCH: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07020': 7, '0': -1}
+
+--- TRYING ANCHOR #1 AT LINE 251 ---
+    GENERATING PATTERN: anchor at line 251
+    TEMPLATE DISTANCES: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07020': 7, '0': -1}
+    CHECKING: distance 8 -> line 259
+    FOUND CHUNK: '4005' at line 259
+    CHECKING: distance 2 -> line 253
+    FOUND CHUNK: 'RES' at line 253
+    CHECKING: distance 3 -> line 254
+    FOUND CHUNK: 'VAP' at line 254
+    CHECKING: distance 4 -> line 255
+    FOUND CHUNK: 'DWG' at line 255
+    CHECKING: distance 5 -> line 256
+    FOUND CHUNK: '233' at line 256
+    CHECKING: distance 6 -> line 257
+    FOUND CHUNK: 'IC' at line 257
+    CHECKING: distance 7 -> line 258
+    FOUND CHUNK: '07214' at line 258
+    CHECKING: distance -1 -> line 250
+    FOUND CHUNK: '0' at line 250
+    RESULT: 8 chunks found: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07214': 7, '0': -1}
+FOUND CHUNKS: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07214': 7, '0': -1}
+CHUNK LINES: {'4005': 259, 'RES': 253, 'VAP': 254, 'DWG': 255, '233': 256, 'IC': 257, '07214': 258, '0': 250}
+COMPLETENESS CHECK: True
+SUCCESS: Using anchor at line 251
+FINAL RESULT: 251
+=== END DEBUG FOR C:\PyTests\Submission\Process\2211 au\dst\07xxx\PDF\4005-RES-VAP-DWG-233-IC-07214-0.pdf ===
+
+
+=== DEBUGGING FILE: C:\PyTests\Submission\Process\2211 au\dst\07xxx\PDF\4005-RES-VAP-DWG-233-IC-07214-0.txt ===
+ANCHOR SEARCH: Looking for ['High', 'Rise', 'Residential', 'Development']
+FOUND ANCHORS: [264, 273] (total: 2)
+TEMPLATE FILE: False
+TEMPLATE PATTERN TO MATCH: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07020': 7, '0': -1}
+
+--- TRYING ANCHOR #1 AT LINE 264 ---
+    GENERATING PATTERN: anchor at line 264
+    TEMPLATE DISTANCES: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07020': 7, '0': -1}
+    CHECKING: distance 8 -> line 272
+    FOUND CHUNK: '4005' at line 272
+    CHECKING: distance 2 -> line 266
+    FOUND CHUNK: 'RES' at line 266
+    CHECKING: distance 3 -> line 267
+    FOUND CHUNK: 'VAP' at line 267
+    CHECKING: distance 4 -> line 268
+    FOUND CHUNK: 'DWG' at line 268
+    CHECKING: distance 5 -> line 269
+    FOUND CHUNK: '233' at line 269
+    CHECKING: distance 6 -> line 270
+    FOUND CHUNK: 'IC' at line 270
+    CHECKING: distance 7 -> line 271
+    FOUND CHUNK: '07214' at line 271
+    CHECKING: distance -1 -> line 263
+    FOUND CHUNK: '0' at line 263
+    RESULT: 8 chunks found: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07214': 7, '0': -1}
+FOUND CHUNKS: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07214': 7, '0': -1}
+CHUNK LINES: {'4005': 272, 'RES': 266, 'VAP': 267, 'DWG': 268, '233': 269, 'IC': 270, '07214': 271, '0': 263}
+COMPLETENESS CHECK: True
+SUCCESS: Using anchor at line 264
+FINAL RESULT: 264
+=== END DEBUG FOR C:\PyTests\Submission\Process\2211 au\dst\07xxx\PDF\4005-RES-VAP-DWG-233-IC-07214-0.txt ===
+
+
+=== DEBUGGING FILE: C:\PyTests\Submission\Process\2211 au\dst\07xxx\PDF\4005-RES-VAP-DWG-233-IC-07215-0.pdf ===
+ANCHOR SEARCH: Looking for ['High', 'Rise', 'Residential', 'Development']
+FOUND ANCHORS: [251, 260] (total: 2)
+TEMPLATE FILE: False
+TEMPLATE PATTERN TO MATCH: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07020': 7, '0': -1}
+
+--- TRYING ANCHOR #1 AT LINE 251 ---
+    GENERATING PATTERN: anchor at line 251
+    TEMPLATE DISTANCES: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07020': 7, '0': -1}
+    CHECKING: distance 8 -> line 259
+    FOUND CHUNK: '4005' at line 259
+    CHECKING: distance 2 -> line 253
+    FOUND CHUNK: 'RES' at line 253
+    CHECKING: distance 3 -> line 254
+    FOUND CHUNK: 'VAP' at line 254
+    CHECKING: distance 4 -> line 255
+    FOUND CHUNK: 'DWG' at line 255
+    CHECKING: distance 5 -> line 256
+    FOUND CHUNK: '233' at line 256
+    CHECKING: distance 6 -> line 257
+    FOUND CHUNK: 'IC' at line 257
+    CHECKING: distance 7 -> line 258
+    FOUND CHUNK: '07215' at line 258
+    CHECKING: distance -1 -> line 250
+    FOUND CHUNK: '0' at line 250
+    RESULT: 8 chunks found: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07215': 7, '0': -1}
+FOUND CHUNKS: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07215': 7, '0': -1}
+CHUNK LINES: {'4005': 259, 'RES': 253, 'VAP': 254, 'DWG': 255, '233': 256, 'IC': 257, '07215': 258, '0': 250}
+COMPLETENESS CHECK: True
+SUCCESS: Using anchor at line 251
+FINAL RESULT: 251
+=== END DEBUG FOR C:\PyTests\Submission\Process\2211 au\dst\07xxx\PDF\4005-RES-VAP-DWG-233-IC-07215-0.pdf ===
+
+
+=== DEBUGGING FILE: C:\PyTests\Submission\Process\2211 au\dst\07xxx\PDF\4005-RES-VAP-DWG-233-IC-07215-0.txt ===
+ANCHOR SEARCH: Looking for ['High', 'Rise', 'Residential', 'Development']
+FOUND ANCHORS: [263, 272] (total: 2)
+TEMPLATE FILE: False
+TEMPLATE PATTERN TO MATCH: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07020': 7, '0': -1}
+
+--- TRYING ANCHOR #1 AT LINE 263 ---
+    GENERATING PATTERN: anchor at line 263
+    TEMPLATE DISTANCES: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07020': 7, '0': -1}
+    CHECKING: distance 8 -> line 271
+    FOUND CHUNK: '4005' at line 271
+    CHECKING: distance 2 -> line 265
+    FOUND CHUNK: 'RES' at line 265
+    CHECKING: distance 3 -> line 266
+    FOUND CHUNK: 'VAP' at line 266
+    CHECKING: distance 4 -> line 267
+    FOUND CHUNK: 'DWG' at line 267
+    CHECKING: distance 5 -> line 268
+    FOUND CHUNK: '233' at line 268
+    CHECKING: distance 6 -> line 269
+    FOUND CHUNK: 'IC' at line 269
+    CHECKING: distance 7 -> line 270
+    FOUND CHUNK: '07215' at line 270
+    CHECKING: distance -1 -> line 262
+    FOUND CHUNK: '0' at line 262
+    RESULT: 8 chunks found: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07215': 7, '0': -1}
+FOUND CHUNKS: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07215': 7, '0': -1}
+CHUNK LINES: {'4005': 271, 'RES': 265, 'VAP': 266, 'DWG': 267, '233': 268, 'IC': 269, '07215': 270, '0': 262}
+COMPLETENESS CHECK: True
+SUCCESS: Using anchor at line 263
+FINAL RESULT: 263
+=== END DEBUG FOR C:\PyTests\Submission\Process\2211 au\dst\07xxx\PDF\4005-RES-VAP-DWG-233-IC-07215-0.txt ===
+
+
+=== DEBUGGING FILE: C:\PyTests\Submission\Process\2211 au\dst\07xxx\PDF\4005-RES-VAP-DWG-233-IC-07217-0.pdf ===
+ANCHOR SEARCH: Looking for ['High', 'Rise', 'Residential', 'Development']
+FOUND ANCHORS: [126, 135] (total: 2)
+TEMPLATE FILE: False
+TEMPLATE PATTERN TO MATCH: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07020': 7, '0': -1}
+
+--- TRYING ANCHOR #1 AT LINE 126 ---
+    GENERATING PATTERN: anchor at line 126
+    TEMPLATE DISTANCES: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07020': 7, '0': -1}
+    CHECKING: distance 8 -> line 134
+    FOUND CHUNK: '4005' at line 134
+    CHECKING: distance 2 -> line 128
+    FOUND CHUNK: 'RES' at line 128
+    CHECKING: distance 3 -> line 129
+    FOUND CHUNK: 'VAP' at line 129
+    CHECKING: distance 4 -> line 130
+    FOUND CHUNK: 'DWG' at line 130
+    CHECKING: distance 5 -> line 131
+    FOUND CHUNK: '233' at line 131
+    CHECKING: distance 6 -> line 132
+    FOUND CHUNK: 'IC' at line 132
+    CHECKING: distance 7 -> line 133
+    FOUND CHUNK: '07217' at line 133
+    CHECKING: distance -1 -> line 125
+    FOUND CHUNK: '0' at line 125
+    RESULT: 8 chunks found: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07217': 7, '0': -1}
+FOUND CHUNKS: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07217': 7, '0': -1}
+CHUNK LINES: {'4005': 134, 'RES': 128, 'VAP': 129, 'DWG': 130, '233': 131, 'IC': 132, '07217': 133, '0': 125}
+COMPLETENESS CHECK: True
+SUCCESS: Using anchor at line 126
+FINAL RESULT: 126
+=== END DEBUG FOR C:\PyTests\Submission\Process\2211 au\dst\07xxx\PDF\4005-RES-VAP-DWG-233-IC-07217-0.pdf ===
+
+
+=== DEBUGGING FILE: C:\PyTests\Submission\Process\2211 au\dst\07xxx\PDF\4005-RES-VAP-DWG-233-IC-07217-0.txt ===
+ANCHOR SEARCH: Looking for ['High', 'Rise', 'Residential', 'Development']
+FOUND ANCHORS: [136, 145] (total: 2)
+TEMPLATE FILE: False
+TEMPLATE PATTERN TO MATCH: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07020': 7, '0': -1}
+
+--- TRYING ANCHOR #1 AT LINE 136 ---
+    GENERATING PATTERN: anchor at line 136
+    TEMPLATE DISTANCES: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07020': 7, '0': -1}
+    CHECKING: distance 8 -> line 144
+    FOUND CHUNK: '4005' at line 144
+    CHECKING: distance 2 -> line 138
+    FOUND CHUNK: 'RES' at line 138
+    CHECKING: distance 3 -> line 139
+    FOUND CHUNK: 'VAP' at line 139
+    CHECKING: distance 4 -> line 140
+    FOUND CHUNK: 'DWG' at line 140
+    CHECKING: distance 5 -> line 141
+    FOUND CHUNK: '233' at line 141
+    CHECKING: distance 6 -> line 142
+    FOUND CHUNK: 'IC' at line 142
+    CHECKING: distance 7 -> line 143
+    FOUND CHUNK: '07217' at line 143
+    CHECKING: distance -1 -> line 135
+    FOUND CHUNK: '0' at line 135
+    RESULT: 8 chunks found: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07217': 7, '0': -1}
+FOUND CHUNKS: {'4005': 8, 'RES': 2, 'VAP': 3, 'DWG': 4, '233': 5, 'IC': 6, '07217': 7, '0': -1}
+CHUNK LINES: {'4005': 144, 'RES': 138, 'VAP': 139, 'DWG': 140, '233': 141, 'IC': 142, '07217': 143, '0': 135}
+COMPLETENESS CHECK: True
+SUCCESS: Using anchor at line 136
+FINAL RESULT: 136
+=== END DEBUG FOR C:\PyTests\Submission\Process\2211 au\dst\07xxx\PDF\4005-RES-VAP-DWG-233-IC-07217-0.txt ===

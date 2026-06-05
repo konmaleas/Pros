@@ -1,0 +1,185 @@
+=== FILTERED TEXT FOR: ATH04-A-D-211-1_-_COLO_1_CELL_1_2_ROOF_PLAN.pdf ===
+
+Line   0: DN
+Line   1: 7300
+Line   2: 7300
+Line   3: 7300
+Line   4: 7300
+Line   5: 14600
+Line   6: 7300
+Line   7: 7300
+Line   8: 7300
+Line   9: 7300
+Line  10: 7300
+Line  11: GUTTER LINE
+Line  12: RIDGE LINE
+Line  13: GUTTER LINE
+Line  14: HANDRAIL FIXED BACK
+Line  15: MAIN STRUCTURE,
+Line  16: HIGH.
+Line  17: RIDGE LINE
+Line  18: GUTTER LINE
+Line  19: PRESSED METAL FLASHING
+Line  20: TYPICAL
+Line  21: PARAPET DETAIL NOTES
+Line  22: DETAILS
+Line  23: PRESSED METAL FLASHING
+Line  24: TYPICAL
+Line  25: PARAPET DETAIL NOTES
+Line  26: DETAILS.
+Line  27: RWP
+Line  28: OUTLET
+Line  29: GUTTER LINE
+Line  30: STAIR ARRANGEMENT
+Line  31: ACCESS PLENUM
+Line  32: CONTINUATION REFER DRAWING ATH04 A
+Line  33: XF
+Line  34: A
+Line  35: XA
+Line  36: 2465
+Line  37: 5500
+Line  38: 20750
+Line  39: 4500
+Line  40: 20750
+Line  41: 5500
+Line  42: 2465
+Line  43: ALUMINIUM STANDING SEAM
+Line  44: ROOF INTEGRATED
+Line  45: SOLAR PANELS
+Line  46: STAIR SUPPORTED
+Line  47: MAIN STEEL
+Line  48: SYSTEM ACCESS
+Line  49: EGRESS
+Line  50: HANDRAIL FIXED BACK MAIN
+Line  51: STRUCTURE, HIGH.
+Line  52: INTEGRATED METAL
+Line  53: WALKWAY SYSTEM
+Line  54: SECURED STANDING
+Line  55: SEAMS ROOF.
+Line  56: INTEGRATED METAL WALKWAY
+Line  57: SYSTEM SECURED STANDING
+Line  58: SEAMS ROOF.
+Line  59: ALUMINIUM STANDING SEAM ROOF
+Line  60: INTEGRATED SOLAR PANELS
+Line  61: ALUMINIUM STANDING SEAM ROOF
+Line  62: INTEGRATED SOLAR PANELS
+Line  63: 400
+Line  64: 1255
+Line  65: 6272
+Line  66: 21020
+Line  67: RWP
+Line  68: RWP
+Line  69: OUTLET
+Line  70: RWP
+Line  71: OUTLET
+Line  72: RWP
+Line  73: OUTLET
+Line  74: RWP
+Line  75: OUTLET
+Line  76: RWP
+Line  77: OUTLET
+Line  78: RWP
+Line  79: OUTLET
+Line  80: RWP
+Line  81: OUTLET
+Line  82: RWP
+Line  83: OUTLET
+Line  84: RWP
+Line  85: OUTLET
+Line  86: RWP
+Line  87: OUTLET
+Line  88: RWP
+Line  89: RWP
+Line  90: RWP
+Line  91: RWP
+Line  92: RWP
+Line  93: RWP
+Line  94: RWP
+Line  95: RWP
+Line  96: RWP
+Line  97: RWP
+Line  98: RWP
+Line  99: PHOTOVOLTAIC PANELS
+Line 100: SPECIALIST DESIGN
+Line 101: COORDINATED
+Line 102: CAT LADDER
+Line 103: GRD RAB
+Line 104: CAT LADDER
+Line 105: RAB
+Line 106: ROOF
+Line 107: CAT LADDER
+Line 108: RAB
+Line 109: ROOF
+Line 110: STAIR SUPPORTED
+Line 111: MAIN STEEL
+Line 112: ACCESS EGRESS
+Line 113: CAT LADDER
+Line 114: GRD
+Line 115: RAB
+Line 116: INTEGRATED METAL WALKWAY
+Line 117: SYSTEM SECURED
+Line 118: STANDING SEAMS ROOF.
+Line 119: INTEGRATED METAL WALKWAY
+Line 120: SYSTEM SECURED STANDING
+Line 121: SEAMS ROOF.
+Line 122: INVERTER HOUSING CDP ITEM
+Line 123: INVERTER HOUSING CDP ITEM
+Line 124: 82020
+Line 125: ADMIN
+Line 126: COLO
+Line 127: COLO
+Line 128: TRUE NORTH
+Line 129: Sheet Title Number
+Line 130: Scale
+Line 131: Plan
+Line 132: Design Consultants
+Line 133: Microsoft
+Line 134: DATA CENTER ATH04
+Line 135: SPATA GREECE
+Line 136: Contractor Joint Venture
+Line 137: Name
+Line 138: Contractor Project
+Line 139: Contractor Contract
+Line 140: Contractor PM
+Line 141: Contractor BIM Mngr
+Line 142: Contractor Information
+Line 143: Renco Terna
+Line 144: Client
+Line 145: General Notes
+Line 146: Client Project
+Line 147: Client Contract
+Line 148: Client PM
+Line 149: Client BIM Mngr
+Line 150: Primary Client Information
+Line 151: Layout
+Line 152: Revision
+Line 153: Tombazi Chalandri
+Line 154: 15232
+Line 155: Athens Greece
+Line 156: 0800 3262
+Line 157: Agion Theodoron Square Athens
+Line 158: 10561
+Line 159: Athens Greece
+Line 160: Kimithois Agios Dimitrios
+Line 161: 17236
+Line 162: Athens Greece
+Line 163: Purpose Issue
+Line 164: Issue
+Line 165: Name
+Line 166: A
+Line 167: COLO CELL ROOF PLAN
+Line 168: ATH04 A
+Line 169: SCALE
+Line 170: BALLARD ENLARGED ROOF PLAN
+Line 171: SCALE
+Line 172: 2500
+Line 173: 5000
+Line 174: Date
+Line 175: Description
+Line 176: A
+Line 177: 04
+Line 178: Issued Approval
+Line 179: HVE JV
+
+=== END OF FILTERED TEXT ===
+Total lines: 180

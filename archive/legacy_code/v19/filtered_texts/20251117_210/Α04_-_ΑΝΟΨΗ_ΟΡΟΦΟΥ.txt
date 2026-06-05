@@ -1,0 +1,111 @@
+=== FILTERED TEXT FOR: Α04_-_ΑΝΟΨΗ_ΟΡΟΦΟΥ.pdf ===
+
+Line   0: 70
+Line   1: ΓΡΑΦΕΙΑ ΑΤΟΜΩΝ
+Line   2: BUSINESS LOUNGE
+Line   3: BUSINESS MEETING ΑΤΟΜΩΝ
+Line   4: ΚΛΙΜΑΚΟΣΤΑΣΙΟ
+Line   5: ASC
+Line   6: ASC
+Line   7: ΦΡΕΑΤΙΟ
+Line   8: ΠΡΟΘΑΛΑΜΟΣ
+Line   9: WC ΓΥΝΑΙΚΩΝ
+Line  10: WC
+Line  11: ΠΡΟΘ. WC
+Line  12: ΕΣΤΙΑΤΟΡΙΟ ΑΤΟΜΩΝ
+Line  13: 77
+Line  14: ΒΟΗΘΗΤΙΚΟΣ ΧΩΡΟΣ ΚΟΥΖΙΝΑΣ
+Line  15: COLLOCATION BOOTH
+Line  16: COLLOCATION BOOTH
+Line  17: COLLOCATION BOOTH
+Line  18: COLLOCATION BOOTH
+Line  19: ΑΙΘΟΥΣΑ ΣΥΝΕΡΓΑΣΙΑΣ ΑΤΟΜΩΝ
+Line  20: COLLOCATION
+Line  21: COLLOCATION
+Line  22: ASC
+Line  23: ASC
+Line  24: ΦΡΕΑΤΙΟ
+Line  25: ΚΛΙΜΑΚΟΣΤΑΣΙΟ
+Line  26: ΚΛΙΜΑΚΟΣΤΑΣΙΟ
+Line  27: ΦΡΕΑΤΙΟ
+Line  28: ΚΛΙΜΑΚΟΣΤΑΣΙΟ
+Line  29: ΦΡΕΑΤΙΟ
+Line  30: ΚΡΥΦΟΣ ΦΩΤΙΣΜΟΣ
+Line  31: ΠΡΟΒΟΛΙΚΟΥ
+Line  32: ΒΟΗΘΗΤΙΚΟΣ
+Line  33: ΧΩΡΟΣ
+Line  34: WC
+Line  35: ΕΣΤΙΑΤΟΡΙΟΥ
+Line  36: Ξύλινες
+Line  37: Idealux LT Ideacustic
+Line  38: Ξύλινες
+Line  39: Idealux LR Ideacustic
+Line  40: Ξύλινες
+Line  41: Idealux LT Ideacustic
+Line  42: ΑΞΟΝΑΣ ΧΩΡΟΥ
+Line  43: ΑΞΟΝΑΣ
+Line  44: ΑΛΛΑΓΗ ΥΨΟΥΣ ΣΕ
+Line  45: ΦΩΤΙΣΤΙΚΑ ΣΩΜΑΤΑ ΤΟ
+Line  46: ΜΕΓΕΘΟΣ ΤΟΥΣ
+Line  47: ΚΑΘΟΡΙΖΕΤΑΙ ΑΠΟ ΤΗΝ ΜΕΛΕΤΗ
+Line  48: ΦΩΤΙΣΜΟΥ
+Line  49: ΣΥΜΒΟΛΙΣΜΟΣ ΚΡΥΦΟΥ
+Line  50: ΦΩΤΙΣΜΟΥ
+Line  51: ΣΤΟΜΙΑ ΠΑΡΟΧΗΣ
+Line  52: FAN COIL ΣΤΟΜΙΑ
+Line  53: ΑΠΑΓΩΓΗΣ
+Line  54: ΓΡΑΜΜΙΚΑ ΣΤΟΜΙΑ
+Line  55: ΕΠΙΣΚΕΨΗΣ
+Line  56: ΗΧΕΙΑ
+Line  57: ΣΤΟΜΙΑ ΠΥΡΑΝΙΧΝΕΥΣΗΣ
+Line  58: ΤΥΠΟΣ ΚΑΘΑΡΟ
+Line  59: ΥΨΟΣ ΧΩΡΟΥ
+Line  60: 000
+Line  61: ΣΥΜΒΟΛΙΣΜΟΙ
+Line  62: ΤΕΛΕΙΩΜΑΤΑ
+Line  63: ΑΝΘΥΓΡΗ
+Line  64: ΑΚΟΥΣΤΙΚΗ
+Line  65: ΑΚΟΥΣΤΙΚΗ ΣΕ ΠΛΑΚΕΣ
+Line  66: ΠΛΑΚΕΣ ΟΡΥΚΤΗΣ ΙΝΑΣ
+Line  67: ΞΥΛΙΝΕΣ ΟΡΟΦΕΣ TOPAKUSTIK
+Line  68: ΤΥΠΟΣ ΧΡΩΜΑ 012
+Line  69: ΞΥΛΙΝΕΣ ΟΡΟΦΕΣ TOPAKUSTIK
+Line  70: ΠΑΝΕΛΑ ΜΕ HΧΟΑΠΟΡΡΟΦΗΤΙΚΟ
+Line  71: ΥΛΙΚΟ ΤΥΠΟΥ ΤΕΧΑΑ KAI
+Line  72: ΥΦΑΣΜΑΤΟΣ
+Line  73: ΥΦΙΣΤΑΜΕΝΗ
+Line  74: ΚΛΙΜΑΚΑ
+Line  75: ΕΡΓΟ
+Line  76: ΦΟΡΕΑΣ
+Line  77: ΑΡΙΘΜΟΣ
+Line  78: ΗΜΕΡΟΜΗΝΙΑ ΜΕΛΕΤΗΣ
+Line  79: ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΜΕΛΕΤΗ
+Line  80: ΜΕΛΕΤΗΣ
+Line  81: ΣΤΑΤΙΚΗ ΜΕΛEΤΗ
+Line  82: ΗΜ ΝΙΑ
+Line  83: ΚΑΤΗΓΟΡΙΑ
+Line  84: ΜΕΛΕΤΗ ΕΓΚΑΤΑΣΤΑΣΕΩΝ
+Line  85: Φιλολάου Ηλιούπολη 16342 Ελλάδα
+Line  86: ΚΗΜ
+Line  87: ΟΜΙΛΟΣ
+Line  88: ΧΡΗΜΑΤΙΣΤΗΡΙΟΥ ΑΘΗΝΩΝ
+Line  89: Φιλήμονος Αθήνα 11521 Ελλάδα
+Line  90: Ηπείρου Αθήνα, Ελλάδα
+Line  91: 3262 3269
+Line  92: ΑΡΧΙΤΕΚΤΟΝΙΚH ΜΕΛEΤΗ
+Line  93: ΑΝΟΨΗ ΟΡΟΦΟΥ
+Line  94: ΜΑΡΤΙΟΣ
+Line  95: ΟΡΙΣΤΙΚΗ ΜΕΛΕΤΗ
+Line  96: Λεωφ. Αθηνών Αθήνα 42
+Line  97: 03 2017
+Line  98: ΝΕΑ ΧΩΡΩΝ
+Line  99: ΤΟΥ ΤΟΥ ΟΜΙΛΟΥ
+Line 100: ΧΡΗΜΑΤIΣΤHΡΙΟΥ ΑΘΗΝΩΝ
+Line 101: ΟΠΟΥ ΑΠΟΞΗΛΩΝΟΝΤΑΙ
+Line 102: ΤΟΙΧΟΠΟΙΙΕΣ ΚΑΙ ΠΑΡΑΜΕΝΕΙ
+Line 103: ΥΦΙΣΤΑΜΕΝΗ
+Line 104: ,ΣΥΜΠΛΗΡΩΝΟΥΜΕ ΟΠΟΥ
+Line 105: ΧΡΕΙΑΖΕΤΑΙ ΜΕ ΤΟ ΥΛΙΚΟ
+
+=== END OF FILTERED TEXT ===
+Total lines: 106

@@ -1,0 +1,232 @@
+=== FILTERED TEXT FOR: ATH04-056-SH-307-00.pdf ===
+
+Line   0: A
+Line   1: A
+Line   2: XA
+Line   3: XA
+Line   4: THICKNESS
+Line   5: THICKNESS
+Line   6: THICKNESS
+Line   7: THICKNESS
+Line   8: THICKNESS
+Line   9: THICKNESS
+Line  10: THICKNESS
+Line  11: THICKNESS
+Line  12: THICKNESS
+Line  13: THICKNESS
+Line  14: THICKNESS
+Line  15: THICKNESS
+Line  16: THICKNESS
+Line  17: THICKNESS
+Line  18: THICKNESS
+Line  19: THICKNESS
+Line  20: THICKNESS
+Line  21: THICKNESS
+Line  22: THICKNESS
+Line  23: THICKNESS
+Line  24: THICKNESS
+Line  25: THICKNESS
+Line  26: THICKNESS
+Line  27: THICKNESS
+Line  28: THICKNESS
+Line  29: THICKNESS
+Line  30: THICKNESS
+Line  31: THICKNESS
+Line  32: THICKNESS
+Line  33: THICKNESS
+Line  34: THICKNESS
+Line  35: THICKNESS
+Line  36: RC GROUND SLAB
+Line  37: THICKNESS
+Line  38: TOC
+Line  39: ATH04 056
+Line  40: SH
+Line  41: ATH04 056 SH 000
+Line  42: Bottom Direction
+Line  43: COLOR CODE
+Line  44: FOUNDATION SLAB REINFORCEMENT
+Line  45: Bottom Direction
+Line  46: Directions
+Line  47: Direction
+Line  48: Direction
+Line  49: Additional
+Line  50: Directions
+Line  51: LEGEND
+Line  52: TOP REBAR, DIRECTION
+Line  53: TOP REBAR, DIRECTION
+Line  54: BOTTOM REBAR, DIRECTION
+Line  55: BOTTOM REBAR, DIRECTION
+Line  56: TOP REBAR, DIRECTION
+Line  57: TOP REBAR, DIRECTION
+Line  58: BOTTOM REBAR, DIRECTION
+Line  59: BOTTOM REBAR, DIRECTION
+Line  60: TOP SIDE BAR, DIRECTION
+Line  61: TOP SIDE BAR, DIRECTION
+Line  62: BOTTOM SIDE BAR, DIRECTION
+Line  63: BOTTOM SIDE BAR, DIRECTION
+Line  64: REBAR DIRECTIONS
+Line  65: Full
+Line  66: Bottom
+Line  67: Bottom
+Line  68: Bottom
+Line  69: Bottom
+Line  70: ADMIN
+Line  71: COLO
+Line  72: COLO
+Line  73: TRUE NORTH
+Line  74: Microsoft
+Line  75: ENGINEERING CONSULTANT
+Line  76: ΣΥΜΒΟΥΛΟΣ ΜΕΛΕΤΗΤΗΣ
+Line  77: CERTIFIED ENGINEER
+Line  78: ΑΔΕΙΟΥΧΟΣ ΜΗΧΑΝΙΚΟΣ
+Line  79: SUPPLIER DOCUMENT NUMBER
+Line  80: ΚΩΔΙΚΟΣ ΣΧΕΔΙΟΥ ΠΡΟΜΗΘΕΥΤΗ
+Line  81: REVISION
+Line  82: ΑΝΑΘΕΩΡΗΣΗ
+Line  83: 00
+Line  84: A. Karra
+Line  85: Xenopoulos
+Line  86: ΣΥΝΤΑΚΤΗΣ
+Line  87: ΕΛΕΓΧΘΗΚΕ
+Line  88: ΕΓΚΡΙΘΗΚΕ
+Line  89: ΗΜΕΡΟΜΗΝΙΑ
+Line  90: ΑΝΑΘ.
+Line  91: ΣΗΜΕΙΩΣΕΙΣ ΠΕΡΙΓΡΑΦΗ
+Line  92: PREPAR
+Line  93: VERIFY
+Line  94: APROVAL
+Line  95: DATE
+Line  96: REV.
+Line  97: REMARK DESCRIPTION
+Line  98: PROJECT TITLE
+Line  99: TAG NUMBERS
+Line 100: ΕΤΙΚΕΤΑΣ
+Line 101: ATH04 DATA CENTER
+Line 102: DRAWING TITLE
+Line 103: DRAWING
+Line 104: ΑΡΙΘΜΟΣ ΣΧΕΔΙΟΥ
+Line 105: SCALE
+Line 106: ΚΛΙΜΑΚΑ
+Line 107: FORMAT
+Line 108: ΜΟΡΦΗ
+Line 109: FACILITY CODE
+Line 110: ΚΩΔ. ΕΓΚΑΤΑΣ.
+Line 111: SYSTEM
+Line 112: ΣΥΣΤΗΜΑΤΟΣ
+Line 113: SHEET
+Line 114: ΦΥΛΛΟ
+Line 115: RD CODE
+Line 116: ΚΩΔΙΚΟΣ RD
+Line 117: REVISION
+Line 118: ΑΝΑΘΕΩΡ.
+Line 119: ATH 04
+Line 120: JVRT
+Line 121: A. Koukouselis
+Line 122: Civil Engineer
+Line 123: Structural Engineer
+Line 124: Απόστολος Κουκουσέλης
+Line 125: Πολιτικός Μηχανικός
+Line 126: Πολιτικός Μηχανικός
+Line 127: PILE FOUNDATION ADMINISTRATION
+Line 128: BALLARD BUILDING
+Line 129: ΤΙΤΛΟΣ ΕΡΓΟΥ
+Line 130: ΤΙΤΛΟΣ ΣΧΕΔΙΟΥ
+Line 131: GENERAL NOTES CONSTRUCTION
+Line 132: STATIKI SA Structural Project Specification Architectural,
+Line 133: Civil, Mechanical Electrical General Notes ATH04 A 000
+Line 134: Refer
+Line 135: STATIKI SA
+Line 136: Work
+Line 137: Statutory Authorities.
+Line 138: CAST SITU CONCRETE
+Line 139: Cast Project Specification Greek Hellenic Code
+Line 140: Concrete Technology 2016 KTS 2016 ΤΠ 1501 01 01 01 00. Concrete
+Line 141: Summary Project Specification
+Line 142: Pile
+Line 143: Exposure EN
+Line 144: Concrete 45
+Line 145: Blinding
+Line 146: Concrete
+Line 147: Blinding
+Line 148: Ground
+Line 149: Exposure EN
+Line 150: Concrete 45
+Line 151: External
+Line 152: Exposure EN
+Line 153: Concrete
+Line 154: Refer Civil Specification
+Line 155: Cover Reinforcement Design Drawings.
+Line 156: Internal
+Line 157: Reinforcement
+Line 158: High EN 10080 Greek
+Line 159: KTX 2008
+Line 160: Lengths EN 1992
+Line 161: Spacers
+Line 162: Sufficient
+Line 163: Cover
+Line 164: Chairs,
+Line 165: Spacers
+Line 166: Spacers
+Line 167: Concrete Finishes EN 13670
+Line 168: Basic, Ordinary, Plain Special. Finishes
+Line 169: Concealed Ordinary Finish
+Line 170: Concealed Ordinary Finish
+Line 171: Exposed Plain Finish
+Line 172: Exposed Plain Finish
+Line 173: Internal, External,
+Line 174: Floors Floor Class Technical
+Line 175: Report Concrete Industrial Ground Floors A Guide Design Construction Concrete Society.
+Line 176: Concrete Hellenic Code Concrete Technology 2016 KTS 2016 ΤΠ 1501 01 01 01 00.
+Line 177: Exposed
+Line 178: Architect Floor Finishes Drawing Project Specification
+Line 179: Concrete Hellenic Code Concrete Technology 2016 KTS 2016 TΠ
+Line 180: 1501 01 01 02 00.
+Line 181: Steelwork
+Line 182: Contractor Concrete Contractor.
+Line 183: Concrete EN 12350
+Line 184: EN EN 12390.
+Line 185: Samples Density
+Line 186: LOT EN ISO IEC 17025
+Line 187: Engineer
+Line 188: Engineer Contractor
+Line 189: EN 12350 EN
+Line 190: 12350 EN 12350
+Line 191: MOVEMENT CONSTRUCTION JOINTS
+Line 192: Movement Ground Floor
+Line 193: Peikko TERAJOINT Movement
+Line 194: Ground Floor
+Line 195: Isolation
+Line 196: Contractor
+Line 197: EARTHWORKS FOUNDATIONS
+Line 198: Earthworks Project Specifications
+Line 199: Civil Geotechnical
+Line 200: Granular
+Line 201: ATH04 03
+Line 202: ATH04 04
+Line 203: Refer Project Specification
+Line 204: Ground Floor Ground Floor
+Line 205: Property
+Line 206: Property
+Line 207: Floor
+Line 208: Typical Floor
+Line 209: Property
+Line 210: Retail
+Line 211: Reach
+Line 212: Reach
+Line 213: Building Ground Floor Slab Bottom
+Line 214: Reinforcement Part
+Line 215: ATH04 056 SH
+Line 216: ATH04 056 SH 00
+Line 217: Κτίριο Ανάπτυγματα
+Line 218: Oπλισμοί Μέρος
+Line 219: 00
+Line 220: 00
+Line 221: Building Ground Floor Slab Bottom Reinforcement Part
+Line 222: CONTINUATION SEE DRAWING ATH04 056 SH
+Line 223: CONTINUATION SEE DRAWING ATH04 056 SH
+Line 224: CONTINUATION SEE DRAWING ATH04 056 SH
+Line 225: IFA ISSUED APPROVAL
+Line 226: 02 2025
+
+=== END OF FILTERED TEXT ===
+Total lines: 227

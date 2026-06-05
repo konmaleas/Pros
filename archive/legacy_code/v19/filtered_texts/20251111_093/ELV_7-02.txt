@@ -1,0 +1,177 @@
+=== FILTERED TEXT FOR: ELV_7-02.pdf ===
+
+Line   0: First Floor Area 742
+Line   1: Total Area 1505
+Line   2: CEO CICO CEO
+Line   3: Chief
+Line   4: Infrastructure
+Line   5: Controls Officer
+Line   6: INF Project
+Line   7: Director
+Line   8: Infrastructure Park
+Line   9: Director
+Line  10: ADM ADM
+Line  11: Infra Department
+Line  12: Assistant
+Line  13: INF INF
+Line  14: INF PM GIS PM
+Line  15: Park PM
+Line  16: Archaeology
+Line  17: Cultural Heritage
+Line  18: INF INF
+Line  19: INF PM Sports
+Line  20: MEP Manager
+Line  21: Sports Project
+Line  22: Associate
+Line  23: KITCHENETTE
+Line  24: INF Project
+Line  25: Director
+Line  26: Infrastructure
+Line  27: INF Project
+Line  28: Director Sports
+Line  29: INF INF
+Line  30: PM AMEA
+Line  31: Project Associate
+Line  32: AMEA
+Line  33: INF INF
+Line  34: INF Project
+Line  35: Associate Infra
+Line  36: INF Project
+Line  37: Director Park
+Line  38: SO SO SO
+Line  39: Senior Security
+Line  40: Manager Quality
+Line  41: Associate PM MEP
+Line  42: SO Site
+Line  43: Operations Director
+Line  44: INF INF PM
+Line  45: Infra PM MEP Infra
+Line  46: CONFERENCE
+Line  47: SPARE
+Line  48: SPARE
+Line  49: CONFERENCE
+Line  50: CA INF Guest
+Line  51: Room Contracts
+Line  52: Director Staff
+Line  53: QS Manager
+Line  54: SO SO SO
+Line  55: SO Site
+Line  56: Operations
+Line  57: Technician
+Line  58: COPY
+Line  59: INF INF Site
+Line  60: Supervision Site
+Line  61: Supervision Sports
+Line  62: STORAGE
+Line  63: RC RC
+Line  64: Race Race
+Line  65: INF INF
+Line  66: Landscape MEP
+Line  67: Manager
+Line  68: Project Associate
+Line  69: Landscape
+Line  70: TP TP Surveyor
+Line  71: Surveyor
+Line  72: PC UPP
+Line  73: Programme
+Line  74: Controls Urban
+Line  75: Planning
+Line  76: Permitting Team
+Line  77: SO SO SO
+Line  78: Senior Health
+Line  79: Safety Manager
+Line  80: Environmental
+Line  81: Compliance
+Line  82: Associate Smart
+Line  83: Tech Manager
+Line  84: INF INF Site
+Line  85: Engineer
+Line  86: Landscape Site
+Line  87: Engineer
+Line  88: Landscape
+Line  89: WC
+Line  90: WC
+Line  91: ΑΝΑΒΑΤΟΡΙΟ ΑΜΕΑ
+Line  92: INF INF PM
+Line  93: Roads PM Civil
+Line  94: JANITOR
+Line  95: Spare Room
+Line  96: Space Room
+Line  97: ΚΛΙΜΑΚΑ
+Line  98: SCALE
+Line  99: ΣΧΕΔΙΟ
+Line 100: ΗΜΕΡΟΜΗΝΙΑ ΕΚΔΟΣΗΣ
+Line 101: FIRST ISSUE DATE
+Line 102: ΣΦΡΑΓΙΔΑ
+Line 103: ΠΕΡΙΟΧΗ
+Line 104: ZONE
+Line 105: ISSUED
+Line 106: CONSTRUCTION
+Line 107: APPROVAL
+Line 108: TENDER
+Line 109: STATUS
+Line 110: DRAFT
+Line 111: FINAL
+Line 112: ΚΑΤ. ΜΕΛΕΤΗΣ
+Line 113: DISCIPLINE
+Line 114: ΑΝΑΘ.
+Line 115: REV.
+Line 116: DRAWING
+Line 117: LAYOYT LEGEND
+Line 118: ΥΠΟΜΝΗΜΑ ΠΙΝΑΚΙΔΟΠΟΙΗΣΗΣ
+Line 119: ΑΝΑΠΤΥΞΗ ΜΗΤΡΟΠΟΛΙΤΙΚΟΥ ΠΟΛΟΥ
+Line 120: ΕΛΛΗΝΙΚΟΥ ΚΟΣΜΑ
+Line 121: HELLINIKON DEVELOPMENT PROJECT
+Line 122: ΕΡΓΟ
+Line 123: PROJECT
+Line 124: ΕΡΓΟΤΑΞΙΑΚΑ ΓΡΑΦΕΙΑ ΕΛΛΗΝΙΚΟ
+Line 125: ELLINIKON SITE OFFICES
+Line 126: ΕΡΓΟΔΟΤΗΣ
+Line 127: CLIENT
+Line 128: PROJECT CONSULTANT
+Line 129: ΣΥΜΒΟΥΛΟΣ ΕΡΓΟΥ
+Line 130: ΜΕΛΕΤΗ
+Line 131: DESIGN
+Line 132: STAMP
+Line 133: ΕΛΛΗΝΙΚΟ
+Line 134: ELLINIKON
+Line 135: 00
+Line 136: ΚΑΤΟΨΗ ΟΡΟΦΟΥ
+Line 137: 04
+Line 138: ELV
+Line 139: 02
+Line 140: ΓΡΑΦΕΙΑ ΔΙΟΙΚΗΣΗΣ
+Line 141: ΕΠΙΒΛΕΨΗΣ
+Line 142: FLOOR PLANVIEW
+Line 143: ADMINISTRATION
+Line 144: SUPERVISION
+Line 145: OFFICES
+Line 146: ΗΛΕΚΤΡΟΛΟΓΙΚΑ
+Line 147: ELV
+Line 148: SO
+Line 149: Καλώδιο
+Line 150: Καλώδιο
+Line 151: Μονή
+Line 152: Διπλή
+Line 153: Μονή
+Line 154: Τμήμα
+Line 155: Hellinikon Site Offices
+Line 156: Τμήμα
+Line 157: Τμήμα
+Line 158: Data
+Line 159: Camera
+Line 160: Wifi Access Point
+Line 161: Τμήμα
+Line 162: Τμήμα Τρόπος
+Line 163: GSH Εντοιχισμένα,
+Line 164: TSH Μέσα
+Line 165: CSH
+Line 166: ΑΝΑΘΕΩΡΗΣΕΙΣ
+Line 167: ΠΕΡΙΓΡΑΦΗ DESCRIPTION
+Line 168: ΗΜ ΝΙΑ DATE
+Line 169: 00
+Line 170: Site Offices
+Line 171: 04 2023
+
+=== END OF FILTERED TEXT ===
+Total lines: 172

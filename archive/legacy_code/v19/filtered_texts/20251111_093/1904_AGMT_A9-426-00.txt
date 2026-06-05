@@ -1,0 +1,75 @@
+=== FILTERED TEXT FOR: 1904_AGMT_A9-426-00.pdf ===
+
+Line   0: ΑΓ. ΚΥΡΙΑΚΗ ΑΝΤΙΠΑΡΟΣ
+Line   1: ΑG. KYRIAKI ANTIPAROS
+Line   2: AGMT
+Line   3: RESIDENCES ANTIPAROS
+Line   4: MARC THOMA
+Line   5: ΠΕΡΙΓΡΑΦΗ
+Line   6: DESCRIPTION
+Line   7: ΗΜ ΝΙΑ
+Line   8: REVISION DATE
+Line   9: Νaxou Kifisia, Greece
+Line  10: 4217 6976
+Line  11: ERISMA
+Line  12: PG KAMARINOS
+Line  13: Epirou Athens, Greece
+Line  14: 3262 3269
+Line  15: Kallidromiou 42 Athens, 11473 Greece
+Line  16: 0323
+Line  17: ANTONAS OFFICE
+Line  18: Apollonos Athens, 10557 Greece
+Line  19: 6770
+Line  20: DOXIADIS
+Line  21: ΚΛΙΜΑΚΑ
+Line  22: SCALE
+Line  23: ΣΧΕΔΙΟ
+Line  24: ΕΡΓΟ
+Line  25: ΕΡΓΟΔΟΤΗΣ
+Line  26: ΗΜΕΡΟΜΗΝΙΑ ΕΚΔΟΣΗΣ
+Line  27: FIRST ISSUE DATE
+Line  28: DETAILED DESIGN
+Line  29: KAT. ΣΧΕΔΙΟΥ
+Line  30: BLD. CATEGORY
+Line  31: ISSUED
+Line  32: ΘΕΣΗ ΕΡΓΟΥ
+Line  33: CONSTR.
+Line  34: APPROVAL
+Line  35: TENDER
+Line  36: STATUS
+Line  37: DRAFT
+Line  38: FINAL
+Line  39: ΑΝΑΘ.
+Line  40: REV.
+Line  41: PROJECT
+Line  42: LOCATION
+Line  43: CLIENT
+Line  44: DRAWING
+Line  45: ΚΗΠΟΤΕΧΝΙΚΗ ΜΕΛΕΤΗ
+Line  46: LANDSCAPE DESIGN
+Line  47: ΜΗΧΑΝΟΛΟΓΙΚΗ ΜΕΛΕΤΗ
+Line  48: MEP ENGINEER
+Line  49: ΣΤΑΤΙΚΗ ΜΕΛΕΤΗ
+Line  50: STRUCTURAL ENGINEER
+Line  51: ΑΡΧΙΤΕΚΤΟΝΑΣ ΕΡΓΟΥ
+Line  52: ARCHITECTURAL DESIGN
+Line  53: ΕΚΤΕΛΕΣΗ ΑΡΧΙΤΕΚΤΟΝΙΚΗΣ
+Line  54: ΜΕΛΕΤΗΣ ΕΠΙΒΛΕΨΗ
+Line  55: EXECUTIVE ARCHITECT
+Line  56: SITE SUPERVISOR
+Line  57: DISCIPLINE
+Line  58: ARC
+Line  59: VAP
+Line  60: 1902 CST ARC VAP 2018
+Line  61: Kifissias Avenue Athens, 15451 Greece
+Line  62: 6470
+Line  63: 01 2020
+Line  64: OPENINGS
+Line  65: TABLE
+Line  66: A9 426 00
+Line  67: ΟΨΗ
+Line  68: ΚΑΤΟΨΗ
+Line  69: WINDOWS TYPE
+
+=== END OF FILTERED TEXT ===
+Total lines: 70

@@ -1,0 +1,277 @@
+=== FILTERED TEXT FOR: W__PROJECTS_2211 HELLINIKON-AU1.5_02. RVT MODEL_01-WIP_01_Revit_4005-RES-VAP-MDD-233-CD-00001_s - Sheet - 12100 - Interior Design - Finishes Plans - LEVEL B02.pdf ===
+
+Line   0: AB
+Line   1: 02
+Line   2: 03
+Line   3: 04
+Line   4: 05
+Line   5: 06
+Line   6: 07
+Line   7: 08
+Line   8: 09
+Line   9: AC
+Line  10: AD
+Line  11: AE
+Line  12: AF
+Line  13: AG
+Line  14: AH
+Line  15: AJ
+Line  16: AK
+Line  17: AL
+Line  18: AM
+Line  19: BB
+Line  20: BC
+Line  21: BD
+Line  22: BE
+Line  23: BF
+Line  24: BG
+Line  25: BH
+Line  26: BI
+Line  27: BJ
+Line  28: BK
+Line  29: BL
+Line  30: BM
+Line  31: Ανελκυστήρας
+Line  32: Ανελκυστήρας
+Line  33: VENTILATION
+Line  34: Μηχανοστάσιο
+Line  35: CORRIDOR
+Line  36: CORRIDOR
+Line  37: PARKING
+Line  38: Χώρος
+Line  39: CORRIDOR
+Line  40: POTABLE WATER TANKS
+Line  41: WATER SUPPLY
+Line  42: TANKS
+Line  43: Αντλιοστάσιο
+Line  44: CORRIDOR
+Line  45: IRRIGATION TANKS
+Line  46: CORRIDOR
+Line  47: VENTILATION
+Line  48: Μηχανοστάσιο
+Line  49: AMENITIES
+Line  50: Μηχανοστάσιο
+Line  51: PARKING
+Line  52: Χώρος
+Line  53: CORRIDOR
+Line  54: CORRIDOR
+Line  55: CORRIDOR
+Line  56: CORRIDOR
+Line  57: Ανελκυστήρας
+Line  58: Ανελκυστήρας
+Line  59: Ανελκυστήρας
+Line  60: Ανελκυστήρας
+Line  61: BOH
+Line  62: Βοηθητικός
+Line  63: Ανελκυστήρας
+Line  64: Ανελκυστήρας
+Line  65: Ανελκυστήρας
+Line  66: Ανελκυστήρας
+Line  67: PARKING
+Line  68: Χώρος
+Line  69: FIREFIGHTING
+Line  70: Μηχανοστάσιο
+Line  71: TANK
+Line  72: TANK
+Line  73: CORRIDOR
+Line  74: LOBBY
+Line  75: Κλιµακοστάσιο
+Line  76: LOBBY
+Line  77: Κλιµακοστάσιο
+Line  78: LOBBY
+Line  79: Κλιµακοστάσιο
+Line  80: LOBBY
+Line  81: Κλιµακοστάσιο
+Line  82: LOBBY A
+Line  83: Κλιµακοστάσιο A
+Line  84: CORRIDOR
+Line  85: CORRIDOR
+Line  86: CORRIDOR
+Line  87: CORRIDOR
+Line  88: 02
+Line  89: 02
+Line  90: 02
+Line  91: 02
+Line  92: 02
+Line  93: 02
+Line  94: 02
+Line  95: 02
+Line  96: 02
+Line  97: 02
+Line  98: 02
+Line  99: PARKING
+Line 100: Χώρος
+Line 101: A
+Line 102: A
+Line 103: STAIRS CORE A
+Line 104: Κλιµακοστάσιο A
+Line 105: EGRESS STAIRS A
+Line 106: A
+Line 107: LOBBY A
+Line 108: A
+Line 109: STAIRS CORE
+Line 110: Κλιµακοστάσιο
+Line 111: STAIRS CORE
+Line 112: Κλιµακοστάσιο
+Line 113: LOBBY
+Line 114: STAIRS CORE
+Line 115: Κλιµακοστάσιο
+Line 116: EGRESS STAIRS
+Line 117: LOBBY
+Line 118: Καθαρισµού
+Line 119: STAIRS CORE
+Line 120: Κλιµακοστάσιο
+Line 121: EGRESS STAIRS
+Line 122: EGRESS STAIRS
+Line 123: EGRESS STAIRS
+Line 124: AI
+Line 125: Name
+Line 126: ROOM NAME
+Line 127: ROOM CODE
+Line 128: ROOM AREA
+Line 129: GREEK ROOM NAME
+Line 130: FLOOR FINISH TYPE
+Line 131: FLOOR FINISH
+Line 132: MATERIAL CODE
+Line 133: DRAWING PLANS SYMBOLS LEGEND
+Line 134: 16600 FFL
+Line 135: FINAL FLOOR LEVEL
+Line 136: 16350 SSL
+Line 137: STRUCTURAL SLAB LEVEL
+Line 138: DRAWING NUMBER
+Line 139: SHEET NUMBER
+Line 140: 06000
+Line 141: WALL FINISHES LEGEND
+Line 142: REGAL SELECT WATERBORNE
+Line 143: INTERIOR PAINT
+Line 144: OFF WHITE COLLECTION,
+Line 145: SEASHELL OC
+Line 146: BENJAMIN MOORE
+Line 147: FLOOR FINISHES LEGEND
+Line 148: SMOOTH COLOURED EPOXY
+Line 149: FLOOR COATING SYSTEM
+Line 150: SIKAFLOOR MULTIDUR ES
+Line 151: SIKA
+Line 152: WALL FINISH TYPE
+Line 153: WALL FINISH MATERIAL CODE
+Line 154: WATERPROOFING NATURAL
+Line 155: STONE ABADIA ROSAL
+Line 156: SANDBLASTED VINTAGE FINISH
+Line 157: 07
+Line 158: 02
+Line 159: POLISHED CONCRETE
+Line 160: TRANSPARENT SEALANT
+Line 161: 419 SIKA
+Line 162: PLASTER REGAL SELECT
+Line 163: WATERBORNE INTERIOR PAINT
+Line 164: OFF WHITE COLLECTION,
+Line 165: SEASHELL OC
+Line 166: BENJAMIN MOORE
+Line 167: NATURAL STONE ABADIA
+Line 168: ROSAL SANDBLASTED
+Line 169: VINTAGE FINISH
+Line 170: WF 05
+Line 171: ΕPOXY PROTECTIVE COATING
+Line 172: SIKA
+Line 173: CERAMIC GLASED TILES
+Line 174: BLANCO DUNE
+Line 175: MM
+Line 176: WF 06
+Line 177: SMOOTH COLOURED EPOXY
+Line 178: FLOOR COATING SYSTEM
+Line 179: SIKAFLOOR MULTIDUR EB
+Line 180: SIKA
+Line 181: CEMENT BASED
+Line 182: WATERPROOFING SYSTEM
+Line 183: SIKA
+Line 184: ΓΕΝΙΚΕΣ ΣΗΜΕΙΩΣΕΙΣ GENERAL NOTES
+Line 185: ΕΓΓΡΑΦΑ ΑΝΑΦΟΡΑΣ DOCUMENT REFERENCE
+Line 186: ΤΙΤΛΟΣ ΣΧΕΔΙΟΥ DRAWING TITLE
+Line 187: ΚΩΔΙΚΟΣ ΕΓΓΡΑΦΟΥ ΣΧΕΔΙΟΥ DOCUMENT DRAWING CODIFICATION
+Line 188: Project
+Line 189: Originator
+Line 190: Type
+Line 191: Discipline
+Line 192: Stage
+Line 193: Serial Number
+Line 194: Revision
+Line 195: ΚΛΙΜΑΚΑ SCALE
+Line 196: ΔΙΑΤΑΞΗ LAYOUT
+Line 197: REV.
+Line 198: DATE
+Line 199: ISSUE
+Line 200: DESCRIPTION UPDATE VERSION
+Line 201: ORIGINATED
+Line 202: CHECKED
+Line 203: VERIFIED
+Line 204: LEAD DESIGNER
+Line 205: APPROVED
+Line 206: PMC
+Line 207: STATUS
+Line 208: ΣΥΜΒΟΥΛΟΣ ΔΙΑΧΕΙΡΙΣΗΣ ΕΡΓΟΥ
+Line 209: PROJECT MANAGEMENT CONSULTANT
+Line 210: ΣΤΟΙΧΕΙΑ ΣΥΜΒΟΥΛΟΥ ΔΙΑΧΕΙΡΙΣΗΣ ΕΡΓΟΥ
+Line 211: PROJECT MANAGEMENT CONSULTANT DETAILS
+Line 212: ΚΥΡΙΟΣ ΜΕΛΕΤΗΤΗΣ LEAD DESIGNER
+Line 213: ΣΤΟΙΧΕΙΑ ΜΕΛΕΤΗΤΗ LOCAL ARCHITECT
+Line 214: SUBCONSULTANT STRUCTURE
+Line 215: ΕΡΓΟΔΟΤΗΣ EMPLOYER
+Line 216: ΣΤΟΙΧΕΙΑ ΕΡΓΟΔΟΤΗ EMPLOYER DETAILS
+Line 217: ΑΝΑΠΤΥΞΗ ΤΟΥ ΜΗΤΡΟΠΟΛΙΤΙΚΟΥ ΠΟΛΟΥ ΕΛΛΗΝΙΚΟΥ ΑΓIOY ΚΟΣΜΑ
+Line 218: DEVELOPMENT METROPOLITAN POLE HELLINIKON AG. KOSMAS
+Line 219: ΕΡΓΟ PROJECT
+Line 220: ΕΛΛΗΝΙΚΟ HELLINIKON
+Line 221: Kifisias Avenue Golden Hall
+Line 222: 15123 Marousi
+Line 223: Σημείωση Πνευματικών Δικαιωμάτων. 2121 1993
+Line 224: ΕΛΛΗΝΙΚΟ
+Line 225: Ρήτρα Περιορισμού Ευθύνης.
+Line 226: ΕΛΛΗΝΙΚΟ
+Line 227: ΝΑ ΜΗΝ ΑΛΛΑΧΘΕΙ ΚΛΙΜΑΚΑ ΤΟΥ ΣΧΕΔΙΟΥ.
+Line 228: Copyright Notice. 2121 1993
+Line 229: HELLINIKON
+Line 230: Disclaimer. HELLINIKON
+Line 231: CHANGE SCALE DRAWING.
+Line 232: SUBCONSULTANT MEP
+Line 233: SUBCONSULTANT LANDSCAPE
+Line 234: SUBCONSULTANT TRAFFIC
+Line 235: SUBCONSULTANT LIGHTING
+Line 236: SUBCONSULTANT ACOUSTICS
+Line 237: SUBCONSULTANT SUSTAINABILITY
+Line 238: SUBCONSULTANT SIGNAGE
+Line 239: URBAN ZONE
+Line 240: ARCHITECTURAL DESIGN Construction Design
+Line 241: ΑΡΧΙΤΕΚΤΟΝΙΚΟΣ Μελέτη Εφαρμογής
+Line 242: MODEL MDD DD 0001
+Line 243: BJARKE INGELS GROUP BIG
+Line 244: AVINGUDA DA LES DRASSANES
+Line 245: 08001 BARCELON, SPAIN
+Line 246: HELLINIKON
+Line 247: SCALE
+Line 248: HILL INTERNATIONAL
+Line 249: Kifisias Avenue Golden Hall
+Line 250: 15123 Marousi
+Line 251: Samaras Associates Consulting Engineers
+Line 252: 43 Oktovriou 45627, Limani Center, Thessaloniki
+Line 253: A
+Line 254: High Rise Residential Development
+Line 255: Interior Design Finishes Plans LEVEL
+Line 256: RES
+Line 257: VAP
+Line 258: DWG
+Line 259: 233
+Line 260: CD
+Line 261: 12100
+Line 262: 4005
+Line 263: High Rise Residential Development
+Line 264: Κάτοψη Τελειωμάτων Τοίχων Δαπέδων ΕΠΙΠΕΔΟ
+Line 265: ΦΥΛΛΟ SHEET 12100
+Line 266: A
+Line 267: 04 2024
+Line 268: First Issuance Approval
+Line 269: VAP
+Line 270: VAP
+Line 271: BIG
+
+=== END OF FILTERED TEXT ===
+Total lines: 272

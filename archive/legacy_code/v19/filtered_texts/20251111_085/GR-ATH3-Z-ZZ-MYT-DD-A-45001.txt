@@ -1,0 +1,53 @@
+=== FILTERED TEXT FOR: GR-ATH3-Z-ZZ-MYT-DD-A-45001.pdf ===
+
+Line   0: KNAUF GALVANIZED ANGLE
+Line   1: REINFORCED CONCRETE
+Line   2: BEAM ACCORDING STRUCTURAL
+Line   3: STUDY
+Line   4: GLASS MESH MINIMUM
+Line   5: LAYERS PLASTER, THICK
+Line   6: PLASTIC WATER COLOR ECO
+Line   7: WHITE RAL 9003 VITEX
+Line   8: BRICK WALL
+Line   9: Client
+Line  10: Project Title
+Line  11: Scale
+Line  12: PHASE
+Line  13: DRAWING
+Line  14: REV
+Line  15: Issue
+Line  16: Date
+Line  17: Artemidos
+Line  18: 15125 Maroussi, Athens
+Line  19: Email
+Line  20: ATH3
+Line  21: Drawing Title
+Line  22: First Issue Date
+Line  23: Role
+Line  24: Status
+Line  25: Stage
+Line  26: METKA STATUS
+Line  27: SHOP DRAWING
+Line  28: BUILT
+Line  29: CONSTRUCTION
+Line  30: ISSUED
+Line  31: INFORMATION
+Line  32: APPROVAL
+Line  33: REVIEW
+Line  34: CONSTRUCTION
+Line  35: INFORMATION
+Line  36: CANCELED
+Line  37: REFERENCE DRAWING
+Line  38: Contractor
+Line  39: Architectural
+Line  40: 2023 PM
+Line  41: Internal Finishes Assemblies
+Line  42: Corner Wall Finishing Detail
+Line  43: GR ATH3 Z ZZ MYT DD A 45001
+Line  44: Wall Beam Joint Detail Section
+Line  45: First Submission
+Line  46: Second Submission
+Line  47: Third Submission BUILT
+
+=== END OF FILTERED TEXT ===
+Total lines: 48

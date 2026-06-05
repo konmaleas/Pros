@@ -1,0 +1,101 @@
+=== FILTERED TEXT FOR: ATH1-DC03-CAP-20302-PLN-2-009-FF-00-T00_4-GENERAL_ARRANGEMENT_PLAN_DC3_FF.pdf ===
+
+Line   0: 2
+Line   1: 2
+Line   2: 2
+Line   3: 40
+Line   4: SERVICE
+Line   5: LIFT
+Line   6: SERVICE
+Line   7: LIFT 2
+Line   8: OPEN SPACE
+Line   9: OFFICES
+Line  10: MEETING ROOM
+Line  11: MEETING
+Line  12: ROOM
+Line  13: OFFICE
+Line  14: OFFICE
+Line  15: OFFICE
+Line  16: OFFICE
+Line  17: OFFICE
+Line  18: STORAGE
+Line  19: ARCHIVE
+Line  20: FW COR
+Line  21: FW COR
+Line  22: DHA
+Line  23: DHA 2
+Line  24: FW COR
+Line  25: ROOMS
+Line  26: STA
+Line  27: FW COR 2
+Line  28: CORRIDOR
+Line  29: STA
+Line  30: STA
+Line  31: 2
+Line  32: Version
+Line  33: Date
+Line  34: Review
+Line  35: Designer
+Line  36: Auditor
+Line  37: Approver
+Line  38: Paper Size
+Line  39: SCALE
+Line  40: ATH1 DC03 CAP 20302 PLN 2 009 FF 00 GENERAL ARRANGEMENT PLAN FF
+Line  41: 20302
+Line  42: PP Model Name
+Line  43: ORGANDI
+Line  44: Esplanade Miriam Makeba
+Line  45: Gerda Taro
+Line  46: 69100 VILLEURBANNE France
+Line  47: 40 00 70
+Line  48: Internet
+Line  49: GENERAL ARRANGEMENT PLAN FF
+Line  50: ATH1
+Line  51: PROJECT
+Line  52: RIBA
+Line  53: TRADE
+Line  54: AUTHOR
+Line  55: LEVEL
+Line  56: CAP TRADE
+Line  57: TYPE
+Line  58: DOC.
+Line  59: VERSION
+Line  60: DC03
+Line  61: 2
+Line  62: 20302
+Line  63: CAP
+Line  64: FF
+Line  65: PLN
+Line  66: 009
+Line  67: 00
+Line  68: SITE
+Line  69: ATH
+Line  70: Kifissias Avenue
+Line  71: GR 15125, MAROUSSI Greece
+Line  72: 4463 1552
+Line  73: Anagirountos
+Line  74: Vari 16672, Greece
+Line  75: Telephone 9654
+Line  76: Email
+Line  77: PAIANIA
+Line  78: GREECE
+Line  79: MODEL NAME
+Line  80: REFERENCE
+Line  81: FILE NAME
+Line  82: TRADE
+Line  83: ARCHITECTURE
+Line  84: Tombazi
+Line  85: Chalandri, 15232
+Line  86: Athens, Greece
+Line  87: 0800 3262
+Line  88: Thivaidos Street
+Line  89: GR Kifissia,
+Line  90: CAP TRADE General
+Line  91: 03 2025
+Line  92: First Submission
+Line  93: VAP
+Line  94: VAP
+Line  95: CAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 96

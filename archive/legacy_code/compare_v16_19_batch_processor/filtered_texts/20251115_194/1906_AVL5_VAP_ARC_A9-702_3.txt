@@ -1,0 +1,96 @@
+=== FILTERED TEXT FOR: 1906_AVL5_VAP_ARC_A9-702_3.pdf ===
+
+Line   0: ΚΛΙΣΗ 2
+Line   1: 4
+Line   2: 4
+Line   3: 2
+Line   4: ΣΤΑΤΙΚΟΣ ΦΟΡΕΑΣ
+Line   5: 2.
+Line   6: ΕΠΑΛΕΙΦΟΜΕΝΟ, ΣΤΕΓΑΝΟΠΟΙΗΤΙΚΟ, ΤΣΙΜΕΝΤΟΕΙΔΕΣ
+Line   7: ΚΟΝΙΑΜΑ ΔΥΟ ΣΥΣΤΑΤΙΚΩΝ
+Line   8: ΤΣΙΜΕΝΤΟΚΟΝΙΑ ΕΞΟΜΑΛΥΝΣΗΣ
+Line   9: 4.
+Line  10: ΤΣΙΜΕΝΤΟΕΙΔΗΣ ΚΟΛΛΑ
+Line  11: ΠΛΑΚΙΔΙΟ CAESAR ΠΑΧΟΥΣ
+Line  12: ΠΛΑΚΙΔΙΟ CAESAR ΠΑΧΟΥΣ
+Line  13: ΑΝΟΞΕΙΔΩΤΕΣ ΓΩΝΙΕΣ ΣΤΗΡΙΞΗΣ ΑΝΑ
+Line  14: ANOΞΕΙΔΩΤΗ ΣΧΑΡΑ ΙΔΙΟΚΑΤΑΣΚΕΥΗ
+Line  15: ΑΠΟΣΤΡΑΓΓΙΣΤΙΚΗ ΜΕΜΒΡΑΝΗ
+Line  16: ΓΕΩΥΦΑΣΜΑ ΜΗ ΥΦΑΝΤΟ
+Line  17: ΦΥΛΛΟ ΠΟΛΥΑΙΘΥΛΕΝΙΟΥ
+Line  18: ΠΕΤΡΙΝΟ ΚΑΠΑΚΙ
+Line  19: ΣΚΥΡΟΔΕΜΑ ΠΛΗΡΩΣΗΣ ΚΕΝΩΝ ΣΥΓΚΡΑΤΗΣΗΣ ΠΕΤΡΩΝ
+Line  20: ΕΠΕΝΔΥΣΗ ΑΠΟ ΦΥΣΤΙΚΗ ΠΕΤΡΑ
+Line  21: VARIES
+Line  22: 4
+Line  23: ΑΥΛΑΚΙΑ ΑΝΤΙΠΑΡΟΣ
+Line  24: AYLAKIA ANTIPAROS
+Line  25: AVL
+Line  26: RESIDENCE ANTIPAROS
+Line  27: PATSILERO LTD
+Line  28: ΠΕΡΙΓΡΑΦΗ
+Line  29: DESCRIPTION
+Line  30: ΗΜ ΝΙΑ
+Line  31: REVISION DATE
+Line  32: Νaxou Kifisia, Greece
+Line  33: 4217 6976
+Line  34: ERISMA
+Line  35: Tompazi Chalandri, Greece
+Line  36: 3262 3269
+Line  37: 79 Suga Shinjuku Tokyo 0018 Japan
+Line  38: 3226 5336 3226 5366
+Line  39: ATELIER BOW WOW
+Line  40: Apollonos Athens, 10557 Greece
+Line  41: 6770
+Line  42: DOXIADIS
+Line  43: ΚΛΙΜΑΚΑ
+Line  44: SCALE
+Line  45: ΣΧΕΔΙΟ
+Line  46: ΕΡΓΟ
+Line  47: ΕΡΓΟΔΟΤΗΣ
+Line  48: ΗΜΕΡΟΜΗΝΙΑ ΕΚΔΟΣΗΣ
+Line  49: FIRST ISSUE DATE
+Line  50: DETAILED DESIGN
+Line  51: KAT. ΣΧΕΔΙΟΥ
+Line  52: BLD. CATEGORY
+Line  53: ISSUED
+Line  54: ΘΕΣΗ ΕΡΓΟΥ
+Line  55: CONSTR.
+Line  56: APPROVAL
+Line  57: TENDER
+Line  58: STATUS
+Line  59: DRAFT
+Line  60: FINAL
+Line  61: ΑΝΑΘ.
+Line  62: REV.
+Line  63: PROJECT
+Line  64: LOCATION
+Line  65: CLIENT
+Line  66: DRAWING
+Line  67: ΚΗΠΟΤΕΧΝΙΚΗ ΜΕΛΕΤΗ
+Line  68: LANDSCAPE DESIGN
+Line  69: ΜΗΧΑΝΟΛΟΓΙΚΗ ΜΕΛΕΤΗ
+Line  70: MEP ENGINEER
+Line  71: ΣΤΑΤΙΚΗ ΜΕΛΕΤΗ
+Line  72: STRUCTURAL ENGINEER
+Line  73: ΑΡΧΙΤΕΚΤΟΝΑΣ ΕΡΓΟΥ
+Line  74: ARCHITECTURAL DESIGN
+Line  75: ΕΚΤΕΛΕΣΗ ΑΡΧΙΤΕΚΤΟΝΙΚΗΣ
+Line  76: ΜΕΛΕΤΗΣ ΕΠΙΒΛΕΨΗ
+Line  77: EXECUTIVE ARCHITECT
+Line  78: SITE SUPERVISOR
+Line  79: DISCIPLINE
+Line  80: ARC
+Line  81: VAP
+Line  82: TETRAS AEM
+Line  83: Patision Greece
+Line  84: SWIMMING
+Line  85: POOL
+Line  86: OVERFLOW
+Line  87: 2020
+Line  88: 702 02
+Line  89: 01
+Line  90: 02
+
+=== END OF FILTERED TEXT ===
+Total lines: 91

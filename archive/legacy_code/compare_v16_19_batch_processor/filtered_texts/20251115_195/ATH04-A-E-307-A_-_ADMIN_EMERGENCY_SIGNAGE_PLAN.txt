@@ -1,0 +1,112 @@
+=== FILTERED TEXT FOR: ATH04-A-E-307-A_-_ADMIN_EMERGENCY_SIGNAGE_PLAN.pdf ===
+
+Line   0: ZF
+Line   1: ZA
+Line   2: YF
+Line   3: YE
+Line   4: YD
+Line   5: YC
+Line   6: YB
+Line   7: YA
+Line   8: XF
+Line   9: XA
+Line  10: EMERGENCY SIGNAGE
+Line  11: EXIT SIGNAGE
+Line  12: EXIT SIGNAGE
+Line  13: EXIT SIGNAGE
+Line  14: EMERGENCY
+Line  15: EXIT SIGNAGE
+Line  16: EMERGENCY
+Line  17: EXIT SIGNAGE
+Line  18: EMERGENCY
+Line  19: EXIT SIGNAGE
+Line  20: DIRECTION ARROW
+Line  21: DIRECTION ARROW
+Line  22: DIRECTION ARROW
+Line  23: FIRE EXTINGUISHER
+Line  24: FIRE EXTINGUISHER
+Line  25: FIRE HYDRANT
+Line  26: FIRE HYDRANT
+Line  27: FIRE ALARM BUTTON
+Line  28: FIRE ALARM BUTTON
+Line  29: FIRE EXTINGUISHER
+Line  30: FIRE HYDRANT
+Line  31: FIRE ALARM BUTTON
+Line  32: NOTES
+Line  33: DRAWING REPRESENTING MAIN POSITION EMERGENCY FIRE SYSTEMS. SIGNAGE COMPLY GREEK REGULATIONS REVISED.
+Line  34: EXIT SIGNAGE
+Line  35: EXIT SIGNAGE
+Line  36: EXIT SIGNAGE
+Line  37: EMERGENCY EXIT SIGNAGE
+Line  38: EMERGENCY EXIT SIGNAGE
+Line  39: EMERGENCY EXIT SIGNAGE
+Line  40: EVACUATION BUILDING PLAN
+Line  41: USE
+Line  42: DOOR CASE
+Line  43: EMERGENCY
+Line  44: USE
+Line  45: DOOR CASE
+Line  46: EMERGENCY
+Line  47: USE
+Line  48: DOOR CASE
+Line  49: EMERGENCY
+Line  50: ADMIN
+Line  51: COLO
+Line  52: COLO 2
+Line  53: 2
+Line  54: 4
+Line  55: 2
+Line  56: 4
+Line  57: TRUE NORTH
+Line  58: Sheet Title Number
+Line  59: Scale
+Line  60: Plan
+Line  61: Design Consultants
+Line  62: Microsoft
+Line  63: DATA CENTER
+Line  64: SPATA GREECE
+Line  65: Contractor Joint Venture
+Line  66: Name
+Line  67: Contractor Project
+Line  68: Contractor Contract
+Line  69: Contractor PM
+Line  70: Contractor BIM Mngr
+Line  71: Contractor Information
+Line  72: Renco Terna
+Line  73: Client
+Line  74: General Notes
+Line  75: Client Project
+Line  76: Client Contract
+Line  77: Client PM
+Line  78: Client BIM Mngr
+Line  79: Primary Client Information
+Line  80: Layout
+Line  81: Revision
+Line  82: Tombazi Chalandri
+Line  83: 15232
+Line  84: Athens Greece
+Line  85: 0800 3262
+Line  86: Agion Theodoron Square Athens
+Line  87: 10561
+Line  88: Athens Greece
+Line  89: Kimithois Agios Dimitrios
+Line  90: 17236
+Line  91: Athens Greece
+Line  92: Purpose Issue
+Line  93: Issue
+Line  94: Name
+Line  95: ADMIN EMERGENCY SIGNAGE
+Line  96: PLAN
+Line  97: SCALE
+Line  98: EMERGENCY SIGNAGE PLAN
+Line  99: SCALE
+Line 100: 2500
+Line 101: 5000
+Line 102: Date
+Line 103: Description
+Line 104: 04
+Line 105: Issued Approval
+Line 106: HVE JV
+
+=== END OF FILTERED TEXT ===
+Total lines: 107

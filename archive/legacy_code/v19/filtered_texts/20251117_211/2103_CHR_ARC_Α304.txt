@@ -1,0 +1,189 @@
+=== FILTERED TEXT FOR: 2103_CHR_ARC_Α304.pdf ===
+
+Line   0: ΤΔ
+Line   1: ΤΔ
+Line   2: ΤΔ
+Line   3: ΤΔ
+Line   4: ΤΔ
+Line   5: ΤΔ
+Line   6: ΤΔ
+Line   7: ΑΝΟΙΓΜΑ
+Line   8: ΕΠΙΣΚΕΨΙΜΟΤΗΤΑΣ
+Line   9: ΠΙΣΙΝΑΣ
+Line  10: ΜΗΧΑΝΟΣΤΑΣΙΟ
+Line  11: ΠΙΣΙΝΑΣ
+Line  12: ΧΩΡΟΣ
+Line  13: ΣΤΑΘΜΕΥΣΗΣ
+Line  14: ΦΡΕΑΤΙΟ
+Line  15: ΑΣΦΑΛΕΙΑΣ
+Line  16: ΜΕ
+Line  17: ΚΑΛΥΨΗ INOX
+Line  18: ΣΧΑΡΑΣ
+Line  19: ΠΡΟΒΟΛΟΣ
+Line  20: ΣΤΕΓΑΣΤΡΟ
+Line  21: ΞΥΛΙΝΑ
+Line  22: ΣΤΟΙΧΕΙΑ ΟΨΗΣ
+Line  23: ΧΑΜΗΛΟΤΕΡΗ ΑΚΜΗ
+Line  24: ΜΕΓΙΣΤΗ ΣΤΑΘΜΗ
+Line  25: ΜΠΑΖΩΜΑΤΟΣ ΚΟΝΤΑ ΣΤΙΣ
+Line  26: ΑΚΜΕΣ
+Line  27: ΤΔ
+Line  28: ΤΔ
+Line  29: ΤΔ
+Line  30: ΤΔ
+Line  31: ΤΔ
+Line  32: ΤΔ
+Line  33: ΤΔ
+Line  34: ΜΗΧΑΝΟΣΤΑΣΙΟ
+Line  35: ΠΙΣΙΝΑΣ
+Line  36: ΧΩΡΟΣ
+Line  37: ΣΤΑΘΜΕΥΣΗΣ
+Line  38: ΥΠΕΡΧΕΙΛΙΣΗΣ
+Line  39: ΠΙΣΙΝΑΣ
+Line  40: ΕΠΙΣΚΕΨΙΜΟΤΗΤΑΣ
+Line  41: ΜΗΧΑΝΟΣΤΑΣΙΟΥ ΠΙΣΙΝΑΣ
+Line  42: ΤΔ
+Line  43: ΤΔ
+Line  44: FFL
+Line  45: SSL
+Line  46: FFL
+Line  47: FFL
+Line  48: ΧΩΡΟΥ
+Line  49: ΚΑΘΑΡΗ ΕΠΙΦΑΝΕΙΑ ΧΩΡΟΥ
+Line  50: ΣΤΑΘΜΗ ΤΕΛΙΚΟΥ
+Line  51: ΣΤΑΘΜΗ ΠΛΑΚΑΣ ΜΠΕΤΟΥ
+Line  52: ΥΠΟΜΝΗΜΑ ΓΕΝΙΚΩΝ ΣΥΜΒΟΛΙΣΜΩΝ
+Line  53: ΑΝΟΙΓΜΑ ΠΑΡΑΘΥΡΟΥ
+Line  54: ΠΑΡΑΘΥΡΟΥ
+Line  55: ΠΡΕΚΙ ΠΑΡΑΘΥΡΟΥ
+Line  56: Room
+Line  57: ΠΑΡΑΘΥΡΟΥ
+Line  58: ΑΝΟΙΓΜΑ ΘΥΡΑΣ
+Line  59: ΘΥΡΑΣ
+Line  60: ΠΡΕΚΙ ΘΥΡΑΣ
+Line  61: ΤΥΠΟΣ ΘΥΡΑΣ
+Line  62: ΣΥΜΒΟΛΟ ΤΟΜΗΣ
+Line  63: ΟΝΟΜΑ ΧΩΡΟΥ
+Line  64: ΦΡΕΑΤΙΟ
+Line  65: ΤΥΠΟΣ
+Line  66: ΑΡΧΗ ΧΑΡΑΞΗΣ
+Line  67: ΗΛΕΚΤΡΙΚΟΣ ΠΙΝΑΚΑΣ
+Line  68: ΣΥΜΒΟΛΑ ΛΕΠΤΟΜΕΡΕΙΩΝ
+Line  69: 9312
+Line  70: ΤΕΛΕΙΩΜΑ ΤΟΙΧΩΝ ΣΟΒΑΤΕΠΙ
+Line  71: ΤΥΠΟΣ ΤΟΙΧΟΥ
+Line  72: ΤΥΠΟΣ ΥΨΟΣ ΧΩΡΟΥ
+Line  73: Door Type
+Line  74: ΘΥΡΑΣ
+Line  75: ΤΥΠΟΣ ΠΑΡΑΘΥΡΟΥ
+Line  76: ΣΥΜΒΟΛΙΣΜΟΙ ΤΥΠΩΝ ΤΟΙΧΩΝ
+Line  77: ΦΕΡΩΝ ΟΡΓΑΝΙΣΜΟΣ
+Line  78: ΣΥΣΤΗΜΑ ΘΕΡΜΟΠΡΟΣΟΨΗΣ
+Line  79: ΓΥΑΛΙΝΟ
+Line  80: ΜΕ ΜΟΝΩΣΗ
+Line  81: ΤΟΙΧΟΠΟΙΙΑ ΤΥΠΟΙ
+Line  82: ΜΠΑΤΙΚΟΣ
+Line  83: ΜΕ
+Line  84: ΤΟΙΧΟΣ ΞΗΡΑΣ
+Line  85: ΜΕ ΜΟΝΩΣΗ
+Line  86: ΤΟΙΧΟΣ ΞΗΡΑΣ
+Line  87: ΤΟΙΧΟΣ ΞΗΡΑΣ
+Line  88: ΜΕ
+Line  89: ΜΕ
+Line  90: ΜΕ
+Line  91: ΜΕ
+Line  92: ΑΠΛΗ ΜΕ ΣΚΕΛΕΤΟ
+Line  93: ΤΥΠΟΙ
+Line  94: ΑΠΛΗ ΜΕ ΣΚΕΛΕΤΟ
+Line  95: ΠΥΡΑΝΤΟΧΗ ΜΕ ΣΚΕΛΕΤΟ
+Line  96: ΑΠΛΗ ΜΕ ΣΚΕΛΕΤΟ
+Line  97: ΑΠΛΗ ΜΕ ΣΚΕΛΕΤΟ
+Line  98: ΑΝΘΥΓΡΗ
+Line  99: ΤΕΛΕΙΩΜΑΤΑ ΟΡΟΦΩΝ
+Line 100: ΜΕ ΜΟΝΩΣΗ
+Line 101: ΑΝΘΥΓΡΗ ΜΕ ΜΟΝΩΣΗ
+Line 102: ΕΠΙΧΡΙΣΜΑ
+Line 103: ΕΠΕΞΕΡΓΑΣΙΑ ΣΕ
+Line 104: ΜΟΝΩΣΗ ΥΠΟΓΕΙΟΥ
+Line 105: ΞΥΛΙΝΟ DECK ΕΞ. ΧΩΡΟΥ
+Line 106: ΠΑΡΚΕ
+Line 107: ΤΕΛΕΙΩΜΑΤΑ
+Line 108: ΜΑΡΜΑΡΟ ΣΕ ΠΛΑΚΕΣ
+Line 109: ΜΑΡΜΑΡΟ ΣΕ ΠΛΑΚΕΣ
+Line 110: ΠΑΧΟΥΣ
+Line 111: ΠΑΧΟΥΣ
+Line 112: ΜΑΡΜΑΡΟ ΣΕ ΠΛΑΚΕΣ
+Line 113: ΠΑΧΟΥΣ
+Line 114: ΠΑΧΟΥΣ
+Line 115: ΠΑΧΟΥΣ
+Line 116: ΠΑΧΟΥΣ
+Line 117: ΜΗ ΒΑΤΟ ΜΕ ΒΟΤΣΑΛΟ
+Line 118: ΒΙΟΜΗΧΑΝΙΚΟ ΜΕ ΤΕΛΕΙΩΜΑ ΒΑΦΗΣ
+Line 119: ΚΛΙΜΑΚΑ
+Line 120: SCALE
+Line 121: ΕΡΓΟ
+Line 122: ΗΜΕΡΟΜΗΝΙΑ
+Line 123: FIRST ISSUE DATE
+Line 124: ΠΕΡΙΟΧΗ
+Line 125: ZONE
+Line 126: ISSUED
+Line 127: CONSTRUCTION
+Line 128: APPROVAL
+Line 129: TENDER
+Line 130: STATUS
+Line 131: DRAFT
+Line 132: FINAL
+Line 133: DISCIPLINE
+Line 134: ARC
+Line 135: ΑΝΑΘ.
+Line 136: REV.
+Line 137: VAP
+Line 138: PROJECT
+Line 139: DRAWING
+Line 140: ΚΥΡΙΟΣ ΤΟΥ ΕΡΓΟΥ
+Line 141: CLIENT
+Line 142: Τοµπάζη Χαλάνδρι, 15332
+Line 143: 3262 3269
+Line 144: ΑΝΑΘΕΩΡΗΣΗ ΤΗΣ ΑΡΙΘΜ.
+Line 145: 03 2020
+Line 146: ΛΟΓΩ ΤΡΟΠΟΠΟΙΗΣΗΣ ΤΗΣ
+Line 147: ΑΡΧΙΤΕΚΤΟΝΙΚΗΣ ΜΕΛΕΤΗΣ ΚΑΙ
+Line 148: ΑΛΛΑΓΗΣ ΜΗΧΑΝΙΚΟΥ
+Line 149: ΘΕΣΗ
+Line 150: LOCATION
+Line 151: ΧΡΥΣΑΝΘΕΜΩΝ 71, ΨΥΧΙΚΟ,
+Line 152: ΦΙΛΟΘΕΗΣ ΨΥΧΙΚΟΥ
+Line 153: ΑΡΧΙΤΕΚΤΟΝIKH ΜΕΛΕΤΗ
+Line 154: ARCHITECTURAL DESIGN
+Line 155: ΣΤΑΤΙΚΗ ΜΕΛΕΤΗ
+Line 156: STRUCTURAL DESIGN
+Line 157: ΜΗΧΑΝΟΛΟΓΙΚΗ ΜΕΛΕΤΗ
+Line 158: MEP DESIGN
+Line 159: ΜΕΛΕΤΗ
+Line 160: STUDY
+Line 161: STAGE
+Line 162: ΜΕΛΕΤΗΤΗ
+Line 163: DESIGNER STAMP
+Line 164: ΕΤΑΙΡΕΙΑΣ
+Line 165: COMPANY STAMP
+Line 166: ΓΕΩΡΓΙΟΣ ΒΑΡΟΥΤΑΣ
+Line 167: ΗΛΕΚΤΡΟΛΟΓΟΣ ΜΗΧΑΝΙΚΟΣ
+Line 168: ASSOSIATES
+Line 169: STRUCTURAL GEOTECHNICAL ENGINNERS
+Line 170: VASSILIS ALEXANDROS POUTETSIS
+Line 171: ARCHITECTS ASSOCIATES IKE
+Line 172: Ιδιωτική Μονάδα Ηµερήσιας
+Line 173: Νοσηλείας, Ιατρική ΕΠΕ
+Line 174: KEYPLAN
+Line 175: PLOT DATE WIP
+Line 176: 2022 42
+Line 177: ΤΟΜΕΣ ΕΕ ΚΑΙ ΖΖ
+Line 178: 06
+Line 179: ΤΟΜΗ ΕΕ DD
+Line 180: ΖΖ DD
+Line 181: ΑΝΑΘΕΩΡΗΣΕΙΣ
+Line 182: ΠΕΡΙΓΡΑΦΗ DESCRIPTION
+Line 183: ΗΜ ΝΙΑ DATE
+
+=== END OF FILTERED TEXT ===
+Total lines: 184

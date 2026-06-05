@@ -1,0 +1,383 @@
+=== FILTERED TEXT FOR: 4A01-B06-VAP-DWG-288-CD-04101-A.pdf ===
+
+Line   0: ΦΥΣΙΚΟ ΕΔΑΦΟΣ
+Line   1: ΦΥΣΙΚΟ ΕΔΑΦΟΣ
+Line   2: Απόληξη
+Line   3: ΕΦΕΛΚΥΟΜΕΝΗ ΜΕΜΒΡΑΝΗ
+Line   4: ΕΠΕΝΔΥΣΗΣ ΟΨΗΣ
+Line   5: ΣΥΣΤΗΜΑ ΑΝΑΡΤΗΣΗΣ
+Line   6: AERO
+Line   7: FL
+Line   8: SL
+Line   9: ΦΥΣΙΚΟ ΕΔΑΦΟΣ
+Line  10: LED
+Line  11: DRV.
+Line  12: LED
+Line  13: DRV.
+Line  14: LED
+Line  15: DRV.
+Line  16: LED
+Line  17: DRV.
+Line  18: LED
+Line  19: DRV.
+Line  20: ΤΡΟΦΟΔΟΣΙΑ ΑΠΟ DRIVER ΠΟΥ ΑΠΟΤΥΠΩΝΕΤΑΙ
+Line  21: ΣΤΗΝ ΒΟΡΕΙΟΑΝΑΤΟΛΙΚΗ ΟΨΗΣ
+Line  22: POWER DRIVER SHOWED NORTH EAST
+Line  23: FAÇADE
+Line  24: ΦΥΣΙΚΟ ΕΔΑΦΟΣ
+Line  25: ΦΥΣΙΚΟ ΕΔΑΦΟΣ
+Line  26: ΕΦΕΛΚΥΟΜΕΝΗ ΜΕΜΒΡΑΝΗ
+Line  27: ΕΠΕΝΔΥΣΗΣ ΟΨΗΣ
+Line  28: ΣΥΣΤΗΜΑ ΑΝΑΡΤΗΣΗΣ AERO
+Line  29: LED
+Line  30: DRV.
+Line  31: LED
+Line  32: DRV.
+Line  33: LED
+Line  34: DRV.
+Line  35: ΤΡΟΦΟΔΟΣΙΑ ΑΠΟ DRIVER ΠΟΥ ΑΠΟΤΥΠΩΝΕΤΑΙ
+Line  36: ΣΤΗΝ ΒΟΡΕΙΟΑΝΑΤΟΛΙΚΗ ΟΨΗΣ
+Line  37: POWER DRIVER SHOWED NORTH EAST
+Line  38: FAÇADE
+Line  39: LED
+Line  40: DRV.
+Line  41: LED
+Line  42: DRV.
+Line  43: ΦΥΣΙΚΟ ΕΔΑΦΟΣ
+Line  44: ΦΥΣΙΚΟ ΕΔΑΦΟΣ
+Line  45: ΠΡΟΒΟΛΗ ΚΥΡΙΩΣ ΚΤΙΡΙΟΥ
+Line  46: ΕΦΕΛΚΥΟΜΕΝΗ ΜΕΜΒΡΑΝΗ
+Line  47: ΕΠΕΝΔΥΣΗΣ ΟΨΗΣ
+Line  48: ΣΥΣΤΗΜΑ ΑΝΑΡΤΗΣΗΣ AERO
+Line  49: LED
+Line  50: DRV.
+Line  51: LED
+Line  52: DRV.
+Line  53: LED
+Line  54: DRV.
+Line  55: LED
+Line  56: DRV.
+Line  57: ΕΦΕΛΚΥΟΜΕΝΗ ΜΕΜΒΡΑΝΗ
+Line  58: ΕΠΕΝΔΥΣΗΣ ΟΨΗΣ
+Line  59: ΣΥΣΤΗΜΑ ΑΝΑΡΤΗΣΗΣ AERO
+Line  60: ΦΥΣΙΚΟ ΕΔΑΦΟΣ
+Line  61: ΦΥΣΙΚΟ ΕΔΑΦΟΣ
+Line  62: FL
+Line  63: SL
+Line  64: FL
+Line  65: SL
+Line  66: FL
+Line  67: SL
+Line  68: ΦΥΣΙΚΟ ΕΔΑΦΟΣ
+Line  69: TS
+Line  70: LED
+Line  71: DRV.
+Line  72: LED
+Line  73: DRV.
+Line  74: LED
+Line  75: DRV.
+Line  76: LED
+Line  77: DRV.
+Line  78: LED
+Line  79: DRV.
+Line  80: LED
+Line  81: DRV.
+Line  82: LED
+Line  83: DRV.
+Line  84: LED
+Line  85: DRV.
+Line  86: LED
+Line  87: DRV.
+Line  88: LED
+Line  89: DRV.
+Line  90: LED
+Line  91: DRV.
+Line  92: LED
+Line  93: DRV.
+Line  94: LED
+Line  95: DRV.
+Line  96: LED
+Line  97: DRV.
+Line  98: LED
+Line  99: DRV.
+Line 100: LED
+Line 101: DRV.
+Line 102: DRV.
+Line 103: OFF
+Line 104: DRV.
+Line 105: OFF
+Line 106: DRV.
+Line 107: OFF
+Line 108: DRV.
+Line 109: OFF
+Line 110: DRV.
+Line 111: OFF
+Line 112: TS
+Line 113: TS
+Line 114: TS
+Line 115: TS
+Line 116: TS
+Line 117: TS
+Line 118: TS
+Line 119: LEGEND OUTDOOR
+Line 120: Lighting Ceiling Level
+Line 121: Lighting Ceiling Level
+Line 122: SYMBOL.
+Line 123: DESCRIPTION.
+Line 124: SYMBOL.
+Line 125: DESCRIPTION.
+Line 126: LREF.
+Line 127: Wall Vertically LED RIBBON FLED BLUE
+Line 128: LED LED
+Line 129: MINI Anod. ELECTRON
+Line 130: LED Driver Dimmable DMX
+Line 131: Profile
+Line 132: Surface
+Line 133: Strip
+Line 134: Wall Washer LED ELEGANT MAX II Anodized ELEGANT MAX
+Line 135: II 1240 Beam
+Line 136: Dimensions
+Line 137: Elegant Antiglare Anod.
+Line 138: LED Driver Dimmable DMX
+Line 139: Wall
+Line 140: Washer
+Line 141: LED Waterproof Wall Sconce Kobo ,Polycarbonate,
+Line 142: LOMBARDO SRL.
+Line 143: Dimensions
+Line 144: LED Driver Power OFF
+Line 145: ALOHA Spot Beam
+Line 146: Black Flexa Lighting
+Line 147: Dimensions
+Line 148: LED Driver OFF.
+Line 149: Projector
+Line 150: Wall
+Line 151: Sconce
+Line 152: Wall Washer LED ELEGANT MAX II Anodized ELEGANT MAX
+Line 153: II 1240 Beam
+Line 154: Dimensions
+Line 155: Elegant Antiglare Anod.
+Line 156: LED Driver Dimmable DMX
+Line 157: Wall
+Line 158: Washer
+Line 159: EL. SUPPLY
+Line 160: TIME SWITCH ΧΡΟΝΟΔΙΑΚΟΠΤΗΣ
+Line 161: SWITCH OFF
+Line 162: DIMMABLE DALI
+Line 163: LIGHT CHANNEL LIGHT CHANNEL LEVEL CHANNEL NR. 00 CHANNEL NR. DIM DALI
+Line 164: Dimmable
+Line 165: PUSH BUTON
+Line 166: SOCKET
+Line 167: ES
+Line 168: TS
+Line 169: SW
+Line 170: DIM
+Line 171: MOTION DETECTOR
+Line 172: MD
+Line 173: EMERGENCY LIGHTS
+Line 174: EM
+Line 175: EMERGENCY LIGHT INTEGRATED BATTERIES EXIT
+Line 176: ΦΩΤΙΣΤΙΚΟ ΑΣΦΑΛΕΙΑΣ ΜΕ ΕΝΣΩΜΑΤΩΜΕΝΕΣ ΜΠΑΤΑΡΙΕΣ ΚΑΙ ΕΞΟΔΟΥ
+Line 177: SAFETY LIGHT BUILT BATTERIES ESCAPE DIRECTION
+Line 178: ΦΩΤΙΣΤΙΚΟ ΑΣΦΑΛΕΙΑΣ ΜΕ ΕΝΣΩΜΑΤΩΜΕΝΕΣ ΜΠΑΤΑΡΙΕΣ ΚΑΙ ΟΔΕΥΣΗΣ
+Line 179: ΔΙΑΦΥΓΗΣ
+Line 180: LEGEND
+Line 181: LS
+Line 182: LIGHT SENSOR PHOTOSENSOR
+Line 183: Architectural Lighting Control Plate, Scene Master OFF
+Line 184: DIM
+Line 185: COMMENTS ΠΑΡΑΤΗΡΗΣΕΙΣ
+Line 186: Indicates
+Line 187: Υποδεικνύει
+Line 188: Όλοι
+Line 189: Πριν
+Line 190: Βλέπε
+Line 191: Lighting
+Line 192: Ceiling
+Line 193: Table Floor
+Line 194: Cove
+Line 195: MOUNTING SYMBOLS ΣΥΜΒΟΛΑ
+Line 196: Ground
+Line 197: Cove
+Line 198: Recessed
+Line 199: Surface
+Line 200: Pendant
+Line 201: Wall
+Line 202: Wall
+Line 203: Wall
+Line 204: Pendant
+Line 205: ΝΟΤΙΟΑΝΑΤΟΛΙΚΗ ΌΨΗ SOUTHEAST ELEVATION SC
+Line 206: SC
+Line 207: ΒΟΡΕΙΟΔΥΤΙΚΗ ΟΨΗ NORTHWEST ELEVATION SC
+Line 208: ΝΟΤΙΟΔΥΤΙΚΗ ΟΨΗ NORTHWEST ELEVATION SC
+Line 209: ΒΟΡΕΙΟΑΝΑΤΟΛΙΚΗ ΌΨΗ NORTHEAST ELEVATION SC
+Line 210: Σημείωση Πνευματικών Δικαιωμάτων. 2121 1993
+Line 211: ΕΛΛΗΝΙΚΟ
+Line 212: Ρήτρα Περιορισμού Ευθύνης. ΕΛΛΗΝΙΚΟ ΕΛΛΗΝΙΚΟ
+Line 213: ΝΑ ΜΗΝ ΑΛΛΑΧΘΕΙ ΚΛΙΜΑΚΑ ΤΟΥ ΣΧΕΔΙΟΥ.
+Line 214: Copyright Notice. 2121 1993
+Line 215: HELLINIKON
+Line 216: Disclaimer. HELLINIKON HELLINIKON
+Line 217: CHANGE SCALE DRAWING.
+Line 218: ΓΕΝΙΚΕΣ ΣΗΜΕΙΩΣΕΙΣ GENERAL NOTES
+Line 219: ΕΡΓΟΔΟΤΗΣ EMPLOYER
+Line 220: ΣΥΜΒΟΥΛΟΣ ΔΙΑΧΕΙΡΙΣΗΣ ΕΡΓΟΥ
+Line 221: PROJECT MANAGEMENT CONSULTANT
+Line 222: ΚΥΡΙΟΣ ΜΕΛΕΤΗΤΗΣ LEAD DESIGNER
+Line 223: ΤΙΤΛΟΣ ΣΧΕΔΙΟΥ DRAWING TITLE
+Line 224: ΚΛΙΜΑΚΑ SCALE
+Line 225: ΚΩΔΙΚΟΣ ΕΓΓΡΑΦΟΥ ΣΧΕΔΙΟΥ DOCUMENT DRAWING CODIFICATION
+Line 226: ΦΥΛΛΟ SHEET
+Line 227: ΔΙΑΤΑΞΗ LAYOUT
+Line 228: Project
+Line 229: Originator
+Line 230: Type
+Line 231: Discipline
+Line 232: Stage
+Line 233: Serial Number
+Line 234: Revision
+Line 235: REV.
+Line 236: DATE
+Line 237: ISSUE
+Line 238: DESCRIPTION UPDATE VERSION
+Line 239: ORIGINATED
+Line 240: CHECKED
+Line 241: VERIFIED
+Line 242: LEAD DESIGNER
+Line 243: APPROVED
+Line 244: PMC
+Line 245: STATUS
+Line 246: ΕΡΓΟ PROJECT
+Line 247: ΑΝΑΠΤΥΞΗ ΤΟΥ ΜΗΤΡΟΠΟΛΙΤΙΚΟΥ ΠΟΛΟΥ ΕΛΛΗΝΙΚΟΥ ΑΓIOY ΚΟΣΜΑ
+Line 248: DEVELOPMENT METROPOLITAN POLE HELLINIKON AG. KOSMAS
+Line 249: ΣΤΟΙΧΕΙΑ ΕΡΓΟΔΟΤΗ EMPLOYER DETAILS
+Line 250: ΕΛΛΗΝΙΚΟ HELLINIKON
+Line 251: Kifisias Avenue Golden Hall
+Line 252: 15123 Marousi
+Line 253: ΣΤΟΙΧΕΙΑ ΣΥΜΒΟΥΛΟΥ ΔΙΑΧΕΙΡΙΣΗΣ ΕΡΓΟΥ
+Line 254: PROJECT MANAGEMENT CONSULTANT DETAILS
+Line 255: ΣΤΟΙΧΕΙΑ ΚΥΡΙΟΥ ΜΕΛΕΤΗΤΗ LEAD DESIGNER DETAILS
+Line 256: SUBCONSULTANT DISCIPLINE
+Line 257: SUBCONSULTANT DISCIPLINE
+Line 258: SUBCONSULTANT DISCIPLINE
+Line 259: SUBCONSULTANT DISCIPLINE
+Line 260: MODEL
+Line 261: HELLINIKON
+Line 262: ΑΝΑΚΑΙΝΙΣΗ ΚΑΙ ΔΙΑΡΡΥΘΜΙΣΗ ΤΟΥ ΥΦΙΣΤΑΜΕΝΟΥ ΚΤΗΡΙΟΥ
+Line 263: ΣΤΗΝ ΠΕΡΙΟΧΗ ΚΑΝΟΕ ΚΑΓΙΑΚ ΕΝΤΟΣ ΤΟΥ ΜΗΤΡΟΠΟΛΙΤΙΚΟΥ ΠΑΡΚΟΥ
+Line 264: ΜΕΛΕΤΗ ΕΦΑΡΜΟΓΗΣ
+Line 265: 4A01
+Line 266: B06
+Line 267: VAP
+Line 268: CD
+Line 269: DWG
+Line 270: REFURBISHMENT FIT OUT EXISTING BUILDING
+Line 271: CANOE KAYAK AREA METROPOLITAN PARK
+Line 272: CONSTRUCTION DESIGN
+Line 273: ΠΜ
+Line 274: ΠΜ ΠΜ
+Line 275: A
+Line 276: A
+Line 277: A
+Line 278: A
+Line 279: A
+Line 280: ΠΜ
+Line 281: A
+Line 282: A
+Line 283: ΠΜ
+Line 284: ΠΜ
+Line 285: ΠΜ
+Line 286: ΜΗΤΡΟΠΟΛΙΤΙΚΟ ΠΑΡΚΟ
+Line 287: ΠΡΑΣΙΝΟΥ ΚΑΙ ΑΝΑΨΥΧΗΣ
+Line 288: ΚΤΗΡΙΑΚΗ
+Line 289: ΕΝΟΤΗΤΑ
+Line 290: ΘΕΣΗ ΚΤΙΡΙΟΥ BUILDING LOCATION
+Line 291: ΗΛΕΚΤΡΟΜΗΧΑΝΟΛΟΓΙΚΩΝ
+Line 292: ΠΡΙΖΑ
+Line 293: ΔΙΑΚΟΠΤΗΣ
+Line 294: ΔΙΑΚΟΠΤΗΣ ΚΟΜΙΤΑΤΕΡ
+Line 295: ΠΡΙΖΑ ΓΙΑ ΤΗΛΕΟΡΑΣΗ
+Line 296: ΠΡΙΖΑ ΓΙΑ ΤΗΛΕΦΩΝΟ
+Line 297: ΔΕΗ
+Line 298: UPS
+Line 299: ΠΦ ΠΣ
+Line 300: ΠΥΡΟΣΒΕΣΤΙΚΗ ΦΩΛΙΑ
+Line 301: ΠΥΡΟΣΒΕΣΤΗΡΑΣ
+Line 302: ΗΛΕΚΤΡΟΛΟΓΙΚΟΙ ΠΙΝΑΚΕΣ
+Line 303: ΕΝΔΟΔΑΠΕΔΙΕΣ ΚΕΦΑΛΕΣ
+Line 304: ΟΝΟΜΑΣΙΑ ΧΩΡΟΥ ROOM NAME
+Line 305: ΓΕΝΙΚΟΙ SYMBOLS
+Line 306: ΑΡΙΘΜHΣΗ ΧΩΡΟΥ ΟΡΟΦΟΣ, ΑΡΙΘΜΟΣ
+Line 307: ROOM NUMBER LEVEL, NUMBER
+Line 308: ΕΜΒΑΔΟΝ ΧΩΡΟΥ ROOM AREA
+Line 309: ΚΩΔΙΚΟΣ ΝΕΑΣ ΘΥΡΑΣ NEW DOOR TYPE
+Line 310: ΠΡΕΚΙ ΘΥΡΑΣ HEAD HEIGHT
+Line 311: ΑΝΟΙΓΜΑ ΘΥΡΑΣ WIDTH
+Line 312: ΣΤΑΘΜΗ ΜΠΕΤΟΝ
+Line 313: STRUCTURAL SLAB LEVEL
+Line 314: ΣΤΑΘΜΗ ΤΕΛΙΚΟΥ ΔΑΠΕΔΟΥ
+Line 315: FINAL FLOOR LEVEL
+Line 316: 00000
+Line 317: ΛΕΠΤΟΜΕΡΕΙΩΝ
+Line 318: DETAIL SYMBOL
+Line 319: ΟΝΟΜΑΣΙΑ ΤΟΜΗΣ SECTION NAME
+Line 320: ΤΥΠΟΣ ΤΟΙΧΟΠΟΙΙΑΣ WALL TYPE
+Line 321: ΤΥΠΟΣ ΚΙΝΗΤΩΝ ΧΩΡΙΣΜΑΤΩΝ
+Line 322: GLASS PARTITION TYPE
+Line 323: ΚΩΔΙΚΟΣ ΥΦΙΣΤΑΜΕΝΗΣ ΘΥΡΑΣ
+Line 324: EXISTING DOOR TYPE
+Line 325: ΠΡΕΚΙ ΘΥΡΑΣ HEAD HEIGHT
+Line 326: ΑΝΟΙΓΜΑ ΘΥΡΑΣ WIDTH
+Line 327: ΤΥΠΟΣ ΥΦΙΣΤΑΜΕΝΟΥ ΠΑΡΑΘΥΡΟΥ
+Line 328: EXISTING WINDOW TYPE
+Line 329: ΠΟΔΙΑ ΠΑΡΑΘΥΡΟΥ SEAL HEIGHT
+Line 330: ΠΡΕΚΙ ΠΑΡΑΘΥΡΟΥ HEAD HEIGHT
+Line 331: ΠΛΑΤΟΣ ΠΑΡΑΘΥΡΟΥ WIDTH
+Line 332: ΑΡΙΘΜΟΣ ΣΧΕΔΙΟΥ DRAWING NUMBER
+Line 333: ΥΦΙΣΤΑΜΕΝΑ ΔΙΑΤΗΡΟΥΜΕΝΑ ΕΙΔΗ ΥΓΙΕΙΝΗΣ
+Line 334: EXISTING SANITARY
+Line 335: NEA ΕΙΔΗ ΥΓΙΕΙΝΗΣ NEW SANITARY
+Line 336: ΤΥΠΟΣ ΕΡΜΑΡΙΟΥ CABINET TYPE
+Line 337: DN
+Line 338: AF 01
+Line 339: 000
+Line 340: ΦΕΡΟΝ ΟΡΓΑΝΙΣΜΟΣ ΚΤΗΡΙΟΥ ΑΠΟ ΟΠΛΙΣΜΕΝΟ ΣΚΥΡΟΔΕΜΑ
+Line 341: CONCRETE FRAMED STRUCTURE
+Line 342: ΥΦΙΣΤΑΜΕΝΗ ΤΟΙΧΟΠΟΙΙΑ ΑΠΟ ΟΠΤΟΠΛΙΘΟΔΟΜΗ
+Line 343: EXISTING BRICK WALL
+Line 344: ΥΦΙΣΤΑΜΕΝΑ ΧΩΡΙΣΜΑΤΑ ΑΠΟ ΓΥΨΟΣΑΝΙΔΑ
+Line 345: EXISTING PARTITIONS GYPSUM BOARD
+Line 346: ΔΟΚΑΡΙΑ ΣΕ ΠΡΟΒΟΛΗ
+Line 347: BEAMS
+Line 348: ΝΕΑ ΧΩΡΙΣΜΑΤΑ ΑΠΟ ΞΗΡΑ ΔΟΜΗΣΗ
+Line 349: NEW DRYWALL PARTITIONS
+Line 350: ΝΕΑ ΚΙΝΗΤΑ ΧΩΡΙΣΜΑΤΑ
+Line 351: NEW GLASS PARTITIONS
+Line 352: TΥΠΟΣ ΔΑΠΕΔΟΥ FLOORING TYPE
+Line 353: ΤΥΠΟΣ NEOY ΠΑΡΑΘΥΡΟΥ
+Line 354: NEW WINDOW TYPE
+Line 355: ΠΟΔΙΑ ΠΑΡΑΘΥΡΟΥ SEAL HEIGHT
+Line 356: ΠΡΕΚΙ ΠΑΡΑΘΥΡΟΥ HEAD HEIGHT
+Line 357: ΠΛΑΤΟΣ ΠΑΡΑΘΥΡΟΥ WIDTH
+Line 358: SSL
+Line 359: FFL
+Line 360: CB
+Line 361: 00000
+Line 362: 00000
+Line 363: A
+Line 364: ΧΩΡΟΣ
+Line 365: ROOM
+Line 366: USER
+Line 367: ΟΨΕΙΣ ΦΩΤΙΣΜΟΣ ΑΝΑΔΕΙΞΗΣ
+Line 368: ELEVATIONS LIGHTING FACADE
+Line 369: 04101
+Line 370: First Issuance Approval
+Line 371: VAP
+Line 372: A
+Line 373: VAP
+Line 374: VAP
+Line 375: A
+Line 376: EXT
+Line 377: A
+
+=== END OF FILTERED TEXT ===
+Total lines: 378

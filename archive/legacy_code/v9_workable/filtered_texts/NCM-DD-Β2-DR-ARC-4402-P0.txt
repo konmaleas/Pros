@@ -1,0 +1,224 @@
+=== FILTERED TEXT FOR: NCM-DD-Β2-DR-ARC-4402-P0.pdf ===
+
+Line   0: Shaft
+Line   1: ΑΝΤΛΙΟΣΤΑΣΙΟ
+Line   2: WC
+Line   3: .00
+Line   4: 70
+Line   5: 40
+Line   6: 40
+Line   7: 40
+Line   8: 00
+Line   9: .40
+Line  10: 40
+Line  11: 40
+Line  12: 40
+Line  13: 40
+Line  14: 70
+Line  15: 40
+Line  16: 40
+Line  17: 40
+Line  18: 40
+Line  19: .40
+Line  20: 40
+Line  21: 70 00
+Line  22: 70 00
+Line  23: 70 1000
+Line  24: CCU
+Line  25: CCU
+Line  26: UPS
+Line  27: UPS
+Line  28: UPS
+Line  29: UPS
+Line  30: WC ΑΜΕΑ
+Line  31: WC ΓΥΝΑΙΚΩΝ
+Line  32: WC
+Line  33: 2400
+Line  34: 2600
+Line  35: 2400
+Line  36: 2200
+Line  37: 2400
+Line  38: 400
+Line  39: 1845
+Line  40: 1150
+Line  41: 450
+Line  42: 700
+Line  43: 400
+Line  44: 1100
+Line  45: 2400
+Line  46: 2410
+Line  47: 1965
+Line  48: 1780
+Line  49: 1360
+Line  50: ΧΑΡΤΟΠΕΤΣΕΤΟΘΗΚΗ
+Line  51: ΥΓΡΟΥ ΣΑΠΟΥΝΙΟΥ ΕΠΙΤΟΙΧΙΟ
+Line  52: ΚΑΛΑΘΟΣ ΑΧΡΗΣΤΩΝ ΠΛΑΣΤΙΚΟΣ
+Line  53: ΛΕΚΑΝΗ ΑΜΕΑ
+Line  54: ΑΝΘΥΓΡΗ
+Line  55: ΜΕ ΚΕΡΑΜΙΚΕΣ ΠΛΑΚΕΣ
+Line  56: ΤΟΙΧΟΥ ΜΕ ΚΕΡΑΜΙΚΕΣ
+Line  57: ΠΛΑΚΕΣ
+Line  58: ΝΙΠΤΗΡΑΣ
+Line  59: ΚΑΘΡΕΠΤΗΣ
+Line  60: ΟΥΡΗΤΗΡΑΣ
+Line  61: ΜΕ ΚΕΡΑΜΙΚΕΣ ΠΛΑΚΕΣ
+Line  62: ΑΝΘΥΓΡΗ
+Line  63: WC ΤΥΠΟΥ ASSET SOEMA
+Line  64: GLASS ΣΕ HPL
+Line  65: ΤΟΙΧΟΥ ΜΕ ΚΕΡΑΜΙΚΕΣ
+Line  66: ΠΛΑΚΕΣ
+Line  67: ΕΝΤΟΙΧΙΣΜΕΝΗ ΛΕΚΑΝΗ
+Line  68: ΧΑΡΤΟΘΗΚΗ
+Line  69: ΚΑΛΑΘΟΣ ΑΧΡΗΣΤΩΝ ΠΛΑΣΤΙΚΟΣ
+Line  70: ΧΑΡΤΟΠΕΤΣΕΤΟΘΗΚΗ
+Line  71: 2200
+Line  72: 2400
+Line  73: 400
+Line  74: 1845
+Line  75: WC
+Line  76: WC ΓΥΝΑΙΚΩΝ
+Line  77: WC ΑΜΕΑ
+Line  78: 1410
+Line  79: 2680
+Line  80: 1065
+Line  81: 2410
+Line  82: 2400
+Line  83: 2600
+Line  84: 2400
+Line  85: 2400
+Line  86: ΑΝΘΥΓΡΗ
+Line  87: ΚΑΘΡΕΠΤΗΣ ΜΕ ΚΡΥΦΟ ΦΩΤΙΣΜΟ
+Line  88: ΜΕ ΚΕΡΑΜΙΚΕΣ ΠΛΑΚΕΣ
+Line  89: WC ΤΥΠΟΥ ASSET SOEMA
+Line  90: GLASS ΣΕ HPL
+Line  91: ΑΝΘΥΓΡΗ
+Line  92: ΜΕ ΚΕΡΑΜΙΚΕΣ ΠΛΑΚΕΣ
+Line  93: ΟΥΡΗΤΗΡΑΣ
+Line  94: ΣΑΠΟΥΝ
+Line  95: ΝΙΠΤΗΡΑ
+Line  96: ΒΡΥΣ
+Line  97: ΝΤΟΥΛΑΠΙ ΣΥΛΛΕΚΤΗΣ
+Line  98: 1845
+Line  99: 400
+Line 100: 400
+Line 101: 700
+Line 102: 1100
+Line 103: 1050
+Line 104: 1150
+Line 105: 1150
+Line 106: 1050
+Line 107: 2400
+Line 108: 2200
+Line 109: 1845
+Line 110: 400
+Line 111: 700
+Line 112: 1100
+Line 113: 1200
+Line 114: ΥΠΕΥΘΥΝΟΥ
+Line 115: ΗΜΕΡΟΜΗΝΙΑ
+Line 116: ONOMA
+Line 117: ΛΕΥΚΩΣΙΑ ΚΥΠΡΟΣ
+Line 118: ΝΕΟ ΚΥΠΡΙΑΚΟ ΜΟΥΣΕΙΟ
+Line 119: ΗΜΕΡΟΜΗΝΙΑ
+Line 120: ΕΓΚΡΙΘΗΚΕ
+Line 121: ΤΜΗΜ
+Line 122: ΗΜΕΡΟΜΗΝΙΑ
+Line 123: ΕΛΕΓΧΘΗΚΕ
+Line 124: ΤΜΗΜ
+Line 125: ΥΠΟΒΟΛΗ
+Line 126: ΑΡ.
+Line 127: ΥΠΟΥΡΓΕΙΟ ΜΕΤΑΦΟΡΩΝ, ΕΠΙΚΟΙΝΩΝΙΩΝ ΚΑΙ ΕΡΓΩΝ
+Line 128: ΤΜΗΜΑ ΕΡΓΩΝ
+Line 129: ΗΜΕΡΟΜΗΝΙΑ
+Line 130: ΠΕΡΙΕΧΟΜΕΝΟ
+Line 131: ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΜΕΛΕΤΗ
+Line 132: THEONI XANTHI XZA ARCHITECTS
+Line 133: ΥΠΕΥΘΥΝΟΣ ΕΡΓΟΥ
+Line 134: ΑΡΧΙΤΕΚΤΩΝ ΘΕΩΝΗ ΞΑΝΘΗ
+Line 135: ΣΥΝΕΡΓΑΤΕΣ ΑΡΧΙΤΕΚΤΟΝΕΣ
+Line 136: ΜΑΡΓΑΡΙΤΑ ΖΑΚΥΝΘΙΝΟΥ
+Line 137: ΣΥΝΤΟΝΙΣΤΗΣ ΑΡΧIT ΚΗΣ ΜΕΛΕΤΗΣ
+Line 138: ΚΟΣΜΑΣ ΒΑΡΚΑΡΟΛΗΣ
+Line 139: ΚΛΙΜΑΚ
+Line 140: DR ARC
+Line 141: NCM DD
+Line 142: ΜΕΛΕΤΗ ΕΦΑΡΜΟΓΗΣ DD
+Line 143: ΤΙΤΛΟΣ
+Line 144: ΕΡΓΑΣΙΑΣ
+Line 145: ΜΕΛΕΤΗΣ
+Line 146: ΑΡΧΙΤΕΚΤΟΝΙΚΗ
+Line 147: ΣΥΜΒΟΥΛΟΙ ΜΕΛΕΤΗΤΕΣ
+Line 148: ΚΑΤΑΛΛΗΛΟΤΗΤΑΣ
+Line 149: KEY
+Line 150: ΑΡΧΙΤΕΚΤΟΝΙΚΑ
+Line 151: YAP ARCHITECTS
+Line 152: ΣTATIK
+Line 153: RHOMBUS STRUCTURAL ENGINEERS LLC ΣΤ.
+Line 154: PENELIS CONSULTING ENGINEERS SA ΠΕΝΕΛΗΣ
+Line 155: GEORGHIOU ZEMBYLAS
+Line 156: ΜΗΧΑΝΟΛΟΓΙΚ
+Line 157: ΗΛΕΚΤΡΟΛΟΓΙΚ
+Line 158: ΜΟΥΣΕΙΟΛΟΓΙΚ
+Line 159: THETA ACOUSTICS LTD ΝΙΑΟΥΝΑΚΗΣ
+Line 160: ΑΚΟΥΣΤΙΚ
+Line 161: RODITIS PARTNERS
+Line 162: ΕΠΙΜΕΤΡΗΣΗ
+Line 163: ΠΟΣΟΤΗΤΩΝ
+Line 164: FLOROS PANTELI ASSOCIATES ΠΑΝΤΕΛΗ
+Line 165: ΥΓΕΙΑ
+Line 166: ΜΟΥΣΕΙΟΓΡΑΦΙΚ
+Line 167: ΘΩΜΑΣ
+Line 168: ΦΩΤΙΣΜΟΣ
+Line 169: DECO ASSOCIATES ΕΛ. ΝΤΕΚΩ
+Line 170: ΠΥΡΟΠΡΟΣΤΑΣΙ
+Line 171: INT FIRE CYPRUS LTD ΣΠ. ΣΠΥΡΟΥ
+Line 172: ΚΥΚΛΟΦΟΡΙΑΚ
+Line 173: DROMOS CONSULTING LTD ΖΕΚΚΟΣ
+Line 174: ΣΗΜΑΝΣΗ
+Line 175: POST SPECTACULAR OFFICE ΓΑΛΙΚΑΣ
+Line 176: ΚΤΗΡΙΟΥ
+Line 177: ARION PLUS
+Line 178: FEREOS ARCHITECTS LLC ΦΕΡΑΙΟΣ
+Line 179: Αναπλ. Υπεύθυνος Οµάδας Έργου
+Line 180: DROMOS CONSULTING LTD ΖΕΚΚΟΣ
+Line 181: ΓΕΩΤΕΧΝΙΚΑ
+Line 182: ΜΟΥΣΕΙΑΚΟΣ
+Line 183: XZA
+Line 184: ΒΑΣΙΛΕΙΟΥ
+Line 185: ΕΡΓΑΣΤΗΡΙ
+Line 186: VAP ARCHITECTS
+Line 187: Σύµβουλος Μελέτης Εφαρµογής
+Line 188: GEORGHIOU ZEMBYLAS
+Line 189: ANDREAS EVRIPIDOU CIVIL ENGINEERS
+Line 190: ΣΤΕΡΓΙΟΣ ΓΑΛΙΚΑΣ
+Line 191: ΘΩΜΑΣ
+Line 192: ΣΤΕΡΓΙΟΣ ΓΑΛΙΚΑΣ
+Line 193: Συνεργάτης ΤΣΑΜΠΙΚΟΣ ΠΕΤΡΑΣ
+Line 194: POST SPECTACULAR OFFICE ΓΑΛΙΚΑΣ
+Line 195: ΠΡΟΜΕΛΕΤΗ ΣΑΚΕΛΛΑΡΙΟΥ
+Line 196: ΦΥΣΙΚΟΣ
+Line 197: ΦΩΤΙΣΜΟΣ
+Line 198: ΤΣΑΓΚΡΑΣΟΥΛΗΣ
+Line 199: ΕΞΟΠΛΙΣΜΟΣ
+Line 200: ΚΟΥΖΙΝΑΣ
+Line 201: XENEX
+Line 202: ΕΝΕΡΓΕΙΑΚΑ
+Line 203: ΚΕΛΥΦΟΥΣ
+Line 204: METABUIL
+Line 205: ΓΡΑΦΙΣΤΙΚ
+Line 206: ΦΥΤΟΤΕΧΝΙΚ
+Line 207: LANDCO EΠΕ ΚΑΝΤΑΡΤΖΗΣ
+Line 208: ΦΕΒΡΟΥΑΡΙΟΣ 2021
+Line 209: P0
+Line 210: 2021 05 PM
+Line 211: 4402
+Line 212: ΑΝΑΠΤΥΓΜΑΤΑ ΧΩΡΩΝ ΥΓΙΕΙΝΗΣ
+Line 213: 4402
+Line 214: ΧΩΡΟΙ ΥΓΙΕΙΝΗΣ ΟΨΗ
+Line 215: ΧΩΡΟΙ ΥΓΙΕΙΝΗΣ ΟΨΗ
+Line 216: P0
+Line 217: ΦΕΒΡΟΥΑΡΙΟΣ 2021
+Line 218: Υποβολή
+
+=== END OF FILTERED TEXT ===
+Total lines: 219

@@ -1,0 +1,295 @@
+=== FILTERED TEXT FOR: NCM-DD-L2-DR-ARC-4490-P0.pdf ===
+
+Line   0: ΠΡΟΒΟΛΗ ΣΤΕΓΑΣΤΡΟΥ
+Line   1: ΠΡΟΒΟΛΗ ΣΤΕΓΑΣΤΡΟΥ
+Line   2: ΠΡΟΒΟΛΗ ΣΤΕΓΑΣΤΡΟΥ
+Line   3: ΑΕΡΙΣΜΟΣ
+Line   4: LIFT
+Line   5: HMIΫΠΑΙΘΡΙΟΣ
+Line   6: ΧΩΡΟΣ ΥΨΟΥΣ
+Line   7: ΘΑΛΑΜΟΣ
+Line   8: ATOMΩΝ
+Line   9: ΘΑΛΑΜΟΣ
+Line  10: ATOMΩΝ
+Line  11: ΘΑΛΑΜΟΣ
+Line  12: ATOMΩΝ
+Line  13: ΘΑΛΑΜΟΣ
+Line  14: ATOMΩΝ
+Line  15: ΧΩΡΟΣ
+Line  16: ΑΝΑΠΑΥΣΗΣ
+Line  17: AEΡ. LOBBY
+Line  18: SHAFT
+Line  19: 40
+Line  20: ΑΝΕΛΚΥΣΤΗΡΑΣ
+Line  21: ΦΟΡΤΙΟΥ
+Line  22: SHAFT
+Line  23: ΑΝΕΛΚΥΣΤΗΡΑΣ
+Line  24: ΦΟΡΤΙΟΥ
+Line  25: 40
+Line  26: SHAFT
+Line  27: KLEEMANN LIFT
+Line  28: ATLAS GIGAS
+Line  29: 2500
+Line  30: VISITOR
+Line  31: LIFT
+Line  32: ATOMΩΝ
+Line  33: VISITOR
+Line  34: LIFT
+Line  35: ATOMΩΝ
+Line  36: ΑΕΡ ΓΟΣ
+Line  37: LOBBY
+Line  38: VISITOR
+Line  39: LIFT
+Line  40: ATOMΩΝ
+Line  41: ΑΓΩΓΟΣ
+Line  42: AΕΡΙΣΜΟΥ
+Line  43: ΑΓΩΓΟI
+Line  44: ΚΛΙΜΑΤΙΣΜΟΥ
+Line  45: ΑΕΡ ΓΟΣ
+Line  46: LOBBY
+Line  47: ΑΕΡ ΓΟΣ
+Line  48: LOBBY
+Line  49: ΑΕΡΙΣΜΟΣ
+Line  50: LIFT
+Line  51: HMIΫΠΑΙΘΡΙΟΣ
+Line  52: ΧΩΡΟΣ ΥΨΟΥΣ
+Line  53: ΜΟΝΙΜΗ ΕΚΘΕΣΗ
+Line  54: TOPOS
+Line  55: ΜΟΝΙΜΗ ΕΚΘΕΣΗ
+Line  56: SEA
+Line  57: ΜΟΝΙΜΗ ΕΚΘΕΣΗ
+Line  58: COSMOS
+Line  59: ΜΟΝΙΜΗ ΕΚΘΕΣΗ
+Line  60: COSMOS
+Line  61: ΜΟΝΙΜΗ ΕΚΘΕΣΗ
+Line  62: COSMOS
+Line  63: ΜΟΝΙΜΗ ΕΚΘΕΣΗ
+Line  64: SEA
+Line  65: ΜΟΝΙΜΗ ΕΚΘΕΣΗ
+Line  66: TOPOS
+Line  67: ΜΟΝΙΜΗ ΕΚΘΕΣΗ
+Line  68: ΓΕΦΥΡΑ
+Line  69: ΜΟΝΙΜΗ ΕΚΘΕΣΗ
+Line  70: ΓΕΦΥΡΑ
+Line  71: ΜΟΝΙΜΗ
+Line  72: ΕΚΘΕΣΗ
+Line  73: ΓΕΦΥΡΑ
+Line  74: ΜΟΝΙΜΗ
+Line  75: ΕΚΘΕΣΗ
+Line  76: ΓΕΦΥΡΑ
+Line  77: ΜΟΝΙΜΗ
+Line  78: ΕΚΘΕΣΗ
+Line  79: ΓΕΦΥΡΑ
+Line  80: ΑΜΕΑ ΑΛΛΑΓΗ ΒΡΕΦΩΝ
+Line  81: 4490
+Line  82: 1666
+Line  83: 1286
+Line  84: 1565
+Line  85: 1036
+Line  86: 1815
+Line  87: 2175
+Line  88: 2851
+Line  89: 2400
+Line  90: ΑΝΘΥΓΡΗ
+Line  91: EQ
+Line  92: EQ
+Line  93: EQ
+Line  94: EQ
+Line  95: EQ
+Line  96: EQ
+Line  97: EQ
+Line  98: EQ
+Line  99: ΥΠΟΜΝΗΜΑ ΜΗΧΑΝΟΛΟΓΙΚΟΥ
+Line 100: Ανιχνευτής
+Line 101: Ανιχνευτής
+Line 102: Αρχή Χάραξης
+Line 103: Καταιονητήρας
+Line 104: Καταιονητήρας
+Line 105: Καταιονητήρας
+Line 106: Γρίλια
+Line 107: Γρίλια
+Line 108: Σηµείωση
+Line 109: Γραµµικός LED
+Line 110: Γραµµικός LED
+Line 111: Φωτιστικό
+Line 112: Εξαερισµός
+Line 113: Επιτοίχιο
+Line 114: Ανιχνευτής
+Line 115: LED STATUS
+Line 116: Ανιχνευτής PROBE
+Line 117: LED STATUS
+Line 118: Ανιχνευτής
+Line 119: Ανιχνευτής PROBE
+Line 120: Ανιχνευτής
+Line 121: Ανιχνευτής
+Line 122: Κρυφός LED
+Line 123: Ηχείο
+Line 124: Περσίδες
+Line 125: ΥΠΟΜΝΗΜΑ ΥΛΙΚΩΝ
+Line 126: Άνθυγρη
+Line 127: Ξυλο
+Line 128: 2400
+Line 129: Κωδικός Ψευδοροφής
+Line 130: Ύψος
+Line 131: Φωτιστικό
+Line 132: 2400
+Line 133: ΑΝΘΥΓΡΗ
+Line 134: ΚΑΘΡΕΠΤΗΣ WC AMEA
+Line 135: ΑΠΟ ΤΣΙΜΕΝΤΟΠΛΑΚΕΣ ΜΩΣΑΪΚΟΥ
+Line 136: ΠΑΧΟΥΣ ΣΥΓΚΟΛΛΗΜΕΝΕΣ ΜΕ ΚΟΛΛΑ
+Line 137: ΠΑΧΟΣ
+Line 138: ΞΥΛΟΥ ΕΑΞ
+Line 139: ΝΙΠΤΗΡΑΣ ΕΛΕΥΘΕΡΟΣ
+Line 140: 1000
+Line 141: 2544
+Line 142: 2400
+Line 143: 2400
+Line 144: ΑΠΟ ΤΣΙΜΕΝΤΟΠΛΑΚΕΣ ΜΩΣΑΪΚΟΥ
+Line 145: ΠΑΧΟΥΣ ΣΥΓΚΟΛΛΗΜΕΝΕΣ ΜΕ ΚΟΛΛΑ
+Line 146: ΠΑΧΟΣ
+Line 147: ΑΝΘΥΓΡΗ
+Line 148: ΚΑΘΡΕΠΤΗΣ WC AMEA
+Line 149: ΥΓΡΟΥ ΣΑΠΟΥΝΙΟΥ ΕΠΙΤΟΙΧΙΟ
+Line 150: ΧΑΡΤΟΘΗΚΗ
+Line 151: ΝΙΠΤΗΡΑΣ ΕΛΕΥΘΕΡΟΣ
+Line 152: ΛΕΚΑΝΗ ΑΜΕΑ
+Line 153: ΑΠΟΡΡΙΜΑΤΩΝ ΠΛΑΣΙΤΚΟΣ
+Line 154: 700
+Line 155: ΤΟΙΧΟΥ ΜΕ ΤΣΙΜΕΝΤΟΠΛΑΚΕΣ
+Line 156: ΜΩΣΑΪΚΟΥ ΠΑΧΟΥΣ
+Line 157: 2550
+Line 158: 2400
+Line 159: 2400
+Line 160: ΧΑΡΤΟΠΕΤΣΕΤΟΘΗΚΗ
+Line 161: ΥΓΡΟΥ ΣΑΠΟΥΝΙΟΥ ΕΠΙΤΟΙΧΙΟ
+Line 162: ΚΑΘΡΕΠΤΗΣ WC AMEA
+Line 163: ΑΠΟ ΤΣΙΜΕΝΤΟΠΛΑΚΕΣ ΜΩΣΑΪΚΟΥ
+Line 164: ΠΑΧΟΥΣ ΣΥΓΚΟΛΛΗΜΕΝΕΣ ΜΕ ΚΟΛΛΑ
+Line 165: ΠΑΧΟΣ
+Line 166: ΑΝΘΥΓΡΗ
+Line 167: ΤΟΙΧΟΥ ΜΕ ΤΣΙΜΕΝΤΟΠΛΑΚΕΣ
+Line 168: ΜΩΣΑΪΚΟΥ ΠΑΧΟΥΣ
+Line 169: ΛΕΚΑΝΗ ΑΜΕΑ
+Line 170: ΝΙΠΤΗΡΑΣ ΕΛΕΥΘΕΡΟΣ
+Line 171: 1001
+Line 172: ΑΝΘΥΓΡΗ
+Line 173: ΑΠΟ ΤΣΙΜΕΝΤΟΠΛΑΚΕΣ ΜΩΣΑΪΚΟΥ
+Line 174: ΠΑΧΟΥΣ ΣΥΓΚΟΛΛΗΜΕΝΕΣ ΜΕ ΚΟΛΛΑ
+Line 175: ΠΑΧΟΣ
+Line 176: ΚΑΘΡΕΠΤΗΣ WC AMEA
+Line 177: ΥΓΡΟΥ ΣΑΠΟΥΝΙΟΥ ΕΠΙΤΟΙΧΙΟ
+Line 178: ΤΟΙΧΟΥ ΜΕ ΤΣΙΜΕΝΤΟΠΛΑΚΕΣ
+Line 179: ΜΩΣΑΪΚΟΥ ΠΑΧΟΥΣ
+Line 180: ΝΙΠΤΗΡΑΣ ΕΛΕΥΘΕΡΟΣ
+Line 181: 2400
+Line 182: 1000
+Line 183: 2538
+Line 184: 2412
+Line 185: ΥΠΕΥΘΥΝΟΥ ΕΡΓΟΥ
+Line 186: ΗΜΕΡΟΜΗΝΙΑ
+Line 187: ONOMA ΑΡΧΕΙΟΥ
+Line 188: ΛΕΥΚΩΣΙΑ ΚΥΠΡΟΣ
+Line 189: ΝΕΟ ΚΥΠΡΙΑΚΟ ΜΟΥΣΕΙΟ
+Line 190: ΗΜΕΡΟΜΗΝΙΑ
+Line 191: ΕΓΚΡΙΘΗΚΕ
+Line 192: ΤΜΗΜΑ
+Line 193: ΗΜΕΡΟΜΗΝΙΑ
+Line 194: ΕΛΕΓΧΘΗΚΕ
+Line 195: ΤΜΗΜΑ
+Line 196: ΥΠΟΒΟΛΗ
+Line 197: ΑΡ.
+Line 198: ΥΠΟΥΡΓΕΙΟ ΜΕΤΑΦΟΡΩΝ, ΕΠΙΚΟΙΝΩΝΙΩΝ ΚΑΙ ΕΡΓΩΝ
+Line 199: ΤΜΗΜΑ ΕΡΓΩΝ
+Line 200: ΗΜΕΡΟΜΗΝΙΑ
+Line 201: ΠΕΡΙΕΧΟΜΕΝΟ
+Line 202: ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΜΕΛΕΤΗ
+Line 203: THEONI XANTHI XZA ARCHITECTS LLC
+Line 204: ΥΠΕΥΘΥΝΟΣ ΕΡΓΟΥ
+Line 205: ΑΡΧΙΤΕΚΤΩΝ ΘΕΩΝΗ ΞΑΝΘΗ
+Line 206: ΣΥΝΕΡΓΑΤΕΣ ΑΡΧΙΤΕΚΤΟΝΕΣ
+Line 207: ΜΑΡΓΑΡΙΤΑ ΖΑΚΥΝΘΙΝΟΥ
+Line 208: ΣΥΝΤΟΝΙΣΤΗΣ ΑΡΧIT ΚΗΣ ΜΕΛΕΤΗΣ
+Line 209: ΚΟΣΜΑΣ ΒΑΡΚΑΡΟΛΗΣ
+Line 210: ΚΛΙΜΑΚΑ
+Line 211: DR ARC
+Line 212: NCM DD
+Line 213: ΜΕΛΕΤΗ ΕΦΑΡΜΟΓΗΣ DD
+Line 214: ΤΙΤΛΟΣ
+Line 215: ΕΡΓΑΣΙΑΣ
+Line 216: ΜΕΛΕΤΗΣ
+Line 217: ΑΡΧΙΤΕΚΤΟΝΙΚΗ
+Line 218: ΣΥΜΒΟΥΛΟΙ ΜΕΛΕΤΗΤΕΣ
+Line 219: ΚΑΤΑΛΛΗΛΟΤΗΤΑΣ
+Line 220: KEY PLAN
+Line 221: ΑΡΧΙΤΕΚΤΟΝΙΚΑ
+Line 222: YAP ARCHITECTS
+Line 223: ΣTATIKΑ
+Line 224: RHOMBUS STRUCTURAL ENGINEERS LLC ΣΤ.
+Line 225: PENELIS CONSULTING ENGINEERS SA ΠΕΝΕΛΗΣ
+Line 226: GEORGHIOU ZEMBYLAS PARTNERS
+Line 227: ΜΗΧΑΝΟΛΟΓΙΚA
+Line 228: ΗΛΕΚΤΡΟΛΟΓΙΚA
+Line 229: ΜΟΥΣΕΙΟΛΟΓΙΚA
+Line 230: THETA ACOUSTICS LTD ΝΙΑΟΥΝΑΚΗΣ
+Line 231: ΑΚΟΥΣΤΙΚA
+Line 232: RODITIS PARTNERS
+Line 233: ΕΠΙΜΕΤΡΗΣΗ ΠΟΣΟΤΗΤΩΝ
+Line 234: FLOROS PANTELI ASSOCIATES ΠΑΝΤΕΛΗ
+Line 235: ΥΓΕΙΑ
+Line 236: ΜΟΥΣΕΙΟΓΡΑΦΙΚA
+Line 237: ΘΩΜΑΣ ΤΣΟΥΚΑΛΑΣ
+Line 238: ΦΩΤΙΣΜΟΣ
+Line 239: DECO ASSOCIATES ΕΛ. ΝΤΕΚΩ
+Line 240: ΠΥΡΟΠΡΟΣΤΑΣΙΑ
+Line 241: INT FIRE CYPRUS LTD ΣΠ. ΣΠΥΡΟΥ
+Line 242: ΚΥΚΛΟΦΟΡΙΑΚΑ
+Line 243: DROMOS CONSULTING LTD ΖΕΚΚΟΣ
+Line 244: ΣΗΜΑΝΣΗ
+Line 245: POST SPECTACULAR OFFICE ΓΑΛΙΚΑΣ
+Line 246: ΚΤΗΡΙΟΥ
+Line 247: ARION PLUS
+Line 248: FEREOS ARCHITECTS LLC ΦΕΡΑΙΟΣ
+Line 249: Αναπλ. Υπεύθυνος Οµάδας
+Line 250: DROMOS CONSULTING LTD ΖΕΚΚΟΣ
+Line 251: ΓΕΩΤΕΧΝΙΚΑ
+Line 252: ΜΟΥΣΕΙΑΚΟΣ
+Line 253: XZA ARCHITECTS
+Line 254: ΒΑΣΙΛΕΙΟΥ
+Line 255: ΕΡΓΑΣΤΗΡΙΑ
+Line 256: VAP ARCHITECTS
+Line 257: Σύµβουλος Μελέτης Εφαρµογής
+Line 258: GEORGHIOU ZEMBYLAS PARTNERS
+Line 259: ANDREAS EVRIPIDOU CIVIL ENGINEERS
+Line 260: ΣΤΕΡΓΙΟΣ ΓΑΛΙΚΑΣ
+Line 261: ΘΩΜΑΣ ΤΣΟΥΚΑΛΑΣ
+Line 262: ΣΤΕΡΓΙΟΣ ΓΑΛΙΚΑΣ
+Line 263: Συνεργάτης ΤΣΑΜΠΙΚΟΣ ΠΕΤΡΑΣ
+Line 264: POST SPECTACULAR OFFICE ΓΑΛΙΚΑΣ
+Line 265: ΠΡΟΜΕΛΕΤΗ ΣΑΚΕΛΛΑΡΙΟΥ
+Line 266: ΦΥΣΙΚΟΣ ΦΩΤΙΣΜΟΣ
+Line 267: ΤΣΑΓΚΡΑΣΟΥΛΗΣ
+Line 268: ΕΞΟΠΛΙΣΜΟΣ ΚΟΥΖΙΝΑΣ
+Line 269: XENEX
+Line 270: ΕΝΕΡΓΕΙΑΚΑ ΚΕΛΥΦΟΥΣ
+Line 271: METABUILD
+Line 272: ΓΡΑΦΙΣΤΙΚΑ
+Line 273: ΦΥΤΟΤΕΧΝΙΚΑ
+Line 274: LANDCO EΠΕ ΚΑΝΤΑΡΤΖΗΣ
+Line 275: ΦΕΒΡΟΥΑΡΙΟΣ 2021
+Line 276: P0
+Line 277: 2021
+Line 278: 4490
+Line 279: ΚΑΤΟΨΗ ΑΝΟΨΗ ΧΩΡΩΝ ΥΓΙΕΙΝΗΣ
+Line 280: 4490
+Line 281: ΚΑΤΟΨΗ ΧΩΡΟΥ ΥΓΙΕΙΝΗΣ
+Line 282: ΑΝΟΨΗ ΧΩΡΟΥ ΥΓΙΕΙΝΗΣ
+Line 283: ΧΩΡΟΣ ΥΓΙΕΙΝΗΣ ΟΨΗ
+Line 284: ΧΩΡΟΣ ΥΓΙΕΙΝΗΣ ΟΨΗ
+Line 285: P0
+Line 286: ΦΕΒΡΟΥΑΡΙΟΣ 2021
+Line 287: Υποβολή
+Line 288: ΧΩΡΟΣ ΥΓΙΕΙΝΗΣ ΟΨΗ
+Line 289: ΧΩΡΟΣ ΥΓΙΕΙΝΗΣ ΟΨΗ
+
+=== END OF FILTERED TEXT ===
+Total lines: 290

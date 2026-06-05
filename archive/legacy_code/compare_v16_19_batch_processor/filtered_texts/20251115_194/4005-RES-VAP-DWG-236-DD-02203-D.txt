@@ -1,0 +1,157 @@
+=== FILTERED TEXT FOR: 4005-RES-VAP-DWG-236-DD-02203-D.pdf ===
+
+Line   0: 01
+Line   1: 02
+Line   2: 03
+Line   3: 04
+Line   4: 05
+Line   5: 06
+Line   6: 07
+Line   7: 08
+Line   8: 09
+Line   9: BL
+Line  10: BK
+Line  11: BJ
+Line  12: BH
+Line  13: BF
+Line  14: BE
+Line  15: BD
+Line  16: BC
+Line  17: BB
+Line  18: AL
+Line  19: AK
+Line  20: AJ
+Line  21: AI
+Line  22: AH
+Line  23: AG
+Line  24: AF
+Line  25: AE
+Line  26: AD
+Line  27: AC
+Line  28: BG
+Line  29: BI
+Line  30: 4
+Line  31: 2
+Line  32: 4
+Line  33: 2
+Line  34: 4
+Line  35: 2
+Line  36: 4
+Line  37: 2
+Line  38: 4
+Line  39: 2
+Line  40: 4
+Line  41: 2
+Line  42: ΟΔΕΥΣΕΙΣ ΠΡΟΣΒΑΣΙΜΕΣ ΑΠΟ ΑΜΚ
+Line  43: ΟΔΕΥΣΕΙΣ ΜΗ ΠΡΟΣΒΑΣΙΜΕΣ ΑΠΟ ΑΜΚ
+Line  44: ΕΙΣΟΔΟΙ ΠΡΟΣΒΑΣΙΜΕΣ ΑΠΟ ΑΜΚ
+Line  45: ΕΙΣΟΔΟΙ ΜΗ ΠΡΟΣΒΑΣΙΜΕΣ ΑΠΟ ΑΜΚ
+Line  46: ΑΠΑΙΤΟΥΜΕΝΟΣ ΧΩΡΟΣ ΓΙΑ ΣΤΡΟΦΗ
+Line  47: ΑΜΑΞΙΔΙΟΥ
+Line  48: ΧΩΡΟΣ ΑΝΑΜΟΝΗΣ ΑΜΚ
+Line  49: ΣΗΜΑΝΣΗ ΑΜΕΑ
+Line  50: ΥΠΟΜΝΗΜΑ ΣΥΜΒΟΛΩΝ
+Line  51: ΠΡΟΣΒΑΣΙΜΟΤΗΤΑΣ
+Line  52: 40
+Line  53: ΓΕΝΙΚΕΣ ΣΗΜΕΙΩΣΕΙΣ GENERAL NOTES
+Line  54: ΕΓΓΡΑΦΑ ΑΝΑΦΟΡΑΣ DOCUMENT REFERENCE
+Line  55: ΤΙΤΛΟΣ ΣΧΕΔΙΟΥ DRAWING TITLE
+Line  56: ΚΩΔΙΚΟΣ ΕΓΓΡΑΦΟΥ ΣΧΕΔΙΟΥ DOCUMENT DRAWING CODIFICATION
+Line  57: Project
+Line  58: Originator
+Line  59: Type
+Line  60: Discipline
+Line  61: Stage
+Line  62: Serial Number
+Line  63: Revision
+Line  64: ΚΛΙΜΑΚΑ SCALE
+Line  65: ΔΙΑΤΑΞΗ LAYOUT
+Line  66: REV.
+Line  67: DATE
+Line  68: ISSUE
+Line  69: DESCRIPTION UPDATE VERSION
+Line  70: ORIGINATED
+Line  71: CHECKED
+Line  72: VERIFIED
+Line  73: LEAD DESIGNER
+Line  74: APPROVED
+Line  75: PMC
+Line  76: STATUS
+Line  77: ΣΥΜΒΟΥΛΟΣ ΔΙΑΧΕΙΡΙΣΗΣ ΕΡΓΟΥ
+Line  78: PROJECT MANAGEMENT CONSULTANT
+Line  79: ΣΥΜΒΟΥΛΟΥ ΔΙΑΧΕΙΡΙΣΗΣ ΕΡΓΟΥ
+Line  80: PROJECT MANAGEMENT CONSULTANT DETAILS
+Line  81: ΚΥΡΙΟΣ ΜΕΛΕΤΗΤΗΣ LEAD DESIGNER
+Line  82: ΜΕΛΕΤΗΤΗ LOCAL ARCHITECT
+Line  83: SUBCONSULTANT STRUCTURE
+Line  84: ΕΡΓΟΔΟΤΗΣ EMPLOYER
+Line  85: ΕΡΓΟΔΟΤΗ EMPLOYER DETAILS
+Line  86: ΑΝΑΠΤΥΞΗ ΤΟΥ ΜΗΤΡΟΠΟΛΙΤΙΚΟΥ ΠΟΛΟΥ ΕΛΛΗΝΙΚΟΥ ΑΓIOY ΚΟΣΜΑ
+Line  87: DEVELOPMENT METROPOLITAN POLE HELLINIKON AG. KOSMAS
+Line  88: ΕΡΓΟ PROJECT
+Line  89: ΕΛΛΗΝΙΚΟ HELLINIKON
+Line  90: Kifisias Avenue Golden Hall
+Line  91: 15123 Marousi
+Line  92: Σημείωση Πνευματικών Δικαιωμάτων. 2121 1993
+Line  93: ΕΛΛΗΝΙΚΟ
+Line  94: Ρήτρα Περιορισμού Ευθύνης. Γραφείο
+Line  95: Ελληνικού. ΕΛΛΗΝΙΚΟ
+Line  96: ΝΑ ΜΗΝ ΑΛΛΑΧΘΕΙ ΚΛΙΜΑΚΑ ΤΟΥ ΣΧΕΔΙΟΥ.
+Line  97: Copyright Notice. 2121 1993
+Line  98: HELLINIKON
+Line  99: Disclaimer. Hellinikon Office. HELLINIKON
+Line 100: CHANGE SCALE DRAWING.
+Line 101: SUBCONSULTANT MEP
+Line 102: SUBCONSULTANT LANDSCAPE
+Line 103: SUBCONSULTANT TRAFFIC
+Line 104: SUBCONSULTANT LIGHTING
+Line 105: SUBCONSULTANT ACOUSTICS
+Line 106: SUBCONSULTANT SUSTAINABILITY
+Line 107: SUBCONSULTANT SIGNAGE
+Line 108: URBAN ZONE
+Line 109: ΑΡΧΙΤΕΚΤΟΝΙΚΟΣ ΣΧΕΔΙΑΣΜΟΣ Οριστική Μελέτη
+Line 110: MODEL MDD DD 0001
+Line 111: BJARKE INGELS GROUP BIG
+Line 112: AVINGUDA DA LES DRASSANES
+Line 113: 08001 BARCELON, SPAIN
+Line 114: HELLINIKON
+Line 115: ΑΝΕΓΕΡΣΗ ΥΨΗΛΟΥ ΚΤΙΡΙΟΥ ΚΑΤΟΙΚΙΩΝ ΟΡΟΦΩΝ, ΜΕ ΥΠΕΡΓΕΙΟΥΣ
+Line 116: ΟΡΟΦΟΥΣ 2 ΥΠΟΓΕΙΑ ΒΟΗΘΗΤΙΚΩΝ ΧΩΡΩΝ ΚΑΙ ΧΩΡΩΝ ΣΤΑΘΜΕΥΣΗΣ, ΙΣΟΓΕΙΟ
+Line 117: ΤΜΗΜΑ ΚΟΙΝΟΧΡΗΣΤΩΝ ΛΕΙΤΟΥΡΓΙΩΝ ΤΩΝ ΚΑΤΟΙΚΙΩΝ ΜΕ ΚΛΕΙΣΤΗ ΚΟΛΥΜΒΗΤΙΚΗ
+Line 118: ΔΕΞΑΜΕΝΗ ΣΤΟ ΥΠΟΓΕΙΟ, ΑΝΟΙΚΤΕΣ ΚΟΛΥΜΒΗΤΙΚΕΣ ΔΕΞΑΜΕΝΕΣ ΣΕ ΔΩΜΑΤΑ
+Line 119: ΟΡΟΦΩΝ, ΚΑΤΑΣΚΕΥΕΣ ΜΕ ΦΩΤΟΒΟΛΤΑΙΚΑ ΠΑΝΕΛΑ ΚΑΙ ΗΧΟΠΕΤΑΣΜΑΤΑ ΣΤΑ
+Line 120: ΔΩΜΑΤΑ ΚΤΙΡΙΟΥ, ΔΙΑΜΟΡΦΩΣΗ ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΧΩΡΟΥ, ΔΥΟ ΥΔΑΤΙΝΑ
+Line 121: ΣΕ ΗΜΙΥΠΑΙΘΡΙΟΥΣ ΧΩΡΟΥΣ ΤΟΥ ΙΣΟΓΕΙΟΥ, ΜΕ ΦΩΤΟΒΟΛΤΑΙΚΑ
+Line 122: ΠΑΝΕΛΑ ΣΕ ΤΜΗΜΑ ΠΡΑΣΙΑΣ ΚΑΙ ΣΕ ΑΚΑΛΥΠΤΟ ΧΩΡΟ ΟΙΚΟΠΕΔΟΥ ΚΑΙ ΧΡΗΣΗ ΤΟΥ
+Line 123: AΡΘΡΟΥ ΤΟΥ ΝΟΚ ΟΠΩΣ ΙΣΧΥΕΙ ΣΤΟ
+Line 124: RES
+Line 125: VAP
+Line 126: DWG
+Line 127: DD
+Line 128: 02203
+Line 129: 4005
+Line 130: Προσβασιμότητα Επίπεδο 01
+Line 131: ΦΥΛΛΟ SHEET 02203
+Line 132: 2022
+Line 133: First Issuance Approval
+Line 134: VAP
+Line 135: VAP
+Line 136: BIG
+Line 137: 04 08 2023
+Line 138: Second Issuance Approval
+Line 139: VAP
+Line 140: VAP
+Line 141: BIG
+Line 142: 09 2023
+Line 143: Third Issuance Approval
+Line 144: VAP
+Line 145: VAP
+Line 146: BIG
+Line 147: 09 2023
+Line 148: Fourth Issuance Approval
+Line 149: VAP
+Line 150: VAP
+Line 151: BIG
+
+=== END OF FILTERED TEXT ===
+Total lines: 152

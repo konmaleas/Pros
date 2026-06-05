@@ -1,0 +1,48 @@
+=== FILTERED TEXT FOR: 425-KST-CD-DWG-A9-301-00.pdf ===
+
+Line   0: ΟΡΙΟ ΟΙΚΟΠΕΔΟΥ
+Line   1: ΟΡΙΟ ΟΙΚΟΠΕΔΟΥ
+Line   2: ΟΡΙΟ ΟΙΚΟΠΕΔΟΥ
+Line   3: ΟΡΙΟ ΟΙΚΟΠΕΔΟΥ
+Line   4: SECTIONS
+Line   5: 04 2025
+Line   6: BEDROOM VILLA
+Line   7: SECTION 01
+Line   8: SECTION 02
+Line   9: DATE
+Line  10: NO.
+Line  11: DESCRIPTION
+Line  12: REVISIONS
+Line  13: DATE
+Line  14: NO.
+Line  15: DESCRIPTION
+Line  16: 00
+Line  17: CONCEPT SUBMISSION
+Line  18: 04 2025
+Line  19: DRAWING TITLE
+Line  20: DRAWING
+Line  21: SCALE
+Line  22: DWG
+Line  23: CHK
+Line  24: FILE NAME
+Line  25: DATE
+Line  26: 425 KST CD DWG 00
+Line  27: CLIENT
+Line  28: SIGNED
+Line  29: PROJECT
+Line  30: DESIGN STAGE
+Line  31: ADDRESS
+Line  32: CONCEPT DESIGN
+Line  33: MEASUREMENTS VERIFIED SITE.
+Line  34: STUDIO RETAINS RIGHTS DRAWINGS ISSUED.
+Line  35: REPRODUCTION REDISTRIBUTION DRAWINGS
+Line  36: PERMITTED ONLY WRITTEN PERMISSION STUDIO.
+Line  37: ΣΚΟΥΡΟΣ ΧΟΝΔΡΟΥ
+Line  38: ΔΗΜΟΣ ΒΙΑΝΝΟΥ, ΠΕΡ. ΚΡΗΤΗΣ
+Line  39: PHAEA
+Line  40: SOUTH CRETE PHAEA
+Line  41: 425 KST CD DWG
+Line  42: KEY PLAN
+
+=== END OF FILTERED TEXT ===
+Total lines: 43

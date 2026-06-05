@@ -1,0 +1,115 @@
+=== FILTERED TEXT FOR: ATH1-PWR01-CAP-10720-PLN-4-103-TT-0-T20.pdf ===
+
+Line   0: UP
+Line   1: 04001
+Line   2: ΟΝΟΜΑΣΙΑ ΔΩΜΑΤΙΟΥ
+Line   3: ΚΩΔΙΚΟΣ ΔΩΜΑΤΙΟΥ
+Line   4: ΕΜΒΑΔΟΝ ΔΩΜΑΤΙΟΥ
+Line   5: ΥΠΟΜΝΗΜΑ ΚΑΤΟΨΕΩΝ
+Line   6: ΚΩΔΙΚΟΣ ΘΥΡΑΣ
+Line   7: ΠΟΔΙΑ ΘΥΡΑΣ
+Line   8: ΠΡΕΚΙ ΘΥΡΑΣ
+Line   9: ΑΝΟΙΓΜΑ ΘΥΡΑΣ
+Line  10: ΚΩΔΙΚΟΣ ΠΑΡΑΘΥΡΟΥ
+Line  11: ΠΡΕΚΙ ΠΑΡΑΘΥΡΟΥ
+Line  12: ΠΟΔΙΑ ΠΑΡΑΘΥΡΟΥ
+Line  13: ΑΝΟΙΓΜΑ ΠΑΡΑΘΥΡΟΥ
+Line  14: ΣΤΑΘΜΗ ΤΕΛΙΚΟΥ ΔΑΠΕΔΟΥ
+Line  15: ΑΡΙΘΜΟΣ ΤΙΤΛΟΥ ΣΧΕΔΙΟΥ
+Line  16: ΑΡΙΘΜΟΣ ΣΧΕΔΙΟΥ
+Line  17: 01
+Line  18: ΤΥΠΟΣ ΠΑΡΑΘΥΡΟΥ
+Line  19: ΤΥΠΟΣ ΘΥΡΑΣ
+Line  20: 03000
+Line  21: ΑΡΙΘΜΟΣ ΤΙΤΛΟΥ ΣΧΕΔΙΟΥ
+Line  22: ΑΡΙΘΜΟΣ ΣΧΕΔΙΟΥ
+Line  23: ΠΑΤΗΜΑ ΣΚΑΛΟΠΑΤΙΟΥ
+Line  24: ΡΙΧΤI ΣΚΑΛΟΠΑΤΙΟΥ
+Line  25: ΑΡΙΘΜΟΣ ΣΚΑΛΟΠΑΤΙΩΝ
+Line  26: ΚΩΔΙΚΟΣ ΣΚΑΛΑΣ
+Line  27: 2
+Line  28: 2
+Line  29: ΔΩΜΑ
+Line  30: ΙΣΟΓΕΙΟΥ
+Line  31: GROUND FLOOR
+Line  32: ROOF
+Line  33: ΔΩΜΑ
+Line  34: ΟΡΟΦΟΥ
+Line  35: ΠΕΖΟΔΡΟΜΙΟ
+Line  36: ΠΕΖΟΔΡΟΜΙΟ SIDEWALK
+Line  37: 4
+Line  38: 4
+Line  39: FFL
+Line  40: SSL
+Line  41: Kifissias Avenue
+Line  42: GR 15125, MAROUSSI Greece
+Line  43: 4463 1552
+Line  44: Kifisias 2 Paradisou,
+Line  45: Marousi 15125, Greece
+Line  46: Telephone
+Line  47: Email
+Line  48: TRADE
+Line  49: EPC Contractor Εργολάβος
+Line  50: Issued Μελέτη
+Line  51: Design Phase Φάση Μελέτης
+Line  52: Kifisias 2 Paradisou,
+Line  53: Marousi 15125, Greece
+Line  54: Telephone
+Line  55: Email
+Line  56: DETAILED DESIGN
+Line  57: ΜΕΛΕΤΗ ΕΦΑΡΜΟΓΗΣ
+Line  58: 10720 HV Substation
+Line  59: HERMES
+Line  60: Substation Υποσταθμός Data Center IV
+Line  61: CAP TRADE HV Substation
+Line  62: ORGANDI
+Line  63: Esplanade Miriam Makeba
+Line  64: Gerda Taro
+Line  65: 69100 VILLEURBANNE France
+Line  66: 4 40 00 70
+Line  67: Internet
+Line  68: LOCATION AGIOS LOUKAS MUNICIPALITY PAIANIA,
+Line  69: REGIONAL UNIT EAST ATTICA
+Line  70: ΠΕΡΙΟΧΗ ΑΓΙΟΥ ΛΟΥΚΑ, ΔΗΜΟΣ ΠΑΙΑΝΙΑΣ, ΠΕ ΑΝΑΤΟΛΙΚΗΣ ΑΤΤΙΚΗΣ,
+Line  71: ΠΕΡΙΦΕΡΕΙΑ ΑΤΤΙΚΗΣ
+Line  72: Version
+Line  73: Date
+Line  74: Review
+Line  75: Designer
+Line  76: Auditor
+Line  77: Approver
+Line  78: SCALE
+Line  79: PROJECT
+Line  80: RIBA
+Line  81: TRADE
+Line  82: AUTHOR
+Line  83: LEVEL
+Line  84: CAP TRADE
+Line  85: TYPE
+Line  86: DOC.
+Line  87: VERSION
+Line  88: SITE
+Line  89: MODEL NAME
+Line  90: REFERENCE
+Line  91: FILE NAME
+Line  92: ATH1 CAP 20302 MOD 4 AL ARC BIM GIS
+Line  93: IPTO
+Line  94: Paper Size
+Line  95: ATH1 CAP 10720 PLN 4 TT ΚΤΙΡΙΟ ΥΠΟΣΤΑΘΜΟΥ ΚΑΤΟΨΗ ΔΩΜΑΤΩΝ
+Line  96: CONTROL BUILDING ROOF VIEW
+Line  97: ΚΤΙΡΙΟ ΥΠΟΣΤΑΘΜΟΥ ΚΑΤΟΨΗ ΔΩΜΑΤΩΝ CONTROL
+Line  98: BUILDING ROOF VIEW
+Line  99: 4
+Line 100: 10720
+Line 101: CAP
+Line 102: TT
+Line 103: PLN
+Line 104: ATH1
+Line 105: 07 2025
+Line 106: Υποβολή
+Line 107: IC
+Line 108: NM
+Line 109: NM
+
+=== END OF FILTERED TEXT ===
+Total lines: 110

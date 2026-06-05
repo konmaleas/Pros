@@ -1,0 +1,42 @@
+=== FILTERED TEXT FOR: 381_KST_CD_A_B-4_101_00_Option_2.pdf ===
+
+Line   0: POOL OUTDOOR LAYOUTTBC
+Line   1: PENDING PHAEA FEEDBACK
+Line   2: 2
+Line   3: 4
+Line   4: 2
+Line   5: BUGGY
+Line   6: DROP OFF
+Line   7: .72
+Line   8: PLAN BUILDING 4
+Line   9: PROJECT
+Line  10: CD Building
+Line  11: 04
+Line  12: FILE NAME
+Line  13: CONCEPT DESIGN
+Line  14: DRAWING TITLE
+Line  15: ADDRESS
+Line  16: DRAWING
+Line  17: DESIGN STAGE
+Line  18: DATE
+Line  19: DATE
+Line  20: NOTES
+Line  21: REVISIONS
+Line  22: CLIENT
+Line  23: PHAEA RESORTS
+Line  24: SUBMISSION
+Line  25: SCALE
+Line  26: NO.
+Line  27: SIGNED
+Line  28: DESCRIPTION
+Line  29: ELOUNDA, CRETE
+Line  30: CHK
+Line  31: ROSEWOOD BLUE PALACE
+Line  32: DWG
+Line  33: 03
+Line  34: 03
+Line  35: GROUND FLOOR PROPOSAL
+Line  36: KST CD DR 04 00
+
+=== END OF FILTERED TEXT ===
+Total lines: 37

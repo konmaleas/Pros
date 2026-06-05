@@ -1,0 +1,14 @@
+=== FILTERED TEXT FOR: Λ001-00.pdf ===
+
+Line   0: ΚΑΤΗΓΟΡΙΕΣ ΛΕΠΤΟΜΕΡΕΙΩΝ
+Line   1: ΕΡΜΑΡΙΑ ΝΤΟΥΛΑΠΕΣ.
+Line   2: ΠΕΡΙΒΑΛΛΩΝ ΧΩΡΟΣ.
+Line   3: ΠΙΝΑΚΕΣ
+Line   4: ΣΧΕΔΙΑ
+Line   5: ΦΛΟΙΟΣ
+Line   6: ΤΟΙΧΟΙ ΔΑΠΕΔΑ
+Line   7: ΣΥΝΑΡΜΟΓΕΣ
+Line   8: ΣΤΕΓΗ.
+
+=== END OF FILTERED TEXT ===
+Total lines: 9

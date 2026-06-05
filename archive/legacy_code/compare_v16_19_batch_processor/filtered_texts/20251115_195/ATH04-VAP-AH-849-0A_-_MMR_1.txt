@@ -1,0 +1,166 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-849-0A_-_MMR_1.pdf ===
+
+Line   0: 2
+Line   1: 4
+Line   2: MMR
+Line   3: 00 020
+Line   4: YB
+Line   5: POWER FLOATED
+Line   6: CONCRETE SEALED
+Line   7: ASHFORD FORMULA SEALER
+Line   8: 4567
+Line   9: 1127
+Line  10: 1087
+Line  11: 1087
+Line  12: 1087
+Line  13: 1087
+Line  14: ID AD 039
+Line  15: 6604
+Line  16: WT
+Line  17: LT 4
+Line  18: WT
+Line  19: LT 4
+Line  20: LT 4
+Line  21: IWS
+Line  22: GL
+Line  23: DIMENSION VARY DEPENDING ON ROOM LOCATION
+Line  24: POWER FLOATED
+Line  25: CONCRETE SEALED
+Line  26: ASHFORD FORMULA SEALER
+Line  27: SECURITY CAGE WALL SYSTEM
+Line  28: IWS
+Line  29: MMR
+Line  30: 00 020
+Line  31: CEILING TYPE UNDERSIDE
+Line  32: METAL DECK
+Line  33: GL
+Line  34: IWS
+Line  35: MMR
+Line  36: 00 020
+Line  37: WT
+Line  38: LT 4
+Line  39: SECURITY CAGE WALL SYSTEM
+Line  40: PAINTED GYPSUM BOARD
+Line  41: WALLS, COAT PRIMER 2
+Line  42: COATS DIAMOND MATT LATEXT
+Line  43: FINISH RAL 9010 PURE
+Line  44: WHITE
+Line  45: POWER FLOATED
+Line  46: CONCRETE SEALED
+Line  47: ASHFORD FORMULA SEALER
+Line  48: VINYL COVED UPSTAND
+Line  49: LT 4
+Line  50: CEILING TYPE UNDERSIDE
+Line  51: METAL DECK
+Line  52: 3000
+Line  53: MMR
+Line  54: 00 020
+Line  55: PAINTED GYPSUM BOARD
+Line  56: WALLS, COAT PRIMER 2
+Line  57: COATS DIAMOND MATT LATEXT
+Line  58: FINISH RAL 9010 PURE
+Line  59: WHITE
+Line  60: VINYL COVED UPSTAND
+Line  61: POWER FLOATED
+Line  62: CONCRETE SEALED
+Line  63: ASHFORD FORMULA SEALER
+Line  64: LT 4
+Line  65: LT 4
+Line  66: WT
+Line  67: 3000
+Line  68: CEILING TYPE UNDERSIDE
+Line  69: METAL DECK
+Line  70: LT 4
+Line  71: GL
+Line  72: MMR
+Line  73: 00 020
+Line  74: YB
+Line  75: WT
+Line  76: SECURITY CAGE WALL SYSTEM
+Line  77: POWER FLOATED
+Line  78: CONCRETE SEALED
+Line  79: ASHFORD FORMULA SEALER
+Line  80: VINYL COVED UPSTAND
+Line  81: PAINTED GYPSUM BOARD
+Line  82: WALLS, COAT PRIMER 2
+Line  83: COATS DIAMOND MATT LATEXT
+Line  84: FINISH RAL 9010 PURE
+Line  85: WHITE
+Line  86: LT 4
+Line  87: CEILING TYPE UNDERSIDE
+Line  88: METAL DECK
+Line  89: IWS
+Line  90: WT
+Line  91: 3000
+Line  92: NOTE
+Line  93: WALL TYPE LEGEND REFER DRAWING
+Line  94: ADMIN
+Line  95: COLO
+Line  96: COLO 2
+Line  97: 2
+Line  98: 4
+Line  99: 2
+Line 100: 4
+Line 101: TRUE NORTH
+Line 102: Sheet Title Number
+Line 103: Scale
+Line 104: Plan
+Line 105: Design Consultants
+Line 106: Microsoft
+Line 107: DATA CENTER
+Line 108: SPATA GREECE
+Line 109: Contractor Joint Venture
+Line 110: Name
+Line 111: Contractor Project
+Line 112: Contractor Contract
+Line 113: Contractor PM
+Line 114: Contractor BIM Mngr
+Line 115: Contractor Information
+Line 116: Renco Terna
+Line 117: Client
+Line 118: General Notes
+Line 119: Client Project
+Line 120: Client Contract
+Line 121: Client PM
+Line 122: Client BIM Mngr
+Line 123: Primary Client Information
+Line 124: Layout
+Line 125: Revision
+Line 126: Tombazi Chalandri
+Line 127: 15232
+Line 128: Athens Greece
+Line 129: 0800 3262
+Line 130: Agion Theodoron Square Athens
+Line 131: 10561
+Line 132: Athens Greece
+Line 133: Kimithois Agios Dimitrios
+Line 134: 17236
+Line 135: Athens Greece
+Line 136: Purpose Issue
+Line 137: Issue
+Line 138: Name
+Line 139: MMR
+Line 140: VAP AH
+Line 141: SCALE
+Line 142: MMR
+Line 143: SCALE
+Line 144: MMR ELEVATION
+Line 145: SCALE
+Line 146: MMR ELEVATION 2
+Line 147: SCALE
+Line 148: MMR ELEVATION
+Line 149: SCALE
+Line 150: MMR ELEVATION 4
+Line 151: SCALE
+Line 152: MMR VIEW
+Line 153: 1000
+Line 154: SCALE
+Line 155: Secondary
+Line 156: Date
+Line 157: Description
+Line 158: 04
+Line 159: Issued Approval
+Line 160: VAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 161

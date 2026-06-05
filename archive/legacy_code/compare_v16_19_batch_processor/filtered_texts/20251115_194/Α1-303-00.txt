@@ -1,0 +1,98 @@
+=== FILTERED TEXT FOR: Α1-303-00.pdf ===
+
+Line   0: Level
+Line   1: Level
+Line   2: 2
+Line   3: ΑΥΛΗ
+Line   4: 06
+Line   5: WC
+Line   6: ΧΩΡΟΙ
+Line   7: ΥΓΙΕΙΝΗΣ
+Line   8: 06
+Line   9: ΣΟΥΙΤΑ
+Line  10: ΑΥΛΗ
+Line  11: 06
+Line  12: ΧΩΡΟΙ
+Line  13: ΥΓΙΕΙΝΗΣ
+Line  14: WC
+Line  15: 2
+Line  16: 711
+Line  17: 2
+Line  18: 711
+Line  19: 4
+Line  20: 712
+Line  21: Level
+Line  22: 2
+Line  23: ΑΥΛΗ
+Line  24: 02
+Line  25: 02
+Line  26: ΑΜΕΑ
+Line  27: ΑΥΛΗ
+Line  28: 02
+Line  29: ΕΞΩΤΕΡΙΚΟΣ
+Line  30: ΕΞΩΣΤΗΣ
+Line  31: WC
+Line  32: ΧΩΡΟΙ
+Line  33: ΥΓΙΕΙΝΗΣ
+Line  34: 4
+Line  35: 2
+Line  36: 4
+Line  37: 4
+Line  38: 2 2 2
+Line  39: 2 2 2
+Line  40: 4
+Line  41: 2
+Line  42: ΚΛΙΜΑΚΑ
+Line  43: ΚΑΤΗΓΟΡΙΑ
+Line  44: ΚΥΡΙΟΣ ΕΡΓΟΥ
+Line  45: ΕΡΓΟ
+Line  46: ΑΡΙΘΜΟΣ ΣΧΕΔΙΟΥ
+Line  47: ΗΜΕΡΟΜΗΝΙΑ ΜΕΛΕΤΗΣ
+Line  48: VAP ARCHITECTS
+Line  49: Ηπείρου Αθήνα Ελλάδα
+Line  50: 3262 3269
+Line  51: ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΜΕΛΕΤΗ
+Line  52: ΣΤΑΔΙΟ ΜΕΛΕΤΗΣ
+Line  53: Όλες
+Line  54: ΣΥΝΕΡΓΑΤΕΣ ΜΕΛΕΤΗΣ ΕΦΑΡΜΟΓΗΣ
+Line  55: ΚΛΕΙΔΑ
+Line  56: ΣΧΕΔΙΟ
+Line  57: HΜ ΝΙΑ ΣΧΕΔΙΟΥ
+Line  58: ΑΚΟΥΣΤΙΚΗ ΜΕΛΕΤΗ
+Line  59: ΜΕΛΕΤΗ ΦΩΤΙΣΜΟΥ
+Line  60: ΣΤΑΤΙΚΗ ΜΕΛΕΤΗ
+Line  61: ΜΗΧΑΝΟΛΟΓΙΚΗ ΜΕΛΕΤΗ
+Line  62: Ροστάν 44, 41, Αθήνα
+Line  63: 771, 2023
+Line  64: Σύμβουλοι Μηχανικοί
+Line  65: ΠΑΡΑΤΗΡΗΣΕΙΣ
+Line  66: ΕΡΕΙΣΜΑ
+Line  67: ΤΕΧΝΙΚΗ ΕΤΑΙΡΕΙΑ
+Line  68: Νάξου Κηφισιά
+Line  69: Παρασκευής Χαλάνδρι
+Line  70: 42 094,
+Line  71: IFI
+Line  72: INTRA ΞΕΝΟΔΟΧΕΙΑΚΗ
+Line  73: 2017
+Line  74: ΚΑΤΑΣΚΕΥΑΣΤΙΚΑ
+Line  75: ΑΝΑΚΑΤΑΣΚΕΥΗ ΞΕΝΟΔΟΧΕΙΟΥ
+Line  76: ΣΤΗΝ ΜΥΚΟΝΟ
+Line  77: ΟΚΤΩΒΡΙΟΣ 2016
+Line  78: ΜΕΛΕΤΗ ΕΦΑΡΜΟΓΗΣ
+Line  79: Πλατύς Γιαλός Μύκονος
+Line  80: ΤΟΜΕΣ
+Line  81: 01 2017
+Line  82: ΣΤ ΣΤ
+Line  83: 00
+Line  84: ΑΝΑΘΕΩΡΗΣΕΙΣ
+Line  85: ΠΕΡΙΓΡΑΦΗ
+Line  86: ΗΜ ΝΙΑ
+Line  87: 00
+Line  88: ΠΡΩΤΗ ΕΚΔΟΣΗ
+Line  89: 01 2017
+Line  90: ΤΟΜΗ
+Line  91: ΤΟΜΗ ΣΤ ΣΤ
+Line  92: 2
+
+=== END OF FILTERED TEXT ===
+Total lines: 93

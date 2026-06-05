@@ -1,0 +1,161 @@
+=== FILTERED TEXT FOR: ARC-SO-A1-104-00.pdf ===
+
+Line   0: Main Entrance
+Line   1: Reception Desk
+Line   2: Ground Floor Area 763
+Line   3: Total Area 1505
+Line   4: CMC CMC
+Line   5: Contracts Claims
+Line   6: Manager
+Line   7: Contracts
+Line   8: Commercial
+Line   9: Engineer
+Line  10: CMC CMC
+Line  11: Contracts Director
+Line  12: Contracts
+Line  13: Commercial
+Line  14: Engineer
+Line  15: CONFERENCE
+Line  16: EM EM
+Line  17: Engineering
+Line  18: Manager Utilities
+Line  19: Manager
+Line  20: CS CS
+Line  21: Construction
+Line  22: Director Associate
+Line  23: Engineer
+Line  24: Construction
+Line  25: PMC PMC
+Line  26: Leader
+Line  27: MEP MNGMT
+Line  28: WP
+Line  29: Manager WP
+Line  30: Manager
+Line  31: MEP Utilities
+Line  32: Manager Site
+Line  33: Engineer
+Line  34: PM AD PMC
+Line  35: COORD. Deputy
+Line  36: PMC Director
+Line  37: Administration
+Line  38: Assistant PMC
+Line  39: Coordinator
+Line  40: PCS PCS
+Line  41: PCS Project
+Line  42: Controls Risk
+Line  43: Manager Project
+Line  44: Controls Engineer
+Line  45: Scheduler
+Line  46: PCS Manager
+Line  47: COPY
+Line  48: CP CP Senior
+Line  49: Cost Manager
+Line  50: Cost Engineer
+Line  51: EM EM QC
+Line  52: QC Structural
+Line  53: Manager Roads
+Line  54: Pavements
+Line  55: Manager QA QC
+Line  56: Manager QA QC
+Line  57: Engineer
+Line  58: CDE CDE
+Line  59: CDE CDE
+Line  60: Platform
+Line  61: Document Control
+Line  62: Manager CDE
+Line  63: Platform Specialist
+Line  64: LUNCH
+Line  65: LS LS
+Line  66: Landscape
+Line  67: Manager
+Line  68: Landscape
+Line  69: Architects
+Line  70: Supervisors
+Line  71: HSE HSE
+Line  72: HSE HSE HSE
+Line  73: Manager HSE
+Line  74: Inspector HSE
+Line  75: Inspector HSE
+Line  76: Inspector
+Line  77: SUR
+Line  78: SUR Site
+Line  79: Engineer Site
+Line  80: Engineer Site
+Line  81: Engineer
+Line  82: Construction
+Line  83: Surveyor
+Line  84: Construction
+Line  85: Surveyor
+Line  86: EM EM EM
+Line  87: Marine Works
+Line  88: Manager
+Line  89: Engineer Associate
+Line  90: SECURITY
+Line  91: LTA LTA
+Line  92: LTA LTA
+Line  93: SERVER
+Line  94: IE IE IE
+Line  95: IE IE Staff
+Line  96: IE IE IE
+Line  97: IE IE Staff
+Line  98: IE IE IE Staff
+Line  99: IE IE IE
+Line 100: IE IE Staff
+Line 101: IE IE Staff
+Line 102: WC A1
+Line 103: WC AMEA
+Line 104: WC
+Line 105: WC
+Line 106: ΑΝΑΒΑΤΟΡΙΟ ΑΜΕΑ
+Line 107: ΚΛΙΜΑΚΑ
+Line 108: SCALE
+Line 109: ΕΡΓΟ
+Line 110: ΗΜΕΡΟΜΗΝΙΑ
+Line 111: FIRST ISSUE DATE
+Line 112: ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΜΕΛΕΤΗ
+Line 113: ΠΕΡΙΟΧΗ
+Line 114: ZONE
+Line 115: ISSUED
+Line 116: CONSTRUCTION
+Line 117: APPROVAL
+Line 118: TENDER
+Line 119: STATUS
+Line 120: DRAFT
+Line 121: FINAL
+Line 122: STAMP
+Line 123: DISCIPLINE
+Line 124: SO
+Line 125: ΑΝΑΘ.
+Line 126: REV.
+Line 127: ARC
+Line 128: PROJECT
+Line 129: DRAWING
+Line 130: ΜΕΛΕΤΗ
+Line 131: DESIGN
+Line 132: CLIENT
+Line 133: ΣΥΜΒΟΥΛΟΣ ΕΡΓΟΥ
+Line 134: PROJECT CONSULTANT
+Line 135: 3262
+Line 136: ΥΠΟΜΝΗΜΑ
+Line 137: LAYOUT LEGEND
+Line 138: ΑΝΑΠΤΥΞΗ ΜΗΤΡΟΠΟΛΙΤΙΚΟΥ ΠΟΛΟΥ
+Line 139: ΕΛΛΗΝΙΚΟΥ ΑΓΙΟΥ ΚΟΣΜΑ
+Line 140: HELLINIKON DEVELOPMENT PROJECT
+Line 141: ΕΡΓΟΤΑΞΙΑΚΑ ΓΡΑΦΕΙΑ ΕΛΛΗΝΙΚΟ
+Line 142: ELLINIKON SITE OFFICES
+Line 143: ΕΛΛΗΝΙΚΟ
+Line 144: ELLINIKON
+Line 145: ΚΑΤΟΨH
+Line 146: 04
+Line 147: ΕΡΓΟΤΑΞΙΑΚΑ ΓΡΑΦΕΙΑ
+Line 148: ΕΛΛΗΝΙΚΟ
+Line 149: GROUND FLOOR PLAN
+Line 150: SITE OFFICES
+Line 151: ELLINIKON
+Line 152: DRAFT
+Line 153: ΑΝΑΘΕΩΡΗΣΕΙΣ
+Line 154: ΠΕΡΙΓΡΑΦΗ DESCRIPTION
+Line 155: ΗΜ ΝΙΑ DATE
+
+=== END OF FILTERED TEXT ===
+Total lines: 156

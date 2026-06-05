@@ -1,0 +1,227 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-865-0A_-_COLO_1_CELL_1.pdf ===
+
+Line   0: GLAND
+Line   1: PLATE
+Line   2: BMS GLAND
+Line   3: PLATE
+Line   4: VENTILATION COWL
+Line   5: GLAND
+Line   6: PLATE
+Line   7: GLAND
+Line   8: PLATE
+Line   9: GLAND
+Line  10: PLATE
+Line  11: GLAND
+Line  12: PLATE
+Line  13: GLAND
+Line  14: PLATE
+Line  15: GLAND
+Line  16: PLATE
+Line  17: GLAND
+Line  18: PLATE
+Line  19: VENTILATION COWL
+Line  20: GLAND
+Line  21: PLATE
+Line  22: BMS
+Line  23: PLATE
+Line  24: GLAND
+Line  25: PLATE
+Line  26: GLAND
+Line  27: PLATE
+Line  28: GLAND
+Line  29: PLATE
+Line  30: BMS
+Line  31: PLATE
+Line  32: GLAND
+Line  33: PLATE
+Line  34: GLAND
+Line  35: PLATE
+Line  36: GLAND
+Line  37: PLATE
+Line  38: BMS
+Line  39: PLATE
+Line  40: GLAND
+Line  41: PLATE
+Line  42: GLAND
+Line  43: PLATE
+Line  44: WP
+Line  45: WP
+Line  46: WP
+Line  47: WP
+Line  48: WP
+Line  49: YC
+Line  50: YB
+Line  51: 7300
+Line  52: 7300
+Line  53: 7300
+Line  54: 7300
+Line  55: 7300
+Line  56: 5385
+Line  57: 2130
+Line  58: 1900
+Line  59: 2185
+Line  60: 2150
+Line  61: 1050
+Line  62: 19050
+Line  63: 2245
+Line  64: COLO CELL
+Line  65: ATH04 00
+Line  66: 7150
+Line  67: 3500
+Line  68: DATA HALL RIDGE LEVEL
+Line  69: YB
+Line  70: ADMIN ROOF EAVES LEVEL
+Line  71: DATA HALL CEILING
+Line  72: COLO
+Line  73: CELL
+Line  74: ATH04 00
+Line  75: 7150
+Line  76: 3500
+Line  77: 10100
+Line  78: SLAB.
+Line  79: RACK
+Line  80: DATA HALL RIDGE LEVEL
+Line  81: ADMIN ROOF EAVES LEVEL
+Line  82: DATA HALL CEILING
+Line  83: 7300
+Line  84: 7300
+Line  85: 7300
+Line  86: 7300
+Line  87: 7300
+Line  88: COLO
+Line  89: ELEC
+Line  90: ATH04 00
+Line  91: COLO
+Line  92: ATH04 00
+Line  93: COLO
+Line  94: CELL
+Line  95: ATH04 00
+Line  96: ID DC 008
+Line  97: ID DC 007
+Line  98: SLAB.
+Line  99: RACK
+Line 100: SLAB
+Line 101: DATA HALL RIDGE LEVEL
+Line 102: ADMIN ROOF EAVES LEVEL
+Line 103: DATA HALL CEILING
+Line 104: COLO
+Line 105: CELL
+Line 106: ATH04 00
+Line 107: ID DC 009
+Line 108: 10100
+Line 109: 10650
+Line 110: RACK
+Line 111: DATA HALL RIDGE LEVEL
+Line 112: ADMIN ROOF EAVES LEVEL
+Line 113: DATA HALL CEILING
+Line 114: 7300
+Line 115: 7300
+Line 116: 7300
+Line 117: 7300
+Line 118: 7300
+Line 119: COLO
+Line 120: ATH04 00
+Line 121: COLO
+Line 122: ELEC
+Line 123: ATH04 00
+Line 124: COLO
+Line 125: CELL
+Line 126: ATH04 00
+Line 127: ID DC 037
+Line 128: ID DC 036
+Line 129: ID DC 046
+Line 130: FIREMASTER WALL
+Line 131: ADMINISTRATION BALLARD
+Line 132: METAL SECURITY MESH PARTITION.
+Line 133: REFER ARCHITECTURAL SPEC
+Line 134: SLAB.
+Line 135: RACK
+Line 136: ADMIN
+Line 137: COLO
+Line 138: COLO
+Line 139: TRUE NORTH
+Line 140: Sheet Title Number
+Line 141: Scale
+Line 142: Plan
+Line 143: Design Consultants
+Line 144: Microsoft
+Line 145: DATA CENTER ATH04
+Line 146: SPATA GREECE
+Line 147: Contractor Joint Venture
+Line 148: Name
+Line 149: Contractor Project
+Line 150: Contractor Contract
+Line 151: Contractor PM
+Line 152: Contractor BIM Mngr
+Line 153: Contractor Information
+Line 154: Renco Terna
+Line 155: Client
+Line 156: General Notes
+Line 157: Client Project
+Line 158: Client Contract
+Line 159: Client PM
+Line 160: Client BIM Mngr
+Line 161: Primary Client Information
+Line 162: Layout
+Line 163: Revision
+Line 164: Tombazi Chalandri
+Line 165: 15232
+Line 166: Athens Greece
+Line 167: 0800 3262
+Line 168: Agion Theodoron Square Athens
+Line 169: 10561
+Line 170: Athens Greece
+Line 171: Kimithois Agios Dimitrios
+Line 172: 17236
+Line 173: Athens Greece
+Line 174: Purpose Issue
+Line 175: Issue
+Line 176: Name
+Line 177: COLO CELL
+Line 178: ATH04 VAP AH
+Line 179: SCALE
+Line 180: COLO CELL FLOOR PLAN
+Line 181: SCALE
+Line 182: COLO CELL VIEW
+Line 183: SCALE
+Line 184: COLO CELL ELEVATION WEST
+Line 185: SCALE
+Line 186: COLO CELL ELEVATION NORTH
+Line 187: SCALE
+Line 188: COLO CELL ELEVATION EAST
+Line 189: SCALE
+Line 190: COLO CELL ELEVATION SOUTH
+Line 191: COLO Cell
+Line 192: Level
+Line 193: Name
+Line 194: Number
+Line 195: Department
+Line 196: Area
+Line 197: Floor Finish
+Line 198: Wall Finish
+Line 199: Ceiling Finish
+Line 200: SLAB
+Line 201: COLO CELL
+Line 202: ATH04 00
+Line 203: DATA HALL
+Line 204: 731
+Line 205: POWER FLOATED
+Line 206: CONCRETE SEALED
+Line 207: ASHFORD FORMULA SEALER.
+Line 208: PREFINISHED WHITE
+Line 209: STEEL EUROBOND
+Line 210: PANEL WHITE
+Line 211: PROPRIETRY SUSPENDED CEILING
+Line 212: SYSTEM ARMSTRONG ULTIMA
+Line 213: BOARD CLEANROOM
+Line 214: 2500
+Line 215: 5000
+Line 216: SCALE
+Line 217: Date
+Line 218: Description
+Line 219: 04
+Line 220: Issued Approval
+Line 221: VAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 222

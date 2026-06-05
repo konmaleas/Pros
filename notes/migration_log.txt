@@ -1,0 +1,117 @@
+Project Migration Log
+============================================================
+Date: 2025-12-08 21:23:55
+
+ACTIONS TAKEN:
+============================================================
+[21:23:55] Creating new directory structure...
+[21:23:55] Created: src/pdf_pipeline/core
+[21:23:55] Created: src/pdf_pipeline/core/__init__.py
+[21:23:55] Created: src/pdf_pipeline/models
+[21:23:55] Created: src/pdf_pipeline/models/__init__.py
+[21:23:55] Created: src/pdf_pipeline/utils
+[21:23:55] Created: src/pdf_pipeline/utils/__init__.py
+[21:23:55] Created: src/pdf_pipeline/cli
+[21:23:55] Created: src/pdf_pipeline/cli/__init__.py
+[21:23:55] Created: tests/fixtures
+[21:23:55] Created: data/raw
+[21:23:55] Created: data/processed
+[21:23:55] Created: output/filtered_texts
+[21:23:55] Created: output/batch_results
+[21:23:55] Created: output/reports
+[21:23:55] Created: config
+[21:23:55] Created: docs
+[21:23:55] Created: archive/legacy_code
+[21:23:55] Created: notes/chat_summaries
+[21:23:55] Created: notes/debug_sessions
+[21:23:55] Copying core modules from v16_workable...
+[21:23:55] Copied: text_extractor.py -> src/pdf_pipeline/core/
+[21:23:55] Copied: text_processor.py -> src/pdf_pipeline/core/
+[21:23:55] Copied: frequency_analyzer.py -> src/pdf_pipeline/core/
+[21:23:55] Copied: adaptive_filter.py -> src/pdf_pipeline/core/
+[21:23:55] Copied: pattern_analyzer.py -> src/pdf_pipeline/core/
+[21:23:55] Copying CLI scripts...
+[21:23:55] Copied: main_title_search.py -> src/pdf_pipeline/cli/single_file.py
+[21:23:55] Copied: batch_processor.py -> src/pdf_pipeline/cli/batch_processor.py
+[21:23:55] Copying utility modules...
+[21:23:55] Copied: file_opers.py -> src/pdf_pipeline/utils/file_ops.py
+[21:23:55] Copied: path_manipulation.py -> src/pdf_pipeline/utils/path_ops.py
+[21:23:55] Copied: string_manipulation.py -> src/pdf_pipeline/utils/text_ops.py
+[21:23:55] Copied: letter_conversion.py -> src/pdf_pipeline/utils/letter_conversion.py
+[21:23:55] Copied: dates.py -> src/pdf_pipeline/utils/dates.py
+[21:23:55] Copied: time_oper.py -> src/pdf_pipeline/utils/time_ops.py
+[21:23:55] Creating configuration files...
+[21:23:55] Created: config/constants.py
+[21:23:55] Created: config/pipeline_config.py
+[21:23:55] Creating .gitignore...
+[21:23:55] Created: .gitignore
+[21:23:55] Creating README.md...
+[21:23:55] Created: README.md
+[21:23:55] Moving chat files...
+[21:23:55] Moved: chat/correct_chunk_values.txt -> notes/chat_summaries/
+[21:23:55] Moved: chat/debug_v17.txt -> notes/chat_summaries/
+[21:23:55] Moved: chat/chat_summary_for_continuation.txt -> notes/chat_summaries/
+[21:23:55] Moved: chat/Batch over-counting issue resolution.txt -> notes/chat_summaries/
+[21:23:55] Moved: chat/next_step.txt -> notes/chat_summaries/
+[21:23:55] Moved: chat/project_custom_instructions.txt -> notes/chat_summaries/
+[21:23:55] Moved: chat/chat_summary_for_continuation_1.txt -> notes/chat_summaries/
+[21:23:55] Moved: chat/chat_summary_for_continuation_3.txt -> notes/chat_summaries/
+[21:23:55] Moved: chat/chat_summary_for_continuation_7.txt -> notes/chat_summaries/
+[21:23:55] Moved: chat/Batch debug processor code review.txt -> notes/chat_summaries/
+[21:23:55] Moved: chat/chat_summary_for_continuation_4.txt -> notes/chat_summaries/
+[21:23:55] Moved: chat/last_summary.txt -> notes/chat_summaries/
+[21:23:55] Moved: chat/chat_summary_for_continuation_2.txt -> notes/chat_summaries/
+[21:23:55] Moved: chat/greedy_assignment.txt -> notes/chat_summaries/
+[21:23:55] Moved: chat/successful_file.txt -> notes/chat_summaries/
+[21:23:55] Moved: chat/chat_summary_for_continuation_6.txt -> notes/chat_summaries/
+[21:23:55] Moved: chat/debug_print.txt -> notes/chat_summaries/
+[21:23:55] Moving output files...
+[21:23:55] Copied: filtered_texts/20251008_083
+[21:23:55] Copied: filtered_texts/20251008_124
+[21:23:55] Copied: filtered_texts/20251111_212
+[21:23:55] Copied: filtered_texts/20251111_205
+[21:23:55] Copied: filtered_texts/20251008_114
+[21:23:55] Copied: filtered_texts/20251008_120
+[21:23:55] Copied: filtered_texts/20251008_113
+[21:23:55] Copied: filtered_texts/20251008_141
+[21:23:55] Copied: filtered_texts/20251008_122
+[21:23:55] Copied: filtered_texts/20251112_191
+[21:23:55] Copied: filtered_texts/20251112_183
+[21:23:55] Copied: filtered_texts/20251008_151
+[21:23:55] Copied: batch_results/results_20251018_171616.json
+[21:23:55] Copied: batch_results/summary_20251018_173658.csv
+[21:23:55] Copied: batch_results/results_20251017_123810.json
+[21:23:55] Copied: batch_results/summary_20251018_172431.csv
+[21:23:55] Copied: batch_results/.~lock.summary_20251017_123810_2.csv#
+[21:23:55] Copied: batch_results/results_20251018_172431.json
+[21:23:55] Copied: batch_results/summary_20251017_123810.csv
+[21:23:55] Copied: batch_results/results_20251018_164806.json
+[21:23:55] Copied: batch_results/summary_20251017_123810_2.csv
+[21:23:55] Copied: batch_results/summary_20251018_164806.csv
+[21:23:55] Copied: batch_results/summary_20251019_165519.csv
+[21:23:55] Copied: batch_results/summary_20251017_123810.ods
+[21:23:55] Copied: batch_results/results_20251019_165519.json
+[21:23:55] Copied: batch_results/results_20251018_173658.json
+[21:23:55] Copied: reports/batch_debug
+[21:23:55] Copied: reports/claude
+[21:23:55] Archiving old version directories...
+[21:23:55] Archived: v2
+[21:23:55] Archived: v3
+[21:23:55] Archived: v10
+[21:23:55] Archived: v18
+[21:23:55] Archived: v15
+[21:23:55] Archived: v14
+[21:23:55] Archived: v11_workable
+[21:23:55] Archived: v12
+[21:23:55] Archived: v0
+[21:23:55] Archived: v4
+[21:23:55] Archived: v1
+[21:23:55] Archived: compare_v16_19_batch_processor
+[21:23:55] Archived: v9_workable
+[21:23:55] Archived: v13
+[21:23:55] Archived: v8
+[21:23:55] Archived: v19
+[21:23:55] Archived: v6
+[21:23:55] Archived: v17
+[21:23:55] Archived: v5
+[21:23:55] Archived: v7

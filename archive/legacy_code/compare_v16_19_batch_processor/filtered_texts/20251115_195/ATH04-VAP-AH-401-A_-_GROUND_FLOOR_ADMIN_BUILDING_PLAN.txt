@@ -1,0 +1,269 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-401-A_-_GROUND_FLOOR_ADMIN_BUILDING_PLAN.pdf ===
+
+Line   0: ZF
+Line   1: ZA
+Line   2: YF
+Line   3: YE
+Line   4: YD
+Line   5: YC
+Line   6: YB
+Line   7: YA
+Line   8: 3000
+Line   9: 9200
+Line  10: 6350
+Line  11: 6150
+Line  12: 61930
+Line  13: LOCKERS
+Line  14: Graded
+Line  15: ZONE USE
+Line  16: CELLULAR OFFICES MEETING CONFERENCE ROOMS
+Line  17: CORRIDOR
+Line  18: DATA HALL
+Line  19: DOCKING AREA
+Line  20: ENTRANCE LOBBY
+Line  21: FCR
+Line  22: FOC
+Line  23: GENERAL CIRCULATION CORRIDORS, LOBBIES WAITING AREAS
+Line  24: INNER LOBBY
+Line  25: KITCHEN MESS CANTEEN
+Line  26: MMR
+Line  27: OPEN PLAN OFFICES
+Line  28: PLANT AREAS MEP
+Line  29: SECURITY
+Line  30: SER
+Line  31: SOC
+Line  32: SPRINKLER RISER
+Line  33: STORE
+Line  34: WELFARE TOILETS, SHOWER, LOCKER ROOMS CLEANERS CUPBOARDS
+Line  35: WORKSHOP AREAS STORE ROOMS
+Line  36: 2370
+Line  37: 12745
+Line  38: 3500
+Line  39: 10100
+Line  40: 4500
+Line  41: 6300
+Line  42: 6350
+Line  43: 6000
+Line  44: 7695
+Line  45: 2370
+Line  46: 731
+Line  47: COLO CELL
+Line  48: 00
+Line  49: COLO CELL 2
+Line  50: 00
+Line  51: LOADING DOCK
+Line  52: 00 048
+Line  53: ADMIN
+Line  54: SPRINKLER
+Line  55: RISER
+Line  56: 00 049
+Line  57: HIGH VALUE
+Line  58: STORAGE
+Line  59: 00 046
+Line  60: SECURE
+Line  61: STORAGE
+Line  62: 00 044
+Line  63: SHRED ROOM
+Line  64: 00 045
+Line  65: ASSET
+Line  66: MANAGEMENT
+Line  67: 00 047
+Line  68: RECEIVING
+Line  69: STAGING AREA
+Line  70: 00 040
+Line  71: 76
+Line  72: MMR 2
+Line  73: 00 053
+Line  74: WC
+Line  75: 00 051
+Line  76: FIRE ESCAPE
+Line  77: CORRIDOR
+Line  78: 00 052
+Line  79: 4
+Line  80: COLO
+Line  81: MECHANICAL
+Line  82: GALLERY
+Line  83: 00
+Line  84: COLO
+Line  85: MECHANICAL
+Line  86: GALLERY 2
+Line  87: 00
+Line  88: CE WORKSHOP
+Line  89: 00 043
+Line  90: GENERAL
+Line  91: STORAGE
+Line  92: 00 042
+Line  93: 44
+Line  94: CABLE
+Line  95: STORAGE
+Line  96: 00 041
+Line  97: JANITOR ROOM
+Line  98: 00 037
+Line  99: UNISEX WC
+Line 100: 00 039
+Line 101: 4
+Line 102: CHECK POINT
+Line 103: 00 036
+Line 104: 48
+Line 105: DIS WC SHWR
+Line 106: 00 034
+Line 107: LOBBY WC
+Line 108: 00 033
+Line 109: 4
+Line 110: INNER LOBBY
+Line 111: 00 002
+Line 112: CONFERENCE
+Line 113: ROOM 2
+Line 114: 00 032
+Line 115: ENTRANCE
+Line 116: LOBBY
+Line 117: 00 001
+Line 118: FOC
+Line 119: 00 003
+Line 120: OFFICE
+Line 121: 00 004
+Line 122: FACILITY
+Line 123: OFFICE
+Line 124: 00 005
+Line 125: CONFERENCE
+Line 126: ROOM
+Line 127: 00 009
+Line 128: SOC OFFICE
+Line 129: 00 007
+Line 130: SOC STORAGE
+Line 131: 00 008
+Line 132: SOC
+Line 133: 00 006
+Line 134: 41
+Line 135: LOBBY
+Line 136: 00 029
+Line 137: LOBBY
+Line 138: 00 027
+Line 139: 2
+Line 140: LOBBY
+Line 141: 00 025
+Line 142: MEETING ROOM
+Line 143: 00 010
+Line 144: CORRIDOR
+Line 145: 00 016
+Line 146: CORRIDOR
+Line 147: 00 021
+Line 148: ELEC ROOM
+Line 149: 00 024
+Line 150: 49
+Line 151: SER
+Line 152: 00 023
+Line 153: FCR
+Line 154: 00 022
+Line 155: MMR
+Line 156: 00 020
+Line 157: BREAK ROOM
+Line 158: 00 017
+Line 159: FIRE ESCAPE
+Line 160: CORRIDOR
+Line 161: 00 019
+Line 162: STORAGE
+Line 163: 00 018
+Line 164: OFFICE
+Line 165: 00 014
+Line 166: OFFICE
+Line 167: 00 015
+Line 168: WELLNESS
+Line 169: 00 013
+Line 170: PHONE BOOTH
+Line 171: 00 011
+Line 172: PRINT ROOM
+Line 173: 00 012
+Line 174: 2
+Line 175: COLO STORE
+Line 176: 00 056
+Line 177: LOBBY
+Line 178: 00 059
+Line 179: ESCAPE
+Line 180: DOOR
+Line 181: ESCAPE
+Line 182: DOOR
+Line 183: ESCAPE
+Line 184: DOOR
+Line 185: WC
+Line 186: 00 030
+Line 187: SHWR
+Line 188: CHANGE
+Line 189: 00 028
+Line 190: WC
+Line 191: 00 026
+Line 192: WC
+Line 193: 00 031
+Line 194: AIRLOCK
+Line 195: 00 038
+Line 196: INCOMING
+Line 197: WATER RISER
+Line 198: 00 055
+Line 199: 2
+Line 200: BIN STORE
+Line 201: 00 060
+Line 202: ESCAPE
+Line 203: DOOR
+Line 204: ESCAPE
+Line 205: DOOR
+Line 206: ADMIN
+Line 207: COLO
+Line 208: COLO 2
+Line 209: 2
+Line 210: 4
+Line 211: 2
+Line 212: 4
+Line 213: TRUE NORTH
+Line 214: Sheet Title Number
+Line 215: Scale
+Line 216: Plan
+Line 217: Design Consultants
+Line 218: Microsoft
+Line 219: DATA CENTER
+Line 220: SPATA GREECE
+Line 221: Contractor Joint Venture
+Line 222: Name
+Line 223: Contractor Project
+Line 224: Contractor Contract
+Line 225: Contractor PM
+Line 226: Contractor BIM Mngr
+Line 227: Contractor Information
+Line 228: Renco Terna
+Line 229: Client
+Line 230: General Notes
+Line 231: Client Project
+Line 232: Client Contract
+Line 233: Client PM
+Line 234: Client BIM Mngr
+Line 235: Primary Client Information
+Line 236: Layout
+Line 237: Revision
+Line 238: Tombazi Chalandri
+Line 239: 15232
+Line 240: Athens Greece
+Line 241: 0800 3262
+Line 242: Agion Theodoron Square Athens
+Line 243: 10561
+Line 244: Athens Greece
+Line 245: Kimithois Agios Dimitrios
+Line 246: 17236
+Line 247: Athens Greece
+Line 248: Purpose Issue
+Line 249: Issue
+Line 250: Name
+Line 251: GROUND FLOOR ADMIN BUILDING
+Line 252: PLAN
+Line 253: VAP AH 401
+Line 254: SCALE
+Line 255: GROUND FLOOR ADMIN
+Line 256: SCALE
+Line 257: 2500
+Line 258: 5000
+Line 259: Date
+Line 260: Description
+Line 261: 04
+Line 262: Issued Approval
+Line 263: VAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 264

@@ -1,0 +1,222 @@
+=== FILTERED TEXT FOR: 4005-RES-VAP-DWG-236-DD-02215-C.pdf ===
+
+Line   0: 1400
+Line   1: 1900
+Line   2: 1900
+Line   3: 1045
+Line   4: 1249
+Line   5: 01
+Line   6: 02
+Line   7: 03
+Line   8: 04
+Line   9: 05
+Line  10: 06
+Line  11: 07
+Line  12: 08
+Line  13: 09
+Line  14: BR
+Line  15: BQ
+Line  16: BP
+Line  17: BO
+Line  18: BN
+Line  19: BM
+Line  20: BL
+Line  21: BK
+Line  22: BJ
+Line  23: BH
+Line  24: BF
+Line  25: BE
+Line  26: BD
+Line  27: BC
+Line  28: BB
+Line  29: BA
+Line  30: AR
+Line  31: AQ
+Line  32: AP
+Line  33: AO
+Line  34: AM
+Line  35: AL
+Line  36: AK
+Line  37: AJ
+Line  38: AI
+Line  39: AH
+Line  40: AG
+Line  41: AF
+Line  42: AE
+Line  43: AD
+Line  44: AC
+Line  45: AB
+Line  46: AA
+Line  47: BG
+Line  48: ΠΕΡΙΓΡΑΜΜΑ
+Line  49: ΥΠΟΣΤΑΘΜΟΥ
+Line  50: ΠΥΡΗΝΑΣ
+Line  51: ΚΥΡΙΑ ΕΙΣΟΔΟΣ
+Line  52: ΠΥΡΗΝΑΣ ΤΕΛΙΚΗ ΕΞΟΔΟΣ ΑΝΩΔΟΜΗΣ
+Line  53: ΚΥΡΙΑ ΕΙΣΟΔΟΣ
+Line  54: ΝΟΤΙΑ
+Line  55: ΚΥΡΙΑ ΕΙΣΟΔΟΣ
+Line  56: ΒΟΡΕΙΟΔΥΤΙΚΑ
+Line  57: ΚΥΡΙΑ ΕΙΣΟΔΟΣ
+Line  58: ΑΝΑΤΟΛΙΚΑ
+Line  59: ΕΙΣΟΔΟΣ ΑΜΚ
+Line  60: ΕΙΣΟΔΟΣ ΠΕΖΩΝ
+Line  61: ΕΙΣΟΔΟΣ ΑΜΚ
+Line  62: ΕΙΣΟΔΟΣ ΠΕΖΩΝ
+Line  63: ΕΙΣΟΔΟΣ ΑΜΚ
+Line  64: ΕΙΣΟΔΟΣ ΑΜΚ
+Line  65: BI
+Line  66: ΠΥΡΗΝΑΣ
+Line  67: ΕΞΟΔΟΣ ΚΙΝΔΥΝΟΥ
+Line  68: ΠΥΡΗΝΑΣ
+Line  69: ΕΞΟΔΟΣ ΚΙΝΔΥΝΟΥ
+Line  70: ΠΥΡΗΝΑΣ
+Line  71: ΕΞΟΔΟΣ ΚΙΝΔΥΝΟΥ
+Line  72: ΠΥΡΗΝΑΣ
+Line  73: ΕΞΟΔΟΣ ΚΙΝΔΥΝΟΥ
+Line  74: ΠΥΡΗΝΑΣ
+Line  75: ΕΞΟΔΟΣ ΚΙΝΔΥΝΟΥ
+Line  76: ΚΟΙΝΟΧΡΗΣΤΟΣ ΧΩΡΟΣ
+Line  77: ΑΘΛΗΣΗΣ ΚΑΤΟΙΚΙΩΝ
+Line  78: ΚΥΡΙΑ ΕΙΣΟΔΟΣ
+Line  79: ΤΕΛΙΚΗ ΕΞΟΔΟΣ
+Line  80: ΤΕΛΙΚΗ ΕΞΟΔΟΣ ΑΜΙΓΩΣ ΑΜΕΑ
+Line  81: ΠΥΡΗΝΑΣ ΤΕΛΙΚΗ ΕΞΟΔΟΣ ΥΠΟΓΕΙΩΝ
+Line  82: ΠΥΡΗΝΑΣ ΤΕΛΙΚΗ ΕΞΟΔΟΣ ΑΝΩΔΟΜΗΣ
+Line  83: ΠΥΡΗΝΑΣ ΤΕΛΙΚΗ ΕΞΟΔΟΣ ΥΠΟΓΕΙΩΝ
+Line  84: ΠΥΡΗΝΑΣ
+Line  85: ΚΥΡΙΑ ΕΙΣΟΔΟΣ
+Line  86: ΤΕΛΙΚΗ ΕΞΟΔΟΣ ΑΜΙΓΩΣ ΑΜΕΑ
+Line  87: ΠΥΡΗΝΑΣ ΤΕΛΙΚΗ ΕΞΟΔΟΣ ΑΝΩΔΟΜΗΣ
+Line  88: ΠΥΡΗΝΑΣ ΤΕΛΙΚΗ ΕΞΟΔΟΣ ΥΠΟΓΕΙΩΝ
+Line  89: ΤΕΛΙΚΗ ΕΞΟΔΟΣ ΑΜΙΓΩΣ ΑΜΕΑ
+Line  90: ΠΥΡΗΝΑΣ
+Line  91: ΚΥΡΙΑ ΕΙΣΟΔΟΣ
+Line  92: ΠΥΡΗΝΑΣ ΤΕΛΙΚΗ ΕΞΟΔΟΣ ΑΝΩΔΟΜΗΣ
+Line  93: ΠΥΡΗΝΑΣ ΤΕΛΙΚΗ ΕΞΟΔΟΣ ΥΠΟΓΕΙΩΝ
+Line  94: ΠΥΡΗΝΑΣ
+Line  95: ΚΥΡΙΑ ΕΙΣΟΔΟΣ
+Line  96: ΤΕΛΙΚΗ ΕΞΟΔΟΣ ΑΜΙΓΩΣ ΑΜΕΑ
+Line  97: ΠΥΡΗΝΑΣ
+Line  98: ΚΥΡΙΑ ΕΙΣΟΔΟΣ
+Line  99: ΤΕΛΙΚΗ ΕΞΟΔΟΣ ΑΜΙΓΩΣ ΑΜΕΑ
+Line 100: ΠΥΡΗΝΑΣ ΤΕΛΙΚΗ ΕΞΟΔΟΣ ΑΝΩΔΟΜΗΣ
+Line 101: ΠΥΡΗΝΑΣ ΤΕΛΙΚΗ ΕΞΟΔΟΣ ΥΠΟΓΕΙΩΝ
+Line 102: ΟΔΕΥΣΕΙΣ ΠΡΟΣΒΑΣΙΜΕΣ ΑΠΟ ΑΜΚ
+Line 103: ΟΔΕΥΣΕΙΣ ΜΗ ΠΡΟΣΒΑΣΙΜΕΣ ΑΠΟ ΑΜΚ
+Line 104: ΕΙΣΟΔΟΙ ΠΡΟΣΒΑΣΙΜΕΣ ΑΠΟ ΑΜΚ
+Line 105: ΕΙΣΟΔΟΙ ΜΗ ΠΡΟΣΒΑΣΙΜΕΣ ΑΠΟ ΑΜΚ
+Line 106: ΑΠΑΙΤΟΥΜΕΝΟΣ ΧΩΡΟΣ ΓΙΑ
+Line 107: ΣΤΡΟΦΗ ΑΜΑΞΙΔΙΟΥ
+Line 108: ΧΩΡΟΣ ΑΝΑΜΟΝΗΣ ΑΜΚ
+Line 109: ΣΗΜΑΝΣΗ ΑΜΕΑ
+Line 110: ΥΠΟΜΝΗΜΑ ΣΥΝΒΟΛΩΝ ΠΡΟΣΒΑΣΙΜΟΤΗΤΑΣ
+Line 111: ΥΠΟΜΝΗΜΑ ΥΛΙΚΩΝ ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΧΩΡΟΥ
+Line 112: COMMON VEGETATED AREA
+Line 113: ΚΟΙΝΟΧΡΗΣΤΗ ΠΕΡΙΟΧΗ ΦΥΤΕΥΣΗΣ
+Line 114: LIMESTONE TILING
+Line 115: ΠΛΑΚΕΣ ΑΣΒΕΣΤΟΛΙΘΟΥ
+Line 116: SHALLOW WATER FEATURE
+Line 117: ΥΔΑΤΙΝΟ ΣΤΟΙΧΕΙΟ
+Line 118: SAND
+Line 119: ΑΜΜΟΣ
+Line 120: PRIVATE VEGETATED AREA
+Line 121: ΙΔΙΩΤΙΚΗ ΠΕΡΙΟΧΗ ΦΥΤΕΥΣΗΣ
+Line 122: 40
+Line 123: ΓΕΝΙΚΕΣ ΣΗΜΕΙΩΣΕΙΣ GENERAL NOTES
+Line 124: ΕΓΓΡΑΦΑ ΑΝΑΦΟΡΑΣ DOCUMENT REFERENCE
+Line 125: ΤΙΤΛΟΣ ΣΧΕΔΙΟΥ DRAWING TITLE
+Line 126: ΚΩΔΙΚΟΣ ΕΓΓΡΑΦΟΥ ΣΧΕΔΙΟΥ DOCUMENT DRAWING CODIFICATION
+Line 127: Project
+Line 128: Originator
+Line 129: Type
+Line 130: Discipline
+Line 131: Stage
+Line 132: Serial Number
+Line 133: Revision
+Line 134: ΚΛΙΜΑΚΑ SCALE
+Line 135: ΔΙΑΤΑΞΗ LAYOUT
+Line 136: REV.
+Line 137: DATE
+Line 138: ISSUE
+Line 139: DESCRIPTION UPDATE VERSION
+Line 140: ORIGINATED
+Line 141: CHECKED
+Line 142: VERIFIED
+Line 143: LEAD DESIGNER
+Line 144: APPROVED
+Line 145: PMC
+Line 146: STATUS
+Line 147: ΣΥΜΒΟΥΛΟΣ ΔΙΑΧΕΙΡΙΣΗΣ ΕΡΓΟΥ
+Line 148: PROJECT MANAGEMENT CONSULTANT
+Line 149: ΣΥΜΒΟΥΛΟΥ ΔΙΑΧΕΙΡΙΣΗΣ ΕΡΓΟΥ
+Line 150: PROJECT MANAGEMENT CONSULTANT DETAILS
+Line 151: ΚΥΡΙΟΣ ΜΕΛΕΤΗΤΗΣ LEAD DESIGNER
+Line 152: ΜΕΛΕΤΗΤΗ LOCAL ARCHITECT
+Line 153: SUBCONSULTANT STRUCTURE
+Line 154: ΕΡΓΟΔΟΤΗΣ EMPLOYER
+Line 155: ΕΡΓΟΔΟΤΗ EMPLOYER DETAILS
+Line 156: ΑΝΑΠΤΥΞΗ ΤΟΥ ΜΗΤΡΟΠΟΛΙΤΙΚΟΥ ΠΟΛΟΥ ΕΛΛΗΝΙΚΟΥ ΑΓIOY ΚΟΣΜΑ
+Line 157: DEVELOPMENT METROPOLITAN POLE HELLINIKON AG. KOSMAS
+Line 158: ΕΡΓΟ PROJECT
+Line 159: ΕΛΛΗΝΙΚΟ HELLINIKON
+Line 160: Kifisias Avenue Golden Hall
+Line 161: 15123 Marousi
+Line 162: Σημείωση Πνευματικών Δικαιωμάτων. 2121 1993
+Line 163: ΕΛΛΗΝΙΚΟ
+Line 164: Ρήτρα Περιορισμού Ευθύνης. Γραφείο
+Line 165: Ελληνικού. ΕΛΛΗΝΙΚΟ
+Line 166: ΝΑ ΜΗΝ ΑΛΛΑΧΘΕΙ ΚΛΙΜΑΚΑ ΤΟΥ ΣΧΕΔΙΟΥ.
+Line 167: Copyright Notice. 2121 1993
+Line 168: HELLINIKON
+Line 169: Disclaimer. Hellinikon Office. HELLINIKON
+Line 170: CHANGE SCALE DRAWING.
+Line 171: SUBCONSULTANT MEP
+Line 172: SUBCONSULTANT LANDSCAPE
+Line 173: SUBCONSULTANT TRAFFIC
+Line 174: SUBCONSULTANT LIGHTING
+Line 175: SUBCONSULTANT ACOUSTICS
+Line 176: SUBCONSULTANT SUSTAINABILITY
+Line 177: SUBCONSULTANT SIGNAGE
+Line 178: URBAN ZONE
+Line 179: ΑΡΧΙΤΕΚΤΟΝΙΚΟΣ ΣΧΕΔΙΑΣΜΟΣ Οριστική Μελέτη
+Line 180: MODEL MDD 234 DD 0001
+Line 181: BJARKE INGELS GROUP BIG
+Line 182: AVINGUDA DA LES DRASSANES
+Line 183: 08001 BARCELON, SPAIN
+Line 184: HELLINIKON
+Line 185: ΑΝΕΓΕΡΣΗ ΥΨΗΛΟΥ ΚΤΙΡΙΟΥ ΚΑΤΟΙΚΙΩΝ ΟΡΟΦΩΝ, ΜΕ ΥΠΕΡΓΕΙΟΥΣ
+Line 186: ΟΡΟΦΟΥΣ ΥΠΟΓΕΙΑ ΒΟΗΘΗΤΙΚΩΝ ΧΩΡΩΝ ΚΑΙ ΧΩΡΩΝ ΣΤΑΘΜΕΥΣΗΣ, ΙΣΟΓΕΙΟ
+Line 187: ΤΜΗΜΑ ΚΟΙΝΟΧΡΗΣΤΩΝ ΛΕΙΤΟΥΡΓΙΩΝ ΤΩΝ ΚΑΤΟΙΚΙΩΝ ΜΕ ΚΛΕΙΣΤΗ ΚΟΛΥΜΒΗΤΙΚΗ
+Line 188: ΔΕΞΑΜΕΝΗ ΣΤΟ ΥΠΟΓΕΙΟ, ΑΝΟΙΚΤΕΣ ΚΟΛΥΜΒΗΤΙΚΕΣ ΔΕΞΑΜΕΝΕΣ ΣΕ ΔΩΜΑΤΑ
+Line 189: ΟΡΟΦΩΝ, ΚΑΤΑΣΚΕΥΕΣ ΜΕ ΦΩΤΟΒΟΛΤΑΙΚΑ ΠΑΝΕΛΑ ΚΑΙ ΗΧΟΠΕΤΑΣΜΑΤΑ ΣΤΑ
+Line 190: ΔΩΜΑΤΑ ΚΤΙΡΙΟΥ, ΔΙΑΜΟΡΦΩΣΗ ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΧΩΡΟΥ, ΔΥΟ ΥΔΑΤΙΝΑ
+Line 191: ΣΕ ΗΜΙΥΠΑΙΘΡΙΟΥΣ ΧΩΡΟΥΣ ΤΟΥ ΜΕ ΦΩΤΟΒΟΛΤΑΙΚΑ
+Line 192: ΠΑΝΕΛΑ ΣΕ ΤΜΗΜΑ ΠΡΑΣΙΑΣ ΚΑΙ ΣΕ ΑΚΑΛΥΠΤΟ ΧΩΡΟ ΟΙΚΟΠΕΔΟΥ ΚΑΙ ΧΡΗΣΗ ΤΟΥ
+Line 193: AΡΘΡΟΥ ΤΟΥ ΝΟΚ ΟΠΩΣ ΙΣΧΥΕΙ ΣΤΟ
+Line 194: RES
+Line 195: VAP
+Line 196: DWG
+Line 197: DD
+Line 198: 02215
+Line 199: 4005
+Line 200: Προσβασιμότητα Προσβάσεις Κυκλοφορία Περιβάλλοντα Χώρου
+Line 201: ΦΥΛΛΟ SHEET 02215
+Line 202: 06 2023
+Line 203: First Issuance Approval
+Line 204: VAP
+Line 205: VAP
+Line 206: BIG
+Line 207: 09 2023
+Line 208: Second Issuance Approval
+Line 209: VAP
+Line 210: VAP
+Line 211: BIG
+Line 212: 09 2023
+Line 213: Third Issuance Approval
+Line 214: VAP
+Line 215: VAP
+Line 216: BIG
+
+=== END OF FILTERED TEXT ===
+Total lines: 217

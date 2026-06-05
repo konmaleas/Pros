@@ -1,0 +1,272 @@
+=== FILTERED TEXT FOR: NCM-DD-L2-DR-ARC-4491-P0.pdf ===
+
+Line   0: ΠΡΟΒΟΛΗ ΣΤΕΓΑΣΤΡΟΥ
+Line   1: ΠΡΟΒΟΛΗ ΣΤΕΓΑΣΤΡΟΥ
+Line   2: .70
+Line   3: ΠΡΟΒΟΛΗ ΣΤΕΓΑΣΤΡΟΥ
+Line   4: .70
+Line   5: .70
+Line   6: .00
+Line   7: .70
+Line   8: .70
+Line   9: .70
+Line  10: .00
+Line  11: ΑΕΡΙΣΜΟΣ
+Line  12: LIFT
+Line  13: HMIΫΠΑΙΘΡΙΟΣ
+Line  14: ΧΩΡΟΣ ΥΨΟΥΣ
+Line  15: ΘΑΛΑΜΟΣ
+Line  16: ATOMΩΝ
+Line  17: ΘΑΛΑΜΟΣ
+Line  18: ATOMΩΝ
+Line  19: ΘΑΛΑΜΟΣ
+Line  20: ATOMΩΝ
+Line  21: ΘΑΛΑΜΟΣ
+Line  22: ATOMΩΝ
+Line  23: ΧΩΡΟΣ
+Line  24: ΑΝΑΠΑΥΣΗΣ
+Line  25: AEΡ. LOBBY
+Line  26: SHAFT
+Line  27: 40
+Line  28: ΑΝΕΛΚΥΣΤΗΡΑΣ
+Line  29: ΦΟΡΤΙΟΥ
+Line  30: SHAFT
+Line  31: ΑΝΕΛΚΥΣΤΗΡΑΣ
+Line  32: ΦΟΡΤΙΟΥ
+Line  33: 40
+Line  34: SHAFT
+Line  35: KLEEMANN LIFT
+Line  36: ATLAS GIGAS
+Line  37: 2500
+Line  38: VISITOR
+Line  39: LIFT
+Line  40: ATOMΩΝ
+Line  41: VISITOR
+Line  42: LIFT
+Line  43: ATOMΩΝ
+Line  44: ΑΕΡ ΓΟΣ
+Line  45: LOBBY
+Line  46: VISITOR
+Line  47: LIFT
+Line  48: ATOMΩΝ
+Line  49: ΑΓΩΓΟΣ
+Line  50: AΕΡΙΣΜΟΥ
+Line  51: ΑΓΩΓΟI
+Line  52: ΚΛΙΜΑΤΙΣΜΟΥ
+Line  53: ΑΕΡ ΓΟΣ
+Line  54: LOBBY
+Line  55: ΑΕΡ ΓΟΣ
+Line  56: LOBBY
+Line  57: ΑΕΡΙΣΜΟΣ
+Line  58: LIFT
+Line  59: HMIΫΠΑΙΘΡΙΟΣ
+Line  60: ΧΩΡΟΣ ΥΨΟΥΣ
+Line  61: ΜΟΝΙΜΗ ΕΚΘΕΣΗ
+Line  62: TOPOS
+Line  63: ΜΟΝΙΜΗ ΕΚΘΕΣΗ
+Line  64: SEA
+Line  65: ΜΟΝΙΜΗ ΕΚΘΕΣΗ
+Line  66: COSMOS
+Line  67: ΜΟΝΙΜΗ ΕΚΘΕΣΗ
+Line  68: COSMOS
+Line  69: ΜΟΝΙΜΗ ΕΚΘΕΣΗ
+Line  70: COSMOS
+Line  71: ΜΟΝΙΜΗ ΕΚΘΕΣΗ
+Line  72: SEA
+Line  73: ΜΟΝΙΜΗ ΕΚΘΕΣΗ
+Line  74: TOPOS
+Line  75: ΜΟΝΙΜΗ ΕΚΘΕΣΗ
+Line  76: ΓΕΦΥΡΑ
+Line  77: ΜΟΝΙΜΗ ΕΚΘΕΣΗ
+Line  78: ΓΕΦΥΡΑ
+Line  79: ΜΟΝΙΜΗ
+Line  80: ΕΚΘΕΣΗ
+Line  81: ΓΕΦΥΡΑ
+Line  82: ΜΟΝΙΜΗ
+Line  83: ΕΚΘΕΣΗ
+Line  84: ΓΕΦΥΡΑ
+Line  85: ΜΟΝΙΜΗ
+Line  86: ΕΚΘΕΣΗ
+Line  87: ΓΕΦΥΡΑ
+Line  88: 4492
+Line  89: ΓΥΝΑΙΚΩΝ
+Line  90: 4492
+Line  91: 4492
+Line  92: 450
+Line  93: 450
+Line  94: 450
+Line  95: 450
+Line  96: 710
+Line  97: 465
+Line  98: 465
+Line  99: 465
+Line 100: 465
+Line 101: 475
+Line 102: 475
+Line 103: 1490
+Line 104: 1830
+Line 105: 1818
+Line 106: 1802
+Line 107: ΠΑΓΚΟΣ ΑΠΟ HPL ΜΕ ΑΠΟΜΙΜΗΣΗ ΞΥΛΟΥ
+Line 108: ΚΑΘΡΕΠΤΗΣ ΜΕ ΚΡΥΦΟ ΦΩΤΙΣΜΟ
+Line 109: ΕΝΤΟΙΧΙΣΜΕΝΗ ΛΕΚΑΝΗ
+Line 110: ΧΑΡΤΟΘΗΚΗ
+Line 111: ΑΠΟ ΤΣΙΜΕΝΤΟΠΛΑΚΕΣ ΜΩΣΑΪΚΟΥ
+Line 112: ΠΑΧΟΥΣ ΣΥΓΚΟΛΛΗΜΕΝΕΣ ΜΕ ΚΟΛΛΑ
+Line 113: ΠΑΧΟΣ
+Line 114: ΚΑΛΑΘΟΣ ΑΧΡΗΣΤΩΝ ΠΛΑΣΤΙΚΟΣ
+Line 115: ΥΓΡΟΥ ΣΑΠΟΥΝΙΟΥ ΕΠΙΤΟΙΧΙΟ
+Line 116: ΧΑΡΤΟΠΕΤΣΕΤΟΘΗΚΗ
+Line 117: 1250
+Line 118: 2400
+Line 119: 2400
+Line 120: 2400
+Line 121: 2400
+Line 122: EQ
+Line 123: EQ
+Line 124: ΓΥΝΑΙΚΩΝ
+Line 125: EQ
+Line 126: EQ
+Line 127: EQ
+Line 128: EQ
+Line 129: ΥΠΟΜΝΗΜΑ ΜΗΧΑΝΟΛΟΓΙΚΟΥ ΕΞΟΠΛΙΣΜΟΥ
+Line 130: Ανιχνευτής
+Line 131: Ανιχνευτής
+Line 132: Αρχή Χάραξης
+Line 133: Καταιονητήρας
+Line 134: Καταιονητήρας
+Line 135: Καταιονητήρας
+Line 136: Γρίλια
+Line 137: Γρίλια
+Line 138: Σηµείωση
+Line 139: Γραµµικός LED
+Line 140: Γραµµικός LED
+Line 141: Φωτιστικό
+Line 142: Εξαερισµός
+Line 143: Επιτοίχιο
+Line 144: Ανιχνευτής
+Line 145: LED STATUS
+Line 146: Ανιχνευτής PROBE
+Line 147: LED STATUS
+Line 148: Ανιχνευτής
+Line 149: Ανιχνευτής PROBE
+Line 150: Ανιχνευτής
+Line 151: Ανιχνευτής
+Line 152: Κρυφός LED
+Line 153: Ηχείο
+Line 154: Περσίδες
+Line 155: ΥΠΟΜΝΗΜΑ ΥΛΙΚΩΝ
+Line 156: Άνθυγρη
+Line 157: Ξυλο
+Line 158: 2400
+Line 159: Κωδικός Ψευδοροφής
+Line 160: Ύψος
+Line 161: Φωτιστικό
+Line 162: ΥΠΕΥΘΥΝΟΥ
+Line 163: ΗΜΕΡΟΜΗΝΙΑ
+Line 164: ONOMA
+Line 165: ΛΕΥΚΩΣΙΑ ΚΥΠΡΟΣ
+Line 166: ΝΕΟ ΚΥΠΡΙΑΚΟ ΜΟΥΣΕΙΟ
+Line 167: ΗΜΕΡΟΜΗΝΙΑ
+Line 168: ΕΓΚΡΙΘΗΚΕ
+Line 169: ΤΜΗΜ
+Line 170: ΗΜΕΡΟΜΗΝΙΑ
+Line 171: ΕΛΕΓΧΘΗΚΕ
+Line 172: ΤΜΗΜ
+Line 173: ΥΠΟΒΟΛΗ
+Line 174: ΑΡ.
+Line 175: ΥΠΟΥΡΓΕΙΟ ΜΕΤΑΦΟΡΩΝ, ΕΠΙΚΟΙΝΩΝΙΩΝ ΚΑΙ ΕΡΓΩΝ
+Line 176: ΤΜΗΜΑ ΕΡΓΩΝ
+Line 177: ΗΜΕΡΟΜΗΝΙΑ
+Line 178: ΠΕΡΙΕΧΟΜΕΝΟ
+Line 179: ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΜΕΛΕΤΗ
+Line 180: THEONI XANTHI XZA ARCHITECTS
+Line 181: ΥΠΕΥΘΥΝΟΣ ΕΡΓΟΥ
+Line 182: ΑΡΧΙΤΕΚΤΩΝ ΘΕΩΝΗ ΞΑΝΘΗ
+Line 183: ΣΥΝΕΡΓΑΤΕΣ ΑΡΧΙΤΕΚΤΟΝΕΣ
+Line 184: ΜΑΡΓΑΡΙΤΑ ΖΑΚΥΝΘΙΝΟΥ
+Line 185: ΣΥΝΤΟΝΙΣΤΗΣ ΑΡΧIT ΚΗΣ ΜΕΛΕΤΗΣ
+Line 186: ΚΟΣΜΑΣ ΒΑΡΚΑΡΟΛΗΣ
+Line 187: ΚΛΙΜΑΚ
+Line 188: DR ARC
+Line 189: NCM DD
+Line 190: ΜΕΛΕΤΗ ΕΦΑΡΜΟΓΗΣ DD
+Line 191: ΤΙΤΛΟΣ
+Line 192: ΕΡΓΑΣΙΑΣ
+Line 193: ΜΕΛΕΤΗΣ
+Line 194: ΑΡΧΙΤΕΚΤΟΝΙΚΗ
+Line 195: ΣΥΜΒΟΥΛΟΙ ΜΕΛΕΤΗΤΕΣ
+Line 196: ΚΑΤΑΛΛΗΛΟΤΗΤΑΣ
+Line 197: KEY
+Line 198: ΑΡΧΙΤΕΚΤΟΝΙΚΑ
+Line 199: YAP ARCHITECTS
+Line 200: ΣTATIK
+Line 201: RHOMBUS STRUCTURAL ENGINEERS LLC ΣΤ.
+Line 202: PENELIS CONSULTING ENGINEERS SA ΠΕΝΕΛΗΣ
+Line 203: GEORGHIOU ZEMBYLAS
+Line 204: ΜΗΧΑΝΟΛΟΓΙΚ
+Line 205: ΗΛΕΚΤΡΟΛΟΓΙΚ
+Line 206: ΜΟΥΣΕΙΟΛΟΓΙΚ
+Line 207: THETA ACOUSTICS LTD ΝΙΑΟΥΝΑΚΗΣ
+Line 208: ΑΚΟΥΣΤΙΚ
+Line 209: RODITIS PARTNERS
+Line 210: ΕΠΙΜΕΤΡΗΣΗ
+Line 211: ΠΟΣΟΤΗΤΩΝ
+Line 212: FLOROS PANTELI ASSOCIATES ΠΑΝΤΕΛΗ
+Line 213: ΥΓΕΙΑ
+Line 214: ΜΟΥΣΕΙΟΓΡΑΦΙΚ
+Line 215: ΘΩΜΑΣ
+Line 216: ΦΩΤΙΣΜΟΣ
+Line 217: DECO ASSOCIATES ΕΛ. ΝΤΕΚΩ
+Line 218: ΠΥΡΟΠΡΟΣΤΑΣΙ
+Line 219: INT FIRE CYPRUS LTD ΣΠ. ΣΠΥΡΟΥ
+Line 220: ΚΥΚΛΟΦΟΡΙΑΚ
+Line 221: DROMOS CONSULTING LTD ΖΕΚΚΟΣ
+Line 222: ΣΗΜΑΝΣΗ
+Line 223: POST SPECTACULAR OFFICE ΓΑΛΙΚΑΣ
+Line 224: ΚΤΗΡΙΟΥ
+Line 225: ARION PLUS
+Line 226: FEREOS ARCHITECTS LLC ΦΕΡΑΙΟΣ
+Line 227: Αναπλ. Υπεύθυνος Οµάδας Έργου
+Line 228: DROMOS CONSULTING LTD ΖΕΚΚΟΣ
+Line 229: ΓΕΩΤΕΧΝΙΚΑ
+Line 230: ΜΟΥΣΕΙΑΚΟΣ
+Line 231: XZA
+Line 232: ΒΑΣΙΛΕΙΟΥ
+Line 233: ΕΡΓΑΣΤΗΡΙ
+Line 234: VAP ARCHITECTS
+Line 235: Σύµβουλος Μελέτης Εφαρµογής
+Line 236: GEORGHIOU ZEMBYLAS
+Line 237: ANDREAS EVRIPIDOU CIVIL ENGINEERS
+Line 238: ΣΤΕΡΓΙΟΣ ΓΑΛΙΚΑΣ
+Line 239: ΘΩΜΑΣ
+Line 240: ΣΤΕΡΓΙΟΣ ΓΑΛΙΚΑΣ
+Line 241: Συνεργάτης ΤΣΑΜΠΙΚΟΣ ΠΕΤΡΑΣ
+Line 242: POST SPECTACULAR OFFICE ΓΑΛΙΚΑΣ
+Line 243: ΠΡΟΜΕΛΕΤΗ ΣΑΚΕΛΛΑΡΙΟΥ
+Line 244: ΦΥΣΙΚΟΣ
+Line 245: ΦΩΤΙΣΜΟΣ
+Line 246: ΤΣΑΓΚΡΑΣΟΥΛΗΣ
+Line 247: ΕΞΟΠΛΙΣΜΟΣ
+Line 248: ΚΟΥΖΙΝΑΣ
+Line 249: XENEX
+Line 250: ΕΝΕΡΓΕΙΑΚΑ
+Line 251: ΚΕΛΥΦΟΥΣ
+Line 252: METABUIL
+Line 253: ΓΡΑΦΙΣΤΙΚ
+Line 254: ΦΥΤΟΤΕΧΝΙΚ
+Line 255: LANDCO EΠΕ ΚΑΝΤΑΡΤΖΗΣ
+Line 256: ΦΕΒΡΟΥΑΡΙΟΣ 2021
+Line 257: P0
+Line 258: 2021 PM
+Line 259: 4491
+Line 260: ΚΑΤΟΨΗ ΑΝΟΨΗ ΧΩΡΩΝ ΥΓΙΕΙΝΗΣ
+Line 261: 4491
+Line 262: ΚΑΤΟΨΗ ΧΩΡΟΥ ΥΓΙΕΙΝΗΣ
+Line 263: ΑΝΟΨΗ ΧΩΡΟΥ ΥΓΙΕΙΝΗΣ
+Line 264: P0
+Line 265: ΦΕΒΡΟΥΑΡΙΟΣ 2021
+Line 266: Υποβολή
+
+=== END OF FILTERED TEXT ===
+Total lines: 267

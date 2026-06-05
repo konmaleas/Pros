@@ -1,0 +1,22 @@
+=== FILTERED TEXT FOR: HELMOOB-TK07-DD-VAP-A1_401_ELEV_E01-E02.pdf ===
+
+Line   0: 2
+Line   1: 4
+Line   2: 2
+Line   3: 4
+Line   4: 2
+Line   5: 4
+Line   6: 2
+Line   7: 4
+Line   8: 01
+Line   9: 02
+Line  10: 03
+Line  11: 04
+Line  12: IE 08
+Line  13: 2
+Line  14: KITCHEN
+Line  15: KOYZINA
+Line  16: SUBMISSION
+
+=== END OF FILTERED TEXT ===
+Total lines: 17

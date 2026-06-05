@@ -1,0 +1,19 @@
+=== FILTERED TEXT FOR: Λ603-00.pdf ===
+
+Line   0: 2
+Line   1: 4
+Line   2: 2017
+Line   3: 2 2 2
+Line   4: 2 2 2
+Line   5: 2
+Line   6: 4
+Line   7: 05
+Line   8: 04
+Line   9: 03
+Line  10: 02
+Line  11: 01
+Line  12: 10439
+Line  13: 2017
+
+=== END OF FILTERED TEXT ===
+Total lines: 14

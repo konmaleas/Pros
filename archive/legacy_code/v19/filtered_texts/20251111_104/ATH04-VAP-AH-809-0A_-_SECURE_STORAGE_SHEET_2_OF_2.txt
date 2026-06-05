@@ -1,0 +1,138 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-809-0A_-_SECURE_STORAGE_SHEET_2_OF_2.pdf ===
+
+Line   0: GL
+Line   1: CEILING LEVEL
+Line   2: SECURE
+Line   3: STORAGE
+Line   4: ATH04 00 044
+Line   5: CEILING TYPE UNDERSIDE
+Line   6: METAL DECK
+Line   7: POWER FLOATED
+Line   8: CONCRETE SEALED
+Line   9: ASHFORD FORMULA SEALER
+Line  10: PREFINISHED STEEL
+Line  11: FIREMASTER WALLS
+Line  12: ID AD 051
+Line  13: WT
+Line  14: WT
+Line  15: 5250
+Line  16: SECURITY CAGE WALL SYSTEM
+Line  17: GL
+Line  18: CEILING LEVEL
+Line  19: CEILING TYPE UNDERSIDE
+Line  20: METAL DECK
+Line  21: POWER FLOATED
+Line  22: CONCRETE SEALED
+Line  23: ASHFORD FORMULA SEALER
+Line  24: VINYL COVED UPSTAND
+Line  25: PREFINISHED STEEL
+Line  26: FIREMASTER WALLS
+Line  27: SECURE
+Line  28: STORAGE
+Line  29: ATH04 00 044
+Line  30: WT
+Line  31: LT MEDITE LINER
+Line  32: SECURITY CAGE WALL SYSTEM
+Line  33: WT
+Line  34: GL
+Line  35: CEILING LEVEL
+Line  36: ID AD 043
+Line  37: WT
+Line  38: WT
+Line  39: PREFINISHED STEEL
+Line  40: FIREMASTER WALLS
+Line  41: POWER FLOATED
+Line  42: CONCRETE SEALED
+Line  43: ASHFORD FORMULA SEALER
+Line  44: VINYL COVED UPSTAND
+Line  45: CEILING TYPE UNDERSIDE
+Line  46: METAL DECK
+Line  47: SECURE
+Line  48: STORAGE
+Line  49: ATH04 00 044
+Line  50: 1525
+Line  51: WT
+Line  52: GL
+Line  53: CEILING LEVEL
+Line  54: LT MEDITE LINER
+Line  55: SECURE
+Line  56: STORAGE
+Line  57: ATH04 00 044
+Line  58: PREFINISHED STEEL
+Line  59: FIREMASTER WALLS
+Line  60: SECURITY CAGE WALL SYSTEM
+Line  61: POWER FLOATED
+Line  62: CONCRETE SEALED
+Line  63: ASHFORD FORMULA SEALER
+Line  64: VINYL COVED UPSTAND
+Line  65: CEILING TYPE UNDERSIDE
+Line  66: METAL DECK
+Line  67: WT
+Line  68: LT MEDITE LINER
+Line  69: ID AD 052
+Line  70: 1525
+Line  71: WT
+Line  72: 5250
+Line  73: NOTE
+Line  74: WALL TYPE LEGEND REFER DRAWING ATH04 A
+Line  75: ADMIN
+Line  76: COLO
+Line  77: COLO
+Line  78: TRUE NORTH
+Line  79: Sheet Title Number
+Line  80: Scale
+Line  81: Plan
+Line  82: Design Consultants
+Line  83: Microsoft
+Line  84: DATA CENTER ATH04
+Line  85: SPATA GREECE
+Line  86: Contractor Joint Venture
+Line  87: Name
+Line  88: Contractor Project
+Line  89: Contractor Contract
+Line  90: Contractor PM
+Line  91: Contractor BIM Mngr
+Line  92: Contractor Information
+Line  93: Renco Terna
+Line  94: Client
+Line  95: General Notes
+Line  96: Client Project
+Line  97: Client Contract
+Line  98: Client PM
+Line  99: Client BIM Mngr
+Line 100: Primary Client Information
+Line 101: Layout
+Line 102: Revision
+Line 103: Tombazi Chalandri
+Line 104: 15232
+Line 105: Athens Greece
+Line 106: 0800 3262
+Line 107: Agion Theodoron Square Athens
+Line 108: 10561
+Line 109: Athens Greece
+Line 110: Kimithois Agios Dimitrios
+Line 111: 17236
+Line 112: Athens Greece
+Line 113: Purpose Issue
+Line 114: Issue
+Line 115: Name
+Line 116: SECURE STORAGE SHEET
+Line 117: ATH04 VAP AH
+Line 118: SCALE
+Line 119: 07 SECURE STORAGE ELEVATION NORTH
+Line 120: SCALE
+Line 121: 07 SECURE STORAGE ELEVATION EAST
+Line 122: SCALE
+Line 123: 07 SECURE STORAGE ELEVATION SOUTH
+Line 124: SCALE
+Line 125: 07 SECURE STORAGE ELEVATION WEST
+Line 126: 1000
+Line 127: SCALE
+Line 128: Date
+Line 129: Description
+Line 130: 04
+Line 131: Issued Approval
+Line 132: VAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 133

@@ -1,0 +1,61 @@
+=== FILTERED TEXT FOR: 2307-ERIGON-VAP-ARCH-106-CIRCULATION_PLANS-TYPE_B_D.pdf ===
+
+Line   0: UNITS AREA
+Line   1: STAFF ACCOMMODATION TYPE
+Line   2: PLAN LEVEL 00
+Line   3: STAFF ACCOMMODATION TYPE
+Line   4: 2
+Line   5: PLAN LEVEL 01
+Line   6: ΚΛΙΜΑΚΑ
+Line   7: SCALE
+Line   8: ΣΧΕΔΙΟ
+Line   9: ΕΡΓΟ
+Line  10: ΗΜΕΡΟΜΗΝΙΑ ΕΚΔΟΣΗΣ
+Line  11: FIRST ISSUE DATE
+Line  12: ΠΕΡΙΟΧΗ
+Line  13: ZONE
+Line  14: ISSUED
+Line  15: CONSTRUCTION
+Line  16: APPROVAL
+Line  17: TENDER
+Line  18: STATUS
+Line  19: DRAFT
+Line  20: FINAL
+Line  21: DISCIPLINE
+Line  22: ARC
+Line  23: ΑΝΑΘ.
+Line  24: REV.
+Line  25: VAP
+Line  26: PROJECT
+Line  27: DRAWING
+Line  28: ΕΡΓΟΔΟΤΗΣ
+Line  29: CLIENT
+Line  30: Tompazi Chalandri
+Line  31: 3262 3269
+Line  32: ERIGON ECO SUITES
+Line  33: 4 RESORT
+Line  34: ΘΕΣΗ
+Line  35: LOCATION
+Line  36: KOPREZA HERMIONE, ARGOLIS
+Line  37: ΑΡΧΙΤΕΚΤΟΝIKH ΜΕΛΕΤΗ
+Line  38: ARCHITECTURAL DESIGN
+Line  39: ΣΤΑΤΙΚΗ ΜΕΛΕΤΗ
+Line  40: STRUCTURAL DESIGN
+Line  41: ΜΗΧΑΝΟΛΟΓΙΚΗ ΜΕΛΕΤΗ
+Line  42: MEP DESIGN
+Line  43: ΜΕΛΕΤΗ
+Line  44: STUDY
+Line  45: ARCHITECTURAL
+Line  46: PRELIMINARY DESIGN
+Line  47: ΣΤΑΔΙΟ
+Line  48: STAGE
+Line  49: VASSILIS ALEXANDROS POUTETSIS
+Line  50: ARCHITECTS ASSOCIATES IKE
+Line  51: ERIGON
+Line  52: 00
+Line  53: JANUARY 2024
+Line  54: STAFF ACCOMMODATION
+Line  55: CIRCULATION PLANS TYPE
+
+=== END OF FILTERED TEXT ===
+Total lines: 56

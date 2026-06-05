@@ -1,0 +1,177 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-760-0A_-_WATER_TREATMENT_BUILDING_ROOF_PLAN_AND_REFLECTED_CEILING_PLAN.pdf ===
+
+Line   0: AP
+Line   1: A
+Line   2: 762
+Line   3: 5250
+Line   4: 5250
+Line   5: 19600
+Line   6: 10175
+Line   7: 30150
+Line   8: 11250
+Line   9: 10500
+Line  10: RFS
+Line  11: Walkway
+Line  12: KALZIP Roof
+Line  13: 1829
+Line  14: 772
+Line  15: 772
+Line  16: Hopper
+Line  17: Hopper
+Line  18: GRAVEL PERIMETER CIVILS SPECIFICATION DETAILS
+Line  19: 471
+Line  20: RIB ROOF SPEED ZAMBELLI
+Line  21: STANDING SEAM ROOF
+Line  22: SOLAR PANELS
+Line  23: POLYESTER POWDER COATED PERMANENT
+Line  24: BALLASTED NON PENETRATING ROOF
+Line  25: GUARDING ROOF
+Line  26: LUX WALKWAY SYSTEM. REFER
+Line  27: SPECIFICATION DETAILS.
+Line  28: PHOTOVOLTAIC PANELS
+Line  29: SPECIALIST DESIGN
+Line  30: COORDINATED
+Line  31: Line Gutter
+Line  32: PARAPET CAPPING MATCH
+Line  33: CLADDING COLOUR
+Line  34: CEILING TYPE
+Line  35: PROPRIETARY SUSPENDED CEILING SYSTEM ARMSTRONG
+Line  36: ULTIMA BOARD CLEANROOM
+Line  37: CEILING LEGEND
+Line  38: CEILING TYPE
+Line  39: PLASTERBOARD CEILING PAINTED FINISH MOISTURE
+Line  40: RESISTANT PLASTERBOARD WET ROOMS
+Line  41: CEILING TYPE
+Line  42: SIDE METAL DECK
+Line  43: CEILING TYPE
+Line  44: AMSTRONG PRIMA DUNE SUPREME LAY BOARD
+Line  45: TILE, REFER SPECIFICATION DETAILS
+Line  46: CEILING TYPE
+Line  47: TRIMOTERM FTV CEILING
+Line  48: CEILING TYPE
+Line  49: ARMSTRONG OPTIMA LAY TILE SIMILAR
+Line  50: EQUAL APPROVED ASSOCIATED SUPPORT GRID SYSTEM
+Line  51: CEILING TAG
+Line  52: TYPE CEILING
+Line  53: LEVEL UNDERSIDE CEILING
+Line  54: CEILING TYPE
+Line  55: TATE MINERAL FIBRE HYGIENE RATED ACOUSTIC CEILING TILE
+Line  56: 1200 SUSPENDED CEILING STRUCTURAL GRID
+Line  57: CEILING TYPE
+Line  58: PROMAT FIRE RATED CEILING FR
+Line  59: CEILING TYPE
+Line  60: KINGSPAN BENCHMARK CASSETTE SOFFIT
+Line  61: NOTE CO ORDINATION REQUIRED AT CONSTRUCTION STAGE
+Line  62: SUSPENDED CEILING GRID MEP SERVICES LOCATIONS
+Line  63: ACCESS HATCH
+Line  64: CEILING TYPE
+Line  65: TRIMOTERM FTV CEILING
+Line  66: A
+Line  67: ATH04 00
+Line  68: SPRINKLER
+Line  69: VALVE ROOM
+Line  70: ATH04 00
+Line  71: PUMP ROOM
+Line  72: ATH04 00
+Line  73: SWITCH ROOM
+Line  74: ATH04 00
+Line  75: COMMS ROOM
+Line  76: ATH04 00
+Line  77: SWITCH ROOM
+Line  78: A
+Line  79: ATH04 00
+Line  80: STORE
+Line  81: 5250
+Line  82: 5250
+Line  83: CEILING
+Line  84: ATH04 00
+Line  85: STORE
+Line  86: CEILING
+Line  87: CEILING
+Line  88: CEILING
+Line  89: CEILING
+Line  90: CEILING
+Line  91: CEILING
+Line  92: 471
+Line  93: Sheet Title Number
+Line  94: Scale
+Line  95: Plan
+Line  96: Design Consultants
+Line  97: Microsoft
+Line  98: DATA CENTER ATH04
+Line  99: SPATA GREECE
+Line 100: Contractor Joint Venture
+Line 101: Name
+Line 102: Contractor Project
+Line 103: Contractor Contract
+Line 104: Contractor PM
+Line 105: Contractor BIM Mngr
+Line 106: Contractor Information
+Line 107: Renco Terna
+Line 108: Client
+Line 109: General Notes
+Line 110: Client Project
+Line 111: Client Contract
+Line 112: Client PM
+Line 113: Client BIM Mngr
+Line 114: Primary Client Information
+Line 115: Layout
+Line 116: Revision
+Line 117: Tombazi Chalandri
+Line 118: 15232
+Line 119: Athens Greece
+Line 120: 0800 3262
+Line 121: Agion Theodoron Square Athens
+Line 122: 10561
+Line 123: Athens Greece
+Line 124: Kimithois Agios Dimitrios
+Line 125: 17236
+Line 126: Athens Greece
+Line 127: Purpose Issue
+Line 128: Issue
+Line 129: Name
+Line 130: WATER TREATMENT BUILDING
+Line 131: ROOF PLAN REFLECTED
+Line 132: CEILING PLAN
+Line 133: ATH04 VAP AH 760
+Line 134: SCALE
+Line 135: ROOF PLAN
+Line 136: 1250
+Line 137: 2500
+Line 138: SCALE
+Line 139: Water Treatment Building Keynote Sheet
+Line 140: Value
+Line 141: Descrìption
+Line 142: 471
+Line 143: External Proprietary Flat Fixed
+Line 144: Fixed Mild
+Line 145: DRS
+Line 146: External High
+Line 147: Design Drawings Door Schedule. Core Construction
+Line 148: Steel Employer. Ironmongery
+Line 149: Door Schedule Hardware Schedule.
+Line 150: EWC
+Line 151: Composite Composite
+Line 152: Design Drawings,
+Line 153: Panel External Employer.
+Line 154: IWS
+Line 155: Internal Internal
+Line 156: Steel Employer.
+Line 157: RFS
+Line 158: Exhaust Pressed Design Drawings.
+Line 159: RWS
+Line 160: Aluminum Heavy Design Drawings
+Line 161: SCALE
+Line 162: REFLECTED CEILING PLAN
+Line 163: ADMIN
+Line 164: COLO
+Line 165: COLO
+Line 166: TRUE NORTH
+Line 167: Date
+Line 168: Description
+Line 169: 06
+Line 170: Issued Approval
+Line 171: VAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 172

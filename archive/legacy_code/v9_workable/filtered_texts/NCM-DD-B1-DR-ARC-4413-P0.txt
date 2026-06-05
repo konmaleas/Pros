@@ -1,0 +1,295 @@
+=== FILTERED TEXT FOR: NCM-DD-B1-DR-ARC-4413-P0.pdf ===
+
+Line   0: ΗΛΕΚ ΤΡΟΛ ΟΓΙ ΚΟ ΩΜΑ ΤΙΟ
+Line   1: ΟΙ ΙΣ
+Line   2: 00
+Line   3: ΣΤ ΟΙ ΗΣ
+Line   4: ΡΑ
+Line   5: ΟΒ ΟΛ ΙΧ ΟΣ ΠΑ
+Line   6: ΟΒ ΟΛ ΙΧ ΟΣ ΠΑ
+Line   7: ΘΑ
+Line   8: ΟΥ ΤΙ ΣΙ
+Line   9: EE
+Line  10: ΙΑ ΣΤ ΙΣ ΥΦ ΤΟ
+Line  11: GEN SET
+Line  12: GEN SET
+Line  13: CCU B1
+Line  14: CCU B1
+Line  15: CCU B1
+Line  16: CCU B1
+Line  17: OU
+Line  18: OU
+Line  19: OU
+Line  20: OU
+Line  21: OU
+Line  22: OU
+Line  23: ΨΥΚΤΗΣ CH
+Line  24: ΨΥΚΤΗΣ CH
+Line  25: ΨΥΚΤΗΣ CH
+Line  26: ΨΥΚΤΗΣ ΑΝ ΤΛΙΑ
+Line  27: ΘΕΡΜΟΤ ΗΤΑΣ CH
+Line  28: ΨΥΚΤΗΣ ΑΝ ΤΛΙΑ
+Line  29: ΘΕΡΜΟΤ ΗΤΑΣ CH
+Line  30: ΨΥΚΤΗΣ ΑΝ ΤΛΙΑ
+Line  31: ΘΕΡΜΟΤ ΗΤΑΣ CH
+Line  32: EM .SH.
+Line  33: ΤΟΙ ΑΠΟ ΜΠΕΤΟΝ ΜΕΧ ΠΛΑΚ ΒΛ. ΑΝΑΠΤΥ ΓΜΑΤΑ ΑΙ ΘΡ ΟΥ
+Line  34: ΚΕΝΤΡΙΚ ΟΣ ΠΙΝ ΑΚΑΣ ΑΝΟΜΗΣ
+Line  35: SB CH
+Line  36: ΚΕΝΤΡΙΚ ΟΣ ΠΙΝ ΑΚΑΣ ΑΝΟΜΗΣ
+Line  37: SB CH
+Line  38: ΗΛΕΚ ΤΡΟΛ ΟΓΙ ΚΟ ΩΜΑ ΤΙΟ
+Line  39: ΕΛΑΧΙΣΤΕΣ ΔΙΑΣΤΑΣΕΙΣ
+Line  40: ATS
+Line  41: ΚΛΙΣΗ
+Line  42: WC ΓΥΝΑΙΚΩΝ
+Line  43: 2400
+Line  44: 700
+Line  45: 400
+Line  46: 1100
+Line  47: 1000
+Line  48: 400
+Line  49: 450
+Line  50: 739
+Line  51: ΕΝΤΟΙΧΙΣΜΕΝΗ ΛΕΚΑΝΗ
+Line  52: ΧΑΜΗΛΟΣ ΠΑΓΚΟΣ ΚΑΙ ΝΙΠΤΗΡΕΣ ΑΠΟ ΑΣΠΡΟ
+Line  53: CORIAN
+Line  54: ΜΕ ΜΑΡΜΑΡΙΝΑ
+Line  55: ΒΡΥΣΗ
+Line  56: ΚΑΘΡΕΠΤΗ
+Line  57: ΛΕΥΚΗ ΜΑΡΜΑΡΙΝΗ
+Line  58: 1660
+Line  59: 1692
+Line  60: 2400
+Line  61: ΑΝΘΥΓΡΗ
+Line  62: WC ΓΥΝΑΙΚΩΝ
+Line  63: 2400
+Line  64: 1600
+Line  65: 450
+Line  66: 400
+Line  67: 1000
+Line  68: 1692
+Line  69: 1660
+Line  70: 774
+Line  71: 400
+Line  72: 700
+Line  73: 1100
+Line  74: ΕΝΤΟΙΧΙΣΜΕΝΗ ΛΕΚΑΝΗ
+Line  75: ΧΑΡΤΟΘΗΚΗ
+Line  76: WC ΤΥΠΟΥ THRISLINGTON FLOW
+Line  77: ΜΕ ΜΑΡΜΑΡΙΝΑ
+Line  78: ΚΑΘΡΕΠΤΗ
+Line  79: ΒΡΥΣ
+Line  80: ΛΕΥΚΗ ΜΑΡΜΑΡΙΝΗ
+Line  81: ΑΝΘΥΓΡΗ
+Line  82: 2400
+Line  83: 400
+Line  84: 1200
+Line  85: 2400
+Line  86: ΜΕ ΜΑΡΜΑΡΙΝΑ
+Line  87: ΚΑΛΑΘΟΣ ΑΧΡΗΣΤΩΝ ΠΛΑΣΤΙΚΟΣ
+Line  88: ΧΑΡΤΟΘΗΚΗ
+Line  89: ΕΝΤΟΙΧΙΣΜΕΝΗ ΛΕΚΑΝΗ
+Line  90: WC ΤΥΠΟΥ THRISLINGTON FLOW
+Line  91: ΛΕΥΚΗ ΜΑΡΜΑΡΙΝΗ
+Line  92: WC ΓΥΝΑΙΚΩΝ
+Line  93: 2400
+Line  94: ΑΝΘΥΓΡΗ
+Line  95: 2400
+Line  96: 1600
+Line  97: 1071
+Line  98: 1328
+Line  99: WC ΤΥΠΟΥ THRISLINGTON FLOW
+Line 100: ΜΕ ΜΑΡΜΑΡΙΝΑ
+Line 101: ΛΕΥΚΗ ΜΑΡΜΑΡΙΝΗ
+Line 102: 2422
+Line 103: 2611
+Line 104: 2400
+Line 105: ΑΝΘΥΓΡΗ
+Line 106: 450
+Line 107: 400
+Line 108: 1000
+Line 109: EQ
+Line 110: EQ
+Line 111: EQ
+Line 112: EQ
+Line 113: EQ
+Line 114: 1018
+Line 115: 1000
+Line 116: 1000
+Line 117: 2362
+Line 118: ΧΑΜΗΛΟΣ ΠΑΓΚΟΣ ΚΑΙ ΝΙΠΤΗΡΕΣ ΑΠΟ ΑΣΠΡΟ
+Line 119: CORIAN
+Line 120: ΚΑΘΡΕΠΤΗ
+Line 121: ΒΡΥΣΗ
+Line 122: WC ΓΥΝΑΙΚΩΝ
+Line 123: 2400
+Line 124: ΑΝΘΥΓΡΗ
+Line 125: 1600
+Line 126: 2400
+Line 127: ΣΤΕΓΝΩΜΑ ΧΕΡΙΩΝ ΠΙΣΩ ΑΠΟ ΚΑΘΡΕΠΤΗ
+Line 128: ΣΑΠΟΥΝΙ ΠΙΣΩ ΑΠΟ ΚΑΘΡΕΠΤΗ
+Line 129: ΤΟΙΧΟΥ ΜΕ ΚΕΡΑΜΙΚΕΣ ΠΛΑΚΕΣ
+Line 130: ΜΕ ΜΑΡΜΑΡΙΝΑ
+Line 131: ΝΤΟΥΛΑΠΙ ΣΥΛΛΕΚΤΗΣ
+Line 132: 1091
+Line 133: 1091
+Line 134: 1071
+Line 135: 1071
+Line 136: WC AMEA
+Line 137: 2400
+Line 138: ΑΝΘΥΓΡΗ
+Line 139: 1000
+Line 140: ΧΑΡΤΟΠΕΤΣΕΤΟΘΗΚΗ
+Line 141: ΝΙΠΤΗΡΑΣ ΕΛΕΥΘΕΡΟΣ
+Line 142: ΤΟΙΧΟΥ ΜΕ ΚΕΡΑΜΙΚΕΣ ΠΛΑΚΕΣ
+Line 143: ΜΕ ΜΑΡΜΑΡΙΝΑ
+Line 144: ΚΑΘΡΕΠΤΗΣ ΜΕ ΚΡΥΦΟ ΦΩΤΙΣΜΟ
+Line 145: WC AMEA
+Line 146: 2400
+Line 147: ΛΕΚΑΝΗ ΑΜΕΑ
+Line 148: ΥΓΡΟΥ ΣΑΠΟΥΝΙΟΥ ΕΠΙΤΟΙΧΙΟ
+Line 149: ΝΙΠΤΗΡΑΣ ΕΛΕΥΘΕΡΟΣ
+Line 150: ΧΑΡΤΟΠΕΤΣΕΤΟΘΗΚΗ
+Line 151: ΜΕ ΜΑΡΜΑΡΙΝΑ
+Line 152: ΤΟΙΧΟΥ ΜΕ ΚΕΡΑΜΙΚΕΣ ΠΛΑΚΕΣ
+Line 153: ΚΑΘΡΕΠΤΗΣ ΜΕ ΚΡΥΦΟ ΦΩΤΙΣΜΟ
+Line 154: 1000
+Line 155: 700
+Line 156: 1600
+Line 157: 2400
+Line 158: 1091
+Line 159: 1091
+Line 160: 2400
+Line 161: ΑΝΘΥΓΡΗ
+Line 162: ΝΤΟΥΛΑΠΙ ΣΥΛΛΕΚΤΗΣ
+Line 163: ΜΕ ΜΑΡΜΑΡΙΝΑ
+Line 164: ΤΟΙΧΟΥ ΜΕ ΚΕΡΑΜΙΚΕΣ ΠΛΑΚΕΣ
+Line 165: ΛΕΚΑΝΗ ΑΜΕΑ
+Line 166: ΥΓΡΟΥ ΣΑΠΟΥΝΙΟΥ ΕΠΙΤΟΙΧΙΟ
+Line 167: ΚΑΛΑΘΟΣ ΑΧΡΗΣΤΩΝ ΠΛΑΣΤΙΚΟΣ
+Line 168: ΧΑΡΤΟΘΗΚΗ
+Line 169: ΝΙΠΤΗΡΑΣ ΕΛΕΥΘΕΡΟΣ
+Line 170: ΚΑΘΡΕΠΤΗΣ ΜΕ ΚΡΥΦΟ ΦΩΤΙΣΜΟ
+Line 171: 1600
+Line 172: 2400
+Line 173: 1000
+Line 174: 700
+Line 175: 2400
+Line 176: ΑΝΘΥΓΡΗ
+Line 177: ΥΠΕΥΘΥΝΟΥ
+Line 178: ΗΜΕΡΟΜΗΝΙΑ
+Line 179: ONOMA
+Line 180: ΛΕΥΚΩΣΙΑ ΚΥΠΡΟΣ
+Line 181: ΝΕΟ ΚΥΠΡΙΑΚΟ ΜΟΥΣΕΙΟ
+Line 182: ΗΜΕΡΟΜΗΝΙΑ
+Line 183: ΕΓΚΡΙΘΗΚΕ
+Line 184: ΤΜΗΜ
+Line 185: ΗΜΕΡΟΜΗΝΙΑ
+Line 186: ΕΛΕΓΧΘΗΚΕ
+Line 187: ΤΜΗΜ
+Line 188: ΥΠΟΒΟΛΗ
+Line 189: ΑΡ.
+Line 190: ΥΠΟΥΡΓΕΙΟ ΜΕΤΑΦΟΡΩΝ, ΕΠΙΚΟΙΝΩΝΙΩΝ ΚΑΙ ΕΡΓΩΝ
+Line 191: ΤΜΗΜΑ ΕΡΓΩΝ
+Line 192: ΗΜΕΡΟΜΗΝΙΑ
+Line 193: ΠΕΡΙΕΧΟΜΕΝΟ
+Line 194: ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΜΕΛΕΤΗ
+Line 195: THEONI XANTHI XZA ARCHITECTS
+Line 196: ΥΠΕΥΘΥΝΟΣ ΕΡΓΟΥ
+Line 197: ΑΡΧΙΤΕΚΤΩΝ ΘΕΩΝΗ ΞΑΝΘΗ
+Line 198: ΣΥΝΕΡΓΑΤΕΣ ΑΡΧΙΤΕΚΤΟΝΕΣ
+Line 199: ΜΑΡΓΑΡΙΤΑ ΖΑΚΥΝΘΙΝΟΥ
+Line 200: ΣΥΝΤΟΝΙΣΤΗΣ ΑΡΧIT ΚΗΣ ΜΕΛΕΤΗΣ
+Line 201: ΚΟΣΜΑΣ ΒΑΡΚΑΡΟΛΗΣ
+Line 202: ΚΛΙΜΑΚ
+Line 203: DR ARC
+Line 204: NCM DD
+Line 205: ΜΕΛΕΤΗ ΕΦΑΡΜΟΓΗΣ DD
+Line 206: ΤΙΤΛΟΣ
+Line 207: ΕΡΓΑΣΙΑΣ
+Line 208: ΜΕΛΕΤΗΣ
+Line 209: ΑΡΧΙΤΕΚΤΟΝΙΚΗ
+Line 210: ΣΥΜΒΟΥΛΟΙ ΜΕΛΕΤΗΤΕΣ
+Line 211: ΚΑΤΑΛΛΗΛΟΤΗΤΑΣ
+Line 212: KEY
+Line 213: ΑΡΧΙΤΕΚΤΟΝΙΚΑ
+Line 214: YAP ARCHITECTS
+Line 215: ΣTATIK
+Line 216: RHOMBUS STRUCTURAL ENGINEERS LLC ΣΤ.
+Line 217: PENELIS CONSULTING ENGINEERS SA ΠΕΝΕΛΗΣ
+Line 218: GEORGHIOU ZEMBYLAS
+Line 219: ΜΗΧΑΝΟΛΟΓΙΚ
+Line 220: ΗΛΕΚΤΡΟΛΟΓΙΚ
+Line 221: ΜΟΥΣΕΙΟΛΟΓΙΚ
+Line 222: THETA ACOUSTICS LTD ΝΙΑΟΥΝΑΚΗΣ
+Line 223: ΑΚΟΥΣΤΙΚ
+Line 224: RODITIS PARTNERS
+Line 225: ΕΠΙΜΕΤΡΗΣΗ
+Line 226: ΠΟΣΟΤΗΤΩΝ
+Line 227: FLOROS PANTELI ASSOCIATES ΠΑΝΤΕΛΗ
+Line 228: ΥΓΕΙΑ
+Line 229: ΜΟΥΣΕΙΟΓΡΑΦΙΚ
+Line 230: ΘΩΜΑΣ
+Line 231: ΦΩΤΙΣΜΟΣ
+Line 232: DECO ASSOCIATES ΕΛ. ΝΤΕΚΩ
+Line 233: ΠΥΡΟΠΡΟΣΤΑΣΙ
+Line 234: INT FIRE CYPRUS LTD ΣΠ. ΣΠΥΡΟΥ
+Line 235: ΚΥΚΛΟΦΟΡΙΑΚ
+Line 236: DROMOS CONSULTING LTD ΖΕΚΚΟΣ
+Line 237: ΣΗΜΑΝΣΗ
+Line 238: POST SPECTACULAR OFFICE ΓΑΛΙΚΑΣ
+Line 239: ΚΤΗΡΙΟΥ
+Line 240: ARION PLUS
+Line 241: FEREOS ARCHITECTS LLC ΦΕΡΑΙΟΣ
+Line 242: Αναπλ. Υπεύθυνος Οµάδας Έργου
+Line 243: DROMOS CONSULTING LTD ΖΕΚΚΟΣ
+Line 244: ΓΕΩΤΕΧΝΙΚΑ
+Line 245: ΜΟΥΣΕΙΑΚΟΣ
+Line 246: XZA
+Line 247: ΒΑΣΙΛΕΙΟΥ
+Line 248: ΕΡΓΑΣΤΗΡΙ
+Line 249: VAP ARCHITECTS
+Line 250: Σύµβουλος Μελέτης Εφαρµογής
+Line 251: GEORGHIOU ZEMBYLAS
+Line 252: ANDREAS EVRIPIDOU CIVIL ENGINEERS
+Line 253: ΣΤΕΡΓΙΟΣ ΓΑΛΙΚΑΣ
+Line 254: ΘΩΜΑΣ
+Line 255: ΣΤΕΡΓΙΟΣ ΓΑΛΙΚΑΣ
+Line 256: Συνεργάτης ΤΣΑΜΠΙΚΟΣ ΠΕΤΡΑΣ
+Line 257: POST SPECTACULAR OFFICE ΓΑΛΙΚΑΣ
+Line 258: ΠΡΟΜΕΛΕΤΗ ΣΑΚΕΛΛΑΡΙΟΥ
+Line 259: ΦΥΣΙΚΟΣ
+Line 260: ΦΩΤΙΣΜΟΣ
+Line 261: ΤΣΑΓΚΡΑΣΟΥΛΗΣ
+Line 262: ΕΞΟΠΛΙΣΜΟΣ
+Line 263: ΚΟΥΖΙΝΑΣ
+Line 264: XENEX
+Line 265: ΕΝΕΡΓΕΙΑΚΑ
+Line 266: ΚΕΛΥΦΟΥΣ
+Line 267: METABUIL
+Line 268: ΓΡΑΦΙΣΤΙΚ
+Line 269: ΦΥΤΟΤΕΧΝΙΚ
+Line 270: LANDCO EΠΕ ΚΑΝΤΑΡΤΖΗΣ
+Line 271: ΦΕΒΡΟΥΑΡΙΟΣ 2021
+Line 272: P0
+Line 273: 2021 PM
+Line 274: 4413
+Line 275: B1
+Line 276: ΑΝΑΠΤΥΓΜΑΤΑ ΧΩΡΩΝ ΥΓΙΕΙΝΗΣ B1
+Line 277: 4413
+Line 278: ΧΩΡΟΙ ΥΓΙΕΙΝΗΣ ΟΨΗ
+Line 279: ΧΩΡΟΙ ΥΓΙΕΙΝΗΣ ΟΨΗ
+Line 280: ΧΩΡΟΙ ΥΓΙΕΙΝΗΣ ΟΨΗ
+Line 281: ΧΩΡΟΙ ΥΓΙΕΙΝΗΣ ΟΨΗ
+Line 282: ΧΩΡΟΙ ΥΓΙΕΙΝΗΣ ΟΨΗ
+Line 283: ΧΩΡΟΙ ΥΓΙΕΙΝΗΣ ΟΨΗ
+Line 284: ΧΩΡΟΙ ΥΓΙΕΙΝΗΣ ΟΨΗ
+Line 285: ΧΩΡΟΙ ΥΓΙΕΙΝΗΣ ΟΨΗ
+Line 286: ΧΩΡΟΙ ΥΓΙΕΙΝΗΣ ΟΨΗ
+Line 287: P0
+Line 288: ΦΕΒΡΟΥΑΡΙΟΣ 2021
+Line 289: Υποβολή
+
+=== END OF FILTERED TEXT ===
+Total lines: 290

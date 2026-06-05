@@ -1,0 +1,175 @@
+=== FILTERED TEXT FOR: FRD_5-02.pdf ===
+
+Line   0: First Floor Area 742
+Line   1: Total Area 1505
+Line   2: CEO CICO CEO
+Line   3: Chief
+Line   4: Infrastructure
+Line   5: Controls Officer
+Line   6: INF Project
+Line   7: Director
+Line   8: Infrastructure Park
+Line   9: Director
+Line  10: ADM ADM
+Line  11: Infra Department
+Line  12: Assistant
+Line  13: INF INF
+Line  14: INF PM GIS PM
+Line  15: Park PM
+Line  16: Archaeology
+Line  17: Cultural Heritage
+Line  18: INF INF
+Line  19: INF PM Sports
+Line  20: MEP Manager
+Line  21: Sports Project
+Line  22: Associate
+Line  23: KITCHENETTE
+Line  24: INF Project
+Line  25: Director
+Line  26: Infrastructure
+Line  27: INF Project
+Line  28: Director Sports
+Line  29: INF INF
+Line  30: PM AMEA
+Line  31: Project Associate
+Line  32: AMEA
+Line  33: INF INF
+Line  34: INF Project
+Line  35: Associate Infra
+Line  36: INF Project
+Line  37: Director Park
+Line  38: SO SO SO
+Line  39: Senior Security
+Line  40: Manager Quality
+Line  41: Associate PM MEP
+Line  42: SO Site
+Line  43: Operations Director
+Line  44: INF INF PM
+Line  45: Infra PM MEP Infra
+Line  46: CONFERENCE
+Line  47: SPARE
+Line  48: SPARE
+Line  49: CONFERENCE
+Line  50: CA INF Guest
+Line  51: Room Contracts
+Line  52: Director Staff
+Line  53: QS Manager
+Line  54: SO SO SO
+Line  55: SO Site
+Line  56: Operations
+Line  57: Technician
+Line  58: COPY
+Line  59: INF INF Site
+Line  60: Supervision Site
+Line  61: Supervision Sports
+Line  62: STORAGE
+Line  63: RC RC
+Line  64: Race Race
+Line  65: INF INF
+Line  66: Landscape MEP
+Line  67: Manager
+Line  68: Project Associate
+Line  69: Landscape
+Line  70: TP TP Surveyor
+Line  71: Surveyor
+Line  72: PC UPP
+Line  73: Programme
+Line  74: Controls Urban
+Line  75: Planning
+Line  76: Permitting Team
+Line  77: SO SO SO
+Line  78: Senior Health
+Line  79: Safety Manager
+Line  80: Environmental
+Line  81: Compliance
+Line  82: Associate Smart
+Line  83: Tech Manager
+Line  84: INF INF Site
+Line  85: Engineer
+Line  86: Landscape Site
+Line  87: Engineer
+Line  88: Landscape
+Line  89: WC
+Line  90: WC
+Line  91: ΑΝΑΒΑΤΟΡΙΟ ΑΜΕΑ
+Line  92: INF INF PM
+Line  93: Roads PM Civil
+Line  94: JANITOR
+Line  95: Spare Room
+Line  96: Space Room
+Line  97: ΕΣ
+Line  98: ΕΣ
+Line  99: ΕΣ
+Line 100: ΕΣ
+Line 101: ΕΣ
+Line 102: Πρός
+Line 103: ΚΠΠ
+Line 104: ΚΛΙΜΑΚΑ
+Line 105: SCALE
+Line 106: ΣΧΕΔΙΟ
+Line 107: ΗΜΕΡΟΜΗΝΙΑ ΕΚΔΟΣΗΣ
+Line 108: FIRST ISSUE DATE
+Line 109: ΣΦΡΑΓΙΔΑ
+Line 110: ΠΕΡΙΟΧΗ
+Line 111: ZONE
+Line 112: ISSUED
+Line 113: CONSTRUCTION
+Line 114: APPROVAL
+Line 115: TENDER
+Line 116: STATUS
+Line 117: DRAFT
+Line 118: FINAL
+Line 119: ΚΑΤ. ΜΕΛΕΤΗΣ
+Line 120: DISCIPLINE
+Line 121: ΑΝΑΘ.
+Line 122: REV.
+Line 123: DRAWING
+Line 124: LAYOYT LEGEND
+Line 125: ΥΠΟΜΝΗΜΑ ΠΙΝΑΚΙΔΟΠΟΙΗΣΗΣ
+Line 126: ΑΝΑΠΤΥΞΗ ΜΗΤΡΟΠΟΛΙΤΙΚΟΥ ΠΟΛΟΥ
+Line 127: ΕΛΛΗΝΙΚΟΥ ΚΟΣΜΑ
+Line 128: HELLINIKON DEVELOPMENT PROJECT
+Line 129: ΕΡΓΟ
+Line 130: PROJECT
+Line 131: ΕΡΓΟΤΑΞΙΑΚΑ ΓΡΑΦΕΙΑ ΕΛΛΗΝΙΚΟ
+Line 132: ELLINIKON SITE OFFICES
+Line 133: ΕΡΓΟΔΟΤΗΣ
+Line 134: CLIENT
+Line 135: PROJECT CONSULTANT
+Line 136: ΣΥΜΒΟΥΛΟΣ ΕΡΓΟΥ
+Line 137: ΜΕΛΕΤΗ
+Line 138: DESIGN
+Line 139: STAMP
+Line 140: ΕΛΛΗΝΙΚΟ
+Line 141: ELLINIKON
+Line 142: 00
+Line 143: ΚΑΤΟΨΗ ΟΡΟΦΟΥ
+Line 144: 04
+Line 145: FRD
+Line 146: 02
+Line 147: ΓΡΑΦΕΙΑ ΔΙΟΙΚΗΣΗΣ
+Line 148: ΕΠΙΒΛΕΨΗΣ
+Line 149: FIRST FLOOR
+Line 150: PLANVIEW
+Line 151: ADMINISTRATION
+Line 152: SUPERVISION
+Line 153: OFFICES
+Line 154: ΠΥΡΑΝΙΧΝΕΥΣΗ
+Line 155: FIRE DETECTION
+Line 156: SO
+Line 157: ΑΝΑΘΕΩΡΗΣΕΙΣ
+Line 158: ΠΕΡΙΓΡΑΦΗ DESCRIPTION
+Line 159: ΗΜ ΝΙΑ DATE
+Line 160: 00
+Line 161: Site Offices
+Line 162: 04 2023
+Line 163: Κεντρικός Πίνακας
+Line 164: Πυρανίχνευσης
+Line 165: Διευθυνσιοδοτούμενος
+Line 166: Διευθυνσιοδοτούμενος
+Line 167: Διευθυνσιοδοτούμενο
+Line 168: ΕΣ
+Line 169: Διευθυνσιοδοτούμενη
+
+=== END OF FILTERED TEXT ===
+Total lines: 170

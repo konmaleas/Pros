@@ -1,0 +1,289 @@
+=== FILTERED TEXT FOR: VAP-TW-D502-00.pdf ===
+
+Line   0: FFL
+Line   1: Clear
+Line   2: Glass
+Line   3: Aluminium
+Line   4: FFL
+Line   5: Clear
+Line   6: Glass
+Line   7: Aluminium
+Line   8: FFL
+Line   9: Clear
+Line  10: Glass
+Line  11: Aluminium
+Line  12: FFL
+Line  13: Clear
+Line  14: Glass
+Line  15: Aluminium
+Line  16: FFL
+Line  17: Clear
+Line  18: Glass
+Line  19: Aluminium
+Line  20: FFL
+Line  21: Clear
+Line  22: Glass
+Line  23: Aluminium
+Line  24: FFL
+Line  25: Clear
+Line  26: Glass
+Line  27: Aluminium
+Line  28: FFL
+Line  29: Clear
+Line  30: Glass
+Line  31: Aluminium
+Line  32: FFL
+Line  33: Clear
+Line  34: Glass
+Line  35: Aluminium
+Line  36: FFL
+Line  37: Clear
+Line  38: Glass
+Line  39: Aluminium
+Line  40: FFL
+Line  41: Clear
+Line  42: Glass
+Line  43: Aluminium
+Line  44: FFL
+Line  45: Clear
+Line  46: Glass
+Line  47: Aluminium
+Line  48: FFL
+Line  49: Clear
+Line  50: Glass
+Line  51: Aluminium
+Line  52: FFL
+Line  53: Clear
+Line  54: Glass
+Line  55: Aluminium
+Line  56: FFL
+Line  57: Clear
+Line  58: Glass
+Line  59: Aluminium
+Line  60: FFL
+Line  61: Clear
+Line  62: Glass
+Line  63: Aluminium
+Line  64: FFL
+Line  65: Clear
+Line  66: Glass
+Line  67: Aluminium
+Line  68: FFL
+Line  69: Clear
+Line  70: Glass
+Line  71: Aluminium
+Line  72: FFL
+Line  73: Clear
+Line  74: Glass
+Line  75: Aluminium
+Line  76: FFL
+Line  77: Clear
+Line  78: Glass
+Line  79: Aluminium
+Line  80: FFL
+Line  81: Clear
+Line  82: Glass
+Line  83: Aluminium
+Line  84: EQ
+Line  85: EQ
+Line  86: EQ
+Line  87: EQ
+Line  88: FFL
+Line  89: Opaque
+Line  90: Glass
+Line  91: Aluminium
+Line  92: FFL
+Line  93: Clear
+Line  94: Glass
+Line  95: Aluminium
+Line  96: FFL
+Line  97: Clear
+Line  98: Glass
+Line  99: Aluminium
+Line 100: FFL
+Line 101: Clear
+Line 102: Glass
+Line 103: Aluminium
+Line 104: FFL
+Line 105: Clear
+Line 106: Glass
+Line 107: Aluminium
+Line 108: FFL
+Line 109: Clear
+Line 110: Glass
+Line 111: Aluminium
+Line 112: FFL
+Line 113: Clear
+Line 114: Glass
+Line 115: Aluminium
+Line 116: FFL
+Line 117: Clear
+Line 118: Glass
+Line 119: Aluminium
+Line 120: REVISIONS
+Line 121: CLIENT
+Line 122: PROJECT
+Line 123: DESIGN STAGE
+Line 124: DATE
+Line 125: SCALE
+Line 126: FILE NAME
+Line 127: DRAWING TITLE
+Line 128: DRAWING
+Line 129: TAHLIA WALK
+Line 130: VAPARCHITECTS
+Line 131: Epirou Street
+Line 132: Athens, GR Greece
+Line 133: 3262
+Line 134: 3269
+Line 135: DESIGN ARCHITECTS
+Line 136: CONSULTANTS
+Line 137: STUDIO
+Line 138: Isavron
+Line 139: Lycabettus
+Line 140: Athens, GR 11471 Greece
+Line 141: ZAD DEVELOPMENT
+Line 142: STRUCTURAL ENGINEER
+Line 143: MEP ENGINEER
+Line 144: 01 PM
+Line 145: Curtain Wall Schedule
+Line 146: Detail Design
+Line 147: 2
+Line 148: 4
+Line 149: 47 48 49
+Line 150: 40 43 44 46
+Line 151: 45
+Line 152: Curtain Wall Schedule
+Line 153: Level
+Line 154: Mark
+Line 155: Description
+Line 156: Length
+Line 157: Unconnecte
+Line 158: Height
+Line 159: Comments
+Line 160: Level First Floor
+Line 161: Level First Floor
+Line 162: Aluminium Curtain Double
+Line 163: Level First Floor
+Line 164: Aluminium Curtain Double
+Line 165: Level First Floor
+Line 166: Aluminium Curtain Double
+Line 167: Level First Floor
+Line 168: Aluminium Curtain Double
+Line 169: Level First Floor
+Line 170: Aluminium Curtain Double
+Line 171: Level First Floor
+Line 172: Aluminium Curtain Double
+Line 173: Level First Floor
+Line 174: Aluminium Curtain Double
+Line 175: Level First Floor
+Line 176: Aluminium Curtain Double
+Line 177: Level First Floor
+Line 178: Aluminium Curtain Double
+Line 179: Level First Floor
+Line 180: Aluminium Curtain Double
+Line 181: Level First Floor
+Line 182: Aluminium Curtain Double
+Line 183: Level First Floor
+Line 184: Aluminium Curtain Double
+Line 185: Level First Floor
+Line 186: Aluminium Curtain Double
+Line 187: Level First Floor
+Line 188: Aluminium Curtain Double
+Line 189: Level First Floor
+Line 190: Aluminium Curtain Double
+Line 191: Level First Floor
+Line 192: Aluminium Curtain Double
+Line 193: Level First Floor
+Line 194: Aluminium Curtain Double
+Line 195: Curtain
+Line 196: Level First Floor
+Line 197: Aluminium Curtain Double
+Line 198: Level First Floor
+Line 199: Aluminium Curtain Double
+Line 200: Level First Floor
+Line 201: Aluminium Curtain Double
+Line 202: Level First Floor
+Line 203: Aluminium Curtain Double
+Line 204: Level First Floor
+Line 205: Aluminium Curtain Double
+Line 206: Level First Floor
+Line 207: Aluminium Curtain Double
+Line 208: Level First Floor
+Line 209: Internal
+Line 210: Interior WC
+Line 211: Level 2
+Line 212: Level 2
+Line 213: Aluminium Curtain Double
+Line 214: Level 2
+Line 215: Aluminium Curtain Double
+Line 216: Curtain Wall Schedule
+Line 217: Level
+Line 218: Mark
+Line 219: Description
+Line 220: Length
+Line 221: Unconnecte
+Line 222: Height
+Line 223: Comments
+Line 224: Level Ground Floor
+Line 225: Level Ground Floor
+Line 226: Aluminium Curtain Double
+Line 227: Level Ground Floor
+Line 228: Aluminium Curtain Double
+Line 229: Level Ground Floor
+Line 230: Aluminium Curtain Double
+Line 231: Level Ground Floor
+Line 232: Aluminium Curtain Double
+Line 233: Level Ground Floor
+Line 234: Aluminium Curtain Double
+Line 235: Level Ground Floor
+Line 236: Aluminium Curtain Double
+Line 237: Level Ground Floor
+Line 238: Aluminium Curtain Double
+Line 239: Level Ground Floor
+Line 240: Aluminium Curtain Double
+Line 241: Level Ground Floor
+Line 242: Aluminium Curtain Double
+Line 243: Level Ground Floor
+Line 244: Aluminium Curtain Double
+Line 245: Level Ground Floor
+Line 246: Aluminium Curtain Double
+Line 247: Level Ground Floor
+Line 248: Aluminium Curtain Double
+Line 249: Level Ground Floor
+Line 250: Aluminium Curtain Double
+Line 251: Level Ground Floor
+Line 252: Aluminium Curtain Double
+Line 253: Level Ground Floor
+Line 254: Aluminium Curtain Double
+Line 255: Level Ground Floor
+Line 256: Aluminium Curtain Double
+Line 257: Level Ground Floor
+Line 258: Aluminium Curtain Double
+Line 259: Level Ground Floor
+Line 260: Aluminium Curtain Double
+Line 261: Level Ground Floor
+Line 262: Aluminium Curtain Double
+Line 263: Level Ground Floor
+Line 264: Aluminium Curtain Double
+Line 265: Level Ground Floor
+Line 266: Aluminium Curtain Double
+Line 267: Level Ground Floor
+Line 268: Aluminium Curtain Double
+Line 269: Level Ground Floor
+Line 270: Internal
+Line 271: Level Ground Floor
+Line 272: Internal
+Line 273: Level Ground Floor
+Line 274: Internal
+Line 275: Level Ground Floor
+Line 276: Internal
+Line 277: Level Ground Floor
+Line 278: Internal
+Line 279: Level Ground Floor
+Line 280: Internal
+Line 281: Interior WC
+Line 282: Description
+Line 283: Date
+
+=== END OF FILTERED TEXT ===
+Total lines: 284

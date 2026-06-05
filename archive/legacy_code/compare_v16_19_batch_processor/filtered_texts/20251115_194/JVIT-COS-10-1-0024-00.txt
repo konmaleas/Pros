@@ -1,0 +1,264 @@
+=== FILTERED TEXT FOR: JVIT-COS-10-1-0024-00.pdf ===
+
+Line   0: SSL
+Line   1: SSL
+Line   2: Costume Shoe Storage
+Line   3: Projection Studio
+Line   4: Broadcast
+Line   5: Dimmer Room
+Line   6: ,00
+Line   7: WC
+Line   8: WC
+Line   9: Sound Lock
+Line  10: SOUND LOCK
+Line  11: Lift
+Line  12: Corridor
+Line  13: Fire
+Line  14: Fire Escape Staircase
+Line  15: Redundant Room
+Line  16: Fire
+Line  17: Escape Staircase
+Line  18: Escape Lobby
+Line  19: Escape Staircase
+Line  20: Walkway
+Line  21: Escape Staircase
+Line  22: 2
+Line  23: WC Lobby
+Line  24: Lounge
+Line  25: Lounge
+Line  26: Escape Staircase
+Line  27: FD
+Line  28: FD
+Line  29: FD
+Line  30: FD
+Line  31: DEVELOPED
+Line  32: FD
+Line  33: FD
+Line  34: DLS
+Line  35: TYP.
+Line  36: CSD
+Line  37: TYP.
+Line  38: CSD
+Line  39: GRILLE
+Line  40: RETURN AIR BOX
+Line  41: GALLERY 03
+Line  42: GALLERY 02
+Line  43: GALLERY 02
+Line  44: GALLERY 03
+Line  45: SA OP 05
+Line  46: SA OP 05
+Line  47: SA SEF OP 02
+Line  48: GRILLE
+Line  49: RETURN AIR BOX
+Line  50: FD
+Line  51: 2
+Line  52: 2
+Line  53: 4
+Line  54: 4
+Line  55: FD
+Line  56: FD
+Line  57: SA OP 05 CT
+Line  58: SA OP 05 ST
+Line  59: SEF OP
+Line  60: SA OP 02
+Line  61: SA OP 02
+Line  62: SA OP 02 CT
+Line  63: SA OP 02 CT
+Line  64: SA OP 02
+Line  65: SA OP 05
+Line  66: SA OP 05
+Line  67: SA OP 02
+Line  68: SA OP 05
+Line  69: SA OP 05
+Line  70: SA OP 05
+Line  71: SA OP 05
+Line  72: SA OP 05
+Line  73: FD
+Line  74: FD
+Line  75: FD
+Line  76: FD
+Line  77: SA OP 05
+Line  78: SA OP 02
+Line  79: FD
+Line  80: FD
+Line  81: FD
+Line  82: GLADDING
+Line  83: FIRE RESISTANT MATERIAL
+Line  84: GLACCING
+Line  85: FIRE PROOF SEAL
+Line  86: DEVELOPED
+Line  87: FD
+Line  88: FD
+Line  89: FD
+Line  90: NOTES
+Line  91: Sesmic
+Line  92: Fire
+Line  93: Acoustic
+Line  94: SYMBOLS
+Line  95: CABLE CONTAINMENT
+Line  96: SUPPLY AIR
+Line  97: RETURN AIR
+Line  98: SMOKE DUCT
+Line  99: AIR SUPPLY DUCT STAIRCASES
+Line 100: SPRINKLERS PIPING
+Line 101: GANTRY BEAM SYSTEM
+Line 102: DUCTS SUPPORT
+Line 103: PIPE SUPPORT
+Line 104: SPRINKLER HEAD
+Line 105: ɈɃP DUCT LEVEL
+Line 106: BOTTOM DUCT LEVEL
+Line 107: DUCTS INTERNAL GLADDING
+Line 108: DUCTS INTERNAL GLADDING
+Line 109: RPBW
+Line 110: RENZO PIANO BUILDING WORKSHOP
+Line 111: CONSULTANT
+Line 112: FRONT
+Line 113: ACOUSTIC DESIGN
+Line 114: ARUP Acoustics
+Line 115: THEATRE DESIGN CONSULTANT
+Line 116: THEATRE PROJECTS CONSULTANTS
+Line 117: LIBRARY CONSULTANT
+Line 118: LANDSCAPE DESIGN
+Line 119: DEBORAH NEVINS
+Line 120: Associates,
+Line 121: COLLABORATION
+Line 122: HELLI PANGALOU
+Line 123: MEP ENGINEER
+Line 124: ARUP
+Line 125: COLLABORATION
+Line 126: LDK
+Line 127: STRUCTURAL ENGINEER
+Line 128: EXPEDITION
+Line 129: COLLABORATION
+Line 130: OMETE
+Line 131: EXECUTIVE ARCHITECT
+Line 132: BETAPLAN
+Line 133: DESIGN ARCHITECT
+Line 134: TRAFFIC CONSULTANT
+Line 135: DENCO
+Line 136: PROJECT MANAGER COST CONSULTANT
+Line 137: FAITHFUL GOULD
+Line 138: Archives
+Line 139: 75004 Paris France
+Line 140: 44 4900
+Line 141: 42 78 0198
+Line 142: Aristodimou Street
+Line 143: Athens, GR 76 Greece
+Line 144: 72
+Line 145: 72
+Line 146: Regent Street, Morley House
+Line 147: London, UK
+Line 148: 44 1000
+Line 149: 44 1001
+Line 150: Asklipiou Street
+Line 151: Athens, GR 72 Greece
+Line 152: 30026
+Line 153: 44631
+Line 154: Fitzroy Street
+Line 155: 44 755 2191
+Line 156: 44 755 3743
+Line 157: Thivaidos Street
+Line 158: Athens, GR Greece
+Line 159: 96700
+Line 160: 96709
+Line 161: Lafayette Street, Suite
+Line 162: York, NY 10012 USA
+Line 163: 1125
+Line 164: Skoufa Street
+Line 165: Athens, GR 72 Greece
+Line 166: 6219
+Line 167: 9225
+Line 168: Linton House
+Line 169: Highgate Road
+Line 170: London, UK
+Line 171: 44 7284 5888
+Line 172: Alexi
+Line 173: Elizabeth Street
+Line 174: South Norwalk, CT 06854 3025 USA
+Line 175: 0830
+Line 176: 0835
+Line 177: Americas
+Line 178: York, NY 10013 USA
+Line 179: 2669
+Line 180: 1056
+Line 181: Varick Street
+Line 182: York, NY 10014 USA
+Line 183: 2220
+Line 184: 2253
+Line 185: Kifisias
+Line 186: Athens, GR Greece
+Line 187: 54801
+Line 188: 54800
+Line 189: Paradisou Street
+Line 190: Athens, GR Greece
+Line 191: 15245
+Line 192: 11951
+Line 193: AMA Alexi Marmot Associates
+Line 194: IRRIGATION DESIGN
+Line 195: SOTIRIOS MAVRAGANIS
+Line 196: 42 Vasileos Georgiou Street
+Line 197: Athens, GR Greece
+Line 198: SIGNAGE DESIGN
+Line 199: PARTNERS
+Line 200: Street
+Line 201: NY 10003 York USA
+Line 202: 4460
+Line 203: DATE
+Line 204: DESCRIPTION
+Line 205: REV.
+Line 206: SIGNATURE
+Line 207: DRAWN
+Line 208: CHECKED
+Line 209: APPROVED
+Line 210: BY
+Line 211: 2
+Line 212: 4
+Line 213: BY
+Line 214: BY
+Line 215: 01
+Line 216: BOT.
+Line 217: VAV.
+Line 218: Messogeion Avenue, Athens, GR 11526 Greece
+Line 219: 68000, 68098
+Line 220: Vasilissis Sofias Avenue, Athens, GR 11528 Greece
+Line 221: 72 41311, 72 41312
+Line 222: JV STAMP
+Line 223: CONSULTANT STAMP
+Line 224: CONSTRUCTION
+Line 225: INFORMATION
+Line 226: CANCELED
+Line 227: SCALE
+Line 228: ISSUED
+Line 229: APPROVAL STATUS
+Line 230: INFORMATION
+Line 231: APPROVAL
+Line 232: REVIEW
+Line 233: REFERENCED DRAWING NUMBER
+Line 234: ER DESIGN DRAWING
+Line 235: SHOP DRAWING
+Line 236: BUILT
+Line 237: AUTHOR
+Line 238: DISCIPLINE
+Line 239: ZONE
+Line 240: DRWG TYPE
+Line 241: REV.
+Line 242: JVIT
+Line 243: QR CODE
+Line 244: COS
+Line 245: 0024
+Line 246: 00
+Line 247: FIRST ISSUE DATE
+Line 248: CONSTRUCTION
+Line 249: ADDITIONAL DESIGN DRAWING
+Line 250: COMMENTS
+Line 251: COMMENTS
+Line 252: 2013
+Line 253: JVIT STATUS
+Line 254: Katsimpokis
+Line 255: OPERA
+Line 256: PLAN LEVEL 04 COMBINED SERVICES
+Line 257: MEP ELECTRICAL INSTALATIONS DUCTS
+Line 258: REAR SIDE STAGES
+
+=== END OF FILTERED TEXT ===
+Total lines: 259

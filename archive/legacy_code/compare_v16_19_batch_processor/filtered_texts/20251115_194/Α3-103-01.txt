@@ -1,0 +1,157 @@
+=== FILTERED TEXT FOR: Α3-103-01.pdf ===
+
+Line   0: NTOYZ
+Line   1: 1174
+Line   2: EQ
+Line   3: EQ
+Line   4: 4
+Line   5: ΚΡΕΜΑΣΤΗ
+Line   6: ΑΠΟΡΥΜΜΑΤΩΝ
+Line   7: ΕΝΤΟΙΧΙΣΜΕΝΟ
+Line   8: KAZANAKI ΜΕ
+Line   9: ΠΛΑΚΕΤΑ
+Line  10: EQ
+Line  11: EQ
+Line  12: 1280
+Line  13: ΚΕΦΑΛΗ ΝΤΟΥΖ
+Line  14: NTOYZ
+Line  15: EQ
+Line  16: EQ
+Line  17: EQ
+Line  18: EQ
+Line  19: EQ
+Line  20: EQ
+Line  21: 400
+Line  22: 400
+Line  23: 4
+Line  24: EQEQ
+Line  25: Level
+Line  26: Level
+Line  27: ΕΝΤΟΙΧΙΣΜΕΝΟ
+Line  28: KAZANAKI ΜΕ
+Line  29: ΠΛΑΚΕΤΑ
+Line  30: ΚΡΕΜΑΣΤΗ
+Line  31: 420
+Line  32: ΓΡΑΜΜΙΚΟ ΣΤΟΜΙΟ
+Line  33: ΕΞΑΕΡΙΣΜΟΥ
+Line  34: Level
+Line  35: Level
+Line  36: 2200
+Line  37: ΑΠΟΡΥΜΜΑΤΩΝ
+Line  38: ΕΝΤΟΙΧΙΣΜΕΝΟ
+Line  39: KAZANAKI ΜΕ
+Line  40: ΠΛΑΚΕΤΑ
+Line  41: ΚΕΦΑΛΗ
+Line  42: ΝΤΟΥΖ
+Line  43: ΕΝΘΕΤΟ
+Line  44: ΜΕΤΑΛΛΙΚΟ
+Line  45: ΠΡΟΦΙΛ ΣΤΗΡΙΞΗΣ
+Line  46: 420
+Line  47: ΚΡΕΜΑΣΤΗ
+Line  48: 1000
+Line  49: Level
+Line  50: Level
+Line  51: ΕΝΤΟΙΧΙΣΜΕΝΟ
+Line  52: KAZANAKI ΜΕ
+Line  53: ΠΛΑΚΕΤΑ
+Line  54: 420
+Line  55: ΚΡΕΜΑΣΤΗ
+Line  56: ΓΡΑΜΜΙΚΟ ΣΤΟΜΙΟ
+Line  57: ΕΞΑΕΡΙΣΜΟΥ
+Line  58: Level
+Line  59: Level
+Line  60: ΚΕΦΑΛΗ
+Line  61: ΝΤΟΥΖ
+Line  62: 2200
+Line  63: ΕΝΘΕΤΟ ΜΕΤΑΛΛΙΚΟ ΠΡΟΦΙΛ
+Line  64: ΣΤΗΡΙΞΗΣ
+Line  65: ΓΡΑΜΜΙΚΟ
+Line  66: ΣΙΦΩΝΙ ΑΠΟΡΡΟΗΣ
+Line  67: Level
+Line  68: Level
+Line  69: 2200
+Line  70: ΚΕΦΑΛΗ
+Line  71: ΝΤΟΥΖ
+Line  72: ΓΡΑΜΜΙΚΟ
+Line  73: ΣΙΦΩΝΙ ΑΠΟΡΡΟΗΣ
+Line  74: Level
+Line  75: Level
+Line  76: ΕΝΘΕΤΟ
+Line  77: ΜΕΤΑΛΛΙΚΟ
+Line  78: ΠΡΟΦΙΛ ΣΤΗΡΙΞΗΣ
+Line  79: 2 2 2
+Line  80: 2 2 2
+Line  81: 4
+Line  82: 2
+Line  83: ΚΛΙΜΑΚΑ
+Line  84: ΚΑΤΗΓΟΡΙΑ
+Line  85: ΚΥΡΙΟΣ ΕΡΓΟΥ
+Line  86: ΕΡΓΟ
+Line  87: ΑΡΙΘΜΟΣ ΣΧΕΔΙΟΥ
+Line  88: ΗΜΕΡΟΜΗΝΙΑ ΜΕΛΕΤΗΣ
+Line  89: VAP ARCHITECTS
+Line  90: Ηπείρου Αθήνα Ελλάδα
+Line  91: 3262 3269
+Line  92: ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΜΕΛΕΤΗ
+Line  93: ΣΤΑΔΙΟ ΜΕΛΕΤΗΣ
+Line  94: Όλες
+Line  95: ΣΥΝΕΡΓΑΤΕΣ ΜΕΛΕΤΗΣ ΕΦΑΡΜΟΓΗΣ
+Line  96: ΚΛΕΙΔΑ
+Line  97: ΣΧΕΔΙΟ
+Line  98: HΜ ΝΙΑ ΣΧΕΔΙΟΥ
+Line  99: ΑΚΟΥΣΤΙΚΗ ΜΕΛΕΤΗ
+Line 100: ΜΕΛΕΤΗ ΦΩΤΙΣΜΟΥ
+Line 101: ΣΤΑΤΙΚΗ ΜΕΛΕΤΗ
+Line 102: ΜΗΧΑΝΟΛΟΓΙΚΗ ΜΕΛΕΤΗ
+Line 103: Ροστάν 44, 41, Αθήνα
+Line 104: 771, 2023
+Line 105: Σύμβουλοι Μηχανικοί
+Line 106: ΠΑΡΑΤΗΡΗΣΕΙΣ
+Line 107: ΕΡΕΙΣΜΑ
+Line 108: ΤΕΧΝΙΚΗ ΕΤΑΙΡΕΙΑ
+Line 109: Νάξου Κηφισιά
+Line 110: Παρασκευής Χαλάνδρι
+Line 111: 42 094,
+Line 112: IFI
+Line 113: Gottfried Schubert
+Line 114: Acoustical Consultant
+Line 115: INTRA ΞΕΝΟΔΟΧΕΙΑΚΗ
+Line 116: 2 2016
+Line 117: ΠΙΛΟΤΙΚΟ ΔΩΜΑΤΙΟ
+Line 118: ΑΝΑΚΑΤΑΣΚΕΥΗ ΞΕΝΟΔΟΧΕΙΟΥ
+Line 119: ΣΤΗΝ ΜΥΚΟΝΟ
+Line 120: ΟΚΤΩΒΡΙΟΣ 2016
+Line 121: ΜΕΛΕΤΗ ΕΦΑΡΜΟΓΗΣ
+Line 122: Πλατύς Γιαλός Μύκονος
+Line 123: ΑΝΑΠΤΥΓΜΑ
+Line 124: 2016
+Line 125: 01
+Line 126: ΚΑΤΟΨΗ NTOYZ
+Line 127: 2
+Line 128: ΑΝΟΨΗ NTOYZ
+Line 129: ΕΣΩΤΕΡΙΚΗ ΟΨΗ DOUCHE
+Line 130: 4
+Line 131: ΕΣΩΤΕΡΙΚΗ ΟΨΗ DOUCHE 2
+Line 132: ΕΣΩΤΕΡΙΚΗ ΟΨΗ DOUCHE
+Line 133: ΕΣΩΤΕΡΙΚΗ ΟΨΗ DOUCHE
+Line 134: ΕΣΩΤΕΡΙΚΗ ΟΨΗ DOUCHE
+Line 135: ΕΣΩΤΕΡΙΚΗ ΟΨΗ DOUCHE 4
+Line 136: ΕΠΙΣΚΕΨΗΣ
+Line 137: ΓΡΑΜΜΙΚΟ ΣΤΟΜΙΟ
+Line 138: ΕΞΑΕΡΙΣΜΟΥ
+Line 139: ΓΡΑΜΜΙΚΟ ΣΤΟΜΙΟ
+Line 140: ΕΞΑΕΡΙΣΜΟΥ
+Line 141: 02 2016
+Line 142: 01
+Line 143: ΑΝΑΘΕΩΡΗΣΕΙΣ
+Line 144: ΠΕΡΙΓΡΑΦΗ
+Line 145: ΗΜ ΝΙΑ
+Line 146: 00
+Line 147: ΠΡΩΤΗ ΕΚΔΟΣΗ
+Line 148: 2016
+Line 149: 01
+Line 150: ΤΡΟΠΟΠΟΙΗΣΕΙΣ
+Line 151: 02 2016
+
+=== END OF FILTERED TEXT ===
+Total lines: 152

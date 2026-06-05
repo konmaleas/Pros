@@ -1,0 +1,132 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-1024-0A_BUILDERS_WORK_MEP_PENETRATIONS_-_COLO_STORE.pdf ===
+
+Line   0: 1024
+Line   1: 1024
+Line   2: 1024
+Line   3: WALL REFER ATH04 VAP AH 1004
+Line   4: COLO STORE
+Line   5: ATH04 00 056
+Line   6: GL
+Line   7: CEILING LEVEL
+Line   8: YD
+Line   9: MP AD 056 01
+Line  10: MP AD 056 02
+Line  11: MP AD 056 03
+Line  12: MP AD 056 04
+Line  13: MP AD 056 06
+Line  14: MP AD 056 07
+Line  15: MP AD 056 05
+Line  16: 1640
+Line  17: 1350
+Line  18: 2640
+Line  19: 2260
+Line  20: 2640
+Line  21: 1350
+Line  22: 770
+Line  23: 3875
+Line  24: 4945
+Line  25: 700
+Line  26: 3000
+Line  27: 2240
+Line  28: MP AD 056 08
+Line  29: MP AD 056 09
+Line  30: MP AD 056
+Line  31: COLO STORE
+Line  32: ATH04 00 056
+Line  33: 1310
+Line  34: GL
+Line  35: CEILING LEVEL
+Line  36: YD
+Line  37: COLO STORE
+Line  38: ATH04 00 056
+Line  39: MP AD 056
+Line  40: MP AD 056
+Line  41: MP AD 056
+Line  42: MP AD 056
+Line  43: MP AD 056
+Line  44: MP AD 056
+Line  45: 1035
+Line  46: 1060
+Line  47: 2030
+Line  48: 1350
+Line  49: 1640
+Line  50: 3825
+Line  51: 3700
+Line  52: 1260
+Line  53: 5090
+Line  54: GL
+Line  55: CEILING LEVEL
+Line  56: COLO STORE
+Line  57: ATH04 00 056
+Line  58: MP AD 036
+Line  59: 4390
+Line  60: MEP PENETRATIONS CODE
+Line  61: MP AD XXX XX
+Line  62: MP
+Line  63: MEP PENETRATIONS
+Line  64: AD
+Line  65: BUILDING CODE
+Line  66: XXX
+Line  67: ROOM NUMBER
+Line  68: XX
+Line  69: PENETRATION NUMBER
+Line  70: ADMIN
+Line  71: COLO
+Line  72: COLO
+Line  73: TRUE NORTH
+Line  74: Sheet Title Number
+Line  75: Scale
+Line  76: Plan
+Line  77: Design Consultants
+Line  78: Microsoft
+Line  79: DATA CENTER ATH04
+Line  80: SPATA GREECE
+Line  81: Contractor Joint Venture
+Line  82: Name
+Line  83: Contractor Project
+Line  84: Contractor Contract
+Line  85: Contractor PM
+Line  86: Contractor BIM Mngr
+Line  87: Contractor Information
+Line  88: Renco Terna
+Line  89: Client
+Line  90: General Notes
+Line  91: Client Project
+Line  92: Client Contract
+Line  93: Client PM
+Line  94: Client BIM Mngr
+Line  95: Primary Client Information
+Line  96: Layout
+Line  97: Revision
+Line  98: Tombazi Chalandri
+Line  99: 15232
+Line 100: Athens Greece
+Line 101: 0800 3262
+Line 102: Agion Theodoron Square Athens
+Line 103: 10561
+Line 104: Athens Greece
+Line 105: Kimithois Agios Dimitrios
+Line 106: 17236
+Line 107: Athens Greece
+Line 108: Purpose Issue
+Line 109: Issue
+Line 110: Name
+Line 111: BUILDERS WORK MEP PENETRATIONS
+Line 112: COLO STORE
+Line 113: ATH04 VAP AH 1024
+Line 114: 1000
+Line 115: SCALE
+Line 116: SCALE
+Line 117: 056 COLO STORE ELEVATION MEP PENETRATIONS
+Line 118: SCALE
+Line 119: 056 COLO STORE ELEVATION MEP PENETRATIONS
+Line 120: SCALE
+Line 121: 056 COLO STORE ELEVATION MEP PENETRATIONS
+Line 122: Date
+Line 123: Description
+Line 124: 07
+Line 125: Issued Approval
+Line 126: VAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 127

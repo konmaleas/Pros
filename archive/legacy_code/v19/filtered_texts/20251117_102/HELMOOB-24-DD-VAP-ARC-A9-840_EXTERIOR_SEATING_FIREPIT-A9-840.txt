@@ -1,0 +1,24 @@
+=== FILTERED TEXT FOR: HELMOOB-24-DD-VAP-ARC-A9-840_EXTERIOR_SEATING_FIREPIT-A9-840.pdf ===
+
+Line   0: OUTDOOR
+Line   1: FIREPIT
+Line   2: 725
+Line   3: 703
+Line   4: 1600
+Line   5: 1955
+Line   6: 1120
+Line   7: 1475
+Line   8: 725
+Line   9: 703
+Line  10: 3158
+Line  11: 1149
+Line  12: 2180
+Line  13: 74
+Line  14: 1500
+Line  15: 1200
+Line  16: 1200
+Line  17: 1000
+Line  18: 3900
+
+=== END OF FILTERED TEXT ===
+Total lines: 19

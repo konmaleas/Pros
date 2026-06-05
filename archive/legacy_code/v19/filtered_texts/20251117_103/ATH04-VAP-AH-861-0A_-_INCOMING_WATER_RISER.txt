@@ -1,0 +1,142 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-861-0A_-_INCOMING_WATER_RISER.pdf ===
+
+Line   0: GL
+Line   1: CEILING LEVEL
+Line   2: INCOMING
+Line   3: WATER
+Line   4: RISER
+Line   5: ATH04 00 055
+Line   6: WT
+Line   7: YF
+Line   8: INCOMING
+Line   9: WATER
+Line  10: RISER
+Line  11: ATH04 00 055
+Line  12: EUROCLAD
+Line  13: COMPOSITE ARCHITECTURAL
+Line  14: FACADE SYSTEM,
+Line  15: HORIZONTALLY LAID
+Line  16: SELECTED RAL COLOUR.
+Line  17: REFER
+Line  18: SPECIFICATIONS DETAILS
+Line  19: 2445
+Line  20: 1230
+Line  21: WT
+Line  22: WT
+Line  23: ED AD 019
+Line  24: GL
+Line  25: CEILING LEVEL
+Line  26: YF
+Line  27: INCOMING
+Line  28: WATER
+Line  29: RISER
+Line  30: ATH04 00 055
+Line  31: CEILING TYPE UNDERSIDE
+Line  32: METAL DECK
+Line  33: POWER FLOATED
+Line  34: CONCRETE SEALED
+Line  35: ASHFORD FORMULA SEALER
+Line  36: PREFINISHED STEEL
+Line  37: INSULATED PANEL RAL 9010
+Line  38: WT
+Line  39: WT
+Line  40: WT
+Line  41: GL
+Line  42: CEILING LEVEL
+Line  43: PREFINISHED STEEL
+Line  44: INSULATED PANEL RAL 9010
+Line  45: CEILING TYPE UNDERSIDE
+Line  46: METAL DECK
+Line  47: POWER FLOATED
+Line  48: CONCRETE SEALED
+Line  49: ASHFORD FORMULA SEALER
+Line  50: INCOMING
+Line  51: WATER
+Line  52: RISER
+Line  53: ATH04 00 055
+Line  54: WT
+Line  55: WT
+Line  56: GL
+Line  57: CEILING LEVEL
+Line  58: YF
+Line  59: INCOMING
+Line  60: WATER
+Line  61: RISER
+Line  62: ATH04 00 055
+Line  63: POWER FLOATED
+Line  64: CONCRETE SEALED
+Line  65: ASHFORD FORMULA SEALER
+Line  66: CEILING TYPE UNDERSIDE
+Line  67: METAL DECK
+Line  68: PREFINISHED STEEL
+Line  69: INSULATED PANEL RAL 9010
+Line  70: INSULATED TRAPEZOIDAL
+Line  71: ROOF PANEL
+Line  72: ED AD 019
+Line  73: WT
+Line  74: NOTE
+Line  75: WALL TYPE LEGEND REFER DRAWING ATH04 A
+Line  76: ADMIN
+Line  77: COLO
+Line  78: COLO
+Line  79: TRUE NORTH
+Line  80: Sheet Title Number
+Line  81: Scale
+Line  82: Plan
+Line  83: Design Consultants
+Line  84: Microsoft
+Line  85: DATA CENTER ATH04
+Line  86: SPATA GREECE
+Line  87: Contractor Joint Venture
+Line  88: Name
+Line  89: Contractor Project
+Line  90: Contractor Contract
+Line  91: Contractor PM
+Line  92: Contractor BIM Mngr
+Line  93: Contractor Information
+Line  94: Renco Terna
+Line  95: Client
+Line  96: General Notes
+Line  97: Client Project
+Line  98: Client Contract
+Line  99: Client PM
+Line 100: Client BIM Mngr
+Line 101: Primary Client Information
+Line 102: Layout
+Line 103: Revision
+Line 104: Tombazi Chalandri
+Line 105: 15232
+Line 106: Athens Greece
+Line 107: 0800 3262
+Line 108: Agion Theodoron Square Athens
+Line 109: 10561
+Line 110: Athens Greece
+Line 111: Kimithois Agios Dimitrios
+Line 112: 17236
+Line 113: Athens Greece
+Line 114: Purpose Issue
+Line 115: Issue
+Line 116: Name
+Line 117: INCOMING WATER RISER
+Line 118: ATH04 VAP AH
+Line 119: SCALE
+Line 120: 43 INCOMING WATER RISER ELEVATION
+Line 121: SCALE
+Line 122: 43 ADMIN INCOMING WATER RISER FLOOR PLAN
+Line 123: SCALE
+Line 124: 43 INCOMING WATER RISER ELEVATION
+Line 125: SCALE
+Line 126: 43 INCOMING WATER RISER ELEVATION
+Line 127: SCALE
+Line 128: 43 INCOMING WATER RISER ELEVATION
+Line 129: SCALE
+Line 130: 43 ADMIN INCOMING WATER RISER
+Line 131: Secondary
+Line 132: Date
+Line 133: Description
+Line 134: 04
+Line 135: Issued Approval
+Line 136: VAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 137

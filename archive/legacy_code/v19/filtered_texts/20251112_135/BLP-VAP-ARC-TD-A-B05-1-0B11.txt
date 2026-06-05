@@ -1,0 +1,327 @@
+=== FILTERED TEXT FOR: BLP-VAP-ARC-TD-A-B05-1-0B11.pdf ===
+
+Line   0: Άνοιγμα
+Line   1: Μηχανοστασίου Ισογείου
+Line   2: ΜΗΧΑΝΟΣΤΑΣΙΟ
+Line   3: ΠΙΣΙΝΑΣ
+Line   4: ΔΕΞΑΜΕΝΗ
+Line   5: ΥΠΕΡΧΕΙΛΙΣΗΣ
+Line   6: Ανθρωποθυρίδα
+Line   7: Πρόσβασης
+Line   8: Δεξαμενή Υπερχείλισης
+Line   9: 0002
+Line  10: 0002
+Line  11: 0002
+Line  12: 0002
+Line  13: 0001
+Line  14: 0001
+Line  15: 0001
+Line  16: 1 1
+Line  17: 0001
+Line  18: 1 1
+Line  19: 0003
+Line  20: 0003
+Line  21: 0004
+Line  22: 0004
+Line  23: 0003
+Line  24: 0003
+Line  25: 0004
+Line  26: 0004
+Line  27: 0001
+Line  28: A
+Line  29: 0001
+Line  30: 0002
+Line  31: 0002
+Line  32: 0002
+Line  33: 0002
+Line  34: ΑΝΑΘΕΩΡΗΣΕΙΣ
+Line  35: SCALE
+Line  36: FIRST ISSUE DATE
+Line  37: DRAWING
+Line  38: PROJECT
+Line  39: CLIENT
+Line  40: PROJECT IMPLEMENTATION
+Line  41: CONSULTANT
+Line  42: 3262
+Line  43: ISSUED
+Line  44: CONSTRUCTION
+Line  45: APPROVAL
+Line  46: TENDER
+Line  47: STATUS
+Line  48: DRAFT
+Line  49: FINAL
+Line  50: .TD
+Line  51: ARC
+Line  52: AREA
+Line  53: BLP
+Line  54: VAP
+Line  55: BUILDING
+Line  56: DWG TYPE
+Line  57: CODE NUMBER
+Line  58: REV.
+Line  59: PROJECT
+Line  60: AUTHOR
+Line  61: DISCIPLINE
+Line  62: STAGE
+Line  63: ARCHITECTURAL DESIGN
+Line  64: 1
+Line  65: 1
+Line  66: 1 1
+Line  67: 1 1 1
+Line  68: MEP DESIGN
+Line  69: STRUCTURAL DESIGN
+Line  70: ZERVOS
+Line  71: CONSULTING ENGINEERS
+Line  72: 79 November Thessaloniki, PC
+Line  73: 2314 400
+Line  74: Kyprion Agoniston Agios Nikolaos, Crete, PC 72100
+Line  75: 28410 22906
+Line  76: STAMP
+Line  77: WIP
+Line  78: RW
+Line  79: BLUE PALACE
+Line  80: PHĀEA RESORTS
+Line  81: Golf Residences
+Line  82: LOCATION
+Line  83: PLAKA, ELOUNDA, CRETE 72053, GREECE
+Line  84: DISCIPLINE
+Line  85: ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΜΕΛΕΤΗ ΕΦΑΡΜΟΓΗΣ
+Line  86: TECHNICAL DESIGN
+Line  87: LIGHTING DESIGN
+Line  88: KEYPLAN
+Line  89: LANDSCAPE DESIGN
+Line  90: Floor, 42 Earlham London United Kingdom
+Line  91: ΣΗΜΕΙΩΣΕΙΣ
+Line  92: 1.
+Line  93: Ǖǖǘǝǎ
+Line  94: ǋǂǕƽ
+Line  95: ǄǊǂ
+Line  96: ǗǐǒƾǂǓ
+Line  97: Ƶǂ
+Line  98: ǍǂǓ ƬǕƧ
+Line  99: SPECIAL CONCRETE ARTEVIA STONE ARCHITECTURAL CONCRETE
+Line 100: ΤΣΙΜΕΝΤΟΚΟΝΙΑ
+Line 101: WALLS TOIXOI
+Line 102: LEGEND MATERIALS SYMBOLS
+Line 103: ΥΠΟΜΝΗΜΑ ΥΛΙΚΩΝ ΣΥΜΒΟΛΙΣΜΩΝ
+Line 104: ΣΤΑΘΜΗ ΤΕΛΙΚΟΥ ΔΑΠΕΔΟΥ
+Line 105: LEVEL
+Line 106: ΣΤΑΘΜΗ ΜΠΕΤΟΝ
+Line 107: STRUCTURE LEVEL
+Line 108: MARBLE TILES SINAI PEARL SANDBLASTED, ANTIQUED, BRUSHED, STAINPROOF
+Line 109: ΔΑΠΕΔΟ ΑΠΟ ΠΛΑΚΕΣ ΜΑΡΜΑΡΟΥ SINAI PEARL
+Line 110: ΑΞΟΝΕΣ ΣΧΕΔΙΟΥ DWG AXES
+Line 111: ΕΝΔΕΙΞΗ ΧΩΡΟΥ ROOM LABEL
+Line 112: ΤΕΛΙΚΗ ΣΤΑΘΜΗ
+Line 113: ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΧΩΡΟΥ
+Line 114: HARD SOFTSCAPE FINISH
+Line 115: LEVEL
+Line 116: Ονομασία Room Description
+Line 117: Room
+Line 118: Ceiling
+Line 119: Floor
+Line 120: Κτίριο Building
+Line 121: Τύπος Δωματίου Room
+Line 122: Επίπεδο Floor
+Line 123: 1
+Line 124: Serial Number
+Line 125: Αύξων
+Line 126: Αύξον
+Line 127: Serial Letter
+Line 128: A
+Line 129: ΣΥΣΧΕΤΙΣΜΟΣ ΥΨΟΜΕΤΡΟΥ
+Line 130: ΚΟΥΦΩΜΑΤΑ OPENINGS
+Line 131: ΑΠΟΛΥΤΗ ΣΤΑΘΜΗ ABSOLUTE LEVEL
+Line 132: ΣΧΕΤΙΚΗ ΣΤΑΘΜΗ RELATIVE LEVEL
+Line 133: Πρέκι
+Line 134: Κωδικός
+Line 135: Opening
+Line 136: Πλάτος
+Line 137: Opening
+Line 138: Ποδιά
+Line 139: Sill
+Line 140: Lintel
+Line 141: LEVEL CORRELATION
+Line 142: 1
+Line 143: A
+Line 144: 1
+Line 145: BATHROOM
+Line 146: ΛΟΥΤΡΟ
+Line 147: ΔΕΙΚΤΗΣ ΠΥΡΑΝΤΙΣΤΑΣΗΣ
+Line 148: ΑΡΧΗ ΧΑΡΑΞΗΣ LAYOUT START POINT
+Line 149: ΑΡΙΘΜΟΣ ΛΕΠΤΟΜΕΡΕΙΑΣ DETAIL
+Line 150: ΑΡ. ΣΧΕΔΙΟΥ ΑΝΑΦΟΡΑΣ RELATED DWG
+Line 151: ΑΡ. ΣΧΕΔΙΟΥ ΑΝΑΦΟΡΑΣ RELATED DWG
+Line 152: ΑΡΙΘΜΟΣ ΛΕΠΤΟΜΕΡΕΙΑΣ DETAIL
+Line 153: ΠΕΡΑΣΙΑ FLUSH
+Line 154: FIRE RATING
+Line 155: ΥΔΡΟΡΡΟΗ, ΑΡ. ΚΤΙΡΙΟΥ, ΑΥΞΩΝ ΑΡΙΘΜΟΣ ΥΔΡΟΡΡΟΗΣ
+Line 156: 0004
+Line 157: A
+Line 158: 0001
+Line 159: 01
+Line 160: 02
+Line 161: 03
+Line 162: 04
+Line 163: ROOM
+Line 164: TYPE
+Line 165: ΣΙΦΩΝΙΑ ΦΡΕΑΤΙΑ ΔΑΠΕΔΟΥ FLOOR DRAINS PITS
+Line 166: SQUARE FLOOR DRAIN
+Line 167: ΤΕΤΡΑΓΩΝΟ ΣΙΦΩΝΙ ΔΑΠΕΔΟΥ
+Line 168: B05 1201
+Line 169: SPECIAL CONCRETE ARTEVIA STONE ARCHITECTURAL CONCRETE
+Line 170: ΤΣΙΜΕΝΤΟΚΟΝΙΑ
+Line 171: DECK IROKO
+Line 172: ΔΑΠΕΔΟ ΑΠΟ ΞΥΛΕΙΑ IROKO
+Line 173: STONE TILE
+Line 174: ΚΕΡΑΜΙΚΟ ΠΛΑΚΑΚΙ ΜΕ ΟΨΗ ΦΥΣΙΚΗΣ ΠΕΤΡΑΣ
+Line 175: PLASTER PAINT FINISH OFF WHITE LIMEWASH PAINT
+Line 176: ΕΠΙΧΡΙΣΜΑ ΑΠΟΧΡΩΣΗΣ OFF WHITE LIMEWASH
+Line 177: PLASTER PAINT FINISH WARM OFF WHITE LIMEWASH PAINT
+Line 178: ΕΠΙΧΡΙΣΜΑ ΑΠΟΧΡΩΣΗΣ WARM OFF WHITE
+Line 179: PLASTER PAINT FINISH ROUGH RENDER
+Line 180: ΕΠΙΧΡΙΣΜΑ ΜΕ ΤΡΑΧΥ ΤΕΛΕΙΩΜΑ
+Line 181: CEMENT FINISH
+Line 182: ΤΣΙΜΕΝΤΟΕΙΔΗΣ ΒΑΦΗ
+Line 183: MARBLE PANELS SINAI PEARL SANDBLASTED, ANTIQUED, BRUSHED, STAINPROOF
+Line 184: ΠΛΑΚΕΣ ΜΑΡΜΑΡΟΥ SINAI PEARL
+Line 185: MARBLE PANELS SINAI PEARL BUSH HAMMERED, ANTIQUED, STAINPROOF
+Line 186: ΣΟΒΑΤΕΠΙ ΑΠΟ ΠΛΑΚΕΣ ΜΑΡΜΑΡΟΥ SINAI PEARL
+Line 187: TINOS WHITE MARBLE
+Line 188: ΛΕΥΚΟ ΜΑΡΜΑΡΟ
+Line 189: DRY STONE
+Line 190: ΞΕΡΟΛΙΘΙΑ
+Line 191: LIMESTONE
+Line 192: ΤΟΠΙΚΟΣ ΠΩΡΟΛΙΘΟΣ
+Line 193: NIAGON WOOD EXISTING
+Line 194: ΥΦΙΣΤΑΜΕΝΟ ΞΥΛΟ NIAGON
+Line 195: NIAGON WOOD EXISTING DEEP BLUE
+Line 196: ΥΦΙΣΤΑΜΕΝΟ ΞΥΛΟ NIAGON ΒΑΜΜΕΝΟ ΒΑΘΥ ΜΠΛΕ
+Line 197: OAK WOOD
+Line 198: ΞΥΛΟ ΔΡΥΟΣ
+Line 199: BROWN OAK
+Line 200: ΚΑΦΕ ΔΡΥΣ
+Line 201: BROWN OAK FLUTED
+Line 202: ΚΑΦΕ ΔΡΥΣ ΜΕ ΡΑΒΔΩΣΕΙΣ
+Line 203: STONE TILE
+Line 204: ΠΛΑΚΑΚΙ ΑΠΟ ΦΥΣΙΚΗ ΠΕΤΡΑ
+Line 205: CERAMIC TILE
+Line 206: ΚΕΡΑΜΙΚΟ ΠΛΑΚΙΔΙΟ BAMBOO
+Line 207: ANODIZED ALUMINUM
+Line 208: ΑΝΟΔΙΩΜΕΝΟ ΑΛΟΥΜΙΝΙΟ
+Line 209: BLACK IRON
+Line 210: ΜΑΥΡΟΣ ΣΙΔΗΡΟΣ
+Line 211: BRASS
+Line 212: ΜΠΡΟΥΤΖΟΣ
+Line 213: TEXTURED GLASS PANE
+Line 214: WICKER
+Line 215: ΛΥΓΑΡΙΑ
+Line 216: BAMBOO WOODEN BAMBOO
+Line 217: ΨΑΘΑ ΜΠΑΜΠΟΥ
+Line 218: GYPSUMBOARD SUSPENDED CEILING WOODEN STUDS
+Line 219: ΨΕΥΔΟΡΟΦΗ ΑΠΟ ΓΥΨΟΣΑΝΙΔΑ ΜΕ ΞΥΛΙΝΑ ΔΙΑΚΟΣΜΗΤΙΚΑ ΔΟΚΑΡΑΚΙΑ
+Line 220: GYPSUMBOARD SUSPENDED CEILING
+Line 221: ΨΕΥΔΟΡΟΦΗ ΑΠΟ ΓΥΨΟΣΑΝΙΔΑ
+Line 222: WATER RESISTANT GYPSUMBOARD SUSPENDED CEILING
+Line 223: ΨΕΥΔΟΡΟΦΗ ΑΠΟ ΑΝΘΥΓΡΗ ΓΥΨΟΣΑΝΙΔΑ
+Line 224: CONCRETE CEILING PLASTERED
+Line 225: ΟΡΟΦΗ ΜΠΕΤΟΝ ΒΑΜΜΕΝΗ
+Line 226: FAIRFACED CONCRETE CEILING
+Line 227: ΕΜΦΑΝΕΣ ΜΠΕΤΟΝ
+Line 228: PERGOLAS WILLOW INFILL
+Line 229: ΠΕΡΓΚΟΛΑ ΜΕ ΚΑΛΑΜΩΤΗ
+Line 230: BAMBOO INFILL
+Line 231: ΨΕΥΔΟΡΟΦΗ ΑΠΟ ΤΣΙΜΕΝΤΟΣΑΝΙΔΑ ΜΕ ΔΟΚΑΡΑΚΙΑ ΚΑΙ ΨΑΘΑ ΜΠΑΜΠΟΥ
+Line 232: REINFORCED CONCRETE
+Line 233: ΟΠΛΙΣΜΕΝΟ ΣΚΥΡΟΔΕΜΑ
+Line 234: BRICK WALL
+Line 235: ΟΠΤΟΠΛΙΝΘΟΔΟΜΗ
+Line 236: EXISTING
+Line 237: NEW
+Line 238: INSULATED GYPSUMBOARD WALL
+Line 239: Αριθμός Room
+Line 240: B05 1201
+Line 241: ELECTRICAL EQUIPMENT
+Line 242: ΗΛΕΚΤΡΟΛΟΓΙΚΟΣ ΕΞΟΠΛΙΣΜΟΣ
+Line 243: WOOD WOOL
+Line 244: ΟΡΟΦΗ ΜΕ ΠΛΑΚΕΣ TEKTALAN
+Line 245: WOOD WOOL
+Line 246: ΞΥΛΟΜΑΛΛΟ ΒΑΜΜΕΝΟ
+Line 247: WP
+Line 248: DECK IROKO
+Line 249: DECK ΑΠΟ ΞΥΛΟ ΙΡΟΚΟ
+Line 250: IROKO EXISTING
+Line 251: ΥΦΙΣΤΑΜΕΝΟ ΞΥΛΟ ΙΡΟΚΟ
+Line 252: NIAGON WOOD NEW
+Line 253: ΝΕΟ ΞΥΛΟ NIAGON
+Line 254: IROKO NEW
+Line 255: ΝΕΟ ΞΥΛΟ ΙΡΟΚΟ
+Line 256: IROKO HANDRAILS
+Line 257: ΚΟΥΠΑΣΤΗ ΑΠΟ ΞΥΛΟ ΙΡΟΚΟ
+Line 258: NIAGON WOOD NEW DEEP BLUE
+Line 259: ΝΕΟ ΞΥΛΟ NIAGON ΒΑΜΜΕΝΟ ΒΑΘΥ ΜΠΛΕ
+Line 260: IROKO NIAGON OUTDOOR BUILT ELEMENTS
+Line 261: EXISTING ROOF TILES
+Line 262: ΥΦΙΣΤΑΜΕΝΗ ΚΕΡΑΜΟΣΚΕΠΗ
+Line 263: WINDOW GLASS PANE
+Line 264: ΥΑΛΟΠΙΝΑΚΑΣ ΚΟΥΦΩΜΑΤΩΝ
+Line 265: DRY WALL
+Line 266: ΤΟΙΧΩΜΑ ΑΠΟ ΓΥΨΟΣΑΝΙΔΑ
+Line 267: STONE WALL CLADDING
+Line 268: ΕΠΕΝΔΥΣΗ ΜΕ ΠΕΤΡΑ
+Line 269: GREEN AREA
+Line 270: ΧΩΡΟΣ ΠΡΑΣΙΝΟΥ ΖΑΡΝΤΙΝΙΕΡΑ
+Line 271: WATER
+Line 272: ΥΔΑΤΙΝΟ ΣΤΟΙΧΕΙΟ
+Line 273: EXISTING ROOF TILES
+Line 274: ΚΕΡΑΜΟΣΚΕΠΗ
+Line 275: FLOORS
+Line 276: SINAI PEARL MARBLE TILES
+Line 277: ΜΑΡΜΑΡΟ SINAI PEARL
+Line 278: ARTEVIA STONE FLOOR
+Line 279: ΔΑΠΕΔΟ ΜΕ ΑΡΧΙΤΕΚΤΟΝΙΚΟ ΣΚΥΡΟΔΕΡΜΑ
+Line 280: DECK
+Line 281: ΞΥΛΙΝΟ DECK
+Line 282: OTHER
+Line 283: Κωδικός Θύρας
+Line 284: Door
+Line 285: Ποδιά Sill
+Line 286: Πρέκι
+Line 287: Πλάτος Width
+Line 288: ELEVATION NR ΑΡΙΘΜΟΣ ΟΨΗΣ
+Line 289: DWG NUMBER ΑΡΙΘΜΟΣ ΣΧΕΔΙΟΥ
+Line 290: SECTION NR ΑΡΙΘΜΟΣ ΤΟΜΗΣ
+Line 291: DWG NUMBER ΑΡΙΘΜΟΣ ΣΧΕΔΙΟΥ
+Line 292: INTERIOR ELEVATION NR ΑΡΙΘΜΟΣ ΑΝΑΠΤΥΓΜΑΤΟΣ
+Line 293: DWG NUMBER ΑΡΙΘΜΟΣ ΣΧΕΔΙΟΥ
+Line 294: FLOOR TYPES ΤΥΠΟΙ ΔΑΠΕΔΩΝ
+Line 295: CEILING TYPES ΤΥΠΟΙ ΨΕΥΔΟΡΟΦΗΣ
+Line 296: WALL TYPES CLADDING ΤΥΠΟΙ ΤΟΙΧΩΝ
+Line 297: OTHER MATERIAL ΑΛΛΟ ΥΛΙΚΟ
+Line 298: ΕΝΔΕΙΞΗ ΚΛΙΣΗΣ FLOOR SLOPE
+Line 299: POOL TILE
+Line 300: ΠΛΑΚΑΚΙ ΠΙΣΙΝΑΣ
+Line 301: ΚΕΝΤΡΙΚΟΣ ΑΞΟΝΑΣ ΧΑΡΑΞΗΣ SETTING CENTER LINE
+Line 302: CL
+Line 303: LINEAR FLOOR DRAIN
+Line 304: ΓΡΑΜΜΙΚΟ ΣΙΦΩΝΙ ΔΑΠΕΔΟΥ
+Line 305: CLOSED MEP MANHOLE
+Line 306: ΔΙΕΛΕΥΣΕΩΝ
+Line 307: CEMENT FINISH
+Line 308: ΤΣΙΜΕΝΤΟΚΟΝΙΑ ΜΕ ΣΚΛΗΡΥΝΤΙΚΟ
+Line 309: WATER RESISTANT GYPSUMBOARD SUSPENDED CEILING
+Line 310: ΨΕΥΔΟΡΟΦΗ ΑΠΟ ΤΣΙΜΕΝΤΟΣΑΝΙΔΑ
+Line 311: RAIN PIPE, BLDG SERIAL
+Line 312: ΚΤΙΡΙΟ B05
+Line 313: ΥΦΙΣΤΑΜΕΝΗ ΚΑΤΑΣΤΑΣΗ
+Line 314: 1
+Line 315: 02 2023
+Line 316: 00
+Line 317: 1
+Line 318: B05
+Line 319: A
+Line 320: 1
+Line 321: ΚΑΤΟΨΗ ΥΠΟΓΕΙΟΥ
+
+=== END OF FILTERED TEXT ===
+Total lines: 322

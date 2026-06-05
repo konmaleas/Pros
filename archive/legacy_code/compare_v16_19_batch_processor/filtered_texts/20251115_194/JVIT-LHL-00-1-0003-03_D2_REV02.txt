@@ -1,0 +1,725 @@
+=== FILTERED TEXT FOR: JVIT-LHL-00-1-0003-03_D2_REV02.pdf ===
+
+Line   0: Based
+Line   1: Deborah Nevins Associates DNA June
+Line   2: 2011.
+Line   3: 2.
+Line   4: Architect
+Line   5: Changes
+Line   6: Architect
+Line   7: Refer ARUP 5510 5511
+Line   8: 4.
+Line   9: Refer ARUP 1052
+Line  10: ARUP 5511
+Line  11: Refer ARUP 1051
+Line  12: Architect
+Line  13: Landscape Designer
+Line  14: Architect
+Line  15: Landscape Designer
+Line  16: ARUP 5511.
+Line  17: Changes
+Line  18: Architect
+Line  19: Contractor
+Line  20: Fabric
+Line  21: Minimum
+Line  22: Reinforcement
+Line  23: Instead
+Line  24: Joints
+Line  25: Formed Contraction Joint
+Line  26: Dowelled Contraction Joint
+Line  27: Expansion Joint
+Line  28: Isolation Joints
+Line  29: Alternate
+Line  30: Contraction
+Line  31: 4 Pour
+Line  32: Specification.
+Line  33: Expansion
+Line  34: Joint
+Line  35: Specification.
+Line  36: Samples
+Line  37: Architect
+Line  38: Subgrade
+Line  39: Specification. CBR
+Line  40: CBR
+Line  41: Concrete
+Line  42: SRV SRV
+Line  43: ADAAG
+Line  44: 2002.
+Line  45: ARUP 5510.
+Line  46: Concrete
+Line  47: Architect
+Line  48: Refer ARUP 5511
+Line  49: Architect
+Line  50: Notes
+Line  51: ΟΡΙΟ ΚΤΗΜΑΤΟΛΟΓΙΟΥ
+Line  52: ΛΕΩΦ. ΠΟΣΕΙΔΩΝΟΣ
+Line  53: ΥΠΟΓΕΙΑ ΔΙΑΒΑΣΗ ΠΕΖΩΝ
+Line  54: ΥΠΟΓΕΙΑ ΔΙΑΒΑΣΗ
+Line  55: ΠΕΙΡΑΙΑΣ
+Line  56: ΛΕΩΦΟΡΟΣ ΣΥΓΓΡΟΥ
+Line  57: ΟΔΟΣ ΝΑΥΑΡΧΟΥ ΒΟΤΣΗ
+Line  58: ΟΔΟΣ ΝΑΥΑΡΙΝΟΥ
+Line  59: ΟΔΟΣ ΣΑΧΤΟΥΡΗ
+Line  60: ΟΔΟΣ ΠΕΙΣΙΣΤΡΑΤΟΥ
+Line  61: ΟΔΟΣ ΝΑΥΑΡΧΟΥ ΒΟΤΣΗ
+Line  62: ΟΔΟΣ ΦΙΛΙΠΠΟΥ
+Line  63: ΟΔΟΣ ΕΥΡΙΠΙΔΟΥ
+Line  64: ΟΔΟΣ
+Line  65: ΟΔΟΣ ΕΥΡΙΠΙΔΟΥ
+Line  66: ΟΔΟΣ ΗΡΑΚΛΕΟΥΣ
+Line  67: ΟΔΟΣ
+Line  68: ΟΔΟΣ ΔΟΙΡΑΝΗΣ
+Line  69: ΟΔΟΣ ΠΕΙΣΙΣΤΡΑΤΟΥ
+Line  70: ΟΔΟΣ ΙΣΜΗΝΗΣ
+Line  71: ΟΔΟΣ ΝΑΥΑΡΧΟΥ ΒΟΤΣΗ
+Line  72: ΟΔΟΣ ΝΑΥΑΡΙΝΟΥ
+Line  73: ΟΔΟΣ ΕΠΑΜΕΙΝΩΝΔΑ
+Line  74: ΟΔΟΣ ΠΕΙΣΙΣΤΡΑΤΟΥ
+Line  75: ΟΔΟΣ ΝΑΥΑΡΙΝΟΥ
+Line  76: ΟΔΟΣ ΠΕΙΣΙΣΤΡΑΤΟΥ
+Line  77: ΛΕΩΦΟΡΟΣ ΠΟΣΕΙΔΩΝΟΣ ΠΑΛΑΙΑ
+Line  78: 2
+Line  79: ΕΥΔΑΠ
+Line  80: ΡΟΛΟΙ
+Line  81: 40
+Line  82: 70
+Line  83: 00
+Line  84: II
+Line  85: 40
+Line  86: 40
+Line  87: 70
+Line  88: 00
+Line  89: 40
+Line  90: II
+Line  91: BS
+Line  92: BW
+Line  93: BS
+Line  94: TS
+Line  95: BW
+Line  96: BS
+Line  97: BS
+Line  98: BS
+Line  99: BS
+Line 100: BS
+Line 101: BW
+Line 102: BS
+Line 103: TS
+Line 104: TS
+Line 105: TS
+Line 106: BS
+Line 107: TS
+Line 108: TS
+Line 109: TS
+Line 110: TS
+Line 111: TS
+Line 112: TS
+Line 113: TS
+Line 114: TS TW
+Line 115: TS
+Line 116: TS
+Line 117: BS
+Line 118: BS
+Line 119: BS
+Line 120: BS
+Line 121: BW
+Line 122: BW
+Line 123: TS
+Line 124: TS
+Line 125: ASL
+Line 126: ASL
+Line 127: TR
+Line 128: TS
+Line 129: BS
+Line 130: BS
+Line 131: TS
+Line 132: TS
+Line 133: TS
+Line 134: TS
+Line 135: TS
+Line 136: TS
+Line 137: BS
+Line 138: TS
+Line 139: BS
+Line 140: TS
+Line 141: TS
+Line 142: BR
+Line 143: BS
+Line 144: BS
+Line 145: BS
+Line 146: BS
+Line 147: BS
+Line 148: BS
+Line 149: BS
+Line 150: TS
+Line 151: TS
+Line 152: TW
+Line 153: TS
+Line 154: TS
+Line 155: TS
+Line 156: BS
+Line 157: BS
+Line 158: BS
+Line 159: BS
+Line 160: BS
+Line 161: BS
+Line 162: BS
+Line 163: BS
+Line 164: BS
+Line 165: BS
+Line 166: BS
+Line 167: TW
+Line 168: TW
+Line 169: BW
+Line 170: TW
+Line 171: BW
+Line 172: BW
+Line 173: BS
+Line 174: BS
+Line 175: TS
+Line 176: TS
+Line 177: TS
+Line 178: BS
+Line 179: TS
+Line 180: BW
+Line 181: TW
+Line 182: BW
+Line 183: BW
+Line 184: BW
+Line 185: BW
+Line 186: BW
+Line 187: BW
+Line 188: BW
+Line 189: BW
+Line 190: BW
+Line 191: BW
+Line 192: BW
+Line 193: TW
+Line 194: TW
+Line 195: TW
+Line 196: TW
+Line 197: TW
+Line 198: BS
+Line 199: BS
+Line 200: BS
+Line 201: BS
+Line 202: BS
+Line 203: BS
+Line 204: BS
+Line 205: BS
+Line 206: BS
+Line 207: BS
+Line 208: BS
+Line 209: TS
+Line 210: TS
+Line 211: TS
+Line 212: TS
+Line 213: TS
+Line 214: TS
+Line 215: TS
+Line 216: TS
+Line 217: TS
+Line 218: TS
+Line 219: TS
+Line 220: TS
+Line 221: TS
+Line 222: TS
+Line 223: TS
+Line 224: TS
+Line 225: TS
+Line 226: TS
+Line 227: TS
+Line 228: TS
+Line 229: TS
+Line 230: BS
+Line 231: BS
+Line 232: BW
+Line 233: TS
+Line 234: TW
+Line 235: ΣΤΑΘΜΗ ΔΑΠΕΔΟΥ
+Line 236: TW
+Line 237: TW
+Line 238: TW
+Line 239: BW
+Line 240: BW
+Line 241: TW
+Line 242: BW
+Line 243: TW
+Line 244: BW
+Line 245: TW
+Line 246: BW
+Line 247: BW
+Line 248: TW
+Line 249: TS
+Line 250: BS
+Line 251: BS
+Line 252: TW
+Line 253: TW
+Line 254: TW
+Line 255: TW
+Line 256: SEISMIC
+Line 257: JOINT
+Line 258: VEHICLE GATE
+Line 259: BOLLARDS
+Line 260: ΚΟΛΩΝΑΚΙΑ
+Line 261: GUARDHOUSE
+Line 262: BULLET PROOF
+Line 263: ΦΥΛΑΚΕΙΟ
+Line 264: Thermal
+Line 265: 2
+Line 266: TRAFFIC LIGHT
+Line 267: TECHNICAL CENTER
+Line 268: PANEL
+Line 269: HEIGHT
+Line 270: TECHNICAL CENTER
+Line 271: PANEL
+Line 272: HEIGHT
+Line 273: TRAFFIC LIGHT
+Line 274: TECHNICAL CENTER
+Line 275: PANEL
+Line 276: HEIGHT
+Line 277: TRAFFIC LIGHT
+Line 278: TECHNICAL CENTER
+Line 279: PANEL
+Line 280: HEIGHT
+Line 281: TRAFFIC
+Line 282: LIGHT
+Line 283: TECHNICAL CENTER
+Line 284: HEIGHT
+Line 285: PAINTED GRAY RAL 7035
+Line 286: TECHNICAL CENTER
+Line 287: PANEL
+Line 288: HEIGHT
+Line 289: PAINTED GRAY RAL 7035
+Line 290: GUARDHOUSE
+Line 291: CAMERA POLE
+Line 292: ΣΤΗΛΟΣ ΚΑΜΕΡΑΣ
+Line 293: CAMERA POLE
+Line 294: ΣΤΗΛΟΣ ΚΑΜΕΡΑΣ
+Line 295: GUARDHOUSE
+Line 296: BULLET PROOF
+Line 297: ΦΥΛΑΚΕΙΟ
+Line 298: GUARDHOUSE
+Line 299: BULLET PROOF
+Line 300: ΦΥΛΑΚΕΙΟ
+Line 301: 2
+Line 302: 2
+Line 303: 2
+Line 304: 2
+Line 305: 2
+Line 306: EC
+Line 307: SA
+Line 308: SC
+Line 309: EC
+Line 310: SA
+Line 311: EC
+Line 312: SC
+Line 313: SA
+Line 314: EC
+Line 315: EC
+Line 316: Intercom
+Line 317: Intercom
+Line 318: Card Reader
+Line 319: Intercom
+Line 320: Card Reader
+Line 321: Intercom
+Line 322: Card Reader
+Line 323: Intercom
+Line 324: Card Reader
+Line 325: Removable
+Line 326: Bollards
+Line 327: 4 Items
+Line 328: TECHNICAL CENTER
+Line 329: PANEL
+Line 330: HEIGHT
+Line 331: TRAFFIC LIGHT
+Line 332: EXISTING CONCRETE
+Line 333: UPSTAND
+Line 334: NEW FAIR FACED
+Line 335: CONCRETE UPSTAND
+Line 336: IR
+Line 337: PATH
+Line 338: PATH
+Line 339: 40
+Line 340: 70
+Line 341: 00
+Line 342: II
+Line 343: 40
+Line 344: 40
+Line 345: 70
+Line 346: 00
+Line 347: 40
+Line 348: II
+Line 349: 40
+Line 350: 70
+Line 351: 40
+Line 352: 70
+Line 353: 00
+Line 354: 40
+Line 355: 00
+Line 356: 40
+Line 357: STOP
+Line 358: ΠΕΡΙΟΧΗ ΦΥΤΕΥΣΗΣ
+Line 359: ΒΟΥΡΤΣΙΣΤΟ ΣΚΥΡΟΔΕΜΑ
+Line 360: DRINKING FOUNTAIN
+Line 361: SIZE
+Line 362: ΨΥΚΤΗΣ ΔΙΑΣΤΑΣΗΣ
+Line 363: ΠΛΑΤΟΣ ΒΑΘΟΣ
+Line 364: DRINKING FOUNTAIN
+Line 365: SIZE
+Line 366: ΨΥΚΤΗΣ ΔΙΑΣΤΑΣΗΣ
+Line 367: ΠΛΑΤΟΣ ΒΑΘΟΣ
+Line 368: DRINKING FOUNTAIN
+Line 369: SIZE
+Line 370: ΨΥΚΤΗΣ ΔΙΑΣΤΑΣΗΣ
+Line 371: ΠΛΑΤΟΣ ΒΑΘΟΣ
+Line 372: STOP
+Line 373: 4
+Line 374: 4
+Line 375: 4
+Line 376: NW STRETCH,
+Line 377: ARMS, SHOULDERS
+Line 378: Foundation
+Line 379: NW
+Line 380: ARMS TRICEPS
+Line 381: Foundation
+Line 382: NW
+Line 383: ABDOMINALS
+Line 384: Foundation
+Line 385: NW
+Line 386: ARMS, ABDOMINALS
+Line 387: Foundation
+Line 388: NW
+Line 389: LEGS
+Line 390: Foundation
+Line 391: Foundation
+Line 392: Copyright 2015
+Line 393: Richter Spielgeräte
+Line 394: 83112 Frasdorf, 49 8052 4180
+Line 395: Loft
+Line 396: Antenna
+Line 397: Solar
+Line 398: PISISTRATOU
+Line 399: NAVARHOU VOTSI
+Line 400: ISMINIS
+Line 401: EYDAP
+Line 402: EYDAP
+Line 403: EXISTING SURVEY
+Line 404: FENCE WALL
+Line 405: Line
+Line 406: ΟΡΙΟ ΥΠΟΓΕΙΟΥ
+Line 407: ALIGNED
+Line 408: ALIGNED
+Line 409: 4
+Line 410: 4
+Line 411: ALIGNED
+Line 412: ALIGNED
+Line 413: ALIGNED
+Line 414: ALIGNED
+Line 415: 4
+Line 416: FFL
+Line 417: FFL
+Line 418: GAS
+Line 419: GAS
+Line 420: GAS
+Line 421: RWP
+Line 422: OP 2
+Line 423: RWP
+Line 424: OP 2
+Line 425: MIN.
+Line 426: MIN.
+Line 427: MIN.
+Line 428: ΠΑΡΤΕΡΙ
+Line 429: ΑΠΟ
+Line 430: ΕΦΑΠΤΟΜΕΝΗ
+Line 431: ΚΟΡΜΟΥ
+Line 432: Archaelogical
+Line 433: ΕΝΔΕΙΞΗ ΣΚΑΜΜΑΤΟΣ ΑΠΑΙΤΗΣΗΣ
+Line 434: AΡΧΑΙΟΛΟΓΙΚΗΣ ΥΠΗΡΕΣΙΑΣ
+Line 435: Concrete Movement Joint
+Line 436: Architect.
+Line 437: Refer
+Line 438: JVIT LHL 00 0007.
+Line 439: Σύνδεσμος
+Line 440: Βλέπε
+Line 441: JVIT LHL 00 0007
+Line 442: Refer Architect
+Line 443: Βλέπε
+Line 444: Refer Detail
+Line 445: ARUP 5511
+Line 446: Βλέπε ARUP 5511
+Line 447: Refer Detail
+Line 448: JVIT LHL 00 0007
+Line 449: Βλέπε
+Line 450: JVIT LHL 00
+Line 451: Concrete
+Line 452: Refer JVIT RDW 40 0001
+Line 453: Detail
+Line 454: JVIT LHL 00 0007. Proposed
+Line 455: Εναρμόνηση
+Line 456: Βλέπε JVIT RDW 40 0001
+Line 457: Εναρμόνηση
+Line 458: JVIT LHL 00 0007.
+Line 459: Detail
+Line 460: JVIT LHL 00 0007.
+Line 461: Εναρμόνηση
+Line 462: JVIT LHL 00 0007
+Line 463: Refer Detail
+Line 464: JVIT LHL 00 0007
+Line 465: Proposed
+Line 466: Βλέπε
+Line 467: JVIT LHL 00 0007
+Line 468: Refer Detail
+Line 469: JVIT LHL 00 0007
+Line 470: Βλέπε
+Line 471: JVIT LHL 00
+Line 472: Refer Detail 2
+Line 473: JVIT LHL 00 0007
+Line 474: Βλέπε 2
+Line 475: JVIT LHL 00 0007
+Line 476: Refer Detail
+Line 477: JVIT LHL 00 0007
+Line 478: Βλέπε
+Line 479: JVIT LHL 00 0007
+Line 480: Refer Detail
+Line 481: ARUP 5510
+Line 482: Βλέπε
+Line 483: ARUP 5510
+Line 484: Refer Detail
+Line 485: JVIT LHL 00 0008
+Line 486: Βλέπε
+Line 487: JVIT LHL 00 0008
+Line 488: INTERNAL ROAD
+Line 489: NETWORK DENCO
+Line 490: Πρόσθεση ΕΣΩΤΕΡΙΚΌ
+Line 491: ΔΙΚΤΥΟ DENCO
+Line 492: ROOF
+Line 493: BUILDINGS,
+Line 494: Πρόσθεση ΟΡΟΦΕΣ ΤΩΝ
+Line 495: Refer Detail 2
+Line 496: ARUP 5510
+Line 497: Βλέπε 2
+Line 498: ARUP 5510
+Line 499: Canal
+Line 500: Esplanade
+Line 501: Extent Work Site Boundary
+Line 502: Όριο
+Line 503: ALIGNE
+Line 504: ALIGNED
+Line 505: RPBW
+Line 506: RENZO PIANO BUILDING WORKSHOP
+Line 507: FACADE CONSULTANT
+Line 508: ΣΥΜΒΟΥΛΟΣ ΠΡΟΣΟΨΕΩΝ
+Line 509: FRONT
+Line 510: ACOUSTIC DESIGN
+Line 511: ΑΚΟΥΣΤΙΚΗ ΜΕΛΕΤΗ
+Line 512: ARUP Acoustics
+Line 513: THEATRE DESIGN CONSULTANT
+Line 514: ΣΥΜΒΟΥΛΟΣ ΘΕΑΤΡΙΚΟΥ ΣΧΕΔΙΑΣΜΟΥ
+Line 515: THEATRE PROJECTS CONSULTANTS
+Line 516: LIBRARY CONSULTANT
+Line 517: ΣΥΜΒΟΥΛΟΣ ΣΧΕΔΙΑΣΜΟΥ ΒΙΒΛΙΟΘΗΚΗΣ
+Line 518: LANDSCAPE DESIGN
+Line 519: ΜΕΛΕΤΗ ΠΕΡΙΒΑΛΛΟΝΤΟΣ ΧΩΡΟΥ
+Line 520: DEBORAH NEVINS
+Line 521: Associates,
+Line 522: COLLABORATION
+Line 523: ΜΕΛΕΤΗΤΗΣ
+Line 524: HELLI PANGALOU
+Line 525: MEP ENGINEER
+Line 526: ΜΕΛΕΤΗ ΕΓΚΑΤΑΣΤΑΣΕΩΝ
+Line 527: ARUP
+Line 528: COLLABORATION
+Line 529: ΜΕΛΕΤΗΤΗΣ
+Line 530: LDK
+Line 531: STRUCTURAL ENGINEER
+Line 532: ΣΤΑΤΙΚΗ ΜΕΛΕΤΗ
+Line 533: EXPEDITION
+Line 534: COLLABORATION
+Line 535: ΜΕΛΕΤΗΤΗΣ
+Line 536: OMETE
+Line 537: EXECUTIVE ARCHITECT
+Line 538: ΑΡΧΙΤΕΚΤΟΝΑΣ
+Line 539: BETAPLAN
+Line 540: DESIGN ARCHITECT
+Line 541: ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΜΕΛΕΤΗ ΑΡΧΙΤΕΚΤΟΝΑΣ ΕΡΓΟΥ
+Line 542: TRAFFIC CONSULTANT
+Line 543: ΚΥΚΛΟΦΟΡΙΑΚΗ ΜΕΛΕΤΗ
+Line 544: DENCO
+Line 545: PROJECT MANAGER COST CONSULTANT
+Line 546: ΣΥΝΤΟΝΙΣΜΟΣ ΜΕΛΕΤΗΣ ΣΥΜΒΟΥΛΟΣ ΠΡΟΥΠΟΛΟΓΙΣΜΟΥ
+Line 547: FAITHFUL GOULD
+Line 548: Archives
+Line 549: 75004 Paris France
+Line 550: 44 4900
+Line 551: 42 78 0198
+Line 552: Aristodimou Street
+Line 553: Athens, GR 76 Greece
+Line 554: 72
+Line 555: 72
+Line 556: Regent Street, Morley House
+Line 557: London, UK
+Line 558: 44 1000
+Line 559: 44 1001
+Line 560: Asklipiou Street
+Line 561: Athens, GR 72 Greece
+Line 562: 30026
+Line 563: 44631
+Line 564: Fitzroy Street
+Line 565: London, UK
+Line 566: 44 755 2191
+Line 567: 44 755 3743
+Line 568: Thivaidos Street
+Line 569: Athens, GR Greece
+Line 570: 96700
+Line 571: 96709
+Line 572: Lafayette Street, Suite
+Line 573: York, NY 10012 USA
+Line 574: 1125
+Line 575: Skoufa Street
+Line 576: Athens, GR 72 Greece
+Line 577: 6219
+Line 578: 9225
+Line 579: Linton House
+Line 580: Highgate Road
+Line 581: London, UK
+Line 582: 44 7284 5888
+Line 583: Alexi
+Line 584: Elizabeth Street
+Line 585: South Norwalk, CT 06854 3025 USA
+Line 586: 0830
+Line 587: 0835
+Line 588: Americas
+Line 589: York, NY 10013 USA
+Line 590: 2669
+Line 591: 1056
+Line 592: Varick Street
+Line 593: York, NY 10014 USA
+Line 594: 2220
+Line 595: 2253
+Line 596: Kifisias
+Line 597: Athens, GR Greece
+Line 598: 54801
+Line 599: 54800
+Line 600: Paradisou Street
+Line 601: Athens, GR Greece
+Line 602: 15245
+Line 603: 11951
+Line 604: AMA Alexi Marmot Associates
+Line 605: IRRIGATION DESIGN
+Line 606: ΜΕΛΕΤΗ ΑΡΔΕΥΣΗΣ
+Line 607: SOTIRIOS MAVRAGANIS
+Line 608: 42 Vasileos Georgiou Street
+Line 609: Athens, GR Greece
+Line 610: REV.
+Line 611: STAVROS NIARCHOS FOUNDATION CULTURAL CENTER
+Line 612: PROJECT
+Line 613: KEY PLAN
+Line 614: ΕΡΓΟ
+Line 615: Vasilissis Sofias Avenue, Athens, Greece
+Line 616: 72 41311, 72 41312
+Line 617: ΚΛΕΙΔΑ ΣΧΕΔΙΟΥ
+Line 618: DRWG TITLE
+Line 619: ΤΙΤΛΟΣ ΣΧΕΔΙΟΥ
+Line 620: CONSULTANT STAMP
+Line 621: ΣΦΡΑΓΙΔΑ ΣΥΜΒΟΥΛΟΥ
+Line 622: SCALE
+Line 623: ΚΛΙΜΑΚΑ
+Line 624: REFERENCED DRAWING NUMBER
+Line 625: AUTHOR
+Line 626: ΣΥΝΤΑΚΤΗΣ
+Line 627: DISCIPLINE
+Line 628: ΚΑΤ. ΜΕΛΕΤΗΣ
+Line 629: ZONE
+Line 630: ΠΕΡΙΟΧΗ
+Line 631: DRWG TYPE
+Line 632: ΕΙΔΟΣ ΣΧΕΔΙΟΥ
+Line 633: REV.
+Line 634: ΑΝΑΘ.
+Line 635: QR CODE
+Line 636: FIRST ISSUE DATE
+Line 637: ΗΜΕΡ. ΕΚΔ.
+Line 638: DRAWN
+Line 639: CHECKED
+Line 640: APPROVED
+Line 641: DATE
+Line 642: DESCRIPTION
+Line 643: 00
+Line 644: PROJECT
+Line 645: ΕΡΓΟ
+Line 646: CONSULTANT SIGNATURE
+Line 647: ΥΠΟΓΡΑΦΗ ΣΥΜΒΟΥΛΟΥ
+Line 648: APPROVALS
+Line 649: ΘΕΩΡΗΣΕΙΣ
+Line 650: ΑΝΑΘΕΩΡΗΣΗ ΤΗΣ ΥΠ ΑΡΙΘΜ. 72 2017 ΑΔΕΙΑΣ ΔΟΜΗΣΗΣ ΜΕΤΑ ΤΗΣ 2017
+Line 651: ΑΝΑΘΕΩΡΗΣΗΣ ΑΥΤΗΣ ΛΟΓΩ ΚΑΤΑΣΚΕΥΗΣ ΑΝΟΙΧΤΟΥ ΓΗΠΕΔΟΥ ΠΟΛΛΑΠΛΩΝ
+Line 652: ΑΘΛΗΜΑΤΩΝ ΣΤΟ ΠΑΡΚΟ ΚΑΙ ΜΙΚΡΟΤΡΟΠΟΠΟΙΗΣΕΩΝ ΣΤΗ ΔΙΑΡΡΥΘΜΙΣΗ ΤΟΥ
+Line 653: ΚΥΛΙΚΕΙΟΥ ΤΟΥ ΠΑΡΚΟΥ.
+Line 654: Pavement Layout Plan
+Line 655: HARD LANDSCAPING
+Line 656: FINISHES DETAILS KEY
+Line 657: ΥΠΟΜΝΗΜΑ ΛΕΠΤΟΜΕΡΕΙΩΝ ΤΕΛΕΙΩΜΑΤΩΝ
+Line 658: Όριο Ιδιοκτήσιας Έργου
+Line 659: Site Ownership Boundary
+Line 660: Όριο Επέκτασης
+Line 661: Extend Work Site Boundary
+Line 662: Τύπος Πεζοδρομίου Μπετόν
+Line 663: Χρήση Βαρέων Οχημάτων
+Line 664: Type Pavement Concrete
+Line 665: Heavy Vehicle
+Line 666: Τύπος Πεζοδρομίου 2 Λιθόδεμα
+Line 667: Χρήση Βαρέων Οχημάτων
+Line 668: Type 2 Pavement Self Binding Gravel
+Line 669: Heavy Vehicle
+Line 670: Τύπος Πεζοδρομίου Λιθόδεμα
+Line 671: Χρήση Ελαφρών Οχημάτων Πεζών
+Line 672: Type Pavement Self Binding Gravel
+Line 673: Light Vehicle Pedestrian Only
+Line 674: Τύπος Πεζοδρομίου 4 Φυσική
+Line 675: Πέτρας Βάση Μπετόν
+Line 676: Χρήση Ελαφρών Οχημάτων Πεζών
+Line 677: Type 4 Pavement Natural Stone Pavers
+Line 678: Concrete Base
+Line 679: Light Vehicle Pedestrian Only
+Line 680: Τύπος Πεζοδρομίου Φυσική
+Line 681: Βάση Μπετόν
+Line 682: Χρήση Πεζών
+Line 683: Type Pavement Natural Stone Setts
+Line 684: Concrete Base
+Line 685: Pedestrian Only
+Line 686: Ασφαλτος Εύκαμπτο
+Line 687: Χρήση Βαρέων Οχημάτων
+Line 688: Asphalt
+Line 689: Haevy Vehicle
+Line 690: Μπετόν Ακαμπτο
+Line 691: Χρήση Βαρέων Οχημάτων
+Line 692: Type Pavement Concrete
+Line 693: Haevy Vehicle
+Line 694: Πεζοδρόμιο
+Line 695: Χρήση Ελαφρών Οχημάτων Πεζών
+Line 696: Carriageway
+Line 697: Light Vehicle Pedestrian Only
+Line 698: DENCO
+Line 699: DENCO
+Line 700: Προκατασκευασμένες
+Line 701: Χρήση Πεζών
+Line 702: Precast Concrete Slabs
+Line 703: Pedestrian Only
+Line 704: ARUP LDK
+Line 705: ARUP LDK
+Line 706: Έγχυτο
+Line 707: Χρήση Πεζών
+Line 708: Reinforced
+Line 709: Pedestrian Only
+Line 710: Περιοχή
+Line 711: Carriageway
+Line 712: Light Vehicle Pedestrian Only
+Line 713: ARUP CO 1050
+Line 714: 03 2018
+Line 715: 1000
+Line 716: JVIT
+Line 717: LHL
+Line 718: 00
+Line 719: 0003 02
+
+=== END OF FILTERED TEXT ===
+Total lines: 720

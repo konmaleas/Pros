@@ -1,0 +1,179 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-829-0A_-_FCR.pdf ===
+
+Line   0: GL
+Line   1: CEILING LEVEL
+Line   2: FCR
+Line   3: 00 022
+Line   4: POWER FLOATED
+Line   5: CONCRETE SEALED
+Line   6: ASHFORD FORMULA SEALER
+Line   7: VINYL COVED UPSTAND
+Line   8: CEILING TYPE UNDERSIDE
+Line   9: METAL DECK
+Line  10: MIXTURE PAINTED GYPSUM
+Line  11: BOARD WALLS, COAT PRIMER
+Line  12: 2 COATS DIAMOND MATT LATEX
+Line  13: FINISH RAL 9010, SECURITY
+Line  14: STEEL MESH
+Line  15: LT 4
+Line  16: WT
+Line  17: WT
+Line  18: LT 4
+Line  19: GL
+Line  20: CEILING LEVEL
+Line  21: FCR
+Line  22: 00 022
+Line  23: YB
+Line  24: WT
+Line  25: LT 4
+Line  26: SECURITY CAGE WALL SYSTEM
+Line  27: CEILING TYPE UNDERSIDE
+Line  28: METAL DECK
+Line  29: POWER FLOATED
+Line  30: CONCRETE SEALED
+Line  31: ASHFORD FORMULA SEALER
+Line  32: VINYL COVED UPSTAND
+Line  33: LT 4
+Line  34: MIXTURE PAINTED GYPSUM
+Line  35: BOARD WALLS, COAT PRIMER
+Line  36: 2 COATS DIAMOND MATT LATEX
+Line  37: FINISH RAL 9010, SECURITY
+Line  38: STEEL MESH
+Line  39: ID AD 025
+Line  40: 3000
+Line  41: GL
+Line  42: CEILING LEVEL
+Line  43: 2400
+Line  44: 2500
+Line  45: 1203
+Line  46: FCR
+Line  47: 00 022
+Line  48: CEILING TYPE UNDERSIDE
+Line  49: METAL DECK
+Line  50: POWER FLOATED
+Line  51: CONCRETE SEALED
+Line  52: ASHFORD FORMULA SEALER
+Line  53: SECURITY CAGE WALL SYSTEM
+Line  54: WT
+Line  55: LT 4
+Line  56: WT
+Line  57: LT 4
+Line  58: 3000
+Line  59: WT
+Line  60: GL
+Line  61: CEILING LEVEL
+Line  62: FCR
+Line  63: 00 022
+Line  64: YB
+Line  65: SECURITY CAGE WALL SYSTEM
+Line  66: POWER FLOATED
+Line  67: CONCRETE SEALED
+Line  68: ASHFORD FORMULA SEALER
+Line  69: VINYL COVED UPSTAND
+Line  70: WT
+Line  71: LT 4
+Line  72: CEILING TYPE UNDERSIDE
+Line  73: METAL DECK
+Line  74: 3000
+Line  75: 4
+Line  76: 2
+Line  77: FCR
+Line  78: 00 022
+Line  79: 731
+Line  80: 6604
+Line  81: IWS
+Line  82: YB
+Line  83: POWER FLOATED
+Line  84: CONCRETE SEALED
+Line  85: ASHFORD FORMULA SEALER
+Line  86: 475
+Line  87: 1582
+Line  88: 47
+Line  89: 1280
+Line  90: 47
+Line  91: 6447
+Line  92: 1211
+Line  93: 1087
+Line  94: 1087
+Line  95: 1087
+Line  96: 2299
+Line  97: 3599
+Line  98: LT 4
+Line  99: WT
+Line 100: LT 4
+Line 101: ID AD 025
+Line 102: LT 4
+Line 103: WT
+Line 104: NOTE
+Line 105: WALL TYPE LEGEND DRAWING
+Line 106: ADMIN
+Line 107: COLO
+Line 108: COLO 2
+Line 109: 2
+Line 110: 4
+Line 111: 2
+Line 112: 4
+Line 113: TRUE NORTH
+Line 114: Sheet Title Number
+Line 115: Scale
+Line 116: Plan
+Line 117: Design Consultants
+Line 118: Microsoft
+Line 119: DATA CENTER
+Line 120: SPATA GREECE
+Line 121: Contractor Joint Venture
+Line 122: Name
+Line 123: Contractor Project
+Line 124: Contractor Contract
+Line 125: Contractor PM
+Line 126: Contractor BIM Mngr
+Line 127: Contractor Information
+Line 128: Renco Terna
+Line 129: Client
+Line 130: General Notes
+Line 131: Client Project
+Line 132: Client Contract
+Line 133: Client PM
+Line 134: Client BIM Mngr
+Line 135: Primary Client Information
+Line 136: Layout
+Line 137: Revision
+Line 138: Tombazi Chalandri
+Line 139: 15232
+Line 140: Athens Greece
+Line 141: 0800 3262
+Line 142: Agion Theodoron Square Athens
+Line 143: 10561
+Line 144: Athens Greece
+Line 145: Kimithois Agios Dimitrios
+Line 146: 17236
+Line 147: Athens Greece
+Line 148: Purpose Issue
+Line 149: Issue
+Line 150: Name
+Line 151: FCR
+Line 152: VAP AH
+Line 153: SCALE
+Line 154: FCR ELEVATION EAST
+Line 155: SCALE
+Line 156: FCR ELEVATION NORTH
+Line 157: 2
+Line 158: SCALE
+Line 159: FCR ELEVATION WEST
+Line 160: SCALE
+Line 161: FCR ELEVATION SOUTH
+Line 162: 4
+Line 163: SCALE
+Line 164: FCR FLOOR PLAN
+Line 165: SCALE
+Line 166: FCR VIEW
+Line 167: 1000
+Line 168: SCALE
+Line 169: Date
+Line 170: Description
+Line 171: 04
+Line 172: Issued Approval
+Line 173: VAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 174

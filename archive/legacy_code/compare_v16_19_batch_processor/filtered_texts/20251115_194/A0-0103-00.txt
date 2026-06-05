@@ -1,0 +1,149 @@
+=== FILTERED TEXT FOR: A0-0103-00.pdf ===
+
+Line   0: STAFF WC
+Line   1: WOMEN
+Line   2: STAFF ROOM
+Line   3: WOMEN
+Line   4: STAFF ROOM
+Line   5: MEN
+Line   6: STAFF SHOWER
+Line   7: MEN
+Line   8: STAFF WC
+Line   9: MEN
+Line  10: WOMEN
+Line  11: WC ENTRY
+Line  12: CLOSET
+Line  13: JANITOR
+Line  14: ROOM
+Line  15: CLOAK
+Line  16: WC HALL
+Line  17: WOMEN
+Line  18: WC 2
+Line  19: WOMEN
+Line  20: WC
+Line  21: LOBBY
+Line  22: WC
+Line  23: MEN
+Line  24: WC ENTRY
+Line  25: MEN
+Line  26: WC 2
+Line  27: MEN
+Line  28: WC
+Line  29: DISABLED
+Line  30: WC
+Line  31: AREA
+Line  32: DISH WASH
+Line  33: AREA
+Line  34: PANTRY
+Line  35: ROOM
+Line  36: ICE
+Line  37: STORAGE
+Line  38: PANELS
+Line  39: BAR
+Line  40: CORRIDOR
+Line  41: STORAGE
+Line  42: PANELS
+Line  43: AREA
+Line  44: POT WASH
+Line  45: PREPERATION
+Line  46: MEAT
+Line  47: KITCHEN
+Line  48: COLD
+Line  49: PREPERATION
+Line  50: VEGETABLE
+Line  51: FREEZER
+Line  52: ROOM
+Line  53: COLD
+Line  54: STORAGE
+Line  55: DRY
+Line  56: COLD ROOM
+Line  57: WASTE
+Line  58: STORAGE
+Line  59: CORRIDOR
+Line  60: AREA
+Line  61: DISH WASH
+Line  62: KITCHEN
+Line  63: HOT
+Line  64: ENTRY
+Line  65: KITCHEN
+Line  66: STATION
+Line  67: PIZZA
+Line  68: AREA 2
+Line  69: SEATING
+Line  70: STAIR
+Line  71: STAIR
+Line  72: ENTRY
+Line  73: RESTAURANT
+Line  74: AREA
+Line  75: SEATING
+Line  76: AREA
+Line  77: SEATING
+Line  78: STAIR
+Line  79: CORRIDOR
+Line  80: 4
+Line  81: 2
+Line  82: DRAWING OTHERS
+Line  83: 40
+Line  84: 70
+Line  85: 2
+Line  86: 2
+Line  87: 4
+Line  88: 2
+Line  89: 2
+Line  90: 2
+Line  91: 2
+Line  92: 2
+Line  93: 2 4
+Line  94: 2 4
+Line  95: 2
+Line  96: 4
+Line  97: 2
+Line  98: 4
+Line  99: 2
+Line 100: 4
+Line 101: 2
+Line 102: 4
+Line 103: 2
+Line 104: 2
+Line 105: 4
+Line 106: 2
+Line 107: 4
+Line 108: 2
+Line 109: 4
+Line 110: DATE
+Line 111: 2 2 2
+Line 112: 2 2 2
+Line 113: 4
+Line 114: 2
+Line 115: ARCHITECTURAL DESIGN
+Line 116: CLIENT
+Line 117: PROJECT
+Line 118: KAPLANKAYA
+Line 119: BEACH PARK
+Line 120: IMPLEMENTATION STUDY
+Line 121: DESIGN STAGE
+Line 122: DATE
+Line 123: SCALE
+Line 124: FILE NAME
+Line 125: DRAWING TITLE
+Line 126: DRAWING
+Line 127: Epirou Street
+Line 128: Athens, GR Greece
+Line 129: 3262
+Line 130: 3269
+Line 131: IMPLEMENTATION STUDY CONSULTANT
+Line 132: LIGHTING DESIGN
+Line 133: CONSULTANTS
+Line 134: KEY PLAN
+Line 135: REVISIONS
+Line 136: NO.
+Line 137: DESCRIPTION
+Line 138: 2016 03
+Line 139: 1601 0100 04 00
+Line 140: LANDSCAPE
+Line 141: PLAN ZONE
+Line 142: LAYOUT GROUND FLOOR LEVELS
+Line 143: 0103 00
+
+=== END OF FILTERED TEXT ===
+Total lines: 144

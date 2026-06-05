@@ -1,0 +1,128 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-819-0A_-_GENERAL_STORAGE_SHEET_1_OF_2.pdf ===
+
+Line   0: GL
+Line   1: CEILING LEVEL
+Line   2: GENERAL
+Line   3: STORAGE
+Line   4: 00 042
+Line   5: WT
+Line   6: 1525
+Line   7: LT MEDITE LINER
+Line   8: POWER FLOATED
+Line   9: CONCRETE SEALED
+Line  10: ASHFORD FORMULA SEALER
+Line  11: VINYL COVED UPSTAND
+Line  12: CEILING TYPE UNDERSIDE
+Line  13: METAL DECK
+Line  14: PREFINISHED STEEL
+Line  15: FIREMASTER WALLS ABOVE
+Line  16: PROTECTION BOARD RAL 9010
+Line  17: WHITE
+Line  18: WT
+Line  19: GL
+Line  20: CEILING LEVEL
+Line  21: GENERAL
+Line  22: STORAGE
+Line  23: 00 042
+Line  24: WT
+Line  25: LT MEDITE LINER
+Line  26: PREFINISHED STEEL
+Line  27: FIREMASTER WALLS ABOVE
+Line  28: PROTECTION BOARD RAL 9010
+Line  29: WHITE
+Line  30: POWER FLOATED
+Line  31: CONCRETE SEALED
+Line  32: ASHFORD FORMULA SEALER
+Line  33: VINYL COVED UPSTAND
+Line  34: CEILING TYPE UNDERSIDE
+Line  35: METAL DECK
+Line  36: 1525
+Line  37: WT
+Line  38: 4
+Line  39: 2
+Line  40: 44
+Line  41: GENERAL
+Line  42: STORAGE
+Line  43: 00 042
+Line  44: ID AD 048
+Line  45: POWER FLOATED
+Line  46: CONCRETE SEALED
+Line  47: ASHFORD FORMULA SEALER
+Line  48: LT
+Line  49: WT
+Line  50: 4570
+Line  51: 1880
+Line  52: 6150
+Line  53: 3921
+Line  54: 2229
+Line  55: 6350
+Line  56: LT
+Line  57: WT
+Line  58: LT
+Line  59: WT
+Line  60: NOTE
+Line  61: WALL TYPE LEGEND DRAWING
+Line  62: ADMIN
+Line  63: COLO
+Line  64: COLO 2
+Line  65: 2
+Line  66: 4
+Line  67: 2
+Line  68: 4
+Line  69: TRUE NORTH
+Line  70: Sheet Title Number
+Line  71: Scale
+Line  72: Plan
+Line  73: Design Consultants
+Line  74: Microsoft
+Line  75: DATA CENTER
+Line  76: SPATA GREECE
+Line  77: Contractor Joint Venture
+Line  78: Name
+Line  79: Contractor Project
+Line  80: Contractor Contract
+Line  81: Contractor PM
+Line  82: Contractor BIM Mngr
+Line  83: Contractor Information
+Line  84: Renco Terna
+Line  85: Client
+Line  86: General Notes
+Line  87: Client Project
+Line  88: Client Contract
+Line  89: Client PM
+Line  90: Client BIM Mngr
+Line  91: Primary Client Information
+Line  92: Layout
+Line  93: Revision
+Line  94: Tombazi Chalandri
+Line  95: 15232
+Line  96: Athens Greece
+Line  97: 0800 3262
+Line  98: Agion Theodoron Square Athens
+Line  99: 10561
+Line 100: Athens Greece
+Line 101: Kimithois Agios Dimitrios
+Line 102: 17236
+Line 103: Athens Greece
+Line 104: Purpose Issue
+Line 105: Issue
+Line 106: Name
+Line 107: GENERAL STORAGE SHEET 2
+Line 108: VAP AH
+Line 109: SCALE
+Line 110: GENERAL STORAGE ELEVATION EAST
+Line 111: SCALE
+Line 112: GENERAL STORAGE ELEVATION WEST
+Line 113: 2
+Line 114: SCALE
+Line 115: GENERAL STORAGE FLOOR PLAN
+Line 116: 1000
+Line 117: SCALE
+Line 118: Date
+Line 119: Description
+Line 120: 04
+Line 121: Issued Approval
+Line 122: VAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 123

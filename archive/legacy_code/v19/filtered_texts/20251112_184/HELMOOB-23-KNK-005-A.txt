@@ -1,0 +1,132 @@
+=== FILTERED TEXT FOR: HELMOOB-23-KNK-005-A.pdf ===
+
+Line   0: Βορράς
+Line   1: Δύση
+Line   2: Ανατολή
+Line   3: Νότος
+Line   4: Ιουν.
+Line   5: 43
+Line   6: Ανατολή
+Line   7: Ιουν.
+Line   8: 00
+Line   9: Ανατολή
+Line  10: 00
+Line  11: Ιουν.
+Line  12: 00
+Line  13: 00
+Line  14: 46
+Line  15: Δύση
+Line  16: Ιουν.
+Line  17: 00
+Line  18: Ιουν.
+Line  19: Δύση
+Line  20: 41
+Line  21: HSA
+Line  22: VSA
+Line  23: Προσανατολισμός
+Line  24: ΝΑ
+Line  25: 77
+Line  26: 78
+Line  27: HSA
+Line  28: VSA
+Line  29: Προσανατολισμός
+Line  30: 77
+Line  31: 77
+Line  32: HSA
+Line  33: VSA
+Line  34: Προσανατολισμός
+Line  35: 00
+Line  36: 43
+Line  37: 00
+Line  38: 00
+Line  39: 43
+Line  40: 00
+Line  41: 49
+Line  42: 00
+Line  43: 76
+Line  44: 00
+Line  45: 49
+Line  46: Ηλιακή
+Line  47: Ηλιακό
+Line  48: Ηλιακό
+Line  49: Ημέρα
+Line  50: Ιουνίου
+Line  51: Δεκεμβρίου
+Line  52: HSA
+Line  53: VSA
+Line  54: Προσανατολισμός
+Line  55: 40
+Line  56: HSA
+Line  57: VSA
+Line  58: Προσανατολισμός
+Line  59: 77
+Line  60: 75
+Line  61: 77
+Line  62: HSA
+Line  63: VSA
+Line  64: Προσανατολισμός
+Line  65: 00
+Line  66: 43
+Line  67: 00
+Line  68: 00
+Line  69: 43
+Line  70: 00
+Line  71: 49
+Line  72: 00
+Line  73: 76
+Line  74: 00
+Line  75: 49
+Line  76: Ηλιακή
+Line  77: Ηλιακό
+Line  78: Ηλιακό
+Line  79: Ημέρα
+Line  80: Ιουνίου
+Line  81: Δεκεμβρίου
+Line  82: ΕΡΓΟ
+Line  83: ΘΕΜΑ
+Line  84: ΦΟΡΕΑΣ ΕΡΓΟΥ
+Line  85: ΘΕΣΗ
+Line  86: ΜΕΓΕΘΟΣ
+Line  87: ΚΛΙΜΑΚΑ
+Line  88: ΕΓΚΡΙΘΗΚΕ
+Line  89: ΣΧΕΔΙΑΣΤΗΚΕ
+Line  90: ΜΕΛEΤΗΘΗΚΕ
+Line  91: ΗΜΕΡΟΜΗΝΙΑ
+Line  92: ΣΤΑΔΙΟ ΜΕΛΕΤΗΣ
+Line  93: ΜΕΛΕΤΗΣ
+Line  94: ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΜΕΛΕΤΗ
+Line  95: ΟΚΤΩΒΡΙΟΣ 2023
+Line  96: ΜΕΛΕΤΗ ΠΟΛΕΟΔΟΜΙΑ
+Line  97: ΑΖΟΕ RESORT ΜΟΝΟΠΡΟΣΩΠΗ ΑΝΩΝΥΜΟΣ ΕΤΑΙΡΕΙΑ ΕΙΔΙΚΟΥ ΣΚΟΠΟΥ
+Line  98: ΑΓ. ΠΑΝΤΕΛΕΗΜΟΝΑΣ ΚΡΑΝΙΔΙΟΥ ΔΗΜΟΣ ΕΡΜΙΟΝΙΔΑΣ, ΑΡΓΟΛΙΔΑΣ
+Line  99: ΞΕΝΟΔΟΧΕΙΟ ΚΑΤΗΓΟΡΙΑΣ ΑΜΑΝΖΟΕ ΚΑΙ ΣΥΝΟΔΑ ΕΡΓΑ
+Line 100: ΑΝΑΘΕΩΡΗΣΗ ΑΔΕΙΑΣ ΔΟΜΗΣΗΣ 2013
+Line 101: ΑΝΑΘΕΩΡΗΣΗ ΤΟΥ ΤΟΥΡΙΣΤΙΚΟΥ ΚΑΤΑΛΥΜΑΤΟΣ 23
+Line 102: ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΜΕΛΕΤΗ
+Line 103: ARCHIPLUS ΑΡΧΙΤΕΚΤΟΝΙΚΗ
+Line 104: ΜΕΛΕΤΗ
+Line 105: ΕΡΓΑ ΠΟΛΙΤΙΚΟΥ ΜΗΧΑΝΙΚΟΥ
+Line 106: ΤΟΠΟΓΡΑΦΙΚΟ
+Line 107: ΜΕΤΡΗΣΗ ΕΠΕ
+Line 108: ΚΟΥΤΣΟΣ
+Line 109: ΣΥΝΕΡΓΑΤΕΣ ΜΗΧΑΝΙΚΟΙ
+Line 110: ΜΕΛΕΤΗΤΙΚΗ ΕΤΑΙΡΕΙΑ
+Line 111: ΚΛΕΙΔΑ
+Line 112: ΒΟΡΡΑΣ
+Line 113: ΞΕΝΟΔΟΧΕΙΟ ΚΑΤΗΓΟΡΙΑΣ AMANZOE
+Line 114: ΕΠΕΚΤΑΣΗ ΞΕΝΟΔΟΧΕΙΟΥ
+Line 115: ΣΤΗΝ ΕΚΤΑΣΗ
+Line 116: 2023
+Line 117: 2023
+Line 118: 2023
+Line 119: 23
+Line 120: HELMOOB
+Line 121: KNK
+Line 122: 005 A
+Line 123: ΣΚΙΑΣΜΟΣ ΑΝΟΙΓΜΑΤΩΝ
+Line 124: Κάτοψη Ισογείου
+Line 125: Building Κτίριο
+Line 126: ΜΕΛΕΤΗ ΕΝΕΡΓΕΙΑΚΗΣ ΑΠΟΔΟΣΗΣ
+
+=== END OF FILTERED TEXT ===
+Total lines: 127

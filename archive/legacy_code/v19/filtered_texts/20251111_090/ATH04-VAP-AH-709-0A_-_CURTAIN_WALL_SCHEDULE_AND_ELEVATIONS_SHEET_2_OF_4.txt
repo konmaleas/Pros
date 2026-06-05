@@ -1,0 +1,160 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-709-0A_-_CURTAIN_WALL_SCHEDULE_AND_ELEVATIONS_SHEET_2_OF_4.pdf ===
+
+Line   0: 1150
+Line   1: 1500
+Line   2: 1500
+Line   3: 1500
+Line   4: 1500
+Line   5: 1500
+Line   6: 1500
+Line   7: 1500
+Line   8: YA
+Line   9: YB
+Line  10: 12712
+Line  11: ED AD 002
+Line  12: CW
+Line  13: 422
+Line  14: GL
+Line  15: OA
+Line  16: XA
+Line  17: 1500
+Line  18: DOUBLED GLAZED, THERMALLY BROKEN,
+Line  19: METAL STICK CURTAIN WALL SYSTEM
+Line  20: POLYESTER POWDER COATED PAINT
+Line  21: FINISH SELECTED RAL.
+Line  22: CURTAIN WALL MULLION MANUFACTURERS
+Line  23: DETAILS SPECIFICATIONS.
+Line  24: CORNER POST
+Line  25: 3600
+Line  26: WALL
+Line  27: RWP
+Line  28: ZA
+Line  29: YA
+Line  30: 1100
+Line  31: 1450
+Line  32: 1450
+Line  33: 1450
+Line  34: 1450
+Line  35: 1450
+Line  36: 1450
+Line  37: 1450
+Line  38: 1150
+Line  39: 1500
+Line  40: 1500
+Line  41: 1500
+Line  42: 1500
+Line  43: 1500
+Line  44: 1500
+Line  45: 1500
+Line  46: 742
+Line  47: EQ
+Line  48: EQ
+Line  49: EQ
+Line  50: EQ
+Line  51: EQ
+Line  52: 2375
+Line  53: 1100
+Line  54: 12825
+Line  55: 1125
+Line  56: ED AD 002
+Line  57: 709
+Line  58: CW NORTH WALL
+Line  59: ZA
+Line  60: YA
+Line  61: YB
+Line  62: YC
+Line  63: A
+Line  64: XA
+Line  65: GL
+Line  66: DOUBLED GLAZED, THERMALLY BROKEN,
+Line  67: METAL STICK CURTAIN WALL SYSTEM
+Line  68: POLYESTER POWDER COATED PAINT
+Line  69: FINISH SELECTED RAL.
+Line  70: CURTAIN WALL MULLION
+Line  71: MANUFACTURERS DETAILS
+Line  72: SPECIFICATIONS.
+Line  73: WALL
+Line  74: REFER DRAWING ATH04 A
+Line  75: DETAILS
+Line  76: 1200
+Line  77: 1200
+Line  78: 1200
+Line  79: CEILING HEIGHT
+Line  80: 3500
+Line  81: 1125
+Line  82: 1150
+Line  83: 1125
+Line  84: GLAZING FINISH
+Line  85: GUARDIAN SUNGUARD SOLAR SILVER 43
+Line  86: ACCORDANCE ENERGY REQUIREMENTS
+Line  87: LICHT TRANSMISSION 43
+Line  88: SOLAR FACTOR
+Line  89: DOUBLE GLAZED ALUMINIUM CURTAIN FINISH. REFER SPEC
+Line  90: MULLIONS RAL 7016 ANTHRACITE GREY
+Line  91: CAPPING OUTSIDE 7016 ANTHRACITE GREY
+Line  92: ADMIN
+Line  93: COLO
+Line  94: COLO
+Line  95: TRUE NORTH
+Line  96: Sheet Title Number
+Line  97: Scale
+Line  98: Plan
+Line  99: Design Consultants
+Line 100: Microsoft
+Line 101: DATA CENTER ATH04
+Line 102: SPATA GREECE
+Line 103: Contractor Joint Venture
+Line 104: Name
+Line 105: Contractor Project
+Line 106: Contractor Contract
+Line 107: Contractor PM
+Line 108: Contractor BIM Mngr
+Line 109: Contractor Information
+Line 110: Renco Terna
+Line 111: Client
+Line 112: General Notes
+Line 113: Client Project
+Line 114: Client Contract
+Line 115: Client PM
+Line 116: Client BIM Mngr
+Line 117: Primary Client Information
+Line 118: Layout
+Line 119: Revision
+Line 120: Tombazi Chalandri
+Line 121: 15232
+Line 122: Athens Greece
+Line 123: 0800 3262
+Line 124: Agion Theodoron Square Athens
+Line 125: 10561
+Line 126: Athens Greece
+Line 127: Kimithois Agios Dimitrios
+Line 128: 17236
+Line 129: Athens Greece
+Line 130: Purpose Issue
+Line 131: Issue
+Line 132: Name
+Line 133: CURTAIN WALL SCHEDULE
+Line 134: ELEVATIONS SHEET
+Line 135: ATH04 VAP AH 709
+Line 136: SCALE
+Line 137: EXTERNAL CURTAIN WALL PLAN NORTH WALL PART
+Line 138: SCALE
+Line 139: EXTERNAL CURTAIN WALL ELEVATION NORTH WALL PART
+Line 140: SCALE
+Line 141: CURTAIN WALL LOCATION PLAN
+Line 142: SCALE
+Line 143: SECTION NORTH WALL PART
+Line 144: 2500
+Line 145: 5000
+Line 146: SCALE
+Line 147: 1250
+Line 148: SCALE
+Line 149: CDP SECONDARY STEEL
+Line 150: Date
+Line 151: Description
+Line 152: 05
+Line 153: Issued Approval
+Line 154: VAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 155

@@ -1,0 +1,140 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-735-0A_-_LOADING_DOCK_RAMP_SETTING_OUT.pdf ===
+
+Line   0: DN
+Line   1: XF
+Line   2: 735
+Line   3: 735
+Line   4: GALV. STEEL TUBES UPRIGHTS
+Line   5: GUARDRAIL STAIRS
+Line   6: SLAB EDGE
+Line   7: HIGHGALV. STEEL
+Line   8: GUARDRAIL INTEGRATED
+Line   9: CONCRETE PER DETAIL
+Line  10: WHEEL LOCK
+Line  11: VEHICE GUIDANCE
+Line  12: CAST SITU CONCRETE
+Line  13: STAIRS TREAD
+Line  14: RISER
+Line  15: GALV. STEEL TUBES UPRIGHTS
+Line  16: GUARDRAIL STAIRS
+Line  17: SLAB EDGE
+Line  18: YF
+Line  19: 1080
+Line  20: 2550
+Line  21: 751
+Line  22: 1230
+Line  23: 9269
+Line  24: 2370
+Line  25: 1120
+Line  26: 5274
+Line  27: 9200
+Line  28: 6350
+Line  29: LOADING
+Line  30: DOCK
+Line  31: ATH04 00 048
+Line  32: REFER CIVILS DRAWINGS FALLS SURFACE BUILD UPS
+Line  33: 2980
+Line  34: DIA CONTINUOUS
+Line  35: GALVANISED STEEL HANDRAIL
+Line  36: DIA GALVANISED
+Line  37: INTERMEDIATE RAIL
+Line  38: CAST SITU CONCRETE
+Line  39: STAIRS TREAD
+Line  40: RISER
+Line  41: DIA GALVANISED STEEL
+Line  42: RIGHTS MAX
+Line  43: 99000
+Line  44: 99000
+Line  45: 98000
+Line  46: GL
+Line  47: XF
+Line  48: 2370
+Line  49: REFER CIVILS ENGINEERS DRAWING
+Line  50: RAMP INTERFACE
+Line  51: WHEEL LOCK VEHICLE GUIDANCE
+Line  52: DIAMETER GALVANISED
+Line  53: STEEL TUBULAR MIDRAILS
+Line  54: STEEL BEAM STRUCTURAL ENGINEERS
+Line  55: DETAILS SPECIFICATION ENSURE FINISH
+Line  56: COMPLIANT EXTERNAL CONDITIONS
+Line  57: REGIONAL CODES PRACTICE
+Line  58: REFUSE BUILDING
+Line  59: YF
+Line  60: TRIMOTERM 1200 PERFORM
+Line  61: COMPOSITE ARCHITECTURAL
+Line  62: FACADE SYSTEM,
+Line  63: HORIZONTALLY LAID
+Line  64: SELECTED RAL COLOUR.
+Line  65: REFER
+Line  66: SPECIFICATIONS DETAILS
+Line  67: INSULATED TRAPEZOIDAL LOW
+Line  68: PITCH ROOF PANEL
+Line  69: INSULATED MEMBRANE LINED
+Line  70: GUTTER
+Line  71: RAIN WATER DOWN PIPE
+Line  72: 734
+Line  73: 99000
+Line  74: 99000
+Line  75: REFER CIVILS DRAWINGS FALLS SURFACE BUILD UPS
+Line  76: ADMIN
+Line  77: COLO
+Line  78: COLO
+Line  79: TRUE NORTH
+Line  80: Sheet Title Number
+Line  81: Scale
+Line  82: Plan
+Line  83: Design Consultants
+Line  84: Microsoft
+Line  85: DATA CENTER ATH04
+Line  86: SPATA GREECE
+Line  87: Contractor Joint Venture
+Line  88: Name
+Line  89: Contractor Project
+Line  90: Contractor Contract
+Line  91: Contractor PM
+Line  92: Contractor BIM Mngr
+Line  93: Contractor Information
+Line  94: Renco Terna
+Line  95: Client
+Line  96: General Notes
+Line  97: Client Project
+Line  98: Client Contract
+Line  99: Client PM
+Line 100: Client BIM Mngr
+Line 101: Primary Client Information
+Line 102: Layout
+Line 103: Revision
+Line 104: Tombazi Chalandri
+Line 105: 15232
+Line 106: Athens Greece
+Line 107: 0800 3262
+Line 108: Agion Theodoron Square Athens
+Line 109: 10561
+Line 110: Athens Greece
+Line 111: Kimithois Agios Dimitrios
+Line 112: 17236
+Line 113: Athens Greece
+Line 114: Purpose Issue
+Line 115: Issue
+Line 116: Name
+Line 117: LOADING DOCK RAMP SETTING
+Line 118: ATH04 VAP AH 735
+Line 119: SCALE
+Line 120: RAMP PLANT LOADING DOCK
+Line 121: SCALE
+Line 122: SECTION RAMP STAIRS
+Line 123: SCALE
+Line 124: SECTION RAMP LOADING BAY
+Line 125: 1250
+Line 126: SCALE
+Line 127: 1250
+Line 128: 2500
+Line 129: SCALE
+Line 130: Date
+Line 131: Description
+Line 132: 05
+Line 133: Issued Approval
+Line 134: VAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 135

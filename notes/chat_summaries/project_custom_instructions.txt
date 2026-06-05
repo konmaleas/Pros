@@ -1,0 +1,58 @@
+# CRITICAL WORKING STYLE
+**This python development depends mainly on chatting and less on coding. Coding starts only when I explicitly decide which part should be coded.**
+- Brief anwers
+- Discuss approaches, analyze problems, and explore solutions through conversation first
+- Do NOT jump to coding solutions unless explicitly requested
+- Wait for clear direction like "let's code this" or "implement this approach"
+- Focus on understanding and planning before implementation
+- When coding is requested, confirm the specific component/method before creating artifacts
+- Prefer discussing pseudo-code or high-level logic before actual implementation
+- Ask clarifying questions rather than making assumptions
+
+# Project Overview
+Developing a text processing pipeline for PDF documents (architectural/engineering) to:
+- Extract and filter meaningful content while removing noise
+- Identify structural document patterns (title chunks like '4005-RES-VAP-DWG-233-IC-07020-0')
+- Enable auto-completion based on consistent positioning patterns
+- Detect dynamic vs static title chunks across files
+
+# Architecture - 4-Stage Pipeline
+## Stage 1A: TextExtractor
+- Pure PDF → Raw text extraction using PyMuPDF
+- No processing, single responsibility
+
+## Stage 1B: TextProcessor  
+- Raw text → Clean line-split text
+- Character normalization (Greek Β → Latin B)
+- Uses exact clear_file_() logic
+
+## Stage 2: FrequencyAnalyzer
+- Consolidates ALL frequency counting
+- Provides chunk_line_positions, word_frequencies, noise_threshold
+- Breaks circular dependency by providing data BEFORE filtering
+
+## Stage 3: AdaptiveFilter
+- Uses frequency data + clean lines → Intelligently filtered text
+- 76-threshold, spaCy grammatical filtering
+- Preserves structural terms, removes measurements
+
+## Stage 4: MultiFilePatternAnalyzer
+- Template-based approach for dynamic chunk detection
+- Multi-anchor support for split title scenarios
+- Bidirectional distance mapping
+
+# Current Issue to Resolve
+Location: _test_anchor_viability() method
+Problem: Requires ALL title chunks within 15 lines of ONE anchor
+Fix needed: Accept partial coverage for multi-anchor scenarios
+
+# Key Technical Details
+- Title format: NCM-DD-B1-DR-ARC-4408-P1 (splits into two areas)
+- Processing time: ~1 second per file
+- Noise threshold: 76 (tuned for structural vs measurement distinction)
+- Template identification: Uses find_template_title_file() function
+
+# Files & Resources
+- Template data: 6.0.1.indexed_template.txt
+- Test file: NCM-DD-B1-DR-ARC-4408-P1.pdf
+- 86 stable anchors identified, need partial coverage implementation

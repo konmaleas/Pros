@@ -1,0 +1,30 @@
+Summary for New Conversation
+
+Project: PDF Title Analysis Pipeline - Multi-anchor pattern matching for split title chunks
+
+Current Status: Working system with one remaining bug
+
+Architecture Complete:
+
+    4-stage pipeline (TextExtractor → TextProcessor → FrequencyAnalyzer → AdaptiveFilter → MultiFilePatternAnalyzer)
+    Character encoding normalization (Greek Β → Latin B)
+    Dynamic chunk validation (learns patterns from template)
+    Multi-anchor detection framework
+    ALL-or-nothing completeness validation
+
+Current Issue - Precise Location: In _test_anchor_viability() method, line: max_distance = max(max_distance, min_chunk_distance)
+
+The Problem: System finds 86 viable stable anchors (including ['ΚΟΣΜΑΣ', 'ΒΑΡΚΑΡΟΛΗΣ'], ['LANDCO', 'EΠΕ', 'ΚΑΝΤΑΡΤΖΗΣ']) but ALL score=0 because viability test requires ALL title chunks within 15 lines of ONE anchor. In 2-anchor split scenario (chunks at lines ~350 and ~420), no single anchor can reach both areas.
+
+Required Fix: Modify _test_anchor_viability() to accept partial coverage - if anchor can reach SOME title chunks within threshold, mark as viable for multi-anchor processing.
+
+Test Data:
+
+    File: NCM-DD-B1-DR-ARC-4408-P1.pdf
+    Title: NCM-DD-B1-DR-ARC-4408-P1
+    Split chunks: Area1(~350): NCM,DD,DR,ARC | Area2(~420): 4408,B1,P1
+    86 stable anchors found, zero selected due to distance constraint
+
+Next Step: Implement partial coverage in viability test to enable multi-anchor scenario completion.
+
+

@@ -1,0 +1,141 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-1013-0A_BUILDERS_WORK_MEP_PENETRATIONS_-_WELLNESS.pdf ===
+
+Line   0: GL
+Line   1: CEILING LEVEL
+Line   2: MP AD 013 02
+Line   3: MP AD 013 03
+Line   4: MP AD 013 01
+Line   5: MP AD 013 04
+Line   6: 3740
+Line   7: 4155
+Line   8: 405
+Line   9: 3945
+Line  10: WELLNESS
+Line  11: ATH04 00 013
+Line  12: PRINT ROOM
+Line  13: ATH04 00 012
+Line  14: MP AD 012 01
+Line  15: 3625
+Line  16: GL
+Line  17: CEILING LEVEL
+Line  18: MP AD 013 05
+Line  19: MP AD 013 06
+Line  20: MP AD 013 08
+Line  21: MP AD 013 07
+Line  22: MP AD 013 09
+Line  23: 1455
+Line  24: 4780
+Line  25: 4285
+Line  26: 3690
+Line  27: 4780
+Line  28: 3875
+Line  29: WELLNESS
+Line  30: ATH04 00 013
+Line  31: GL
+Line  32: CEILING LEVEL
+Line  33: MP AD 013
+Line  34: MP AD 013
+Line  35: MP AD 013
+Line  36: MP AD 013
+Line  37: 5390
+Line  38: 3735
+Line  39: 3945
+Line  40: MP AD 013
+Line  41: 4285
+Line  42: WELLNESS
+Line  43: ATH04 00 013
+Line  44: MP AD 013
+Line  45: 4405
+Line  46: GL
+Line  47: CEILING LEVEL
+Line  48: MP AD 013
+Line  49: MP AD 013
+Line  50: 3815
+Line  51: 705
+Line  52: WELLNESS
+Line  53: ATH04 00 013
+Line  54: 4555
+Line  55: 1013
+Line  56: 1013
+Line  57: 1013
+Line  58: 1013
+Line  59: WELLNESS
+Line  60: ATH04 00 013
+Line  61: PRINT ROOM
+Line  62: ATH04 00 012
+Line  63: PHONE
+Line  64: BOOTH
+Line  65: ATH04 00 011
+Line  66: MEP PENETRATIONS CODE
+Line  67: MP AD XXX XX
+Line  68: MP
+Line  69: MEP PENETRATIONS
+Line  70: AD
+Line  71: BUILDING CODE
+Line  72: XXX
+Line  73: ROOM NUMBER
+Line  74: XX
+Line  75: PENETRATION NUMBER
+Line  76: 40
+Line  77: ADMIN
+Line  78: COLO
+Line  79: COLO
+Line  80: TRUE NORTH
+Line  81: Sheet Title Number
+Line  82: Scale
+Line  83: Plan
+Line  84: Design Consultants
+Line  85: Microsoft
+Line  86: DATA CENTER ATH04
+Line  87: SPATA GREECE
+Line  88: Contractor Joint Venture
+Line  89: Name
+Line  90: Contractor Project
+Line  91: Contractor Contract
+Line  92: Contractor PM
+Line  93: Contractor BIM Mngr
+Line  94: Contractor Information
+Line  95: Renco Terna
+Line  96: Client
+Line  97: General Notes
+Line  98: Client Project
+Line  99: Client Contract
+Line 100: Client PM
+Line 101: Client BIM Mngr
+Line 102: Primary Client Information
+Line 103: Layout
+Line 104: Revision
+Line 105: Tombazi Chalandri
+Line 106: 15232
+Line 107: Athens Greece
+Line 108: 0800 3262
+Line 109: Agion Theodoron Square Athens
+Line 110: 10561
+Line 111: Athens Greece
+Line 112: Kimithois Agios Dimitrios
+Line 113: 17236
+Line 114: Athens Greece
+Line 115: Purpose Issue
+Line 116: Issue
+Line 117: Name
+Line 118: BUILDERS WORK MEP PENETRATIONS
+Line 119: WELLNESS
+Line 120: ATH04 VAP AH 1013
+Line 121: SCALE
+Line 122: 012 013 WELLNESS ROOM ELEVATION EAST MEP PENETRATIONS
+Line 123: SCALE
+Line 124: 013 WELLNESS ELEVATION NORTH MEP PENETRATIONS
+Line 125: SCALE
+Line 126: 013 WELLNESS ELEVATION SOUTH MEP PENETRATIONS
+Line 127: SCALE
+Line 128: 013 WELLNESS ELEVATION WEST MEP PENETRATIONS
+Line 129: 1000
+Line 130: SCALE
+Line 131: Date
+Line 132: Description
+Line 133: 07
+Line 134: Issued Approval
+Line 135: VAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 136

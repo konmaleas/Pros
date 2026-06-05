@@ -1,0 +1,41 @@
+=== FILTERED TEXT FOR: 381_KST_CD_DR_A_B-20B_101_00.pdf ===
+
+Line   0: TBD
+Line   1: TBD
+Line   2: Storage
+Line   3: 403 00
+Line   4: 402 00
+Line   5: 401 00
+Line   6: 00
+Line   7: 00
+Line   8: 404 00
+Line   9: CHK
+Line  10: DATE
+Line  11: DWG
+Line  12: ADDRESS
+Line  13: DATE
+Line  14: DRAWING TITLE
+Line  15: DESIGN STAGE
+Line  16: PROJECT
+Line  17: SIGNED
+Line  18: CLIENT
+Line  19: DESCRIPTION
+Line  20: NO.
+Line  21: DRAWING
+Line  22: REVISIONS
+Line  23: NOTES
+Line  24: CONCEPT DESIGN
+Line  25: CD Building
+Line  26: FILE NAME
+Line  27: ELOUNDA, CRETE
+Line  28: PHAEA RESORTS
+Line  29: KST CD DR 00
+Line  30: ROSEWOOD BLUE PALACE
+Line  31: GROUND FLOOR PROPOSAL
+Line  32: 03 02
+Line  33: 03 02 2023
+Line  34: PLAN BUILDING
+Line  35: SCALE
+
+=== END OF FILTERED TEXT ===
+Total lines: 36

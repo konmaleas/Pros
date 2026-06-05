@@ -1,0 +1,98 @@
+=== FILTERED TEXT FOR: Α2-604-00.pdf ===
+
+Line   0: 3350
+Line   1: 1100
+Line   2: 3050
+Line   3: 2460
+Line   4: 1500
+Line   5: 1
+Line   6: 1100
+Line   7: 1000
+Line   8: 1800
+Line   9: 700
+Line  10: 2237
+Line  11: 2240
+Line  12: 2240
+Line  13: 2234
+Line  14: 2246
+Line  15: BEACH BAR
+Line  16: 022
+Line  17: BEACH BAR
+Line  18: 3350
+Line  19: 1000
+Line  20: 1100
+Line  21: 1800
+Line  22: 1010
+Line  23: 2460
+Line  24: 1000
+Line  25: 1100
+Line  26: 1800
+Line  27: 1550
+Line  28: BEACH BAR
+Line  29: 3350
+Line  30: 1010
+Line  31: 1
+Line  32: 1
+Line  33: 1 1 1
+Line  34: 1 1
+Line  35: ΚΛΙΜΑΚΑ
+Line  36: ΚΑΤΗΓΟΡΙΑ
+Line  37: ΚΥΡΙΟΣ ΕΡΓΟΥ
+Line  38: ΕΡΓΟ
+Line  39: ΑΡΙΘΜΟΣ ΣΧΕΔΙΟΥ
+Line  40: ΗΜΕΡΟΜΗΝΙΑ ΜΕΛΕΤΗΣ
+Line  41: VAP ARCHITECTS
+Line  42: Ηπείρου Αθήνα Ελλάδα
+Line  43: 3262 3269
+Line  44: ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΜΕΛΕΤΗ
+Line  45: ΣΤΑΔΙΟ ΜΕΛΕΤΗΣ
+Line  46: Όλες
+Line  47: ΣΥΝΕΡΓΑΤΕΣ ΜΕΛΕΤΗΣ ΕΦΑΡΜΟΓΗΣ
+Line  48: ΚΛΕΙΔΑ
+Line  49: ΣΧΕΔΙΟ
+Line  50: HΜ ΝΙΑ ΣΧΕΔΙΟΥ
+Line  51: ΑΚΟΥΣΤΙΚΗ ΜΕΛΕΤΗ
+Line  52: ΜΕΛΕΤΗ ΦΩΤΙΣΜΟΥ
+Line  53: ΣΤΑΤΙΚΗ ΜΕΛΕΤΗ
+Line  54: ΜΗΧΑΝΟΛΟΓΙΚΗ ΜΕΛΕΤΗ
+Line  55: Ροστάν 44, 41, Αθήνα
+Line  56: 771, 2023
+Line  57: Σύμβουλοι Μηχανικοί
+Line  58: ΠΑΡΑΤΗΡΗΣΕΙΣ
+Line  59: ΕΡΕΙΣΜΑ
+Line  60: ΤΕΧΝΙΚΗ ΕΤΑΙΡΕΙΑ
+Line  61: Νάξου Κηφισιά
+Line  62: Παρασκευής Χαλάνδρι
+Line  63: 42 094,
+Line  64: IFI
+Line  65: INTRA ΞΕΝΟΔΟΧΕΙΑΚΗ
+Line  66: 1
+Line  67: 1 2017 40 04
+Line  68: ΚΑΤΑΣΚΕΥΑΣΤΙΚΑ
+Line  69: ΑΝΑΚΑΤΑΣΚΕΥΗ ΞΕΝΟΔΟΧΕΙΟΥ
+Line  70: ΣΤΗΝ ΜΥΚΟΝΟ
+Line  71: ΟΚΤΩΒΡΙΟΣ 2016
+Line  72: ΜΕΛΕΤΗ ΕΦΑΡΜΟΓΗΣ
+Line  73: Πλατύς Γιαλός Μύκονος
+Line  74: BEACH BAR
+Line  75: 01 2017
+Line  76: ΑΝΑΠΤΥΓΜΑΤΑ
+Line  77: 00
+Line  78: ΑΝΑΘΕΩΡΗΣΕΙΣ
+Line  79: ΠΕΡΙΓΡΑΦΗ
+Line  80: ΗΜ ΝΙΑ
+Line  81: 00
+Line  82: ΠΡΩΤΗ ΕΚΔΟΣΗ
+Line  83: 01 2017
+Line  84: 1
+Line  85: 1
+Line  86: ΟΨΗ BEACH BAR
+Line  87: 1
+Line  88: ΕΣΩΤΕΡΙΚΗ ΟΨΗ BEACH BAR
+Line  89: 1
+Line  90: ΕΣΩΤΕΡΙΚΗ ΟΨΗ BEACH BAR
+Line  91: 1
+Line  92: ΕΣΩΤΕΡΙΚΗ ΟΨΗ BEACH BAR
+
+=== END OF FILTERED TEXT ===
+Total lines: 93

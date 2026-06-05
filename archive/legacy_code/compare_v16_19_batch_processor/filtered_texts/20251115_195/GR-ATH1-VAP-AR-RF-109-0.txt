@@ -1,0 +1,103 @@
+=== FILTERED TEXT FOR: GR-ATH1-VAP-AR-RF-109-0.pdf ===
+
+Line   0: CR
+Line   1: CR
+Line   2: CR
+Line   3: CR
+Line   4: CR
+Line   5: CR
+Line   6: TS
+Line   7: CR
+Line   8: CR
+Line   9: ACP 4
+Line  10: DRAWING SYMBOLS LEGEND
+Line  11: Name
+Line  12: ROOM CODE
+Line  13: ROOM NAME
+Line  14: ROOM AREA
+Line  15: XF XX
+Line  16: DOOR CODE
+Line  17: DOOR SILL
+Line  18: DOOR HEAD
+Line  19: DOOR WIDTH
+Line  20: FFL
+Line  21: FINAL FLOOR LEVEL
+Line  22: AR
+Line  23: DRAWING NUMBER
+Line  24: SHEET NUMBER
+Line  25: AR
+Line  26: DRAWING NUMBER
+Line  27: SHEET NUMBER
+Line  28: BUILDING GRID LINES
+Line  29: RELATIVE HEIGHT ABSOLUTE HEIGHT
+Line  30: SHAFT
+Line  31: SSL
+Line  32: STRUCTURAL SLAB LEVEL
+Line  33: PLANTING
+Line  34: 2
+Line  35: 4
+Line  36: AR
+Line  37: AR
+Line  38: AR
+Line  39: AR
+Line  40: AR
+Line  41: TERRACE
+Line  42: 2168
+Line  43: SETBACK
+Line  44: FFL
+Line  45: SSL
+Line  46: PROJECT NO.
+Line  47: DRAWN
+Line  48: CHECKED
+Line  49: SHEET SIZE
+Line  50: SCALE
+Line  51: SHEET TITLE NUMBER
+Line  52: SEAL
+Line  53: DATA CENTER MEP CONSULTANT
+Line  54: Syska Hennessy Group,
+Line  55: Dubai Internet City, Building Office Dubai, UAE
+Line  56: 4 3810
+Line  57: GENERAL NOTES
+Line  58: CONSULTANT
+Line  59: Ravine Street, Athina Greece
+Line  60: 4
+Line  61: ARCHITECT
+Line  62: Tompazi Chalandri
+Line  63: VAP Architects
+Line  64: STRUCTURAL ENGINEER
+Line  65: NAMA Consulting Engineers Planners SA
+Line  66: Address Perrikou GR 11524 Athens, Greece
+Line  67: KEY PLAN
+Line  68: SCALE DRAWINGS.
+Line  69: DOUBT, REQUEST MORE FURTHER
+Line  70: INFORMATION.
+Line  71: 2. DRAWING READ
+Line  72: CONJUNCTION CONTRACT
+Line  73: CONDITIONS, SPECIFICATIONS,
+Line  74: EQUIPMENT SCHEDULES
+Line  75: ARCHITECTURAL DRAWINGS.
+Line  76: DIMENSIONS MILLIMETER
+Line  77: ELEVATIONS METERS UNNLESS
+Line  78: OTHERWISE SPECIFIED.
+Line  79: 4. COMMUNICATION
+Line  80: SPECIALIZED DISCIPLINES SHOWN
+Line  81: DRAWINGS
+Line  82: CONTRACTOR.
+Line  83: Κοινότητα Σπάτων Λούτσας
+Line  84: Municipal Community Spata Loutsa, Athens, Greece
+Line  85: ATH Data Center
+Line  86: 2 2025 02
+Line  87: Autodesk Docs Damac Greece DC Design Greece VAP ARC DC
+Line  88: GR ATH1 VAP AR RF
+Line  89: VAP
+Line  90: General Arrangement Plan RF Technical
+Line  91: Blocks
+Line  92: VAP
+Line  93: REV
+Line  94: DATE
+Line  95: DESCRIPTION
+Line  96: 02 2025
+Line  97: First Issuance Approval
+
+=== END OF FILTERED TEXT ===
+Total lines: 98

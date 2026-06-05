@@ -1,0 +1,426 @@
+=== FILTERED TEXT FOR: 4062_124_ATA_DWG_288_DD_00941_A.pdf ===
+
+Line   0: A
+Line   1: LAUNDRY
+Line   2: 4062 124 711 01
+Line   3: ΧΩΡΟΣ ΠΛYΝΤHΡΙΟΥ
+Line   4: STAFF WC
+Line   5: 4062 124 01
+Line   6: ΧΩΡΟΣ ΥΓΙΕΙΝΗΣ ΠΡΟΣΩΠΙΚΟΥ
+Line   7: MEP AREA
+Line   8: 4062 124 429 02
+Line   9: ΗΛΕΚΤΡΟΜΗΧΑΝΟΛΟΓΙΚΕΣ
+Line  10: ΕΓΚΑΤΑΣΤΑΣΕΙΣ
+Line  11: STAFF BEDROOM
+Line  12: 4062 124 01
+Line  13: ΔΩΜΑΤΙΟ ΠΡΟΣΩΠΙΚΟΥ
+Line  14: MEP AREA
+Line  15: 4062 124 429 03
+Line  16: ΗΛΕΚΤΡΟΜΗΧΑΝΟΛΟΓΙΚΕΣ
+Line  17: ΕΓΚΑΤΑΣΤΑΣΕΙΣ
+Line  18: STORAGE
+Line  19: 4062 124 408 02
+Line  20: ΑΠΟΘΗΚΗ
+Line  21: STORAGE
+Line  22: 4062 124 408 03
+Line  23: ΑΠΟΘΗΚΗ
+Line  24: STORAGE
+Line  25: 4062 124 408 04
+Line  26: ΑΠΟΘΗΚΗ
+Line  27: WC
+Line  28: 4062 124 708 02
+Line  29: ΧΩΡΟΣ ΥΓΙΕΙΝΗΣ
+Line  30: POOL WC
+Line  31: 4062 124 708 03
+Line  32: ΧΩΡΟΣ ΥΓΙΕΙΝΗΣ ΠΙΣΙΝΑΣ
+Line  33: STORAGE
+Line  34: 4062 124 408 05
+Line  35: ΑΠΟΘΗΚΗ
+Line  36: STORAGE
+Line  37: 4062 124 408 01
+Line  38: ΑΠΟΘΗΚΗ
+Line  39: MEP AREA A
+Line  40: 4062 124 429 04
+Line  41: ΜΗΧΑΝΟΛΟΓΙΚΕΣ ΕΓΚΑΤΑΣΤΑΣΕΙΣ
+Line  42: STAFF LIVING
+Line  43: 4062 124 702 01
+Line  44: ΚΑΘΙΣΤΙΚΟ ΠΡΟΣΩΠΙΚΟΥ
+Line  45: WC
+Line  46: 4062 124 708 01
+Line  47: ΧΩΡΟΣ ΥΓΙΕΙΝΗΣ
+Line  48: TRAINING AREA
+Line  49: 4062 124 01
+Line  50: ΓΥΜΝΑΣΤΗΡΙΟ
+Line  51: FAMILY MULTIPURPOSE ROOM
+Line  52: 4062 124 702 02
+Line  53: ΧΩΡΟΣ ΠΟΛΛΑΠΛΩΝ ΧΡΗΣΕΩΝ
+Line  54: POOL MEP AREA
+Line  55: 4062 124 429 05
+Line  56: ΜΗΧΑΝΟΛΟΓΙΚΕΣ ΕΓΚΑΤΑΣΤΑΣΕΙΣ
+Line  57: ΠΙΣΙΝΑΣ
+Line  58: BASEMENT CORRIDOR
+Line  59: 4062 124 02
+Line  60: ΧΩΡΟΣ ΚΥΚΛΟΦΟΡΙΑΣ ΥΠΟΓΕΙΟΥ
+Line  61: BASEMENT CORRIDOR
+Line  62: 4062 124 01
+Line  63: ΔΙΑΔΡΟΜΟΣ ΥΠΟΓΕΙΟΥ
+Line  64: POOL WC HALLWAY
+Line  65: 4062 124 713 01
+Line  66: ΠΡΟΘΑΛΑΜΟΣ WC ΠΙΣΙΝΑΣ
+Line  67: ACCESS GARDEN LEVEL
+Line  68: 4062 124 01
+Line  69: ΠΡΟΣΒΑΣΗ ΣΤΟ ΕΠΙΠΕΔΟ ΤΟΥ ΚΗΠΟΥ
+Line  70: COUR ANGLAISE
+Line  71: ΦΩΤΑΓΩΓΟΣ
+Line  72: COUR ANGLAISE
+Line  73: COUR ANGLAISE
+Line  74: ΦΩΤΑΓΩΓΟΣ
+Line  75: EQ
+Line  76: EQ
+Line  77: EQ
+Line  78: EQ
+Line  79: EQ
+Line  80: EQ
+Line  81: EQ
+Line  82: EQ
+Line  83: EQ
+Line  84: EQ
+Line  85: EQ
+Line  86: EQ
+Line  87: EQ
+Line  88: EQ
+Line  89: EQ
+Line  90: EQ
+Line  91: EQ
+Line  92: EQ
+Line  93: EQ
+Line  94: EQ
+Line  95: EQ
+Line  96: EQ
+Line  97: EQ
+Line  98: EQ
+Line  99: EQ
+Line 100: EQ
+Line 101: EQ
+Line 102: EQ
+Line 103: EQ
+Line 104: EQ
+Line 105: EQ
+Line 106: EQ
+Line 107: EQ
+Line 108: EQ
+Line 109: EQ
+Line 110: EQ
+Line 111: EQ
+Line 112: EQ
+Line 113: EQ
+Line 114: EQ
+Line 115: EQ EQ
+Line 116: EQ
+Line 117: EQ
+Line 118: EQ
+Line 119: EQ
+Line 120: EQ
+Line 121: EQ
+Line 122: EQ
+Line 123: EQ
+Line 124: EQ
+Line 125: EQ
+Line 126: EQ
+Line 127: Power
+Line 128: Supply
+Line 129: EQ
+Line 130: EQ
+Line 131: EQ
+Line 132: EQ
+Line 133: EQ
+Line 134: EQ
+Line 135: EQ
+Line 136: EQ
+Line 137: EQ
+Line 138: EQ
+Line 139: EQ
+Line 140: EQ
+Line 141: EQ
+Line 142: EQ EQ
+Line 143: EQ
+Line 144: EQ
+Line 145: EQ
+Line 146: EQ
+Line 147: Power
+Line 148: Supply
+Line 149: Power
+Line 150: Supply
+Line 151: EQ
+Line 152: EQ
+Line 153: EQ
+Line 154: Ceiling DALI
+Line 155: Linea Light Epitax
+Line 156: Ceiling DALI
+Line 157: Linea Light Epitax,
+Line 158: Ceiling DALI
+Line 159: Delta Light Splitline Profile 92745 23324 9235 Spread
+Line 160: Ceiling DALI
+Line 161: Molto Luce Blindspot
+Line 162: Ceiling DALI
+Line 163: Linea Light Quantum RJ,
+Line 164: Flexible DALI
+Line 165: Osram 04
+Line 166: Ceiling DALI
+Line 167: Delta Light Splitline Profile 92733 24415 9225
+Line 168: Lighting Kitchen DALI
+Line 169: Osram 05
+Line 170: Ceiling DALI
+Line 171: Linea Light Epitax,
+Line 172: Ceiling DALI
+Line 173: Linea Light Quantum RJ,
+Line 174: Linear
+Line 175: Osram 05
+Line 176: Wall
+Line 177: Artemide Itka Wall Ceiling,
+Line 178: Ceiling DALI
+Line 179: Osram 05
+Line 180: Ceiling DALI
+Line 181: Linea Light Epitax,
+Line 182: Linear
+Line 183: Osram 05
+Line 184: Linear
+Line 185: Osram 05
+Line 186: Ceiling DALI
+Line 187: Osram 05
+Line 188: Ceiling DALI
+Line 189: Delta Light Clip 92730, 24118 9220
+Line 190: Wall
+Line 191: Astro Lighting Borgo Trimless Mini
+Line 192: Small Bedroom DALI
+Line 193: Linea Light Periskop,
+Line 194: Floor Master DALI
+Line 195: DGA Gemma Solovetro,
+Line 196: Ceiling DALI
+Line 197: Linea Light Quantum
+Line 198: Ceiling DALI
+Line 199: Delta Light Splitline Profile 92745 23324 9335 Spread
+Line 200: Ceiling
+Line 201: Linea Light Warp
+Line 202: Ceiling
+Line 203: Linea Light Warp
+Line 204: Linear Landry DALI
+Line 205: Bright Notus Trimless A Linear
+Line 206: Ceiling DALI
+Line 207: Linea Light Fylo Direct 65187 Ribbon, 98078
+Line 208: Wall DALI
+Line 209: Underscore Side Bend
+Line 210: Ceiling DALI
+Line 211: Linea Light Fylo Direct 65187 Ribbon, 98568
+Line 212: Ceiling
+Line 213: Linea Light Warp RJ,
+Line 214: Wall
+Line 215: Scap 92271 AN
+Line 216: Decorative
+Line 217: Marset Ginger 44
+Line 218: Decorative
+Line 219: Marset Ginger
+Line 220: Ceiling
+Line 221: Linea Light Epitax,
+Line 222: Small
+Line 223: Luce Light Ginko
+Line 224: Small
+Line 225: Luce Light Ginko
+Line 226: Small
+Line 227: Luce Light Ginko
+Line 228: Wall
+Line 229: Linea Light Envelop
+Line 230: Floor DALI
+Line 231: Linea Light Rubber 80398
+Line 232: Decorative
+Line 233: Wall
+Line 234: Simes Ghost Linear
+Line 235: Linear
+Line 236: Osram 05
+Line 237: Floor DALI
+Line 238: WB SC GS
+Line 239: Floor
+Line 240: Flexa Lighting Miniair, MXR
+Line 241: Socket
+Line 242: Power Supply
+Line 243: Decorative Formal
+Line 244: Speers
+Line 245: Decorative Formal
+Line 246: Roll Hill Agnes Chandelier Lights
+Line 247: Decorative Formal
+Line 248: Oluce Atollo Metal
+Line 249: Decorative Formal
+Line 250: Catellani Smith Lola
+Line 251: Decorative Family Living
+Line 252: Foscarini Chouchin
+Line 253: Decorative Family Living
+Line 254: Foscarini Chouchin
+Line 255: Decorative WC
+Line 256: Articolo Lighting Moni Pendant
+Line 257: Decorative Kitchen
+Line 258: Vibia Scan 0271
+Line 259: Decorative Family
+Line 260: Gubi Grashoppa Floor Lamp
+Line 261: Desk Office
+Line 262: Luce Plan Ascent
+Line 263: Decorative Office
+Line 264: Michael Anastassiades Mobile Chandelier
+Line 265: Decorative Bedroom DALI
+Line 266: Tooy Thula
+Line 267: Decorative Guest DALI
+Line 268: Matthew Cormick Cascadia Round
+Line 269: Wall
+Line 270: Astro Lighting Digit II,
+Line 271: Decorative Guest
+Line 272: Tradition Blow
+Line 273: Wall Bathrooms DALI
+Line 274: Marset Ambrosia A
+Line 275: Decorative Bedrooms
+Line 276: Muuto Floor Lamp
+Line 277: Decorative Bedrooms
+Line 278: Muuto Table Lamp
+Line 279: Decorative
+Line 280: Kaia Lighting
+Line 281: Decorative Bedrooms
+Line 282: Gubi Gravity Table Lamp Small
+Line 283: Decorative Loft
+Line 284: Works Kizu Table Lamp Small
+Line 285: Picture
+Line 286: Juniper Thin Surface Mount Picture Light
+Line 287: Decorative
+Line 288: Tradition Caret
+Line 289: Decorative
+Line 290: Tradition Como
+Line 291: Wall
+Line 292: Astro Lighting Keta USB,
+Line 293: Decorative Floor Office
+Line 294: Viabizzuni Floor,
+Line 295: Decorative Master
+Line 296: Articolo Lighting Float Pendant
+Line 297: Decorative Master DALI
+Line 298: Super Modular Placebo Down GE,
+Line 299: Decorative Master DALI
+Line 300: Super Modular Placebo GE,
+Line 301: Decorative Master
+Line 302: Flos Noctambule Floor High Cylinder Small Base,
+Line 303: Mirror
+Line 304: Inbani Strato
+Line 305: Decorative
+Line 306: LEDS Bang, 05 5085 BW BW
+Line 307: Decorative Family Multipurpose Room DALI
+Line 308: Tooy Thula Pendant
+Line 309: Decorative Family Multipurpose Room
+Line 310: Tooy Osman
+Line 311: Decorative Staff Living
+Line 312: Nordlux Artist 40
+Line 313: Decorative Staff
+Line 314: Nordlux Dicte
+Line 315: Decorative Staff
+Line 316: Nordlux Dicte Pendant
+Line 317: Wall Staff Bathroom
+Line 318: Astro Lighting Round,
+Line 319: Wall Basement Pool WC
+Line 320: Astro Lighting Kyoto
+Line 321: Decorative Outdoor Dining
+Line 322: Foscarini Aplomb
+Line 323: Decorative Outdoor Living
+Line 324: Royal Botania Club House Floor Lamp
+Line 325: Decorative
+Line 326: Brokis Dome Nomad,
+Line 327: Decorative
+Line 328: Brokis Spera Portable,
+Line 329: Decorative Floor Office DALI
+Line 330: Anour Model Cordless
+Line 331: Decorative
+Line 332: Solpuri Moon,
+Line 333: Decorative
+Line 334: Vibia June 4730
+Line 335: LIGHTING LEGEND ARCHITECTURAL LIGHTING
+Line 336: LIGHTING LEGEND DECORATIVE LIGHTING
+Line 337: Σημείωση Πνευματικών Δικαιωμάτων. 2121 1993
+Line 338: ΕΛΛΗΝΙΚΟ
+Line 339: Ρήτρα Περιορισμού Ευθύνης. ΕΛΛΗΝΙΚΟ
+Line 340: ΝΑ ΜΗΝ ΑΛΛΑΧΘΕΙ ΚΛΙΜΑΚΑ ΤΟΥ ΣΧΕΔΙΟΥ.
+Line 341: Copyright Notice. 2121 1993
+Line 342: HELLINIKON
+Line 343: Disclaimer. HELLINIKON
+Line 344: CHANGE SCALE DRAWING.
+Line 345: ΓΕΝΙΚΕΣ ΣΗΜΕΙΩΣΕΙΣ GENERAL NOTES
+Line 346: ΕΓΓΡΑΦΑ ΑΝΑΦΟΡΑΣ GENERAL REFERENCE
+Line 347: ΕΡΓΟ PROJECT
+Line 348: ΑΝΑΠΤΥΞΗ ΤΟΥ ΜΗΤΡΟΠΟΛΙΤΙΚΟΥ ΠΟΛΟΥ ΕΛΛΗΝΙΚΟΥ ΑΓIOY ΚΟΣΜΑ
+Line 349: DEVELOPMENT METROPOLITAN POLE HELLINIKON AG. KOSMAS
+Line 350: ΕΡΓΟΔΟΤΗΣ EMPLOYER
+Line 351: ΕΡΓΟΔΟΤΗ EMPLOYER DETAILS
+Line 352: HELLINIKON
+Line 353: ΕΛΛΗΝΙΚΟ HELLINIKON
+Line 354: Kifisias Avenue Golden Hall
+Line 355: 15123 Marousi
+Line 356: A
+Line 357: ΣΥΜΒΟΥΛΟΣ ΔΙΑΧΕΙΡΙΣΗΣ ΕΡΓΟΥ
+Line 358: PROJECT MANAGEMENT CONSULTANT
+Line 359: ΣΥΜΒΟΥΛΟΥ ΔΙΑΧΕΙΡΙΣΗΣ ΕΡΓΟΥ
+Line 360: PROJECT MANAGEMENT CONSULTANT DETAILS
+Line 361: ΚΥΡΙΟΣ ΜΕΛΕΤΗΤΗΣ LEAD DESIGNER
+Line 362: ΚΥΡΙΟΥ ΜΕΛΕΤΗΤΗ LEAD DESIGNER DETAILS
+Line 363: ΓΡΑΦΕΙΟ ΜΕΛΕΤΩΝ ΑΛΕΞΑΝΔΡΟΥ ΤΟΜΠΑΖΗ
+Line 364: ALEXANDROS TOMBAZIS ASSOCIATES ARCHITECTS
+Line 365: Monemvasias 15125 Polydroso
+Line 366: STRUCTURAL DESIGN
+Line 367: LANDSCAPE DESIGN
+Line 368: SPECIAL ARCHITECTURAL
+Line 369: LIGHTING
+Line 370: ACOUSTICS
+Line 371: MEP DESIGN
+Line 372: SUSTAINABILITY
+Line 373: ΑΝΕΓΕΡΣΗ ΔΙΩΡΟΦΗΣ ΜΟΝΟΚΑΤΟΙΚΙΑΣ, ΜΕ ΕΝΑΝ ΥΠΟΓΕΙΟ ΟΡΟΦΟ ΣΤΑΘΜΕΥΣΗΣ, ΒΟΗΘΗΤΙΚΩΝ ΚΑΙ ΚΥΡΙΩΝ ΧΩΡΩΝ, ΠΑΤΑΡΙ, ΦΥΤΕΜΕΝΟ
+Line 374: ΚΟΛΥΜΒΗΤΙΚΗ ΔΕΞΑΜΕΝΗ, ΔΙΑΜΟΡΦΩΣΗΠΕΡΙΒΑΛΛΟΝΤΟΣ ΧΩΡΟΥ ΚΑΙ ΑΔΕΙΑ ΚΟΠΗΣ ΔΕΝΤΡΩΝ ΣΤΟ ΟΙΚΟΠΕΔΟ ΤΟΥ
+Line 375: ΟΙΚΟΔΟΜΙΚΟΥ ΤΕΤΡΑΓΩΝΟΥ
+Line 376: ΕΓΓΡΑΦΟΥ DOCUMENT DRAWING CODIFICATION
+Line 377: Eleni Alexandrou
+Line 378: Architecture Environmental
+Line 379: Design
+Line 380: REV.
+Line 381: DATE
+Line 382: ISSUE
+Line 383: DESCRIPTION UPDATE VERSION
+Line 384: ORIGINATED
+Line 385: CHECKED
+Line 386: VERIFIED
+Line 387: LEAD DESIGNER
+Line 388: APPROVED
+Line 389: PMC
+Line 390: STATUS
+Line 391: ΚΛΙΜΑΚΑ SCALE
+Line 392: ΔΙΑΤΑΞΗ LAYOUT
+Line 393: MODEL
+Line 394: ΦΥΛΛΟ SHEET
+Line 395: Project
+Line 396: Originator
+Line 397: Type
+Line 398: Discipline
+Line 399: Stage
+Line 400: Serial Number
+Line 401: Revision
+Line 402: Architectural, Detail Development Permit Design
+Line 403: Αρχιτεκτονικός Τομέας Οριστική Μελέτη
+Line 404: COVE VILLA
+Line 405: A
+Line 406: Checker
+Line 407: COVE VILLA
+Line 408: BASEMENT REFLECTED CEILING PLAN LIGHTING
+Line 409: Approver
+Line 410: 4062
+Line 411: ATA
+Line 412: 124
+Line 413: DWG
+Line 414: 00941
+Line 415: DD
+Line 416: ΑΝΟΨΗ ΥΠΟΓΕΙΟΥ ΦΩΤΙΣΜΟΣ
+Line 417: A
+Line 418: Checker
+Line 419: Approver
+Line 420: 2022
+
+=== END OF FILTERED TEXT ===
+Total lines: 421

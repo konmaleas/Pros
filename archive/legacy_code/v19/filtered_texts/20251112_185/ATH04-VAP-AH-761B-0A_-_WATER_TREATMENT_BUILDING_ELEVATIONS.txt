@@ -1,0 +1,198 @@
+=== FILTERED TEXT FOR: ATH04-VAP-AH-761B-0A_-_WATER_TREATMENT_BUILDING_ELEVATIONS.pdf ===
+
+Line   0: ELEV
+Line   1: ELEV
+Line   2: ELEV
+Line   3: ELEV
+Line   4: FFL
+Line   5: Roof Ridge Level
+Line   6: Parapet Level
+Line   7: Roof Eaves Level
+Line   8: 30150
+Line   9: 6583
+Line  10: 1200
+Line  11: 1200
+Line  12: 1200
+Line  13: 1200
+Line  14: 1200
+Line  15: 6583
+Line  16: 30150
+Line  17: EWC
+Line  18: RFS
+Line  19: 6583
+Line  20: 13570
+Line  21: 16580
+Line  22: Polyester
+Line  23: LOUVRE
+Line  24: WT 08
+Line  25: PANEL JOINT
+Line  26: FFL
+Line  27: Roof Ridge Level
+Line  28: Parapet Level
+Line  29: Roof Eaves Level
+Line  30: 30150
+Line  31: 1200
+Line  32: 1200
+Line  33: 1200
+Line  34: 1200
+Line  35: 1200
+Line  36: EWC
+Line  37: 14320
+Line  38: 15830
+Line  39: RFS
+Line  40: WT 07
+Line  41: WT 06
+Line  42: Tank Level
+Line  43: RWS
+Line  44: RWS
+Line  45: Polyester
+Line  46: PANEL JOINT
+Line  47: A
+Line  48: 4154
+Line  49: 2429
+Line  50: 5250
+Line  51: 5250
+Line  52: 11250
+Line  53: 1200
+Line  54: 1200
+Line  55: 1200
+Line  56: 1200
+Line  57: 1200
+Line  58: WT 05
+Line  59: WT 04
+Line  60: DRS
+Line  61: DRS
+Line  62: 6583
+Line  63: EWC
+Line  64: EWC
+Line  65: 4183
+Line  66: WT 03
+Line  67: DRS
+Line  68: 3111
+Line  69: 1177
+Line  70: 2392
+Line  71: 1177
+Line  72: 701
+Line  73: 1177
+Line  74: 1516
+Line  75: 3623
+Line  76: 7627
+Line  77: RWS
+Line  78: Polyester
+Line  79: LOUVRE
+Line  80: LOUVRE
+Line  81: PANEL JOINT
+Line  82: A
+Line  83: 11250
+Line  84: 4183
+Line  85: 2400
+Line  86: 6583
+Line  87: 6583
+Line  88: 5250
+Line  89: 5250
+Line  90: 1200
+Line  91: 1200
+Line  92: 1200
+Line  93: 1200
+Line  94: 1200
+Line  95: 6506
+Line  96: 1177
+Line  97: 3567
+Line  98: 4154
+Line  99: 2429
+Line 100: DRS
+Line 101: WT 01
+Line 102: EWC
+Line 103: RFS
+Line 104: 5471
+Line 105: 5779
+Line 106: WT 02
+Line 107: RWS
+Line 108: Polyester
+Line 109: LOUVRE
+Line 110: PANEL JOINT
+Line 111: Sheet Title Number
+Line 112: Scale
+Line 113: Plan
+Line 114: Design Consultants
+Line 115: Microsoft
+Line 116: DATA CENTER ATH04
+Line 117: SPATA GREECE
+Line 118: Contractor Joint Venture
+Line 119: Name
+Line 120: Contractor Project
+Line 121: Contractor Contract
+Line 122: Contractor PM
+Line 123: Contractor BIM Mngr
+Line 124: Contractor Information
+Line 125: Renco Terna
+Line 126: Client
+Line 127: General Notes
+Line 128: Client Project
+Line 129: Client Contract
+Line 130: Client PM
+Line 131: Client BIM Mngr
+Line 132: Primary Client Information
+Line 133: Layout
+Line 134: Revision
+Line 135: Tombazi Chalandri
+Line 136: 15232
+Line 137: Athens Greece
+Line 138: 0800 3262
+Line 139: Agion Theodoron Square Athens
+Line 140: 10561
+Line 141: Athens Greece
+Line 142: Kimithois Agios Dimitrios
+Line 143: 17236
+Line 144: Athens Greece
+Line 145: Purpose Issue
+Line 146: Issue
+Line 147: Name
+Line 148: WATER TREATMENT BUILDING
+Line 149: ELEVATIONS
+Line 150: ATH04 VAP AH
+Line 151: SCALE
+Line 152: NORTH ELEVATION
+Line 153: SCALE
+Line 154: SOUTH ELEVATION
+Line 155: 1250
+Line 156: 2500
+Line 157: SCALE
+Line 158: SCALE
+Line 159: EAST ELEVATION
+Line 160: SCALE
+Line 161: WEST ELEVATION
+Line 162: Water Treatment Building Keynote Sheet
+Line 163: Value
+Line 164: Descrìption
+Line 165: AM 471
+Line 166: External Proprietary Flat Fixed
+Line 167: Fixed Mild
+Line 168: DRS
+Line 169: External High
+Line 170: Design Drawings Door Schedule. Core Construction
+Line 171: Steel Employer. Ironmongery
+Line 172: Door Schedule Hardware Schedule.
+Line 173: EWC
+Line 174: Composite Composite
+Line 175: Design Drawings,
+Line 176: Panel External Employer.
+Line 177: IWS
+Line 178: Internal Internal
+Line 179: Steel Employer.
+Line 180: RFS
+Line 181: Exhaust Pressed Design Drawings.
+Line 182: RWS
+Line 183: Aluminum Heavy Design Drawings
+Line 184: ADMIN
+Line 185: COLO
+Line 186: COLO
+Line 187: TRUE NORTH
+Line 188: Date
+Line 189: Description
+Line 190: 06
+Line 191: Issued Approval
+Line 192: VAP
+
+=== END OF FILTERED TEXT ===
+Total lines: 193

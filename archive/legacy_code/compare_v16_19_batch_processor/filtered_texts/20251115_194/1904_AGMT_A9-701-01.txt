@@ -1,0 +1,191 @@
+=== FILTERED TEXT FOR: 1904_AGMT_A9-701-01.pdf ===
+
+Line   0: 701
+Line   1: 701
+Line   2: 701
+Line   3: 701
+Line   4: 4
+Line   5: 4
+Line   6: 701
+Line   7: 701
+Line   8: 701
+Line   9: 701
+Line  10: 2
+Line  11: 701
+Line  12: 2
+Line  13: 701
+Line  14: ΠΙΣΙΝΑ
+Line  15: ΥΔΡΟΣΤΑΣΙΟ
+Line  16: ΔΕΞΑΜΕΝΗ ΥΠΕΡΧΕΙΛΙΣΗΣ
+Line  17: ΧΩΡΟΣ BBQ
+Line  18: 2
+Line  19: 2
+Line  20: 2
+Line  21: 2
+Line  22: 2
+Line  23: 2
+Line  24: 2
+Line  25: 2
+Line  26: 2
+Line  27: 2
+Line  28: 2
+Line  29: ΤΔ
+Line  30: ΣΠ
+Line  31: ΤΔ
+Line  32: ΣΠ
+Line  33: ΤΔ
+Line  34: ΣΠ
+Line  35: ΤΔ
+Line  36: ΣΠ
+Line  37: ΤΔ
+Line  38: ΣΠ
+Line  39: ΤΔ
+Line  40: ΣΠ
+Line  41: ΤΔ
+Line  42: ΣΠ
+Line  43: ΤΔ
+Line  44: ΣΠ
+Line  45: ΤΔ
+Line  46: ΣΠ
+Line  47: 2
+Line  48: 2
+Line  49: 2
+Line  50: ΤΔ
+Line  51: ΣΠ
+Line  52: ΧΩΡΟΣ BBQ
+Line  53: 2
+Line  54: 4
+Line  55: 4
+Line  56: 2
+Line  57: 2
+Line  58: ΠΙΣΙΝΑ
+Line  59: 702
+Line  60: ΠΙΣΙΝΑ
+Line  61: 4
+Line  62: 2
+Line  63: 702
+Line  64: ΧΩΡΟΣ BBQ
+Line  65: 4
+Line  66: 2
+Line  67: 2
+Line  68: 2
+Line  69: 2
+Line  70: ΧΩΡΟΣ BBQ
+Line  71: 4
+Line  72: 2
+Line  73: 2
+Line  74: ΠΙΣΙΝΑ
+Line  75: RESIDENCES ANTIPAROS
+Line  76: MARC THOMA
+Line  77: ΠΕΡΙΓΡΑΦΗ DESCRIPTION
+Line  78: ΗΜ ΝΙΑ DATE
+Line  79: ΚΛΙΜΑΚΑ
+Line  80: SCALE
+Line  81: ΣΧΕΔΙΟ
+Line  82: ΕΡΓΟ
+Line  83: ΕΡΓΟΔΟΤΗΣ
+Line  84: ΗΜΕΡΟΜΗΝΙΑ ΕΚΔΟΣΗΣ
+Line  85: FIRST ISSUE DATE
+Line  86: ΣΦΡΑΓΙΔΑ
+Line  87: DETAILED DESIGN
+Line  88: ΠΕΡΙΟΧΗ
+Line  89: ZONE
+Line  90: LANDSCAPE DESIGN
+Line  91: Kifissias Athens, 15454 Greece
+Line  92: MEP ENGINEER
+Line  93: PG KAMARINOS
+Line  94: STRUCTURAL ENGINEER
+Line  95: Epirou Αthens, Greece
+Line  96: 3262 3269
+Line  97: EXECUTIVE ARCHITECT
+Line  98: SITE SUPERVISOR
+Line  99: Kallidromiou 42 Athens, 11473 Greece
+Line 100: ARCHITECTURAL DESIGN
+Line 101: ISSUED
+Line 102: ΘΕΣΗ ΕΡΓΟΥ
+Line 103: CONSTRUCTION
+Line 104: APPROVAL
+Line 105: TENDER
+Line 106: STATUS
+Line 107: DRAFT
+Line 108: FINAL
+Line 109: STAMP
+Line 110: ΚΑΤ. ΜΕΛΕΤΗΣ
+Line 111: DISCIPLINE
+Line 112: ARC
+Line 113: ΑΝΑΘ.
+Line 114: REV.
+Line 115: ANTONAS OFFICE
+Line 116: ERISMA
+Line 117: Naxou Kifisia, Greece
+Line 118: 4217 6976
+Line 119: Apollonos Athens, 10557 Greece
+Line 120: 6770
+Line 121: DOXIADIS
+Line 122: ΚΗΠΟΤΕΧΝΙΚΗ ΜΕΛΕΤΗ
+Line 123: ΜΗΧΑΝΟΛΟΓΙΚΗ ΜΕΛΕΤΗ
+Line 124: ΕΚΤΕΛΕΣΗ ΑΡΧΙΤΕΚΤΟΝΙΚΗΣ MEΛΕΤΗΣ
+Line 125: ΕΠΙΒΛΕΨΗ
+Line 126: ΣΤΑΤΙΚΗ ΜΕΛΕΤΗ
+Line 127: ΑΡΧΙΤΕΚΤΟΝΑΣ ΕΡΓΟΥ
+Line 128: VAP
+Line 129: PROJECT
+Line 130: LOCATION
+Line 131: CLIENT
+Line 132: DRAWING
+Line 133: PH
+Line 134: POOL
+Line 135: ΚΩΔΙΚΟΣ ΧΩΡΟΥ ROOM NUMBER
+Line 136: ΕΠΙΦΑΝΕΙΑ ΧΩΡΟΥ ROOM AREA
+Line 137: ΣΤΑΘΜΗ ΤΕΛΙΚΟΥ ΔΑΠΕΔΟΥ
+Line 138: FINISH FLOOR ELEVATION
+Line 139: ΤΥΠΟΣ ΔΑΠΕΔΟΥ FLOOR TYPE
+Line 140: ƵƦ
+Line 141: STRUCTURAL SLAB ELEVATION
+Line 142: ΣΤΑΘΜΗ ΠΛΑΚΑΣ ΜΠΕΤΟN
+Line 143: 1127
+Line 144: ΤΥΠΟΣ ΠΑΡΑΘΥΡΟΥ WINDOW TYPE
+Line 145: ΑΝΟΙΓΜΑ ΠΑΡΑΘΥΡΟΥ WINDOW WIDTH
+Line 146: ΠΟΔΙΑ ΠΑΡΑΘΥΡΟΥ WINDOW SILL
+Line 147: ΠΡΕΚΙ ΠΑΡΑΘΥΡΟΥ WINDOW HEAD
+Line 148: ΚΩΔΙΚΟΣ ΠΑΡΑΘΥΡΟΥ WINDOW NUMBER
+Line 149: ΣΥΜΒΟΛΑ ΛΕΠΤΟΜΕΡΕΙΩΝ ΣΧΕΔΙΟΥ
+Line 150: ΤΥΠΟΣ ΘΥΡΑΣ DOOR TYPE
+Line 151: ΑΝΟΙΓΜΑ ΘΥΡΑΣ DOOR HEAD
+Line 152: ΠΡΕΚΙ ΘΥΡΑΣ DOOR HEAD
+Line 153: ΚΩΔΙΚΟΣ ΘΥΡΑΣ DOOR NUMBER
+Line 154: ΣΥΜΒΟΛΟ ΤΟΜΗΣ ΣΧΕΔΙΟΥ
+Line 155: SECTION INDICATION
+Line 156: 2
+Line 157: 9312
+Line 158: ΚΑΘΑΡΟ ΥΨΟΣ ΧΩΡΟΥ CEILING HEIGHT
+Line 159: ΤΕΛΕΙΩΜΑ ΟΡΟΦΗΣ CEILING FINISH
+Line 160: ΤΕΛΕΙΩΜΑ ΤΟΙΧΟΥ WALL FINISH
+Line 161: Room
+Line 162: ROOM NAME
+Line 163: DETAIL INDICATION
+Line 164: KΑΘΑΡΟ YΨΟΣ ΧΩΡΟΥ ROOM ΝΕΤ ΗΕIGHT
+Line 165: 701 01
+Line 166: 02 2020
+Line 167: 4
+Line 168: POOL BBQ
+Line 169: AREA
+Line 170: PLAN SECTIONS
+Line 171: SECTION
+Line 172: 2
+Line 173: SECTION
+Line 174: SECTION
+Line 175: 4
+Line 176: SECTION
+Line 177: POOL BBQ PLAN
+Line 178: SECTION
+Line 179: ΑΔΡΟ ΜΩΣΑΪΚΟ
+Line 180: 2. ΠΑΤΗΤΗ ΤΣΙΜΕΝΤΟΚΟΝΙΑ
+Line 181: ΠΑΤΗΜΕΝΟ ΧΩΜΑ
+Line 182: 4. METAΛΛΙΚΟ ΣΤΕΓΑΣΤΡΟ ΕΚΚΡΕΜΕΙ ΟΡΙΣΤΙΚΟΠΟΙΗΣΗ
+Line 183: ΤΥΠΟΥ
+Line 184: ΠΑΚΑΚΙ ΨΗΦΙΔΑ ΓΙΑ ΤΗΝ ΕΠΕΝΔΥΣΗ ΤΗΣ ΠΙΣΙΝΑΣ
+Line 185: ΕΠΕΝΔΥΣΗ ΚΑΠΑΚΙ ΜΑΡΜΑΡΟΥ
+
+=== END OF FILTERED TEXT ===
+Total lines: 186
