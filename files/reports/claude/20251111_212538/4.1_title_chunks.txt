@@ -1,4 +1,0 @@
-21:25:38.550857 | /home/konstantinos/PycharmProjects/Pros/claude/v16_workable/main_title_search.py:27 in debug_file()
-                  ict(): None
-                  args: (['NCM', 'DD', 'B1', 'DR', 'ARC', '4408', 'P1'],)
-                  'w': 'w'

@@ -1,7 +1,0 @@
-=== FILTERED TEXT FOR: HYT-VAP-ARC-PD-DP-A104-STEGH.pdf ===
-
-Line   0: 2
-Line   1: 4
-
-=== END OF FILTERED TEXT ===
-Total lines: 2

@@ -21,7 +21,13 @@ venv/
 data/raw/*.pdf
 data/processed/
 output/
+archive/
+claude/
+files/
+notes/debug_sessions/
+pros_directory_tree.txt
 *.tar.gz
+*.zip
 
 # OS
 .DS_Store

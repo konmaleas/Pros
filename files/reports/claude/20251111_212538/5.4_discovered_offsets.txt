@@ -1,8 +1,0 @@
-21:26:12.623839 | /home/konstantinos/PycharmProjects/Pros/claude/v16_workable/main_title_search.py:27 in debug_file()
-                  ict(): None
-                  args: ({('1', '20'): {'4408': [-2], 'B1': [1, 2], 'P1': [-4]},
-                          ('GEORGHIOU', 'ZEMBYLAS', 'PARTNERS'): {'DD': [-14]},
-                          ('S3',): {'ARC': [-1], 'DD': [1], 'DR': [-1], 'NCM': [1]},
-                          ('ΗΜΕΡΟΜΗΝΙΑ',): {'ARC': [14, 13], 'DR': [14, 29]},
-                          ('ΣΤΕΡΓΙΟΣ', 'ΓΑΛΙΚΑΣ'): {'P1': [14, 16]}},)
-                  'w': 'w'
